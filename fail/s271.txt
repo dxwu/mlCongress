@@ -1,0 +1,68 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 271 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                 S. 271
+
+    To require the Secretary of Commerce to ensure that at least an 
+equivalent level of service will be supplied to the public and affected 
+    agencies before closing National Weather Service field stations.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 5, 1997
+
+   Ms. Snowe introduced the following bill; which was read twice and 
+   referred to the Committee on Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To require the Secretary of Commerce to ensure that at least an 
+equivalent level of service will be supplied to the public and affected 
+    agencies before closing National Weather Service field stations.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+    That section 706(e) of the Weather Service Modernization Act (15 
+U.S.C. 313 note) is amended--
+            (1) by striking ``or'' at the end of paragraph (1);
+            (2) by striking the period at the end of paragraph (2) and 
+        inserting ``; or''; and
+            (3) by adding at the end thereof the following:
+            ``(3) which is located in, or serves, an area identified as 
+        an area of geographic concern in chapter 4 of the report 
+        entitled `Assessment of NEXRAD Coverage and Associated Weather 
+        Services' published in June, 1995, by the National Research 
+        Council, unless, prior to closing or relocating the field 
+        office, the Secretary--
+                    ``(A) evaluates, as part of the certification 
+                process, the effect of that closing or relocation on 
+                all weather information and services provided to users 
+                served by that field office (including State agencies, 
+                civil defense officials, local public safety officials, 
+                farmers, and other local citizens serviced by that 
+                field office); and
+                    ``(B) includes in a certification made by the 
+                Secretary under subsection (b) a determination that, 
+                after the closing or relocation, at least an equivalent 
+                level of weather services provided to the users 
+                referred to in subparagraph (A) before the closing or 
+                relocation will be provided to those users.''.
+                                 <all>

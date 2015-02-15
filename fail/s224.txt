@@ -1,0 +1,177 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 224 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                 S. 224
+
+To amend title 10, United States Code, to permit covered beneficiaries 
+under the military health care system who are also entitled to medicare 
+  to enroll in the Federal Employees Health Benefits program; and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 28, 1997
+
+  Mr. Warner introduced the following bill; which was read twice and 
+              referred to the Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend title 10, United States Code, to permit covered beneficiaries 
+under the military health care system who are also entitled to medicare 
+  to enroll in the Federal Employees Health Benefits program; and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. INCLUSION OF MEDICARE ELIGIBLE COVERED BENEFICIARIES IN 
+              FEDERAL EMPLOYEES HEALTH BENEFITS PROGRAM.
+
+    (a) FEHBP Option.--(1) Chapter 55 of title 10, United States Code, 
+is amended by inserting after section 1079a the following new section:
+``Sec. 1079b. Health care coverage through Federal Employees Health 
+              Benefits program
+    ``(a) FEHBP Option.--(1) The Secretary of Defense (after consulting 
+with the other administering Secretaries) and the Director of the 
+Office of Personnel Management shall enter into an agreement to offer 
+eligible covered beneficiaries an opportunity to enroll in a health 
+benefits plan offered through the Federal Employee Health Benefits 
+program under chapter 89 of title 5. The agreement may provide for 
+limitations on enrollment of covered beneficiaries in the Federal 
+Employee Health Benefits program if the Director determines that the 
+limitations are necessary to allow for adequate planning for access for 
+services under Federal Employee Health Benefits program.
+    ``(2) A person covered by an enrollment in a health benefits plan 
+under paragraph (1) is not eligible to receive care under this chapter 
+in facilities of the uniformed services or through the Civilian Health 
+and Medical Program of the Uniformed Services or the TRICARE program.
+    ``(b) Eligible Covered Beneficiaries.--A covered beneficiary 
+referred to in subsection (a) is a member or former member of the 
+uniformed services described in section 1074(b) of this title, or any 
+dependent of the member described in section 1076(b) of this title, who 
+is or becomes entitled to hospital insurance benefits under part A of 
+title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.). The 
+covered beneficiary shall not be required to satisfy any eligibility 
+criteria specified in chapter 89 of title 5 as a condition for 
+enrollment in a health benefits plan offered through the Federal 
+Employee Health Benefits program pursuant to subsection (a).
+    ``(c) Contributions.--(1) In the case of covered beneficiaries 
+described in subsection (b) who enroll in a health benefits plan 
+offered through the Federal Employee Health Benefits program pursuant 
+to subsection (a), the administering Secretary concerned shall be 
+responsible for Government contributions that the Office of Personnel 
+Management determines are necessary to cover all costs in excess of 
+beneficiary contributions under paragraph (2).
+    ``(2) The contribution required from an enrolled covered 
+beneficiary shall be equal to the amount that would be withheld from 
+the pay of a similarly situated Federal employee who enrolls in a 
+health benefits plan under chapter 89 of title 5.
+    ``(d) Management of Participation.--The authority responsible for 
+approving retired or retainer pay or equivalent pay in the case of a 
+member or former member shall manage the participation of the member or 
+former member, and dependents of the member or former member, who 
+enroll in a health benefits plan offered through the Federal Employee 
+Health Benefits program pursuant to subsection (a). The Office of 
+Personnel Management shall maintain separate risk pools for enrolled 
+covered beneficiaries until such time as the Director of the Office of 
+Personnel Management determines that complete inclusion of enrolled 
+covered beneficiaries under chapter 89 of title 5 would not adversely 
+affect Federal employees and annuitants enrolled in health benefits 
+plans under such chapter.
+    ``(e) Effect of Cancellation.--The cancellation by a covered 
+beneficiary of coverage under the Federal Employee Health Benefits 
+program shall be irrevocable for purposes of this section.
+    ``(f) Reporting Requirements.--Not later than November 1 of each 
+year, the Secretary of Defense and the Director of the Office of 
+Personnel Management shall jointly submit a report to Congress 
+describing the provision of health care services to covered 
+beneficiaries under this section during the preceding fiscal year. The 
+report shall address or contain the following:
+            ``(1) The number of covered beneficiaries enrolled in 
+        health benefits plans offered through the Federal Employee 
+        Health Benefits program pursuant to subsection (a), both in 
+        terms of total number and as a percentage of all covered 
+        beneficiaries receiving health care through the health care 
+        system of the uniformed services.
+            ``(2) The out-of-pocket cost to enrollees under such health 
+        benefits plans.
+            ``(3) The cost to the Government (including the Department 
+        of Defense, the Department of Transportation, and the 
+        Department of Health and Human Services) of providing care 
+        under such health benefits plans.
+            ``(4) A comparison of the costs determined under paragraphs 
+        (2) and (3) and the costs that would have otherwise been 
+        incurred by the Government and enrollees under alternative 
+        health care options available to the administering Secretaries.
+            ``(5) The effect of this section on the cost, access, and 
+        utilization rates of other health care options under the health 
+        care system of the uniformed services.''.
+    (2) The table of sections at the beginning of such chapter is 
+amended by inserting after the item relating to section 1079a the 
+following new item:
+
+``1079b. Health care coverage through Federal Employees Health Benefits 
+                            program.''.
+    (b) Conforming Amendments.--(1) Section 1072 of title 10, United 
+States Code, is amended by adding at the end the following:
+            ``(7) The term `TRICARE program' means the managed health 
+        care program that is established by the Secretary of Defense 
+        under the authority of this chapter, principally section 1097 
+        of this title, and includes the competitive selection of 
+        contractors to financially underwrite the delivery of health 
+        care services under the Civilian Health and Medical Program of 
+        the Uniformed Services.''.
+    (2) Section 8905 of title 5, United States Code, is amended--
+            (A) by redesignating subsections (d), (e), and (f) as 
+        subsections (e), (f), and (g), respectively; and
+            (B) by inserting after subsection (c) the following new 
+        subsection (d):
+    ``(d) An individual whom the Secretary of Defense determines is an 
+eligible covered beneficiary under subsection (b) of section 1079b of 
+title 10 may enroll in a health benefits plan under this chapter in 
+accordance with the agreement entered into under subsection (a) of such 
+section between the Secretary and the Office and with applicable 
+regulations under this chapter.''.
+    (3) Section 8906 of title 5, United States Code, is amended--
+            (A) in subsection (b)--
+                    (i) in paragraph (1), by striking ``paragraphs (2) 
+                and (3)'' and inserting in lieu thereof ``paragraphs 
+                (2), (3), and (4)''; and
+                    (ii) by adding at the end the following new 
+                paragraph:
+    ``(4) In the case of individuals who enroll in a health plan under 
+section 8905(d) of this title, the Government contribution shall be 
+determined under section 1079b(c) of title 10.''; and
+            (B) in subsection (g)--
+                    (i) in paragraph (1), by striking ``paragraph (2)'' 
+                and inserting in lieu thereof ``paragraphs (2) and 
+                (3)''; and
+                    (ii) by adding at the end the following new 
+                paragraph:
+    ``(3) The Government contribution described in subsection (b)(4) 
+for beneficiaries who enroll under section 8905(d) of this title shall 
+be paid as provided in section 1079b(c) of title 10.''.
+    (c) Implementation.--The Secretary of Defense shall offer the 
+health benefits option under section 1079b(a) of title 10, United 
+States Code (as added by subsection (a)), beginning not later than 
+January 1, 1998.
+                                 <all>

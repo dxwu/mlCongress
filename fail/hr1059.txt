@@ -1,0 +1,120 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1059 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1059
+
+ To amend the Fair Debt Collection Practices Act to reduce the cost of 
+                    credit, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 13, 1997
+
+  Mr. Bachus introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Fair Debt Collection Practices Act to reduce the cost of 
+                    credit, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Credit Cost Reduction Act of 1997''.
+
+SEC. 2. EXEMPTION FOR COMMUNICATIONS INVOLVING LEGAL PROCEEDINGS.
+
+    Section 803(2) of the Fair Debt Collection Practices Act (15 U.S.C. 
+1692a(2)) is amended by adding at the end the following new sentence: 
+``Such term does not include actions taken pursuant to the Federal 
+Rules of Civil Procedure; in the case of a proceeding in a State court, 
+the rules of civil procedure available under the laws of such State; or 
+a nonjudicial foreclosure.''.
+
+SEC. 3. COLLECTION ACTIVITY FOLLOWING INITIAL NOTICE.
+
+    Section 809 of the Fair Debt Collection Practices Act (15 U.S.C. 
+1692(g)) is amended by adding at the end the following new subsection:
+    ``(d) Continuation During Period.--Collection activities and 
+communications may continue during the 30-day period described in 
+subsection (a) unless the consumer requests the cessation of such 
+activities.''.
+
+SEC. 4. LIABILITY FOR NONCOMPLIANCE.
+
+    (a) Clarification of Limitation on Class Action Awards.--Section 
+813(a)(2)(B) (15 U.S.C. 1692k(a)(2)(B)) is amended--
+            (1) by inserting ``or any series of class actions arising 
+        out of the same violations by the same debt collector'' after 
+        ``case of a class action''; and
+            (2) by inserting ``of such class action or series of class 
+        actions'' after ``all other class members''.
+    (b) Attorneys Fees To Enforce Civil Liability.--Paragraph (3) of 
+section 813(a) of the Fair Debt Collection Practices Act (15 U.S.C. 
+1692k(a)) is amended to read as follows:
+            ``(3) subject to subsection (f), in the case of a 
+        successful action to enforce a liability under paragraph (1) or 
+        (2), the costs of the action, including reasonable attorney's 
+        fees, as determined by the court, in an amount not to exceed 
+        the amount awarded in such action under the applicable 
+        paragraph.''.
+    (c) Rules Applicable to Certain Actions.--Section 813 of the Fair 
+Debt Collection Practices Act (15 U.S.C. 1692k) is amended by adding at 
+the end the following new subsection:
+    ``(f) Rules Applicable to Actions Under This Title.--
+Notwithstanding any other provision of law, in any action arising under 
+this title, for purposes of Rule 68 of the Federal Rules of Civil 
+Procedure, the following provisions shall apply:
+            ``(1) Plaintiff's attorney's fees.--Costs shall include 
+        reasonable fees for the plaintiff's attorney.
+            ``(2) Disallowance of certain fees accruing after refusal 
+        of settlement offer.--In accordance with Rule 68 of the Federal 
+        Rules of Civil Procedure, if--
+                    ``(A) an offer is made by the debt collector to a 
+                consumer bringing an action (including any class action 
+                or series of class actions referred to in subsection 
+                (a)(2)(B)) under this title, and the offer is not 
+                accepted; and
+                    ``(B) the amount of the final judgment awarded to 
+                the consumer (or, in the case of a class action or 
+                series of class actions, the total amount awarded to 
+                all class members in such class action or series of 
+                class actions) is less than or equal to the amount of 
+                the offer referred to in subparagraph (A),
+        the consumer (or the class with regard to a class action or 
+        series of class actions) may not be awarded or otherwise 
+        recover costs for attorney's fees incurred after the date such 
+        offer is rejected.''.
+    (d) Factors for Consideration.--Section 813(b) of the Fair Debt 
+Collection Practices Act (15 U.S.C. 1692k(b)) is amended--
+            (1) in the portion of such subsection which precedes 
+        paragraph (1), by striking ``liability in any action'' and 
+        inserting ``any award''; and
+            (2) by striking paragraph (1) and inserting the following 
+        new paragraph:
+    ``(1) In any action under subsection (a)(2)(A), the frequency and 
+persistence of noncompliance by the debt collector, the nature of such 
+noncompliance, the extent to which the such noncompliance was 
+intentional, and the amount of actual damages awarded; or''.
+                                 <all>

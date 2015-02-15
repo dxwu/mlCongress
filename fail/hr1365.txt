@@ -1,0 +1,194 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1365 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1365
+
+ To amend section 355 of the Internal Revenue Code of 1986 to prevent 
+the avoidance of corporate tax on prearranged sales of corporate stock, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 17, 1997
+
+  Mr. Archer introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend section 355 of the Internal Revenue Code of 1986 to prevent 
+the avoidance of corporate tax on prearranged sales of corporate stock, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. APPLICATION OF SECTION 355 TO DISTRIBUTIONS FOLLOWED BY 
+              ACQUISITIONS AND TO INTRAGROUP TRANSACTIONS.
+
+    (a) Distributions Followed by Acquisitions.--Section 355 of the 
+Internal Revenue Code of 1986 (relating to distribution of stock and 
+securities of a controlled corporation) is amended by adding at the end 
+the following new subsection:
+    ``(e) Recognition of Gain Where Certain Distributions of Stock or 
+Securities Are Followed by Acquisition.--
+            ``(1) General rule.--If there is a distribution to which 
+        this subsection applies, the following rules shall apply:
+                    ``(A) Acquisition of controlled corporation.--If 
+                there is an acquisition described in paragraph 
+                (2)(A)(ii) with respect to any controlled corporation 
+                (or any successor thereof), any stock or securities in 
+                the controlled corporation shall not be treated as 
+                qualified property for purposes of subsection (c)(2) of 
+                this section or section 361(c)(2).
+                    ``(B) Acquisition of distributing corporation.--If 
+                there is an acquisition described in paragraph 
+                (2)(A)(ii) with respect to the distributing corporation 
+                (or any successor thereof), the controlled corporation 
+                shall recognize gain in an amount equal to the amount 
+                of net gain which would be recognized if all the assets 
+                of the distributing corporation (immediately after the 
+                distribution) were sold (at such time) for fair market 
+                value. Any gain recognized under the preceding sentence 
+                shall be treated as long-term capital gain and shall be 
+                taken into account for the taxable year which includes 
+                the day after the date of such distribution.
+            ``(2) Distributions to which subsection applies.--
+                    ``(A) In general.--This subsection shall apply to 
+                any distribution--
+                            ``(i) to which this section (or so much of 
+                        section 356 as relates to this section) 
+                        applies, and
+                            ``(ii) which is part of a plan (or series 
+                        of related transactions) pursuant to which a 
+                        person acquires stock representing a 50-percent 
+                        or greater interest in the distributing 
+                        corporation or any controlled corporation (or 
+                        any successor of either).
+                    ``(B) Plan presumed to exist in certain cases.--If 
+                a person acquires stock representing a 50-percent or 
+                greater interest in the distributing corporation or any 
+                controlled corporation (or any successor of either) 
+                during the 4-year period beginning on the date which is 
+                2 years before the date of the distribution, such 
+                acquisition shall be treated as pursuant to a plan 
+                described in subparagraph (A)(ii) unless it is 
+                established that the distribution and the acquisition 
+                are not pursuant to a plan or series of related 
+                transactions.
+                    ``(C) Certain acquisitions not taken into 
+                account.--If--
+                            ``(i) a person acquires stock in any 
+                        controlled corporation by reason of holding 
+                        stock in the distributing corporation, and
+                            ``(ii) such person did not acquire the 
+                        stock in the distributing corporation pursuant 
+                        to a plan described in subparagraph (A)(ii),
+                the acquisition described in clause (i) shall not be 
+                taken into account for purposes of subparagraph (A)(ii) 
+                or (B).
+                    ``(D) Coordination with subsection (d).--This 
+                subsection shall not apply to any distribution to which 
+                subsection (d) applies.
+            ``(3) Definition and special rules.--For purposes of this 
+        subsection--
+                    ``(A) 50-percent or greater interest.--The term 
+                `50-percent or greater interest' has the meaning given 
+such term by subsection (d)(4).
+                    ``(B) Distributions in title 11 or similar case.--
+                Paragraph (1) shall not apply to any distribution made 
+                in a title 11 or similar case (as defined in section 
+                368(a)(3)).
+                    ``(C) Aggregation and attribution rules.--
+                            ``(i) Aggregation.--The rules of paragraph 
+                        (7) of subsection (d) shall apply.
+                            ``(ii) Attribution.--Section 318(a)(2) 
+                        shall apply in determining whether a person 
+                        holds stock or securities in any corporation. 
+                        Except as provided in regulations, section 
+                        318(a)(2)(C) shall be applied without regard to 
+                        the phrase `50 percent or more in value' for 
+                        purposes of the preceding sentence.
+                    ``(D) Statute of limitations.--If there is an 
+                acquisition to which paragraph (1) (A) or (B) applies--
+                            ``(i) the statutory period for the 
+                        assessment of any deficiency attributable to 
+                        any part of the gain recognized under this 
+                        subsection by reason of such acquisition shall 
+                        not expire before the expiration of 3 years 
+                        from the date the Secretary is notified by the 
+                        taxpayer (in such manner as the Secretary may 
+                        by regulations prescribe) that such acquisition 
+                        occurred, and
+                            ``(ii) such deficiency may be assessed 
+                        before the expiration of such 3-year period 
+                        notwithstanding the provisions of any other law 
+                        or rule of law which would otherwise prevent 
+                        such assessment.
+            ``(4) Regulations.--The Secretary shall prescribe such 
+        regulations as may be necessary to carry out the purposes of 
+        this subsection, including regulations--
+                    ``(A) providing for the application of this 
+                subsection where there is more than 1 controlled 
+                corporation,
+                    ``(B) treating 2 or more distributions as 1 
+                distribution where necessary to prevent the avoidance 
+                of such purposes, and
+                    ``(C) providing for the application of rules 
+                similar to the rules of subsection (d)(6) where 
+                appropriate for purposes of paragraph (2)(B).''
+    (b) Section 355 Not To Apply to Certain Intragroup Transactions.--
+Section 355 of the Internal Revenue Code of 1986, as amended by 
+subsection (a), is amended by adding at the end the following new 
+subsection:
+    ``(f) Section Not To Apply to Certain Intragroup Transactions.--
+Except as provided in regulations, this section shall not apply to the 
+distribution of stock from 1 member of an affiliated group filing a 
+consolidated return to another member of such group, and the Secretary 
+shall provide proper adjustments for the treatment of such 
+distribution, including (if necessary) adjustments to--
+            ``(1) the adjusted basis of any stock which--
+                    ``(A) is in a corporation which is a member of such 
+                group, and
+                    ``(B) is held by another member of such group, and
+            ``(2) the earnings and profits of any member of such 
+        group.''
+    (c) Effective Date.--
+            (1) In general.--The amendments made by this section shall 
+        apply to distributions after April 16, 1997.
+            (2) Transition rule for distributions followed by 
+        acquisitions.--The amendments made by subsection (a) shall not 
+        apply to any distribution after April 16, 1997, if such 
+        distribution is--
+                    (A) made pursuant to a written agreement which was 
+                (subject to customary conditions) binding on such date 
+                and at all times thereafter,
+                    (B) described in a ruling request submitted to the 
+                Internal Revenue Service on or before such date, or
+                    (C) described on or before such date in a public 
+                announcement or in a filing with the Securities and 
+                Exchange Commission required solely by reason of the 
+                distribution.
+        This paragraph shall not apply to any written agreement, ruling 
+        request, or public announcement or filing unless it identifies 
+        the acquirer of the distributing corporation or any controlled 
+        corporation, whichever is applicable.
+                                 <all>

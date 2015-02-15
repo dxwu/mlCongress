@@ -1,0 +1,2042 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 2058 Referred in House (RFH)]
+
+  2d Session
+                                S. 2058
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 21, 1998
+
+             Referred to the Committee on National Security
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To authorize appropriations for fiscal year 1999 for defense activities 
+          of the Department of Energy, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Department of Energy National 
+Security Act for Fiscal Year 1999''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Congressional defense committees defined.
+      TITLE XXXI--DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+
+         Subtitle A--National Security Programs Authorizations
+
+Sec. 3101. Weapons activities.
+Sec. 3102. Environmental restoration and waste management.
+Sec. 3103. Other defense activities.
+Sec. 3104. Defense nuclear waste disposal.
+Sec. 3105. Defense environmental management privatization.
+                Subtitle B--Recurring General Provisions
+
+Sec. 3121. Reprogramming.
+Sec. 3122. Limits on general plant projects.
+Sec. 3123. Limits on construction projects.
+Sec. 3124. Fund transfer authority.
+Sec. 3125. Authority for conceptual and construction design.
+Sec. 3126. Authority for emergency planning, design, and construction 
+                            activities.
+Sec. 3127. Funds available for all national security programs of the 
+                            Department of Energy.
+Sec. 3128. Availability of funds.
+Sec. 3129. Transfers of defense environmental management funds.
+   Subtitle C--Program Authorizations, Restrictions, and Limitations
+
+Sec. 3131. International cooperative stockpile stewardship.
+Sec. 3132. Prohibition on use of funds for ballistic missile defense 
+                            and theater missile defense.
+Sec. 3133. Licensing of certain mixed oxide fuel fabrication and 
+                            irradiation facilities.
+Sec. 3134. Continuation of processing, treatment, and disposition of 
+                            legacy nuclear materials.
+Sec. 3135. Authority for Department of Energy federally funded research 
+                            and development centers to participate in 
+                            merit-based technology research and 
+                            development programs.
+Sec. 3136. Support for public education in the vicinity of Los Alamos 
+                            National Laboratory, New Mexico.
+Sec. 3137. Cost-sharing for operation of the Hazardous Materials 
+                            Management and Emergency Response training 
+                            facility, Richland, Washington.
+Sec. 3138. Hanford Health Information Network.
+Sec. 3139. Nonproliferation activities.
+Sec. 3140. Activities of the contractor-operated facilities of the 
+                            Department of Energy.
+Sec. 3140A. Relocation of National Atomic Museum, Albuquerque, New 
+                            Mexico.
+                       Subtitle D--Other Matters
+
+Sec. 3141. Repeal of fiscal year 1998 statement of policy on stockpile 
+                            stewardship program.
+Sec. 3142. Increase in maximum rate of pay for scientific, engineering, 
+                            and technical personnel responsible for 
+                            safety at defense nuclear facilities.
+Sec. 3143. Sense of Senate regarding treatment of Formerly Utilized 
+                            Sites Remedial Action Program under a 
+                            nondefense discretionary budget function.
+Sec. 3144. Extension of authority for appointment of certain 
+                            scientific, engineering, and technical 
+                            personnel.
+Sec. 3145. Extension of authority of Department of Energy to pay 
+                            voluntary separation incentive payments.
+Sec. 3146. Inspection of permanent records prior to declassification.
+Sec. 3147. Sense of Senate regarding memoranda of understanding with 
+                            the State of Oregon relating to Hanford.
+Sec. 3148. Review of calculation of overhead costs of cleanup at 
+                            Department of Energy sites.
+Sec. 3149. Sense of the Congress on funding requirements for the 
+                            nonproliferation science and technology 
+                            activities of the Department of Energy.
+Sec. 3150. Deadline for selection of technology for tritium production.
+Subtitle E--Maximum Age for New Department of Energy Nuclear Materials 
+                                Couriers
+
+Sec. 3161. Maximum age to enter nuclear courier force.
+Sec. 3162. Definition.
+Sec. 3163. Amending section 8334(a)(1) of title 5, U.S.C.
+Sec. 3164. Amending section 8336(c)(1) of title 5, U.S.C.
+Sec. 3165. Amending section 8401 of title 5, U.S.C.
+Sec. 3166. Amending section 8412(d) of title 5, U.S.C.
+Sec. 3167. Amending section 8415(g) of title 5, U.S.C.
+Sec. 3168. Amending section 8422(a)(3) of title 5, U.S.C.
+Sec. 3169. Amending sections 8423(a) (1)(B)(i) and (3)(A) of title 5, 
+                            U.S.C.
+Sec. 3170. Amending section 8335(b) of title 5, U.S.C.
+Sec. 3171. Payments.
+Sec. 3172. Effective date.
+          TITLE XXXII--DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+Sec. 3201. Authorization.
+                TITLE XXXIII--NATIONAL DEFENSE STOCKPILE
+
+Sec. 3301. Definitions.
+Sec. 3302. Authorized uses of stockpile funds.
+Sec. 3303. Authority to dispose of certain materials in National 
+                            Defense Stockpile.
+Sec. 3304. Use of stockpile funds for certain environmental 
+                            remediation, restoration, waste management, 
+                            and compliance activities.
+                 TITLE XXXIV--NAVAL PETROLEUM RESERVES
+
+Sec. 3401. Authorization of appropriations.
+                  TITLE XXXV--PANAMA CANAL COMMISSION
+
+Sec. 3501. Short title; references to Panama Canal Act of 1979.
+Sec. 3502. Authorization of expenditures.
+Sec. 3503. Purchase of vehicles.
+Sec. 3504. Expenditures only in accordance with treaties.
+Sec. 3505. Donations to the Commission.
+Sec. 3506. Agreements for United States to provide post-transfer 
+                            administrative services for certain 
+                            employee benefits.
+Sec. 3507. Sunset of United States overseas benefits just before 
+                            transfer.
+Sec. 3508. Central Examining Office.
+Sec. 3509. Liability for vessel accidents.
+Sec. 3510. Placement of United States citizens in positions with the 
+                            United States Government.
+Sec. 3511. Panama Canal Board of Contract Appeals.
+Sec. 3512. Technical amendments.
+Sec. 3513. Officer of the Department of Defense designated as a member 
+                            of the Panama Canal Commission Supervisory 
+                            Board.
+     TITLE XXXVI--COMMERCIAL ACTIVITIES OF PEOPLE'S LIBERATION ARMY
+
+Sec. 3601. Application of authorities under the International Emergency 
+                            Economic Powers Act to Chinese military 
+                            companies.
+Sec. 3602. Definition.
+                TITLE XXXVII--FORCED OR INDENTURED LABOR
+
+Sec. 3701. Findings.
+Sec. 3702. Authorization for additional Customs personnel to monitor 
+                            the importation of products made with 
+                            forced or indentured labor.
+Sec. 3703. Reporting requirement on forced labor or indentured labor 
+                            products destined for the United States 
+                            market.
+Sec. 3704. Renegotiating memoranda of understanding on forced labor.
+             TITLE XXXVIII--FAIR TRADE IN AUTOMOTIVE PARTS
+
+Sec. 3801. Short title.
+Sec. 3802. Definitions.
+Sec. 3803. Re-establishment of initiative on automotive parts sales to 
+                            Japan.
+Sec. 3804. Establishment of special advisory committee on automotive 
+                            parts sales in Japanese and other Asian 
+                            markets.
+Sec. 3805. Expiration date
+                     TITLE XXXIX --RADIO FREE ASIA
+
+Sec. 3901. Short title.
+Sec. 3902. Findings.
+Sec. 3903. Authorization of appropriations for increased funding for 
+                            Radio Free Asia and Voice of America 
+                            broadcasting to China.
+Sec. 3904. Reporting requirement.
+
+SEC. 3. CONGRESSIONAL DEFENSE COMMITTEES DEFINED.
+
+    For purposes of this Act, the term ``congressional defense 
+committees'' means--
+            (1) the Committee on Armed Services and the Committee on 
+        Appropriations of the Senate; and
+            (2) the Committee on National Security and the Committee on 
+        Appropriations of the House of Representatives.
+
+      TITLE XXXI--DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+
+         Subtitle A--National Security Programs Authorizations
+
+SEC. 3101. WEAPONS ACTIVITIES.
+
+    (a) In General.--Funds are hereby authorized to be appropriated to 
+the Department of Energy for fiscal year 1999 for weapons activities in 
+carrying out programs necessary for national security in the amount of 
+$4,519,700,000, to be allocated as follows:
+            (1) Stockpile stewardship.--Funds are hereby authorized to 
+        be appropriated to the Department of Energy for fiscal year 
+        1999 for stockpile stewardship in carrying out weapons 
+        activities necessary for national security programs in the 
+        amount of $2,123,375,000, to be allocated as follows:
+                    (A) For core stockpile stewardship, $1,556,375,000, 
+                to be allocated as follows:
+                            (i) For operation and maintenance, 
+                        $1,440,832,000.
+                            (ii) For plant projects (including 
+                        maintenance, restoration, planning, 
+                        construction, acquisition, modification of 
+                        facilities, and the continuation of projects 
+                        authorized in prior years, and land acquisition 
+                        related thereto), $115,543,000, to be allocated 
+                        as follows:
+                                    Project 99-D-102, rehabilitation of 
+                                maintenance facility, Lawrence 
+                                Livermore National Laboratory, 
+                                Livermore, California, $6,500,000.
+                                    Project 99-D-103, isotope sciences 
+                                facilities, Lawrence Livermore National 
+                                Laboratory, Livermore, California, 
+                                $4,000,000.
+                                    Project 99-D-104, protection of 
+                                real property (roof replacement-Phase 
+                                II), Lawrence Livermore National 
+                                Laboratory, Livermore, California, 
+                                $7,300,000.
+                                    Project 99-D-105, central health 
+                                physics calibration facility, TA-36, 
+                                Los Alamos National Laboratory, Los 
+                                Alamos, New Mexico, $3,900,000.
+                                    Project 99-D-106, model validation 
+                                and system certification test center, 
+                                Sandia National Laboratories, 
+                                Albuquerque, New Mexico, $1,600,000.
+                                    Project 99-D-107, Joint 
+                                Computational Engineering Laboratory, 
+                                Sandia National Laboratories, 
+                                Albuquerque, New Mexico, $1,800,000.
+                                    Project 99-D-108, renovate existing 
+                                roadways, Nevada Test Site, Nevada, 
+                                $2,000,000.
+                                    Project 97-D-102, dual-axis 
+                                radiographic hydrotest facility 
+                                (DARHT), Los Alamos National 
+                                Laboratory, Los Alamos, New Mexico, 
+                                $36,000,000.
+                                    Project 96-D-102, stockpile 
+                                stewardship facilities revitalization, 
+                                Phase VI, various locations, 
+                                $20,423,000.
+                                    Project 96-D-103, ATLAS, Los Alamos 
+                                National Laboratory, Los Alamos, New 
+                                Mexico, $6,400,000.
+                                    Project 96-D-104, processing and 
+                                environmental technology laboratory 
+                                (PETL), Sandia National Laboratories, 
+                                Albuquerque, New Mexico, $18,920,000.
+                                    Project 96-D-105, contained firing 
+                                facility (CFF) addition, Lawrence 
+                                Livermore National Laboratory, 
+                                Livermore, California, $6,700,000.
+                    (B) For inertial fusion, $498,000,000, to be 
+                allocated as follows:
+                            (i) For operation and maintenance, 
+                        $213,800,000.
+                            (ii) For the following plant project 
+                        (including maintenance, restoration, planning, 
+                        construction, acquisition, and modification of 
+                        facilities, and land acquisition related 
+                        thereto), $284,200,000, to be allocated as 
+                        follows:
+                                    Project 96-D-111, national ignition 
+                                facility (NIF), Lawrence Livermore 
+                                National Laboratory, Livermore, 
+                                California, $284,200,000.
+                    (C) For technology partnerships and education, 
+                $69,000,000, to be allocated as follows:
+                            (i) For technology partnerships, 
+                        $60,000,000.
+                            (ii) For education, $9,000,000.
+            (2) Stockpile management.--Funds are hereby authorized to 
+        be appropriated to the Department of Energy for fiscal year 
+        1999 for stockpile management in carrying out weapons 
+        activities necessary for national security programs in the 
+        amount of $2,140,825,000, to be allocated as follows:
+                    (A) For operation and maintenance, $2,040,803,000.
+                    (B) For plant projects (including maintenance, 
+                restoration, planning, construction, acquisition, 
+                modification of facilities, and the continuation of 
+                projects authorized in prior years, and land 
+                acquisition related thereto), $100,022,000, to be 
+                allocated as follows:
+                            Project 99-D-122, rapid reactivation, 
+                        various locations, $11,200,000.
+                            Project 99-D-123, replace mechanical 
+                        utility systems, Y-12 Plant, Oak Ridge, 
+                        Tennessee, $1,900,000.
+                            Project 99-D-125, replace boilers and 
+                        controls, Kansas City Plant, Kansas City, 
+                        Missouri, $1,000,000.
+                            Project 99-D-127, stockpile management 
+                        restructuring initiative, Kansas City Plant, 
+                        Kansas City, Missouri, $13,700,000.
+                            Project 99-D-128, stockpile management 
+                        restructuring initiative, Pantex Plant, 
+                        Amarillo, Texas, $1,108,000.
+                            Project 99-D-132, nuclear materials 
+                        safeguards and security upgrades project, Los 
+                        Alamos National Laboratory, Los Alamos, New 
+                        Mexico, $9,700,000.
+                            Project 98-D-123, stockpile management 
+                        restructuring initiative, tritium factory 
+                        modernization and consolidation, Savannah River 
+                        Site, Aiken, South Carolina, $27,500,000.
+                            Project 98-D-124, stockpile management 
+                        restructuring initiative, Y-12 Plant 
+                        consolidation, Oak Ridge, Tennessee, 
+                        $10,700,000.
+                            Project 97-D-122, nuclear materials storage 
+                        facility renovation, Los Alamos National 
+                        Laboratory, Los Alamos, New Mexico, $4,864,000.
+                            Project 97-D-123, structural upgrades, 
+                        Kansas City Plant, Kansas City, Missouri, 
+                        $6,400,000.
+                            Project 96-D-122, sewage treatment quality 
+                        upgrade (STQU), Pantex Plant, Amarillo, Texas, 
+                        $3,700,000.
+                            Project 95-D-102, chemistry and metallurgy 
+                        research building (CMR) upgrades project, Los 
+                        Alamos National Laboratory, Los Alamos, New 
+                        Mexico, $5,000,000.
+                            Project 93-D-122, life safety upgrades, Y-
+                        12 Plant, Oak Ridge, Tennessee, $3,250,000.
+            (3) Program direction.--Funds are hereby authorized to be 
+        appropriated to the Department of Energy for fiscal year 1999 
+        for program direction in carrying out weapons activities 
+        necessary for national security programs in the amount of 
+        $255,500,000.
+    (b) Adjustment.--The total amount authorized to be appropriated in 
+paragraphs (1), (2), and (3) of subsection (a) is the sum of the 
+amounts authorized to be appropriated by such paragraphs reduced by the 
+sum of $145,000,000 for use of prior year balances.
+
+SEC. 3102. ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT.
+
+    (a) In General.--Funds are hereby authorized to be appropriated to 
+the Department of Energy for fiscal year 1999 for environmental 
+restoration and waste management in carrying out programs necessary for 
+national security in the amount of $5,323,143,000, to be allocated as 
+follows:
+            (1) Site and project completion.--Funds are hereby 
+        authorized to be appropriated to the Department of Energy for 
+        fiscal year 1999 for site project and completion in carrying 
+        out environmental restoration and waste management activities 
+        necessary for national security programs in the amount of 
+        $1,047,253,000, to be allocated as follows:
+                    (A) For operation and maintenance, $848,090,000.
+                    (B) For plant projects (including maintenance, 
+                restoration, planning, construction, acquisition, 
+                modification of facilities, and the continuation of 
+                projects authorized in prior years, and land 
+                acquisition related thereto), $199,163,000, to be 
+                allocated as follows:
+                            Project 99-D-402, tank farm support 
+                        services, F&H area, Savannah River Site, Aiken, 
+                        South Carolina, $2,745,000.
+                            Project 99-D-404, health physics 
+                        instrumentation laboratory, Idaho National 
+                        Engineering and Environmental Laboratory, Idaho 
+                        Falls, Idaho, $950,000.
+                            Project 98-D-401, H-tank farm storm water 
+                        systems upgrade, Savannah River Site, Aiken, 
+                        South Carolina, $3,120,000.
+                            Project 98-D-453, plutonium stabilization 
+                        and handling system for plutonium finishing 
+                        plant, Richland, Washington, $26,814,000.
+                            Project 98-D-700, road rehabilitation, 
+                        Idaho National Engineering and Environmental 
+                        Laboratory, Idaho Falls, Idaho, $7,710,000.
+                            Project 97-D-450, actinide packaging and 
+                        storage facility, Savannah River Site, Aiken, 
+                        South Carolina, $79,184,000.
+                            Project 97-D-470, regulatory monitoring and 
+                        bioassay laboratory, Savannah River Site, 
+                        Aiken, South Carolina, $7,000,000.
+                            Project 96-D-406, spent nuclear fuels 
+                        canister storage and stabilization facility, 
+                        Richland, Washington, $38,680,000.
+                            Project 96-D-408, waste management 
+                        upgrades, Kansas City Plant, Kansas City, 
+                        Missouri, and Savannah River Site, Aiken, South 
+                        Carolina, $4,512,000.
+                            Project 96-D-464, electrical and utility 
+                        systems upgrade, Idaho Chemical Processing 
+                        Plant, Idaho National Engineering and 
+                        Environmental Laboratory, Idaho Falls, Idaho, 
+                        $11,544,000.
+                            Project 96-D-471, chlorofluorocarbon 
+                        heating, ventilation, and air conditioning and 
+                        chiller retrofit, Savannah River Site, Aiken, 
+                        South Carolina, $8,000,000.
+                            Project 95-D-456, security facilities 
+                        consolidation, Idaho Chemical Processing Plant, 
+                        Idaho National Engineering and Environmental 
+                        Laboratory, Idaho Falls, Idaho, $485,000.
+                            Project 92-D-140, F-canyon and H-canyon 
+                        exhaust upgrades, Savannah River Site, Aiken, 
+                        South Carolina, $3,667,000.
+                            Project 86-D-103, decontamination and waste 
+                        treatment facility, Lawrence Livermore National 
+                        Laboratory, Livermore, California, $4,752,000.
+            (2) Post 2006 completion.--Funds are hereby authorized to 
+        be appropriated to the Department of Energy for fiscal year 
+        1999 for post 2006 project completion in carrying out 
+        environmental restoration and waste management activities 
+        necessary for national security programs in the amount of 
+        $2,683,451,000, to be allocated as follows:
+                    (A) For operation and maintenance, $2,602,195,000.
+                    (B) For plant projects (including maintenance, 
+                restoration, planning, construction, acquisition, 
+                modification of facilities, and the continuation of 
+                projects authorized in prior years, and land 
+                acquisition related thereto), $81,256,000, to be 
+                allocated as follows:
+                            Project 99-D-403, privatization phase I 
+                        infrastructure support, Richland, Washington, 
+                        $14,800,000.
+                            Project 97-D-402, tank farm restoration and 
+                        safe operations, Richland, Washington, 
+                        $22,723,000.
+                            Project 96-D-408, waste management 
+                        upgrades, Richland, Washington, $171,000.
+                            Project 94-D-407, initial tank retrieval 
+                        systems, Richland, Washington, $32,860,000.
+                            Project 93-D-187, high-level waste removal 
+                        from filled waste tanks, Savannah River Site, 
+                        Aiken, South Carolina, $10,702,000.
+            (3) Closure projects.--Funds are hereby authorized to be 
+        appropriated to the Department of Energy for fiscal year 1999 
+        for closure projects carried out in accordance with section 
+        3143 of the National Defense Authorization Act for Fiscal Year 
+        1997 (Public Law 104-201; 110 Stat. 2836; 42 U.S.C. 7274n) in 
+        the amount of $1,006,240,000.
+            (4) Technology development.--Funds are hereby authorized to 
+        be appropriated to the Department of Energy for fiscal year 
+        1999 for science and technology in carrying out environmental 
+        restoration and waste management activities necessary for 
+        national security programs in the amount of $250,000,000.
+            (5) Program direction.--Funds are hereby authorized to be 
+        appropriated to the Department of Energy for fiscal year 1999 
+        for program direction in carrying out environmental restoration 
+        and waste management activities necessary for national security 
+        programs in the amount of $336,199,000.
+    (b) Adjustment.--The total amount authorized to be appropriated in 
+paragraphs (1), (2), (3), and (5) of subsection (a) is the sum of the 
+amounts authorized to be appropriated by such paragraphs reduced by the 
+sum of $21,000,000 for use of prior year balances.
+
+SEC. 3103. OTHER DEFENSE ACTIVITIES.
+
+    Funds are hereby authorized to be appropriated to the Department of 
+Energy for fiscal year 1999 for other defense activities in carrying 
+out programs necessary for national security in the amount of 
+$1,672,160,000, to be allocated as follows:
+            (1) Verification and control technology.--For verification 
+        and control technology, $483,500,000, to be allocated as 
+        follows:
+                    (A) For nonproliferation and verification research 
+                and development, $210,000,000.
+                    (B) For arms control, $236,900,000.
+                    (C) For intelligence, $36,600,000.
+            (2) Nuclear safeguards and security.--For nuclear 
+        safeguards and security, $53,200,000.
+            (3) Security investigations.--For security investigations, 
+        $30,000,000.
+            (4) Emergency management.--For emergency management, 
+        $23,700,000.
+            (5) Program direction.--For program direction, 
+        nonproliferation and national security, $84,900,000.
+            (6) Worker and community transition assistance.--For worker 
+        and community transition assistance, $40,000,000, to be 
+        allocated as follows:
+                    (A) For worker and community transition, 
+                $36,000,000.
+                    (B) For program direction, worker and community 
+                transition assistance, $4,000,000.
+            (7) Fissile materials control and disposition.--For fissile 
+        materials control and disposition, $168,960,000, to be 
+        allocated as follows:
+                    (A) For operation and maintenance, $111,372,000.
+                    (B) For program direction, fissile materials 
+                control and disposition, $4,588,000.
+                    (C) For plant projects (including maintenance, 
+                restoration, planning, construction, acquisition, 
+                modification of facilities, and land acquisition 
+                related thereto), $53,000,000, to be allocated as 
+                follows:
+                            Project 99-D-141, pit disassembly and 
+                        conversion facility, location to be determined, 
+                        $25,000,000.
+                            Project 99-D-143, mixed oxide fuel 
+                        fabrication facility, location to be 
+                        determined, $28,000,000.
+            (8) Environment, safety, and health.--For environment, 
+        safety, and health, defense, $69,000,000, to be allocated as 
+        follows:
+                    (A) For the Office of Environment, Safety, and 
+                Health (Defense), $64,231,000.
+                    (B) For program direction, environment, safety, and 
+                health (defense), $4,769,000.
+            (9) Office of hearings and appeals.--For the Office of 
+        Hearings and Appeals, $2,400,000.
+            (10) International nuclear safety.--For international 
+        nuclear safety, $35,000,000.
+            (11) Naval reactors.--For naval reactors, $681,500,000, to 
+        be allocated as follows:
+                    (A) For naval reactors development, $661,400,000, 
+                to be allocated as follows:
+                            (i) For operation and maintenance, 
+                        $639,600,000.
+                            (ii) For plant projects (including 
+                        maintenance, restoration, planning, 
+                        construction, acquisition, modification of 
+                        facilities, and the continuation of projects 
+                        authorized in prior years, and land acquisition 
+                        related thereto), $12,800,000, to be allocated 
+                        as follows:
+                                    Project 98-D-200, site laboratory/
+                                facility upgrade, various locations, 
+                                $7,000,000.
+                                    Project 90-N-102, expended core 
+                                facility dry cell project, Naval 
+                                Reactors facility, Idaho Falls, Idaho, 
+                                $5,800,000.
+                            (iii) For general plant projects, 
+                        $9,000,000, to be allocated as follows:
+                                    Project GPN-101, general plant 
+                                projects, various locations, 
+                                $9,000,000.
+                    (B) For program direction, naval reactors, 
+                $20,100,000.
+
+SEC. 3104. DEFENSE NUCLEAR WASTE DISPOSAL.
+
+    Funds are hereby authorized to be appropriated to the Department of 
+Energy for fiscal year 1999 for payment to the Nuclear Waste Fund 
+established in section 302(c) of the Nuclear Waste Policy Act of 1982 
+(42 U.S.C. 10222(c)) in the amount of $190,000,000.
+
+SEC. 3105. DEFENSE ENVIRONMENTAL MANAGEMENT PRIVATIZATION.
+
+    (a) In General.--Funds are hereby authorized to be appropriated to 
+the Department of Energy for fiscal year 1999 for privatization 
+initiatives in carrying out environmental restoration and waste 
+management activities necessary for national security programs in the 
+amount of $273,857,000, to be allocated as follows:
+            Project 99-PVT-1, remote handled transuranic waste 
+        transportation, Carlsbad, New Mexico, $19,605,000.
+            Project 98-PVT-2, spent nuclear fuel dry storage, Idaho 
+        Falls, Idaho, $20,000,000.
+            Project 98-PVT-5, waste disposal, Oak Ridge, Tennessee, 
+        $33,500,000.
+            Project 97-PVT-1, tank waste remediation system phase I, 
+        Hanford, Washington, $113,500,000.
+            Project 97-PVT-2, advanced mixed waste treatment facility, 
+        Idaho Falls, Idaho, $87,252,000.
+    (b) Adjustment.--The amount authorized to be appropriated in 
+subsection (a) is the sum of the amounts authorized to be appropriated 
+for the projects set forth in that subsection reduced by the sum of 
+$32,000,000 for use of prior year balances of funds for defense 
+environmental management privatization.
+
+                Subtitle B--Recurring General Provisions
+
+SEC. 3121. REPROGRAMMING.
+
+    (a) In General.--Until the Secretary of Energy submits to the 
+congressional defense committees the report referred to in subsection 
+(b) and a period of 30 days has elapsed after the date on which such 
+committees receive the report, the Secretary may not use amounts 
+appropriated pursuant to this title for any program--
+            (1) in amounts that exceed, in a fiscal year--
+                    (A) 110 percent of the amount authorized for that 
+                program by this title; or
+                    (B) $1,000,000 more than the amount authorized for 
+                that program by this title; or
+            (2) which has not been presented to, or requested of, 
+        Congress.
+    (b) Report.--(1) The report referred to in subsection (a) is a 
+report containing a full and complete statement of the action proposed 
+to be taken and the facts and circumstances relied upon in support of 
+such proposed action.
+    (2) In the computation of the 30-day period under subsection (a), 
+there shall be excluded any day on which either House of Congress is 
+not in session because of an adjournment of more than 3 days to a day 
+certain.
+    (c) Limitations.--(1) In no event may the total amount of funds 
+obligated pursuant to this title exceed the total amount authorized to 
+be appropriated by this title.
+    (2) Funds appropriated pursuant to this title may not be used for 
+an item for which Congress has specifically denied funds.
+
+SEC. 3122. LIMITS ON GENERAL PLANT PROJECTS.
+
+    (a) In General.--The Secretary of Energy may carry out any 
+construction project under the general plant projects authorized by 
+this title if the total estimated cost of the construction project does 
+not exceed $5,000,000.
+    (b) Report to Congress.--If, at any time during the construction of 
+any general plant project authorized by this title, the estimated cost 
+of the project is revised because of unforeseen cost variations and the 
+revised cost of the project exceeds $5,000,000, the Secretary shall 
+immediately furnish a complete report to the congressional defense 
+committees explaining the reasons for the cost variation.
+
+SEC. 3123. LIMITS ON CONSTRUCTION PROJECTS.
+
+    (a) In General.--(1) Except as provided in paragraph (2), 
+construction on a construction project may not be started or additional 
+obligations incurred in connection with the project above the total 
+estimated cost, whenever the current estimated cost of the construction 
+project, which is authorized by section 3101, 3102, or 3103, or which 
+is in support of national security programs of the Department of Energy 
+and was authorized by any previous Act, exceeds by more than 25 percent 
+the higher of--
+            (A) the amount authorized for the project; or
+            (B) the amount of the total estimated cost for the project 
+        as shown in the most recent budget justification data submitted 
+        to Congress.
+    (2) An action described in paragraph (1) may be taken if--
+            (A) the Secretary of Energy has submitted to the 
+        congressional defense committees a report on the actions and 
+        the circumstances making such action necessary; and
+            (B) a period of 30 days has elapsed after the date on which 
+        the report is received by the committees.
+    (3) In the computation of the 30-day period under paragraph (2), 
+there shall be excluded any day on which either House of Congress is 
+not in session because of an adjournment of more than 3 days to a day 
+certain.
+    (b) Exception.--Subsection (a) shall not apply to any construction 
+project which has a current estimated cost of less than $5,000,000.
+
+SEC. 3124. FUND TRANSFER AUTHORITY.
+
+    (a) Transfer to Other Federal Agencies.--The Secretary of Energy 
+may transfer funds authorized to be appropriated to the Department of 
+Energy pursuant to this title to other Federal agencies for the 
+performance of work for which the funds were authorized. Funds so 
+transferred may be merged with and be available for the same purposes 
+and for the same period as the authorizations of the Federal agency to 
+which the amounts are transferred.
+    (b) Transfer Within Department of Energy.--(1) Subject to paragraph 
+(2), the Secretary of Energy may transfer funds authorized to be 
+appropriated to the Department of Energy pursuant to this title between 
+any such authorizations. Amounts of authorizations so transferred may 
+be merged with and be available for the same purposes and for the same 
+period as the authorization to which the amounts are transferred.
+    (2) Not more than five percent of any such authorization may be 
+transferred between authorizations under paragraph (1). No such 
+authorization may be increased or decreased by more than five percent 
+by a transfer under such paragraph.
+    (c) Limitation.--The authority provided by this section to transfer 
+authorizations--
+            (1) may only be used to provide funds for items relating to 
+        activities necessary for national security programs that have a 
+        higher priority than the items from which the funds are 
+        transferred; and
+            (2) may not be used to provide funds for an item for which 
+        Congress has specifically denied funds.
+    (d) Notice to Congress.--The Secretary of Energy shall promptly 
+notify the Committee on Armed Services of the Senate and the Committee 
+on National Security of the House of Representatives of any transfer of 
+funds to or from authorizations under this title.
+
+SEC. 3125. AUTHORITY FOR CONCEPTUAL AND CONSTRUCTION DESIGN.
+
+    (a) Requirement for Conceptual Design.--(1) Subject to paragraph 
+(2) and except as provided in paragraph (3), before submitting to 
+Congress a request for funds for a construction project that is in 
+support of a national security program of the Department of Energy, the 
+Secretary of Energy shall complete a conceptual design for that 
+project.
+    (2) If the estimated cost of completing a conceptual design for a 
+construction project exceeds $3,000,000, the Secretary shall submit to 
+Congress a request for funds for the conceptual design before 
+submitting a request for funds for the construction project.
+    (3) The requirement in paragraph (1) does not apply to a request 
+for funds--
+            (A) for a construction project the total estimated cost of 
+        which is less than $5,000,000; or
+            (B) for emergency planning, design, and construction 
+        activities under section 3126.
+    (b) Authority for Construction Design.--(1) Within the amounts 
+authorized by this title, the Secretary of Energy may carry out 
+construction design (including architectural and engineering services) 
+in connection with any proposed construction project if the total 
+estimated cost for such design does not exceed $600,000.
+    (2) If the total estimated cost for construction design in 
+connection with any construction project exceeds $600,000, funds for 
+such design must be specifically authorized by law.
+
+SEC. 3126. AUTHORITY FOR EMERGENCY PLANNING, DESIGN, AND CONSTRUCTION 
+              ACTIVITIES.
+
+    (a) Authority.--The Secretary of Energy may use any funds available 
+to the Department of Energy pursuant to an authorization in this title, 
+including those funds authorized to be appropriated for advance 
+planning and construction design under sections 3101, 3102, and 3103, 
+to perform planning, design, and construction activities for any 
+Department of Energy national security program construction project 
+that, as determined by the Secretary, must proceed expeditiously in 
+order to protect public health and safety, to meet the needs of 
+national defense, or to protect property.
+    (b) Limitation.--The Secretary may not exercise the authority under 
+subsection (a) in the case of any construction project until the 
+Secretary has submitted to the congressional defense committees a 
+report on the activities that the Secretary intends to carry out under 
+this section and the circumstances making such activities necessary.
+    (c) Specific Authority.--The requirement of section 3125(b)(2) does 
+not apply to emergency planning, design, and construction activities 
+conducted under this section.
+
+SEC. 3127. FUNDS AVAILABLE FOR ALL NATIONAL SECURITY PROGRAMS OF THE 
+              DEPARTMENT OF ENERGY.
+
+    Subject to the provisions of appropriations Acts and section 3121, 
+amounts appropriated pursuant to this title for management and support 
+activities and for general plant projects are available for use, when 
+necessary, in connection with all national security programs of the 
+Department of Energy.
+
+SEC. 3128. AVAILABILITY OF FUNDS.
+
+    (a) In General.--Except as provided in subsection (b), when so 
+specified in an appropriations Act, amounts appropriated for operation 
+and maintenance or for plant projects may remain available until 
+expended.
+    (b) Exception for Program Direction Funds.--Amounts appropriated 
+for program direction pursuant to an authorization of appropriations in 
+subtitle A shall remain available to be expended only until the end of 
+fiscal year 2001.
+
+SEC. 3129. TRANSFERS OF DEFENSE ENVIRONMENTAL MANAGEMENT FUNDS.
+
+    (a) Transfer Authority for Defense Environmental Management 
+Funds.--The Secretary of Energy shall provide the manager of each field 
+office of the Department of Energy with the authority to transfer 
+defense environmental management funds from a program or project under 
+the jurisdiction of the office to another such program or project.
+    (b) Limitations.--(1) Only one transfer may be made to or from any 
+program or project under subsection (a) in a fiscal year.
+    (2) The amount transferred to or from a program or project under 
+subsection (a) may not exceed $5,000,000 in a fiscal year.
+    (3) A transfer may not be carried out by a manager of a field 
+office under subsection (a) unless the manager determines that the 
+transfer is necessary to address a risk to health, safety, or the 
+environment or to assure the most efficient use of defense 
+environmental management funds at the field office.
+    (4) Funds transferred pursuant to subsection (a) may not be used 
+for an item for which Congress has specifically denied funds or for a 
+new program or project that has not been authorized by Congress.
+    (c) Exemption From Reprogramming Requirements.--The requirements of 
+section 3121 shall not apply to transfers of funds pursuant to 
+subsection (a).
+    (d) Notification.--The Secretary, acting through the Assistant 
+Secretary of Energy for Environmental Management, shall notify Congress 
+of any transfer of funds pursuant to subsection (a) not later than 30 
+days after such transfer occurs.
+    (e) Definitions.--In this section:
+            (1) The term ``program or project'' means, with respect to 
+        a field office of the Department of Energy, any of the 
+        following:
+                    (A) An activity carried out pursuant to paragraph 
+                (1), (2), or (3) of section 3102(a).
+                    (B) A project or program not described in 
+                subparagraph (A) that is for environmental restoration 
+                or waste management activities necessary for national 
+                security programs of the Department, that is being 
+                carried out by the office, and for which defense 
+                environmental management funds have been authorized and 
+                appropriated before the date of enactment of this Act.
+            (2) The term ``defense environmental management funds'' 
+        means funds appropriated to the Department of Energy pursuant 
+        to an authorization for carrying out environmental restoration 
+        and waste management activities necessary for national security 
+        programs.
+    (f) Duration of Authority.--The managers of the field offices of 
+the Department may exercise the authority provided under subsection (a) 
+during the period beginning on October 1, 1998, and ending on September 
+30, 1999.
+
+   Subtitle C--Program Authorizations, Restrictions, and Limitations
+
+SEC. 3131. INTERNATIONAL COOPERATIVE STOCKPILE STEWARDSHIP.
+
+    (a) Funding Prohibition.--No funds authorized to be appropriated or 
+otherwise available to the Department of Energy for fiscal year 1999 
+may be obligated or expended to conduct any activities associated with 
+international cooperative stockpile stewardship.
+    (b) Exceptions.--Subsection (a) does not apply to the following:
+            (1) Activities conducted between the United States and the 
+        United Kingdom.
+            (2) Activities conducted between the United States and 
+        France.
+            (3) Activities carried out under title III of this Act 
+        relating to cooperative threat reduction with states of the 
+        former Soviet Union.
+
+SEC. 3132. PROHIBITION ON USE OF FUNDS FOR BALLISTIC MISSILE DEFENSE 
+              AND THEATER MISSILE DEFENSE.
+
+    No funds authorized to be appropriated or otherwise made available 
+to the Department of Energy by this title for fiscal year 1999 may be 
+obligated or expended for any activities (including research, 
+development, test, and evaluation activities, demonstration activities, 
+or studies) relating to ballistic missile defense or theater missile 
+defense.
+
+SEC. 3133. LICENSING OF CERTAIN MIXED OXIDE FUEL FABRICATION AND 
+              IRRADIATION FACILITIES.
+
+    (a) License Requirement.--Notwithstanding section 110 a. of the 
+Atomic Energy Act of 1954 (42 U.S.C. 2140(a)), no person may construct 
+or operate a facility referred to in subsection (b) without obtaining a 
+license from the Nuclear Regulatory Commission.
+    (b) Covered Facilities.--(1) Except as provided in paragraph (2), 
+subsection (a) applies to any facility under a contract with and for 
+the account of the Department of Energy that fabricates mixed 
+plutonium-uranium oxide nuclear reactor fuel for use in a commercial 
+nuclear reactor.
+    (2) Subsection (a) does not apply to any such facility that is 
+utilized for research, development, demonstration, testing, or analysis 
+purposes.
+    (c) Availability of Funds for Licensing by NRC.--Section 210 of the 
+Department of Energy National Security and Military Applications of 
+Nuclear Energy Authorization Act of 1981 (42 U.S.C. 7272) shall not 
+apply to any licensing activities required as a result of subsection 
+(a).
+    (d) Applicability of Occupational Safety and Health Requirements to 
+Activities under License.--Any activities carried out under a license 
+referred to in subsection (a) shall be subject to regulation under the 
+Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
+
+SEC. 3134. CONTINUATION OF PROCESSING, TREATMENT, AND DISPOSITION OF 
+              LEGACY NUCLEAR MATERIALS.
+
+    The Secretary of Energy shall continue operations and maintain a 
+high state of readiness at the F-canyon and H-canyon facilities at the 
+Savannah River site and shall provide technical staff necessary to 
+operate and so maintain such facilities.
+
+SEC. 3135. AUTHORITY FOR DEPARTMENT OF ENERGY FEDERALLY FUNDED RESEARCH 
+              AND DEVELOPMENT CENTERS TO PARTICIPATE IN MERIT-BASED 
+              TECHNOLOGY RESEARCH AND DEVELOPMENT PROGRAMS.
+
+    Section 217(f)(1) of the National Defense Authorization Act for 
+Fiscal Year 1995 (Public Law 103-337; 108 Stat. 2695) is amended by 
+inserting ``or of the Department of Energy'' after ``the Department of 
+Defense''.
+
+SEC. 3136. SUPPORT FOR PUBLIC EDUCATION IN THE VICINITY OF LOS ALAMOS 
+              NATIONAL LABORATORY, NEW MEXICO.
+
+    (a) Availability of Funds.--Of the funds authorized to be 
+appropriated or otherwise made available to the Department of Energy by 
+this title, $5,000,000 shall be available for payment by the Secretary 
+of Energy to the educational foundation chartered to enhance 
+educational activities in the public schools in the vicinity of Los 
+Alamos National Laboratory, New Mexico (in this section referred to as 
+the ``Foundation'').
+    (b) Use of Funds.--(1) The Foundation shall utilize funds provided 
+under subsection (a) as a contribution to an endowment fund for the 
+Foundation.
+    (2) The Foundation shall use the income generated from investments 
+in the endowment fund that are attributable to the payment made under 
+subsection (a) to fund programs to support the educational needs of 
+children in public schools in the vicinity of Los Alamos National 
+Laboratory.
+
+SEC. 3137. COST-SHARING FOR OPERATION OF THE HAZARDOUS MATERIALS 
+              MANAGEMENT AND EMERGENCY RESPONSE TRAINING FACILITY, 
+              RICHLAND, WASHINGTON.
+
+    The Secretary of Energy may enter into partnership arrangements 
+with Federal and non-Federal entities to share the costs of operating 
+the Hazardous Materials Management and Emergency Response training 
+facility authorized under section 3140 of the National Defense 
+Authorization Act for Fiscal Year 1995 (Public Law 103-337; 108 Stat. 
+3088). Such arrangements may include the exchange of equipment and 
+services.
+
+SEC. 3138. HANFORD HEALTH INFORMATION NETWORK.
+
+    Of the funds authorized to be appropriated or otherwise made 
+available to the Department of Energy by section 3102, $2,500,000 shall 
+be available for activities relating to the Hanford Health Information 
+Network established pursuant to the authority in section 3138 of the 
+National Defense Authorization Act for Fiscal Year 1991 (Public Law 
+101-510; 104 Stat. 1834), as amended by section 3138(b) of the National 
+Defense Authorization Act for Fiscal Year 1995 (Public Law 103-337; 108 
+Stat. 3087).
+
+SEC. 3139. NONPROLIFERATION ACTIVITIES.
+
+    (a) Initiatives for Proliferation Prevention Program.--Of the 
+amount authorized to be appropriated by section 3103(1)(B), $30,000,000 
+may be available for the Initiatives for Proliferation Prevention 
+program.
+    (b) Nuclear Cities Initiative.--Of the amount authorized to be 
+appropriated by section 3103(1)(B), $30,000,000 may be available for 
+the purpose of implementing the initiative arising pursuant to the 
+March 1998 discussions between the Vice President of the United States 
+and the Prime Minister of the Russian Federation and between the 
+Secretary of Energy of the United States and the Minister of Atomic 
+Energy of the Russian Federation (the so-called ``nuclear cities'' 
+initiative).
+
+SEC. 3140. ACTIVITIES OF THE CONTRACTOR-OPERATED FACILITIES OF THE 
+              DEPARTMENT OF ENERGY.
+
+    (a) Research and Activities on Behalf of Non-Department Persons and 
+Entities.--(1) The Secretary of Energy may conduct research and other 
+activities referred to in paragraph (2) through contractor-operated 
+facilities of the Department of Energy on behalf of other departments 
+and agencies of the Government, agencies of State and local 
+governments, and private persons and entities.
+    (2) The research and other activities that may be conducted under 
+paragraph (1) are those which the Secretary is authorized to conduct by 
+law, and include, but are not limited to, research and activities 
+authorized under the following:
+            (A) Section 33 of the Atomic Energy Act of 1954 (42 U.S.C. 
+        2053).
+            (B) Section 107 of the Energy Reorganization Act of 1974 
+        (42 U.S.C. 5817).
+            (C) The Federal Nonnuclear Energy Research and Development 
+        Act of 1974 (42 U.S.C. 5901 et seq.).
+    (b) Charges.--(1) The Secretary shall impose on the department, 
+agency, or person or entity for whom research and other activities are 
+carried out under subsection (a) a charge for such research and 
+activities equal to not more than the full cost incurred by the 
+contractor concerned in carrying out such research and activities, 
+which cost shall include--
+            (A) the direct cost incurred by the contractor in carrying 
+        out such research and activities; and
+            (B) the overhead cost including site-wide indirect costs 
+        associated with such research and activities.
+    (2)(A) Subject to subparagraph (B), the Secretary shall also impose 
+on the department, agency, or person or entity concerned a Federal 
+administrative charge (which includes any depreciation and imputed 
+interest charges) in an amount not to exceed 3 percent of the full cost 
+incurred by the contractor concerned in carrying out the research and 
+activities concerned.
+    (B) The Secretary may waive the imposition of the Federal 
+administrative charge required by subparagraph (A) in the case of 
+research and other activities conducted on behalf of small business 
+concerns, institutions of higher education, non-profit entities, and 
+State and local governments.
+    (3) Not later than 2 years after the date of enactment of this Act, 
+the Secretary shall terminate any waiver of charges under section 33 of 
+the Atomic Energy Act of 1954 (42 U.S.C. 2053) that were made before 
+such date, unless the Secretary determines that such waiver should be 
+continued.
+    (c) Pilot Program of Reduced Facility Overhead Charges.--(1) The 
+Secretary may, with the cooperation of participating contractors of the 
+contractor-operated facilities of the Department, carry out a pilot 
+program under which the Secretary and such contractors reduce the 
+facility overhead charges imposed under this section for research and 
+other activities conducted under this section.
+    (2) The Secretary shall carry out the pilot program at contractor-
+operated facilities selected by the Secretary in consultation with the 
+contractors concerned.
+    (3) The Secretary shall determine the facility overhead charges to 
+be imposed under the pilot program based on their joint review of all 
+items included in the overhead costs of the facility concerned in order 
+to determine which items are appropriately incurred as facility 
+overhead charges by the contractor in carrying out research and other 
+activities at such facility under this section.
+    (4) The Secretary shall commence carrying out the pilot program not 
+later than October 1, 1999, and shall terminate the pilot program on 
+September 30, 2003.
+    (5) Not later than January 31, 2003, the Secretary shall submit to 
+the congressional defense committees, the Committee on Energy and 
+Natural Resources of the Senate, and other appropriate committees of 
+the House of Representatives an interim report on the results of the 
+pilot program under this subsection. The report shall include any 
+recommendations for the extension or expansion of the pilot program, 
+including the establishment of multiple rates of overhead charges for 
+various categories of persons and entities seeking research and other 
+activities in contractor-operated facilities of the Department.
+    (d) Partnerships and Interactions.--(1) The Secretary of Energy may 
+encourage partnerships and interactions between each contractor-
+operated facility of the Department of Energy and universities and 
+private businesses.
+    (2) The Secretary may take into account the progress of each 
+contractor-operated facility of the Department in developing and 
+expanding partnerships and interactions under paragraph (1) in 
+evaluating the annual performance of such contractor-operated facility.
+    (e) Small Business Technology Partnership Program.--(1) The 
+Secretary may require that each contractor operating a facility of the 
+Department establish a program at such facility under which the 
+contractor may enter into partnerships with small businesses at such 
+facility relating to technology.
+    (2) The amount of funds expended by a contractor under a program 
+under paragraph (1) at a particular facility may not exceed an amount 
+equal to 0.25 percent of the total operating budget of the facility.
+    (3) Amounts expended by a contractor under a program--
+            (A) shall be used to cover the costs (including research 
+        and development costs and technical assistance costs) incurred 
+        by the contractor in connection with activities under the 
+        program; and
+            (B) may not be used for direct grants to small businesses.
+    (4) The Secretary shall submit to the congressional defense 
+committees, the Committee on Energy and Natural Resources of the 
+Senate, and the appropriate committee of the House of Representatives, 
+together with the budget of the President for each fiscal year that is 
+submitted to Congress under section 1105 of title 31, United States 
+Code, an assessment of the program under this subsection during the 
+preceding year, including the effectiveness of the program in providing 
+opportunities for small businesses to interact with and use the 
+resources of the contractor-operated facilities of the Department, the 
+cost of the program to the Federal Government and any impact on the 
+execution of the Department's mission.
+
+SEC. 3140A. RELOCATION OF NATIONAL ATOMIC MUSEUM, ALBUQUERQUE, NEW 
+              MEXICO.
+
+    The Secretary of Energy shall submit to the Defense Committees of 
+Congress a plan for the design, construction, and relocation of the 
+National Atomic Museum in Albuquerque, New Mexico.
+
+                       Subtitle D--Other Matters
+
+SEC. 3141. REPEAL OF FISCAL YEAR 1998 STATEMENT OF POLICY ON STOCKPILE 
+              STEWARDSHIP PROGRAM.
+
+    Section 3156 of the National Defense Authorization Act for Fiscal 
+Year 1998 (Public Law 105-85; 111 Stat. 2045; 42 U.S.C. 2121 note) is 
+repealed.
+
+SEC. 3142. INCREASE IN MAXIMUM RATE OF PAY FOR SCIENTIFIC, ENGINEERING, 
+              AND TECHNICAL PERSONNEL RESPONSIBLE FOR SAFETY AT DEFENSE 
+              NUCLEAR FACILITIES.
+
+    Section 3161(a)(2) of the National Defense Authorization Act for 
+Fiscal Year 1995 (42 U.S.C. 7231 note) is amended by striking out 
+``level IV of the Executive Schedule under section 5315'' and inserting 
+in lieu thereof ``level III of the Executive Schedule under section 
+5314''.
+
+SEC. 3143. SENSE OF SENATE REGARDING TREATMENT OF FORMERLY UTILIZED 
+              SITES REMEDIAL ACTION PROGRAM UNDER A NONDEFENSE 
+              DISCRETIONARY BUDGET FUNCTION.
+
+    It is the sense of the Senate that the Office of Management and 
+Budget should, beginning with fiscal year 2000, transfer the Formerly 
+Utilized Sites Remedial Action Program from the 050 budget function to 
+a nondefense discretionary budget function.
+
+SEC. 3144. EXTENSION OF AUTHORITY FOR APPOINTMENT OF CERTAIN 
+              SCIENTIFIC, ENGINEERING, AND TECHNICAL PERSONNEL.
+
+    Section 3161(c)(1) of the National Defense Authorization Act for 
+Fiscal Year 1995 (42 U.S.C. 7231 note) is amended by striking out 
+``September 30, 1999'' and inserting in lieu thereof ``September 30, 
+2000''.
+
+SEC. 3145. EXTENSION OF AUTHORITY OF DEPARTMENT OF ENERGY TO PAY 
+              VOLUNTARY SEPARATION INCENTIVE PAYMENTS.
+
+    (a) Extension.--Notwithstanding subsection (c)(2)(D) of section 663 
+of the Treasury, Postal Service, and General Government Appropriations 
+Act, 1997 (Public Law 104-208; 110 Stat. 3009-383; 5 U.S.C. 5597 note), 
+the Department of Energy may pay voluntary separation incentive 
+payments to qualifying employees who voluntarily separate (whether by 
+retirement or resignation) before January 1, 2001.
+    (b) Exercise of Authority.--The Department shall pay voluntary 
+separation incentive payments under subsection (a) in accordance with 
+the provisions of such section 663.
+
+SEC. 3146. INSPECTION OF PERMANENT RECORDS PRIOR TO DECLASSIFICATION.
+
+    Section 3155 of the National Defense Authorization Act for Fiscal 
+Year 1996 (P.L. 104-106) is amended by inserting the following:
+    ``(c) Agencies, including the National Archives and Records 
+Administration, shall conduct a visual inspection of all permanent 
+records of historical value which are 25 years old or older prior to 
+declassification to ascertain that they contain no pages with 
+Restricted Data (RD) or Formerly Restricted Data (FRD) markings (as 
+defined by the Atomic Energy Act of 1954, as amended). Record 
+collection in which marked RD or FRD is found shall be set aside 
+pending the completion of a review by the Department of Energy.''.
+
+SEC. 3147. SENSE OF SENATE REGARDING MEMORANDA OF UNDERSTANDING WITH 
+              THE STATE OF OREGON RELATING TO HANFORD.
+
+    (a) Findings.--The Senate makes the following findings:
+            (1) The Department of Energy and the State of Washington 
+        have entered into memoranda of understanding with the State of 
+        Oregon to provide the State of Oregon greater involvement in 
+        decisions regarding the Hanford Reservation.
+            (2) Hanford has an impact on the State of Oregon, and the 
+        State of Oregon has an interest in the decisions made regarding 
+        Hanford.
+            (3) The Department of Energy and the State of Washington 
+        are to be congratulated for entering into the memoranda of 
+        understanding with the State of Oregon regarding Hanford.
+    (b) Sense of Senate.--It is the sense of the Senate to--
+            (1) encourage the Department of Energy and the State of 
+        Washington to implement the memoranda of understanding 
+        regarding Hanford in ways that result in continued involvement 
+        by the State of Oregon in decisions of concern to the State of 
+        Oregon regarding Hanford; and
+            (2) encourage the Department of Energy and the State of 
+        Washington to continue similar efforts to permit ongoing 
+        participation by the State of Oregon in the decisions regarding 
+        Hanford that may affect the environment or public health or 
+        safety of the citizens of the State of Oregon.
+
+SEC. 3148. REVIEW OF CALCULATION OF OVERHEAD COSTS OF CLEANUP AT 
+              DEPARTMENT OF ENERGY SITES.
+
+    (a) Review.--(1) The Comptroller General shall--
+            (A) carry out a review of the methods currently used by the 
+        Department of Energy for calculating overhead costs (including 
+        direct overhead costs and indirect overhead costs) associated 
+        with the cleanup of Department sites; and
+            (B) pursuant to the review, identify how such costs are 
+        allocated among different program and budget accounts of the 
+        Department.
+    (2) The review shall include the following:
+            (A) All activities whose costs are spread across other 
+        accounts of a Department site or of any contractor performing 
+        work at a site.
+            (B) Support service overhead costs, including activities or 
+        services which are paid for on a per-unit-used basis.
+            (C) All fees, awards, and other profit on indirect and 
+        support service overhead costs or fees that are not attributed 
+        to performance on a single project.
+            (D) Any portion of contractor costs for which there is no 
+        competitive bid.
+            (E) All computer service and information management costs 
+        that have been previously reported as overhead costs.
+            (F) Any other costs that the Comptroller General considers 
+        appropriate to categorize as direct or indirect overhead costs.
+    (b) Report.--Not later than January 31, 1999, the Comptroller 
+General shall submit to Congress a report setting forth the findings of 
+the Comptroller as a result of the review under subsection (a). The 
+report shall include the recommendations of the Comptroller regarding 
+means of standardizing the methods used by the Department for 
+allocating and reporting overhead costs associated with the cleanup of 
+Department sites.
+
+SEC. 3149. SENSE OF THE CONGRESS ON FUNDING REQUIREMENTS FOR THE 
+              NONPROLIFERATION SCIENCE AND TECHNOLOGY ACTIVITIES OF THE 
+              DEPARTMENT OF ENERGY.
+
+    (a) Funding Requirements for the Nonproliferation Science and 
+Technology Activities Budget.--It is the sense of the Congress that for 
+each of the fiscal years 2000 through 2008, it should be an objective 
+of the Secretary of Energy to increase the budget for the 
+nonproliferation science and technology activities for the fiscal year 
+over the budget for those activities for the preceding fiscal year by a 
+percent that is at least two percent above the rate of inflation as 
+determined by the Office of Management and Budget.
+    (b) Nonproliferation Science and Technology Activities Defined.--In 
+this section, the term ``nonproliferation science and technology 
+activities'' means activities (including program direction activities) 
+relating to preventing and countering the proliferation of weapons of 
+mass destruction that are funded by the Department of Energy under the 
+following programs and projects:
+            (1) The Verification and Control Technology program within 
+        the Office of Nonproliferation and National Security.
+            (2) Projects under the ``Technology and Systems 
+        Development'' element of the Nuclear Safeguards and Security 
+        program within the Office of Nonproliferation and National 
+        Security.
+            (3) Projects relating to a national capability to assess 
+        the credibility of radiological and extortion threats, or to 
+        combat nuclear materials trafficking or terrorism, under the 
+        Emergency Management program within the Office of 
+        Nonproliferation and National Security.
+            (4) Projects relating to the development or integration of 
+        new technology to respond to emergencies and threats involving 
+        the presence, or possible presence, of weapons of mass 
+        destruction, radiological emergencies, and related terrorist 
+        threats, under the Office of Defense Programs.
+
+SEC. 3150. DEADLINE FOR SELECTION OF TECHNOLOGY FOR TRITIUM PRODUCTION.
+
+    (a) Deadline.--The Secretary of Energy shall select a technology 
+for the production of tritium not later than December 31, 1998.
+    (b) Options Available for Selection.--Notwithstanding any provision 
+of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), after the 
+completion of the Department of Energy's evaluation of their 
+Interagency Review on the production of tritium, the Secretary shall 
+make the selection for tritium production consistent with the laws, 
+regulations and procedures of the Department of Energy as stated in 
+subsection (a).
+
+Subtitle E--Maximum Age for New Department of Energy Nuclear Materials 
+                                Couriers
+
+SEC. 3161. MAXIMUM AGE TO ENTER NUCLEAR COURIER FORCE.
+
+    Section 3307 of title 5, United States Code, is amended as 
+follows--
+            (1) by striking in subsection (a) ``and (d)'' and inserting 
+        in its place ``(d), (e), and (f)''; and
+            (2) by adding the following new subsection (f) after 
+        subsection (e):
+    ``(f) The Secretary of Energy may determine and fix the maximum age 
+limit for an original appointment to a position as a Department of 
+Energy nuclear materials courier, so defined by section 8331(27) of 
+this title.''.
+
+SEC. 3162. DEFINITION.
+
+    Section 8331 of title 5, United States Code, is amended by adding 
+the following new paragraph (27) after paragraph (26):
+            ``(27) Department of Energy nuclear materials courier means 
+        an employee of the Department of Energy or its predecessor 
+        agencies, the duties of whose position are primarily to 
+        transport, and provide armed escort and protection during 
+        transit of, nuclear weapons, nuclear weapon components, 
+        strategic quantities of special nuclear materials or other 
+        materials related to national security, including an employee 
+        who remains fully certified to engage in this activity who is 
+        transferred to a supervisory, training, or administrative 
+        position.''.
+
+SEC. 3163. AMENDING SECTION 8334(A)(1) OF TITLE 5, U.S.C.
+
+    (a) The first sentence of section 8334(a)(1) of title 5, United 
+States Code, is amended by striking ``and a firefighter'', and 
+inserting in its place ``a firefighter, and a Department of Energy 
+nuclear materials courier,''.
+    (b) Section 8334(c) of title 5, United States Code, is amended by 
+adding the following new schedule after the schedule for a Member of 
+the Capitol Police:
+
+``Department of Energy nuclear          5.....................  July 1, 1942 to June 30, 1948.
+ materials courier for courier service                          July 1, 1948 to October 31, 1956.
+ (while employed by DOE and its         6.....................
+ predecessor agencies).
+                                        6\1/2\................  November 1, 1956 to December 31, 1969.
+                                        7.....................  January 1, 1970 to December 31, 1974.
+                                        7\1/2\................  After December 31, 1974.''.
+
+SEC. 3164. AMENDING SECTION 8336(C)(1) OF TITLE 5, U.S.C.
+
+    Section 8336(c)(1) of title 5, United States Code, is amended by 
+striking ``or firefighter'' and inserting in its place, ``a 
+firefighter, or a Department of Energy nuclear materials courier,''.
+
+SEC. 3165. AMENDING SECTION 8401 OF TITLE 5, U.S.C.
+
+    Section 8401 of title 5, United States Code, is amended by adding 
+the following new paragraph (33) after paragraph (32):
+            ``(33) Department of Energy nuclear materials courier means 
+        an employee of the Department of Energy or its predecessor 
+        agencies, the duties of whose position are primarily to 
+        transport, and provide armed escort and protection during 
+        transit of, nuclear weapons, nuclear weapons components, 
+        strategic quantities of special nuclear materials, or other 
+        materials related to national security, including an employee 
+        who remains fully certified to engage in this activity who is 
+        transferred to a supervisory, training, or administrative 
+        position.''.
+
+SEC. 3166. AMENDING SECTION 8412(D) OF TITLE 5, U.S.C.
+
+    Section 8412(d) of title 5, United States Code, is amended by 
+striking ``or firefighter'' in paragraphs (1) and (2) and inserting in 
+its place, ``a firefighter, or a Department of Energy nuclear materials 
+courier,''.
+
+SEC. 3167. AMENDING SECTION 8415(G) OF TITLE 5, U.S.C.
+
+    Section 8415(g) of title 5, United States Code, is amended by 
+striking ``firefighter'' and inserting in its place ``firefighter, 
+Department of Energy nuclear materials courier,''.
+
+SEC. 3168. AMENDING SECTION 8422(A)(3) OF TITLE 5, U.S.C.
+
+    Section 8422(a)(3) of title 5, United States Code, is amended by 
+striking ``firefighter'' in the schedule and inserting in its place 
+``firefighter, Department of Energy nuclear materials courier,''.
+
+SEC. 3169. AMENDING SECTIONS 8423(A) (1)(B)(I) AND (3)(A) OF TITLE 5, 
+              U.S.C.
+
+    Sections 8423(a)(1)(B)(i) and 8423(a)(3)(A) of title 5, United 
+States Code, are amended by striking ``Firefighters'' and inserting in 
+its place ``firefighters, Department of Energy nuclear materials 
+couriers,''.
+
+SEC. 3170. AMENDING SECTION 8335(B) OF TITLE 5, U.S.C.
+
+    Section 8335(b) of title 5, United States Code, is amended by 
+adding the words ``or Department of Energy Nuclear Materials Couriers'' 
+after the word ``officer'' in the second sentence.
+
+SEC. 3171. PAYMENTS.
+
+    Any payments made by the Department of Energy to the Civil Service 
+Retirement or Disability Fund pursuant to this Act shall be made from 
+the Weapons Activities account.
+
+SEC. 3172. EFFECTIVE DATE.
+
+    These amendments are effective at the beginning of the first pay 
+period in fiscal year 2000, and applies only to those employees who 
+retire after fiscal year 1999.
+
+          TITLE XXXII--DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+SEC. 3201. AUTHORIZATION.
+
+    There are authorized to be appropriated for fiscal year 1999, 
+$17,500,000 for the operation of the Defense Nuclear Facilities Safety 
+Board under chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 
+et seq.).
+
+                TITLE XXXIII--NATIONAL DEFENSE STOCKPILE
+
+SEC. 3301. DEFINITIONS.
+
+    In this title:
+            (1) The term ``National Defense Stockpile'' means the 
+        stockpile provided for in section 4 of the Strategic and 
+        Critical Materials Stock Piling Act (50 U.S.C. 98c).
+            (2) The term ``National Defense Stockpile Transaction 
+        Fund'' means the fund in the Treasury of the United States 
+        established under section 9(a) of the Strategic and Critical 
+        Materials Stock Piling Act (50 U.S.C. 98h(a)).
+
+SEC. 3302. AUTHORIZED USES OF STOCKPILE FUNDS.
+
+    (a) Obligation of Stockpile Funds.--During fiscal year 1999, the 
+National Defense Stockpile Manager may obligate up to $83,000,000 of 
+the funds in the National Defense Stockpile Transaction Fund for the 
+authorized uses of such funds under section 9(b)(2) of the Strategic 
+and Critical Materials Stock Piling Act (50 U.S.C. 98h(b)(2)), 
+including the disposal of hazardous materials that are environmentally 
+sensitive.
+    (b) Additional Obligations.--The National Defense Stockpile Manager 
+may obligate amounts in excess of the amount specified in subsection 
+(a) if the National Defense Stockpile Manager notifies Congress that 
+extraordinary or emergency conditions necessitate the additional 
+obligations. The National Defense Stockpile Manager may make the 
+additional obligations described in the notification after the end of 
+the 45-day period beginning on the date Congress receives the 
+notification.
+    (c) Limitations.--The authorities provided by this section shall be 
+subject to such limitations as may be provided in appropriations Acts.
+
+SEC. 3303. AUTHORITY TO DISPOSE OF CERTAIN MATERIALS IN NATIONAL 
+              DEFENSE STOCKPILE.
+
+    (a) Disposal Required.--Subject to subsection (c), the President 
+shall dispose of materials contained in the National Defense Stockpile 
+and specified in the table in subsection (b) so as to result in 
+receipts to the United States in the amount of $103,000,000 by the end 
+of fiscal year 1999 and $377,000,000 by the end of fiscal year 2003.
+    (b) Limitation on Disposal Quantity.--The total quantities of 
+materials authorized for disposal by the President under subsection (a) 
+may not exceed the amounts set forth in the following table:
+
+
+
+                     Authorized Stockpile Disposals
+------------------------------------------------------------------------
+   Material for disposal                              Quantity
+------------------------------------------------------------------------
+Beryllium Metal, vacuum cast..............  227 short tons
+Chromium Metal--EL........................  8,511 short tons
+Columbium Carbide Powder..................  21,372 pounds contained
+Columbium Ferro...........................  249,395 pounds contained
+Columbium Concentrates....................  1,733,454 pounds contained
+Chromium Ferroalloy.......................  92,000 short tons
+Diamond, Stones...........................  3,000,000 carats
+Germanium Metal...........................  28,198 kilograms
+Indium....................................  14,248 troy ounces
+Palladium.................................  1,227,831 troy ounces
+Platinum..................................  439,887 troy ounces
+Tantalum Carbide Powder...................  22,681 pounds contained
+Tantalum Metal Powder.....................  50,000 pounds contained
+Tantalum Minerals.........................  1,751,364 pounds contained
+Tantalum Oxide............................  122,730 pounds contained
+Tungsten Ferro............................  2,024,143 pounds
+Tungsten Carbide Powder...................  2,032,954 pounds
+Tungsten Metal Powder.....................  1,898,009 pounds
+Tungsten Ores & Concentrates..............  76,358,230 pounds.
+------------------------------------------------------------------------
+
+    (c) Minimization of Disruption and Loss.--The President may not 
+dispose of materials under subsection (a) to the extent that the 
+disposal will result in--
+            (1) undue disruption of the usual markets of producers, 
+        processors, and consumers of the materials proposed for 
+        disposal; or
+            (2) avoidable loss to the United States.
+    (d) Relationship to Other Disposal Authority.--The disposal 
+authority provided in subsection (a) is new disposal authority and is 
+in addition to, and shall not affect, any other disposal authority 
+provided by law regarding the materials specified in such subsection.
+    (e) Authorization of Sale.--The authority provided by this section 
+to dispose of materials contained in the National Defense Stockpile so 
+as to result in receipts of $100,000,000 of the amount specified for 
+fiscal year 1999 in subsection (a) by the end of that fiscal year shall 
+be effective only to the extent provided in advance in appropriation 
+Acts.
+
+SEC. 3304. USE OF STOCKPILE FUNDS FOR CERTAIN ENVIRONMENTAL 
+              REMEDIATION, RESTORATION, WASTE MANAGEMENT, AND 
+              COMPLIANCE ACTIVITIES.
+
+    Section 9(b)(2) of the Strategic and Critical Materials Stock 
+Piling Act (50 U.S.C. 98h(b)(2)) is amended--
+            (1) by redesignating subparagraphs (J) and (K) as 
+        subparagraphs (K) and (L), respectively; and
+            (2) by inserting after subparagraph (I) the following new 
+        subparagraph (J):
+            ``(J) Performance of environmental remediation, 
+        restoration, waste management, or compliance activities at 
+        locations of the stockpile that are required under a Federal 
+        law or are undertaken by the Government under an administrative 
+        decision or negotiated agreement.''.
+
+                 TITLE XXXIV--NAVAL PETROLEUM RESERVES
+
+SEC. 3401. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) Amount.--There is hereby authorized to be appropriated to the 
+Secretary of Energy $117,000,000 for fiscal year 1999 for the purposes 
+of carrying out--
+            (1) activities under chapter 641 of title 10, United States 
+        Code, relating to the naval petroleum reserves (as defined in 
+        section 7420(2) of such title); and
+            (2) activities necessary to terminate the administration of 
+        Naval Petroleum Reserve Numbered 1 by the Secretary after the 
+        sale of that reserve under subtitle B of title XXXIV of the 
+        National Defense Authorization Act for Fiscal Year 1996 (Public 
+        Law 104-106; 10 U.S.C. 7420 note).
+    (b) Availability.--Funds appropriated pursuant to the authorization 
+in subsection (a) shall remain available until expended.
+
+                  TITLE XXXV--PANAMA CANAL COMMISSION
+
+SEC. 3501. SHORT TITLE; REFERENCES TO PANAMA CANAL ACT OF 1979.
+
+    (a) Short Title.--This title may be cited as the ``Panama Canal 
+Commission Authorization Act for Fiscal Year 1999''.
+    (b) References to Panama Canal Act of 1979.--Except as otherwise 
+expressly provided, whenever in this title an amendment or repeal is 
+expressed in terms of an amendment to, or repeal of, a section or other 
+provision, the reference shall be considered to be made to a section or 
+other provision of the Panama Canal Act of 1979 (22 U.S.C. 3601 et 
+seq.).
+
+SEC. 3502. AUTHORIZATION OF EXPENDITURES.
+
+    (a) In General.--Subject to subsection (b), the Panama Canal 
+Commission is authorized to use amounts in the Panama Canal Revolving 
+Fund to make such expenditures within the limits of funds and borrowing 
+authority available to it in accordance with law, and to make such 
+contracts and commitments, as may be necessary under the Panama Canal 
+Act of 1979 (22 U.S.C. 3601 et seq.) for the operation, maintenance, 
+improvement, and administration of the Panama Canal for fiscal year 
+1999.
+    (b) Limitations.--For fiscal year 1999, the Panama Canal Commission 
+may expend from funds in the Panama Canal Revolving Fund not more than 
+$90,000 for official reception and representation expenses, of which--
+            (1) not more than $28,000 may be used for official 
+        reception and representation expenses of the Supervisory Board 
+        of the Commission;
+            (2) not more than $14,000 may be used for official 
+        reception and representation expenses of the Secretary of the 
+        Commission; and
+            (3) not more than $48,000 may be used for official 
+        reception and representation expenses of the Administrator of 
+        the Commission.
+
+SEC. 3503. PURCHASE OF VEHICLES.
+
+    Notwithstanding any other provision of law, the funds available to 
+the Commission shall be available for the purchase and transportation 
+to the Republic of Panama of passenger motor vehicles, the purchase 
+price of which shall not exceed $23,000 per vehicle.
+
+SEC. 3504. EXPENDITURES ONLY IN ACCORDANCE WITH TREATIES.
+
+    Expenditures authorized under this title may be made only in 
+accordance with the Panama Canal Treaties of 1977 and any law of the 
+United States implementing those treaties.
+
+SEC. 3505. DONATIONS TO THE COMMISSION.
+
+    Section 1102b (22 U.S.C. 3612b) is amended by adding at the end the 
+following new subsection:
+    ``(f)(1) The Commission may seek and accept donations of funds, 
+property, and services from individuals, foundations, corporations, and 
+other private and public entities for the purpose of carrying out its 
+promotional activities.
+    ``(2) The Commission shall establish written guidelines setting 
+forth the criteria to be used in determining whether the acceptance of 
+funds, property, or services authorized by paragraph (1) would reflect 
+unfavorably upon the ability of the Commission (or any employee of the 
+Commission) to carry out its responsibilities or official duties in a 
+fair and objective manner or would compromise the integrity or the 
+appearance of the integrity of its programs or of any official in those 
+programs.''.
+
+SEC. 3506. AGREEMENTS FOR UNITED STATES TO PROVIDE POST-TRANSFER 
+              ADMINISTRATIVE SERVICES FOR CERTAIN EMPLOYEE BENEFITS.
+
+    Section 1110 (22 U.S.C. 3620) is amended by adding at the end the 
+following new subsection:
+    ``(c)(1) The Secretary of State may enter into one or more 
+agreements to provide for the United States to furnish administrative 
+services relating to the benefits described in paragraph (2) after 
+December 31, 1999, and to establish appropriate procedures for 
+providing advance funding for the services.
+    ``(2) The benefits referred to in paragraph (1) are the following:
+            ``(A) Pension, disability, and medical benefits provided by 
+        the Panama Canal Commission pursuant to section 1245.
+            ``(B) Compensation for work injuries covered by chapter 81 
+        of title 5, United States Code.''.
+
+SEC. 3507. SUNSET OF UNITED STATES OVERSEAS BENEFITS JUST BEFORE 
+              TRANSFER.
+
+    (a) Repeals.--Effective 11:59 p.m. (Eastern Standard Time), 
+December 30, 1999, the following provisions are repealed and any right 
+or condition of employment provided for in, or arising from, those 
+provisions is terminated: sections 1206 (22 U.S.C. 3646), 1207 (22 
+U.S.C. 3647), 1217(a), (22 U.S.C. 3657(a)), and 1224(11) (22 U.S.C. 
+3664(11)), subparagraphs (A), (B), (F), (G), and (H) of section 
+1231(a)(2) (22 U.S.C. 3671(a)(2)) and section 1321(e) (22 U.S.C. 
+3731(e)).
+    (b) Savings Provision for Basic Pay.--Notwithstanding subsection 
+(a), benefits based on basic pay, as listed in paragraphs (1), (2), 
+(3), (5), and (6) of section 1218 of the Panama Canal Act of 1979, 
+shall be paid as if sections 1217(a) and 1231(a)(2) (A) and (B) of that 
+Act had been repealed effective 12:00 p.m., December 31, 1999. The 
+exception under the preceding sentence shall not apply to any pay for 
+hours of work performed on December 31, 1999.
+    (c) Nonapplicability to Agencies in Panama Other Than Panama Canal 
+Commission.--Section 1212(b)(3) (22 U.S.C. 3652(b)(3)) is amended by 
+striking out ``the Panama Canal Transition Facilitation Act of 1997'' 
+and inserting in lieu thereof ``the Panama Canal Transition 
+Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105-
+85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act 
+for Fiscal Year 1999''.
+
+SEC. 3508. CENTRAL EXAMINING OFFICE.
+
+    Section 1223 (22 U.S.C. 3663) is repealed.
+
+SEC. 3509. LIABILITY FOR VESSEL ACCIDENTS.
+
+    (a) Commission Liability Subject to Claimant Insurance.--(1) 
+Section 1411(a) (22 U.S.C. 3771(a)) is amended by inserting ``to 
+section 1419(b) of this Act and'' after ``Subject'' in the first 
+sentence.
+    (2) Section 1412 (22 U.S.C. 3772) is amended by striking out ``The 
+Commission'' in the first sentence and inserting in lieu thereof 
+``Subject to section 1419(b) of this Act, the Commission''.
+    (3) Section 1416 (22 U.S.C. 3776) is amended by striking out ``A 
+claimant'' in the first sentence and inserting in lieu thereof 
+``Subject to section 1419(b) of this Act, a claimant''.
+    (b) Limitation on Liability.--Section 1419 (22 U.S.C. 3779) is 
+amended by designating the text as subsection (a) and by adding at the 
+end the following:
+    ``(b) The Commission may not consider or pay any claim under 
+section 1411 or 1412 of this Act, nor may an action for damages lie 
+thereon, unless the claimant is covered by one or more valid policies 
+of insurance totalling at least $1,000,000 against the injuries 
+specified in those sections. The Commission's liability on any such 
+claim shall be limited to damages in excess of all amounts recovered or 
+recoverable by the claimant from its insurers. The Commission may not 
+consider or pay any claim by an insurer or subrogee of a claimant under 
+section 1411 or 1412 of this Act.''.
+
+SEC. 3510. PLACEMENT OF UNITED STATES CITIZENS IN POSITIONS WITH THE 
+              UNITED STATES GOVERNMENT.
+
+    Section 1232 (22 U.S.C. 3672) is amended--
+            (1) by striking out subsection (d);
+            (2) by redesignating subsection (c) as subsection (d); and
+            (3) by inserting after subsection (b) the following new 
+        subsection (c):
+    ``(c)(1) Upon the request of an employee or former employee of the 
+Panama Canal Commission described in paragraph (2), the employee shall 
+be afforded eligibility for appointment on a noncompetitive basis to 
+vacant positions in the competitive service of the civil service 
+within--
+            ``(A) an area determined by the Director of the Office of 
+        Personnel Management as being within a reasonable commuting 
+        distance of the employee's residence; or
+            ``(B) in the case of an employee in the Republic of Panama 
+        who chooses to so designate, any Standard Federal Region 
+        designated by the employee.
+    ``(2) Paragraph (1) applies to a person who--
+            ``(A) is a citizen of the United States;
+            ``(B) was an employee of the Panama Canal Commission on or 
+        after July 1, 1998; and
+            ``(C) is in receipt of a notice of separation by reason of 
+        a reduction in force.
+    ``(3) A person's eligibility for a noncompetitive appointment under 
+paragraph (1) expires one year after the date of the separation of that 
+person from employment by the Panama Canal Commission.
+    ``(4) For the purposes of paragraph (2)(B), an employee of the 
+dissolution office established to manage Panama Canal Commission 
+Dissolution Fund established by section 1305 is an employee of the 
+Panama Canal Commission.
+    ``(5) In this subsection, the terms `civil service' and 
+`competitive service' have the meanings given such terms in sections 
+2101(1) and 2102, respectively, of title 5, United States Code.''.
+
+SEC. 3511. PANAMA CANAL BOARD OF CONTRACT APPEALS.
+
+    (a) Establishment and Pay of Board.--Section 3102(a) (22 U.S.C. 
+3862(a)) is amended--
+            (1) in paragraph (1), by striking out ``shall'' in the 
+        first sentence and inserting in lieu thereof ``may''; and
+            (2) by adding at the end the following new paragraph:
+    ``(3) Compensation for members of the Board of Contract Appeals 
+shall be established by the Commission's supervisory board. The annual 
+compensation established for members may not exceed the rate of basic 
+pay established for level IV of the Executive Schedule under section 
+5315 of title 5, United States Code. The compensation of a member may 
+not be reduced during the member's term of office from the level 
+established at the time of the appointment of the member.''.
+    (b) Deadline for Commencement of Board.--Section 3102(e) (22 U.S.C. 
+3862(e)) is amended by striking out ``, but not later than January 1, 
+1999''.
+
+SEC. 3512. TECHNICAL AMENDMENTS.
+
+    (a) Panama Canal Act of 1979.--The Panama Canal Act of 1979 is 
+amended as follows:
+            (1) Section 1202(c) (22 U.S.C. 3642(c)) is amended--
+                    (A) by striking out ``the day before the date of 
+                the enactment of the Panama Canal Transition 
+                Facilitation Act of 1997'' and inserting in lieu 
+                thereof ``November 17, 1997,'';
+                    (B) by striking out ``on or after that date''; and
+                    (C) by striking out ``the day before the date of 
+                enactment'' and inserting in lieu thereof ``that 
+                date''.
+            (2) Section 1212(b)(3) (22 U.S.C. 3652(b)(3)) is amended by 
+        inserting ``the'' after ``by the head of''.
+            (3) Section 1313 (22 U.S.C. 3723) is amended by striking 
+        out ``subsection (d)'' in each of subsections (a), (b), and (d) 
+        and inserting in lieu thereof ``subsection (c)''.
+            (4) Sections 1411(a) and 1412 (22 U.S.C. 3771(a), 3772) are 
+        amended by striking out ``the date of the enactment of the 
+        Panama Canal Transition Facilitation Act of 1997'' and 
+        inserting in lieu thereof ``by November 18, 1998''.
+            (5) Section 1416 (22 U.S.C. 3776) is amended by striking 
+        out ``the date of the enactment of the Panama Canal Transition 
+        Facilitation Act of 1997'' and inserting in lieu thereof ``by 
+        May 17, 1998''.
+    (b) Public Law 104-201.--Effective as of September 23, 1996, and as 
+if included therein as enacted, section 3548(b)(3) of the Panama Canal 
+Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104-201; 
+110 Stat. 2869) is amended by striking out ``section'' in both items of 
+quoted matter and inserting in lieu thereof ``sections''.
+
+SEC. 3513. OFFICER OF THE DEPARTMENT OF DEFENSE DESIGNATED AS A MEMBER 
+              OF THE PANAMA CANAL COMMISSION SUPERVISORY BOARD.
+
+    (a) Authority.--Section 1102(a) (22 U.S.C. 3612(a)) is amended--
+            (1) by striking out the first sentence and inserting in 
+        lieu thereof the following: ``The Commission shall be 
+        supervised by a Board composed of nine members. An officer of 
+        the Department of Defense designated by the Secretary of 
+        Defense shall be one of the members of the Board.''; and
+            (2) in the last sentence, by striking out ``Secretary of 
+        Defense or a designee of the Secretary of Defense'' and 
+        inserting in lieu thereof ``the officer of the Department of 
+        Defense designated by the Secretary of Defense to be a member 
+        of the Board''.
+    (b) Repeal of Superseded Provision.--Section 302 of Public Law 105-
+18 (111 Stat. 168) is repealed.
+
+     TITLE XXXVI--COMMERCIAL ACTIVITIES OF PEOPLE'S LIBERATION ARMY
+
+SEC. 3601. APPLICATION OF AUTHORITIES UNDER THE INTERNATIONAL EMERGENCY 
+              ECONOMIC POWERS ACT TO CHINESE MILITARY COMPANIES.
+
+    (a) Determination of Communist Chinese Military Companies.--
+            (1) In general.--Subject to paragraphs (2) and (3), not 
+        later than 90 days after the date of the enactment of this Act, 
+        the Secretary of Defense, in consultation with the Attorney 
+        General, the Director of Central Intelligence, and the Director 
+        of the Federal Bureau of Investigation, shall compile a list of 
+        persons who are Communist Chinese military companies and who 
+        are operating directly or indirectly in the United States or 
+        any of its territories and possessions, and shall publish the 
+        list of such persons in the Federal Register. On an ongoing 
+        basis, the Secretary of Defense, in consultation with the 
+        Attorney General, the Director of Central Intelligence, and the 
+        Director of the Federal Bureau of Investigation, shall make 
+        additions or deletions to the list based on the latest 
+        information available.
+            (2) Communist chinese military company.--For purposes of 
+        making the determination required by paragraph (1), the term 
+        ``Communist Chinese military company''--
+                    (A) means a person that is--
+                            (i) engaged in providing commercial 
+                        services, manufacturing, producing, or 
+                        exporting, and
+                            (ii) owned or controlled by the People's 
+                        Liberation Army, and
+                    (B) includes, but is not limited to, any person 
+                identified in the United States Defense Intelligence 
+                Agency publication numbered VP-1920-271-90, dated 
+                September 1990, or PC-1921-57-95, dated October 1995, 
+                and any update of such reports for the purposes of this 
+                title.
+    (b) Presidential Authority.--
+            (1) Authority.--The President may exercise the authorities 
+        set forth in section 203(a) of the International Emergency 
+        Economic Powers Act (50 U.S.C. 1702(a)) with respect to any 
+        commercial activity in the United States by a Communist Chinese 
+        military company (except with respect to authorities relating 
+        to importation), without regard to section 202 of that Act.
+            (2) Penalties.--The penalties set forth in section 206 of 
+        the International Emergency Economic Powers Act (50 U.S.C. 
+        1705) shall apply to violations of any license, order, or 
+        regulation issued under paragraph (1).
+
+SEC. 3602. DEFINITION.
+
+    For purposes of this title, the term ``People's Liberation Army'' 
+means the land, naval, and air military services, the police, and the 
+intelligence services of the Communist Government of the People's 
+Republic of China, and any member of any such service or of such 
+police.
+
+                TITLE XXXVII--FORCED OR INDENTURED LABOR
+
+SEC. 3701. FINDINGS.
+
+    Congress makes the following findings:
+            (1) The United States Customs Service has identified goods, 
+        wares, articles, and merchandise mined, produced, or 
+        manufactured under conditions of convict labor, forced labor, 
+        or indentured labor, in several countries.
+            (2) The United States Customs Service has made limited 
+        attempts to prohibit the import of products made with forced 
+        labor, resulting in only a few seizures, detention orders, 
+        fines, and criminal prosecutions.
+            (3) The United States Customs Service has taken 21 formal 
+        administrative actions in the form of detention orders against 
+        different products destined for the United States market, found 
+        to have been made with forced labor, including products from 
+        the People's Republic of China.
+            (4) However, the United States Customs Service has never 
+        formally investigated or pursued enforcement with respect to 
+        attempts to import products made with forced or indentured 
+        child labor.
+            (5) The United States Customs Service can use additional 
+        resources and tools to obtain the timely and in-depth 
+        verification necessary to identify and interdict products made 
+        with forced labor or indentured labor, including forced or 
+        indentured child labor, that are destined for the United States 
+        market.
+            (6) The International Labor Organization estimates that 
+        approximately 250,000,000 children between the ages of 5 and 14 
+        are working in developing countries, including millions of 
+        children in bondage or otherwise forced to work for little or 
+        no pay.
+            (7) Congress has clearly indicated in Public Law 105-61, 
+        Treasury-Postal Service Appropriations, 1998, that forced or 
+        indentured child labor constitutes forced labor under section 
+        307 of the Tariff Act of 1930 (19 U.S.C. 1307).
+
+SEC. 3702. AUTHORIZATION FOR ADDITIONAL CUSTOMS PERSONNEL TO MONITOR 
+              THE IMPORTATION OF PRODUCTS MADE WITH FORCED OR 
+              INDENTURED LABOR.
+
+    There are authorized to be appropriated $2,000,000 for fiscal year 
+1999 to the United States Customs Service to monitor the importation of 
+products made with forced labor or indentured labor, including forced 
+or indentured child labor, the importation of which violates section 
+307 of the Tariff Act of 1930 or section 1761 of title 18, United 
+States Code.
+
+SEC. 3703. REPORTING REQUIREMENT ON FORCED LABOR OR INDENTURED LABOR 
+              PRODUCTS DESTINED FOR THE UNITED STATES MARKET.
+
+    (a) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the Commissioner of Customs shall prepare and 
+transmit to Congress a report on products made with forced labor or 
+indentured labor, including forced or indentured child labor that are 
+destined for the United States market.
+    (b) Contents of Report.--The report under subsection (a) shall 
+include information concerning the following:
+            (1) The extent of the use of forced labor or indentured 
+        labor, including forced or indentured child labor in 
+        manufacturing or mining products destined for the United States 
+        market.
+            (2) The volume of products made or mined with forced labor 
+        or indentured labor, including forced or indentured child labor 
+        that is--
+                    (A) destined for the United States market,
+                    (B) in violation of section 307 of the Tariff Act 
+                of 1930 or section 1761 of title 18, United States 
+                Code, and
+                    (C) seized by the United States Customs Service.
+            (3) The progress of the United States Customs Service in 
+        identifying and interdicting products made with forced labor or 
+        indentured labor, including forced or indentured child labor 
+        that are destined for the United States market.
+
+SEC. 3704. RENEGOTIATING MEMORANDA OF UNDERSTANDING ON FORCED LABOR.
+
+    It is the sense of Congress that the President should determine 
+whether any country with which the United States has a memorandum of 
+understanding with respect to reciprocal trade that involves goods made 
+with forced labor or indentured labor, including forced or indentured 
+child labor is frustrating implementation of the memorandum. If an 
+affirmative determination be made, the President should immediately 
+commence negotiations to replace the current memorandum of 
+understanding with one providing for effective procedures for the 
+monitoring of forced labor or indentured labor, including forced or 
+indentured child labor. The memorandum of understanding should include 
+improved procedures for requesting investigations of suspected work 
+sites by international monitors.
+
+             TITLE XXXVIII--FAIR TRADE IN AUTOMOTIVE PARTS
+
+SEC. 3801. SHORT TITLE.
+
+    This title may be cited as the ``Fair Trade in Automotive Parts Act 
+of 1998''.
+
+SEC. 3802. DEFINITIONS.
+
+    In this title:
+            (1) Japanese markets.--The term ``Japanese markets'' refers 
+        to markets, including markets in the United States and Japan, 
+        where automotive parts and accessories, both original equipment 
+        and aftermarket, are purchased for use in the manufacture or 
+        repair of Japanese automobiles.
+            (2) Japanese and other asian markets.--The term ``Japanese 
+        and other Asian markets'' refers to markets, including markets 
+        in the United States, Japan, and other Asian countries, where 
+        automotive parts and accessories, both original equipment and 
+        aftermarket, are purchased for use in the manufacture or repair 
+        of Japanese, American, or other Asian automobiles.
+
+SEC. 3803. RE-ESTABLISHMENT OF INITIATIVE ON AUTOMOTIVE PARTS SALES TO 
+              JAPAN.
+
+    (a) In General.--The Secretary of Commerce shall re-establish the 
+initiative to increase the sale of United States made automotive parts 
+and accessories to Japanese markets.
+    (b) Functions.--In carrying out this section, the Secretary shall--
+            (1) foster increased access for United States made 
+        automotive parts and accessories to Japanese companies, 
+        including specific consultations on access to Japanese markets;
+            (2) facilitate the exchange of information between United 
+        States automotive parts manufacturers and the Japanese 
+        automobile industry;
+            (3) collect data and market information on the Japanese 
+        automotive industry regarding needs, trends, and procurement 
+        practices, including the types, volume, and frequency of parts 
+        sales to Japanese automobile manufacturers;
+            (4) establish contacts with Japanese automobile 
+        manufacturers in order to facilitate contact between United 
+        States automotive parts manufacturers and Japanese automobile 
+        manufacturers;
+            (5) report on and attempt to resolve disputes, policies or 
+        practices, whether public or private, that result in barriers 
+        to increased commerce between United States automotive parts 
+        manufacturers and Japanese automobile manufacturers;
+            (6) take actions to initiate periodic consultations with 
+        officials of the Government of Japan regarding sales of United 
+        States-made automotive parts in Japanese markets; and
+            (7) transmit to Congress the annual report prepared by the 
+        Special Advisory Committee under section 3804(c)(5).
+
+SEC. 3804. ESTABLISHMENT OF SPECIAL ADVISORY COMMITTEE ON AUTOMOTIVE 
+              PARTS SALES IN JAPANESE AND OTHER ASIAN MARKETS.
+
+    (a) In General.--The Secretary of Commerce shall seek the advice of 
+the United States automotive parts industry in carrying out this title.
+    (b) Establishment of Committee.--The Secretary of Commerce shall 
+establish a Special Advisory Committee for purposes of carrying out 
+this title.
+    (c) Functions.--The Special Advisory Committee established under 
+subsection (b) shall--
+            (1) report to the Secretary of Commerce on barriers to 
+        sales of United States-made automotive parts and accessories in 
+        Japanese and other Asian markets;
+            (2) review and consider data collected on sales of United 
+        States-made automotive parts and accessories in Japanese and 
+        other Asian markets;
+            (3) advise the Secretary of Commerce during consultations 
+        with other governments on issues concerning sales of United 
+        States-made automotive parts in Japanese and other Asian 
+        markets;
+            (4) assist in establishing priorities for the initiative 
+        established under section 3803, and otherwise provide 
+        assistance and direction to the Secretary of Commerce in 
+        carrying out the intent of that section; and
+            (5) assist the Secretary in reporting to Congress by 
+        submitting an annual written report to the Secretary on the 
+        sale of United States-made automotive parts in Japanese and 
+        other Asian markets, as well as any other issues with respect 
+        to which the Committee provides advice pursuant to this title.
+    (d) Authority.--The Secretary of Commerce shall draw on existing 
+budget authority in carrying out this title.
+
+SEC. 3805. EXPIRATION DATE.
+
+    The authority under this title shall expire on December 31, 2003.
+
+                     TITLE XXXIX --RADIO FREE ASIA
+
+SEC. 3901. SHORT TITLE.
+
+    This title may be cited as the ``Radio Free Asia Act of 1998''.
+
+SEC. 3902. FINDINGS.
+
+    The Congress makes the following findings:
+            (1) The Government of the People's Republic of China 
+        systematically controls the flow of information to the Chinese 
+        people.
+            (2) The Government of the People's Republic of China 
+        demonstrated that maintaining its monopoly on political power 
+        is a higher priority than economic development by announcing in 
+        January 1996 that its official news agency, Xinhua, will 
+        supervise wire services selling economic information, including 
+        Dow Jones-Telerate, Bloomberg, and Reuters Business, and in 
+        announcing in February 1996 the ``Interim Internet Management 
+        Rules'', which have the effect of censoring computer networks.
+            (3) Under the May 30, 1997, order of Premier Li Peng, all 
+        organizations that engage in business activities related to 
+        international computer networking must now apply for a license, 
+        increasing still further government control over access to the 
+        Internet.
+            (4) Both Radio Free Asia and the Voice of America, as a 
+        surrogate for a free press in the People's Republic of China, 
+        provide an invaluable source of uncensored information to the 
+        Chinese people, including objective and authoritative news of 
+        in-country and regional events, as well as accurate news about 
+        the United States and its policies.
+            (5) Enhanced broadcasting service to China and Tibet can 
+        efficiently be established through a combination of Radio Free 
+        Asia and Voice of America programming.
+            (6) Radio Free Asia and Voice of America, in working toward 
+        continuously broadcasting to the People's Republic of China in 
+        multiple languages, have the capability to establish 24-hour-a-
+        day Mandarin broadcasting to that nation by staggering the 
+        hours of Radio Free Asia and Voice of America.
+            (7) Simultaneous broadcastings on Voice of America radio 
+        and Worldnet television 7 days a week in Mandarin are also 
+        important and needed capabilities.
+
+SEC. 3903. AUTHORIZATION OF APPROPRIATIONS FOR INCREASED FUNDING FOR 
+              RADIO FREE ASIA AND VOICE OF AMERICA BROADCASTING TO 
+              CHINA.
+
+    (a) Authorization of Appropriations for Radio Free Asia.--
+            (1) Authorization of appropriations.--There are authorized 
+        to be appropriated for ``Radio Free Asia'' $30,000,000 for 
+        fiscal year 1998 and $22,000,000 for fiscal year 1999.
+            (2) Limitations.--Of the funds under paragraph (1) 
+        authorized to be appropriated for fiscal year 1998, $8,000,000 
+        is authorized to be appropriated for one-time capital costs.
+            (3) Sense of congress.--It is the sense of Congress that of 
+        the funds under paragraph (1), a significant amount shall be 
+        directed towards broadcasting to China and Tibet in the 
+        appropriate languages and dialects.
+    (b) Authorization of Appropriations for International Broadcasting 
+to China.--In addition to such sums as are otherwise authorized to be 
+appropriated for ``International Broadcasting Activities'' for fiscal 
+years 1998 and 1999, there are authorized to be appropriated for 
+``International Broadcasting Activities'' $5,000,000 for fiscal year 
+1998 and $3,000,000 for fiscal year 1999, which shall be available only 
+for enhanced Voice of America broadcasting to China. Of the funds 
+authorized under this subsection $100,000 is authorized to be 
+appropriated for each of the fiscal years 1998 and 1999 for additional 
+personnel to staff Hmong language broadcasting.
+    (c) Authorization of Appropriations for Radio Construction.--In 
+addition to such sums as are otherwise authorized to be appropriated 
+for ``Radio Construction'' for fiscal years 1998 and 1999, there are 
+authorized to be appropriated for ``Radio Construction'' $10,000,000 
+for fiscal year 1998 and $2,000,000 for fiscal year 1999, which shall 
+be available only for construction in support of enhanced broadcasting 
+to China, including the timely augmentation of transmitters at Tinian, 
+the Commonwealth of the Northern Mariana Islands.
+
+SEC. 3904. REPORTING REQUIREMENT.
+
+    (a) Report.--Not later than 90 days after the date of enactment of 
+this Act, the Broadcasting Board of Governors shall prepare and submit 
+to the appropriate congressional committees an assessment of the 
+board's efforts to increase broadcasting by Radio Free Asia and Voice 
+of America to China and Tibet. This report shall include an analysis of 
+Chinese government control of the media, the ability of independent 
+journalists and news organizations to operate in China, and the results 
+of any research conducted to quantify listenership.
+    (b) Purposes.--For purposes of this section, appropriate 
+congressional committees are defined as the Senate Committees on 
+Foreign Relations and Appropriations and the House Committees on 
+International Relations and Appropriations.
+
+            Passed the Senate June 25, 1998.
+
+            Attest:
+
+                                                    GARY SISCO,
+
+                                                             Secretary.

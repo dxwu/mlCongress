@@ -1,0 +1,62 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 2322 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                S. 2322
+
+To amend the Internal Revenue Code of 1986 to change the determination 
+  of the 50,000-barrel refinery limitation on oil depletion deduction 
+          from a daily basis to an annual average daily basis.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 16, 1998
+
+  Mr. Breaux (for himself, Mr. Nickles, and Mr. Helms) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                                Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to change the determination 
+  of the 50,000-barrel refinery limitation on oil depletion deduction 
+          from a daily basis to an annual average daily basis.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. DETERMINATION OF LARGE REFINER EXCEPTION TO OIL DEPLETION 
+              DEDUCTION.
+
+    (a) In General.--Section 613A(d)(4) of the Internal Revenue Code of 
+1986 (relating to certain refiners excluded) is amended to read as 
+follows:
+            ``(4) Certain refiners excluded.--If the taxpayer or a 
+        related person engages in the refining of crude oil, subsection 
+        (c) shall not apply to the taxpayer for a taxable year if the 
+        average daily refinery runs of the taxpayer and the related 
+        person for the taxable year exceed 50,000 barrels. For purposes 
+        of this paragraph, the average daily refinery runs for any 
+        taxable year shall be determined by dividing the aggregate 
+        refinery runs for the taxable year by the number of days in the 
+        taxable year.''
+    (b) Effective Date.--The amendment made by this section applies to 
+taxable years beginning after December 31, 1997.
+                                 <all>

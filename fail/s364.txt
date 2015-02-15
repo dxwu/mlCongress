@@ -1,0 +1,622 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[S. 364 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                 S. 364
+
+    To provide legal standards and procedures for suppliers of raw 
+           materials and component parts for medical devices.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 26, 1997
+
+  Mr. Lieberman (for himself, Mr. McCain, Mr. Lott, Mr. Ashcroft, Mr. 
+   Gorton, Mrs. Feinstein, Mr. Gregg, and Mr. Frist) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                 Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To provide legal standards and procedures for suppliers of raw 
+           materials and component parts for medical devices.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Biomaterials Access Assurance Act of 
+1997''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds that--G/<greek-th> x 
+            (1) each year millions of citizens of the United States 
+        depend on the availability of lifesaving or life enhancing 
+        medical devices, many of which are permanently implantable 
+        within the human body;
+            (2) a continued supply of raw materials and component parts 
+        is necessary for the invention, development, improvement, and 
+        maintenance of the supply of the devices;
+            (3) most of the medical devices are made with raw materials 
+        and component parts that--
+                    (A) are not designed or manufactured specifically 
+                for use in medical devices; and
+                    (B) come in contact with internal human tissue;
+            (4) the raw materials and component parts also are used in 
+        a variety of nonmedical products;
+            (5) because small quantities of the raw materials and 
+        component parts are used for medical devices, sales of raw 
+        materials and component parts for medical devices constitute an 
+        extremely small portion of the overall market for the raw 
+        materials and medical devices;
+            (6) under the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 301 et seq.), manufacturers of medical devices are 
+        required to demonstrate that the medical devices are safe and 
+        effective, including demonstrating that the products are 
+        properly designed and have adequate warnings or instructions;
+            (7) notwithstanding the fact that raw materials and 
+        component parts suppliers do not design, produce, or test a 
+        final medical device, the suppliers have been the subject of 
+        actions alleging inadequate--
+                    (A) design and testing of medical devices 
+                manufactured with materials or parts supplied by the 
+                suppliers; or
+                    (B) warnings related to the use of such medical 
+                devices;
+            (8) even though suppliers of raw materials and component 
+        parts have very rarely been held liable in such actions, such 
+        suppliers have ceased supplying certain raw materials and 
+        component parts for use in medical devices because the costs 
+        associated with litigation in order to ensure a favorable 
+        judgment for the suppliers far exceeds the total potential 
+        sales revenues from sales by such suppliers to the medical 
+        device industry;
+            (9) unless alternate sources of supply can be found, the 
+        unavailability of raw materials and component parts for medical 
+        devices will lead to unavailability of lifesaving and life-
+        enhancing medical devices;
+            (10) because other suppliers of the raw materials and 
+        component parts in foreign nations are refusing to sell raw 
+        materials or component parts for use in manufacturing certain 
+        medical devices in the United States, the prospects for 
+        development of new sources of supply for the full range of 
+        threatened raw materials and component parts for medical 
+        devices are remote;
+            (11) it is unlikely that the small market for such raw 
+        materials and component parts in the United States could 
+        support the large investment needed to develop new suppliers of 
+        such raw materials and component parts;
+            (12) attempts to develop such new suppliers would raise the 
+        cost of medical devices;
+            (13) courts that have considered the duties of the 
+        suppliers of the raw materials and component parts have 
+        generally found that the suppliers do not have a duty--
+                    (A) to evaluate the safety and efficacy of the use 
+                of a raw material or component part in a medical 
+                device; and
+                    (B) to warn consumers concerning the safety and 
+                effectiveness of a medical device;
+            (14) attempts to impose the duties referred to in 
+        subparagraphs (A) and (B) of paragraph (13) on suppliers of the 
+        raw materials and component parts would cause more harm than 
+        good by driving the suppliers to cease supplying manufacturers 
+        of medical devices; and
+            (15) in order to safeguard the availability of a wide 
+        variety of lifesaving and life-enhancing medical devices, 
+        immediate action is needed--
+                    (A) to clarify the permissible bases of liability 
+                for suppliers of raw materials and component parts for 
+                medical devices; and
+                    (B) to provide expeditious procedures to dispose of 
+                unwarranted suits against the suppliers in such manner 
+                as to minimize litigation costs.
+
+SEC. 3. DEFINITIONS.
+
+    As used in this Act:
+            (1) Biomaterials supplier.--
+                    (A) In general.--The term ``biomaterials supplier'' 
+                means an entity that directly or indirectly supplies a 
+                component part or raw material for use in the 
+                manufacture of an implant.
+                    (B) Persons included.--Such term includes any 
+                person who--
+                            (i) has submitted master files to the 
+                        Secretary for purposes of premarket approval of 
+                        a medical device; or
+                            (ii) licenses a biomaterials supplier to 
+                        produce component parts or raw materials.
+            (2) Claimant.--
+                    (A) In general.--The term ``claimant'' means any 
+                person who brings a civil action, or on whose behalf a 
+                civil action is brought, arising from harm allegedly 
+                caused directly or indirectly by an implant, including 
+                a person other than the individual into whose body, or 
+                in contact with whose blood or tissue, the implant is 
+                placed, who claims to have suffered harm as a result of 
+                the implant.
+                    (B) Action brought on behalf of an estate.--With 
+                respect to an action brought on behalf of or through 
+                the estate of an individual into whose body, or in 
+                contact with whose blood or tissue the implant is 
+                placed, such term includes the decedent that is the 
+                subject of the action.
+                    (C) Action brought on behalf of a minor or 
+                incompetent.--With respect to an action brought on 
+                behalf of or through a minor or incompetent, such term 
+                includes the parent or guardian of the minor or 
+                incompetent.
+                    (D) Exclusions.--Such term does not include--
+                            (i) a provider of professional health care 
+                        services, in any case in which--
+                                    (I) the sale or use of an implant 
+                                is incidental to the transaction; and
+                                    (II) the essence of the transaction 
+                                is the furnishing of judgment, skill, 
+                                or services;
+                            (ii) a person acting in the capacity of a 
+                        manufacturer, seller, or biomaterials supplier; 
+                        or
+                            (iii) a person alleging harm caused by 
+                        either the silicone gel or the silicone 
+                        envelope utilized in a breast implant 
+                        containing silicone gel, except that--
+                                    (I) neither the exclusion provided 
+                                by this clause nor any other provision 
+                                of this Act may be construed as a 
+                                finding that silicone gel (or any other 
+                                form of silicone) may or may not cause 
+                                harm; and
+                                    (II) the existence of the exclusion 
+                                under this clause may not--
+                                            (aa) be disclosed to a jury 
+                                        in any civil action or other 
+                                        proceeding; and
+                                            (bb) except as necessary to 
+                                        establish the applicability of 
+                                        this Act, otherwise be 
+                                        presented in any civil action 
+                                        or other proceeding.
+            (3) Component part.--
+                    (A) In general.--The term ``component part'' means 
+                a manufactured piece of an implant.
+                    (B) Certain components.--Such term includes a 
+                manufactured piece of an implant that--
+                            (i) has significant non-implant 
+                        applications; and
+                            (ii) alone, has no implant value or 
+                        purpose, but when combined with other component 
+                        parts and materials, constitutes an implant.
+            (4) Harm.--
+                    (A) In general.--The term ``harm'' means--
+                            (i) any injury to or damage suffered by an 
+                        individual;
+                            (ii) any illness, disease, or death of that 
+                        individual resulting from that injury or 
+                        damage; and
+                            (iii) any loss to that individual or any 
+                        other individual resulting from that injury or 
+                        damage.
+                    (B) Exclusion.--The term does not include any 
+                commercial loss or loss of or damage to an implant.
+            (5) Implant.--The term ``implant'' means--
+                    (A) a medical device that is intended by the 
+                manufacturer of the device--
+                            (i) to be placed into a surgically or 
+                        naturally formed or existing cavity of the body 
+                        for a period of at least 30 days; or
+                            (ii) to remain in contact with bodily 
+                        fluids or internal human tissue through a 
+                        surgically produced opening for a period of 
+                        less than 30 days; and
+                    (B) suture materials used in implant procedures.
+            (6) Manufacturer.--The term ``manufacturer'' means any 
+        person who, with respect to an implant--
+                    (A) is engaged in the manufacture, preparation, 
+                propagation, compounding, or processing (as defined in 
+                section 510(a)(1)) of the Federal Food, Drug, and 
+                Cosmetic Act (21 U.S.C. 360(a)(1)) of the implant; and
+                    (B) is required--
+                            (i) to register with the Secretary pursuant 
+                        to section 510 of the Federal Food, Drug, and 
+                        Cosmetic Act (21 U.S.C. 360) and the 
+                        regulations issued under such section; and
+                            (ii) to include the implant on a list of 
+                        devices filed with the Secretary pursuant to 
+                        section 510(j) of such Act (21 U.S.C. 360(j)) 
+                        and the regulations issued under such section.
+            (7) Medical device.--The term ``medical device'' means a 
+        device, as defined in section 201(h) of the Federal Food, Drug, 
+        and Cosmetic Act (21 U.S.C. 321(h)) and includes any device 
+        component of any combination product as that term is used in 
+        section 503(g) of such Act (21 U.S.C. 353(g)).
+            (8) Raw material.--The term ``raw material'' means a 
+        substance or product that--
+                    (A) has a generic use; and
+                    (B) may be used in an application other than an 
+                implant.
+            (9) Secretary.--The term ``Secretary'' means the Secretary 
+        of Health and Human Services.
+            (10) Seller.--
+                    (A) In general.--The term ``seller'' means a person 
+                who, in the course of a business conducted for that 
+                purpose, sells, distributes, leases, packages, labels, 
+                or otherwise places an implant in the stream of 
+                commerce.
+                    (B) Exclusions.--The term does not include--
+                            (i) a seller or lessor of real property;
+                            (ii) a provider of professional services, 
+                        in any case in which the sale or use of an 
+                        implant is incidental to the transaction and 
+                        the essence of the transaction is the 
+                        furnishing of judgment, skill, or services; or
+                            (iii) any person who acts in only a 
+                        financial capacity with respect to the sale of 
+                        an implant.
+
+SEC. 4. GENERAL REQUIREMENTS; APPLICABILITY; PREEMPTION.
+
+    (a) General Requirements.--
+            (1) In general.--In any civil action covered by this Act, a 
+        biomaterials supplier may raise any defense set forth in 
+        section 5.
+            (2) Procedures.--Notwithstanding any other provision of 
+        law, the Federal or State court in which a civil action covered 
+        by this Act is pending shall, in connection with a motion for 
+        dismissal or judgment based on a defense described in paragraph 
+        (1), use the procedures set forth in section 6.
+    (b) Applicability.--
+            (1) In general.--Except as provided in paragraph (2), 
+        notwithstanding any other provision of law, this Act applies to 
+        any civil action brought by a claimant, whether in a Federal or 
+        State court, against a manufacturer, seller, or biomaterials 
+        supplier, on the basis of any legal theory, for harm allegedly 
+        caused by an implant.
+            (2) Exclusion.--A civil action brought by a purchaser of a 
+        medical device for use in providing professional services 
+        against a manufacturer, seller, or biomaterials supplier for 
+        loss or damage to an implant or for commercial loss to the 
+        purchaser--
+                    (A) shall not be considered an action that is 
+                subject to this Act; and
+                    (B) shall be governed by applicable commercial or 
+                contract law.
+    (c) Scope of Preemption.--
+            (1) In general.--This Act supersedes any State law 
+        regarding recovery for harm caused by an implant and any rule 
+        of procedure applicable to a civil action to recover damages 
+        for such harm only to the extent that this Act establishes a 
+        rule of law applicable to the recovery of such damages.
+            (2) Applicability of other laws.--Any issue that arises 
+        under this Act and that is not governed by a rule of law 
+        applicable to the recovery of damages described in paragraph 
+        (1) shall be governed by applicable Federal or State law.
+    (d) Statutory Construction.--Nothing in this Act may be construed--
+            (1) to affect any defense available to a defendant under 
+        any other provisions of Federal or State law in an action 
+alleging harm caused by an implant; or
+            (2) to create a cause of action or Federal court 
+        jurisdiction pursuant to section 1331 or 1337 of title 28, 
+        United States Code, that otherwise would not exist under 
+        applicable Federal or State law.
+
+SEC. 5. LIABILITY OF BIOMATERIALS SUPPLIERS.
+
+    (a) In General.--
+            (1) Exclusion from liability.--Except as provided in 
+        paragraph (2), a biomaterials supplier shall not be liable for 
+        harm to a claimant caused by an implant.
+            (2) Liability.--A biomaterials supplier that--
+                    (A) is a manufacturer may be liable for harm to a 
+                claimant described in subsection (b);
+                    (B) is a seller may be liable for harm to a 
+                claimant described in subsection (c); and
+                    (C) furnishes raw materials or component parts that 
+                fail to meet applicable contractual requirements or 
+                specifications may be liable for a harm to a claimant 
+                described in subsection (d).
+    (b) Liability as Manufacturer.--
+            (1) In general.--A biomaterials supplier may, to the extent 
+        required and permitted by any other applicable law, be liable 
+        for harm to a claimant caused by an implant if the biomaterials 
+        supplier is the manufacturer of the implant.
+            (2) Grounds for liability.--The biomaterials supplier may 
+        be considered the manufacturer of the implant that allegedly 
+        caused harm to a claimant only if the biomaterials supplier--
+                    (A)(i) has registered with the Secretary pursuant 
+                to section 510 of the Federal Food, Drug, and Cosmetic 
+                Act (21 U.S.C. 360) and the regulations issued under 
+                such section; and
+                    (ii) included the implant on a list of devices 
+                filed with the Secretary pursuant to section 510(j) of 
+                such Act (21 U.S.C. 360(j)) and the regulations issued 
+                under such section;
+                    (B) is the subject of a declaration issued by the 
+                Secretary pursuant to paragraph (3) that states that 
+                the supplier, with respect to the implant that 
+                allegedly caused harm to the claimant, was required 
+                to--
+                            (i) register with the Secretary under 
+                        section 510 of such Act (21 U.S.C. 360), and 
+                        the regulations issued under such section, but 
+                        failed to do so; or
+                            (ii) include the implant on a list of 
+                        devices filed with the Secretary pursuant to 
+                        section 510(j) of such Act (21 U.S.C. 360(j)) 
+                        and the regulations issued under such section, 
+                        but failed to do so; or
+                    (C) is related by common ownership or control to a 
+                person meeting all the requirements described in 
+                subparagraph (A) or (B), if the court deciding a motion 
+                to dismiss in accordance with section 6(c)(3)(B)(i) 
+                finds, on the basis of affidavits submitted in 
+                accordance with section 6, that it is necessary to 
+                impose liability on the biomaterials supplier as a 
+                manufacturer because the related manufacturer meeting 
+                the requirements of subparagraph (A) or (B) lacks 
+                sufficient financial resources to satisfy any judgment 
+                that the court feels it is likely to enter should the 
+                claimant prevail.
+            (3) Administrative procedures.--
+                    (A) In general.--The Secretary may issue a 
+                declaration described in paragraph (2)(B) on the motion 
+                of the Secretary or on petition by any person, after 
+                providing--
+                            (i) notice to the affected persons; and
+                            (ii) an opportunity for an informal 
+                        hearing.
+                    (B) Docketing and final decision.--Immediately upon 
+                receipt of a petition filed pursuant to this paragraph, 
+                the Secretary shall docket the petition. Not later than 
+                180 days after the petition is filed, the Secretary 
+                shall issue a final decision on the petition.
+                    (C) Applicability of statute of limitations.--Any 
+                applicable statute of limitations shall toll during the 
+                period during which a claimant has filed a petition 
+                with the Secretary under this paragraph.
+    (c) Liability as Seller.--A biomaterials supplier may, to the 
+extent required and permitted by any other applicable law, be liable as 
+a seller for harm to a claimant caused by an implant if--
+            (1) the biomaterials supplier--
+                    (A) held title to the implant that allegedly caused 
+                harm to the claimant as a result of purchasing the 
+                implant after--
+                            (i) the manufacture of the implant; and
+                            (ii) the entrance of the implant in the 
+                        stream of commerce; and
+                (B) subsequently resold the implant; or
+            (2) the biomaterials supplier is related by common 
+        ownership or control to a person meeting all the requirements 
+        described in paragraph (1), if a court deciding a motion to 
+        dismiss in accordance with section 6(c)(3)(B)(ii) finds, on the 
+        basis of affidavits submitted in accordance with section 6, 
+        that it is necessary to impose liability on the biomaterials 
+        supplier as a seller because the related seller meeting the 
+        requirements of paragraph (1) lacks sufficient financial 
+        resources to satisfy any judgment that the court feels it is 
+        likely to enter should the claimant prevail.
+    (d) Liability for Violating Contractual Requirements or 
+Specifications.--A biomaterials supplier may, to the extent required 
+and permitted by any other applicable law, be liable for harm to a 
+claimant caused by an implant, if the claimant in an action shows, by a 
+preponderance of the evidence, that--
+            (1) the raw materials or component parts delivered by the 
+        biomaterials supplier either--
+                    (A) did not constitute the product described in the 
+                contract between the biomaterials supplier and the 
+                person who contracted for delivery of the product; or
+                    (B) failed to meet any specifications that were--
+                            (i) provided to the biomaterials supplier 
+                        and not expressly repudiated by the 
+                        biomaterials supplier prior to acceptance of 
+                        delivery of the raw materials or component 
+                        parts;
+                            (ii)(I) published by the biomaterials 
+                        supplier;
+                            (II) provided to the manufacturer by the 
+                        biomaterials supplier; or
+                            (III) contained in a master file that was 
+                        submitted by the biomaterials supplier to the 
+                        Secretary and that is currently maintained by 
+                        the biomaterials supplier for purposes of 
+                        premarket approval of medical devices; or
+                            (iii) included in the submissions for 
+                        purposes of premarket approval or review by the 
+                        Secretary under section 510, 513, 515, or 520 
+                        of the Federal Food, Drug, and Cosmetic Act (21 
+                        U.S.C. 360, 360c, 360e, or 360j), and received 
+                        clearance from the Secretary if such 
+                        specifications were provided by the 
+                        manufacturer to the biomaterials supplier and 
+                        were not expressly repudiated by the 
+                        biomaterials supplier prior to the acceptance 
+                        by the manufacturer of delivery of the raw 
+                        materials or component parts; and
+            (2) such conduct was an actual and proximate cause of the 
+        harm to the claimant.
+
+SEC. 6. PROCEDURES FOR DISMISSAL OF CIVIL ACTIONS AGAINST BIOMATERIALS 
+              SUPPLIERS.
+
+    (a) Motion To Dismiss.--In any action that is subject to this Act, 
+a biomaterials supplier who is a defendant in such action may, at any 
+time during which a motion to dismiss may be filed under an applicable 
+law, move to dismiss the action against it on the grounds that--
+            (1) the defendant is a biomaterials supplier; and
+            (2)(A) the defendant should not, for the purposes of--
+                    (i) section 5(b), be considered to be a 
+                manufacturer of the implant that is subject to such 
+                section; or
+                    (ii) section 5(c), be considered to be a seller of 
+                the implant that allegedly caused harm to the claimant; 
+                or
+            (B)(i) the claimant has failed to establish, pursuant to 
+        section 5(d), that the supplier furnished raw materials or 
+        component parts in violation of contractual requirements or 
+        specifications; or
+            (ii) the claimant has failed to comply with the procedural 
+        requirements of subsection (b).
+    (b) Manufacturer of Implant Shall Be Named a Party.--The claimant 
+shall be required to name the manufacturer of the implant as a party to 
+the action, unless--
+            (1) the manufacturer is subject to service of process 
+        solely in a jurisdiction in which the biomaterials supplier is 
+        not domiciled or subject to a service of process; or
+            (2) an action against the manufacturer is barred by 
+        applicable law.
+    (c) Proceeding on Motion To Dismiss.--The following rules shall 
+apply to any proceeding on a motion to dismiss filed under this 
+section:
+            (1) Affidavits relating to listing and declarations.--
+                    (A) In general.--The defendant in the action may 
+                submit an affidavit demonstrating that defendant has 
+                not included the implant on a list, if any, filed with 
+                the Secretary pursuant to section 510(j) of the Federal 
+                Food, Drug, and Cosmetic Act (21 U.S.C. 360(j)).
+                    (B) Response to motion to dismiss.--In response to 
+                the motion to dismiss, the claimant may submit an 
+                affidavit demonstrating that--
+                            (i) the Secretary has, with respect to the 
+                        defendant and the implant that allegedly caused 
+                        harm to the claimant, issued a declaration 
+                        pursuant to section 5(b)(2)(B); or
+                            (ii) the defendant who filed the motion to 
+                        dismiss is a seller of the implant who is 
+                        liable under section 5(c).
+            (2) Effect of motion to dismiss on discovery.--
+                    (A) In general.--If a defendant files a motion to 
+                dismiss under paragraph (1) or (2) of subsection (a), 
+                no discovery shall be permitted in connection to the 
+                action that is the subject of the motion, other than 
+                discovery necessary to determine a motion to dismiss 
+                for lack of jurisdiction, until such time as the court 
+                rules on the motion to dismiss in accordance with the 
+                affidavits submitted by the parties in accordance with 
+                this section.
+                    (B) Discovery.--If a defendant files a motion to 
+                dismiss under subsection (a)(2)(B)(i) on the grounds 
+                that the biomaterials supplier did not furnish raw 
+                materials or component parts in violation of 
+                contractual requirements or specifications, the court 
+                may permit discovery, as ordered by the court. The 
+                discovery conducted pursuant to this subparagraph shall 
+                be limited to issues that are directly relevant to--
+                            (i) the pending motion to dismiss; or
+                            (ii) the jurisdiction of the court.
+            (3) Affidavits relating status of defendant.--
+                    (A) In general.--Except as provided in clauses (i) 
+                and (ii) of subparagraph (B), the court shall consider 
+                a defendant to be a biomaterials supplier who is not 
+                subject to an action for harm to a claimant caused by 
+                an implant, other than an action relating to liability 
+                for a violation of contractual requirements or 
+                specifications described in subsection (d).
+                    (B) Responses to motion to dismiss.--The court 
+                shall grant a motion to dismiss any action that asserts 
+                liability of the defendant under subsection (b) or (c) 
+                of section 5 on the grounds that the defendant is not a 
+                manufacturer subject to such section 5(b) or seller 
+                subject to section 5(c), unless the claimant submits a 
+                valid affidavit that demonstrates that--
+                            (i) with respect to a motion to dismiss 
+                        contending the defendant is not a manufacturer, 
+                        the defendant meets the applicable requirements 
+                        for liability as a manufacturer under section 
+                        5(b); or
+                            (ii) with respect to a motion to dismiss 
+                        contending that the defendant is not a seller, 
+                        the defendant meets the applicable requirements 
+                        for liability as a seller under section 5(c).
+            (4) Basis of ruling on motion to dismiss.--
+                    (A) In general.--The court shall rule on a motion 
+                to dismiss filed under subsection (a) solely on the 
+basis of the pleadings of the parties made pursuant to this section and 
+any affidavits submitted by the parties pursuant to this section.
+                    (B) Motion for summary judgment.--Notwithstanding 
+                any other provision of law, if the court determines 
+                that the pleadings and affidavits made by parties 
+                pursuant to this section raise genuine issues as 
+                concerning material facts with respect to a motion 
+                concerning contractual requirements and specifications, 
+                the court may deem the motion to dismiss to be a motion 
+                for summary judgment made pursuant to subsection (d).
+    (d) Summary Judgment.--
+            (1) In general.--
+                    (A) Basis for entry of judgment.--A biomaterials 
+                supplier shall be entitled to entry of judgment without 
+                trial if the court finds there is no genuine issue as 
+                concerning any material fact for each applicable 
+                element set forth in paragraphs (1) and (2) of section 
+                5(d).
+                    (B) Issues of material fact.--With respect to a 
+                finding made under subparagraph (A), the court shall 
+                consider a genuine issue of material fact to exist only 
+                if the evidence submitted by claimant would be 
+                sufficient to allow a reasonable jury to reach a 
+                verdict for the claimant if the jury found the evidence 
+                to be credible.
+            (2) Discovery made prior to a ruling on a motion for 
+        summary judgment.--If, under applicable rules, the court 
+        permits discovery prior to a ruling on a motion for summary 
+        judgment made pursuant to this subsection, such discovery shall 
+        be limited solely to establishing whether a genuine issue of 
+        material fact exists as to the applicable elements set forth in 
+        paragraphs (1) and (2) of section 5(d).
+            (3) Discovery with respect to a biomaterials supplier.--A 
+        biomaterials supplier shall be subject to discovery in 
+        connection with a motion seeking dismissal or summary judgment 
+        on the basis of the inapplicability of section 5(d) or the 
+        failure to establish the applicable elements of section 5(d) 
+        solely to the extent permitted by the applicable Federal or 
+        State rules for discovery against nonparties.
+    (e) Stay Pending Petition for Declaration.--If a claimant has filed 
+a petition for a declaration pursuant to section 5(b)(3)(A) with 
+respect to a defendant, and the Secretary has not issued a final 
+decision on the petition, the court shall stay all proceedings with 
+respect to that defendant until such time as the Secretary has issued a 
+final decision on the petition.
+    (f) Manufacturer Conduct of Proceeding.--The manufacturer of an 
+implant that is the subject of an action covered under this Act shall 
+be permitted to file and conduct a proceeding on any motion for summary 
+judgment or dismissal filed by a biomaterials supplier who is a 
+defendant under this section if the manufacturer and any other 
+defendant in such action enter into a valid and applicable contractual 
+agreement under which the manufacturer agrees to bear the cost of such 
+proceeding or to conduct such proceeding.
+    (g) Attorney Fees.--The court shall require the claimant to 
+compensate the biomaterials supplier (or a manufacturer appearing in 
+lieu of a supplier pursuant to subsection (f)) for attorney fees and 
+costs, if--
+            (1) the claimant named or joined the biomaterials supplier; 
+        and
+            (2) the court found the claim against the biomaterials 
+        supplier to be without merit and frivolous.
+
+SEC. 7. APPLICABILITY.
+
+    This Act shall apply to all civil actions covered under this Act 
+that are commenced on or after the date of enactment of this Act, 
+including any such action with respect to which the harm asserted in 
+the action or the conduct that caused the harm occurred before the date 
+of enactment of this Act.
+
+                                 <all>

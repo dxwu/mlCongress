@@ -1,0 +1,85 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 531 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 531
+
+ To amend the Internal Revenue Code of 1986 to limit the applicability 
+                of the generation-skipping transfer tax.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            February 4, 1997
+
+  Mr. Houghton (for himself and Mr. Matsui) introduced the following 
+      bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to limit the applicability 
+                of the generation-skipping transfer tax.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. LIMITATION ON APPLICABILITY OF GENERATION-SKIPPING TRANSFER 
+              TAX.
+
+    (a) In General.--Section 2651 (relating to generation assignment) 
+is amended by redesignating subsection (e) as subsection (f), and by 
+inserting after subsection (d) the following new subsection:
+    ``(e) Special Rule for Persons With a Deceased Parent.--
+            ``(1) In general.--For purposes of determining whether any 
+        transfer is a generation-skipping transfer, if--
+                    ``(A) an individual is a descendant of a parent of 
+                the transferor (or the transferor's spouse or former 
+                spouse), and
+                    ``(B) such individual's parent who is a lineal 
+                descendant of the parent of the transferor (or the 
+                transferor's spouse or former spouse) is dead at the 
+                time the transfer (from which an interest of such 
+                individual is established or derived) is subject to a 
+                tax imposed by chapter 11 or 12 upon the transferor 
+                (and if there shall be more than 1 such time, then at 
+                the earliest such time),
+        such individual shall be treated as if such individual were a 
+        member of the generation which is 1 generation below the lower 
+        of the transferor's generation or the generation assignment of 
+        the youngest living ancestor of such individual who is also a 
+        descendant of the parent of the transferor (or the transferor's 
+        spouse or former spouse), and the generation assignment of any 
+        descendant of such individual shall be adjusted accordingly.
+            ``(2) Limited application of subsection to collateral 
+        heirs.--This subsection shall not apply with respect to a 
+        transfer to any individual who is not a lineal descendant of 
+        the transferor (or the transferor's spouse or former spouse) 
+        if, at the time of the transfer, such transferor has any living 
+        lineal descendant.''.
+    (b) Conforming Amendments.--
+            (1) Section 2612(c) of the Internal Revenue Code of 1986 
+        (defining direct skip) is amended by striking paragraph (2) and 
+        by redesignating paragraph (3) as paragraph (2).
+            (2) Section 2612(c)(2) of such Code (as so redesignated) is 
+        amended by striking ``section 2651(e)(2)'' and inserting 
+        ``section 2651(f)(2)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to terminations, distributions, and transfers occurring after the 
+date of enactment of this section.
+                                 <all>
