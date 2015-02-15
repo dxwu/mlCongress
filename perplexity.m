@@ -1,8 +1,30 @@
-function [ output_args ] = perplexity( z_t, K, alpha )
+function [ p ] = perplexity( n_m_z, z_t, docs, K, alpha )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here
 
-output_args = 1;
+%z_t is a word distribution (K x V) where the sum of each row is 1
+
+logperp = 0;
+Ntot = 0; %Ntot is total number of words across all documents
+
+for m = 1:size(docs, 1)
+    N = sum(n_m_z(m, :)~=0);
+    theta = n_m_z(m, 1:N) / (N + K * alpha);
+    %disp(sum(theta));
+    %disp('hi');
+    for n = 1:N
+        logperp = logperp - log(theta * z_t(1:N, docs(m, n)));
+    end
+    Ntot = Ntot + N;
+end
+
+p = exp(logperp / Ntot);
+
+%perplexity = zeros(K, size(z_t, 2));
+
+%disp(size(perplexity));
+
+%output_args = 1;
 
 end
 

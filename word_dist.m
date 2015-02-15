@@ -26,6 +26,6 @@ for j = 1:K
     %isp(sortIndex(1:b));                                              %#   descending order
     top_words(j, :) = sortIndex(1:b);  %# Get a linear index into A of the 5 largest values
 end
-disp(top_words)
+%disp(top_words)
 end
 

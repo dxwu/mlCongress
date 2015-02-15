@@ -1,4 +1,4 @@
-function [ output_args ] = lda( K, alpha, beta, nIter )
+function [ output_args ] = lda( K, alpha, beta, nIter, b )
 %UNTITLED2 Summary of this function goes here
 %   Inputs:
 %   alpha: the dirichlet prior for the distribution of topics - P(topic | document)
@@ -13,19 +13,26 @@ function [ output_args ] = lda( K, alpha, beta, nIter )
 fprintf(1,'sdf: %d\n', 3);
 [ docs, V ] = read_files();
 [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment(docs, V, K);
+perp = zeros(1, nIter);
+b=15;
+
 for i = 1:nIter
     fprintf(1, 'iteration: %d\n', i);
     [ z_m_n, n_m_z, n_z_t, n_z ] = learn_distributions( alpha, beta, docs, z_m_n, n_m_z, n_z_t, n_z, V);
+    [top_words, wd] = word_dist(n_z_t, n_z, beta, V, b);
+    perp(i) = perplexity(n_m_z, wd, docs, K, alpha);
+    disp(perp(i));
     %disp(sum(z_m_n(3,:)));
 end
 
-b=15;
 [top_words, wd] = word_dist(n_z_t, n_z, beta, V, b);
 td = topic_dist(n_m_z, alpha);
 
 dlmwrite('./word_dist.txt',wd);
 dlmwrite('./topic_dist.txt',td);
+dlmwrite('./perplexity.txt',perp);
 
+graph_perp(nIter, perp);
 
 for i = 1:size(wd, 1)
     %should print out 1 each time
