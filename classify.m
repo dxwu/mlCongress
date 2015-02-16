@@ -6,12 +6,12 @@ function [ output_args ] = classify( K, alpha, beta, nIter, b, dir_name_arr )
 [ docs, V ] = read_files( dir_name_arr );
 [ m, n ] = size(docs);
 k = length(n_z);
-n_z = n_z / sum(n_z);
+n_z = (n_z + eps) / sum(n_z);
 probDist = zeros(m, k);
 
 for d = 1:m                 % for each document
     N = sum(docs(d,:) ~= 0);
-    for z = 1:k   % for each topic
+    for z = 1:k             % for each topic
         prob = 0;
         
         for p = 1:n         % for each word in document
@@ -23,10 +23,10 @@ for d = 1:m                 % for each document
         
         prob = prob + log(n_z(z));
         probDist(d, z) = prob;
-        probDist(d, z) = probDist(d, z) / N;
+        probDist(d, z) = exp(probDist(d, z) / N);
     end
     
-    probDist(d,:) = exp(probDist(d,:)) / sum(probDist(d,:));
+    probDist(d,:) = probDist(d,:) / sum(probDist(d,:));
     disp(sum(probDist(d,:)));
 end
 
