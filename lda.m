@@ -1,4 +1,4 @@
-function [ output_args ] = lda( K, alpha, beta, nIter, b )
+function [ wd, n_z ] = lda( K, alpha, beta, nIter, b )
 %UNTITLED2 Summary of this function goes here
 %   Inputs:
 %   alpha: the dirichlet prior for the distribution of topics - P(topic | document)
