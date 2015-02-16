@@ -11,7 +11,7 @@ function [ wd, n_z ] = lda( K, alpha, beta, nIter, b )
 
 
 fprintf(1,'sdf: %d\n', 3);
-dir_name_arr = ['./pass_test_clean/'; './fail_test_clean/'];
+dir_name_arr = ['./pass_clean/'; './fail_clean/'];
 [ docs, V ] = read_files(dir_name_arr);
 [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment(docs, V, K);
 perp = zeros(1, nIter);
@@ -32,6 +32,10 @@ td = topic_dist(n_m_z, alpha);
 dlmwrite('./word_dist.txt',wd);
 dlmwrite('./topic_dist.txt',td);
 dlmwrite('./perplexity.txt',perp);
+dlmwrite('./topic_word_count.txt', n_z);
+dlmwrite('./doc_topic_word_count.txt', n_m_z);
+dlmwrite('./topic_vocab_count.txt', n_z_t);
+dlmwrite('./doc_word_topicassignment.txt', z_m_n);
 
 graph_perp(nIter, perp);
 
