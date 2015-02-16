@@ -1,6 +1,5 @@
 import re
 import numpy
-import vocabulary
 import os
 import sys
 import nltk
