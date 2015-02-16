@@ -12,7 +12,7 @@ function [ docs, V ] = read_files( dir_name_arr )
 %   m'th document, or 0 if the m'th document has less than n words
 %   V: the size of the vocabulary (number of distinct words across all documents)
 
-dir_name_arr = ['./pass_clean/'; './fail_clean/'];
+
 docs = [];
 for j = 1:size(dir_name_arr, 1)
     docs = [docs ; read_files_in_one_dir(dir_name_arr(j,:))];

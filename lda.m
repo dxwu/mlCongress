@@ -11,7 +11,8 @@ function [ output_args ] = lda( K, alpha, beta, nIter, b )
 
 
 fprintf(1,'sdf: %d\n', 3);
-[ docs, V ] = read_files();
+dir_name_arr = ['./pass_test_clean/'; './fail_test_clean/'];
+[ docs, V ] = read_files(dir_name_arr);
 [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment(docs, V, K);
 perp = zeros(1, nIter);
 b=15;

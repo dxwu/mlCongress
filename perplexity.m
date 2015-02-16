@@ -8,12 +8,12 @@ logperp = 0;
 Ntot = 0; %Ntot is total number of words across all documents
 
 for m = 1:size(docs, 1)
-    N = sum(n_m_z(m, :)~=0);
-    theta = n_m_z(m, 1:N) / (N + K * alpha);
+    N = sum(docs(m,:)~=0);
+    theta = n_m_z(m, :) / (N + K * alpha);
     %disp(sum(theta));
     %disp('hi');
     for n = 1:N
-        logperp = logperp - log(theta * z_t(1:N, docs(m, n)));
+        logperp = logperp - log(theta * z_t(:, docs(m, n)));
     end
     Ntot = Ntot + N;
 end
