@@ -15,7 +15,6 @@ dir_name_arr = ['./pass_clean/'; './fail_clean/'];
 [ docs, V ] = read_files(dir_name_arr);
 [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment(docs, V, K);
 perp = zeros(1, nIter);
-b=15;
 
 for i = 1:nIter
     fprintf(1, 'iteration: %d\n', i);
