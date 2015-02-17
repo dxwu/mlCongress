@@ -28,4 +28,3 @@ for j = 1:K
 end
 %disp(top_words)
 end
-
