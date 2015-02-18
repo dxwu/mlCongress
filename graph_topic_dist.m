@@ -7,4 +7,4 @@ xlabel('Bill Number');
 %xmin, xmax, ymin, ymax
 axis([0,51,0,1.01])
 ylabel('Probability(Topic | Document)');
-legend('Topic 0', 'Topic 1', 'Topic 2', 'Topic 3', 'Topic 4');
+legend('Topic 1', 'Topic 2', 'Topic 3', 'Topic 4', 'Topic 5');
