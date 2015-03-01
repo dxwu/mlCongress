@@ -9,8 +9,6 @@ function [ wd, n_z ] = lda( K, alpha, beta, nIter, b )
 %   
 %   K: the number of topics 
 
-
-fprintf(1,'sdf: %d\n', 3);
 dir_name_arr = ['./pass_clean/'; './fail_clean/'];
 [ docs, V ] = read_files(dir_name_arr);
 [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment(docs, V, K);
@@ -38,15 +36,14 @@ dlmwrite('./doc_word_topicassignment.txt', z_m_n);
 
 graph_perp(nIter, perp);
 
-for i = 1:size(wd, 1)
+%for i = 1:size(wd, 1)
     %should print out 1 each time
     %disp(sum(wd(i,:)));
-end
-disp(top_words)
+%end
+%disp(top_words);
 for i = 1:size(top_words, 1)
     dlmwrite('./top_word_ids.txt',top_words)
 end
 
-output_args = 1;
 end
 
