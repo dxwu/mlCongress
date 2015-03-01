@@ -1,0 +1,528 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 391 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 391
+
+ To amend the Internal Revenue Code of 1986 to provide incentives for 
+ investments in tax enterprise zone businesses and domestic businesses.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 9, 1997
+
+ Mr. Andrews introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to provide incentives for 
+ investments in tax enterprise zone businesses and domestic businesses.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Domestic Investment Economic Growth 
+Act''.
+
+SEC. 2. EXCLUSION FOR GAIN ON INVESTMENTS IN ENTERPRISE ZONE BUSINESSES 
+              AND DOMESTIC BUSINESSES.
+
+    (a) In General.--Part III of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to items specifically excluded 
+from gross income) is amended by redesignating section 138 as section 
+139 and by inserting after section 137 the following new section:
+
+``SEC. 138. GAIN ON INVESTMENTS IN ENTERPRISE ZONE BUSINESSES AND 
+              DOMESTIC BUSINESSES.
+
+    ``(a) General Rule.--Gross income does not include any qualified 
+investment gain.
+    ``(b) Qualified Investment Gain.--For purposes of this section--
+            ``(1) In general.--The term `qualified investment gain' 
+        means the eligible percentage of any long-term capital gain 
+        properly attributable to any sale or exchange of a qualified 
+        investment, other than a sale or exchange to a related person 
+        (within the meaning of section 267(b)).
+            ``(2) Eligible percentage.--The term `eligible percentage' 
+        means--
+                    ``(A) 100 percent, in the case of a qualified 
+                investment with respect to an enterprise zone business 
+                or urban enterprise zone, and
+                    ``(B) 50 percent, in the case of any qualified 
+                investment not described in subparagraph (A).
+    ``(c) Qualified Investments.--For purposes of this section--
+            ``(1) In general.--The term `qualified investment' means 
+        any eligible investment, if the holding period of the taxpayer 
+        with respect to such investment is not less than 1 year.
+            ``(2) Eligible investment.--The term `eligible investment' 
+        means the following:
+                    ``(A) Any stock, partnership interest, or other 
+                ownership interest in an enterprise zone business or 
+                domestic business.
+                    ``(B) Any real property located entirely within an 
+                urban enterprise zone.
+                    ``(C) Any fund of a regulated investment company, 
+                if all of the investments held by such fund in each 
+                year are qualified investments.
+            ``(3) Enterprise zone business.--The term `enterprise zone 
+        business' has the meaning given to such term by section 1397B.
+            ``(4) Domestic business.--The term `domestic business' 
+        means any corporation or partnership (other than an enterprise 
+        zone business) incorporated or formed in the United States if--
+                    ``(A) not less than 80 percent of the employees of 
+                the corporation or partnership are United States 
+                citizens employed within the United States, and
+                    ``(B) either--
+                            ``(i) the corporation devotes more then 25 
+                        percent of its annual expenses to payroll, or
+                            ``(ii) substantially all of the activities 
+                        of the corporation or partnership involve the 
+                        active conduct of 1 or more trades or 
+                        businesses in the United States.
+    ``(d) Definitions and Special Rules.--For purposes of this 
+section--
+            ``(1) Urban enterprise zone.--The term `urban enterprise 
+        zone' means any empowerment zone, or enterprise community, 
+        which is located within an urban area (as defined in section 
+        1393).
+            ``(2) Treatment of new businesses.--A new corporation or 
+        partnership shall be treated as an enterprise zone business or 
+        domestic business if such corporation or partnership certifies 
+        an intent to comply with the requirements set forth in 
+        subsection (c)(3) or (c)(4), as the case may be.
+    ``(e) Coordination With Investment Savings Account Provisions.--
+Subsection (a) shall not apply to any amount distributed out of an 
+investment savings account (within the meaning of section 221(c)).''
+    (b) Clerical Amendment.--The table of sections for part III of 
+subchapter B of chapter 1 of such Code is amended by striking the item 
+relating to section 138 and inserting the following:
+
+                              ``Sec. 138. Gain on investments in 
+                                        enterprise zone businesses and 
+                                        domestic businesses.
+                              ``Sec. 139. Cross references to other 
+                                        Acts.''
+    (c) Effective Date.--The amendments made by this section shall 
+apply taxable years beginning after the date of the enactment of this 
+Act.
+
+SEC. 3. DEDUCTION FOR CONTRIBUTIONS TO INVESTMENT SAVINGS ACCOUNTS.
+
+    (a) In General.--Part VII of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to additional itemized 
+deductions for individuals) is amended by redesignating section 221 as 
+section 222 and by inserting after section 220 the following new 
+section:
+
+``SEC. 221. CONTRIBUTIONS TO INVESTMENT SAVINGS ACCOUNTS.
+
+    ``(a) Deduction Allowed.--
+            ``(1) In general.--In the case of an individual, there 
+        shall be allowed as a deduction for the taxable year an amount 
+        equal to the sum of--
+                    ``(A) 50 percent of the qualified contributions of 
+                the individual to an investment savings account for the 
+                taxable year, and
+                    ``(B) if the individual is not less than 59\1/2\ 
+                years of age at the end of the taxable year, an amount 
+                equal to the sum of--
+                            ``(i) 50 percent of the qualified 
+                        contributions of the individual to an 
+                        investment savings account for the 10th 
+                        preceding taxable year, to the extent such 
+                        contributions remain in the account, and
+                            ``(ii) 50 percent of the qualified 
+                        contributions of the individual to an 
+                        investment savings account for the 20th 
+                        preceding taxable year, to the extent such 
+                        contributions remain in the account.
+            ``(2) Maximum annual amount.--The amount allowable as a 
+        deduction under paragraph (1) to any individual for a taxable 
+        year shall not exceed $100,000.
+    ``(b) Qualified Contributions.--For purposes of this section--
+            ``(1) In general.--The qualified contributions of an 
+        individual for any taxable year shall be the amount equal to 
+        the lesser of--
+                    ``(A) the individual's qualified savings increase 
+                amount for the taxable year, or
+                    ``(B) the contributions made by the individual to 
+                the investment savings account during the taxable year.
+            ``(2) Qualified savings increase amount.--The term 
+        `qualified savings increase amount' means the amount (if any) 
+        by which--
+                    ``(A) the individual's qualified net worth increase 
+                amount, exceeds
+                    ``(B) the applicable threshold amount.
+            ``(3) Qualified net worth increase amount.--
+                    ``(A) In general.--The term `qualified net worth 
+                increase amount' means the amount (if any) by which--
+                            ``(i) qualified net worth on December 31 of 
+                        the taxable year, exceeds
+                            ``(ii) qualified net worth on January 1 of 
+                        such taxable year.
+                    ``(B) Qualified net worth.--The term `qualified net 
+                worth' means net worth, determined without regard to 
+                any portion of the value of property which is in excess 
+                of the adjusted basis.
+            ``(4) Applicable threshold amount.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), the term `applicable threshold 
+                amount' means the national average qualified net worth 
+                increase amount determined by the Secretary for the 
+                taxable year for the tax rate category of the taxpayer.
+                    ``(B) 1st year.--For taxable years beginning in 
+                1997, the term `applicable threshold amount' means the 
+                applicable percentage of the taxpayer's adjusted gross 
+                income, determined in accordance with the following 
+                table:
+
+                                                             Applicable
+``If adjusted gross income is:                              Percentage:
+    Not over $13,000..............................                   0 
+    Over $13,000 but not over $24,000.............                   0 
+    Over $24,000 but not over $36,000.............                   0 
+    Over $36,000 but not over $55,000.............                   5 
+    Over $55,000 but not over $70,000.............                   7 
+    Over $70,000 but not over $100,000............                   9 
+    Over $100,000 but not over $140,000...........                  15 
+    Over $140,000 but not over $200,000...........                  18 
+    Over $200,000 but not over $500,000...........                  20 
+    Over $500,000 but not over $1,000,000.........                  25 
+    Over $1,000,000...............................                  30.
+            ``(5) Time when contributions deemed made.--A taxpayer 
+        shall be deemed to have made a contribution to an investment 
+        savings account on the last day of the preceding taxable year 
+        if the contribution is made on account of such taxable year and 
+        is made not later than the time prescribed by law for filing 
+        the return for such taxable year (not including extensions 
+        thereof).
+    ``(c) Investment Savings Account.--For purposes of this section, 
+the term `investment savings account' means a trust created or 
+organized in the United States for the exclusive benefit of an 
+individual and the individual's beneficiaries, but only if the written 
+governing instrument creating the trust meets the following 
+requirements:
+            ``(1) No contribution will be accepted unless it is in 
+        cash.
+            ``(2) The trustee is a bank (as defined in section 408(n)) 
+        or another person who demonstrates to the satisfaction of the 
+        Secretary that the manner in which that person will administer 
+        the trust will be consistent with the requirements of this 
+        section.
+            ``(3) The trust assets will be invested only in--
+                    ``(A) eligible investments (as defined by section 
+                138(c)(2)),
+                    ``(B) bonds issued by enterprise zone business and 
+                domestic business, and
+                    ``(C) loans to enterprise zone businesses and 
+                domestic businesses.
+            ``(4) The interest of the individual in the balance of the 
+        individual's account is nonforfeitable.
+            ``(5) The assets of the trust will not be commingled with 
+        other property except in a common trust fund or common 
+        investment fund.
+    ``(d) Tax Treatment of Distributions.--
+            ``(1) In general.--Except as otherwise provided in this 
+        subsection, any amount distributed out of an investment savings 
+        account shall be included in the gross income of the 
+        distributee for the taxable year in which the distribution is 
+        received.
+            ``(2) Amounts held in account for 10 years.--Paragraph (1) 
+        shall not apply to any distribution from an investment savings 
+        account to the extent attributable to amounts held in the 
+        account for at least a 10-year period.
+            ``(3) Excess contributions returned before due date of 
+        return.--Paragraph (1) shall not apply to the distribution of 
+        any contribution paid during a taxable year to an investment 
+        savings account to the extent that such contribution exceeds 
+        the amount allowable as a deduction under subsection (a) if--
+                    ``(A) such distribution is received on or before 
+                the day prescribed by law (including extensions of 
+                time) for filing such individual's return for such 
+                taxable year,
+                    ``(B) no deduction is allowed under subsection (a) 
+                with respect to such excess contribution, and
+                    ``(C) such distribution is accompanied by the 
+                amount of net income attributable to such excess 
+                contribution.
+        Any net income described in subparagraph (C) shall be included 
+        in the gross income of the individual for the taxable year in 
+        which such excess contribution was made.
+    ``(e) Tax Treatment of Accounts.--
+            ``(1) Exemption from tax.--An investment savings account is 
+        exempt from taxation under this subtitle unless such account 
+        has ceased to be an investment savings account by reason of 
+        paragraph (2). Notwithstanding the preceding sentence, any such 
+        account is subject to the taxes imposed by section 511 
+        (relating to imposition of tax on unrelated business income of 
+        charitable, etc. organizations).
+            ``(2) Loss of exemption of account where individual engages 
+        in prohibited transaction.--
+                    ``(A) In general.--If the individual for whose 
+                benefit an investment savings account is established or 
+                any individual who contributes to such account engages 
+                in any transaction prohibited by section 4975 with 
+                respect to the account, the account shall cease to be 
+                an investment savings account as of the first day of 
+                the taxable year (of the individual so engaging in such 
+                transaction) during which such transaction occurs.
+                    ``(B) Account treated as distributing all its 
+                assets.--In any case in which any account ceases to be 
+                an investment savings account by reason of subparagraph 
+                (A) as of the first day of any taxable year, paragraph 
+                (1) of subsection (d) shall apply as if there was a 
+                distribution on such first day in an amount equal to 
+                the fair market value (on such first day) of all assets 
+                in the account (on such first day).
+            ``(3) Effect of pledging account as security.--If, during 
+        any taxable year, the individual for whose benefit an 
+        investment savings account is established, or any individual 
+        who contributes to such account, uses the account or any 
+        portion thereof as security for a loan, the portion so used 
+        shall be treated as distributed to the individual so using such 
+        portion.
+    ``(f) Additional Tax on Certain Amounts Included in Gross Income.--
+            ``(1) In general.--Except as otherwise provided in this 
+        subsection, in the case of any distribution from an investment 
+        savings account, the tax liability of each distributee under 
+        this chapter for the taxable year in which the distribution is 
+        received shall be increased by an amount equal to 10 percent of 
+        the amount of the distribution which is includible in the gross 
+        income of such distributee for such taxable year.
+            ``(2) Qualified distributions from amounts held in account 
+        for 5 years.--
+                    ``(A) In general.--Paragraph (1) shall not apply to 
+                any qualified distribution from an investment savings 
+                account, to the extent attributable to amounts held in 
+                the account for at least a 5-year period.
+                    ``(B) Qualified distribution.--For purposes of 
+                subparagraph (A), the term `qualified distribution' 
+                means any distribution received from an investment 
+                savings account, to the extent used within a reasonable 
+                period to pay any of the following expenses:
+                            ``(i) Home purchase expenses.--Expenses 
+                        relating to the acquisition of a principal 
+                        residence (within the meaning of section 1034) 
+                        for the individual for whose benefit the 
+                        account is established.
+                            ``(ii) Automobile purchase expenses.--
+                        Expenses relating to the acquisition of an 
+                        automobile for the individual for whose benefit 
+                        the account is established.
+                            ``(iii) Education expenses.--Qualified 
+                        higher education expenses (within the meaning 
+                        of section 135(c)(2)).
+                            ``(iv) Medical expenses.--Medical expenses 
+                        (within the meaning of section 72(t)(2)(B)).
+            ``(3) Additional exceptions.--Paragraph (1) shall not apply 
+        if the distribution is made after the individual for whose 
+        benefit the investment savings account is established--
+                    ``(A) attains 59\1/2\ years of age, or
+                    ``(B) becomes disabled within the meaning of 
+                section 72(m)(7) or dies.
+            ``(4) Disqualification cases.--If an amount is includible 
+        in the gross income of an individual for a taxable year because 
+        such amount is required to be treated as a distribution under 
+        paragraph (2) or (3) of subsection (e), such individual's tax 
+        liability under this chapter for such taxable year shall be 
+        increased by an amount equal to 10 percent of such amount 
+        required to be treated as a distribution and included in the 
+        gross income of such individual.
+    ``(g) Community Property Laws.--This section shall be applied 
+without regard to any community property laws.
+    ``(h) Special Rules.--For purposes of this section--
+            ``(1) Ordering rule.--Distributions from an investment 
+        savings account shall be treated as having been made--
+                    ``(A) first from the earliest contribution 
+                remaining in the account at the time of the 
+                distribution,
+                    ``(B) second from other contributions in the order 
+                in which made, and
+                    ``(C) third from earnings.
+            ``(2) Custodial accounts.--A custodial account shall be 
+        treated as a trust if the assets of such account are held by a 
+        bank (as defined in section 408(n)) or another person who 
+        demonstrates, to the satisfaction of the Secretary, that the 
+        manner in which he will administer the account will be 
+        consistent with the requirements of this section, and if the 
+        custodial account would, except for the fact that it is not a 
+        trust, constitute an investment savings account described in 
+        subsection (c). For purposes of this title, in the case of a 
+        custodial account treated as a trust by reason of the preceding 
+        sentence, the custodian of such account shall be treated as the 
+        trustee thereof.
+    ``(i) Reports.--
+            ``(1) In general.--The trustee of an investment savings 
+        account shall make such reports regarding such account to the 
+        Secretary and to the individual for whose benefit the account 
+        is maintained with respect to contributions, distributions, and 
+        such other matters as the Secretary may require under 
+        regulations. Except as provided in paragraph (2), the reports 
+        required by this subsection shall be filed at such time and in 
+        such manner and furnished to such individuals at such time and 
+        in such manner as may be required by those regulations.
+            ``(2) First report.--The trustee of an investment savings 
+        account shall make the first report required under paragraph 
+        (1) not later than the expiration of the 3-month period 
+        beginning on the date on which the account is established.''
+    (b) Allowance of Deduction in Computing Adjusted Gross Income.--
+Subsection (a) of section 62 of such Code (defining adjusted gross 
+income) is amended by inserting after paragraph (16) the following new 
+paragraph:
+            ``(17) Contributions to investment savings accounts.--The 
+        deduction allowed by section 221(a).''
+    (c) Contribution Not Subject to Gift Tax.--Section 2503 of such 
+Code (relating to taxable gifts) is amended by adding at the end the 
+following new subsection:
+    ``(h) Investment Savings Accounts.--Any contribution made by an 
+individual to an investment savings account described in section 221(c) 
+which is allowable as a deduction under section 221 shall not be 
+treated as a transfer of property by gift for purposes of this 
+chapter.''
+    (d) Tax on Excess Contributions.--Section 4973 of such Code 
+(relating to tax on excess contributions to individual retirement 
+accounts, certain section 403(b) contracts, and certain individual 
+retirement annuities) is amended--
+            (1) in subsection (a), by striking ``or'' at the end of 
+        paragraph (2), by redesignating paragraph (3) as paragraph (4), 
+        and by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) an investment savings account (within the meaning of 
+        section 221(c)), or'', and
+            (2) by adding at the end the following new subsection:
+    ``(e) Excess Contributions to Investment Savings Accounts.--For 
+purposes of this section, in the case of an investment savings account, 
+the term `excess contributions' means the amount by which the amount 
+contributed for the taxable year to the account exceeds the amount 
+allowable as a deduction under section 221 for such taxable year. For 
+purposes of this subsection, any contribution which is distributed out 
+of the investment savings account in a distribution to which section 
+221(d)(3) applies shall be treated as an amount not contributed.''
+    (e) Tax on Prohibited Transactions.--
+                    (A) Section 4975 of such Code (relating to 
+                prohibited transactions) is amended by adding at the 
+end of subsection (c) the following new paragraph:
+            ``(5) Special rule for investment savings accounts.--An 
+        individual for whose benefit an investment savings account is 
+        established and any contributor to such account shall be exempt 
+        from the tax imposed by this section with respect to any 
+        transaction concerning such account (which would otherwise be 
+        taxable under this section) if, with respect to such 
+        transaction, the account ceases to be an investment savings 
+        account by reason of the application of section 221(e)(2)(A) to 
+        such account.'', and
+                    (B) Paragraph (1) of section 4975(e) of such Code 
+                is amended by striking ``or'' at the end of 
+                subparagraph (D), by redesignating subparagraph (E) as 
+                subparagraph (F), and by inserting after subparagraph 
+                (D) the following new subparagraph:
+                    ``(E) an investment savings account described in 
+                section 221(c), or''.
+    (f) Failure To Provide Reports on Investment Savings Accounts.--
+Paragraph (2) of section 6693(a) of such Code (relating to failure to 
+provide reports on individual retirement accounts or annuities) is 
+amended by striking ``and'' at the end of subparagraph (A), by striking 
+the period at the end of subparagraph (B) and inserting ``, and'', and 
+by adding at the end the following new subparagraph:
+                    ``(C) section 221(i) (relating to investment 
+                savings accounts).''
+    (g) Additional Penalties.--Part I of subchapter B of chapter 68 of 
+such Code (relating to assessable penalties) is amended by adding at 
+the end the following new section:
+
+``SEC. 6716. PROMOTION OF NONQUALIFIED INVESTMENT AS ELIGIBLE FOR 
+              DOMESTIC INVESTMENT ECONOMIC GROWTH EXCLUSION OR 
+              DEDUCTION.
+
+    ``(a) Imposition of Penalty.--If any person--
+            ``(1) makes a statement that an investment or account is 
+        eligible for an exclusion under section 138 or deduction under 
+        section 221, and
+            ``(2) at the time such statement is made, there was no 
+        reasonable basis for such statement,
+such person shall pay a penalty equal to twice the aggregate amount of 
+exclusions and deductions taken by other persons under such sections in 
+reliance on such statement.
+    ``(b) Penalty in Addition to Other Penalties.--The penalty imposed 
+by subsection (a) shall be in addition to any other penalty provided by 
+law.''
+    (h) Clerical Amendments.--
+            (1) The table of sections for part VII of subchapter B of 
+        chapter 1 of such Code is amended by striking the item relating 
+        to section 221 and inserting the following new items:
+
+                              ``Sec. 221. Contributions to investment 
+                                        savings accounts.
+                              ``Sec. 222. Cross reference.''
+            (2)(A) The section heading for section 4973 of such Code is 
+        amended to read as follows:
+
+``SEC. 4973. TAX ON EXCESS CONTRIBUTIONS TO INDIVIDUAL RETIREMENT 
+              ACCOUNTS, MEDICAL SAVINGS ACCOUNTS, INVESTMENT SAVINGS 
+              ACCOUNTS, CERTAIN 403(b) CONTRACTS, AND CERTAIN 
+              INDIVIDUAL RETIREMENT ANNUITIES.''
+
+            (B) The table of sections for chapter 43 of such Code is 
+        amended by striking the item relating to section 4973 and 
+        inserting the following new item:
+
+                              ``Sec. 4973. Tax on excess contributions 
+                                        to individual retirement 
+                                        accounts, medical savings 
+                                        accounts, investment savings 
+                                        accounts, certain 403(b) 
+                                        contracts, and certain 
+                                        individual retirement 
+                                        annuities.''
+            (3)(A) The section heading for section 6693 of such Code is 
+        amended to read as follows:
+
+``SEC. 6693. FAILURE TO PROVIDE REPORTS ON INDIVIDUAL RETIREMENT 
+              ACCOUNTS OR ANNUITIES OR ON INVESTMENT SAVINGS ACCOUNTS; 
+              PENALTIES RELATING TO DESIGNATED NONDEDUCTIBLE 
+              CONTRIBUTIONS.''
+
+            (B) The table of sections for subchapter B of chapter 68 of 
+        such Code is amended by striking the item relating to section 
+        6693 and inserting the following new item:
+
+                              ``Sec. 6693. Failure to provide reports 
+                                        on individual retirement 
+                                        accounts or annuities or on 
+                                        investment savings accounts; 
+                                        penalties relating to 
+                                        designated nondeductible 
+                                        contributions.''
+            (4) The table of sections for part I of subchapter B of 
+        chapter 68 of such Code is amended by adding at the end the 
+        following new item:
+
+                              ``Sec. 6716. Promotion of nonqualified 
+                                        investment as eligible for 
+                                        domestic investment economic 
+                                        growth exclusion or 
+                                        deduction.''
+    (i) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+                                 <all>

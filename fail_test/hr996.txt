@@ -1,0 +1,190 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 996 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 996
+
+ To amend the Internal Revenue Code of 1986 to permit the issuance of 
+ tax-exempt bonds to finance environmental remediation of contaminated 
+                                 sites.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 6, 1997
+
+Mr. Weller (for himself, Mr. Lipinski, Mr. Crane, Mr. Rush, Mr. Fawell, 
+ Mr. Jackson of Illinois, Mr. Manzullo, Mr. Gutierrez, Mr. English of 
+  Pennsylvania Mr. Blagojevich, Mr. Shays, Mr. Davis of Illinois, Mr. 
+   Costello, and Mr. Evans) introduced the following bill; which was 
+              referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to permit the issuance of 
+ tax-exempt bonds to finance environmental remediation of contaminated 
+                                 sites.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TAX-EXEMPT FINANCING OF ENVIRONMENTAL REMEDIATION OF 
+              QUALIFIED CONTAMINATED SITES.
+
+    (a) In General.--Subsection (e) of section 141 of the Internal 
+Revenue Code of 1986 (defining qualified bond) is amended by striking 
+``or'' at the end of subparagraph (F), by redesignating subparagraph 
+(G) as subparagraph (H), and by inserting after subparagraph (F) the 
+following new subparagraph:
+                    ``(G) a qualified contaminated site remediation 
+                bond, or''.
+    (b) Qualified Contaminated Site Remediation Bond.--Section 144 of 
+such Code is amended by adding at the end thereof the following new 
+subsection:
+    ``(d) Qualified Contaminated Site Remediation Bond.--For purposes 
+of this part--
+            ``(1) In general.--The term `qualified contaminated site 
+        remediation bond' means any bond issued as part of an issue 95 
+        percent or more of the proceeds of which are to finance--
+                    ``(A) the acquisition of a qualified contaminated 
+                site, or
+                    ``(B) the costs of environmental remediation with 
+                respect to such a site which is owned by the person 
+                incurring such costs.
+            ``(2) Limitations.--
+                    ``(A) In general.--Such term shall not include any 
+                bond issued to provide financing with respect to a 
+                qualified contaminated site if--
+                            ``(i) any amount of such financing is 
+                        provided directly or indirectly to any 
+                        ineligible person,
+                            ``(ii) less than 60 percent of the amount 
+                        of the financing so provided with respect to 
+                        such site is for costs described in paragraph 
+                        (1)(B), or
+                            ``(iii) the amount of the financing so 
+                        provided to acquire such site exceeds the 
+                        excess of--
+                                    ``(I) the fair market value of the 
+                                site after the completion of the 
+                                environmental remediation, over
+                                    ``(II) the amount of the financing 
+                                so provided with respect to such site 
+                                for costs described in paragraph 
+                                (1)(B).
+                    ``(B) Ineligible person.--For purposes of 
+                subparagraph (A), a person is an ineligible person with 
+                respect to any site if--
+                            ``(i) at any time on or before the date of 
+                        the enactment of this subsection such person 
+                        was the owner or operator of any business on 
+                        such site,
+                            ``(ii) at any time before, on, or after 
+                        such date of enactment such person--
+                                    ``(I) had (by contract, agreement, 
+                                or otherwise) arranged for the disposal 
+                                or treatment of any hazardous materials 
+                                at such site or arranged with a 
+                                transporter for transport for disposal 
+                                or treatment of any hazardous materials 
+                                at such site, or
+                                    ``(II) had accepted any hazardous 
+                                materials for transport to such site, 
+                                or
+                            ``(iii) the person is related to any person 
+                        referred to in clause (i) or (ii).
+                    ``(C) Related Person.--For purposes of this 
+                paragraph, persons shall be treated as related to each 
+                other if such persons are treated as a single employer 
+                under the regulations prescribed under section 52(b) or 
+                such persons bear a relationship to each other 
+                specified in section 267(b) or 707(b).
+            ``(3) Restriction on land acquisition not to apply.--
+        Section 147(c) shall not apply to any qualified contaminated 
+        site remediation bond.
+            ``(4) Qualified contaminated site.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `qualified contaminated site' means any site 
+                if the appropriate agency certifies that at least 1 of 
+                the following environmental conditions is present on 
+                such site:
+                            ``(i) A release or threatened release of 
+                        any hazardous, toxic, or dangerous substance.
+                            ``(ii) Any storage tanks which contain any 
+                        hazardous, toxic, or dangerous substance.
+                            ``(iii) Any illegal disposal of solid 
+                        waste.
+                Such term shall not include any site listed on the 
+                National Priorities List under the Comprehensive 
+                Environmental Response, Compensation, and Liability Act 
+                of 1980.
+                    ``(B) Appropriate agency.--For purposes of 
+                subparagraph (A), the appropriate agency is--
+                            ``(i) the agency of the State in which the 
+                        site is located which is designated by the 
+                        Administrator of the Environmental Protection 
+                        Agency for purposes of this paragraph, or
+                            ``(ii) if the agency described in clause 
+                        (i) designates an agency of the local 
+                        government in which the site is located for 
+                        purposes of this paragraph, such local 
+                        government agency.
+            ``(5) Hazardous, toxic, or dangerous substance.--For 
+        purposes of this subsection, any substance, waste, or material 
+        shall be treated as a hazardous, toxic, or dangerous substance 
+        if it is so treated under--
+                    ``(A) the Comprehensive Environmental Response, 
+                Compensation, and Liability Act of 1980 (42 U.S.C. 9601 
+                et seq.),
+                    ``(B) the Resource Conservation and Recovery Act 
+                (42 U.S.C. 6901 et seq.), or
+                    ``(C) any State or local environmental law or 
+                ordinance.
+        The following materials shall in any event be treated as such a 
+        substance: petroleum or crude oil or any derivative thereof, 
+        friable asbestos or any asbestos containing material, 
+        polychlorinated biphenyls, or urea formaldehyde foam 
+        insulation.
+            ``(6) Environmental remediation.--For purposes of this 
+        subsection, the term `environmental remediation' means--
+                    ``(A) removal or remediation activity, including 
+                soil and ground water remediation,
+                    ``(B) restoration of natural, historic, or cultural 
+                resources at the site or the mitigation of unavoidable 
+                losses of such resources incurred in connection with 
+                the remediation or response activity,
+                    ``(C) health assessments or health effects studies,
+                    ``(D) environmental investigations,
+                    ``(E) remediation of off-site contamination caused 
+                by activity on the site, and
+                    ``(F) any other costs reasonably required by reason 
+                of the environmental conditions of the site including 
+                demolition of existing contaminated structures, site 
+                security, and permit fees necessary for remediation.''
+    (c) Clerical Amendments.--
+            (1) The section heading for section 144 of such Code is 
+        amended by inserting before the period ``; qualified 
+        contaminated site remediation bond''.
+            (2) The table of sections for subpart A of part IV of 
+        subchapter B of chapter 1 of such Code is amended by inserting 
+        before the period at the end of the item relating to section 
+        144 ``; qualified contaminated site remediation bond''.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to bonds issued after the date of the enactment of this Act.
+                                 <all>

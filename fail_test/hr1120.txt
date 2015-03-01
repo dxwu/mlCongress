@@ -1,0 +1,1209 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1120 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1120
+
+  To assist local governments in assessing and remediating brownfield 
+sites, to amend the Comprehensive Environmental Response, Compensation, 
+    and Liability Act of 1980 to encourage State voluntary response 
+      programs for remediating such sites, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 19, 1997
+
+ Mr. Dingell (for himself, Mr. Gephardt, Mr. Oberstar, Mr. Borski, Ms. 
+   DeGette, Mr. Manton, Mr. Brown of Ohio, Mr. Towns, Mr. Rush, Mr. 
+Clement, Mr. Clyburn, Mr. Waxman, Mr. Markey, Mr. Mascara, Mr. Boucher, 
+ Mrs. Tauscher, Mr. Pascrell, Ms. Furse, Mr. Deutsch, Mr. Blumenauer, 
+Ms. Eshoo, Mr. Klink, Mr. Stupak, Mr. Engel, Mr. Sawyer, Mr. Wynn, Mr. 
+     Green, Ms. McCarthy of Missouri, Mr. Conyers, Ms. Rivers, Ms. 
+  Kilpatrick, Mr. Barrett of Wisconsin, Ms. Kaptur, Ms. DeLauro, Mr. 
+Olver, Mr. Lipinski, Mr. Doyle, Mr. DeFazio, Mr. Johnson of Wisconsin, 
+ Mr. Menendez, Mr. Gordon, Ms. Brown of Florida, Ms. Norton, Mr. Wise, 
+   Ms. Millender-McDonald, Mrs. Lowey, Mr. Cummings, and Mr. Rangel) 
+ introduced the following bill; which was referred to the Committee on 
+   Commerce, and in addition to the Committee on Transportation and 
+   Infrastructure, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To assist local governments in assessing and remediating brownfield 
+sites, to amend the Comprehensive Environmental Response, Compensation, 
+    and Liability Act of 1980 to encourage State voluntary response 
+      programs for remediating such sites, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Community 
+Revitalization and Brownfield Cleanup Act of 1997''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+       TITLE I--BROWNFIELD REMEDIATION AND ENVIRONMENTAL CLEANUP
+
+Sec. 101. Definitions.
+Sec. 102. Inventory and assessment grant program.
+Sec. 103. Grants for revolving loan programs.
+Sec. 104. Economic redevelopment grants.
+Sec. 105. Reports.
+Sec. 106. Limitations on use of funds.
+Sec. 107. Effect on other laws.
+Sec. 108. Regulations.
+Sec. 109. Authorizations of appropriations.
+              TITLE II--STATE VOLUNTARY RESPONSE PROGRAMS
+
+Sec. 201. State voluntary response programs.
+   TITLE III--INNOCENT LANDOWNERS AND PROSPECTIVE PURCHASER LIABILITY
+
+Sec. 301. Innocent landowners.
+Sec. 302. Limitations on liability for response costs for prospective 
+                            purchasers.
+Sec. 303. Contiguous or nearby properties.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) Brownfields are parcels of land that contain or 
+        contained abandoned or under-used commercial or industrial 
+        facilities, the expansion or redevelopment of which is 
+        complicated by the presence or potential presence of hazardous 
+        substances, pollutants, or contaminants.
+            (2) Brownfields, which may number in the hundreds of 
+        thousands nationwide, threaten the environment, devalue 
+        surrounding property, erode local tax bases, and prevent job 
+        growth.
+            (3) Despite potentially great productive value, prospective 
+        developers may avoid brownfields because of the uncertainty of 
+        cleanup and development costs, which leads to construction on 
+        undeveloped so-called greenfield sites, contributing to urban 
+        sprawl, creating infrastructure problems, and reducing the 
+        amount of open spaces.
+            (4) Cleanup and redevelopment of brownfields would reduce 
+        environmental contamination, encourage job growth, and curb the 
+        development of greenfields.
+            (5) State voluntary programs to address environmental 
+        contamination, and addressing liability concerns to encourage 
+        developers and current owners to invest in brownfield sites, 
+        can be very effective in promoting the cleanup and 
+        redevelopment of brownfields.
+
+       TITLE I--BROWNFIELD REMEDIATION AND ENVIRONMENTAL CLEANUP
+
+SEC. 101. DEFINITIONS.
+
+    In this title:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Environmental Protection Agency.
+            (2) Brownfield site.--The term ``brownfield site'' means a 
+        parcel of land that contains or contained abandoned or under-
+        used commercial or industrial facilities, the expansion or 
+        redevelopment of which may be complicated by the presence or 
+        potential presence of hazardous substances, pollutants, or 
+        contaminants.
+            (3) Disposal.--The term ``disposal'' has the meaning given 
+        the term in section 1004 of the Solid Waste Disposal Act (42 
+        U.S.C. 6903).
+            (4) Environment.--The term ``environment'' has the meaning 
+        given the term in section 101 of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601).
+            (5) Environmental contamination.--The term ``environmental 
+        contamination'' means the existence at a brownfield site of one 
+        or more hazardous substances, pollutants, or contaminants that 
+        may pose a threat to human health or the environment.
+            (6) Facility.--The term ``facility'' has the meaning given 
+        the term in section 101 of the Comprehensive Environmental 
+        Response, Compensation, and Liability Act of 1980 (42 U.S.C. 
+        9601).
+            (7) Grant.--The term ``grant'' includes a cooperative 
+        agreement.
+            (8) Ground water.--The term ``ground water'' has the 
+        meaning given the term in section 101 of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601).
+            (9) Hazardous substance.--The term ``hazardous substance'' 
+        has the meaning given the term in section 101 of the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9601).
+            (10) Indian tribe.--The term ``Indian tribe'' has the 
+        meaning given the term in section 101 of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601).
+            (11) Local government.--The term ``local government'' has 
+        the meaning given the term ``unit of general local government'' 
+        in the first sentence of section 102(a)(1) of the Housing and 
+        Community Development Act of 1974 (42 U.S.C. 5302(a)(1)), 
+        except that the term includes an Indian tribe.
+            (12) Natural resources.--The term ``natural resources'' has 
+        the meaning given the term in section 101 of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601).
+            (13) Owner or operator.--The term ``owner or operator'' has 
+        the meaning given the term in section 101 of the Comprehensive 
+        Environmental Response, Compensation, and Liability Act of 1980 
+        (42 U.S.C. 9601).
+            (14) Person.--The term ``person'' has the meaning given the 
+        term in section 101 of the Comprehensive Environmental 
+        Response, Compensation, and Liability Act of 1980 (42 U.S.C. 
+        9601).
+            (15) Pollutant or contaminant.--The term ``pollutant or 
+        contaminant'' has the meaning given the term in section 101 of 
+        the Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9601).
+            (16) Prospective purchaser.--The term ``prospective 
+        purchaser'' has the meaning given the term in section 107(p).
+            (17) Release.--The term ``release'' has the meaning given 
+        the term in section 101 of the Comprehensive Environmental 
+        Response, Compensation, and Liability Act of 1980 (42 U.S.C. 
+        9601).
+            (18) Response action.--The term ``response action'' has the 
+        meaning given the term ``response'' in section 101 of the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9601).
+            (19) Site assessment.--
+                    (A) In general.--The term ``site assessment'' means 
+                an investigation that determines the nature and extent 
+                of a release or potential release of a hazardous 
+                substance at a brownfield site and meets the 
+                requirements of subparagraph (B).
+                    (B) Investigation.--For the purposes of this 
+                paragraph, an investigation that meets the requirements 
+                of this subparagraph--
+                            (i) shall include--
+                                    (I) an onsite evaluation; and
+                                    (II) sufficient testing, sampling, 
+                                and other field-data-gathering 
+                                activities to accurately determine 
+                                whether the brownfield site is 
+                                contaminated and the threats to human 
+                                health and the environment posed by the 
+                                release of hazardous substances, 
+                                pollutants, or contaminants at the 
+                                brownfield site; and
+                            (ii) may include--
+                                    (I) review of such information 
+                                regarding the brownfield site and 
+                                previous uses as is available at the 
+                                time of the review; and
+                                    (II) an offsite evaluation, if 
+                                appropriate.
+            (20) State.--The term ``State'' has the meaning given the 
+        term in section 101 of the Comprehensive Environmental 
+        Response, Compensation, and Liability Act of 1980 (42 U.S.C. 
+        9601).
+
+SEC. 102. INVENTORY AND ASSESSMENT GRANT PROGRAM.
+
+    (a) In General.--The Administrator shall establish a program to 
+award grants to local governments to inventory brownfield sites and to 
+conduct site assessments of brownfield sites.
+    (b) Scope of Program.--
+            (1) Grant awards.--To carry out subsection (a), the 
+        Administrator may, on approval of an application, provide 
+        financial assistance to a local government.
+            (2) Grant application.--An application for a grant under 
+        this section shall include, to the extent practicable, each of 
+        the following:
+                    (A) An identification of the brownfield sites for 
+                which assistance is sought and a description of the 
+                effect of the brownfield sites on the community, 
+                including a description of the nature and extent of any 
+                known or suspected environmental contamination within 
+                the sites.
+                    (B) A description of the need of the applicant for 
+                financial assistance to inventory brownfield sites and 
+                conduct site assessments.
+                    (C) A demonstration of the potential of the grant 
+                assistance to stimulate economic development or 
+                creation of recreational areas, including the extent to 
+                which the assistance will stimulate the availability of 
+                other funds for site assessment, site identification, 
+                or environmental remediation and subsequent 
+                redevelopment of the areas in which eligible brownfield 
+                sites are situated.
+                    (D) A description of the local commitment as of the 
+                date of the application, which shall include a 
+                community involvement plan that demonstrates meaningful 
+                community involvement.
+                    (E) A plan that shows how the site assessment, site 
+                identification, or environmental remediation and 
+                subsequent development will be implemented, including--
+                            (i) an environmental plan that ensures the 
+                        use of sound environmental procedures;
+                            (ii) an explanation of the appropriate 
+                        government authority and support for the 
+                        project as in existence on the date of the 
+                        application;
+                            (iii) proposed funding mechanisms for any 
+                        additional work; and
+                            (iv) a proposed land ownership plan.
+                    (F) A statement on the long-term benefits and the 
+                sustainability of the proposed project that includes--
+                            (i) the ability of the project to be 
+                        replicated nationally and measures of success 
+                        of the project; and
+                            (ii) to the extent known, the potential of 
+                        the plan for each area in which an eligible 
+                        brownfield site is situated to stimulate 
+                        economic development of the area or creation of 
+                        recreational areas on completion of the 
+                        environmental remediation.
+                    (G) Such other factors as the Administrator 
+                considers relevant to carry out this title.
+            (3) Approval of application.--
+                    (A) In general.--In making a decision whether to 
+                approve an application under this subsection, the 
+                Administrator shall--
+                            (i) consider the need of the local 
+                        government for financial assistance to carry 
+                        out this section;
+                            (ii) consider the ability of the applicant 
+                        to carry out an inventory and site assessment 
+                        under this section; and
+                            (iii) consider such other factors as the 
+                        Administrator considers relevant to carry out 
+                        this section.
+                    (B) Grant conditions.--As a condition of awarding a 
+                grant under this section, the Administrator--
+                            (i) shall require the recipient of the 
+                        grant to notify the State in which the 
+                        recipient is located of the receipt of the 
+                        grant; and
+                            (ii) may, on the basis of the criteria 
+                        considered under subparagraph (A), attach such 
+                        other conditions to the grant as the 
+                        Administrator determines appropriate.
+            (4) Grant amount.--The amount of a grant awarded to any 
+        local government under subsection (a) for inventory and site 
+        assessment of one or more brownfield sites shall not exceed 
+        $200,000.
+            (5) Termination of grants.--If the Administrator determines 
+        that a local government that receives a grant under this 
+        subsection is in violation of a condition of a grant referred 
+        to in paragraph (3)(B), the Administrator may terminate the 
+        grant made to the local government and require full or partial 
+        repayment of the grant.
+            (6) Authority to award grants to states.--The Administrator 
+        may award a grant to a State under the program established 
+        under this section if the Administrator determines that a grant 
+        to the State is necessary in order to facilitate the receipt of 
+        funds by one or more local governments that otherwise do not 
+        have the capabilities, such as personnel and other resources, 
+        to manage grants under the program.
+
+SEC. 103. GRANTS FOR REVOLVING LOAN PROGRAMS.
+
+    (a) In General.--
+            (1) Establishment.--The Administrator shall establish a 
+        program to award grants to be used by local governments to 
+        capitalize revolving loan funds for the cleanup of brownfield 
+        sites.
+            (2) Loans.--The loans may be provided by the local 
+        government to finance cleanups of brownfield sites by the local 
+        government, or by an owner or a prospective purchaser of a 
+        brownfield site (including a local government) at which a 
+        cleanup is being conducted or is proposed to be conducted.
+    (b) Scope of Program.--
+            (1) In general.--
+                    (A) Grants.--In carrying out subsection (a), the 
+                Administrator may award a grant to a local government 
+                that submits an application to the Administrator that 
+                is approved by the Administrator.
+                    (B) Use of grant.--The grant shall be used by the 
+                local government to capitalize a revolving loan fund to 
+                be used for cleanup of one or more brownfield sites.
+                    (C) Grant application.--An application for a grant 
+                under this section shall be in such form as the 
+                Administrator determines appropriate. At a minimum, the 
+                application shall include the following:
+                            (i) Evidence that the grant applicant has 
+                        the financial controls and resources 
+to administer a revolving loan fund in accordance with this title.
+                            (ii) Provisions that--
+                                    (I) ensure that the grant applicant 
+                                has the ability to monitor the use of 
+                                funds provided to loan recipients under 
+                                this title;
+                                    (II) ensure that any cleanup 
+                                conducted by the applicant is 
+                                protective of human health and the 
+                                environment; and
+                                    (III) ensure that any cleanup 
+                                funded under this Act will comply with 
+                                all laws that apply to the cleanup.
+                            (iii) Identification of the criteria to be 
+                        used by the local government in providing for 
+                        loans under the program. The criteria shall 
+                        include the financial standing of the 
+                        applicants for the loans, the use to which the 
+                        loans will be put, the provisions to be used to 
+                        ensure repayment of the loan funds, and the 
+                        following:
+                                    (I) A complete description of the 
+                                financial standing of the applicant 
+                                that includes a description of the 
+                                assets, cash flow, and liabilities of 
+                                the applicant.
+                                    (II) A written statement that 
+                                attests that the cleanup of the site 
+                                would not occur without access to the 
+                                revolving loan fund.
+                                    (III) The proposed method, and 
+                                anticipated period of time required, to 
+                                clean up the environmental 
+                                contamination at the brownfield site.
+                                    (IV) An estimate of the proposed 
+                                total cost of the cleanup to be 
+                                conducted at the brownfield site.
+                                    (V) An analysis that demonstrates 
+                                the potential of the brownfield site 
+                                for stimulating economic development or 
+                                creation of recreational areas on 
+                                completion of the cleanup of the 
+                                brownfield site.
+            (2) Grant approval.--In determining whether to award a 
+        grant under this section, the Administrator shall consider--
+                    (A) the need of the local government for financial 
+                assistance to clean up brownfield sites that are the 
+                subject of the application, taking into consideration 
+                the financial resources available to the local 
+                government;
+                    (B) the ability of the local government to ensure 
+                that the applicants repay the loans in a timely manner;
+                    (C) the extent to which the cleanup of the 
+                brownfield site or sites would reduce health and 
+                environmental risks caused by the release of hazardous 
+                substances, pollutants, or contaminants at, or from, 
+                the brownfield site or sites;
+                    (D) the demonstrable potential of the brownfield 
+                site or sites for stimulating economic development or 
+                creation of recreational areas on completion of the 
+                cleanup;
+                    (E) the demonstrated ability of the local 
+                government to administer such a loan program;
+                    (F) the demonstrated experience of the local 
+                government regarding brownfield sites and the reuse of 
+                contaminated land, including whether the government has 
+                received any grant under the Comprehensive 
+                Environmental Response, Compensation, and Liability Act 
+                of 1980 (42 U.S.C. 9601 et seq.) to assess brownfield 
+                sites, except that applicants who have not previously 
+                received such a grant may be considered for awards 
+                under this section;
+                    (G) the experience of administering any loan 
+                programs by the entity, including the loan repayment 
+                rates;
+                    (H) the demonstrations made regarding the ability 
+                of the local government to ensure a fair distribution 
+                of grant funds among brownfield sites within the 
+                jurisdiction of the local government; and
+                    (I) such other factors as the Administrator 
+                considers relevant to carry out this section.
+            (3) Grant amount.--The amount of a grant made to an 
+        applicant under this section shall not exceed $500,000.
+            (4) Revolving loan fund approval.--Each application for a 
+        grant to capitalize a revolving loan fund under this section 
+        shall, as a condition of approval by the Administrator, include 
+        a written statement by the local government that cleanups to be 
+        funded under the loan program of the local government shall be 
+        conducted under the auspices of, and in compliance with, the 
+        State voluntary cleanup program or State Superfund program or 
+        Federal authority.
+    (c) Grant Agreements.--Each grant under this section for a 
+revolving loan fund shall be made pursuant to a grant agreement. At a 
+minimum, the grant agreement shall include provisions that ensure the 
+following:
+            (1) Compliance with law.--The local government will include 
+        in all loan agreements a requirement that the loan recipient 
+        shall comply with all laws applicable to the cleanup and shall 
+        ensure that the cleanup is protective of human health and the 
+        environment.
+            (2) Repayment.--The local government will require repayment 
+        of the loan consistent with this title.
+            (3) Use of funds.--The local government will use the funds 
+        solely for purposes of establishing and capitalizing a loan 
+        program in accordance with this title and of cleaning up the 
+        environmental contamination at the brownfield site or sites.
+            (4) Repayment of funds.--The local government will require 
+        in each loan agreement, and take necessary steps to ensure, 
+        that the loan recipient will use the loan funds solely for the 
+        purposes stated in paragraph (3), and will require the return 
+        of any excess funds immediately on a determination by the 
+        appropriate local official that the cleanup has been completed.
+            (5) Nontransferability.--The funds will not be 
+        transferable, unless the Administrator agrees to the transfer 
+        in writing.
+            (6) Liens.--
+                    (A) Definitions.--In this paragraph, the terms 
+                ``security interest'' and ``purchaser'' have the 
+                meanings given the terms in section 6323(h) of the 
+                Internal Revenue Code of 1986.
+                    (B) Liens.--A lien in favor of the grant recipient 
+                shall arise on the contaminated property subject to a 
+                loan under this section.
+                    (C) Coverage.--The lien shall cover all real 
+                property included in the legal description of the 
+                property at the time the loan agreement provided for in 
+                this section is signed, and all rights to the property, 
+                and shall continue until the terms and conditions of 
+                the loan agreement have been fully satisfied.
+                    (D) Timing.--The lien shall--
+                            (i) arise at the time a security interest 
+                        is appropriately recorded in the real property 
+                        records of the appropriate office of the State, 
+                        county, or other governmental subdivision, as 
+                        designated by State law, in which the real 
+                        property subject to the lien is located; and
+                            (ii) be subject to the rights of any 
+                        purchaser, holder of a security interest, or 
+                        judgment lien creditor whose interest is or has 
+                        been perfected under applicable State law 
+                        before the notice has been filed in the 
+                        appropriate office of the State, county, or 
+                        other governmental subdivision, as designated 
+                        by State law, in which the real property 
+                        subject to the lien is located.
+            (7) Notice to state.--The local government will notify the 
+        State in which the local government is located of the receipt 
+        of the grant and of the identity of recipients of loans made 
+        under the revolving loan fund.
+    (d) Audits.--
+            (1) In general.--The Inspector General of the Environmental 
+        Protection Agency shall audit a portion of the grants awarded 
+        under this section to ensure that all funds are used for the 
+        purposes set forth in this section.
+            (2) Future grants.--The result of the audit shall be taken 
+        into account in awarding any future grants to the local 
+        government.
+    (e) Authority To Award Grants to States.--The Administrator may 
+award a grant to a State under the program established under this 
+section at the request of a local government in the State if the 
+Administrator determines that a grant to the State is necessary in 
+order to facilitate the receipt of funds by one or more local 
+governments that otherwise do not have the capabilities, such as 
+personnel and other resources, to manage grants under the program.
+
+SEC. 104. ECONOMIC REDEVELOPMENT GRANTS.
+
+    (a) Expenditures From the Superfund.--Amounts in the Hazardous 
+Substance Superfund established by section 9507 of the Internal Revenue 
+Code of 1986 shall be made available consistent with, and for the 
+purposes of carrying out, the grant programs established under sections 
+102 and 103.
+    (b) Authority To Award Grants.--There is authorized to be 
+appropriated from the Hazardous Substance Superfund for grants to local 
+governments under sections 102 and 103, $45,000,000 for each of fiscal 
+years 1998 through 2000.
+
+SEC. 105. REPORTS.
+
+    (a) In General.--Not later than one year after the date of 
+enactment of this Act, and not later than January 31 of each of the 3 
+calendar years thereafter, the Administrator shall prepare and submit a 
+report describing the results of each program established under this 
+title to--
+            (1) the Committees on Commerce and on Transportation and 
+        Infrastructure of the House of Representatives; and
+            (2) the Committee on Environment and Public Works of the 
+        Senate.
+    (b) Contents of Report.--Each report shall, with respect to each of 
+the programs established under this title, include a description of--
+            (1) the number of applications received by the 
+        Administrator during the preceding calendar year;
+            (2) the number of applications approved by the 
+        Administrator during the preceding calendar year; and
+            (3) the allocation of assistance under sections 102 and 103 
+        among the local governments.
+
+SEC. 106. LIMITATIONS ON USE OF FUNDS.
+
+    (a) Excluded Facilities.--(1) A grant for site inventory and 
+assessment under section 102 or to capitalize a revolving loan fund 
+under section 103 may not be used for any activity involving--
+            (A) a facility or portion of a facility that is the subject 
+        of a response action (including a facility or portion of a 
+        facility with respect to which a record of decision, other than 
+        a no-action record of decision, has been issued) under the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9601 et seq.), unless a 
+        preliminary assessment, site investigation, or response action 
+        has been completed at such facility or portion of a facility 
+        and the President has decided not to take further response 
+        action at such facility or portion of a facility;
+            (B) a facility included, or proposed for inclusion, on the 
+        National Priorities List maintained by the President under the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9601 et seq.);
+            (C) an NPL-caliber facility, as defined in paragraph (2);
+            (D) a facility that is subject to corrective action under 
+        section 3004(u) or 3008(h) of the Solid Waste Disposal Act (42 
+        U.S.C. 6924(u) or 6928(h)) to which a corrective action permit 
+        or order has been issued or modified to require the 
+        implementation of corrective measures;
+            (E) any land disposal unit with respect to which a closure 
+        notification under subtitle C of the Solid Waste Disposal Act 
+        (42 U.S.C. 6921 et seq.) has been submitted and closure 
+        requirements have been specified in a closure plan or permit;
+            (F) a facility at which there has been a release of a 
+        polychlorinated biphenyl and that is subject to the Toxic 
+        Substances Control Act (15 U.S.C. 2601 et seq.);
+            (G) a facility with respect to which an administrative or 
+        judicial order or decree requiring cleanup has been issued or 
+        entered into by the President under--
+                    (i) the Comprehensive Environmental Response, 
+                Compensation, and Liability Act of 1980 (42 U.S.C. 9601 
+                et seq.);
+                    (ii) the Solid Waste Disposal Act (42 U.S.C. 6901 
+                et seq.);
+                    (iii) the Federal Water Pollution Control Act (33 
+                U.S.C. 1251 et seq.);
+                    (iv) the Toxic Substances Control Act (15 U.S.C. 
+                2601 et seq.); or
+                    (v) the Safe Drinking Water Act (42 U.S.C. 300f et 
+                seq.);
+            (H) the portion of a facility at which assistance for 
+        response activities may be obtained under subtitle I of the 
+        Solid Waste Disposal Act (42 U.S.C. 6991 et seq.) from the 
+        Leaking Underground Storage Tank Trust Fund established by 
+        section 9508 of the Internal Revenue Code of 1986; and
+            (I) a facility owned or operated by a department, agency, 
+        or instrumentality of the United States, except for land held 
+        in trust by the United States for an Indian tribe.
+    (2) For purposes of paragraph (1), the term ``NPL-caliber 
+facility'' means a facility for which the President, in consultation 
+with the State concerned, has prepared or is preparing a hazardous 
+ranking system scoring package or that satisfies such other definition 
+as the Administrator may promulgate by regulation. The term does not 
+include a facility for which the President--
+            (A) has obtained a score under the hazardous ranking 
+        system; and
+            (B) based on that score, has made a determination not to 
+        list on the National Priorities List.
+    (3) Notwithstanding paragraph (1), the President may, on a 
+facility-by-facility basis, allow a grant under section 102 or section 
+103 to be used for an activity involving any facility listed in 
+subparagraph (D), (E), (F), (G)(ii), (G)(iii), (G)(iv), (G)(v), (H), or 
+(I) of paragraph (1). In the case of a facility listed in subparagraph 
+(I), the President may use the authority in the preceding sentence only 
+if the facility is not a facility described in subparagraph (A), (B), 
+(C), or (G)(i).
+    (b) Fines and Cost-Sharing.--A grant made under this title may not 
+be used to pay any fine or penalty owed to a State or the Federal 
+Government, or to meet any Federal cost-sharing requirement.
+    (c) Other Limitations.--
+            (1) In general.--Funds made available to a local government 
+        under the grant programs established under section 102 shall be 
+        used only to inventory and assess brownfield sites as 
+        authorized by this title. Funds made available to a local 
+        government under the grant programs established under section 
+        103 shall be used only for capitalizing a revolving loan fund 
+        as authorized by this title.
+            (2) Responsibility for cleanup action.--Funds made 
+        available under this title may not be used to relieve a local 
+        government of the commitment or responsibilities of the local 
+        government under State law to assist or carry out cleanup 
+        actions at brownfield sites.
+
+SEC. 107. EFFECT ON OTHER LAWS.
+
+    Nothing in this title changes, modifies, or otherwise affects the 
+liability of any person or the obligations imposed or authorities 
+provided under any other law or regulation, including--
+            (1) the Comprehensive Environmental Response, Compensation, 
+        and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
+            (2) the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.);
+            (3) the Federal Water Pollution Control Act (33 U.S.C. 1251 
+        et seq.);
+            (4) the Toxic Substances Control Act (15 U.S.C. 2601 et 
+        seq.); and
+            (5) the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
+
+SEC. 108. REGULATIONS.
+
+    (a) In General.--The Administrator may issue such regulations as 
+are necessary to carry out this title.
+    (b) Procedures and Standards.--The regulations shall include such 
+procedures and standards as the Administrator considers necessary, 
+including procedures and standards for evaluating an application for a 
+grant or loan submitted under this title.
+
+SEC. 109. AUTHORIZATIONS OF APPROPRIATIONS.
+
+    (a) Site Assessment Program.--There is authorized to be 
+appropriated to carry out section 102 $15,000,000 for each of fiscal 
+years 1998 through 2000.
+    (b) Economic Redevelopment Assistance Program.--There is authorized 
+to be appropriated to carry out section 103 $30,000,000 for each of 
+fiscal years 1998 through 2000.
+    (c) Availability of Funds.--The amounts appropriated under this 
+section shall remain available until expended.
+
+              TITLE II--STATE VOLUNTARY RESPONSE PROGRAMS
+
+SEC. 201. STATE VOLUNTARY RESPONSE PROGRAMS.
+
+    Title I of the Comprehensive Environmental Response, Compensation, 
+and Liability Act of 1980 (42 U.S.C. 9601 et seq.) is amended by adding 
+at the end the following new section:
+
+``SEC. 127. STATE VOLUNTARY RESPONSE PROGRAMS.
+
+    ``(a) Purposes and Objectives.--The purposes and objectives of this 
+section are--
+            ``(1) to significantly increase the pace of response 
+        activities at contaminated sites by promoting and encouraging 
+        the creation, development, and enhancement of State voluntary 
+        response programs; and
+            ``(2) to benefit the public health, welfare, and the 
+        environment by cleaning up and returning contaminated sites to 
+        economically productive or other beneficial uses.
+    ``(b) Assistance to States.--The Administrator shall provide 
+technical, financial, and other assistance to States to establish and 
+enhance voluntary response programs. The Administrator shall encourage 
+the States to develop risk sharing pools, indemnity pools, or insurance 
+mechanisms to provide financing for response actions under their 
+voluntary response programs.
+    ``(c) Limitation on Federal Authority To List on National 
+Priorities List.--Except as provided in subsection (e), the President 
+shall not list on the National Priorities List the portion of a 
+facility subject to a response action plan approved under a State 
+program qualified under subsection (i)--
+            ``(1) while substantial and continuous voluntary response 
+        activities are being conducted in compliance with the plan at 
+        that portion of the facility; or
+            ``(2) after response activities conducted in compliance 
+        with the plan at that portion of the facility have been 
+        certified by the State as complete.
+    ``(d) Limitation on Federal Authority To Recover Costs.--(1) Except 
+as provided in subsection (e), if substantial and continuous voluntary 
+response activities are being conducted at a voluntary response action 
+site in compliance with a response action plan approved under a State 
+program qualified under subsection (i) or if response activities 
+conducted at such a site in compliance with the plan have been 
+certified by the State as complete, then no person shall be liable to 
+the Administrator under section 107(a) for response costs incurred with 
+respect to a release or substantial threat of release of a hazardous 
+substance addressed by the response action plan unless one or more of 
+the following conditions is met:
+            ``(A) The Administrator determines that the release or 
+        threat of release may present an imminent and substantial 
+        danger to the public health or welfare or the environment.
+            ``(B) The State requests the Administrator to take action.
+            ``(C) Conditions at the site that were unknown to the State 
+        at the time the response action plan was approved by the State 
+        are discovered, and such conditions indicate, as determined by 
+        the Administrator or the State, that the response action is not 
+        protective of human health or the environment.
+            ``(D) The cleanup of the site under the response action 
+        plan of the State program is no longer protective of human 
+        health or the environment, as determined by the Administrator 
+        or the State, because of a change or a proposed change in the 
+        use of the site.
+    ``(2) For purposes of this subsection, the term `voluntary response 
+action site' means a site subject to a response action plan under a 
+State program qualified under subsection (i).
+    ``(3) Nothing in this subsection shall preclude the Administrator 
+from recovering costs incurred by the Administrator at a site before 
+State approval of a response action plan for that site.
+    ``(e) Facilities Ineligible for Limitations.--(1) The limitations 
+on Federal authority provided under subsections (c) and (d) do not 
+apply to any of the following facilities:
+            ``(A) A facility or portion of a facility that is the 
+        subject of a response action (including a facility or portion 
+        of a facility with respect to which a record of decision, other 
+        than a no-action record of decision, has been issued) under 
+        this Act, unless a preliminary assessment, site investigation, 
+        or response action has been completed at such facility or 
+        portion of a facility and the President has decided not to take 
+        further response action at such facility or portion of a 
+        facility.
+            ``(B) A facility included, or proposed for inclusion, on 
+        the National Priorities List maintained by the President under 
+        this Act.
+            ``(C) An NPL-caliber facility, as defined in paragraph (2).
+            ``(D) A facility that is subject to corrective action under 
+        section 3004(u) or 3008(h) of the Solid Waste Disposal Act (42 
+        U.S.C. 6924(u) or 6928(h)) to which a corrective action permit 
+        or order has been issued or modified to require the 
+        implementation of corrective measures.
+            ``(E) Any land disposal unit with respect to which a 
+        closure notification under subtitle C of the Solid Waste 
+        Disposal Act (42 U.S.C. 6921 et seq.) has been submitted and 
+        closure requirements have been specified in a closure plan or 
+        permit.
+            ``(F) A facility at which there has been a release of a 
+        polychlorinated biphenyl and that is subject to the Toxic 
+        Substances Control Act (15 U.S.C. 2601 et seq.).
+            ``(G) A facility with respect to which an administrative or 
+        judicial order or decree requiring cleanup has been issued or 
+        entered into by the President under--
+                    ``(i) this Act;
+                    ``(ii) the Solid Waste Disposal Act (42 U.S.C. 6901 
+                et seq.);
+                    ``(iii) the Federal Water Pollution Control Act (33 
+                U.S.C. 1251 et seq.);
+                    ``(iv) the Toxic Substances Control Act (15 U.S.C. 
+                2601 et seq.); or
+                    ``(v) the Safe Drinking Water Act (42 U.S.C. 300f 
+                et seq.).
+            ``(H) The portion of a facility at which assistance for 
+        response activities may be obtained under subtitle I of the 
+        Solid Waste Disposal Act (42 U.S.C. 6991 et seq.) from the 
+        Leaking Underground Storage Tank Trust Fund established by 
+        section 9508 of the Internal Revenue Code of 1986.
+            ``(I) A facility owned or operated by a department, agency, 
+        or instrumentality of the United States, except for land held 
+        in trust by the United States for an Indian tribe.
+    ``(2) For purposes of paragraph (1), the term `NPL-caliber 
+facility' means a facility for which the President, in consultation 
+with the State concerned, has prepared or is preparing a hazardous 
+ranking system scoring package or that satisfies such other definition 
+as the Administrator may promulgate by regulation. The term does not 
+include a facility for which the President--
+            ``(A) has obtained a score under the hazardous ranking 
+        system; and
+            ``(B) based on that score, has made a determination not to 
+        list on the National Priorities List.
+    ``(3) Notwithstanding paragraph (1), the President may, on a 
+facility-by-facility basis and pursuant to an agreement with the State 
+concerned, apply the limitations on authority provided under 
+subsections (c) and (d) to any facility listed in subparagraph (D), 
+(E), (F), (G)(ii), (G)(iii), (G)(iv), (G)(v), (H), or (I) of paragraph 
+(1). In the case of a facility listed in subparagraph (I), the 
+President may use the authority in the preceding sentence only if the 
+facility is not a facility described in subparagraph (A), (B), (C), or 
+(G)(i).
+    ``(f) EPA Assistance to States for State Voluntary Response 
+Programs.--The Administrator shall assist States to establish and 
+administer State voluntary response programs that--
+            ``(1) provide voluntary response actions that ensure 
+        adequate site assessment and are protective of human health and 
+        the environment;
+            ``(2) provide opportunities for technical assistance 
+        (including grants) for voluntary response actions;
+            ``(3) provide meaningful opportunities for public 
+        participation on issues that affect the community, which shall 
+        include prior notice and opportunity for comment in the 
+        selection of response actions and which may include involvement 
+        of State and local health officials during site assessment;
+            ``(4) provide streamlined procedures to ensure expeditious 
+        voluntary response actions;
+            ``(5) provide adequate oversight, enforcement authorities, 
+        resources, and practices--
+                    ``(A) to ensure that voluntary response actions are 
+                protective of human health and the environment, as 
+                provided in paragraph (1), and are conducted in a 
+                timely manner in accordance with a State-approved 
+                response action plan;
+                    ``(B) to ensure completion of response actions if 
+                the person conducting the response action fails or 
+                refuses to complete the necessary response activities 
+                that are protective of human health and the 
+                environment, including operation and maintenance or 
+                long-term monitoring activities;
+            ``(6) provide mechanisms for the approval of a response 
+        action plan; and
+            ``(7) provide mechanisms for a certification or similar 
+        documentation to the person who conducted the response action 
+        indicating that the response is complete.
+    ``(g) Financial Assistance for Development and Enhancement of State 
+Voluntary Response Programs and Reporting Requirement.--
+            ``(1) Authorization of appropriations.--In each of the 
+        first 5 fiscal years commencing after the date of enactment of 
+        this section, the sum of $15,000,000 is authorized to be 
+        appropriated for assistance to States to develop or enhance 
+        State voluntary response programs.
+            ``(2) Public record.--To assist the Administrator in 
+        determining the needs of States for assistance under this 
+        section, the Administrator shall encourage the States to 
+        maintain a public record of facilities, by name and location, 
+        that have been or are planned to be addressed under a State 
+        voluntary response program.
+            ``(3) Reporting requirement.--Each State receiving 
+        financial assistance under this section shall submit to the 
+        Administrator a report at the end of each calendar year on the 
+        progress of its voluntary response program, which shall include 
+        the following information with respect to that calendar year:
+                    ``(A) The number of sites, if any, undergoing 
+                voluntary cleanup, with the number of sites in each 
+                stage of such cleanup set forth separately.
+                    ``(B) The number of sites, if any, entering 
+                voluntary cleanup.
+                    ``(C) The number of sites, if any, that received a 
+                certification from the State indicating that a response 
+                action is complete.
+    ``(h) EPA Review of State Programs.--At any time after the date of 
+enactment of this section, a State may submit, for review by the 
+Administrator, documentation that the State considers appropriate to 
+describe a State voluntary response program, together with a 
+certification that the program is consistent with the elements set 
+forth in subsection (f), and, if such program is developed by 
+administrative action or regulation, documentation of public comment 
+and State response to comment on the adequacy of the State voluntary 
+response program.
+    ``(i) Qualification of State Program.--
+            ``(1) Approval or disapproval.--(A) The Administrator shall 
+        approve a State voluntary response program submitted under 
+        subsection (h) within 180 days after the Administrator receives 
+        documentation and certification under subsection (h) if the 
+        Administrator determines that the State's submission is 
+        consistent with the elements set forth in subsection (f). A 
+        program so approved by the Administrator shall be considered a 
+        qualified program under this Act.
+            ``(B) The Administrator shall publish in the Federal 
+        Register the reasons for the approval or disapproval of any 
+        such program.
+            ``(C) If the Administrator needs additional information 
+        under subparagraph (A)(ii), the 180-day time period referred to 
+        in subparagraph (A) shall be extended until such date as the 
+        Administrator is satisfied that enough additional information 
+        has been obtained in order to make a determination.
+            ``(2) Withdrawal of qualification.--Whenever the 
+        Administrator determines that a State is not administering and 
+        enforcing a qualified program in accordance with subsection 
+        (f), the Administrator shall notify the State in writing of 
+        such determination. If appropriate corrective action is not 
+        taken by the State within 120 days after receipt of the notice, 
+        the Administrator shall propose to withdraw approval of the 
+        program and publish a notice of such proposed withdrawal in the 
+Federal Register. The Administrator shall not withdraw approval of any 
+such program unless the Administrator provides to the State in writing 
+and publishes in the Federal Register the reasons for such withdrawal. 
+If the State subsequently completes the necessary corrective measures 
+as determined by the Administrator, the Administrator shall reinstate 
+the program as a qualified program under this section.
+    ``(j) Effect of Response.--Performance of a voluntary response 
+action pursuant to this section shall not constitute an admission of 
+liability under any Federal, State, or local law or regulation or in 
+any citizens suit or other private action.
+    ``(k) Compliance with NCP.--Solely for the purpose of private cost 
+recovery and contribution claims under this Act, response actions 
+conducted pursuant to a qualified program shall be presumed to be 
+consistent with the National Contingency Plan.
+    ``(l) Annual Reporting.--
+            ``(1) Reports by state.--Each State with a qualified 
+        program under this section shall submit to the Administrator a 
+        report at the end of each calendar year on the status of its 
+        program. Each such report shall include a statement regarding 
+        whether the program continues to be consistent with the 
+        elements set forth in subsection (f).
+            ``(2) Report by administrator.--The Administrator shall 
+        report, not later than two years after the enactment of this 
+        section, and annually thereafter, to the Congress on the status 
+        of State voluntary response programs. The report shall include 
+        an analysis of whether qualified State voluntary response 
+        action programs continue to be consistent with the elements set 
+        forth in subsection (f).
+    ``(m) Effect on Existing State Programs.--This section is not 
+intended to impose any requirement on any State voluntary response 
+program, including a program existing on or before the date of the 
+enactment of the Community Revitalization and Brownfield Cleanup Act of 
+1997. A program shall not be considered to be a qualified program under 
+this Act unless the program is approved in accordance with this 
+section.
+    ``(n) Effect on Agreements Between State and EPA.--This section is 
+not intended to modify or otherwise affect a memorandum of agreement, 
+or a cooperative agreement, relating to Superfund between a State 
+agency and the Environmental Protection Agency in effect on or before 
+the date of the enactment of the Community Revitalization and 
+Brownfield Cleanup Act of 1997. Such an agreement shall remain in 
+effect, subject to the terms of the agreement. This section is not 
+intended to restrict or limit the President's discretionary authority 
+to enter into or modify an agreement with a State or other person 
+relating to the President's implementation of statutory authorities.
+    ``(o) Effect on Other Laws.--Except as provided in subsections (c) 
+and (d), this section does not change, modify, or otherwise affect the 
+liability of any person or the obligations imposed or authorities 
+provided under any law or regulation, including this Act, the Solid 
+Waste Disposal Act, the Clean Water Act, the Toxic Substances Control 
+Act, and title XIV of the Public Health Service Act (the Safe Drinking 
+Water Act).
+    ``(p) Relationship to Innocent Landowner and Prospective 
+Purchaser.--(1) The successful completion of a response action at a 
+facility pursuant to a response action plan approved under a qualified 
+program under this section shall be evidence to be considered for 
+purposes of section 107(o)(3)(B) and section 101(39)(D).
+    ``(2) Nothing in this section shall be construed to require any 
+person to participate in a qualified voluntary response program under 
+this section or in any other voluntary response program in order to 
+qualify as an innocent landowner or bona fide prospective purchaser for 
+purposes of subsections (o) and (p) of section 107.''.
+
+   TITLE III--INNOCENT LANDOWNERS AND PROSPECTIVE PURCHASER LIABILITY
+
+SEC. 301. INNOCENT LANDOWNERS.
+
+    (a) Environmental Site Assessment.--Section 107 of the 
+Comprehensive Environmental Response, Compensation, and Liability Act 
+of 1980 (42 U.S.C. 9607) is amended by adding at the end the following 
+new subsection:
+    ``(o) Innocent Landowners.--
+            ``(1) Conduct of environmental assessment.--A person who 
+        has acquired real property shall have made all appropriate 
+        inquiry within the meaning of subparagraph (B) of section 
+        101(35) if he establishes that, within 180 days prior to the 
+        time of acquisition, an environmental site assessment of the 
+        real property was conducted which meets the requirements of 
+        paragraph (2).
+            ``(2) Definition of environmental site assessment.--For 
+        purposes of this subsection, the term `environmental site 
+        assessment' means an assessment conducted in accordance with 
+        the standards set forth in the American Society for Testing and 
+Materials (ASTM) Standard E1527-94, titled `Standard Practice for 
+Environmental Site Assessments: Phase I Environmental Site Assessment 
+Process' or with alternative standards issued by rule by the President 
+or promulgated or developed by others and designated by rule by the 
+President. Before issuing or designating alternative standards, the 
+President shall first conduct a study of commercial and industrial 
+practices concerning environmental site assessments in the transfer of 
+real property in the United States. Any such standards issued or 
+designated by the President shall also be deemed to constitute 
+commercially reasonable and generally accepted standards and practices 
+for purposes of this paragraph. In issuing or designating any such 
+standards, the President shall consider requirements governing each of 
+the following:
+                    ``(A) Interviews of owners, operators, and 
+                occupants of the property to determine information 
+                regarding the potential for contamination.
+                    ``(B) Review of historical sources as necessary to 
+                determine previous uses and occupancies of the property 
+                since the property was first developed. For purposes of 
+                this subclause, the term `historical sources' means any 
+                of the following, if they are reasonably ascertainable: 
+                recorded chain of title documents regarding the real 
+                property, including all deeds, easements, leases, 
+                restrictions, and covenants, aerial photographs, fire 
+                insurance maps, property tax files, USGS 7.5 minutes 
+                topographic maps, local street directories, building 
+                department records, zoning/land use records, and any 
+                other sources that identify past uses and occupancies 
+                of the property.
+                    ``(C) Determination of the existence of recorded 
+                environmental cleanup liens against the real property 
+                which have arisen pursuant to Federal, State, or local 
+                statutes.
+                    ``(D) Review of reasonably ascertainable Federal, 
+                State, and local government records of sites or 
+                facilities that are likely to cause or contribute to 
+                contamination at the real property, including, as 
+                appropriate, investigation reports for such sites or 
+                facilities; records of activities likely to cause or 
+                contribute to contamination at the real property, 
+                including landfill and other disposal location records, 
+                underground storage tank records, hazardous waste 
+                handler and generator records and spill reporting 
+                records; and such other reasonably ascertainable 
+                Federal, State, and local government environmental 
+                records which could reflect incidents or activities 
+                which are likely to cause or contribute to 
+                contamination at the real property.
+                    ``(E) A visual site inspection of the real property 
+                and all facilities and improvements on the real 
+                property and a visual inspection of immediately 
+                adjacent properties, including an investigation of any 
+                hazardous substance use, storage, treatment, and 
+                disposal practices on the property.
+                    ``(F) Any specialized knowledge or experience on 
+                the part of the landowner.
+                    ``(G) The relationship of the purchase price to the 
+                value of the property if uncontaminated.
+                    ``(H) Commonly known or reasonably ascertainable 
+                information about the property.
+                    ``(I) The obviousness of the presence or likely 
+                presence of contamination at the property, and the 
+                ability to detect such contamination by appropriate 
+                investigation.
+        A record shall be considered to be `reasonably ascertainable' 
+        for purposes of this paragraph if a copy or reasonable 
+facsimile of the record is publicly available by request (within 
+reasonable time and cost constraints) and the record is practically 
+reviewable.
+            ``(3) Appropriate inquiry.--A person shall not be treated 
+        as having made all appropriate inquiry under paragraph (1) 
+        unless--
+                    ``(A) the person has maintained a compilation of 
+                the information reviewed and gathered in the course of 
+                the environmental site assessment;
+                    ``(B) the person exercised appropriate care with 
+                respect to hazardous substances found at the facility 
+                by taking reasonable steps to stop on-going releases, 
+                prevent threatened future releases of hazardous 
+                substances, and prevent or limit human or natural 
+                resource exposure to hazardous substances previously 
+                released into the environment; and
+                    ``(C) the person provides full cooperation, 
+                assistance, and facility access to persons authorized 
+                to conduct response actions or natural resource 
+                restoration at the facility, including the cooperation 
+                and access necessary for the installation, integrity, 
+                operation, and maintenance of any complete or partial 
+                response action or natural resource restoration at the 
+                facility.''.
+    (b) Cross Reference.--Section 101(35)(B) (42 U.S.C. 9601(35)(B)) is 
+amended by inserting after ``all appropriate inquiry'' the following: 
+``(as specified in section 107(o))''.
+
+SEC. 302. LIMITATIONS ON LIABILITY FOR RESPONSE COSTS FOR PROSPECTIVE 
+              PURCHASERS.
+
+    (a) Limitations on Liability.--Section 107 of the Comprehensive 
+Environmental Response, Compensation, and Liability Act of 1980 (42 
+U.S.C. 9607) is further amended by adding at the end the following new 
+subsection:
+    ``(p) Limitations on Liability for Prospective Purchasers.--
+Notwithstanding paragraphs (1) through (4) of subsection (a), to the 
+extent the liability of a person, with respect to a release or the 
+threat of a release from a facility, is based solely on subsection 
+(a)(1), the person shall not be liable under this Act if the person--
+            ``(1) is a bona fide prospective purchaser of the facility; 
+        and
+            ``(2) does not impede the performance of any response 
+        action or natural resource restoration at a facility.''.
+    (b) Prospective Purchaser and Windfall Lien.--Section 107 of the 
+Comprehensive Environmental Response, Compensation, and Liability Act 
+of 1980 (as amended by subsection (a)) is amended by adding after 
+subsection (p) the following new subsection:
+    ``(q) Prospective Purchaser and Windfall Lien.--
+            ``(1) In general.--In any case in which there are 
+        unrecovered response costs at a facility for which an owner of 
+        the facility is not liable by reason of subsection (p), and the 
+        conditions described in paragraph (3) are met, the United 
+        States shall have a lien on the facility, or may obtain, from 
+        the appropriate responsible party or parties, a lien on other 
+        property or other assurances of payment satisfactory to the 
+        Administrator, for the unrecovered costs.
+            ``(2) Amount; duration.--The lien--
+                    ``(A) shall be for an amount not to exceed the 
+                increase in fair market value of the property 
+                attributable to the response action at the time of a 
+                subsequent sale or other disposition of the property;
+                    ``(B) shall arise at the time costs are first 
+                incurred by the United States with respect to a 
+                response action at the facility;
+                    ``(C) shall be subject to the requirements for 
+                notice and validity specified in subsection (l)(3); and
+                    ``(D) shall continue until the earlier of 
+                satisfaction of the lien or recovery of all response 
+                costs incurred at the facility.
+            ``(3) Conditions.--The conditions referred to in paragraph 
+        (1) are the following:
+                    ``(A) Response action.--A response action for which 
+                there are unrecovered costs is carried out at the 
+                facility.
+                    ``(B) Fair market value.--The response action 
+                increases the fair market value of the facility above 
+                the fair market value of the facility that existed on 
+                the date that is 180 days before the response action 
+                was commenced.''.
+    (c) Definition of Bona Fide Prospective Purchaser.--Section 101 of 
+the Comprehensive Environmental Response, Compensation, and Liability 
+Act of 1980 (42 U.S.C. 9601) is amended by adding at the end the 
+following:
+            ``(39) Bona fide prospective purchaser.--The term `bona 
+        fide prospective purchaser' means a person who acquires 
+        ownership of a facility after the date of enactment of the 
+        Community Revitalization and Brownfield Cleanup Act of 1997, or 
+        a tenant of such a person, who can establish each of the 
+        following by a preponderance of the evidence:
+                    ``(A) Disposal prior to acquisition.--All active 
+                disposal of hazardous substances at the facility 
+                occurred before the person acquired the facility.
+                    ``(B) Inquiry.--
+                            ``(i) In general.--The person made all 
+                        appropriate inquiry into the previous ownership 
+                        and uses of the facility in accordance with 
+                        generally accepted good commercial and 
+                        customary standards and practices.
+                            ``(ii) Standards.--The ASTM standards 
+                        described in section 107(o)(2) or the 
+                        alternative standards issued or designated by 
+                        the President pursuant to that section shall 
+                        satisfy the requirements of this subparagraph.
+                            ``(iii) Residential property.--In the case 
+                        of property in residential or other similar use 
+                        at the time of purchase by a nongovernmental or 
+                        noncommercial entity, a site inspection and 
+                        title search that reveal no basis for further 
+                        investigation shall satisfy the requirements of 
+                        this subparagraph.
+                    ``(C) Notices.--The person provided all legally 
+                required notices with respect to the discovery or 
+                release of any hazardous substances at the facility.
+                    ``(D) Care.--The person exercised appropriate care 
+                with respect to hazardous substances found at the 
+                facility by taking reasonable steps to--
+                            ``(i) stop ongoing releases;
+                            ``(ii) prevent threatened future releases 
+                        of hazardous substances; and
+                            ``(iii) prevent or limit human or natural 
+                        resource exposure to hazardous substances 
+                        previously released into the environment.
+                    ``(E) Cooperation, assistance, and access.--The 
+                person provides full cooperation, assistance, and 
+                facility access to such persons as are authorized to 
+                conduct response actions at the facility, including the 
+                cooperation and access necessary for the installation, 
+                integrity, operation, and maintenance of any complete 
+                or partial response action at the facility.
+                    ``(F) Relationship.--The person is not liable, or 
+                is not affiliated with any other person that is 
+                potentially liable, for response costs at the facility, 
+                through any direct or indirect familial relationship, 
+                or any contractual, corporate, or financial 
+                relationship other than that created by the instruments 
+                by which title to the facility is conveyed or 
+                financed.''.
+
+SEC. 303. CONTIGUOUS OR NEARBY PROPERTIES.
+
+    Section 107 of the Comprehensive Environmental Response, 
+Compensation, and Liability Act of 1980 (42 U.S.C. 9607) is further 
+amended by adding at the end the following new subsection:
+    ``(q) Contiguous Properties.--(1) A person who owns or operates 
+real property that is contiguous to or otherwise similarly situated 
+with respect to real property on which there has been a release or 
+threatened release of a hazardous substance and that is or may be 
+contaminated by such release shall not be considered to be an owner or 
+operator of a facility under subsection (a)(1) solely by reason of such 
+contamination, if such person establishes by a preponderance of the 
+evidence that--
+            ``(A) such person exercised due care with respect to the 
+        hazardous substance, in light of all relevant facts and 
+        circumstances;
+            ``(B) such person took precautions against any foreseeable 
+        act or omission that resulted in the release or threatened 
+        release and the consequences that could foreseeably result from 
+        such act or omission; and
+            ``(C) such person did not cause or contribute to the 
+        release or threatened release.
+    ``(2) The President may issue an assurance of no enforcement action 
+under this Act to any such person and may grant any such person 
+protection against cost recovery and contribution actions pursuant to 
+section 113(f)(2).''.
+                                 <all>

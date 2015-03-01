@@ -17,9 +17,9 @@ function q2a()
 %disp(size(X));
 %disp(size(Y));
 X = dlmread('./topic_dist.txt', ','); %X is m x K, where X(m, k) = P(topic k | document m)
-Y = [ones(91, 1); zeros(409, 1)];
+Y = [ones(54, 1); zeros(202, 1)];
 Xtest = dlmread('./topic_dist_test.txt', ',');
-Ytest = [ones(45, 1); zeros(190, 1)];
+Ytest = [ones(37, 1); zeros(207, 1)];
     
 %   146    22
 

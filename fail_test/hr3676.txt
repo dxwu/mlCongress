@@ -1,0 +1,898 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3676 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 3676
+
+   To establish a comprehensive program to ensure the safety of food 
+products intended for human consumption which are regulated by the Food 
+                        and Drug Administration.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 1, 1998
+
+Mr. Pallone (for himself, Mr. Bonior, Mr. Green, Ms. DeLauro, Mr. Wynn, 
+   Mr. Frost, Mr. Lewis of Georgia, Ms. Furse, Mr. Kennedy of Rhode 
+   Island, Mr. Rothman, Ms. McCarthy of Missouri, Mr. Pascrell, Mr. 
+   Martinez, Ms. Jackson-Lee, Ms. Carson, Mr. Serrano, Mr. Rush, Mr. 
+ Engel, Mr. Andrews, Mr. Sawyer, Ms. Kaptur, Mr. Cummings, Mr. Waxman, 
+   Mrs. Lowey, Mr. McGovern, Mr. Manton, Ms. Eshoo, Mr. Sanders, Mr. 
+  Markey, and Mr. Menendez) introduced the following bill; which was 
+                 referred to the Committee on Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To establish a comprehensive program to ensure the safety of food 
+products intended for human consumption which are regulated by the Food 
+                        and Drug Administration.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Consumer Food 
+Safety Act of 1998''.
+    (b) Table of Contents.--
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+                 TITLE I--NATIONAL FOOD SAFETY PROGRAM
+
+Sec. 101. Administration of national program.
+Sec. 102. Registration of processors and importers.
+Sec. 103. Process controls to reduce the adulteration of food products.
+Sec. 104. Inspections of processors and importers.
+Sec. 105. Tolerances for contaminants in food.
+Sec. 106. State and Federal cooperation.
+Sec. 107. Imports.
+                    TITLE II--RESEARCH AND EDUCATION
+
+Sec. 201. Public health assessment system.
+Sec. 202. Public education and advisory system.
+Sec. 203. Research.
+                         TITLE III--ENFORCEMENT
+
+Sec. 301. Amendments to the Federal Food, Drug, and Cosmetic Act.
+                        TITLE IV--AUTHORIZATION
+
+Sec. 401. Authorization of appropriations.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act:
+            (1) The term ``contaminants'' includes bacteria, chemical 
+        contaminants, natural toxins, viruses, parasites, and physical 
+        hazards that when found on or in food can cause human illness 
+        or injury.
+            (2) The term ``facility'' includes any factory, warehouse, 
+        establishment, or importer that handles or processes food.
+            (3) The term ``process'' means the commercial harvesting, 
+        preparation, manufacture, or transportation of food products.
+            (4) The term ``Secretary'' means the Secretary of Health 
+        and Human Services.
+
+                 TITLE I--NATIONAL FOOD SAFETY PROGRAM
+
+SEC. 101. ADMINISTRATION OF NATIONAL PROGRAM.
+
+    (a) In General.--
+            (1) Persons who produce or process food for human 
+        consumption have the responsibility to prevent or minimize food 
+        safety hazards related to their products. The Secretary shall 
+        administer a national program for the purpose of protecting 
+        human health by ensuring that the food industry has effective 
+        programs in place to assure the safety of food products 
+        consumed in the United States.
+            (2) The program shall--
+                    (A) be based on a comprehensive analysis of the 
+                hazards associated with different food products and 
+                with the harvesting, processing, and handling of 
+                different food products, including the identification 
+                and evaluation of--
+                            (i) the severity of the potential health 
+                        risks;
+                            (ii) the sources and specific points of 
+                        potential contamination that may render food 
+                        products unsafe for human consumption; and
+                            (iii) the potential for persistence, 
+                        multiplication, or concentration of naturally 
+                        occurring or added contaminants in foods and 
+                        food products;
+                    (B) take into consideration the distinctive 
+                characteristics of food production and processing;
+                    (C) establish inspection and oversight procedures 
+                to monitor that facilities are utilizing preventive 
+                controls to minimize or eliminate identifiable hazards; 
+                and
+                    (D) require each food processing facility to 
+                annually register with the Secretary.
+    (b) Program Elements.--The program shall provide for--
+            (1) implementation of a national system for the 
+        registration and quarterly inspection of facilities and 
+        importers. Quarterly inspections can be waived by plants that 
+        meet the Secretary's standards for exceptional or negligible-
+        risk facilities or importers;
+            (2) development of a program to oversee the implementation 
+        of process controls in food processing facilities;
+            (3) the establishment and enforcement of health-based 
+        standards for (A) substances which may contaminate food and (B) 
+safety and sanitation in the processing and handling of food products;
+            (4) implementation of a sampling program to ensure that 
+        industry programs to prevent food contamination are effective 
+        and that food products meet the standards established in 
+        paragraph (1);
+            (5) implementation of procedures and requirements to ensure 
+        the safety of imported food products;
+            (6) coordination with other Federal agencies or State 
+        governments in carrying out inspection, enforcement, and 
+        monitoring;
+            (7) implementation of a national surveillance system to 
+        assess the health risks associated with the human consumption 
+        of food products, in cooperation with the Secretary of 
+        Agriculture and the Centers for Disease Control and Prevention;
+            (8) development of public education and advisory programs; 
+        and
+            (9) implementation of a research program in furtherance of 
+        the purposes of this Act.
+
+SEC. 102. REGISTRATION OF PROCESSORS AND IMPORTERS.
+
+    (a) In General.--Any facility engaged in processing of food 
+products and any person who imports food products shall register with 
+the Secretary. Application for registration shall be made to the 
+Secretary using such forms and containing such information as the 
+Secretary shall prescribe by regulation within 24 months after the date 
+of enactment of this Act. Upon receipt and review of a completed 
+application, the Secretary shall issue to the applicant a certificate 
+of registration unless good cause is shown why such application should 
+be denied. The Secretary shall promptly notify any applicant of such 
+denial, include a written explanation of the reasons for such denial, 
+and provide an opportunity for a hearing or reapplication upon request.
+    (b) Suspension of Registration.--
+            (1) The registration may be suspended immediately by the 
+        Secretary for--
+                    (A) failure to permit access for inspection under 
+                this Act;
+                    (B) violation of this Act or regulation issued 
+                under this Act, where the Secretary determines that 
+                such suspension is likely to prevent a significant risk 
+                of adverse health consequences; or
+                    (C) conviction of the applicant or registrant in 
+                any Federal or State court of--
+                            (i) any felony other than a felony based 
+                        upon the acquiring, handling, or distribution 
+                        of adulterated or misbranded food; or
+                            (ii) more than one violation of any law 
+                        other than a violation involving any fraud in 
+                        connection with transactions in food.
+            (2) Any registration suspended under paragraph (1) may be 
+        reinstated whenever the Secretary determines that suspension is 
+        no longer necessary.
+    (c) Exemption Authority.--The Secretary may by regulation exempt 
+classes of facilities from the requirements of subsection (a) if the 
+Secretary determines that the registration of such facilities or 
+persons is not needed for effective enforcement of this Act.
+
+SEC. 103. PROCESS CONTROLS TO REDUCE THE ADULTERATION OF FOOD PRODUCTS.
+
+    (a) In General.--The Secretary shall, upon the basis of the best 
+available scientific and technological data, prescribe regulations to--
+            (1) limit the presence of human pathogens and other 
+        potentially harmful substances in food products;
+            (2) ensure that all registered facilities implement 
+        appropriate measures to control and reduce the presence and 
+        growth of human pathogens and other potentially harmful 
+        substances on food products;
+            (3) ensure that all fully processed or ready-to-eat food 
+        products are processed in a sanitary manner, using reasonably 
+        available techniques and technologies to eliminate any human 
+        pathogens or other potentially harmful substances likely to 
+        cause foodborne illness; and
+            (4) ensure that food products intended for final processing 
+        outside commercial establishments are labeled with instructions 
+        for handling and preparation for consumption which, when 
+        adhered to, will destroy any human pathogens or other 
+        potentially harmful substance likely to cause foodborne 
+        illness.
+    (b) Regulations.--The Secretary shall, within one year of the 
+enactment of this Act, issue regulations that require all registered 
+facilities to adopt processing controls adequate to protect public 
+health and to limit the presence and growth of human pathogens and 
+other potentially harmful substances in food products prepared in any 
+registered facility. Such regulations shall--
+            (1) set standards for sanitation;
+            (2) set tolerances for biological, chemical, and physical 
+        hazards as appropriate;
+            (3) require process controls to assure that food is safe 
+        and that relevant regulatory and safety standards are met;
+            (4) require recordkeeping to monitor compliance;
+            (5) require sampling to assure that processing controls are 
+        effective and that regulatory standards are being met; and
+            (6) provide for agency access to records kept by official 
+        establishments and submission of copies of such records to the 
+        Secretary as the Secretary deems appropriate.
+Public access to records that relate to the adequacy of measures taken 
+by official establishments to protect the public health and to limit 
+the presence and growth of human pathogens and other potentially 
+harmful substances shall be governed by (5 U.S.C. 552 et seq.). The 
+Secretary may, as the Secretary deems necessary, require any person, 
+firm, or corporation with responsibility for or control over food 
+ingredients to adopt processing controls, where such processing 
+controls are needed to assure the protection of public health.
+
+SEC. 104. INSPECTIONS OF PROCESSORS AND IMPORTERS.
+
+    (a) Nature of Inspections.--
+            (1) The inspection system shall provide for frequent 
+        unannounced inspections of food processing and importing 
+        facilities to determine if such facilities are operated in a 
+        sanitary manner and if food products are unsafe for human 
+        consumption, or adulterated or misbranded under the Federal 
+        Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.). 
+        Inspections shall include review of processing records and 
+        sampling of food products.
+            (2) Inspections shall be conducted at least quarterly, 
+        unless the Secretary determines that the facility, is an 
+        exceptional or negligible-risk facility under standards 
+        established by the Secretary.
+            (3) Standards for exceptional or negligible-risk facilities 
+        shall consider the hazards associated with the type of product 
+        being produced; and the facility's history of compliance, food 
+        safety problems and such other factors as the Secretary may 
+        deem appropriate. The Secretary shall specify an alternative 
+        inspection frequency for each facility which is deemed 
+        exceptional or negligible-risk. Each inspection shall include 
+        an examination of whether the facility continues to meet the 
+        standards for exceptional or negligible-risk facilities.
+    (b) Conduct of Inspections.--
+            (1) An inspection under subsection (a) of any domestic, 
+        foreign, or importing facility shall extend to all things 
+        therein (including records required to be maintained under 
+        subsection (e), processes, controls, and premises) that bear on 
+        whether food products are in compliance with this Act or the 
+        Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.). 
+        Access to records may include the copying of such records.
+            (2) In conducting such inspections, officers or employees 
+        duly designated by the Secretary, upon presenting appropriate 
+        credentials to the owner, operator, or agent in charge, are 
+        authorized--
+                    (A) to enter at reasonable times any facility in 
+                which persons are engaged in the food processing or 
+                importing of food products, or to enter any vehicle 
+                being used to transport or hold such food products;
+                    (B) to inspect in a reasonable manner such facility 
+                or vehicle and all pertinent equipment, finished and 
+                unfinished materials, containers, labeling, processes, 
+                controls, and premises; and
+                    (C) to collect and retain samples of food products 
+                or ingredients or of any other items found during an 
+                inspection that may contribute to a finding of whether 
+                such food products are unsafe for human consumption or 
+                adulterated or misbranded under the Food, Drug, and 
+                Cosmetic Act (21 U.S.C. 301 et seq.).
+            (3) Immediately after completion of inspection, the officer 
+        or employee making the inspection shall give to the owner, 
+        operator, or agent in charge a report in writing setting forth 
+        any conditions or practices observed which indicate that either 
+        processing controls are inadequate to prevent or minimize food 
+        safety hazards or that any food from such facility is unsafe 
+        for human consumption, or adulterated or misbranded under the 
+        Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
+    (c) Product Detention and Condemnation.--
+            (1) If, during an inspection conducted under this section, 
+        an officer or employee making the inspection has reason to 
+        believe that a food product is unsafe for human consumption, or 
+        adulterated or misbranded under the Federal Food, Drug, and 
+        Cosmetic Act (21 U.S.C. 301 et seq.), such officer or employee 
+        may order the food product segregated, impounded, and if 
+        objection is not made within 48 hours, condemned. If objection 
+        is made, such food products that are in perishable form may be 
+        processed to the extent necessary to prevent spoilage, and a 
+        hearing shall be commenced expeditiously.
+            (2) If the Secretary determines that, through relabeling or 
+        other action, such food products can be brought into compliance 
+        with this Act and the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 301 et seq.), the food may be released following a 
+        determination by the Secretary that such relabeling or other 
+        action as specified by the Secretary has been performed.
+            (3) Any food product condemned without objection, or after 
+        hearing and judicial review, shall be destroyed under 
+        supervision of the Secretary.
+    (d) Official Mark.--The Secretary shall prescribe by regulation the 
+conditions under which any food product shall display an official mark, 
+when needed to facilitate exports, that signifies that the food product 
+has been processed in accordance with standards approved by the 
+Secretary. Such a mark may be subject to a fee.
+    (e) Maintenance of Records.--Each facility or person registered 
+under this section shall maintain and make available for inspection by 
+the Secretary such records as the Secretary may prescribe. Such records 
+shall be maintained for a reasonable period of time as determined by 
+the Secretary. The records shall include, but are not limited to, 
+information concerning--
+            (1) the origin, receipt, delivery, sale, movement, holding, 
+        and disposition of food products or ingredients; the identity 
+        and amount of ingredients used in the food; the processing of 
+        the food; the results of laboratory, sanitation, or other 
+        quality control tests performed on the food or in the facility; 
+        consumer complaints concerning the food or its packaging; and
+            (2) other matters reasonably related to whether food 
+        products may be unsafe for human consumption, or adulterated or 
+        misbranded under the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 301 et seq.).
+    (f) Other Inspection Rights and Duties.--Section 704 of the Federal 
+Food, Drug, and Cosmetic Act (21 U.S.C. 374) is amended by adding at 
+the end the following new subsection:
+    ``(f) The rights and duties under this section of duly designated 
+officers and employees and of other persons shall apply to enforcement 
+of the Consumer Food Safety Act of 1998 to the same extent and in the 
+same manner as they apply to enforcement of this Act.''.
+
+SEC. 105. TOLERANCES FOR CONTAMINANTS IN FOOD.
+
+    (a) Tolerances.--The Secretary shall establish tolerances limiting 
+the quantity of contaminants, except for pesticide residues regulated 
+under section 408 or food additives regulated under section 409 of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), that, 
+when found in food products, may render such products unsafe for human 
+consumption. Contaminants include but are not limited to bacteria, 
+chemical contaminants, natural toxins, viruses and parasites that when 
+found on or in food can cause human illness. Such tolerances may 
+include indicators (including indicator organisms) from which it may 
+reasonably be inferred that a contaminant is present in a food product. 
+In developing a tolerance, the Secretary shall take into account the 
+extent to which consumers may be exposed to such contaminant from 
+sources other than food, and the extent to which such contaminant can 
+be avoided or minimized in the commercial handling and processing of 
+such food.
+    (b) Regulations.--
+            (1) The Secretary, after notice and an opportunity for 
+        comment, shall promulgate regulations to implement subsection 
+        (a) within 48 months after the date of enactment of this Act. 
+        In promulgating such regulations, the Secretary shall establish 
+        tolerances for the contaminants that the Secretary determines 
+        are having the greatest public health impact as early as 
+        feasible after implementation of this Act.
+            (2) A tolerance established under this section shall be 
+        based on--
+                    (A) a scientific analysis of the health risks 
+                attributable to the contaminant for which the tolerance 
+                is established; and
+                    (B) analysis of the risks for sensitive groups, 
+                such as children, elderly, pregnant women and the 
+                immune compromised.
+            (3) The Secretary shall, in a timely manner, issue 
+        revisions to the regulations under paragraph (1) which take 
+        into account new information. The Secretary may contract with 
+        the National Academy of Sciences to provide such data or 
+        assistance as the Secretary deems necessary.
+    (c) Report.--The Secretary shall report to the Congress on the 
+progress of the Secretary in establishing tolerances under this 
+section. The report shall include a description of the research that 
+has been conducted with respect to such tolerances and the research 
+that must be conducted before additional tolerances may be established, 
+the health significance of the lack of such additional tolerances, a 
+timetable for the establishment of such tolerances, and the estimated 
+costs, including costs of research, associated with the establishment 
+of such tolerances. The report shall be transmitted on or about the end 
+of the 18th month after the date of enactment of this Act, and 
+biennially thereafter during the 6-year period that begins on such date 
+of enactment.
+
+SEC. 106. STATE AND FEDERAL COOPERATION.
+
+    (a) In General.--The Secretary shall work with the States in 
+undertaking activities and programs that contribute to the national 
+food safety program so that State and Federal programs function in a 
+coordinated and cost-effective manner. With the assistance provided in 
+subsection (b), the Secretary shall encourage States to--
+            (1) continue, strengthen, or establish State food safety 
+        programs, especially with respect to the regulation of retail 
+        commercial food establishments, transportation, harvesting, and 
+        fresh markets; and
+            (2) establish procedures and requirements for ensuring that 
+        food products under the jurisdiction of the State are not 
+        unsafe for human consumption.
+    (b) Assistance.--
+            (1) The Secretary may provide to a State, for planning, 
+        developing, and implementing a food safety program--
+                    (A) advisory assistance;
+                    (B) technical and laboratory assistance and 
+                training (including necessary materials and equipment); 
+                and
+                    (C) financial and other aid.
+    (c) Service Agreements.--The Secretary may, under agreements 
+entered into with Federal, State, or local agencies, use on a 
+reimbursable basis or otherwise the personnel, services, and facilities 
+of such agencies in carrying out their responsibilities under this Act. 
+Such an agreement shall provide that any compliance records, notices, 
+or reports issued in connection with activities under the agreement and 
+in the possession of the agency or government which entered into the 
+agreement shall be made available in accordance with section 552 of 
+title 5, United States Code. Agreements with a State under this 
+subsection may provide for training of State employees.
+
+SEC. 107. IMPORTS.
+
+    (a) Role of Secretary.--Within 24 months after the date of 
+enactment of this Act, the Secretary shall establish and administer a 
+comprehensive and efficient system to ensure the safety of food 
+imported into the United States. The Secretary shall routinely inspect 
+processing facilities in exporting nations and imports at ports of 
+entry into the United States. The Secretary shall assure the effective 
+operation through verification and other activities as the Secretary 
+considers necessary.
+    (b) Import Requirements.--
+            (1) No food product may enter the United States, or be 
+        withdrawn from a warehouse, for consumption in the United 
+        States if such food product--
+                    (A) appears unsafe for human consumption, or 
+                adulterated or misbranded under the Federal Food, Drug, 
+                and Cosmetic Act (21 U.S.C. 301 et seq.);
+                    (B) is not marked or labeled as required by 
+                regulations for domestic or imported articles; or
+                    (C) does not comply with the requirements of this 
+                section.
+            (2) Upon entry for consumption in the United States, food 
+        products that are not prohibited from entry or from withdrawal 
+        from a warehouse under paragraph (1) shall be deemed to be and 
+        treated as domestic food products, except that all labeling of 
+        such products shall clearly identify the country of origin to 
+        facilitate the identification of products linked to outbreaks 
+        of illness.
+    (c) Inspection of Imports.--
+            (1) Food products that are offered for importation, or 
+        withdrawn from a warehouse, for consumption in the United 
+        States, shall be subject to examinations inspections, sampling, 
+        and such other procedures at the port of entry or in the 
+        exporting nation by officers or employees duly designated by 
+        the Secretary. Such procedures shall be conducted with such 
+        frequency and in such manner as the Secretary may prescribe by 
+        regulation.
+            (2) Food products from a nation that is certified for such 
+        food products under subsection (e)(3) shall be subject to 
+        random examinations, inspections, sampling, and other 
+        procedures. Food products from a nation that is not certified 
+        for such food products under subsection (e)(3) shall be subject 
+        to such intensified examinations, inspections, sampling, and 
+        other verification procedures, including inspection in the 
+        country of origin, as the Secretary determines are necessary to 
+        ensure compliance with this Act.
+    (d) Detention of Imported Food Product.--If during an inspection or 
+other verification procedure carried out under this section, an officer 
+or employee conducting the procedure has reason to believe that a food 
+product is unsafe for human consumption, or adulterated or misbranded 
+under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), 
+such officer or employee may order the food product segregated, 
+impounded, and if objection is not made within 48 hours, condemned. If 
+objection is made, such food products that are in perishable form may 
+be processed to the extent necessary to prevent spoilage, and a hearing 
+shall be commenced expeditiously. The final condemnation or other 
+disposition of such food product shall be subject to the provisions of 
+section 104(c).
+    (e) Agreements With Foreign Nations.--
+            (1) The Secretary may enter into an agreement with any 
+        nation desiring to export food products to the United States. 
+        Prior to concluding such an agreement, the Secretary shall 
+        evaluate the food safety program of the foreign nation to 
+        determine if such program provides at least the same level of 
+        protection, with respect to food products intended for export 
+        to the United States, as domestic laws that affect the safety 
+        of the food supply. In such evaluation, the Secretary shall 
+        consider--
+                    (A) the potential for health, sanitary, 
+                environmental, or other conditions within the foreign 
+                nation to adversely affect the safety of food products 
+                exported from such nation; and
+                    (B) how well the food safety programs of the 
+                foreign nation functions to minimize any adverse 
+                effects on such safety.
+            (2) Any agreement under this subsection with a nation 
+        desiring to export food products to the United States shall--
+                    (A) require that the exporting nation shall--
+                            (i) establish and maintain a food safety 
+                        system that is adequate to ensure that the food 
+                        products intended for export to the United 
+                        States are safe for human consumption, and not 
+                        adulterated or misbranded under the Federal 
+                        Food, Drug, and Cosmetic Act (21 U.S.C. 301 et 
+                        seq.); and
+                            (ii) promptly notify the Secretary of any 
+                        violations affecting the safety of food 
+                        products exported or intended for export to the 
+                        United States;
+                    (B) provide for such activities (whether in the 
+                exporting nation or at the port of entry during 
+                importation) by the Secretary, including examinations, 
+                inspections, sampling, and testing, at such stages in 
+                the growth or harvest of food, or in the processing or 
+                handling of food products, as the Secretary considers 
+                appropriate to ensure that the food safety program of 
+                the exporting nation continues to provide at least the 
+                same level of protection, with respect to food products 
+                intended for export to the United States, as domestic 
+                laws that affect the safety of the food supply; and
+                    (C) provide for reciprocity with respect to the 
+                treatment of food imports and exports between the 
+                United States and the exporting nation.
+            (3) If the Secretary determines that a nation desiring to 
+        export food products to the United States has a program that 
+        provides at least the saline level of protection, with respect 
+        to food products intended for export to the United States, as 
+        domestic laws that affect the safety of the food supply, the 
+        Secretary shall, upon entry into force of an agreement under 
+        subsection (e)(1), certify the types of food products for which 
+        the nation maintains such a program.
+            (4)(A) The Secretary shall periodically or for good cause, 
+        and not less than once every 3 years, review certifications 
+        made under paragraph (3), and shall revoke the certification of 
+any nation that the Secretary determines is not maintaining a food 
+safety program that provides at least the same level of protection, 
+with respect to food products intended for export to the United States, 
+as domestic laws that affect the safety of the food supply.
+            (B) The Secretary shall review and modify, as needed, an 
+        agreement made under paragraph (1) with any nation whose 
+        certification has been revoked under subparagraph (A) of this 
+        paragraph.
+
+                    TITLE II--RESEARCH AND EDUCATION
+
+SEC. 201. PUBLIC HEALTH ASSESSMENT SYSTEM.
+
+    (a) Cooperation With the Centers for Disease Control and 
+Prevention.--The Secretary shall work, through the Centers for Disease 
+Control and Prevention, to include food in an active surveillance 
+system, based on a representative proportion of the population of the 
+United States, and to assess more accurately the frequency and sources 
+of human illness in the United States associated with the consumption 
+of food.
+    (b) Public Health Sampling.--
+            (1) Within 12 months after the date of enactment of this 
+        Act, the Secretary in cooperation with the Secretary of 
+        Agriculture shall establish guidelines for a sampling system 
+        under which the Secretary and the Secretary of Agriculture 
+        shall take and analyze samples of food products to assist the 
+        Secretary in carrying out this Act and the Federal Food, Drug, 
+        and Cosmetic Act (21 U.S.C. 301 et seq.), and to more 
+        accurately assess the nature, frequency of occurrence, and 
+        amounts of contaminants in food products.
+            (2) Such sampling system shall provide--
+                    (A) statistically valid monitoring, including 
+                market-basket studies, on the nature, frequency of 
+                occurrence, and amounts of contaminants in food 
+                products available to consumers; and
+                    (B) at the request of the Secretary, such other 
+                information, including analysis of monitoring and 
+                verification samples, as the Secretary determines may 
+                be useful in assessing the occurrence of contaminants 
+                in food products.
+    (c) Assessment of Health Hazards.--Through the surveillance system 
+referred to in subsection (a) and the sampling system described in 
+subsection (b), the Secretary shall rank food categories based on their 
+hazard to human health and identify appropriate industry and regulatory 
+approaches to minimize hazards in the food supply. Such analysis could 
+include--
+            (1) the safety of commercial harvesting and processing, as 
+        compared with the health hazards associated with food products 
+        that are harvested for recreational or subsistence purposes and 
+        prepared noncommercially;
+            (2) the safety of food products that are domestically 
+        harvested and processed, as compared with the health hazards 
+        associated with food products that are harvested or processed 
+        outside the United States; and
+            (3) contamination originating from handling practices that 
+        occur prior to or after sale of food products to consumers.
+
+SEC. 202. PUBLIC EDUCATION AND ADVISORY SYSTEM.
+
+    (a) Public Education.--The Secretary, in cooperation with private 
+and public organizations, including the cooperative extension services 
+and appropriate State entities, shall design and implement a national 
+public education program on food safety. The program shall provide--
+            (1) information to the public regarding Federal standards 
+        and good practice requirements and promotion of public 
+        awareness understanding. and acceptance of such standards and 
+        requirements;
+            (2) information to health professionals so that they may 
+        improve diagnosis and treatment of food-related illness and 
+        advise individuals whose health conditions place them in 
+        particular risk; and
+            (3) such other information or advice to consumers and other 
+        persons as the Secretary determines will promote the purposes 
+        of this Act.
+    (b) Health Advisories.--The Secretary, in consultation with the 
+Secretary of Agriculture and the Administrator of the Environmental 
+Protection Agency, shall work with the States and other appropriate 
+entities to--
+            (1) develop and distribute regional and national advisories 
+        concerning food safety;
+            (2) develop standardized formats for written and broadcast 
+        advisories; and
+            (3) incorporate State and local advisories into the 
+        national public education program required under subsection 
+        (a).
+
+SEC. 203. RESEARCH.
+
+    (a) In General.--The Secretary shall conduct research to assist in 
+the implementation of this Act, including studies to--
+            (1) improve sanitation and food safety practices in the 
+        processing of food products;
+            (2) develop improved techniques for the monitoring of food 
+        and inspection of food products;
+            (3) develop efficient, rapid, and sensitive methods for 
+        determining and detecting the presence of contaminants in food 
+        products;
+            (4) determine the sources of contamination of food and food 
+        products with contaminants; and
+            (5) develop consumption data with respect to food products.
+    (b) Contract Authority.--The Secretary is authorized to enter into 
+contracts and agreements with any State, university, other government 
+agencies or other persons to carry out the activities under this 
+section.
+
+                         TITLE III--ENFORCEMENT
+
+SEC. 301. AMENDMENTS TO THE FEDERAL FOOD, DRUG, AND COSMETIC ACT.
+
+    (a) In General.--The Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 301 et seq.) is amended by adding after section 413 the 
+following new sections:
+
+``SEC. 414. NOTIFICATION AND RECALL.
+
+    ``(a) Notice to Secretary of Adulteration or Misbranding.--Any 
+person (other than a household consumer or other individual who is the 
+intended consumer of an article of food) that has a reasonable basis 
+for believing that any article of food introduced into or in interstate 
+commerce, or held for sale (whether or not the first sale) after 
+shipment in interstate commerce, may be adulterated or misbranded or 
+otherwise in violation of the Consumer Food Safety Act of 1998 shall 
+immediately notify the Secretary, in such manner and by such means as 
+the Secretary may by regulation prescribe, of the identity and location 
+of such article.
+    ``(b) Recall and Consumer Notification.--
+            ``(1) Voluntary procedures.--If the Secretary finds, upon 
+        notification under subsection (a) or otherwise, that any 
+        article of food is adulterated or misbranded when introduced 
+        into or while in interstate commerce or while held for sale 
+        (whether or not the first sale) after shipment in interstate 
+        commerce and there is a reasonable probability that such 
+        article, if consumed, would present a threat to public health, 
+        as determined by the Secretary, the Secretary shall provide the 
+        appropriate persons (including the manufacturers, importers, 
+        distributors, or retailers) with an opportunity to--
+                    ``(A) cease distribution of such article;
+                    ``(B) notify all persons--
+                            ``(i) producing, manufacturing, packing, 
+                        processing, preparing, treating, packaging, 
+                        distributing, or holding such article; or
+                            ``(ii) to which such article has been 
+                        distributed, transported, or sold, to 
+                        immediately cease distribution of such article;
+                    ``(C) recall such article;
+                    ``(D) provide, in consultation with the Secretary, 
+                notice to consumers to whom such article was, or may 
+                have been, distributed; or
+                    ``(E) take any combination of the above measures, 
+                as appropriate in the circumstances.
+            ``(2) Pre-hearing order to cease distribution and give 
+        notice.--If such person refuses to or does not voluntarily 
+        cease distribution, make notification, recall such article, or 
+        provide notice to consumers, as applicable, within the time and 
+        in the manner prescribed by the Secretary, the Secretary shall, 
+        by order, require, as the Secretary deems necessary, such 
+        person to--
+                    ``(A) immediately cease distribution of such 
+                article;
+                    ``(B) immediately notify all persons--
+                            ``(i) producing, manufacturing, packing, 
+                        processing, preparing, treating, packaging, 
+                        distributing, or holding such article; or
+                            ``(ii) to which such article has been 
+                        distributed, transported, or sold, to 
+                        immediately cease distribution of such article; 
+                        or
+                    ``(C) immediately take the actions specified in 
+                both subparagraphs (A) and (B).
+            ``(3) Notification of consumers by secretary.--The 
+        Secretary shall, as the Secretary deems necessary, provide 
+        notice to consumers to whom such article was, or may have been, 
+        distributed.
+    ``(c) Hearing on Order.--The Secretary shall provide any person 
+subject to an order under subsection (b) with an opportunity for a 
+hearing, to be held as soon as possible but not later than 2 days after 
+the issuance of the order, on the actions required by the order and on 
+why the article that is the subject of the order should not be 
+recalled.
+    ``(d) Post-Hearing Recall Order.--
+            ``(1) Amendment of order.--If, after providing opportunity 
+        for a hearing under subsection (c), the Secretary determines 
+        that there is a reasonable probability that the article that is 
+        the subject of an order under subsection (b), if consumed, 
+        presents a threat to public health, the Secretary, as the 
+        Secretary deems necessary, may--
+                    ``(A) amend the order to require recall of such 
+                article or other appropriate action;
+                    ``(B) specify a timetable in which the recall shall 
+                occur;
+                    ``(C) require periodic reports to the Secretary 
+                describing the progress of the recall; and
+                    ``(D) provide notice to consumers to whom such 
+                article was, or may have been, distributed.
+            ``(2) Vacation of order.--If, after such a hearing, the 
+        Secretary determines that adequate grounds do not exist to 
+        continue the actions required by the order, the Secretary shall 
+        vacate the order.
+    ``(e) Remedies Not Exclusive.--The remedies provided in this 
+section shall be in addition to and not exclusive of other remedies 
+that may be available.
+
+``SEC. 415. CIVIL PENALTIES.
+
+    ``(a) In General.--
+            ``(1) Acts subject to penalty; penalty amount.--Any person 
+        that commits an act that violates this Act with respect to food 
+        or the Consumer Food Safety Act of 1998 may be assessed a civil 
+        penalty by the Secretary of not more than $100,000 for each 
+        such act. Each such act and each day during which such act 
+        continues shall be a separate offense.
+            ``(2) Notice and hearing.--No penalty shall be assessed by 
+        the Secretary under this section unless such person is given 
+        notice and opportunity for a hearing on the record before the 
+        Secretary in accordance with sections 554 and 556 of title 5, 
+        United States Code.
+            ``(3) Other requirements.--The amount of such civil penalty 
+        shall be assessed by the Secretary by written order, taking 
+        into account the gravity of the violation, degree of 
+        culpability, size and type of business, and any history of 
+        prior offenses; and may be reviewed only as provided in 
+        subsection (b).
+    ``(b) Judicial Review.--An order assessing a civil penalty under 
+subsection (a) shall be final and conclusive unless the person files, 
+within 30 days from the effective date of the order, an application for 
+judicial review in the Court of Appeals of the United States for the 
+circuit in which such person resides or has its principal place of 
+business or in the United States Court of Appeals for the District of 
+Columbia Circuit by filing a notice of appeal in such court and by 
+simultaneously sending a copy of such notice by certified mail to the 
+Secretary. The Secretary shall promptly file in such court a certified 
+copy of the record upon which such penalty was assessed. The findings 
+of the Secretary shall be set aside only if found to be unsupported by 
+substantial evidence on the record as a whole.
+    ``(c) Collection Actions.--If any person fails to pay an assessment 
+of a civil penalty after it has become a final and unappealable order, 
+or after the appropriate court of appeals has entered final judgment in 
+favor of the Secretary, the Secretary shall refer the matter to the 
+Attorney General, who shall institute a civil action to recover the 
+amount assessed in an appropriate district court of the United States. 
+In such collection action, the validity and appropriateness of the 
+Secretary's order imposing the civil penalty shall not be subject to 
+review.
+    ``(d) Penalties Paid Into Treasury.--All penalties collected under 
+authority of this section shall be paid into the Treasury of the United 
+States.
+    ``(e) Secretary's Discretion To Prosecute.--Nothing in this Act 
+shall be construed as requiring the Secretary to report for 
+prosecution, or for the institution of libel or injunction proceedings, 
+violations of this Act whenever the Secretary believes that the public 
+interest will be adequately served by assessment of civil penalties.
+    ``(f) Remedies Not Exclusive.--The remedies provided in this 
+section shall be in addition to and not exclusive of other remedies 
+that may be available.
+
+``SEC. 416. WHISTLEBLOWER PROTECTION.
+
+    ``(a) In General.--No employee or other person may be harassed, 
+prosecuted, held liable, or discriminated against in any way because 
+that person--
+            ``(1) has commenced, caused to be commenced, or is about to 
+        commence a proceeding, testified or is about to testify at a 
+        proceeding, or assisted or participated or is about to assist 
+        or participate in any manner in such a proceeding or in any 
+        other action to carry out the purposes, functions, or 
+        responsibilities of the Consumer Food Safety Act of 1998, the 
+        Federal Food, Drug, and Cosmetic Act, the Meat Inspection Act, 
+        or the Poultry Products Inspection Act; or
+            ``(2) is refusing to violate or assist in violation of law, 
+        rule, or regulation.
+    ``(b) Procedures.--The process and procedures with respect to 
+prohibited discrimination under subsection (a) shall be governed by the 
+applicable provisions of section 31105 of title 49, United States Code, 
+unless the party bringing an action under this subsection chooses 
+alternative dispute resolution procedures such as mediation or 
+arbitration.
+    ``(c) Burdens of Proof.--The legal burdens of proof with respect to 
+prohibited discrimination under subsection (a) shall be governed by the 
+applicable provisions of sections 1214 and 1221 of title 5, United 
+States Code.
+
+``SEC. 417. ADMINISTRATION AND ENFORCEMENT; APPLICABILITY OF PENALTY 
+              PROVISIONS; CONDUCT OF INQUIRIES; POWER AND JURISDICTION 
+              OF COURTS.
+
+    ``For the efficient administration and enforcement of this chapter, 
+the provision (including penalties) of sections 46, 48, 49, and 50 of 
+title 15 (except subsections (c) through (h) of section 46 and section 
+49 of title 15), are made applicable to the jurisdiction, powers, and 
+duties of the Secretary in administrating and enforcing the provisions 
+of this chapter and to any person with respect to whom such authority 
+is exercised. The Secretary, in person or by such agents as he may 
+designate, may prosecute any inquiry necessary to his duties under this 
+chapter in any part of the United States, and the powers conferred by 
+said sections 49 and 50 of title 15 on the district courts of the 
+United States may be exercised for the purposes of this chapter by any 
+appropriate court.
+
+``SEC. 418. TRACEBACK.
+
+    ``The Secretary may impose on a food product requirements for the 
+traceability of such type or class of food product whenever such 
+requirements are necessary to assure the protection of the public 
+health. Traceability requirements shall be established in accordance 
+with regulations and guidelines issued by the Secretary.
+
+``SEC. 419. CITIZEN'S CIVIL ACTIONS.
+
+    ``Any person may commence a civil action against--
+            ``(1) any person who violated any rule, tolerance, order, 
+        or other action of the Secretary to ensure the safety of food 
+        products; or
+            ``(2) the Secretary where there is alleged a failure of the 
+        Secretary to perform any act or duty to ensure the safety of 
+        food products, which is not discretionary.
+The district courts shall have jurisdiction, without regard for the 
+amount in controversy, or the citizenship of the parties, to enforce 
+such rule, tolerance, order, or other action of the Secretary, or to 
+order the Secretary to perform such act or duty. The suit shall be 
+commenced in the district in which the defendant resides or is found or 
+has an agent. The court may award damages sustained and if the court 
+determines it to be in the interest of justice, may award the plaintiff 
+the costs of suit, including reasonable attorney's fees, reasonable 
+expert witness fees, and penalties. The remedies provided for in this 
+section shall be in addition to and not in lieu of any other remedies 
+provided by common law or under Federal or State law.''.
+    (b) Conforming Amendment; Prohibited Act.--Section 301 of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amended by 
+adding at the end the following new subsections:
+    ``(x) The failure or refusal to comply with an order issued under 
+section 414(b)(2) or 414(d).
+    ``(y) The failure to comply with the Consumer Food Safety Act of 
+1998.''.
+
+                        TITLE IV--AUTHORIZATION
+
+SEC. 401. AUTHORIZATION OF APPROPRIATIONS.
+
+    (a) In General.--There are authorized to be appropriated, to carry 
+out this Act, such sums as may be necessary for fiscal year 1999 and 
+for fiscal year 2000.
+    (b) Assistance to States.--Of the funds authorized to be 
+appropriated under subsection (a), there are authorized to be 
+appropriated such sums as may be necessary for fiscal year 1999 and for 
+fiscal year 2000, for carrying out State program assistance activities 
+under section 106.
+    (c) Research Program Authorization.--Of the funds authorized to be 
+appropriated under subsection (a), there are authorized to be 
+appropriated such sums as may be necessary for fiscal year 1999 and for 
+fiscal year 2000, for carrying out the research program authorized by 
+section 203.
+                                 <all>

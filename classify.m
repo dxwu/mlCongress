@@ -42,5 +42,7 @@ for d = 1:m                 % for each document
     disp(sum(probDist(d,:)));
 end
 
+dlmwrite('./topic_dist_test.txt', probDist);
+
 output_args = 1;
 

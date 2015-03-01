@@ -1,0 +1,448 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2019 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 2019
+
+   To amend the Consumer Credit Protection Act to assure meaningful 
+   disclosures of the terms of rental-purchase agreements, including 
+disclosures of all costs to consumers under such agreements, to provide 
+certain substantive rights to consumers under such agreements, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 24, 1997
+
+  Mr. Jones (for himself, Mr. Ackerman, Mr. Manton, and Mr. McCollum) 
+ introduced the following bill; which was referred to the Committee on 
+                     Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Consumer Credit Protection Act to assure meaningful 
+   disclosures of the terms of rental-purchase agreements, including 
+disclosures of all costs to consumers under such agreements, to provide 
+certain substantive rights to consumers under such agreements, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Consumer Disclosure and Rental 
+Purchase Agreement Act''.
+
+SEC. 2. FINDINGS AND PURPOSE.
+
+    (a) Findings.--The Congress finds that a significant number of 
+consumers engage in rental-purchase transactions. These transactions 
+have taken place, in many instances, without adequate disclosures and 
+other protections to consumers.
+    (b) Purpose.--The purpose of the amendment to the Consumer Credit 
+Protection Act is--
+            (1) to assure meaningful disclosure of the terms of rental-
+        purchase agreements, including disclosures of all costs to 
+        consumers under such agreements, and
+            (2) to provide certain substantive rights to consumers who 
+        enter into rental-purchase agreements.
+
+SEC. 3. CONSUMER CREDIT PROTECTION ACT.
+
+    The Consumer Credit Protection Act is amended by adding at the end 
+the following:
+
+                 ``TITLE X--RENTAL PURCHASE AGREEMENTS
+
+``SEC. 1001. DEFINITIONS.
+
+    ``For purposes of this title:
+            ``(1) The term `advertisement' means a commercial message 
+        in any medium that promotes, directly or indirectly, a rental-
+        purchase agreement.
+            ``(2) The term `agricultural purpose' includes--
+                    ``(A) the production, harvest, exhibition, 
+                marketing, transformation, processing, or manufacture 
+                of agricultural products by a natural person who 
+                cultivates plants or propagates or nurtures 
+                agricultural products; and
+                    ``(B) the acquisition of farmlands, real property 
+                with a farm residence, or personal property and 
+                services used primarily in farming.
+            ``(3) The term `Board' means the Board of Governors of the 
+        Federal Reserve System.
+            ``(4) The term `consumer' means a natural person who is 
+        offered or enters into a rental-purchase agreement.
+            ``(5) The term `date of consummation' means the date on 
+        which a consumer becomes contractually obligated under a 
+        rental-purchase agreement.
+            ``(6) The term `merchant' means a person who provides the 
+        use of property through a rental-purchase agreement in the 
+        ordinary course of business and to whom a consumer's initial 
+        obligation under the agreement is payable.
+            ``(7) The term `personal property' means property that is 
+        not real property under the laws of the State where the 
+        property is located when it is made available under a rental-
+        purchase agreement unless otherwise stated.
+            ``(8) The term `rental-purchase agreement' means--
+                    ``(A) a contract between a consumer and a 
+                merchant--
+                            ``(i) under which the merchant agrees to 
+                        provide the consumer the use of the personal 
+                        property for an initial period of 4 months or 
+                        less,
+                            ``(ii) that is automatically renewable with 
+                        each payment by the consumer, and
+                            ``(iii) that permits but does not obligate 
+                        the consumer to become the owner of the 
+                        property, and
+                    ``(B) does not include any credit sale as defined 
+                in section 103(g).
+            ``(9) The term `State' means any State, the District of 
+        Columbia, the Commonwealth of Puerto Rico, and any territory or 
+        possession of the United States.
+
+``SEC. 1002. EXEMPTED TRANSACTIONS.
+
+    ``This title does not apply to rental-purchase agreements primarily 
+for business, commercial, or agricultural purposes, or those made with 
+Government agencies or instrumentalities.
+
+``SEC. 1003. GENERAL DISCLOSURE REQUIREMENTS.
+
+    ``(a) In General.--The merchant under a rental-purchase agreement 
+shall disclose to the consumer under the agreement the information 
+required by sections 1004, 1005, and 1006. In an agreement involving 
+more than 1 merchant, only 1 merchant is required to make the 
+disclosures.
+    ``(b) Disclosure.--The disclosures required under sections 1004 and 
+1005 and the agreement provisions required to be included under 1006 
+shall be made or included--
+            ``(1) at or before the date of consummation of the rental-
+        purchase agreement;
+            ``(2) clearly and conspicuously in writing and in a form 
+        that the consumer may keep; and
+            ``(3) in a case of disclosures required under section 1004, 
+        segregated from all other terms, data, or information provided 
+        to the consumer.
+    ``(c) Inaccuracy.--If a disclosure required to be made by a 
+merchant to a consumer under section 1004 becomes inaccurate as the 
+result of any mutual written agreement between the merchant and such 
+consumer occurring after delivery of the required disclosure to such 
+consumer under this title, the resulting inaccuracy is not a violation 
+of this title.
+
+``SEC. 1004. RENTAL-PURCHASE DISCLOSURES.
+
+    ``For each rental-purchase agreement, the merchant shall disclose 
+to the consumer, to the extent applicable, under the agreement the 
+following:
+            ``(1) The amount of the first periodic payment and the 
+        total amount of fees, taxes, or other charges which may be 
+        required at or before the date of consummation of the 
+        agreement.
+            ``(2) The amount and timing of rental payments.
+            ``(3) The total number and the total dollar amount of 
+        rental payments and other charges necessary to acquire 
+        ownership of the property.
+            ``(4) A statement that the consumer will not own the 
+        property until the consumer has paid the total dollar amount 
+        necessary to acquire ownership.
+            ``(5) A disclosure that the total dollar amount payments 
+        does not include certain other charges.
+            ``(6) A statement that the consumer may be responsible for 
+        the fair market value of the property if it is lost, stolen, 
+        damaged, or destroyed.
+            ``(7) A statement indicating whether the property is new or 
+        used, except a statement indicating that new property is used 
+        property is not a violation of this title.
+            ``(8) A statement of--
+                    ``(A) the manufacturer's suggested retail price, 
+                where applicable, or
+                    ``(B) the price for which the property is available 
+                from the merchant in a cash sale.
+            ``(9) A clear statement of the terms of the consumer's 
+        option to purchase.
+            ``(10) A statement--
+                    ``(A) identifying the party responsible for 
+                maintaining or servicing the property while it is being 
+                rented;
+                    ``(B) describing the responsibility for maintenance 
+                or service; and
+                    ``(C) disclosing that if any part of a 
+                manufacturer's express warranty covers the property at 
+                the time the consumer acquires ownership of the 
+                property, the warranty will be transferred to the 
+                consumer if allowed by the terms of the warranty.
+            ``(11) The date of consummation of the transaction and the 
+        identities of the merchant and consumer.
+            ``(12) Late fees for past due rental charges.
+
+``SEC. 1005. POINT-OF-RENTAL DISCLOSURES.
+
+    ``Each item of property displayed or offered in connection with a 
+rental-purchase agreement shall have affixed to it a card, tag, or 
+label that clearly and conspicuously discloses only the following:
+            ``(1) Whether the property is new or used.
+            ``(2) The price of the property in a cash sale.
+            ``(3) The amount of each rental payment.
+            ``(4) The total number of rental payments necessary to 
+        acquire ownership of the property.
+            ``(5) The total dollar amount of rental payments necessary 
+        to acquire ownership of the property.
+
+``SEC. 1006. AGREEMENT PROVISIONS.
+
+    ``(a) In General.--Each rental-purchase agreement shall--
+            ``(1) provide a statement of any obligation of the consumer 
+        and the merchant under the agreement to repair any defect or 
+        malfunction of the property covered by the agreement, and any 
+        limitation of those obligations;
+            ``(2) provide that the consumer may terminate the agreement 
+        without penalty by voluntarily surrendering or returning the 
+        property covered by the agreement upon expiration of any rental 
+        term; and
+            ``(3) contain a provision for reinstatement of the 
+        agreement, which at a minimum--
+                    ``(A) permits a consumer who fails to make a timely 
+                rental renewal payment to reinstate the agreement, 
+                without losing any rights or options which exist under 
+                the agreement, by the payment of all past due rental 
+                charges and any late fee, within 7 business days after 
+                the renewal date if the consumer pays monthly, or 
+                within 3 business days after the renewal date if the 
+                consumer pays more frequently than monthly;
+                    ``(B) if the consumer returns or voluntarily 
+                surrenders the property covered by the agreement, other 
+                than through judicial process, during the applicable 
+                reinstatement period set forth in subparagraph (A), 
+                permits the consumer to reinstate the agreement during 
+                a period of at least 30 days after the date of the 
+                return or surrender of the property by the payment of 
+                all past due rental charges, and any applicable 
+                redelivery, repair, or late fees; and
+                    ``(C) if the consumer has paid 60 percent or more 
+                of the total dollar amount of payments necessary to 
+                acquire ownership of the property under the agreement 
+                and returns or voluntarily surrenders the property, 
+                other than through judicial process, during the 
+                applicable reinstatement period set forth in 
+                subparagraph (A), permits the consumer to reinstate the 
+                agreement during a period of at least 90 days after the 
+                date of the return of the property by the payment of 
+                all past due rental charges and any applicable 
+                redelivery, repair, or late fees.
+    ``(b) Construction.--Subsection (a) shall not be construed to 
+prevent a merchant from attempting to repossess property during the 
+reinstatement period pursuant to subsection (a)(3)(A), but such a 
+repossession does not affect the consumer's right to reinstate. Upon 
+reinstatement, the merchant shall provide the consumer with the same 
+property, if available; if it is not available the merchant shall 
+substitute property of comparable quality and condition.
+
+``SEC. 1007. PROHIBITED INCLUSION.
+
+    ``A rental-purchase agreement may not contain--
+            ``(1) a confession of judgment;
+            ``(2) a negotiable instrument;
+            ``(3) a security interest or any other claim of a property 
+        interest in any goods, except those goods the use of which is 
+        provided by the merchant pursuant to the agreement;
+            ``(4) a wage assignment; or
+            ``(5) a waiver by the consumer of a claim defense.
+
+``SEC. 1008. RECEIPTS AND ACCOUNTS.
+
+    ``A merchant shall provide the consumer a written receipt for each 
+payment made by cash, check, or money order, the date, the total number 
+of rental payments made, and the total number of payments necessary to 
+acquire ownership of the property.
+
+``SEC. 1009. RENEGOTIATIONS AND EXTENSIONS.
+
+    ``A renegotiation of a rental-purchase agreement is deemed to be a 
+new agreement for purposes of this title, requiring new disclosures 
+under section 1004. A renegotiation shall be considered to occur when 
+an existing rental purchase agreement is satisfied and replaced by a 
+new agreement undertaken by the same merchant. Events such as the 
+following shall not be treated as renegotiations:
+            ``(1) The addition or return of property in a multiple-item 
+        agreement or the substitution of property, if in either case 
+        the average payment allocable to a payment period is not 
+        changed by more than 25 percent.
+            ``(2) A deferral or extension of one or more periodic 
+        payments, or portions of a periodic payment.
+            ``(3) A reduction in charges in the agreement.
+            ``(4) An agreement involving a court proceeding.
+            ``(5) Any other event described in regulations prescribed 
+        by the Board.
+
+``SEC. 1010. RENTAL-PURCHASE ADVERTISING.
+
+    ``(a) Advertisements.--If an advertisement refers to or states the 
+amount of any payment or the right to acquire ownership, the merchant 
+that makes the advertisement shall also clearly and conspicuously state 
+in the advertisement the following items:
+            ``(1) The transaction advertised is to occur under a 
+        rental-purchase agreement.
+            ``(2) The total number and total dollar amount of rental 
+        payments necessary to acquire ownership under the agreement.
+            ``(3) The consumer acquires no ownership rights in the 
+        property if the total dollar amount of rental payments 
+        necessary to acquire ownership is not paid.
+    ``(b) Liability.--The owner or personnel of any medium in which an 
+advertisement appears or through which it is disseminated shall not be 
+liable for a violation of subsection (a).
+    ``(c) Construction.--Subsection (a) does not apply to an 
+advertisement which--
+            ``(1) is published in the yellow pages of a telephone 
+        directory or in any similar directory of businesses, or
+            ``(2) is displayed in the merchant's place of business.
+
+``SEC. 1011. CIVIL LIABILITY.
+
+    ``(a) Liability Amount.--Except as otherwise provided in this 
+title, a merchant who willfully violates this title with respect to a 
+consumer is liable to the consumer in an amount equal to the following:
+            ``(1) In an action by an individual consumer, the sum of--
+                    ``(A) actual damages sustained by the consumer as a 
+                result of the violation; and
+                    ``(B) Not less than $100.
+            ``(2) In a class action, the amount the court determines to 
+        be appropriate with no minimum recovery as to each member. The 
+        total recovery in any class action or series of class actions 
+        arising out of the same violation shall not be more than the 
+        lesser of $500,000 or 1 percent of the net worth of the 
+        merchant.
+    ``(b) Statute of Limitations.--
+            ``(1) Actions in united states constitution.--An action 
+        under this section may be brought in any United States district 
+        court of competent jurisdiction, but not later than one year of 
+        the date of the occurrence of the violation.
+            ``(2) Construction.--This subsection does not bar a 
+        consumer from asserting a violation of this title in an action 
+        to collect a debt brought more than one year after the date of 
+        the occurrence of the violation as a matter of defense by 
+        recoupment or set off, except as otherwise provided by State 
+        law.
+    ``(c) Offset.--
+            ``(1) Limitation.--A consumer may not take any action to 
+        offset any amount for which a merchant is potentially liable 
+        under subsection (a) against any amount owed by the consumer, 
+        unless the amount of the merchant's liability has been 
+        determined by judgment of a court of competent jurisdiction in 
+        an action in which the merchant was a party.
+            ``(2) Construction.--This subsection does not bar a 
+        consumer who is in default on the obligation from asserting a 
+        violation of this title as an original action, or as a defense 
+        of counterclaim to an action brought by the merchant to collect 
+        amounts owed by the consumer.
+
+``SEC. 1012. DEFENSES.
+
+    ``A merchant is not liable--
+            ``(1) under section 1011 for a violation of the 
+        requirements of section 1004 if within 15 days after first 
+        having knowledge of the violation, and before an action under 
+        section 1011 is filed or written notice of the violation is 
+        received from the consumer, the merchant notifies the consumer 
+        of the violation and makes whatever adjustments in the account 
+        are necessary to assure that the consumer will not be required 
+        to pay an amount in excess of the amounts actually disclosed;
+            ``(2) under this title for any act done or omitted good 
+        faith in conformity with any rule, regulation, interpretation, 
+        or approval promulgated by the Board or by an official duly 
+        authorized by the Board; or
+            ``(3) under this title for a violation if the merchant 
+        establishes, and at the time of the violation is implementing, 
+        procedures reasonably calculated to prevent the violation.
+Paragraph (2) applies even if, after the act or omission has occurred, 
+the rule, regulation, interpretation, or approval is amended, 
+rescinded, or determined by judicial or other authority to be invalid 
+for any reason.
+
+``SEC. 1013. LIABILITY OF ASSIGNEES.
+
+    ``(a) Assignees.--For purposes of sections 1011 and 1012 and this 
+section, the term ``merchant'' includes an assignee of a merchant. 
+However, an action under section 1011 for a violation of this title may 
+be brought against an assignee only if the violation is apparent on the 
+face of the rental-purchase agreement to which it relates. A violation 
+apparent in the face of a rental purchase agreement includes a 
+disclosure that can be determined to be incomplete or inaccurate from 
+the face of the agreement. An assignee has no liability in a case in 
+which the assignment is involuntary.
+    ``(b) Consumer Acknowledgment.--In an action by or against an 
+assignee, the consumer's written acknowledgment of receipt of a 
+disclosure shall be conclusive proof that the disclosure was made, if 
+the assignee had no knowledge that the disclosure had not been made 
+when the assignee acquired the rental-purchase agreement to which it 
+relates.
+
+``SEC. 1014. REGULATIONS AND ENFORCEMENT.
+
+    ``(a) In General.--The Board shall issue regulations to carry out 
+the purposes of this title, to prevent its circumvention, and to 
+facilitate compliance with its requirements. The regulations may 
+contain classification and differentiations and may provide for 
+adjustments and exceptions for any class of transaction.
+    ``(b) Models.--The Board shall publish model disclosure forms and 
+clauses to facilitate compliance with the disclosure requirements of 
+this title and to aid consumers in understanding transactions under 
+rental-purchase agreements. In designing forms, the Board shall 
+consider the use by merchants of data processing or similar automated 
+equipment. Use of the models shall be optional. A merchant who properly 
+uses the model disclosure forms shall be deemed to be in compliance 
+with the disclosure requirements.
+    ``(c) Effective Date of Regulations.--Any regulation issued by the 
+Board, or any amendment or interpretation thereof, shall not be 
+effective before the October 1 that follows the date of promulgation by 
+at least 6 months. The Board may at its discretion lengthen that period 
+of time to permit merchants to adjust their forms to accommodate new 
+requirements. The Board may also shorten that period of time, 
+notwithstanding the first sentence, if it makes a specific finding that 
+such action is necessary to comply with the findings of a court or to 
+prevent unfair or deceptive practices. In any case, merchants may 
+comply with any newly promulgated disclosure requirement prior to its 
+effective date.
+    ``(d) Enforcement.--The Board shall enforce the requirements of 
+this title. The authority of section 108 shall apply with respect to 
+the Board's enforcement of such requirements.
+
+``SEC. 1015. RELATION TO STATE LAWS.
+
+    ``This title does not annul, alter, affect, or exempt any person 
+subject to this title from complying with the laws of any State with 
+respect to a matter covered by this title, except to the extent that 
+those laws--
+            ``(1) are inconsistent with this title;
+            ``(2) provide a lesser degree of protection for consumers; 
+        or
+            ``(3) attempt to regulate rental-purchase transactions as a 
+        credit, retail, conditional, or installment sale.
+
+``SEC. 1016. EFFECT ON GOVERNMENT AGENCIES.
+
+    ``No civil liability or criminal penalty under this title may be 
+imposed on the United States or any of its departments or agencies, any 
+State or political subdivision, or any agency of a State or political 
+subdivision.''.
+                                 <all>

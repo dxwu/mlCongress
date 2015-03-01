@@ -1,0 +1,201 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3548 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 3548
+
+  To establish a Fund for Environmental Priorities to be funded by a 
+   portion of the consumer savings resulting from retail electricity 
+                    choice, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 25, 1998
+
+ Mr. Andrews introduced the following bill; which was referred to the 
+      Committee on Commerce, and in addition to the Committee on 
+  Transportation and Infrastructure, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To establish a Fund for Environmental Priorities to be funded by a 
+   portion of the consumer savings resulting from retail electricity 
+                    choice, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Environmental Priorities Act of 
+1998''.
+
+SEC. 2. RECAPTURE OF SAVINGS FROM RETAIL ELECTRICITY COMPETITION.
+
+    (a) Effective Date.--This Act shall take effect for a consumer 
+sector in any State on January 1 of the first year after all State 
+regulated electric utilities and all nonregulated electric utilities in 
+that State have been determined by the Secretary of Energy to have 
+established retail electric service choice for customers in that 
+sector, but not earlier than January 1, 2001. The Secretary shall 
+annually review the laws and regulations of each State relating to 
+retail electric service regulation and make such determinations on 
+January 1, 2001, and January 1 of each year thereafter.
+    (b) 10 Percent of Consumer Savings.--For each State, on December 31 
+of the first full calendar year following the effective date of this 
+Act for any consumer sector in the State, and on December 31 of each 
+subsequent calendar year, each provider of retail electric services in 
+the State shall contribute to the fiscal agent for the Environmental 
+Priorities Board established under section 2 an amount equal to 10 
+percent of the total consumer savings for that sector for that calendar 
+year.
+    (c) Definitions.--For purposes of this section:
+            (1) Consumer savings.--For any provider of retail electric 
+        services in a State, for any consumer sector in the State, the 
+        term ``consumer savings'' means, for any calendar year, the 
+        amount (if any) by which the potential rate for electric energy 
+        provided by that provider to that sector exceeds the current 
+        rate for that sector, multiplied by that sector's total 
+        consumption (in kilowatt-hours) during that calendar year.
+            (2) Current rate.--For any provider of retail electric 
+        services in a State, for any consumer sector in the State, the 
+        term ``current rate'' means, for the 12 months following the 
+        effective date of this Act for that sector in that State, the 
+        average kilowatt-hour rate paid by customers of the provider in 
+        that consumer sector in that State, as calculated by the 
+        provider and recalculated annually.
+            (3) Potential rate.--
+                    (A) General rule.--For any provider of retail 
+                electric services in a State, for any consumer sector 
+                in the State, the term ``potential rate'' means, for 
+                each calendar year following the effective date of this 
+                Act for that sector in that State, the average 
+                kilowatt-hour rate paid by the provider's customers in 
+                that sector during the 12-month period preceding the 
+                date on which retail electric service choice for 
+                customers in that sector was established, adjusted for 
+                inflation. The adjustment for inflation shall be made 
+                using a methodology to be determined by the Secretary 
+                of Energy. The Secretary of Energy shall recalculate 
+                the potential rate annually to adjust it for inflation.
+                    (B) Special rules.--For all sectors not serviced by 
+                the provider during any period, the average kilowatt-
+                hour rate for that sector shall be estimated or 
+                measured by the Secretary of Energy. In any case where 
+                retail choice in a State or sector did not all occur on 
+                one effective date but was phased-in over time, the 
+                Secretary of Energy shall establish regulations to 
+                fairly establish the potential rate. In any cases 
+                where, for the 12-month period preceding the date on 
+                which retail electric service choice for customers in 
+                that sector was established, a provider served a sector 
+                in the State but did not serve it for the full period, 
+                the Secretary of Energy shall establish regulations to 
+                fairly establish the potential rate.
+
+SEC. 3. USE OF CONTRIBUTIONS FOR ENVIRONMENTAL PRIORITIES.
+
+    (a) National Environmental Priorities Board.--The Administrator of 
+the Environmental Protection Agency (hereinafter in this section 
+referred to as the ``Administrator'') shall establish a National 
+Environmental Priorities Board to carry out the functions and 
+responsibilities specified in this section. The Board shall be composed 
+of 3 persons who are officers or employees of the United States, and 4 
+State commissioners nominated by the national organization of the State 
+commissions and appointed by the Administrator. The Administrator shall 
+appoint one member of the Board to serve as Chairman.
+    (b) Rules.--Within 180 days after the enactment of this Act, the 
+Administrator shall promulgate a final rule containing the rules and 
+procedures of the Board, including the rules and procedures for 
+selecting a non-Federal fiscal agent under subsection (e). The 
+Administrator shall have oversight responsibilities over the Board.
+    (c) Environmental Priorities Program.--(1) Within 90 days after the 
+promulgation of the Administrator's rules under subsection (b), the 
+Board shall institute a proceeding to establish regulations governing 
+creation and administration of a Environmental Priorities Program. Such 
+regulations shall include criteria and methods of selecting State 
+projects to receive support under the Program. Such support may include 
+direct loans, loan guarantees, grants, capitalization grants for State 
+revolving funds, and other assistance. The State projects may include--
+            (A) lowering borrowing costs for municipal and regional 
+        governments constructing wastewater treatment plants;
+            (B) increasing the use of filter strips and riparian 
+        buffers in protecting rivers and streams;
+            (C) mitigating the deleterious effect of electricity 
+        production on air quality;
+            (D) supporting the preservation of open space for resource 
+        conservation, wildlife protection, or recreation; and
+            (E) such other projects furthering national environmental 
+        priorities as may be established by the Board.
+    (2) The Board shall enter into arrangements with a non-Federal 
+fiscal agent who shall be authorized to receive the contributions made 
+under section 2(b) and to disburse such contributions as provided in 
+subsection (d).
+    (3) Any State in which retail electric service choice has been 
+established for any consumer sector may establish one or more public 
+purpose programs and apply for matching funding under this section for 
+projects to be funded under such program. A participating State may use 
+matching funds received under this section only to support one or more 
+eligible environmental priorities programs meeting the selection 
+criteria established under paragraph (1). The Board shall regularly 
+audit the expenditures of matching funds received by a participating 
+State under this section.
+    (4) At no time shall a State be required, pursuant to this section, 
+to participate in the Environmental Priorities Program, nor may a State 
+be required by the Board to fund a particular project.
+    (d) Fund for Environmental Priorities.--(1) The fiscal agent shall 
+distribute contributions received by the fiscal agent under section 
+2(b) to States (or entities designated by the States) under this 
+subsection in accordance with the criteria established by the Board 
+under subsection (c) to carry out eligible projects under environmental 
+priorities programs established by the States. For each calendar year 
+after the year 2001, the Board shall solicit applications from States 
+for matching funds to carry out eligible environmental priorities 
+programs. The applications for assistance during any calendar year must 
+be received by the Board before the commencement of such year. In its 
+application, the State shall certify that the moneys will be used for 
+one or more eligible public purpose programs and shall specify the 
+amount of State support which is projected for the coming calendar year 
+for the programs concerned.
+    (2) Upon receipt of all State requests for matching funds submitted 
+pursuant to paragraph (1) for any calendar year, the Board shall 
+calculate the funds necessary to match the level of projected States 
+funds for eligible environmental priorities programs for that calendar 
+year.
+    (3) Following the calculation of the amount of matching funds 
+required under paragraph (2) for all States requesting funds for any 
+calendar year, the Board shall communicate that amount to the fiscal 
+agent. Expenditures by the fiscal agent for any calendar year may not 
+exceed the total balance. To the extent the matching funds requested by 
+all such States for a calendar year exceed the total amount received by 
+the fiscal agent during the prior calendar year and available to the 
+fiscal agent at the commencement of the calendar year concerned, the 
+matching funds distributed to each such State shall be reduced pro rata 
+so that the percentage of State funds matched by funds provided under 
+this section is the same for all States requesting funds.
+    (4) The fiscal agent shall distribute matching funds to the States 
+(or to an entity or entities designated by the State to receive 
+payments) to be used for eligible environmental priorities programs 
+designated under subsection (c). All funds received shall be used only 
+for the eligible environmental priorities programs designated by the 
+State.
+                                 <all>

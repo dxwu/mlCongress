@@ -1,0 +1,192 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3143 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 3143
+
+  To prohibit foreign insurance companies from doing business in the 
+United States unless they disclose any financial dealings they had with 
+   individuals who survived or died in the Holocaust, to prohibit an 
+insured depository institution from transacting any business with or on 
+ behalf of any such foreign insurance company, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            February 3, 1998
+
+Mr. Foley (for himself, Mr. Yates, Mr. Wexler, Mr. Sherman, Mrs. Kelly, 
+Mr. Filner, Mr. Lazio of New York, Mr. Frost, Ms. Furse, and Mr. Horn) 
+ introduced the following bill; which was referred to the Committee on 
+  Commerce, and in addition to the Committee on Banking and Financial 
+Services, for a period to be subsequently determined by the Speaker, in 
+   each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To prohibit foreign insurance companies from doing business in the 
+United States unless they disclose any financial dealings they had with 
+   individuals who survived or died in the Holocaust, to prohibit an 
+insured depository institution from transacting any business with or on 
+ behalf of any such foreign insurance company, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Comprehensive Holocaust 
+Accountability in Insurance Measure''.
+
+    TITLE I--PROVISIONS APPLICABLE WITH RESPECT TO CERTAIN FOREIGN 
+                          INSURANCE COMPANIES
+
+SEC. 101. PROHIBITION.
+
+    (a) In General.--Any foreign insurance company listed in subsection 
+(b) may not conduct any form of business in the United States, 
+including participating, directly or indirectly, in any aspect of the 
+payment system within the jurisdiction of the United States (including 
+any clearing or electronic fund transfer system) or conducting any 
+business with a United States bank, unless the company discloses to the 
+Attorney General, in accordance with subsection (c), the name of any 
+individual with which the company had any financial dealing and which 
+is on the list of Jewish Holocaust Survivors maintained by the United 
+States Holocaust Memorial Museum in Washington, D.C., or the list of 
+individuals who died in the Holocaust maintained by the Yad Veshem of 
+Jerusalem in its Hall of Names.
+    (b) Insurance Companies.--The foreign insurance companies referred 
+to in subsection (a) are as follows:
+            (1) Assicurazioni Generali S.p.A.
+            (2) Union Des Assurances de Paris.
+            (3) Victoria Lebenversicherungs AG.
+            (4) Winterthur Lebensversicherungs Gesellschaft.
+            (5) Allianz Lebensversicherungs AG.
+            (6) Wiener Allianz Versicherungs AG.
+            (7) Riunione Adriatica di Sicurta.
+            (8) Vereinte Lebensversicherungs AG.
+            (9) Basler Lebens-Versicherungs Gesellschaft.
+            (10) Deutscher Ring Lebensversicherungs AG.
+            (11) Nordstern Lebensversicherungs AG.
+            (12) Gerling Konzern Lebensversicherungs AG.
+            (13) Manheimer Lebensversicherung AG.
+            (14) Der Anker.
+            (15) Allgemeine Versicherungs AG.
+            (16) Zuerich Lebensversicherungs Gesellschaft.
+            (17) Any other foreign insurance company which was in a 
+        position to have financial dealings with any individual who was 
+        subject to the Holocaust.
+    (c) Attorney General.--The Attorney General shall designate an 
+office in the Department of Justice to which disclosures shall be made 
+in accordance with subsection (a). Such office shall take such action 
+as may be appropriate to make the disclosures available to the public.
+
+ TITLE II--PROVISIONS APPLICABLE TO UNITED STATES BANKING INSTITUTIONS
+
+SEC. 201. LIMITATION ON INSURED DEPOSITORY INSTITUTIONS.
+
+    (a) In General.--Section 18 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1828) is amended by adding at the end the following new 
+subsection:
+    ``(t) Prohibition on Transactions With Certain Insurance Companies 
+or Their Affiliates.--
+            ``(1) In general.--No insured depository institution may 
+        accept any deposit from, maintain any deposit on behalf of, 
+        offer or provide payment services to or on behalf of, 
+        participate directly or indirectly in any aspect of the payment 
+        system (including any clearing or electronic fund transfer 
+        system) for or on behalf of, hold any credit balance for, make 
+        any loan or other extension of credit to or for the benefit of, 
+        or engage in any other financial activity or transaction with 
+        or on behalf of any foreign insurance company listed in section 
+        101(b) (including any company the Attorney General determines 
+        is described in paragraph (17) of such section) or any 
+        affiliate of such company during the period beginning 15 days 
+        after the enactment of the Comprehensive Holocaust 
+        Accountability in Insurance Measure and ending on the date on 
+        which the Attorney General provides notice through publication 
+        in the Federal Register that such company has complied with the 
+        disclosure requirements contained in section 101(a) of such 
+        Act.
+            ``(2) Limited exception for affiliates.--
+                    ``(A) In general.--If an insured depository 
+                institution is itself an affiliate of a foreign 
+                insurance company described in paragraph (1), paragraph 
+                (1) shall not apply so as to prohibit--
+                            ``(i) the payment of dividends on any 
+                        shares of stock in such insured depository 
+                        institution which are held by the foreign 
+                        insurance company or any affiliate of such 
+                        company; or
+                            ``(ii) the investment of additional capital 
+                        in such insured depository institution by the 
+                        foreign insurance company or affiliate.
+                    ``(B) Regulations.--Any payment or investment 
+                described in subparagraph (A) shall be subject to, and 
+                shall be made in accordance with, such regulations, 
+                including any limitation, as the Attorney General or 
+the appropriate Federal banking agency may prescribe.''.
+
+SEC. 202. LIMITATION ON UNINSURED BRANCHES, AGENCIES, AND COMMERCIAL 
+              LENDING COMPANY AFFILIATES OF FOREIGN BANKS.
+
+    Section 7 of the International Banking Act of 1978 (12 U.S.C. 3105) 
+is amended by adding at the end the following new subsection:
+    ``(t) Prohibition on Transactions With Certain Insurance Companies 
+or Their Affiliates.--
+            ``(1) In general.--No branch, agency, or commercial lending 
+        company which is controlled by a foreign bank may accept any 
+        deposit from, maintain any deposit on behalf of, offer or 
+        provide payment services to, participate directly or indirectly 
+        in any aspect of the payment system (including any clearing or 
+        electronic fund transfer system) for or on behalf of, hold any 
+        credit balance for, make any loan or other extension of credit 
+        to or for the benefit of, or engage in any other financial 
+        activity or transaction with or on behalf of any foreign 
+        insurance company listed in section 101(b) (including any 
+        company the Attorney General determines is described in 
+        paragraph (17) of such section) or any affiliate of such 
+        company during the period beginning 15 days after the enactment 
+        of the Comprehensive Holocaust Accountability in Insurance 
+        Measure and ending on the date on which the Attorney General 
+        provides notice through publication in the Federal Register 
+        that such company has complied with the disclosure requirements 
+        contained in section 101(a) of such Act.
+            ``(2) Limited exception for affiliates.--
+                    ``(A) In general.--If a branch, agency, or 
+                commercial lending company which is controlled by a 
+                foreign bank is itself an affiliate of a foreign 
+                insurance company described in paragraph (1), paragraph 
+                (1) shall not apply so as to prohibit--
+                            ``(i) the payment of dividends on any 
+                        shares of stock or a similar investment in such 
+                        branch, agency, or company which are held by 
+                        the foreign insurance company or any affiliate 
+                        of such company; or
+                            ``(ii) the investment of additional capital 
+                        in branch, agency, or company by the foreign 
+                        insurance company or affiliate.
+                    ``(B) Regulations.--Any payment or investment 
+                described in subparagraph (A) shall be subject to, and 
+                shall be made in accordance with, such regulations, 
+                including any limitation, as the Attorney General, the 
+                Board, the Comptroller of the Currency, or the Federal 
+                Deposit Insurance Corporation may prescribe.''.
+                                 <all>

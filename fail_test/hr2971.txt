@@ -1,0 +1,189 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2971 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 2971
+
+To amend the Internal Revenue Code of 1986 to impose a flat tax only on 
+ the earned income of individuals and on business taxable income, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            November 8, 1997
+
+Mr. Souder (for himself and Mr. Solomon) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to impose a flat tax only on 
+ the earned income of individuals and on business taxable income, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. INDIVIDUALS TAXED ONLY ON EARNED INCOME.
+
+    (a) In General.--Section 1 of the Internal Revenue Code of 1986 is 
+amended to read as follows:
+
+``SECTION 1. TAX IMPOSED.
+
+    ``(a) Imposition of Tax.--There is hereby imposed on the income of 
+every individual a tax equal to 20 percent of the excess (if any) of--
+            ``(1) the taxable earned income received or accrued during 
+        the taxable year, over
+            ``(2) the sum of--
+                    ``(A) the standard deduction (as defined in section 
+                63) for such taxable year,
+                    ``(B) the deduction under section 170, plus
+                    ``(C) the deduction under section 163 for qualified 
+                residence interest (as defined in section 163(h)(3)).
+    ``(b) Taxable Earned Income.--For purposes of this section, the 
+term `taxable earned income' means the excess (if any) of earned income 
+(as defined in section 911(d)(2)) over the foreign earned income (as 
+defined in section 911(b)(1)).''
+    (b) Increase in Standard Deduction.--Section 63 of such Code is 
+amended to read as follows:
+
+``SEC. 63. STANDARD DEDUCTION.
+
+    ``(a) In General.--For purposes of this subtitle, the term 
+`standard deduction' means the sum of--
+            ``(1) the basic standard deduction, plus
+            ``(2) the additional standard deduction.
+    ``(b) Basic Standard Deduction.--For purposes of subsection (a), 
+the basic standard deduction is--
+            ``(1) $16,500 in the case of--
+                    ``(A) a joint return, and
+                    ``(B) a surviving spouse (as defined in section 
+                2(a)),
+            ``(2) $14,000 in the case of a head of household (as 
+        defined in section 2(b)), and
+            ``(3) $9,500 in the case of an individual--
+                    ``(A) who is not married and who is not a surviving 
+                spouse or head of household, or
+                    ``(B) who is a married individual filing a separate 
+                return.
+    ``(c) Additional Standard Deduction.--For purposes of subsection 
+(a), the additional standard deduction is $4,500 for each dependent (as 
+defined in section 152) described in section 151(c)(1) for the taxable 
+year.
+    ``(d) Inflation Adjustment.--
+            ``(1) In general.--In the case of any taxable year 
+        beginning in a calendar year after 1998, each dollar amount 
+        contained in subsections (b) and (c) shall be increased by an 
+        amount equal to--
+                    ``(A) such dollar amount, multiplied by
+                    ``(B) the cost-of-living adjustment under section 
+                1(f)(3) for the calendar year in which the taxable year 
+                begins, determined by substituting `calendar year 1997' 
+                for `calendar year 1992' in subparagraph (B) of such 
+                section.
+            ``(2) Rounding.--If any increase determined under paragraph 
+        (1) is not a multiple of $50, such amount shall be rounded to 
+        the next lowest multiple of $50.''
+
+SEC. 2. LIMITATION OF HOME MORTGAGE DEDUCTION TO ACQUISITION 
+              INDEBTEDNESS.
+
+    Paragraph (3) of section 163(h) of the Internal Revenue Code of 
+1986 (relating to interest) is amended--
+            (1) by striking subparagraphs (A), (C), and (D) and 
+        inserting before subparagraph (B) the following new 
+        subparagraph:
+                    ``(A) In general.--The term `qualified residence 
+                interest' means any interest which is paid or accrued 
+                during the taxable year on acquisition indebtedness 
+                with respect to any qualified residence of the 
+                taxpayer. For purposes of the preceding sentence, the 
+                determination of whether any property is a qualified 
+                residence of the taxpayer shall be made as of the time 
+                the interest is accrued.'', and
+            (2) by striking ``$1,000,000'' each place it appears and 
+        ``$500,000'' in subparagraph (B)(ii) and inserting ``$100,000'' 
+        and ``$50,000'', respectively.
+
+SEC. 3. TAX ON BUSINESS ACTIVITIES.
+
+    Section 11 of the Internal Revenue Code of 1986 (relating to tax 
+imposed on corporations) is amended to read as follows:
+
+``SEC. 11. TAX IMPOSED ON BUSINESS ACTIVITIES.
+
+    ``(a) Tax Imposed.--There is hereby imposed on every person engaged 
+in a business activity a tax equal to 20 percent of the business 
+taxable income of such person.
+    ``(b) Liability for Tax.--The tax imposed by this section shall be 
+paid by the person engaged in the business activity, whether such 
+person is an individual, partnership, corporation, or otherwise.
+    ``(c) Business Taxable Income.--
+            ``(1) In general.--For purposes of this section, the term 
+        `business taxable income' means gross active income reduced by 
+        the deductions specified in subsection (d).
+            ``(2) Gross active income.--For purposes of paragraph (1), 
+        the term `gross active income' means gross income other than 
+        investment income.
+    ``(d) Deductions.--
+            ``(1) In general.--The deductions specified in this 
+        subsection are--
+                    ``(A) the cost of business inputs for the business 
+                activity,
+                    ``(B) the compensation (including contributions to 
+                qualified retirement plans but not including other 
+                fringe benefits) paid for employees performing services 
+                in such activity, and
+                    ``(C) the cost of tangible personal and real 
+                property used in such activity.
+            ``(2) Business inputs.--For purposes of subparagraph (A), 
+        the term `cost of business inputs' means--
+                    ``(A) the actual amount paid for goods, services, 
+                and materials, whether or not resold during the taxable 
+                year,
+                    ``(B) the fair market value of business inputs 
+                brought into the United States, and
+                    ``(C) the actual cost, if reasonable, of travel and 
+                entertainment expenses for business purposes.
+        Such term shall not include purchases of goods and services 
+        provided to employees or owners.
+    ``(e) Carryover of Excess Deductions.--
+            ``(1) In general.--If the aggregate deductions for any 
+        taxable year exceed the gross active income for such taxable 
+        year, the amount of the deductions specified in subsection (d) 
+        for the succeeding taxable year (determined without regard to 
+        this subsection) shall be increased by the sum of--
+                    ``(A) such excess, plus
+                    ``(B) the product of such excess and the 3-month 
+                Treasury rate for the last month of such taxable year.
+            ``(2) 3-month treasury rate.--For purposes of paragraph 
+        (1), the 3-month Treasury rate is the rate determined by the 
+        Secretary based on the average market yield (during any 1-month 
+        period selected by the Secretary and ending in the calendar 
+        month in which the determination is made) on outstanding 
+        marketable obligations of the United States with remaining 
+        periods to maturity of 3 months or less.''
+
+SEC. 4. EFFECTIVE DATE.
+
+    The amendments made by this Act shall apply to taxable years 
+beginning after December 31, 1997.
+                                 <all>
