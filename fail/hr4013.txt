@@ -1,24 +1,19 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4013 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4013
 
-      To authorize the Secretary of Agriculture to convey certain 
-  administrative sites and to use the proceeds for the acquisition of 
-   office sites and the acquisition, construction, or improvement of 
-offices and administrative support buildings for the Conconino National 
-  Forest, Kaibab National Forest, Prescott National Forest, and Tonto 
-                National Forest in the State of Arizona.
+    To direct the National Highway Traffic Safety Administration to 
+establish a program allowing low volume motor vehicle manufacturers to 
+   produce a limited number of vehicles annually within a regulatory 
+system that addresses the unique safety and financial issues associated 
+  with limited production, and to direct the Environmental Protection 
+   Agency to allow low volume motor vehicle manufacturers to install 
+engines from vehicles that have been issued certificates of conformity.
 
 
 _______________________________________________________________________
@@ -26,10 +21,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                              June 5, 1998
+                            February 6, 2014
 
-  Mr. Stump introduced the following bill; which was referred to the 
-                         Committee on Resources
+   Mr. Campbell (for himself, Mr. Barrow of Georgia, and Mr. Hunter) 
+ introduced the following bill; which was referred to the Committee on 
+                          Energy and Commerce
 
 _______________________________________________________________________
 
@@ -37,89 +33,204 @@ _______________________________________________________________________
 
 
  
-      To authorize the Secretary of Agriculture to convey certain 
-  administrative sites and to use the proceeds for the acquisition of 
-   office sites and the acquisition, construction, or improvement of 
-offices and administrative support buildings for the Conconino National 
-  Forest, Kaibab National Forest, Prescott National Forest, and Tonto 
-                National Forest in the State of Arizona.
+    To direct the National Highway Traffic Safety Administration to 
+establish a program allowing low volume motor vehicle manufacturers to 
+   produce a limited number of vehicles annually within a regulatory 
+system that addresses the unique safety and financial issues associated 
+  with limited production, and to direct the Environmental Protection 
+   Agency to allow low volume motor vehicle manufacturers to install 
+engines from vehicles that have been issued certificates of conformity.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. DEFINITION.
+SECTION 1. SHORT TITLE.
 
-    In this Act, the term ``Secretary'' means the Secretary of 
-Agriculture.
+    This Act may be cited as the ``Low Volume Motor Vehicle 
+Manufacturers Act of 2014''.
 
-SEC. 2. SALE OR EXCHANGE OF ADMINISTRATIVE SITES.
+SEC. 2. EXEMPTION FROM VEHICLE SAFETY STANDARDS FOR LOW VOLUME 
+              MANUFACTURERS.
 
-    (a) In General.--Subject to subsection (c), the Secretary, under 
-such terms and conditions as the Secretary may prescribe, may sell or 
-exchange any or all right, title, and interest of the United States in 
-and to the following National Forest System administrative sites:
-            (1) The Camp Verde Administrative Site, comprising 
-        approximately 213.60 acres, as depicted on the map entitled 
-        ``Camp Verde Administrative Site'', dated April 12, 1997.
-            (2) A portion of the Cave Creek Administrative Site, 
-        comprising approximately 16 acres, as depicted on the map 
-        entitled ``Cave Creek Administrative Site'', dated May 1, 1997.
-            (3) The Fredonia Duplex Housing Site, comprising 
-        approximately 1.40 acres and the Fredonia Dwelling Site, 
-        comprising approximately 1.58 acres, as depicted on the map 
-        entitled ``Fredonia Duplex Dwelling, Fredonia Ranger 
-        Dwelling'', dated August 28, 1997.
-            (4) The Groom Creek Administrative Site, comprising 
-        approximately 7.88 acres, as depicted on the map entitled 
-        ``Groom Creek Administrative Site'', dated April 29, 1997.
-            (5) The Payson Administrative Site, comprising 
-        approximately 296.43 acres, as depicted on the map entitled 
-        ``Payson Ranger Station Administrative Site'', dated May 1, 
-        1997.
-            (6) The Sedona Administrative Site, comprising 
-        approximately 21.41 acres, as depicted on the map entitled 
-        ``Sedona Ranger Station Administrative Site'', dated April 12, 
-        1997.
-    (b) Exchange Acquisitions.--The Secretary may acquire land and 
-existing or future administrative improvements in exchange for a 
-conveyance of an administrative site under subsection (a).
-    (c) Applicable Authorities.--A sale or exchange of an 
-administrative site shall be subject to the laws (including 
-regulations) applicable to the conveyance and acquisition of land for 
-National Forest System purposes.
-    (d) Cash Equalization.--Notwithstanding any other provision of law, 
-the Secretary may accept a cash equalization payment in excess of 25 
-percent of the value of an administrative site in an exchange under 
-subsection (a).
-    (e) Solicitations of Offers.--In carrying out this Act, the 
-Secretary may--
-            (1) use solicitations of offers for sale or exchange on 
-        such terms and conditions as the Secretary may prescribe; and
-            (2) reject any offer if the Secretary determines that the 
-        offer is not adequate or not in the public interest.
+    Section 30114 of title 49, United States Code, is amended--
+            (1) by striking ``The'' and inserting ``(a) Vehicles Used 
+        for Particular Purposes.--The''; and
+            (2) by adding at the end the following new subsection:
+    ``(b) Exemption for Low Volume Manufacturers.--
+            ``(1) In general.--The Secretary shall--
+                    ``(A) exempt from specified standards not more than 
+                1,000 replica motor vehicles per year that are 
+                manufactured or imported by a low volume manufacturer;
+                    ``(B) exempt from specified standards not more than 
+                50 non-replica motor vehicles per year that are 
+                manufactured or imported by a single low volume 
+                manufacturer by requiring each low volume manufacturer 
+                to have evidence of a sales contract to be eligible for 
+                the exemption; and
+                    ``(C) permit a low volume manufacturer to assign 
+                vehicle identification numbers.
+            ``(2) Cap on non-replica motor vehicles exemptions.--The 
+        Secretary may not provide exemptions for more than 1,000 non-
+        replica motor vehicles per year under paragraph (1)(B). The 
+        Secretary shall provide a fair and reasonable method for 
+        annually recording and publicly reporting such exemptions.
+            ``(3) Exception.--Except as provided in this subsection, a 
+        low volume manufacturer shall be considered a motor vehicle 
+        manufacturer for purposes of subtitle VI of this title.
+            ``(4) Registration requirement.--To qualify for an 
+        exemption under paragraph (1), a low volume manufacturer shall 
+        register with the Secretary at such time, in such manner, and 
+        under such terms that the Secretary determines appropriate.
+            ``(5) Permanent label requirement.--
+                    ``(A) In general.--The Secretary shall require a 
+                low volume manufacturer to affix a permanent label--
+                            ``(i) to a motor vehicle exempted under 
+                        paragraph (1) that identifies the specified 
+                        standards from which such vehicle is exempt; 
+                        and
+                            ``(ii) to a replica motor vehicle exempted 
+                        under paragraph (1)(A), that designates the 
+                        model year such vehicle replicates.
+                    ``(B) Written notice.--The Secretary may require a 
+                low volume manufacturer of a motor vehicle exempted 
+                under paragraph (1) to deliver written notice of the 
+                exemption to--
+                            ``(i) the dealer; and
+                            ``(ii) the first purchaser of the motor 
+                        vehicle, if the first purchaser is not an 
+                        individual that purchases the motor vehicle for 
+                        resale.
+                    ``(C) Reporting requirement.--A low volume 
+                manufacturer shall annually submit a report to the 
+                Secretary including the number and description of the 
+                motor vehicles exempted under paragraph (1) and a list 
+                of the exemptions described on the label affixed under 
+                subparagraph (A).
+            ``(6) Notification, recall, and remedy requirements.--If a 
+        motor vehicle has any defects related to motor vehicle safety 
+        or any nonconformities regarding any standards other than 
+        specified standards, a low volume manufacturer of such vehicle 
+        is subject to all notification, recall, and remedy requirements 
+        set forth in sections 30116 through 30120A of this title.
+            ``(7) Definitions.--In this subsection:
+                    ``(A) Low volume manufacturer.--The term `low 
+                volume manufacturer' means a motor vehicle manufacturer 
+                whose annual worldwide production is not more than 
+                5,000 motor vehicles.
+                    ``(B) Non-replica motor vehicle.--The term `non-
+                replica motor vehicle' means any motor vehicle produced 
+                by a low volume manufacturer that is not a replica 
+                motor vehicle.
+                    ``(C) Replica motor vehicle.--The term `replica 
+                motor vehicle' means a motor vehicle produced by a low 
+                volume manufacturer and that--
+                            ``(i) is intended to resemble the body of 
+                        another motor vehicle that was manufactured not 
+                        less than 25 years before the manufacture of 
+                        the replica motor vehicle; and
+                            ``(ii) is subject to being manufactured 
+                        under trademark or trade dress or design patent 
+                        license, if such exists, from the original 
+                        manufacturer or its assignee that is the 
+                        current owner of an active, valid, and 
+                        subsisting trademark registration or patent as 
+                        indicated in the records of the United States 
+                        Patent and Trademark Office for the non-
+                        functional and ornamental portions of the motor 
+                        vehicle that is intended to be replicated.
+                    ``(D) Specified standard.--The term `specified 
+                standard' means--
+                            ``(i) any motor vehicle standard or 
+                        obligation described in any of sections 
+                        30112(a), 32304, 32502, or 32902 of this title, 
+                        or in section 3 of the Automobile Information 
+                        Disclosure Act (15 U.S.C. 1232); and
+                            ``(ii) does not include any standard 
+                        promulgated under section 30112(a) applicable 
+                        to motor vehicle equipment.''.
 
-SEC. 3. DISPOSITION OF FUNDS.
+SEC. 3. VEHICLE COMPLIANCE STANDARDS FOR LOW VOLUME MOTOR VEHICLE 
+              MANUFACTURERS.
 
-    The proceeds of a sale or exchange under section 2 shall be 
-deposited in the fund established under Public Law 90-171 (16 U.S.C. 
-484a; commonly known as the Sisk Act) and shall be available for 
-expenditure, until expended, for--
-            (1) the acquisition of land and interests in land for 
-        administrative sites; and
-            (2) the acquisition, construction, or improvement of 
-        offices and other administrative support buildings for the 
-        Conconino National Forest, Kaibab National Forest, Prescott 
-        National Forest, and Tonto National Forest.
+    Part A of title II of the Clean Air Act (42 U.S.C. 7521 et seq.) is 
+amended--
+            (1) in section 206(a) by adding at the end the following 
+        new paragraph:
+            ``(5)(A) A motor vehicle engine (including all engine 
+        emission controls) from a motor vehicle that has been granted a 
+        certificate of conformity by the Administrator, or an engine 
+        that has been granted an Executive order subject to regulations 
+        promulgated by the California Air Resources Board, may be 
+        installed in an exempted specially produced motor vehicle, if--
+                    ``(i) the manufacturer of the engine supplies 
+                written instructions explaining how to install the 
+                engine and maintain functionality of the engine's 
+                emission control system and the on-board diagnostic 
+                system (commonly known as `OBD II'), except with 
+                respect to evaporative emissions diagnostics;
+                    ``(ii) the producer of the exempted specially 
+                produced motor vehicle installs the engine in 
+                accordance with such instructions; and
+                    ``(iii) the installation instructions include 
+                emission control warranty information from the engine 
+                manufacturer in compliance with section 207, including 
+                where warranty repairs can be made, emission control 
+                labels to be affixed to the vehicle, and the 
+                certificate of conformity number for the applicable 
+                vehicle in which the engine was originally intended or 
+                the applicable Executive order number for the engine.
+            ``(B) A motor vehicle containing an engine compliant with 
+        the requirements of subparagraph (A) shall be treated as 
+        meeting the requirements of section 202 applicable to new 
+        vehicles manufactured or imported in the model year in which 
+        the exempted specially produced motor vehicle is assembled.
+            ``(C) Engine installations that are not performed in 
+        accordance with installation instructions provided by the 
+        manufacturer and alterations to the engine not in accordance 
+        with the installation instructions shall be treated as 
+        prohibited acts by the installer under section 203 and subject 
+        to penalties under section 205.
+            ``(D) The producer of an exempted specially produced motor 
+        vehicle that has an engine compliant with the requirements of 
+        subparagraph (A) shall provide to the purchaser of such vehicle 
+        all information received by the producer from the engine 
+        manufacturer, including information regarding emissions 
+        warranties from the engine manufacturer and all emissions-
+        related recalls by the engine manufacturer.
+            ``(E) To qualify to install an engine under this paragraph, 
+        a producer of exempted specially produced motor vehicles shall 
+        register with the Administrator at such time and in such manner 
+        as the Administrator determines appropriate. The producer shall 
+        submit an annual report to the Administrator that includes--
+                    ``(i) a description of the exempted specially 
+                produced motor vehicles produced and engines installed 
+                in such vehicles; and
+                    ``(ii) the certificate of conformity number issued 
+                to the motor vehicle in which the engine was originally 
+                intended or the applicable Executive order number for 
+                the engine.
+            ``(F) Exempted specially produced motor vehicles compliant 
+        with this paragraph shall be exempted from--
+                    ``(i) motor vehicle certification testing that 
+                might otherwise be required under section 206; and
+                    ``(ii) vehicle emission control inspection and 
+                maintenance programs required under section 110.
+            ``(G) A producer of exempted specially produced motor 
+        vehicles that is compliant with subparagraphs (A) through (E) 
+        of this paragraph is not considered a manufacturer for the 
+        purposes of this Act.''; and
+            (2) in section 216 by adding at the end the following new 
+        paragraph:
+            ``(12) Exempted specially produced motor vehicle.--The term 
+        `exempted specially produced motor vehicle' means a replica 
+        motor vehicle or non-replica motor vehicle that is exempt from 
+        specified standards as defined in section 30114(b) of title 49, 
+        United States Code.''.
 
-SEC. 4. REVOCATIONS.
+SEC. 4. IMPLEMENTATION.
 
-    (a) Public Land Orders.--Notwithstanding any other provision of 
-law, to facilitate the sale or exchange of the administrative sites 
-under section 2, public land orders withdrawing the administrative 
-sites from all forms of appropriation under the public land laws are 
-revoked for any portion of the administrative sites conveyed by the 
-Secretary.
-    (b) Effective Date.--The effective date of a revocation made by 
-this section shall be the date of the patent or deed conveying the 
-administrative site.
+    Not later than 12 months after the date of the enactment of this 
+Act, the Secretary of Transportation and the Administrator of the 
+Environmental Protection Agency shall issue such regulations as may be 
+necessary to implement sections 2 and 3 of this Act, respectively.
                                  <all>

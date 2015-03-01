@@ -1,22 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3677 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 3677
 
-To authorize and direct the Secretary of the Interior to convey certain 
-works, facilities, and titles of the Gila Project, and Designated Lands 
-     within or adjacent to the Gila Project, to the Wellton-Mohawk 
-       Irrigation and Drainage District, and for other purposes.
+ To amend the Energy Independence and Security Act of 2007 to improve 
+    United States-Israel energy cooperation, and for other purposes.
 
 
 _______________________________________________________________________
@@ -24,10 +16,14 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             April 1, 1998
+                            December 9, 2013
 
-  Mr. Pastor introduced the following bill; which was referred to the 
-                         Committee on Resources
+Mr. Upton (for himself, Mr. Waxman, Mr. Terry, Mr. Gene Green of Texas, 
+and Mr. Bilirakis) introduced the following bill; which was referred to 
+the Committee on Science, Space, and Technology, and in addition to the 
+     Committee on Foreign Affairs, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -35,117 +31,184 @@ _______________________________________________________________________
 
 
  
-To authorize and direct the Secretary of the Interior to convey certain 
-works, facilities, and titles of the Gila Project, and Designated Lands 
-     within or adjacent to the Gila Project, to the Wellton-Mohawk 
-       Irrigation and Drainage District, and for other purposes.
+ To amend the Energy Independence and Security Act of 2007 to improve 
+    United States-Israel energy cooperation, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. CONVEYANCE OF TITLE TO WORKS, FACILITIES, AND LANDS.
+SECTION 1. UNITED STATES-ISRAEL ENERGY COOPERATION.
 
-    (a) Definitions.--
-            (1) Consolidated contract.--The term ``consolidated 
-        contract'' means the ``Amendatory and Supplemental Consolidated 
-        Contract with Wellton-Mohawk Irrigation and Drainage District 
-        for Delivery of Water, Construction of Works, Repayment, and 
-        Project Power Supply'' (Reclamation's Contract Number 1-07-30-
-        W0021 Amendment No. 1) and any amendments or supplements.
-            (2) Designated lands.--The term ``Designated Lands'' means 
-        those lands within or adjacent to the Division designated by 
-        Wellton-Mohawk, in conjunction with Reclamation, on the 
-        Production Re-examination Board maps referenced in the 
-        Consolidated Contract. Wellton-Mohawk will acquire the 
-        Designated Lands by fair value purchase or exchange as set 
-        forth in the Memorandum of Agreement.
-            (3) Division.--The term ``Division'' means the Wellton-
-        Mohawk Division of the Gila Project, Arizona.
-            (4) Memorandum of agreement.--The term ``Memorandum of 
-        Agreement'' means the agreement to be made between the 
-        Secretary and Wellton-Mohawk setting forth, among other things, 
-        the amount of administrative costs to be shared by the United 
-        States and Wellton-Mohawk; the fair value price of the 
-        Designated Lands to be purchased by Wellton-Mohawk; the date 
-        certain by which transfer must be completed to avoid transfer 
-        by operation of law; and, addressing salinity control concerns 
-        of Reclamation with regards to return flows from Wellton-
-        Mohawk.
-            (5) Reclamation.--The term ``Reclamation'' means the 
-        Department of the Interior, Bureau of Reclamation.
-            (6) Secretary.--The term ``Secretary'' means the Secretary 
-        of the Interior.
-            (7) Wellton-mohawk.--The term ``Wellton-Mohawk'' means the 
-        Wellton-Mohawk Irrigation and Drainage District, an irrigation 
-        and drainage district created, organized and existing under and 
-        by virtue of the laws of the State of Arizona. Wellton-Mohawk 
-        is a fully paid out single reclamation purpose district and 
-        intends to continue to operate as a single reclamation purpose 
-        district following transfer of title to its works, facilities, 
-        and lands.
-            (8) Western.--The term ``Western'' means the Department of 
-        Energy, Western Area Power Administration.
-    (b) Conveyance.--The Secretary shall, upon payment of such 
-consideration as provided in this section and section (d) (requiring 
-fair value payment for Designated Lands) and none other, convey to 
-Wellton-Mohawk, by quitclaim deed or patent, all right, title, and 
-interest of the United States in and to Designated Lands, easements, 
-and rights-of-way of or in connection with the Division, together with 
-the pumping plants, canals, drains, laterals, roads, pumps, motors, 
-checks, headgates, relifts, transformers, buildings, works, including 
-Gila River flood protection and control works and related works and 
-facilities made a part of the project works by Reclamation Contract 9-
-07-30-W0117, and other improvements or appurtenances to the land or 
-used for the delivery of water from the headworks (but not the 
-headworks themselves) of the Wellton-Mohawk Canal, including all 
-facilities used in conjunction with the Division (including the 
-Wellton-Mohawk Main Conveyance Channel and drainage facilities of the 
-Division and related purposes for which the allocable construction 
-costs have been fully repaid by Wellton-Mohawk). Administrative costs, 
-including costs associated with compliance with procedural requirements 
-of environmental or other statutes, of transfer of title to works, 
-facilities, and lands and related activities shall be paid in equal 
-shares by the United States and Wellton-Mohawk, pursuant to the 
-Memorandum of Agreement. Reclamation is hereby authorized to expend 
-funds for the purpose of completing the transfer of title to works, 
-facilities, and lands herein authorized and directed.
-    (c) Water and Power Delivery.--Notwithstanding the transfer of 
-title to works, facilities, and lands, the Secretary shall continue to 
-deliver water to Wellton-Mohawk in accordance with the terms of the 
-Consolidated Contract. Notwithstanding the transfer of title to works, 
-facilities, and lands, the Secretary and Western shall continue to 
-provide Wellton-Mohawk with project reserved power from the Parker 
-Reclamation Power Plant and Davis Reclamation Power Plant, in 
-accordance with the terms of the Consolidated Contract and the ``Power 
-Management Agreement'' (Reclamation's and Western's Contract Numbers 6-
-CU-30-P1136, 6-CU-30-P1137, and 6-CU-30-P1138).
-    (d) Payment.--Consideration for the Designated lands shall be the 
-fair value of the Designated Lands as established in the Memorandum of 
-Agreement. Fair value shall be paid to the United States by Wellton-
-Mohawk, to the United States at the time of transfer.
-    (e) Liability.--Effective on the date of conveyance of the project 
-works, facilities and lands, described in section 1(b), the United 
-States shall not be held liable by any court for damages of any kind 
-arising out of any act, omission, or occurrence relating to the 
-conveyed works, facilities, and lands, except for damages caused by 
-acts of negligence committed by the United States or by its employees, 
-agents, or contractors as provided in the Federal Tort Claims Act (28 
-U.S.C. 2671 et seq.).
-    (f) Salinity Control.--The Memorandum of Agreement shall resolve 
-any salinity control issues resulting from return flows from Wellton-
-Mohawk in accordance with Public Law 93-320.
-    (g) Report.--The Secretary shall provide a report to the Committee 
-on Resources of the United States House of Representatives and to the 
-Committee on Energy and Natural Resources of the United States Senate 
-within 18 months from the date of enactment of this Act on the status 
-of the transfer, any obstacles to completion of the transfer as 
-provided in this section, and the anticipated date for such transfer. 
-If such transfer has not occurred by the date certain established in 
-the Memorandum of Agreement, then upon the tender of fair value, as 
-established by Wellton-Mohawk, to the Secretary by Wellton-Mohawk, all 
-right, title, and interest of the United States in and to the works, 
-facilities, and lands described in section (b) shall transfer to and 
-vest in Wellton-Mohawk by operation of law. The Secretary shall provide 
-such evidence of title as Wellton-Mohawk may request at no cost to 
-Wellton-Mohawk.
+    (a) Findings.--Section 917(a) of the Energy Independence and 
+Security Act of 2007 (42 U.S.C. 17337(a)) is amended--
+            (1) in paragraph (1), by striking ``renewable'' and 
+        inserting ``covered'';
+            (2) in paragraph (4)--
+                    (A) by striking ``possible many'' and inserting 
+                ``possible--
+                    ``(A) many'';
+                    (B) by inserting ``and'' after the semicolon at the 
+                end; and
+                    (C) by adding at the end the following:
+                    ``(B) significant contributions to the development 
+                of renewable energy and energy efficiency through the 
+                established programs of the United States-Israel 
+                Binational Industrial Research and Development 
+                Foundation and the United States-Israel Binational 
+                Science Foundation;'';
+            (3) in paragraph (6)--
+                    (A) by striking ``renewable'' and inserting 
+                ``covered''; and
+                    (B) by striking ``and'' after the semicolon at the 
+                end;
+            (4) in paragraph (7)--
+                    (A) by striking ``renewable'' and inserting 
+                ``covered''; and
+                    (B) by striking the period at the end and inserting 
+                a semicolon; and
+            (5) by adding at the end the following:
+            ``(8) United States-Israel energy cooperation, and the 
+        development of natural resources by Israel, are strategic 
+        interests of the United States;
+            ``(9) Israel is a strategic partner of the United States in 
+        water technology;
+            ``(10) the United States can play a role in assisting 
+        Israel with regional safety and security issues;
+            ``(11) the National Science Foundation of the United States 
+        should collaborate with the Israel Science Foundation;
+            ``(12) the United States and Israel should strive to 
+        develop more robust academic cooperation in energy innovation 
+        technology and engineering, water science, technology transfer, 
+        and analysis of geopolitical implications of new natural 
+        resource development and associated areas;
+            ``(13) the United States supports the goals of the 
+        Alternative Fuels Administration of Israel;
+            ``(14) the United States strongly urges open dialogue and 
+        continued mechanisms for regular engagement and encourages 
+        further cooperation between applicable departments, agencies, 
+        ministries, institutions of higher education, and the private 
+        sectors of the United States and Israel on energy security 
+        issues, including--
+                    ``(A) identifying policy priorities associated with 
+                the development of natural resources of Israel;
+                    ``(B) discussing best practices to secure cyber 
+                energy infrastructure;
+                    ``(C) best practice sharing;
+                    ``(D) leveraging natural gas to positively impact 
+                regional stability;
+                    ``(E) improving energy efficiency and the overall 
+                performance of water technologies through research and 
+                development in water desalination, wastewater treatment 
+                and reclamation, and other water treatment 
+                technologies;
+                    ``(F) technical and environmental management of 
+                deep-water exploration and production;
+                    ``(G) coastal protection and restoration;
+                    ``(H) academic outreach and engagement;
+                    ``(I) private sector and business development 
+                engagement;
+                    ``(J) regulatory consultations;
+                    ``(K) leveraging alternative transportation fuels 
+                and technologies; and
+                    ``(L) any other areas determined appropriate by the 
+                United States and Israel;
+            ``(15) the United States acknowledges the achievements and 
+        importance of the United States-Israel Binational Industrial 
+        Research and Development Foundation and the United States-
+        Israel Binational Science Foundation and supports continued 
+        multiyear funding to ensure the continuity of the programs of 
+        the Foundations; and
+            ``(16) the United States and Israel have a shared interest 
+        in addressing their immediate, near-term, and long-term energy 
+        and environmental challenges.''.
+    (b) Establishment.--Section 917(b)(1) of the Energy Independence 
+and Security Act of 2007 (42 U.S.C. 17337(b)(1)) is amended by striking 
+``renewable energy or energy efficiency'' and inserting ``covered 
+energy''.
+    (c) Types of Energy.--Section 917(b)(2) of the Energy Independence 
+and Security Act of 2007 (42 U.S.C. 17337(b)(2)) is amended--
+            (1) in the heading, by striking ``Types of'' and inserting 
+        ``Covered'';
+            (2) in subparagraph (F), by striking ``and'' after the 
+        semicolon at the end;
+            (3) in subparagraph (G), by striking the period at the end 
+        and inserting a semicolon; and
+            (4) by adding at the end the following:
+                    ``(H) natural gas energy, including conventional 
+                and unconventional natural gas technologies and natural 
+                gas projects conducted by or in conjunction with the 
+                United States-Israel Binational Science Foundation, the 
+                United States-Israel Binational Industrial Research and 
+                Development Foundation, and the United States-Israel 
+                Science and Technology Foundation; and
+                    ``(I) improvement of energy efficiency and the 
+                overall performance of water technologies through 
+                research and development in water desalination, 
+                wastewater treatment and reclamation, and other water 
+                treatment technologies.''.
+    (d) Eligible Applicants.--Section 917(b)(3) of the Energy 
+Independence and Security Act of 2007 (42 U.S.C. 17337(b)(3)) is 
+amended by striking ``energy efficiency or renewable'' and inserting 
+``covered''.
+    (e) Authorization of Appropriations; International Partnerships.--
+Section 917 of the Energy Independence and Security Act of 2007 (42 
+U.S.C. 17337) is amended--
+            (1) by striking subsection (d);
+            (2) by redesignating subsection (c) as subsection (e); and
+            (3) by inserting after subsection (b) the following:
+    ``(c) International Partnerships.--
+            ``(1) In general.--The Secretary may, subject to the 
+        availability of appropriations, enter into cooperative 
+        agreements supporting and enhancing dialogue and planning 
+        involving international partnerships between the Department, 
+        including National Laboratories of the Department, and the 
+        Government of Israel and its ministries, offices, and 
+        institutions.
+            ``(2) Federal share.--The Secretary may not pay more than 
+        50 percent of the costs described in paragraph (1).
+            ``(3) Annual reports.--The Secretary shall submit to the 
+        Committee on Energy and Commerce of the House of 
+        Representatives and the Committee on Energy and Natural 
+        Resources of the Senate an annual report that describes--
+                    ``(A) actions taken to carry out this subsection; 
+                and
+                    ``(B) any projects under this subsection for which 
+                the Secretary requests funding.
+    ``(d) United States-Israel Center.--The Secretary may establish a 
+joint United States-Israel Center based in an area of the United States 
+with the experience, knowledge, and expertise in offshore energy 
+development to further dialogue and collaboration to develop more 
+robust academic cooperation in energy innovation technology and 
+engineering, water science, technology transfer, and analysis of 
+geopolitical implications of new natural resource development and 
+associated areas.''.
+    (f) Termination.--Subsection (e) of section 917 of the Energy 
+Independence and Security Act of 2007 (42 U.S.C. 17337) (as 
+redesignated by subsection (d)(2)) is amended by striking ``the date 
+that is 7 years after the date of enactment of this Act'' and inserting 
+``September 30, 2024''.
+
+SEC. 2. UNITED STATES-ISRAEL ENERGY COOPERATION WORKING GROUP.
+
+    (a) Sense of Congress.--It is the sense of Congress that open 
+dialogue and continued mechanisms for regular engagement encourages 
+further cooperation between applicable departments, agencies, 
+ministries, institutions of higher education, and the private sectors 
+of the United States and Israel on energy security issues.
+    (b) Establishment.--The Secretary of Energy and the Secretary of 
+State shall seek to establish an Energy Cooperation Working Group 
+within the semi-annual United States-Israel Strategic Dialogue.
+    (c) Purpose.--The purpose of the Energy Cooperation Working Group 
+referred to in subsection (b) shall be to strengthen dialogue between 
+the United States and Israel on--
+            (1) strategies to advance the research, development, and 
+        deployment of renewable energy and energy efficiency;
+            (2) identifying policy priorities associated with the 
+        development of the natural resources of Israel;
+            (3) best practices for energy infrastructure cybersecurity;
+            (4) leveraging natural gas resources to positively impact 
+        regional stability;
+            (5) technical and environmental management of deep-water 
+        exploration and production; and
+            (6) coastal protection and restoration.
                                  <all>

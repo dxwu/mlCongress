@@ -1,19 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.J. Res. 126 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
 H. J. RES. 126
 
-  Relating to Taiwan's participation in the World Health Organization.
+  Proposing an amendment to the Constitution of the United States to 
+                     control entitlement spending.
 
 
 _______________________________________________________________________
@@ -21,22 +16,14 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             July 22, 1998
+                           September 18, 2014
 
-   Mr. Brown of Ohio (for himself, Mr. Solomon, Mr. Strickland, Mr. 
- Cooksey, Mr. Coburn, Mr. King, Mr. Wynn, Mr. Deutsch, Mr. Chabot, Mr. 
-      Miller of Florida, Mr. Green, Mrs. Lowey, Mr. Gallegly, Mr. 
-  Rohrabacher, Mr. Bilirakis, Mr. Berman, Mr. Waxman, Mr. Lantos, Mr. 
-Bonior, Mr. Hall of Texas, Mr. Cunningham, Ms. Rivers, Mr. Sherman, Mr. 
-Bilbray, Ms. DeGette, Mr. Watts of Oklahoma, Mr. Moran of Virginia, Mr. 
-Calvert, Mr. Wexler, Mr. Foley, Mr. Lipinski, Mr. Hinchey, Mr. Boucher, 
-Mr. Clement, Mr. Barton of Texas, Mr. Burton of Indiana, Mr. Baker, Mr. 
- Stupak, Mrs. Linda Smith of Washington, Mr. Kennedy of Rhode Island, 
-Mr. Andrews, Mr. DeFazio, Mr. Payne, Ms. Pryce of Ohio, Mr. Goode, Mr. 
- Weldon of Florida, Mr. Cox of California, Mr. Menendez, Mr. Martinez, 
- Mr. Towns, Mr. DeLay, Mr. Stark, and Mr. Scarborough) introduced the 
-  following joint resolution; which was referred to the Committee on 
-                        International Relations
+ Mr. Crawford (for himself, Mr. Griffin of Arkansas, Mr. Meadows, Mr. 
+Cotton, Mr. Scalise, Mrs. Noem, Mr. Graves of Georgia, Mr. Rodney Davis 
+  of Illinois, Mr. Harris, Mr. Collins of New York, Mr. Mulvaney, Mr. 
+ Ross, Mr. Schock, Mrs. Wagner, Mr. McHenry, Mr. Calvert, Mr. Cramer, 
+ Mr. Culberson, Mr. Aderholt, and Mr. Yoder) introduced the following 
+ joint resolution; which was referred to the Committee on the Judiciary
 
 _______________________________________________________________________
 
@@ -44,58 +31,39 @@ _______________________________________________________________________
 
 
  
-  Relating to Taiwan's participation in the World Health Organization.
+  Proposing an amendment to the Constitution of the United States to 
+                     control entitlement spending.
 
-Whereas good health is a basic right for every citizen of the world and access 
-        to the highest standards of health information and services is necessary 
-        to help guarantee this right;
-Whereas direct and unobstructed participation in international health 
-        cooperation forums and programs is therefore crucial, especially with 
-        today's greater potential for the cross-border spread of various 
-        infectious diseases such as AIDS and Hong Kong bird flu through 
-        increased international trade and travel;
-Whereas the World Health Organization (WHO) set forth in the first chapter of 
-        its charter the objective of attaining the highest possible level of 
-        health for all peoples;
-Whereas, in 1977, the WHO established ``Health for all by the year 2000'' as its 
-        overriding priority and reaffirmed that central vision with the 
-        initiation of its ``Health For All'' renewal process in 1995;
-Whereas, according to the charter of the WHO (Chapter III, Article 3), 
-        ``Membership in the Organization shall be open to all States'';
-Whereas Taiwan's population of 21,000,000 people is larger than that of three-
-        quarters of the member states already in the WHO and shares the noble 
-        goals of the organization;
-Whereas Taiwan's achievements in the field of health are substantial, including 
-        one of the highest life expectancy levels in Asia, maternal and infant 
-        mortality rates comparable to those of western countries, the 
-        eradication of such infectious diseases as cholera, smallpox, and the 
-        plague, the first Asian nation to be rid of polio, and the first country 
-        in the world to provide children with free hepatitis B vaccinations;
-Whereas, prior to 1972 and its loss of membership in the WHO, Taiwan sent 
-        specialists to serve in other member countries on countless health 
-        projects and its health experts held key positions in the organization, 
-        all to the benefit of the entire Pacific region;
-Whereas, due to the unreasonable and unjustifiable political pressure which the 
-        People's Republic of China applies to the international community, 
-        Taiwan is currently excluded from the WHO;
-Whereas Taiwan is thus not allowed to participate in all WHO-organized forums 
-        and workshops regarding the latest techniques in the diagnosis, 
-        monitoring, and control of diseases;
-Whereas, in recent years, both the Taiwanese government and individual Taiwanese 
-        experts have expressed a willingness to assist financially or 
-        technically in WHO-supported international aid and health activities, 
-        but have ultimately been unable to render such assistance due to the 
-        political interference of the People's Republic of China; and
-Whereas, in light of all of the above, the continuing denial of Taiwan's desire 
-        to join the WHO is an indefensible violation of its people's basic 
-        rights and demonstrates an inexplicable disregard for the benefits that 
-        such membership could bring to the state of health not only in Taiwan, 
-        but also regionally and globally: Now, therefore, be it
     Resolved by the Senate and House of Representatives of the United 
-States of America in Congress assembled, That it is the sense of the 
-Congress that--
-            (1) Taiwan and its 21,000,000 people should be represented 
-        in the World Health Organization; and
-            (2) it should be United States policy to support Taiwan's 
-        representation in the World Health Organization forthwith.
+States of America in Congress assembled   (two-thirds of each House 
+concurring therein), That the following article is proposed as an 
+amendment to the Constitution of the United States, which shall be 
+valid to all intents and purposes as part of the Constitution when 
+ratified by the legislatures of three-fourths of the several States 
+within seven years after the date of its submission for ratification:
+
+                              ``Article--
+
+    ``Section 1. No bill that increases the amount spent under an 
+entitlement program or creates a new entitlement program shall become 
+law unless the bill is approved by a two-thirds majority of each House 
+or provides that such increase or program shall terminate after not 
+more than seven years.
+    ``Section 2. No bill that increases the amount spent under an 
+entitlement program or creates a new entitlement program shall become 
+law unless the bill is spending neutral or creates a net savings to the 
+Government. After enactment, if the bill is not spending neutral or 
+does not create a net savings to the Government when averaged over the 
+previous two fiscal years, the President shall implement spending 
+reductions within the program, which Congress should prescribe, 
+sufficient to offset the actual increase in spending by the end of the 
+fiscal year so that it is either spending neutral or creates a net 
+savings to the Government.
+    ``Section 3. For purposes of this article, the term `entitlement 
+program' means a program under which the United States is obligated to 
+make such payments to any person or government who meets the 
+requirements established by that law regardless of whether the funding 
+for such program is provided for in advance by an appropriation Act.
+    ``Section 4. Congress shall have the power to enforce and implement 
+this article by appropriate legislation.''.
                                  <all>

@@ -1,21 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2700 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2700
 
-To direct the Secretary of the Interior to convey certain lands to the 
-   District of Columbia for use for single-family homes for low and 
-               moderate income individuals and families.
+ To amend title I of the Patient Protection and Affordable Care Act to 
+ provide for a process for waiver of requirements of that title where 
+   the requirement is asserted to otherwise result in a significant 
+ decrease in access to coverage or significant increase in premiums or 
+                              other costs.
 
 
 _______________________________________________________________________
@@ -23,10 +19,15 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            October 22, 1997
+                             July 16, 2013
 
-  Ms. Norton introduced the following bill; which was referred to the 
-                         Committee on Resources
+  Mr. Rogers of Michigan (for himself, Mr. McKinley, Mr. Tiberi, Mr. 
+     Cassidy, Mr. Hall, Mr. Huizenga of Michigan, and Mr. Walberg) 
+ introduced the following bill; which was referred to the Committee on 
+  Energy and Commerce, and in addition to the Committees on Ways and 
+Means and Education and the Workforce, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -34,176 +35,127 @@ _______________________________________________________________________
 
 
  
-To direct the Secretary of the Interior to convey certain lands to the 
-   District of Columbia for use for single-family homes for low and 
-               moderate income individuals and families.
+ To amend title I of the Patient Protection and Affordable Care Act to 
+ provide for a process for waiver of requirements of that title where 
+   the requirement is asserted to otherwise result in a significant 
+ decrease in access to coverage or significant increase in premiums or 
+                              other costs.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Oxon Run Parkway Land Transfer and 
-Restoration Act''.
+    This Act may be cited as the ``Health Care Waiver Fairness Act of 
+2013''.
 
+SEC. 2. PPACA WAIVER PROCESS.
 
+    (a) In General.--Title I of the Patient Protection and Affordable 
+Care Act (Public Law 111-148) is amended by adding at the end the 
+following new subtitle:
 
-SEC. 2. DEFINITIONS.
+                      ``Subtitle G--Waiver Process
 
-    For the purposes of this Act:
-            (1) The term ``ancillary facilities'' means structures that 
-        enhance and contribute to the pleasure and enjoyment of 
-        occupants and are compatible with the development of a 
-        community of single family homes for low and moderate income 
-        families.
-            (2) The term ``District'' means the District of Columbia.
-            (3) The term ``initial sale'' means the first sale of a 
-        home constructed by the District or any third party designated 
-        by the District to carry out the purposes of this Act to a 
-        person or persons qualified to purchase a home pursuant to this 
-        Act.
-            (4) The term ``low and moderate income'' means having an 
-        annual income that is less than or equal to the median annual 
-        income in the District of Columbia.
-            (5) The term ``Secretary'' means the Secretary of the 
-        Interior.
+``SEC. 1601. ESTABLISHMENT OF WAIVER PROCESS.
 
-SEC. 3. CONVEYANCE OF PROPERTY TO DISTRICT OF COLUMBIA FOR LOW AND 
-              MODERATE INCOME HOUSING USE.
+    ``(a) In General.--The applicable authorities (as defined in 
+subsection (c)) shall collectively establish a process (in this section 
+referred to as the `waiver process') under which the administrator of a 
+health plan, an employer, an individual, or other entity may seek to 
+waive the application of a requirement under this title with respect to 
+such plan, employer, individual, or entity. Among the requirements 
+under this title, such process shall apply to the following:
+            ``(1) Section 5000A of the Internal Revenue Code of 1986 
+        (relating to requirement to maintain minimum essential 
+        coverage), as inserted by section 1501(b).
+            ``(2) Section 6055 of the Internal Revenue Code of 1986 
+        (relating to reporting of health insurance coverage), as 
+        inserted by section 1502(a).
+            ``(3) Section 18A of the Fair Labor Standards Act of 1938 
+        (42 U.S.C. 218a, relating to automatic enrollment for employees 
+        of large employers), as inserted by section 1511.
+            ``(4) Section 18B of the Fair Labor Standards Act of 1938 
+        (42 U.S.C. 218b, relating to notice to employees), as inserted 
+        by section 1512.
+            ``(5) Section 4980H of the Internal Revenue Code of 1986 
+        (relating to shared responsibility for employers regarding 
+        health coverage), as inserted by section 1513(a).
+            ``(6) Section 6056 of the Internal Revenue Code of 1986 
+        (relating to certain employers required to report on health 
+        insurance coverage), as inserted by section 1514(a).
+            ``(7) Section 10108 (relating to free choice vouchers).
+            ``(8) Regulations regarding the treatment of group health 
+        plans or health insurance coverage as a grandfathered health 
+        plan (as defined in section 1251(e)).
+            ``(9) Section 2718(b) of the Public Health Service Act 
+        (relating to medical loss ratios), as inserted by section 1001.
+    ``(b) Waiver Process.--
+            ``(1) In general.--The applicable authorities shall 
+        establish the waiver process consistent with the following:
+                    ``(A) Notice and guidance.--Public notice and 
+                guidance shall be provided regarding the process for 
+                submission of waiver requests.
+                    ``(B) Standard.--A waiver request with respect to 
+                the application of a requirement to a plan, employer, 
+                individual, or entity shall be accompanied by a 
+                statement that--
+                            ``(i) identifies the specific requirement 
+                        (or requirements) to be waived; and
+                            ``(ii) describes how the imposition of each 
+                        specific requirement for which a waiver is 
+                        requested on the plan, employer, individual, or 
+                        entity would result in a significant decrease 
+                        in access to coverage or a significant increase 
+                        in premiums or other costs for such plan, 
+                        employer, individual, or entity.
+                    ``(C) Deemed approval.--A waiver request filed that 
+                is accompanied by such a statement shall be deemed to 
+                be approved.
+                    ``(D) Publication of data.--The applicable 
+                authorities shall regularly publish data regarding the 
+                waiver requests received for the different 
+                requirements.
+            ``(2) Treatment of approved waivers.--In the case of 
+        approval under the waiver process of a waiver request with 
+        respect to a requirement of this title and an entity, 
+        notwithstanding any other provision of law, such requirement 
+        shall not apply to such entity on and after the date of 
+        approval of the request.
+            ``(3) Relation to other exemptions and exceptions.--Nothing 
+        in this section shall be construed as superceding other 
+        provisions of this title insofar as they provide for 
+        exceptions, exemptions, or other special treatment with respect 
+        to requirements under this title.
+    ``(c) Applicable Authority.--In this section, the term `applicable 
+authority' means--
+            ``(1) except as otherwise provided in this subsection, the 
+        Secretary of Health and Human Services;
+            ``(2) the Secretary of Labor with respect to the provisions 
+        of this title, including amendments made by this title, that 
+        are administered by such Secretary; and
+            ``(3) the Secretary of the Treasury with respect to the 
+        provisions of this title, including amendments made by this 
+        title, that are administered by such Secretary, including 
+        sections of the Internal Revenue Code of 1986 specified in 
+        subsection (a).
+    ``(d) References to Requirements Under This Title.--In this 
+section, a reference to a requirement under this title include such a 
+requirement under an amendment made by this title, including as amended 
+by title X of this Act or by the provisions of the Health Care and 
+Education Reconciliation Act of 2010 (Public Law 111-152).
+    ``(e) Public Awareness Campaign.--Of the amounts available in the 
+Prevention and Public Health Fund established under section 4002, 
+notwithstanding any other provision of law, $50,000,000 shall be 
+available to and expended by the Secretary of Health and Human Services 
+to conduct, in coordination with other applicable authorities, a public 
+awareness campaign of the waiver process. Amounts made available under 
+this subsection shall remain available until expended.''.
+    (b) Clerical Amendment.--The table of contents of such Act is 
+amended by adding at the end of the items relating to title I the 
+following:
 
-    (a) In General.--The Secretary of the Interior shall, 
-notwithstanding any other provision of law, convey, not later than six 
-months after the date of enactment of this Act, to the District of 
-Columbia by quitclaim deed without consideration, all right, title, and 
-interest of the United States in and to the property described in 
-section 4 of this Act, subject to the condition that it be developed 
-into a community of single-family houses with ancillary facilities for 
-low and moderate income individuals and families and for recreational 
-facilities.
-    (b) Condition of Property.--No later than the time of the 
-conveyance, the Secretary shall disclose to the District all existing 
-information of the Secretary regarding the condition of the property 
-and its former uses. Nothing in this subsection is to be construed to 
-authorize the Secretary to conduct additional studies or assessments, 
-or develop additional information on the property.
+                      ``Subtitle G--Waiver Process
 
-SEC. 4. PROPERTY DESCRIBED.
-
-    The property referred to in section 3 is a portion of the land in 
-the District of Columbia that was formerly known as United States 
-Reservation 501, and as depicted on NCR map numbered 69-501-87, and is 
-bordered--
-            (1) on the northeast, by south Capital Street and privately 
-        owned property;
-            (2) on the west, by a line located approximately 20 feet 
-        east of the eastern edge of Oxon Run Parkway; and
-            (3) on the southeast, by the boundary between Maryland and 
-        the District of Columbia;
-consisting of approximately 25 acres.
-
-SEC. 5. EFFECT OF PROPERTY CONVEYANCE.
-
-    Upon the conveyance of the property to the District pursuant to 
-this Act--
-            (1) the transfer of jurisdiction from the National Park 
-        Service to the District dated August 2, 1971 shall become null 
-        and void and of no further force and effect;
-            (2) the property shall no longer be considered to be part 
-        of Oxon Run Park and shall not be considered to be within the 
-        park system of the District;
-            (3) the property shall cease to be a reservation, park, or 
-        public grounds of the United States for the purposes of the Act 
-        of August 24, 1912 (ch. 355, 37 Stat. 444; 40 U.S.C. 68; 8-128 
-        D.C. Code); and
-            (4) liability for the existing condition of the property 
-        and for any necessary remediation and restoration actions lies 
-        with the District, notwithstanding applicable law.
-
-SEC. 6. INSPECTION AND TREATMENT OF CONVEYED PROPERTY.
-
-    Following conveyance of the property as provided for in section 
-3(a) of this Act, the District shall take all actions necessary to 
-ensure that the property is suitable for use pursuant to this Act. The 
-costs of all such inspections, analyses, environmental restoration, 
-waste management, and environmental compliance activities are to be 
-borne by the District.
-
-SEC. 7. RECONVEYANCE OF PROPERTY TO THE UNITED STATES BY THE DISTRICT.
-
-    Within 6 months of the conveyance described in section 3(a) of this 
-Act, the District may reconvey to the United States without 
-consideration, all right, title and interest in and to the property 
-described in section 4, if it determines pursuant to section 6 of this 
-Act, that it cannot use the property for the purposes of this Act. The 
-costs incurred for such reconveyance shall be borne by the District. 
-Any and all claims and judgments arising during the period prior to 
-such reconveyance shall remain the responsibility of the District. This 
-reconveyance shall not be considered an admission of liability for any 
-purpose and does not give rise to a civil action for judicial review 
-until any and all remediation and restoration actions are completed.
-
-SEC. 8. REVERSIONARY INTEREST.
-
-    (a) Use of Property.--The conveyance under section 3(a) shall be 
-subject to the condition that the property only be developed into a 
-community of single-family houses with ancillary facilities for low and 
-moderate income individuals and families, and recreational facilities. 
-Title in the property conveyed under section 1(a), or a portion 
-thereof, shall revert to the United States 90 days after the date on 
-which the Secretary provides written notice and opportunity to comment 
-to the owner and to the Mayor of the District of Columbia that one of 
-the following has occurred--
-            (1) Failure to commence construction of single family 
-        houses and ancillary facilities thereto, or recreational 
-        facilities, within four years after title has been conveyed 
-        pursuant to section 3(a).
-            (2) Failure to complete construction of single family 
-        houses and ancillary facilities thereto, or recreational 
-        facilities, within 3 years after commencement of construction.
-            (3) Placement of improvements other than those authorized 
-        by this Act.
-            (4) The initial sale of a house constructed pursuant to 
-        this Act to a person or persons whose income collectively 
-        exceed the median annual income in the District of Columbia at 
-        the time of the initial sale.
-The Secretary shall determine whether a reversion is for all of the 
-property conveyed in section 3(a) of this Act, or for a portion 
-thereof. Any such reversion shall not include any portion of the 
-property on which single family houses and ancillary facilities for low 
-and moderate income individuals and families have been constructed and 
-are ready for sale or have been previously subject to an initial sale 
-to a low or moderate income individual or family. The Secretary shall 
-consult with the Mayor of the District of Columbia prior to any 
-determination that any property conveyed to the District under this Act 
-or a portion thereof is subject to reversion to the United States.
-    (b) Extension.--The periods referred to in this section shall be 
-extended during--
-            (1) the pendency of any lawsuit which seeks to enjoin the 
-        use of this property pursuant to this Act and any actions 
-        related thereto; or
-            (2) the time in which the District is performing any 
-        environmental restoration, waste management, and environmental 
-        compliance activities that under applicable law are required 
-        prior to the development of the property pursuant to this Act.
-    (c) Effect of Reversion.--Following any reversion to the United 
-States, any and all claims and judgments arising during the period 
-prior to such reversion shall remain the responsibility of the owner of 
-the reverting portion of the property immediately prior to reversion, 
-and any reversion shall extinguish any and all leases, rights or 
-privileges to use the portion of the property which reverts.
-
-SEC. 9. SAVINGS PROVISIONS.
-
-    No provision of this Act shall be construed--
-            (1) as an express or implied endorsement or approval by the 
-        Congress of any development or operation of this property;
-            (2) to exempt the District, after the conveyance, from 
-        compliance with the laws of the United States and the District, 
-        including laws relating to the environment, health, and safety 
-        in the development or operation of this property;
-            (3) to prevent additional conditions on the development or 
-        operation of the property; or
-            (4) to exempt the United States from compliance with 
-        applicable laws relating to the environment, health, and 
-        safety, except for with regard to this Act.
+``Sec. 1601. Establishment of waiver process.''.
                                  <all>

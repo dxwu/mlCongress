@@ -1,211 +1,142 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1613 Introduced in House (IH)]
+[H.R. 1613 Referred in Senate (RFS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1613
 
- To amend title 5, United States Code, to provide that if a Member of 
- Congress is convicted of a felony, such Member shall not be eligible 
-for retirement benefits based on that individual's service as a Member, 
-                        and for other purposes.
-
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                              May 14, 1997
+                              July 8, 2013
 
-Mr. Riggs (for himself, Mr. Dickey, Mr. Goss, Mr. Ensign, Mr. Baldacci, 
-   Mr. Ramstad, Mr. Shays, Mr. Hayworth, Mrs. Kelly, Mr. Coburn, Mr. 
-Christensen, Mr. Barrett of Nebraska, Mr. Bereuter, Mr. Greenwood, Mr. 
-Camp, Mr. McCollum, Ms. Rivers, Mr. LoBiondo, Mrs. Myrick, Mr. Ganske, 
-Mr. Deal of Georgia, Mr. Collins, Mr. Porter, Mr. McKeon, Mr. Weldon of 
-Florida, Mr. Fox of Pennsylvania, Mr. Kolbe, Mr. Minge, Mr. Barrett of 
-Wisconsin, Mr. Watts of Oklahoma, Mr. McHale, Mr. Pomeroy, Mr. Bliley, 
-Mr. Metcalf, Mr. Canady of Florida, Mr. Miller of Florida, Mr. Souder, 
-      Mr. Buyer, Mr. Jones, Mr. Horn, Ms. Lofgren, Mr. English of 
-  Pennsylvania, Mr. Watkins, Mr. Hoekstra, Mr. Davis of Virginia, Mr. 
- Coble, Mr. Scarborough, Mr. Sensenbrenner, and Mr. Lucas of Oklahoma) 
- introduced the following bill; which was referred to the Committee on 
-House Oversight, and in addition to the Committee on Government Reform 
-   and Oversight, for a period to be subsequently determined by the 
-  Speaker, in each case for consideration of such provisions as fall 
-           within the jurisdiction of the committee concerned
+   Received; read twice and referred to the Committee on Energy and 
+                           Natural Resources
 
 _______________________________________________________________________
 
-                                 A BILL
+                                 AN ACT
 
 
  
- To amend title 5, United States Code, to provide that if a Member of 
- Congress is convicted of a felony, such Member shall not be eligible 
-for retirement benefits based on that individual's service as a Member, 
-                        and for other purposes.
+   To amend the Outer Continental Shelf Lands Act to provide for the 
+ proper Federal management and oversight of transboundary hydrocarbon 
+                  reservoirs, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Congressional Pension Forfeiture Act 
-of 1997''.
+    This Act may be cited as the ``Outer Continental Shelf 
+Transboundary Hydrocarbon Agreements Authorization Act''.
 
-SEC. 2. FINDINGS.
+      TITLE I--AMENDMENT TO THE OUTER CONTINENTAL SHELF LANDS ACT
 
-    The Congress finds that--
-            (1) Members of Congress pledge to uphold the Constitution 
-        and the laws of the United States;
-            (2) Members of Congress are elected to serve in the public 
-        trust and pledge to uphold the public trust;
-            (3) a breach of the public trust by a Member of Congress is 
-        a serious offense that should have serious consequences; and
-            (4) taxpayers should not pay for the retirement benefits of 
-        Members of Congress who have breached the public trust.
+SEC. 101. AMENDMENT TO THE OUTER CONTINENTAL SHELF LANDS ACT.
 
-SEC. 3. FORFEITURE.
+    The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is 
+amended by adding at the end the following:
 
-    (a) Civil Service Retirement System.--Section 8332 of title 5, 
-United States Code, is amended by adding at the end the following:
-    ``(o)(1) Notwithstanding any other provision of this subchapter, 
-the service of an individual convicted of an offense described in 
-paragraph (2) shall not, if or to the extent rendered as a Member 
-(irrespective of when rendered), be taken into account for purposes of 
-this subchapter. Any such individual (or other person determined under 
-section 8342(c), if applicable) shall be entitled to be paid so much of 
-such individual's lump-sum credit as is attributable to service to 
-which the preceding sentence applies.
-    ``(2)(A) An offense described in this paragraph is any offense 
-described in subparagraph (B) for which the following apply:
-            ``(i) The offense is committed by the individual (referred 
-        to in paragraph (1)) while a Member.
-            ``(ii) The conduct on which the offense is based is 
-        directly related to the individual's service as a Member.
-            ``(iii) The offense is committed during the One Hundred 
-        Sixth Congress or later.
-    ``(B) The offenses described in this subparagraph are as follows:
-            ``(i) An offense within the purview of--
-                    ``(I) section 201 of title 18 (bribery of public 
-                officials and witnesses);
-                    ``(II) section 203 of title 18 (compensation to 
-                Members of Congress, officers, and others in matters 
-                affecting the Government);
-                    ``(III) section 204 of title 18 (practice in United 
-                States Court of Federal Claims or the United States 
-                Court of Appeals for the Federal Circuit by Members of 
-                Congress);
-                    ``(IV) section 219 of title 18 (officers and 
-                employees acting as agents of foreign principals);
-                    ``(V) section 286 of title 18 (conspiracy to 
-                defraud the Government with respect to claims);
-                    ``(VI) section 287 of title 18 (false, fictitious, 
-                or fraudulent claims);
-                    ``(VII) section 371 of title 18 (conspiracy to 
-                commit offense or to defraud the United States);
-                    ``(VIII) section 597 of title 18 (expenditures to 
-                influence voting);
-                    ``(IX) section 599 of title 18 (promise of 
-                appointment by candidate);
-                    ``(X) section 602 of title 18 (solicitation of 
-                political contributions);
-                    ``(XI) section 606 of title 18 (intimidation to 
-                secure political contributions);
-                    ``(XII) section 607 of title 18 (place of 
-                solicitation);
-                    ``(XIII) section 641 of title 18 (public money, 
-                property or records);
-                    ``(XIV) section 1001 of title 18 (statements or 
-                entries generally);
-                    ``(XV) section 1341 of title 18 (frauds and 
-                swindles);
-                    ``(XVI) section 1343 of title 18 (fraud by wire, 
-                radio, or television);
-                    ``(XVII) section 1503 of title 18 (influencing or 
-                injuring officer or juror);
-                    ``(XVIII) section 1951 of title 18 (interference 
-                with commerce by threats or violence);
-                    ``(XIX) section 1952 of title 18 (interstate and 
-                foreign travel or transportation in aid of racketeering 
-                enterprises);
-                    ``(XX) section 1962 of title 18 (prohibited 
-                activities); or
-                    ``(XXI) section 7201 of the Internal Revenue Code 
-                of 1986 (attempt to evade or defeat tax).
-            ``(ii) Perjury committed under the statutes of the United 
-        States in falsely denying the commission of an act which 
-        constitutes an offense within the purview of a statute named by 
-        clause (i).
-            ``(iii) Subornation of perjury committed in connection with 
-        the false denial of another individual as specified by clause 
-        (ii).
-    ``(3) An individual convicted of an offense described in paragraph 
-(2) shall not, after the date of the conviction, be eligible to 
-participate in the retirement system under this subchapter while 
-serving as a Member.
-    ``(4) Except as provided in paragraph (5), the Office shall 
-prescribe such regulations as may be necessary to carry out this 
-subsection, including provisions under which interest on any lump-sum 
-payment under the second sentence of paragraph (1) shall be limited in 
-a manner similar to that specified in the last sentence of section 
-8316(b).
-    ``(5) The Executive Director (within the meaning of section 
-8401(13)) shall prescribe such regulations as may be necessary to carry 
-out the purposes of this subsection with respect to the Thrift Savings 
-Plan. Regulations under this paragraph shall include provisions 
-requiring the return of all vested amounts.
-    ``(6) Nothing in this subsection shall restrict any authority under 
-subchapter II or any other provision of law to deny or withhold 
-benefits authorized by statute.
-    ``(7) For purposes of this subsection, the term `Member' has the 
-meaning given such term by section 2106, notwithstanding section 
-8331(2).''.
-    (b) Federal Employees' Retirement System.--Section 8411 of title 5, 
-United States Code, is amended by adding at the end the following:
-    ``(i)(1) Notwithstanding any other provision of this chapter, the 
-service of an individual convicted of an offense described in paragraph 
-(2) shall not, if or to the extent rendered as a Member (irrespective 
-of when rendered), be taken into account for purposes of this chapter. 
-Any such individual (or other person determined under section 8424(d), 
-if applicable) shall be entitled to be paid so much of such 
-individual's lump-sum credit as is attributable to service to which the 
-preceding sentence applies.
-    ``(2) An offense described in this paragraph is any offense 
-described in section 8332(o)(2)(B) for which the following apply:
-            ``(A) The offense is committed by the individual (referred 
-        to in paragraph (1)) while a Member.
-            ``(B) The conduct on which the offense is based is directly 
-        related to the individual's service as a Member.
-            ``(C) The offense is committed during the One Hundred Sixth 
-        Congress or later.
-    ``(3) An individual convicted of an offense described in paragraph 
-(2) shall not, after the date of the conviction, be eligible to 
-participate in the retirement system under this chapter while serving 
-as a Member.
-    ``(4) Except as provided in paragraph (5), the Office shall 
-prescribe such regulations as may be necessary to carry out this 
-subsection, including provisions under which interest on any lump-sum 
-payment under the second sentence of paragraph (1) shall be limited in 
-a manner similar to that specified in the last sentence of section 
-8316(b).
-    ``(5) The Executive Director shall prescribe such regulations as 
-may be necessary to carry out the purposes of this subsection with 
-respect to the Thrift Savings Plan. Regulations under this paragraph 
-shall include provisions requiring the return of all vested amounts.
-    ``(6) Nothing in this subsection shall restrict any authority under 
-subchapter II of chapter 83 or any other provision of law to deny or 
-withhold benefits authorized by statute.
-    ``(7) For purposes of this subsection, the term `Member' has the 
-meaning given such term by section 2106, notwithstanding section 
-8401(20).''.
-                                 <all>
+``SEC. 32. TRANSBOUNDARY HYDROCARBON AGREEMENTS.
+
+    ``(a) Authorization.--After the date of enactment of the Outer 
+Continental Shelf Transboundary Hydrocarbon Agreements Authorization 
+Act, the Secretary may implement the terms of any transboundary 
+hydrocarbon agreement for the management of transboundary hydrocarbon 
+reservoirs entered into by the President and approved by Congress. In 
+implementing such an agreement, the Secretary shall protect the 
+interests of the United States to promote domestic job creation and 
+ensure the expeditious and orderly development and conservation of 
+domestic mineral resources in accordance with all applicable United 
+States laws governing the exploration, development, and production of 
+hydrocarbon resources on the outer Continental Shelf.
+    ``(b) Submission to Congress.--
+            ``(1) In general.--No later than 180 days after all parties 
+        to a transboundary hydrocarbon agreement have agreed to its 
+        terms, a transboundary hydrocarbon agreement that does not 
+        constitute a treaty in the judgment of the President shall be 
+        submitted by the Secretary to--
+                    ``(A) the Speaker of the House of Representatives;
+                    ``(B) the Majority Leader of the Senate;
+                    ``(C) the Chair of the Committee on Natural 
+                Resources of the House of Representatives; and
+                    ``(D) the Chair of the Committee on Energy and 
+                Natural Resources of the Senate.
+            ``(2) Contents of submission.--The submission shall 
+        include--
+                    ``(A) any amendments to this Act or other Federal 
+                law necessary to implement the agreement;
+                    ``(B) an analysis of the economic impacts such an 
+                agreement and any amendments necessitated by the 
+                agreement will have on domestic exploration, 
+                development, and production of hydrocarbon resources on 
+                the outer Continental Shelf; and
+                    ``(C) a detailed description of any regulations 
+                expected to be issued by the Secretary to implement the 
+                agreement.
+    ``(c) Implementation of Specific Transboundary Agreement With 
+Mexico.--The Secretary may take actions as necessary to implement the 
+terms of the Agreement between the United States of America and the 
+United Mexican States Concerning Transboundary Hydrocarbon Reservoirs 
+in the Gulf of Mexico, signed at Los Cabos, February 20, 2012, 
+including--
+            ``(1) approving unitization agreements and related 
+        arrangements for the exploration, development, or production of 
+        oil and natural gas from transboundary reservoirs or geological 
+        structures;
+            ``(2) making available, in the limited manner necessary 
+        under the agreement and subject to the protections of 
+        confidentiality provided by the agreement, information relating 
+        to the exploration, development, and production of oil and 
+        natural gas from a transboundary reservoir or geological 
+        structure that may be considered confidential, privileged, or 
+        proprietary information under law;
+            ``(3) taking actions consistent with an expert 
+        determination under the agreement; and
+            ``(4) ensuring only appropriate inspection staff at the 
+        Bureau of Safety and Environmental Enforcement or other Federal 
+        agency personnel designated by the Bureau, the operator, or the 
+        lessee have authority to stop work on any installation or other 
+        device or vessel permanently or temporarily attached to the 
+        seabed of the United States, which may be erected thereon for 
+        the purpose of resource exploration, development or production 
+        activities as approved by the Secretary.
+    ``(d) Exemption From Resources Extraction Reporting Requirement.--
+Actions taken by a public company in accordance with any transboundary 
+hydrocarbon agreement shall not constitute the commercial development 
+of oil, natural gas, or minerals for purposes of section 13(q) of the 
+Securities Exchange Act of 1934 (157 U.S.C. 78m(q)).
+    ``(e) Savings Provisions.--Nothing in this section shall be 
+construed--
+            ``(1) to authorize the Secretary to participate in any 
+        negotiations, conferences, or consultations with Cuba regarding 
+        exploration, development, or production of hydrocarbon 
+        resources in the Gulf of Mexico along the United States 
+        maritime border with Cuba or the area known by the Department 
+        of the Interior as the `Eastern Gap'; or
+            ``(2) as affecting the sovereign rights and the 
+        jurisdiction that the United States has under international law 
+        over the outer Continental Shelf which appertains to it.''.
+
+       TITLE II--APPROVAL OF TRANSBOUNDARY HYDROCARBON AGREEMENT
+
+SEC. 201. APPROVAL OF AGREEMENT WITH MEXICO.
+
+    The Agreement between the United States of America and the United 
+Mexican States Concerning Transboundary Hydrocarbon Reservoirs in the 
+Gulf of Mexico, signed at Los Cabos, February 20, 2012, is hereby 
+approved.
+
+            Passed the House of Representatives June 27, 2013.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

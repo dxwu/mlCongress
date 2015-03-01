@@ -1,20 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1080 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1080
 
-To study the high rate of cancer among children in Dover Township, New 
-                    Jersey, and for other purposes.
+  To amend the Sikes Act to promote the use of cooperative agreements 
+  under such Act for land management related to Department of Defense 
+  readiness activities and to amend title 10, United States Code, to 
+facilitate interagency cooperation in conservation programs to avoid or 
+        reduce adverse impacts on military readiness activities.
 
 
 _______________________________________________________________________
@@ -22,10 +19,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 13, 1997
+                             March 12, 2013
 
-  Mr. Saxton introduced the following bill; which was referred to the 
-                         Committee on Commerce
+ Ms. Bordallo introduced the following bill; which was referred to the 
+   Committee on Armed Services, and in addition to the Committee on 
+ Natural Resources, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -33,56 +33,62 @@ _______________________________________________________________________
 
 
  
-To study the high rate of cancer among children in Dover Township, New 
-                    Jersey, and for other purposes.
+  To amend the Sikes Act to promote the use of cooperative agreements 
+  under such Act for land management related to Department of Defense 
+  readiness activities and to amend title 10, United States Code, to 
+facilitate interagency cooperation in conservation programs to avoid or 
+        reduce adverse impacts on military readiness activities.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. COOPERATIVE AGREEMENTS UNDER SIKES ACT FOR LAND MANAGEMENT 
+              RELATED TO DEPARTMENT OF DEFENSE READINESS ACTIVITIES.
 
-    This Act may be cited as the ``Michael Gillick Childhood Cancer 
-Research Act''.
+    (a) Multiyear Agreements To Fund Long-Term Management.--Subsection 
+(b) of section 103A of the Sikes Act (16 U.S.C. 670c-1) is amended--
+            (1) by inserting ``(1)'' before ``Funds''; and
+            (2) by adding at the end the following new paragraph:
+    ``(2) In the case of a cooperative agreement under subsection 
+(a)(2), funds referred to in paragraph (1)--
+            ``(A) may be paid in a lump sum and include an amount 
+        intended to cover the future costs of the natural resource 
+        maintenance and improvement activities provided for under the 
+        agreement; and
+            ``(B) may be invested by the recipient in accordance with 
+        the recipient's own guidelines for the management and 
+        investment of financial assets, and any interest or income 
+        derived from such investment may be applied for the same 
+        purposes as the principal.''.
+    (b) Availability of Funds and Relation to Other Laws.--Subsection 
+(c) of such section is amended to read as follows:
+    ``(c) Availability of Funds and Relation to Other Laws.--(1) 
+Cooperative agreements and interagency agreements entered into under 
+this section shall be subject to the availability of funds.
+    ``(2) Notwithstanding chapter 63 of title 31, United States Code, a 
+cooperative agreement under this section may be used to acquire 
+property or services for the direct benefit or use of the United States 
+Government.''.
 
-SEC. 2. FINDINGS.
+SEC. 2. FACILITATION OF INTERAGENCY COOPERATION IN CONSERVATION 
+              PROGRAMS OF THE DEPARTMENTS OF DEFENSE, AGRICULTURE, AND 
+              INTERIOR TO AVOID OR REDUCE ADVERSE IMPACTS ON MILITARY 
+              READINESS ACTIVITIES.
 
-    Congress finds that--
-            (1) during the period from 1980 to 1988, Ocean County, New 
-        Jersey, had a significantly higher rate of childhood cancer 
-        than the rest of the United States, including a rate of brain 
-        and central nervous system cancer that was nearly 70 percent 
-        above the rate of other States;
-            (2) during the period from 1979 to 1991--
-                    (A) there were 230 cases of childhood cancer in 
-                Ocean County, of which 56 cases were in Dover Township, 
-                and of those 14 were in Toms River alone;
-                    (B) the rate of brain and central nervous system 
-                cancer of children under 20 in Toms River was 3 times 
-                higher than expected, and among children under 5 was 7 
-                times higher than expected; and
-                    (C) Dover Township, which would have had a nearly 
-                normal cancer rate if Toms River was excluded, had a 49 
-                percent higher cancer rate than the rest of the State 
-                and an 80 percent higher leukemia rate than the rest of 
-                the State; and
-            (3)(A) according to New Jersey State averages, a population 
-        the size of Toms River should have 1.6 children under age 19 
-        with cancer; and
-            (B) Toms River currently has 5 children under the age of 19 
-        with cancer.
-
-SEC. 3. STUDY.
-
-    (a) In General.--The Administrator of the Agency for Toxic 
-Substances and Disease Registry shall conduct dose-reconstruction 
-modeling and an epidemiological study of childhood cancer in Dover 
-Township, New Jersey.
-    (b) Grant to New Jersey.--The Administrator may make 1 or more 
-grants to the State of New Jersey to carry out subsection (a).
-
-SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
-
-    There are authorized to be appropriated to carry out this Act--
-            (1) $1,000,000 for fiscal year 1998; and
-            (2) $2,000,000 for each of fiscal years 1999 and 2000.
+    Section 2684a of title 10, United States Code, is amended--
+            (1) by redesignating subsections (h) and (i) as subsections 
+        (i) and (j); and
+            (2) by inserting after subsection (g) the following new 
+        subsection (h):
+    ``(h) Interagency Cooperation in Conservation Programs To Avoid or 
+Reduce Adverse Impacts on Military Readiness Activities.--In order to 
+facilitate interagency cooperation and enhance the effectiveness of 
+actions that will protect both the environment and military readiness, 
+the recipient of funds provided pursuant an agreement under this 
+section or under the Sikes Act (16 U.S.C. et seq.) may, with regard to 
+the lands and waters within the scope of the agreement, use such funds 
+to satisfy any matching funds or cost-sharing requirement of any 
+conservation program of the Department of Agriculture or the Department 
+of the Interior notwithstanding any limitation of such program on the 
+source of matching or cost-sharing funds.''.
                                  <all>

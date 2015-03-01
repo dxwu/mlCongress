@@ -1,20 +1,18 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 953 Introduced in Senate (IS)]
+[S. 953 Placed on Calendar Senate (PCS)]
 
-
-
-
-
-
-
-105th CONGRESS
+                                                        Calendar No. 74
+113th CONGRESS
   1st Session
                                  S. 953
 
-  To require certain Federal agencies to protect the right of private 
-                property owners, and for other purposes.
+    To amend the Higher Education Act of 1965 to extend the reduced 
+   interest rate for undergraduate Federal Direct Stafford Loans, to 
+modify required distribution rules for pension plans, to limit earnings 
+stripping by expatriated entities, to provide for modifications related 
+     to the Oil Spill Liability Trust Fund, and for other purposes.
 
 
 _______________________________________________________________________
@@ -22,11 +20,17 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             June 24, 1997
+                              May 14, 2013
 
-Mr. Shelby (for himself Mr. Nickles, and Mrs. Hutchison) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                          Governmental Affairs
+     Mr. Reed (for himself, Mr. Harkin, Mr. Reid, Mrs. Murray, Mr. 
+  Rockefeller, Ms. Baldwin, Mr. Schumer, Mr. Franken, Mr. Brown, Mr. 
+Murphy, Mr. Durbin, Mrs. Gillibrand, Ms. Stabenow, Mr. Lautenberg, Mr. 
+  Whitehouse, Mr. Kaine, Ms. Warren, and Mr. Johnson of South Dakota) 
+      introduced the following bill; which was read the first time
+
+                              May 15, 2013
+
+            Read the second time and placed on the calendar
 
 _______________________________________________________________________
 
@@ -34,368 +38,319 @@ _______________________________________________________________________
 
 
  
-  To require certain Federal agencies to protect the right of private 
-                property owners, and for other purposes.
+    To amend the Higher Education Act of 1965 to extend the reduced 
+   interest rate for undergraduate Federal Direct Stafford Loans, to 
+modify required distribution rules for pension plans, to limit earnings 
+stripping by expatriated entities, to provide for modifications related 
+     to the Oil Spill Liability Trust Fund, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Private Property Owners' Bill of 
-Rights''.
+    This Act may be cited as the ``Student Loan Affordability Act''.
 
-SEC. 2. FINDINGS AND PURPOSE.
+SEC. 2. INTEREST RATE EXTENSION.
 
-    (a) Findings.--Congress finds the following:
-            (1) Our democracy was founded on principles of ownership, 
-        use, and control of private property. These principles are 
-        embodied in the fifth amendment to the Constitution, which 
-        prohibits the taking of private property without the payment of 
-        just compensation.
-            (2) A number of Federal environmental programs, 
-        specifically the Endangered Species Act of 1973 (16 U.S.C. 1531 
-        et seq.) and section 404 of the Federal Water Pollution Control 
-        Act (33 U.S.C. 1344), have been implemented by employees, 
-        agents, and representatives of the Federal Government in a 
-        manner that deprives private property owners of the use and 
-        control of their property.
-            (3) As new Federal programs are proposed that would limit 
-        and restrict the use of private property to provide habitat for 
-        plant and animal species, the rights of private property owners 
-        must be recognized and respected.
-            (4) Private property owners are being forced by Federal 
-        policy to resort to extensive, lengthy, and expensive 
-        litigation to protect certain basic civil rights guaranteed by 
-        the Constitution.
-            (5) Since many private property owners do not have the 
-        financial resources or the extensive commitment of time to 
-        proceed in litigation against the Federal Government, a clear 
-        Federal policy is needed to guide and direct Federal agencies 
-        with respect to the implementation by the agencies of 
-        environmental laws that directly impact private property.
-            (6) While all private property owners should and must abide 
-        by nuisance laws and should not use their property in a manner 
-        that harms their neighbors, these laws have traditionally been 
-        enacted, implemented, and enforced at the State and local 
-        levels where the laws are best able to protect the rights of 
-        all private property owners and local citizens.
-            (7) While traditional pollution control laws are intended 
-        to protect the health and physical welfare of the general 
-        public, habitat protection programs in effect on the date of 
-        enactment of this Act are intended to protect the welfare of 
-        plant and animal species, while allowing recreational and 
-        aesthetic opportunities for the public.
-    (b) Purpose.--The purpose of this Act is to provide a consistent 
-Federal policy to--
-            (1) encourage, support, and promote the private ownership 
-        of property; and
-            (2) ensure that the constitutional and legal rights of 
-        private property owners are protected by the Federal Government 
-        and employees, agents, and representatives of the Federal 
-        Government.
+    Section 455(b)(7)(D) of the Higher Education Act of 1965 (20 U.S.C. 
+1087e(b)(7)(D)) is amended--
+            (1) in the matter preceding clause (i), by striking ``and 
+        before July 1, 2013,'' and inserting ``and before July 1, 
+        2015,''; and
+            (2) in clause (v), by striking ``and before July 1, 2013,'' 
+        and inserting ``and before July 1, 2015,''.
 
-SEC. 3. DEFINITIONS.
+SEC. 3. MODIFICATIONS OF REQUIRED DISTRIBUTION RULES FOR PENSION PLANS.
 
-    In this Act:
-            (1) Agency head.--The term ``agency head'' means the 
-        Secretary or Administrator with jurisdiction or authority to 
-        take a final agency action under 1 or more of the applicable 
-        provisions of law.
-            (2) Applicable provisions of law.--The term ``applicable 
-        provisions of law'' means the Endangered Species Act of 1973 
-        (16 U.S.C. 1531 et seq.) and section 404 of the Federal Water 
-        Pollution Control Act (33 U.S.C. 1344).
-            (3) Non-federal person.--The term ``non-Federal person'' 
-        means a person other than an officer, employee, agent, 
-        department, or instrumentality of--
-                    (A) the Federal Government; or
-                    (B) a foreign government.
-            (4) Private property owner.--The term ``private property 
-        owner'' means a non-Federal person (other than an officer, 
-        employee, agent, department, or instrumentality of a State, 
-        municipality, or political subdivision of a State, or a State, 
-        municipality, or political subdivision of a State) that--
-                    (A) owns property referred to in subparagraph (A) 
-                or (B) of paragraph (5); or
-                    (B) holds property referred to in paragraph (5)(C).
-            (5) Property.--The term ``property'' means--
-                    (A) land;
-                    (B) any interest in land; and
-                    (C) any proprietary water right.
-            (6) Qualified agency action.--The term ``qualified agency 
-        action'' means an agency action (as defined in section 551(13) 
-        of title 5, United States Code) that is taken under 1 or more 
-        of the applicable provisions of law.
+    (a) In General.--Section 401(a)(9)(B) of the Internal Revenue Code 
+of 1986 is amended to read as follows:
+                    ``(B) Required distributions where employee dies 
+                before entire interest is distributed.--
+                            ``(i) 5-year general rule.--A trust shall 
+                        not constitute a qualified trust under this 
+                        section unless the plan provides that, if an 
+                        employee dies before the distribution of the 
+                        employee's interest (whether or not such 
+                        distribution has begun in accordance with 
+                        subparagraph (A)), the entire interest of the 
+                        employee will be distributed within 5 years 
+                        after the death of such employee.
+                            ``(ii) Exception for eligible designated 
+                        beneficiaries.--If--
+                                    ``(I) any portion of the employee's 
+                                interest is payable to (or for the 
+                                benefit of) an eligible designated 
+                                beneficiary,
+                                    ``(II) such portion will be 
+                                distributed (in accordance with 
+                                regulations) over the life of such 
+                                eligible designated beneficiary (or 
+                                over a period not extending beyond the 
+                                life expectancy of such beneficiary), 
+                                and
+                                    ``(III) such distributions begin 
+                                not later than 1 year after the date of 
+                                the employee's death or such later date 
+                                as the Secretary may by regulations 
+                                prescribe,
+                        then, for purposes of clause (i) and except as 
+                        provided in clause (iv) or subparagraph 
+                        (E)(iii), the portion referred to in subclause 
+                        (I) shall be treated as distributed on the date 
+                        on which such distributions begin.
+                            ``(iii) Special rule for surviving spouse 
+                        of employee.--If the eligible designated 
+                        beneficiary referred to in clause (ii)(I) is 
+                        the surviving spouse of the employee--
+                                    ``(I) the date on which the 
+                                distributions are required to begin 
+                                under clause (ii)(III) shall not be 
+                                earlier than the date on which the 
+                                employee would have attained age 70\1/
+                                2\, and
+                                    ``(II) if the surviving spouse dies 
+                                before the distributions to such spouse 
+                                begin, this subparagraph shall be 
+                                applied as if the surviving spouse were 
+                                the employee.
+                            ``(iv) Rules upon death of eligible 
+                        designated beneficiary.--If an eligible 
+                        designated beneficiary dies before the portion 
+                        of an employee's interest described in clause 
+                        (ii) is entirely distributed, clause (ii) shall 
+                        not apply to any beneficiary of such eligible 
+                        designated beneficiary and the remainder of 
+                        such portion shall be distributed within 5 
+                        years after the death of such beneficiary.''.
+    (b) Definition of Eligible Designated Beneficiary.--Section 
+401(a)(9)(E) of the Internal Revenue Code of 1986 is amended to read as 
+follows:
+                    ``(E) Definitions and rules relating to designated 
+                beneficiary.--For purposes of this paragraph--
+                            ``(i) Designated beneficiary.--The term 
+                        `designated beneficiary' means any individual 
+                        designated as a beneficiary by the employee.
+                            ``(ii) Eligible designated beneficiary.--
+                        The term `eligible designated beneficiary' 
+                        means, with respect to any employee, any 
+                        designated beneficiary who, as of the date of 
+                        death of the employee, is--
+                                    ``(I) the surviving spouse of the 
+                                employee,
+                                    ``(II) subject to clause (iii), a 
+                                child of the employee who has not 
+                                reached majority (within the meaning of 
+                                subparagraph (F)),
+                                    ``(III) disabled (within the 
+                                meaning of section 72(m)(7)),
+                                    ``(IV) a chronically ill individual 
+                                (within the meaning of section 
+                                7702B(c)(2), except that the 
+                                requirements of subparagraph (A)(i) 
+                                thereof shall only be treated as met if 
+                                there is a certification that, as of 
+                                such date, the period of inability 
+                                described in such subparagraph with 
+                                respect to the individual is an 
+                                indefinite one that is reasonably 
+                                expected to be lengthy in nature), or
+                                    ``(V) an individual not described 
+                                in any of the preceding subparagraphs 
+                                who is not more than 10 years younger 
+                                than the employee.
+                            ``(iii) Special rule for children.--Subject 
+                        to subparagraph (F), an individual described in 
+                        clause (ii)(II) shall cease to be an eligible 
+                        designated beneficiary as of the date the 
+                        individual reaches majority and the requirement 
+                        of subparagraph (B)(i) shall not be treated as 
+                        met with respect to any remaining portion of an 
+                        employee's interest payable to the individual 
+                        unless such portion is distributed within 5 
+                        years after such date.''.
+    (c) Required Beginning Date.--Section 401(a)(9)(C) of the Internal 
+Revenue Code of 1986 is amended by adding at the end the following new 
+clause:
+                            ``(v) Employees becoming 5-percent owners 
+                        after age 70\1/2\.--If an employee becomes a 5-
+                        percent owner (as defined in section 416) with 
+                        respect to a plan year ending in a calendar 
+                        year after the calendar year in which the 
+                        employee attains age 70\1/2\, then clause 
+                        (i)(II) shall be applied by substituting the 
+                        calendar year in which the employee became such 
+                        an owner for the calendar year in which the 
+                        employee retires.''.
+    (d) Effective Dates.--
+            (1) In general.--Except as provided in this subsection, the 
+        amendments made by this section shall apply to distributions 
+        with respect to employees who die after December 31, 2013.
+            (2) Required beginning date.--
+                    (A) In general.--The amendment made by subsection 
+                (c) shall apply to employees becoming a 5-percent owner 
+                with respect to plan years ending in calendar years 
+                beginning before, on, or after the date of the 
+                enactment of this Act.
+                    (B) Special rule.--If--
+                            (i) an employee became a 5-percent owner 
+                        with respect to a plan year ending in a 
+                        calendar year which began before January 1, 
+                        2013, and
+                            (ii) the employee has not retired before 
+                        calendar year 2014,
+                such employee shall be treated as having become a 5-
+                percent owner with respect to a plan year ending in 
+                2013 for purposes of applying section 401(a)(9)(C)(v) 
+                of the Internal Revenue Code of 1986 (as added by the 
+                amendment made by subsection (c)).
+            (3) Exception for certain beneficiaries.--If a designated 
+        beneficiary of an employee who dies before January 1, 2014, 
+        dies after December 31, 2013--
+                    (A) the amendments made by this section shall apply 
+                to any beneficiary of such designated beneficiary, and
+                    (B) the designated beneficiary shall be treated as 
+                an eligible designated beneficiary for purposes of 
+                applying section 401(a)(9)(B)(iv) of such Code (as in 
+                effect after the amendments made by this section).
+            (4) Exception for certain existing annuity contracts.--
+                    (A) In general.--The amendments made by this 
+                section shall not apply to a qualified annuity which is 
+                a binding annuity contract in effect on the date of the 
+                enactment of this Act and at all times thereafter.
+                    (B) Qualified annuity contract.--For purposes of 
+                this paragraph, the term ``qualified annuity'' means, 
+                with respect to an employee, an annuity--
+                            (i) which is a commercial annuity (as 
+                        defined in section 3405(e)(6) of such Code) or 
+                        payable by a defined benefit plan,
+                            (ii) under which the annuity payments are 
+                        substantially equal periodic payments (not less 
+                        frequently than annually) over the lives of 
+                        such employee and a designated beneficiary (or 
+                        over a period not extending beyond the life 
+                        expectancy of such employee or the life 
+                        expectancy of such employee and a designated 
+                        beneficiary) in accordance with the regulations 
+                        described in section 401(a)(9)(A)(ii) of such 
+                        Code (as in effect before such amendments) and 
+                        which meets the other requirements of this 
+                        section 401(a)(9) of such Code (as so in 
+                        effect) with respect to such payments, and
+                            (iii) with respect to which--
+                                    (I) annuity payments to the 
+                                employee have begun before January 1, 
+                                2014, and the employee has made an 
+                                irrevocable election before such date 
+                                as to the method and amount of the 
+                                annuity payments to the employee or any 
+                                designated beneficiaries, or
+                                    (II) if subclause (I) does not 
+                                apply, the employee has made an 
+                                irrevocable election before the date of 
+                                the enactment of this Act as to the 
+                                method and amount of the annuity 
+                                payments to the employee or any 
+                                designated beneficiaries.
 
-SEC. 4. PROTECTION OF PRIVATE PROPERTY RIGHTS.
+SEC. 4. LIMITATION ON EARNINGS STRIPPING BY EXPATRIATED ENTITIES.
 
-    (a) In General.--In implementing and enforcing the applicable 
-provisions of law, each agency head shall--
-            (1) comply with applicable State and tribal government 
-        laws, including laws relating to private property rights and 
-        privacy; and
-            (2) implement and enforce the applicable provisions of law 
-        in a manner that has the least impact on the constitutional and 
-        other legal rights of private property owners.
-    (b) Regulations.--Each agency head shall develop and implement 
-regulations for ensuring that the constitutional and other legal rights 
-of private property owners are protected in any case in which the 
-agency head makes, or participates with other agencies in the making 
-of, any final decision that restricts the use of private property.
+    (a) In General.--Subsection (j) of section 163 of the Internal 
+Revenue Code of 1986 is amended--
+            (1) by redesignating paragraph (9) as paragraph (10), and
+            (2) by inserting after paragraph (8) the following new 
+        paragraph:
+            ``(9) Special rules for expatriated entities.--
+                    ``(A) In general.--In the case of a corporation to 
+                which this subsection applies which is an expatriated 
+                entity, this subsection shall apply to such corporation 
+                with the following modifications:
+                            ``(i) Paragraph (2)(A) shall be applied 
+                        without regard to clause (ii) thereof.
+                            ``(ii) Paragraph (1)(B) shall be applied--
+                                    ``(I) without regard to the 
+                                parenthetical, and
+                                    ``(II) by substituting `in the 1st 
+                                succeeding taxable year and in the 2nd 
+                                through 10th succeeding taxable years 
+                                to the extent not previously taken into 
+                                account under this subparagraph' for 
+                                `in the succeeding taxable year'.
+                            ``(iii) Paragraph (2)(B) shall be applied--
+                                    ``(I) without regard to clauses 
+                                (ii) and (iii), and
+                                    ``(II) by substituting `25 percent 
+                                of the adjusted taxable income of the 
+                                corporation for such taxable year' for 
+                                the matter of clause (i)(II) thereof.
+                    ``(B) Expatriated entity.--For purposes of this 
+                paragraph--
+                            ``(i) In general.--With respect to a 
+                        corporation and a taxable year, the term 
+                        `expatriated entity' has the meaning given such 
+                        term by section 7874(a)(2), determined as if 
+                        such section and the regulations under such 
+                        section as in effect on the first day of such 
+                        taxable year applied to all taxable years of 
+                        the corporation beginning after July 10, 1989.
+                            ``(ii) Exception for surrogates treated as 
+                        a domestic corporation.--The term `expatriated 
+                        entity' does not include a surrogate foreign 
+                        corporation which is treated as a domestic 
+                        corporation by reason of section 7874(b).''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
 
-SEC. 5. PROPERTY OWNER CONSENT FOR ENTRY.
+SEC. 5. MODIFICATIONS RELATED TO THE OIL SPILL LIABILITY TRUST FUND.
 
-    (a) In General.--Subject to subsection (b), an agency head may not 
-enter privately owned property to collect information regarding the 
-property, unless the private property owner has--
-            (1) consented in writing to the entry;
-            (2) after providing the consent, been provided notice of 
-        the entry; and
-            (3) been notified that any raw data collected from the 
-        property must be made available to the private property owner 
-        at no cost, if requested by the private property owner.
-    (b) Entry for Consent or Notice.--Subsection (a) shall not prohibit 
-entry onto property for the purpose of obtaining consent or providing 
-notice required under subsection (a).
+    (a) Definition of Crude Oil.--Paragraph (1) of section 4612(a) of 
+the Internal Revenue Code of 1986 is amended to read as follows:
+            ``(1) Crude oil.--The term `crude oil' includes crude oil 
+        condensates, natural gasoline, any bitumen or bituminous 
+        mixture, and any oil derived from a bitumen or bituminous 
+        mixture.''.
+    (b) Removing Restrictions Relating to Oil Wells and Extraction 
+Methods.--Paragraph (2) of section 4612(a) of the Internal Revenue Code 
+of 1986 is amended by striking ``from a well located''.
+    (c) Permanent Extension of Oil Spill Liability Trust Fund Financing 
+Rate.--Section 4611(f) is amended by striking subsection (f).
+    (d) Clerical Amendment.--Subclause (I) of section 4612(e)(2)(B)(ii) 
+of the Internal Revenue Code of 1986 is amended by striking 
+``tranferred'' and inserting ``transferred''.
+    (e) Effective Date.--The amendments made by subsections (a) and (b) 
+shall apply to crude oil and petroleum products received or entered 
+during calendar quarters beginning more than 60 days after the date of 
+the enactment of this Act.
 
-SEC. 6. RIGHT TO REVIEW AND DISPUTE DATA COLLECTED FROM PRIVATE 
-              PROPERTY.
+SEC. 6. RESERVING RESULTING SURPLUSES FOR DEFICIT REDUCTION.
 
-    An agency head may not use data that is collected from privately 
-owned property to implement or enforce any of the applicable provisions 
-of law, unless the agency head has--
-            (1) provided to the private property owner--
-                    (A) access to the information;
-                    (B) a detailed description of the manner in which 
-                the information was collected; and
-                    (C) an opportunity to dispute the accuracy of the 
-                information; and
-            (2) determined that the information is accurate, if the 
-        private property owner disputes the accuracy of the information 
-        pursuant to paragraph (1)(C).
+    (a) Paygo Scorecard.--The budgetary effects of this Act shall not 
+be entered on either PAYGO scorecard maintained pursuant to section 
+4(d) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(d)).
+    (b) Senate Paygo Scorecard.--The budgetary effects of this Act 
+shall not be entered on any PAYGO scorecard maintained for purposes of 
+section 201 of S. Con. Res. 21 (110th Congress).
+                                                        Calendar No. 74
 
-SEC. 7. RIGHT TO AN ADMINISTRATIVE APPEAL OF WETLANDS DECISIONS.
+113th CONGRESS
 
-    Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 
-1344) is amended by adding at the end the following:
-    ``(u) Administrative Appeals.--
-            ``(1) In general.--The Secretary or the Administrator, 
-        after notice and opportunity for public comment, shall issue 
-        rules to establish procedures to provide private property 
-        owners, or authorized representatives of the owners, an 
-        opportunity for an administrative appeal of the following 
-        actions under this section:
-                    ``(A) A determination of regulatory jurisdiction 
-                over a particular parcel of property.
-                    ``(B) The denial of a permit.
-                    ``(C) The terms and conditions of a permit.
-                    ``(D) The imposition of an administrative penalty.
-                    ``(E) The imposition of an order requiring the 
-                private property owner to restore or otherwise alter 
-                the property.
-            ``(2) Decision.--The rules issued under paragraph (1) shall 
-        provide that any administrative appeal of an action described 
-        in paragraph (1) shall be heard and decided by an official 
-        other than the official who took the action, and shall be 
-        conducted at a location that is in the vicinity of the property 
-        involved in the action.
-            ``(3) Definitions.--In this subsection:
-                    ``(A) Non-federal person.--The term `non-Federal 
-                person' means a person other than an officer, employee, 
-                agent, department, or instrumentality of--
-                            ``(i) the Federal Government; or
-                            ``(ii) a foreign government.
-                    ``(B) Private property owner.--The term `private 
-                property owner' means a non-Federal person (other than 
-                an officer, employee, agent, department, or 
-                instrumentality of a State, municipality, or political 
-                subdivision of a State, or a State, municipality, or 
-political subdivision of a State) that--
-                            ``(i) owns property referred to in clause 
-                        (i) or (ii) of subparagraph (C); or
-                            ``(ii) holds property referred to in 
-                        subparagraph (C)(iii).
-                    ``(C) Property.--The term `property' means--
-                            ``(i) land;
-                            ``(ii) any interest in land; and
-                            ``(iii) any proprietary water right.''.
+  1st Session
 
-SEC. 8. RIGHT TO ADMINISTRATIVE APPEAL UNDER THE ENDANGERED SPECIES ACT 
-              OF 1973.
+                                 S. 953
 
-    Section 11 of the Endangered Species Act of 1973 (16 U.S.C. 1540) 
-is amended by adding at the end the following:
-    ``(i) Administrative Appeals.--
-            ``(1) In general.--The Secretary, after notice and 
-        opportunity for public comment, shall issue rules to establish 
-        procedures to provide private property owners, or authorized 
-        representatives of the owners, an opportunity for an 
-        administrative appeal of the following actions under this Act:
-                    ``(A) A determination that a particular parcel of 
-                property is critical habitat of a species listed under 
-                section 4.
-                    ``(B) The denial of a permit for an incidental 
-                take.
-                    ``(C) The terms and conditions of a permit for an 
-                incidental take.
-                    ``(D) The imposition of an administrative penalty.
-                    ``(E) The imposition of an order prohibiting or 
-                substantially limiting the use of the property.
-            ``(2) Decision.--The rules issued under paragraph (1) shall 
-        provide that any administrative appeal of an action described 
-        in paragraph (1) shall be heard and decided by an official 
-        other than the official who took the action, and shall be 
-        conducted at a location that is in the vicinity of the parcel 
-        of property involved in the action.
-            ``(3) Definitions.--In this subsection:
-                    ``(A) Non-federal person.--The term `non-Federal 
-                person' means a person other than an officer, employee, 
-                agent, department, or instrumentality of--
-                            ``(i) the Federal Government; or
-                            ``(ii) a foreign government.
-                    ``(B) Private property owner.--The term `private 
-                property owner' means a non-Federal person (other than 
-                an officer, employee, agent, department, or 
-                instrumentality of a State, municipality, or political 
-                subdivision of a State, or a State, municipality, or 
-                political subdivision of a State) that--
-                            ``(i) owns property referred to in clause 
-                        (i) or (ii) of subparagraph (C); or
-                            ``(ii) holds property referred to in 
-                        subparagraph (C)(iii).
-                    ``(C) Property.--The term `property' means--
-                            ``(i) land;
-                            ``(ii) any interest in land; and
-                            ``(iii) any proprietary water right.''.
+_______________________________________________________________________
 
-SEC. 9. COMPENSATION FOR TAKING OF PRIVATE PROPERTY.
+                                 A BILL
 
-    (a) Eligibility.--A private property owner that, as a consequence 
-of a final qualified agency action of an agency head, is deprived of 
-$10,000, or 20 percent or more, of the fair market value of the 
-affected portion of the property of the owner, as determined by a 
-qualified appraisal expert, shall be entitled to receive compensation 
-in accordance with this section.
-    (b) Deadline.--Not later than 90 days after receipt of a final 
-decision of an agency head that deprives a private property owner of 
-the fair market value or viable use of property for which compensation 
-is required under subsection (a), the private property owner may submit 
-in writing a request to the agency head for compensation in accordance 
-with subsection (c).
-    (c) Agency Head's Offer.--Not later than 180 days after the receipt 
-of a request for compensation under subsection (b), the agency head 
-shall stay the decision and provide to the private property owner--
-            (1) an offer to purchase the affected property of the 
-        private property owner at the fair market value that would 
-        apply if there were no use restrictions under the applicable 
-        provisions of law; and
-            (2) an offer to compensate the private property owner for 
-        the difference between the fair market value of the property 
-        without the restrictions and the fair market value of the 
-        property with the restrictions.
-    (d) Private Property Owner's Response.--
-            (1) In general.--A private property owner shall have 60 
-        days after the date of receipt of the offers of the agency head 
-under subsection (c) to accept 1 of the offers or to reject both 
-offers.
-            (2) Submission to arbitration.--If the private property 
-        owner rejects both offers, the private property owner may 
-        submit the matter for arbitration to an arbitrator appointed by 
-        the agency head from a list of arbitrators submitted to the 
-        agency head by the American Arbitration Association. The 
-        arbitration shall be conducted in accordance with the real 
-        estate valuation arbitration rules of the association. For the 
-        purposes of this section, an arbitration shall be binding on 
-        the agency head and a private property owner as to the amount, 
-        if any, of compensation owed to the private property owner and 
-        whether for the purposes of this section the private property 
-        owner has been deprived of the fair market value or viable use 
-        of property for which compensation is required under subsection 
-        (a).
-    (e) Judgment.--A qualified agency action of an agency head that 
-deprives a private property owner of property as described in 
-subsection (a), shall be deemed, at the option of the private property 
-owner, to be a taking under the Constitution and a judgment against the 
-United States if the private property owner--
-            (1) accepts an offer of the agency head under subsection 
-        (c); or
-            (2) submits to arbitration under subsection (d).
-    (f) Payment.--An agency head shall pay a private property owner any 
-compensation required under the terms of an offer of the agency head 
-that is accepted by the private property owner in accordance with 
-subsection (d), or under a decision of an arbitrator under that 
-subsection, by not later than 60 days after the date of the acceptance 
-or the date of the issuance of the decision, respectively.
-    (g) Form of Payment.--Payment under this section shall be in a form 
-agreed to by the agency head and the private property owner and may be 
-in the form of--
-            (1) payment of an amount that is equal to the fair market 
-        value of the property on the day before the date of the final 
-        qualified agency action with respect to which the property or 
-        interest is acquired;
-            (2) payment of an amount that is equal to the reduction in 
-        value of the property; or
-            (3) conveyance of real property or an interest in real 
-        property that has a fair market value equal to the amount 
-        referred to in paragraph (1) or (2).
-    (h) Other Rights Preserved.--This section shall not preempt, alter, 
-or limit the availability of any remedy for the taking of property or 
-an interest in property that is available under the Constitution or any 
-other law.
-    (i) Final Judgments.--If a private property owner unsuccessfully 
-seeks compensation under this section and thereafter files a claim for 
-compensation under the fifth amendment to the Constitution and is 
-successful in obtaining a final judgment ordering compensation from the 
-United States Court of Federal Claims for the claim, the agency head 
-who made the final agency decision that results in the taking shall 
-reimburse, from funds appropriated to the agency for the 2 fiscal years 
-following payment of the compensation, the Treasury of the United 
-States for amounts appropriated under section 1304 of title 31, United 
-States Code, to pay the judgment against the United States.
+    To amend the Higher Education Act of 1965 to extend the reduced 
+   interest rate for undergraduate Federal Direct Stafford Loans, to 
+modify required distribution rules for pension plans, to limit earnings 
+stripping by expatriated entities, to provide for modifications related 
+     to the Oil Spill Liability Trust Fund, and for other purposes.
 
-SEC. 10. PRIVATE PROPERTY OWNER PARTICIPATION IN COOPERATIVE 
-              AGREEMENTS.
+_______________________________________________________________________
 
-    Section 6(b) of the Endangered Species Act of 1973 (16 U.S.C. 
-1535(b)) is amended--
-            (1) by striking ``The Secretary'' and inserting the 
-        following:
-            ``(1) In general.--The Secretary''; and
-            (2) by adding at the end the following:
-            ``(2) Participation by private property owners.--
-                    ``(A) In general.--Notwithstanding any other 
-                provision of this section, in any case in which the 
-                Secretary enters into a management agreement under 
-                paragraph (1) that establishes restrictions on the use 
-                of property, the Secretary shall notify all private 
-                property owners or lessees of the property that is 
-                subject to the management agreement and shall provide 
-                an opportunity for each private property owner or 
-                lessee to participate in the management agreement.
-                    ``(B) Definitions.--In this paragraph:
-                            ``(i) Non-federal person.--The term `non-
-                        Federal person' means a person other than an 
-                        officer, employee, agent, department, or 
-                        instrumentality of--
-                                    ``(I) the Federal Government; or
-                                    ``(II) a foreign government.
-                            ``(ii) Private property owner.--The term 
-                        `private property owner' means a non-Federal 
-                        person (other than an officer, employee, agent, 
-                        department, or instrumentality of a State, 
-                        municipality, or political subdivision of a 
-                        State, or a State, municipality, or political 
-                        subdivision of a State) that--
-                                    ``(I) owns property referred to in 
-                                subclause (I) or (II) of clause (iii); 
-                                or
-                                    ``(II) holds property referred to 
-                                in clause (iii)(III).
-                            ``(iii) Property.--The term `property' 
-                        means--
-                                    ``(I) land;
-                                    ``(II) any interest in land; and
-                                    ``(III) any proprietary water 
-                                right.''.
-                                 <all>
+                              May 15, 2013
+
+            Read the second time and placed on the calendar

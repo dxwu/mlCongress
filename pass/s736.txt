@@ -1,179 +1,112 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 736 Referred in House (RFH)]
+[S. 736 Reported in Senate (RS)]
 
-  2d Session
+                                                       Calendar No. 121
+113th CONGRESS
+  1st Session
                                  S. 736
 
+                          [Report No. 113-67]
+
+To establish a maximum amount for special use permit fees applicable to 
+ certain cabins on National Forest System land in the State of Alaska.
+
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                            October 8, 1998
+                             April 16, 2013
 
-                 Referred to the Committee on Resources
+ Ms. Murkowski introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+                             June 27, 2013
+
+  Reported by Mr. Wyden, with amendments and an amendment to the title
+  [Omit the part struck through and insert the part printed in italic]
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
-  To convey certain real property within the Carlsbad Project in New 
-              Mexico to the Carlsbad Irrigation District.
+To establish a maximum amount for special use permit fees applicable to 
+ certain cabins on National Forest System land in the State of Alaska.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Carlsbad Irrigation Project Acquired 
-Land Transfer Act''.
+    This Act may be cited as the ``Alaska Subsistence Structure 
+Protection Act of 2013''.
 
-SEC. 2. CONVEYANCE.
+SEC. 2. DEFINITIONS.
 
-    (a) Lands and Facilities.--
-            (1) In general.--Except as provided in paragraph (2), and 
-        subject to subsection (c), the Secretary of the Interior (in 
-        this Act referred to as the ``Secretary'') may convey to the 
-        Carlsbad Irrigation District (a quasi-municipal corporation 
-        formed under the laws of the State of New Mexico and in this 
-        Act referred to as the ``District''), all right, title, and 
-        interest of the United States in and to the lands described in 
-        subsection (b) (in this Act referred to as the ``acquired 
-        lands'') and all interests the United States holds in the 
-        irrigation and drainage system of the Carlsbad Project and all 
-        related lands including ditch rider houses, maintenance shop 
-        and buildings, and Pecos River Flume.
-            (2) Limitation.--
-                    (A) Retained surface rights.--The Secretary shall 
-                retain title to the surface estate (but not the mineral 
-                estate) of such acquired lands which are located under 
-                the footprint of Brantley and Avalon dams or any other 
-                project dam or reservoir division structure.
-                    (B) Storage and flow easement.--The Secretary shall 
-                retain storage and flow easements for any tracts 
-                located under the maximum spillway elevations of Avalon 
-                and Brantley Reservoirs.
-    (b) Acquired Lands Described.--The lands referred to in subsection 
-(a) are those lands (including the surface and mineral estate) in Eddy 
-County, New Mexico, described as the acquired lands and in section (7) 
-of the ``Status of Lands and Title Report: Carlsbad Project'' as 
-reported by the Bureau of Reclamation in 1978.
-    (c) Terms and Conditions of Conveyance.--Any conveyance of the 
-acquired lands under this Act shall be subject to the following terms 
-and conditions:
-            (1) Management and use, generally.--The conveyed lands 
-        shall continue to be managed and used by the District for the 
-        purposes for which the Carlsbad Project was authorized, based 
-        on historic operations and consistent with the management of 
-        other adjacent project lands.
-            (2) Assumed rights and obligations.--Except as provided in 
-        paragraph (3), the District shall assume all rights and 
-        obligations of the United States under--
-                    (A) the agreement dated July 28, 1994, between the 
-                United States and the Director, New Mexico Department 
-                of Game and Fish (Document No. 2-LM-40-00640), relating 
-                to management of certain lands near Brantley Reservoir 
-                for fish and wildlife purposes; and
-                    (B) the agreement dated March 9, 1977, between the 
-                United States and the New Mexico Department of Energy, 
-                Minerals, and Natural Resources (Contract No. 7-07-57-
-                X0888) for the management and operation of Brantley 
-                Lake State Park.
-            (3) Exceptions.--In relation to agreements referred to in 
-        paragraph (2)--
-                    (A) the District shall not be obligated for any 
-                financial support agreed to by the Secretary, or the 
-                Secretary's designee, in either agreement; and
-                    (B) the District shall not be entitled to any 
-                receipts for revenues generated as a result of either 
-                agreement.
-    (d) Completion of Conveyance.--If the Secretary does not complete 
-the conveyance within 180 days from the date of enactment of this Act, 
-the Secretary shall submit a report to the Congress within 30 days 
-after that period that includes a detailed explanation of problems that 
-have been encountered in completing the conveyance, and specific steps 
-that the Secretary has taken or will take to complete the conveyance.
+    In this Act:
+        <DELETED>    (1) Covered cabin.--The term ``covered cabin'' 
+        means a cabin (including related structures) on National Forest 
+        System land in the State of Alaska--</DELETED>
+            (1) Covered cabin or temporary structure.--The term 
+        ``covered cabin or temporary structure'' means a cabin 
+        (including related structures) or a tent platform on National 
+        Forest System land in the State of Alaska--
+                    (A) that is used for subsistence uses;
+                    (B) that is subject to section 1303(d) of the 
+                Alaska National Interest Lands Conservation Act (16 
+                U.S.C. 3193(d));
+                    (C) that is subject to section 1316(a) of the 
+                Alaska National Interest Lands Conservation Act (16 
+                U.S.C. 3204(a)); or
+                    (D) that is used for commercial fishing by a 
+                permittee that does not generate more than $15,000 in 
+                gross annual income from the fishery.
+            (2) Subsistence uses.--The term ``subsistence uses'' has 
+        the meaning given the term in section 803 of the Alaska 
+        National Interest Lands Conservation Act (16 U.S.C. 3113).
 
-SEC. 3. LEASE MANAGEMENT AND PAST REVENUES COLLECTED FROM THE ACQUIRED 
-              LANDS.
+<DELETED>SEC. 3. ALASKA SUBSISTENCE USE CABIN PERMIT FEES.</DELETED>
 
-    (a) Identification and Notification of Leaseholders.--Within 120 
-days after the date of enactment of this Act, the Secretary of the 
-Interior shall--
-            (1) provide to the District a written identification of all 
-        mineral and grazing leases in effect on the acquired lands on 
-        the date of enactment of this Act; and
-            (2) notify all leaseholders of the conveyance authorized by 
-        this Act.
-    (b) Management of Mineral and Grazing Leases, Licenses, and 
-Permits.--The District shall assume all rights and obligations of the 
-United States for all mineral and grazing leases, licenses, and permits 
-existing on the acquired lands conveyed under section 2, and shall be 
-entitled to any receipts from such leases, licenses, and permits 
-accruing after the date of conveyance. All such receipts shall be used 
-for purposes for which the Project was authorized and for financing the 
-portion of operations, maintenance, and replacement of the Summer Dam 
-which, prior to conveyance, was the responsibility of the Bureau of 
-Reclamation, with the exception of major maintenance programs in 
-progress prior to conveyance which shall be funded through the cost 
-share formulas in place at the time of conveyance. The District shall 
-continue to adhere to the current Bureau of Reclamation mineral leasing 
-stipulations for the Carlsbad Project.
-    (c) Availability of Amounts Paid Into Reclamation Fund.--
-            (1) Existing receipts.--Receipts in the reclamation fund on 
-        the date of enactment of this Act which exist as construction 
-        credits to the Carlsbad Project under the terms of the Mineral 
-        Leasing Act for Acquired Lands (30 U.S.C. 351-359) shall be 
-        deposited in the General Treasury and credited to deficit 
-        reduction or retirement of the Federal debt.
-            (2) Receipts after enactment.--Of the receipts from mineral 
-        and grazing leases, licenses, and permits on acquired lands to 
-        be conveyed under section 2, that are received by the United 
-        States after the date of enactment and before the date of 
-        conveyance--
-                    (A) not to exceed $200,000 shall be available to 
-                the Secretary for the actual costs of implementing this 
-                Act with any additional costs shared equally between 
-                the Secretary and the District; and
-                    (B) the remainder shall be deposited into the 
-                General Treasury of the United States and credited to 
-                deficit reduction or retirement of the Federal debt.
+<DELETED>    The maximum amount of the fee for the issuance of a 
+special use permit by the Secretary of Agriculture for the use and 
+occupancy of National Forest System land for a covered cabin shall be 
+not more than $250.</DELETED>
 
-SEC. 4. VOLUNTARY WATER CONSERVATION PRACTICES.
+SEC. 3. ALASKA SUBSISTENCE USE CABIN AND TEMPORARY STRUCTURE SPECIAL 
+              USE LAND USE FEES.
 
-    Nothing in this Act shall be construed to limit the ability of the 
-District to voluntarily implement water conservation practices.
+    The maximum land use fee for a special use permit issued by the 
+Secretary of Agriculture for the use and occupancy of National Forest 
+System land for a covered cabin or temporary structure shall be not 
+more than $250.
+            Amend the title so as to read: ``A bill to establish a 
+        maximum amount for special use land use fees applicable to 
+        certain cabins and temporary structures on National Forest 
+        System land in the State of Alaska.''.
+                                                       Calendar No. 121
 
-SEC. 5. LIABILITY.
+113th CONGRESS
 
-    Effective on the date of conveyance of any lands and facilities 
-authorized by this Act, the United States shall not be held liable by 
-any court for damages of any kind arising out of any act, omission, or 
-occurrence relating to the conveyed property, except for damages caused 
-by acts of negligence committed by the United States or by its 
-employees, agents, or contractors, prior to conveyance. Nothing in this 
-section shall be considered to increase the liability of the United 
-States beyond that provided under chapter 171 of title 28, United 
-States Code, popularly known as the Federal Tort Claims Act.
+  1st Session
 
-SEC. 6. FUTURE BENEFITS.
+                                 S. 736
 
-    Effective upon transfer, the lands and facilities transferred 
-pursuant to this Act shall not be entitled to receive any further 
-Reclamation benefits pursuant to the Reclamation Act of June 17, 1902, 
-and Acts supplementary thereof or amendatory thereto attributable to 
-their status as part of a Reclamation Project.
+                          [Report No. 113-67]
 
-            Passed the Senate October 7 (legislative day, October 2), 
-      1998.
+_______________________________________________________________________
 
-            Attest:
+                                 A BILL
 
-                                                    GARY SISCO,
+To establish a maximum amount for special use permit fees applicable to 
+ certain cabins on National Forest System land in the State of Alaska.
 
-                                                             Secretary.
+_______________________________________________________________________
+
+                             June 27, 2013
+
+         Reported with amendments and an amendment to the title

@@ -1,22 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 224 Introduced in Senate (IS)]
+[S. 224 Reported in Senate (RS)]
 
-
-
-
-
-
-
-105th CONGRESS
-  1st Session
+                                                       Calendar No. 415
+113th CONGRESS
+  2d Session
                                  S. 224
 
-To amend title 10, United States Code, to permit covered beneficiaries 
-under the military health care system who are also entitled to medicare 
-  to enroll in the Federal Employees Health Benefits program; and for 
-                            other purposes.
+                          [Report No. 113-185]
+
+ To amend the Federal Water Pollution Control Act to establish a grant 
+        program to support the restoration of San Francisco Bay.
 
 
 _______________________________________________________________________
@@ -24,10 +19,15 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                            January 28, 1997
+                            February 4, 2013
 
-  Mr. Warner introduced the following bill; which was read twice and 
-              referred to the Committee on Armed Services
+ Mrs. Feinstein (for herself and Mrs. Boxer) introduced the following 
+bill; which was read twice and referred to the Committee on Environment 
+                            and Public Works
+
+                              June 5, 2014
+
+               Reported by Mrs. Boxer, without amendment
 
 _______________________________________________________________________
 
@@ -35,143 +35,121 @@ _______________________________________________________________________
 
 
  
-To amend title 10, United States Code, to permit covered beneficiaries 
-under the military health care system who are also entitled to medicare 
-  to enroll in the Federal Employees Health Benefits program; and for 
-                            other purposes.
+ To amend the Federal Water Pollution Control Act to establish a grant 
+        program to support the restoration of San Francisco Bay.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. INCLUSION OF MEDICARE ELIGIBLE COVERED BENEFICIARIES IN 
-              FEDERAL EMPLOYEES HEALTH BENEFITS PROGRAM.
+SECTION 1. SHORT TITLE.
 
-    (a) FEHBP Option.--(1) Chapter 55 of title 10, United States Code, 
-is amended by inserting after section 1079a the following new section:
-``Sec. 1079b. Health care coverage through Federal Employees Health 
-              Benefits program
-    ``(a) FEHBP Option.--(1) The Secretary of Defense (after consulting 
-with the other administering Secretaries) and the Director of the 
-Office of Personnel Management shall enter into an agreement to offer 
-eligible covered beneficiaries an opportunity to enroll in a health 
-benefits plan offered through the Federal Employee Health Benefits 
-program under chapter 89 of title 5. The agreement may provide for 
-limitations on enrollment of covered beneficiaries in the Federal 
-Employee Health Benefits program if the Director determines that the 
-limitations are necessary to allow for adequate planning for access for 
-services under Federal Employee Health Benefits program.
-    ``(2) A person covered by an enrollment in a health benefits plan 
-under paragraph (1) is not eligible to receive care under this chapter 
-in facilities of the uniformed services or through the Civilian Health 
-and Medical Program of the Uniformed Services or the TRICARE program.
-    ``(b) Eligible Covered Beneficiaries.--A covered beneficiary 
-referred to in subsection (a) is a member or former member of the 
-uniformed services described in section 1074(b) of this title, or any 
-dependent of the member described in section 1076(b) of this title, who 
-is or becomes entitled to hospital insurance benefits under part A of 
-title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.). The 
-covered beneficiary shall not be required to satisfy any eligibility 
-criteria specified in chapter 89 of title 5 as a condition for 
-enrollment in a health benefits plan offered through the Federal 
-Employee Health Benefits program pursuant to subsection (a).
-    ``(c) Contributions.--(1) In the case of covered beneficiaries 
-described in subsection (b) who enroll in a health benefits plan 
-offered through the Federal Employee Health Benefits program pursuant 
-to subsection (a), the administering Secretary concerned shall be 
-responsible for Government contributions that the Office of Personnel 
-Management determines are necessary to cover all costs in excess of 
-beneficiary contributions under paragraph (2).
-    ``(2) The contribution required from an enrolled covered 
-beneficiary shall be equal to the amount that would be withheld from 
-the pay of a similarly situated Federal employee who enrolls in a 
-health benefits plan under chapter 89 of title 5.
-    ``(d) Management of Participation.--The authority responsible for 
-approving retired or retainer pay or equivalent pay in the case of a 
-member or former member shall manage the participation of the member or 
-former member, and dependents of the member or former member, who 
-enroll in a health benefits plan offered through the Federal Employee 
-Health Benefits program pursuant to subsection (a). The Office of 
-Personnel Management shall maintain separate risk pools for enrolled 
-covered beneficiaries until such time as the Director of the Office of 
-Personnel Management determines that complete inclusion of enrolled 
-covered beneficiaries under chapter 89 of title 5 would not adversely 
-affect Federal employees and annuitants enrolled in health benefits 
-plans under such chapter.
-    ``(e) Effect of Cancellation.--The cancellation by a covered 
-beneficiary of coverage under the Federal Employee Health Benefits 
-program shall be irrevocable for purposes of this section.
-    ``(f) Reporting Requirements.--Not later than November 1 of each 
-year, the Secretary of Defense and the Director of the Office of 
-Personnel Management shall jointly submit a report to Congress 
-describing the provision of health care services to covered 
-beneficiaries under this section during the preceding fiscal year. The 
-report shall address or contain the following:
-            ``(1) The number of covered beneficiaries enrolled in 
-        health benefits plans offered through the Federal Employee 
-        Health Benefits program pursuant to subsection (a), both in 
-        terms of total number and as a percentage of all covered 
-        beneficiaries receiving health care through the health care 
-        system of the uniformed services.
-            ``(2) The out-of-pocket cost to enrollees under such health 
-        benefits plans.
-            ``(3) The cost to the Government (including the Department 
-        of Defense, the Department of Transportation, and the 
-        Department of Health and Human Services) of providing care 
-        under such health benefits plans.
-            ``(4) A comparison of the costs determined under paragraphs 
-        (2) and (3) and the costs that would have otherwise been 
-        incurred by the Government and enrollees under alternative 
-        health care options available to the administering Secretaries.
-            ``(5) The effect of this section on the cost, access, and 
-        utilization rates of other health care options under the health 
-        care system of the uniformed services.''.
-    (2) The table of sections at the beginning of such chapter is 
-amended by inserting after the item relating to section 1079a the 
-following new item:
+    This Act may be cited as the ``San Francisco Bay Restoration Act''.
 
-``1079b. Health care coverage through Federal Employees Health Benefits 
-                            program.''.
-    (b) Conforming Amendments.--(1) Section 1072 of title 10, United 
-States Code, is amended by adding at the end the following:
-            ``(7) The term `TRICARE program' means the managed health 
-        care program that is established by the Secretary of Defense 
-        under the authority of this chapter, principally section 1097 
-        of this title, and includes the competitive selection of 
-        contractors to financially underwrite the delivery of health 
-        care services under the Civilian Health and Medical Program of 
-        the Uniformed Services.''.
-    (2) Section 8905 of title 5, United States Code, is amended--
-            (A) by redesignating subsections (d), (e), and (f) as 
-        subsections (e), (f), and (g), respectively; and
-            (B) by inserting after subsection (c) the following new 
-        subsection (d):
-    ``(d) An individual whom the Secretary of Defense determines is an 
-eligible covered beneficiary under subsection (b) of section 1079b of 
-title 10 may enroll in a health benefits plan under this chapter in 
-accordance with the agreement entered into under subsection (a) of such 
-section between the Secretary and the Office and with applicable 
-regulations under this chapter.''.
-    (3) Section 8906 of title 5, United States Code, is amended--
-            (A) in subsection (b)--
-                    (i) in paragraph (1), by striking ``paragraphs (2) 
-                and (3)'' and inserting in lieu thereof ``paragraphs 
-                (2), (3), and (4)''; and
-                    (ii) by adding at the end the following new 
-                paragraph:
-    ``(4) In the case of individuals who enroll in a health plan under 
-section 8905(d) of this title, the Government contribution shall be 
-determined under section 1079b(c) of title 10.''; and
-            (B) in subsection (g)--
-                    (i) in paragraph (1), by striking ``paragraph (2)'' 
-                and inserting in lieu thereof ``paragraphs (2) and 
-                (3)''; and
-                    (ii) by adding at the end the following new 
-                paragraph:
-    ``(3) The Government contribution described in subsection (b)(4) 
-for beneficiaries who enroll under section 8905(d) of this title shall 
-be paid as provided in section 1079b(c) of title 10.''.
-    (c) Implementation.--The Secretary of Defense shall offer the 
-health benefits option under section 1079b(a) of title 10, United 
-States Code (as added by subsection (a)), beginning not later than 
-January 1, 1998.
-                                 <all>
+SEC. 2. SAN FRANCISCO BAY RESTORATION GRANT PROGRAM.
+
+    Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 
+et seq.) is amended by adding at the end the following:
+
+``SEC. 123. SAN FRANCISCO BAY RESTORATION GRANT PROGRAM.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Annual priority list.--The term `annual priority 
+        list' means the annual priority list compiled under subsection 
+        (b).
+            ``(2) Comprehensive plan.--The term `comprehensive plan' 
+        means--
+                    ``(A) the comprehensive conservation and management 
+                plan approved under section 320 for the San Francisco 
+                Bay estuary; and
+                    ``(B) any amendments to that plan.
+            ``(3) Estuary partnership.--The term `Estuary Partnership' 
+        means the San Francisco Estuary Partnership, the entity that is 
+        designated as the management conference under section 320.
+    ``(b) Annual Priority List.--
+            ``(1) In general.--After providing public notice, the 
+        Administrator shall annually compile a priority list 
+        identifying and prioritizing the activities, projects, and 
+        studies intended to be funded with the amounts made available 
+        under subsection (c).
+            ``(2) Inclusions.--The annual priority list compiled under 
+        paragraph (1) shall include--
+                    ``(A) activities, projects, or studies, including 
+                restoration projects and habitat improvement for fish, 
+                waterfowl, and wildlife, that advance the goals and 
+                objectives of the approved comprehensive plan;
+                    ``(B) information on the activities, projects, 
+                programs, or studies specified under subparagraph (A), 
+                including a description of--
+                            ``(i) the identities of the financial 
+                        assistance recipients; and
+                            ``(ii) the communities to be served; and
+                    ``(C) the criteria and methods established by the 
+                Administrator for selection of activities, projects, 
+                and studies.
+            ``(3) Consultation.--In developing the priority list under 
+        paragraph (1), the Administrator shall consult with and 
+        consider the recommendations of--
+                    ``(A) the Estuary Partnership;
+                    ``(B) the State of California and affected local 
+                governments in the San Francisco Bay estuary watershed; 
+                and
+                    ``(C) any other relevant stakeholder involved with 
+                the protection and restoration of the San Francisco Bay 
+                estuary that the Administrator determines to be 
+                appropriate.
+    ``(c) Grant Program.--
+            ``(1) In general.--Pursuant to section 320, the 
+        Administrator may provide funding through cooperative 
+        agreements, grants, or other means to State and local agencies, 
+        special districts, and public or nonprofit agencies, 
+        institutions, and organizations, including the Estuary 
+        Partnership, for activities, studies, or projects identified on 
+        the annual priority list.
+            ``(2) Maximum amount of grants; non-federal share.--
+                    ``(A) Maximum amount of grants.--Amounts provided 
+                to any individual or entity under this section for a 
+                fiscal year shall not exceed an amount equal to 75 
+                percent of the total cost of any eligible activities 
+                that are to be carried out using those amounts.
+                    ``(B) Non-federal share.--The non-Federal share of 
+                the total cost of any eligible activities that are 
+                carried out using amounts provided under this section 
+                shall be--
+                            ``(i) not less than 25 percent; and
+                            ``(ii) provided from non-Federal sources.
+    ``(d) Funding.--
+            ``(1) Authorization of appropriations.--There is authorized 
+        to be appropriated to the Administrator to carry out this 
+        section $5,000,000 for each of fiscal years 2013 through 2017.
+            ``(2) Administrative expenses.--Of the amount made 
+        available to carry out this section for a fiscal year, the 
+        Administrator shall use not more than 5 percent to pay 
+        administrative expenses incurred in carrying out this section.
+            ``(3) Relationship to other funding.--Nothing in this 
+        section limits the eligibility of the Estuary Partnership to 
+        receive funding under section 320(g).
+            ``(4) Prohibition.--No amounts made available under 
+        subsection (c) may be used for the administration of a 
+        management conference under section 320.''.
+                                                       Calendar No. 415
+
+113th CONGRESS
+
+  2d Session
+
+                                 S. 224
+
+                          [Report No. 113-185]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Federal Water Pollution Control Act to establish a grant 
+        program to support the restoration of San Francisco Bay.
+
+_______________________________________________________________________
+
+                              June 5, 2014
+
+                       Reported without amendment

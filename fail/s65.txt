@@ -1,21 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 65 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 65
 
- To amend the Internal Revenue Code of 1986 to ensure that members of 
-tax-exempt organizations are notified of the portion of their dues used 
-     for political and lobbying activities, and for other purposes.
+To repeal the provision of law that provides automatic pay adjustments 
+                        for Members of Congress.
 
 
 _______________________________________________________________________
@@ -23,10 +16,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                            January 21, 1997
+             January 23 (legislative day, January 3), 2013
 
-   Mr. Hatch introduced the following bill; which was read twice and 
-                  referred to the Committee on Finance
+ Mr. Vitter (for himself and Mrs. McCaskill) introduced the following 
+ bill; which was read twice and referred to the Committee on Homeland 
+                   Security and Governmental Affairs
 
 _______________________________________________________________________
 
@@ -34,178 +28,24 @@ _______________________________________________________________________
 
 
  
- To amend the Internal Revenue Code of 1986 to ensure that members of 
-tax-exempt organizations are notified of the portion of their dues used 
-     for political and lobbying activities, and for other purposes.
+To repeal the provision of law that provides automatic pay adjustments 
+                        for Members of Congress.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. INCREASED DISCLOSURE OF DUES OF TAX-EXEMPT ORGANIZATIONS 
-              USED FOR POLITICAL PURPOSES.
+SECTION 1. ELIMINATION OF AUTOMATIC PAY ADJUSTMENTS FOR MEMBERS OF 
+              CONGRESS.
 
-    (a) Replacement of Exception Where Dues Are Generally 
-Nondeductible.--Section 6033(e)(3) of the Internal Revenue Code of 1986 
-(relating to exception where dues are generally nondeductible) is 
-amended to read as follows:
-            ``(3) Exception where annual dues are small or from other 
-        exempt organizations.--
-                    ``(A) In general.--Paragraph (1)(A) shall not apply 
-                to an organization which establishes to the 
-                satisfaction of the Secretary that at least 90 percent 
-                of all annual dues or other similar amounts are 
-                received from--
-                            ``(i) persons who each pay annual dues or 
-                        other similar amounts which are $100 or less, 
-                        or
-                            ``(ii) the following:
-                                    ``(I) organizations exempt from 
-                                taxation under subtitle A other than 
-                                organizations described in paragraph 
-                                (1)(B)(i);
-                                    ``(II) State and local governments; 
-                                and
-                                    ``(III) entities the income from 
-                                which is exempt from taxation under 
-                                section 115.
-                Clause (i) shall not apply to an organization described 
-                in section 501(c)(6).
-                    ``(B) Cost-of-living adjustment.--In the case of 
-                taxable years beginning in a calendar year after 1997, 
-                the $100 amount under subparagraph (A)(i) shall be 
-                increased by an amount equal to the product of $100 and 
-                the cost-of-living adjustment for such calendar year 
-                under section 1(f)(3), except that subparagraph (B) 
-                thereof shall be applied by substituting `1996' for 
-                `1992'. If the amount of any such increase is not a 
-                multiple of $1, such amount shall be increased to the 
-                next highest $1.''.
-    (b) Proxy Tax May Not Be Used To Avoid Disclosure to Members.--
-            (1) In general.--Section 6033(e)(2)(A) of the Internal 
-        Revenue Code of 1986 (relating to tax imposed where 
-        organization does not notify) is amended to read as follows:
-                    ``(A) Imposition of tax.--
-                            ``(i) In general.--If an organization fails 
-                        to include in the notices described in 
-                        paragraph (1)(A) for any taxable year the 
-                        amount allocable to expenditures to which 
-                        section 162(e)(1) applies (determined on the 
-                        basis of actual amounts rather than the 
-                        reasonable estimates under 
-paragraph (1)(A)(ii)), then there is hereby imposed on such 
-organization for such taxable year a tax in an amount determined under 
-clause (iii).
-                            ``(ii) Election to pay surrogate tax.--
-                                    ``(I) In general.--An organization 
-                                providing the notices described in 
-                                paragraph (1)(A) for any taxable year 
-                                may elect to pay a tax for such taxable 
-                                year in the amount determined under 
-                                clause (iii).
-                                    ``(II) Effect of election on 
-                                deductibility.--If an organization pays 
-                                a tax under subclause (I) for any 
-                                taxable year, paragraph (3) of section 
-                                162(e) shall not apply to the portion 
-                                of the dues or other similar amounts 
-                                paid by a taxpayer to such organization 
-                                which are allocable to the expenditures 
-                                with respect to which such organization 
-                                paid the tax under subclause (I).
-                                    ``(III) Incorrect notices.--In the 
-                                case of an election under subclause 
-                                (I), an additional tax shall be imposed 
-                                under clause (i) if the estimates in 
-                                the notices are less than the actual 
-                                amounts.
-                            ``(iii) Amount of tax.--For purposes of 
-                        this subparagraph, the amount of tax determined 
-                        under this clause is an amount equal to the 
-                        product of the highest rate of tax imposed by 
-                        section 11 for the taxable year and--
-                                    ``(I) in the case of a failure to 
-                                which clause (i) applies, the aggregate 
-                                amount not included in the notices 
-                                described in paragraph (1)(A) by reason 
-                                of such failure, or
-                                    ``(II) in the case of an election 
-                                under clause (ii), the aggregate amount 
-                                included in the notices with respect to 
-                                which the election was made.''.
-            (2) Notice requirement.--Section 6033(e)(1)(A)(ii) of such 
-        Code (relating to reporting requirements) is amended to read as 
-        follows:
-                            ``(ii) except as provided in paragraph (3), 
-                        shall, at the time of assessment or payment of 
-                        such dues or other similar amounts, provide 
-                        notice to each person making such payment which 
-                        contains--
-                                    ``(I) a reasonable estimate of the 
-                                portion of such dues or other similar 
-                                amounts to which such expenditures are 
-                                so allocable, and
-                                    ``(II) whether or not a deduction 
-                                is allowable to such person with 
-                                respect to such portion.''.
-            (3) Penalties for failure to provide notice.--
-                    (A) Notice accompanying dues.--Section 6710 of such 
-                Code (relating to failure to disclose that 
-                contributions are nondeductible) is amended--
-                            (i) in subsection (a), by inserting ``or a 
-                        failure to meet the requirement of section 
-                        6033(e)(1)(A)(ii) by an organization to which 
-                        section 6033(e) applies'' after ``section 6113 
-                        applies''; and
-                            (ii) in subsection (c), by inserting ``or 
-                        section 6033(e)(1)(A)(ii)'' after ``section 
-                        6013''.
-                    (B) Annual notice.--Section 6724(d)(2) of such Code 
-                (relating to payee statements), as amended by the Small 
-                Business Job Protection Act of 1996 and the Health 
-                Insurance Portability and Accountability Act of 1996, 
-                is amended by striking ``or'' at the end of the next to 
-                last subparagraph, by striking the period at the end of 
-                the last subparagraph and inserting ``, or'', and by 
-                adding at the end the following new subparagraph:
-                    ``(Z) the last sentence of section 
-                6033(e)(1)(A).''.
-            (4) Conforming amendments.--
-                    (A) Section 6033(e)(2)(B) of such Code is amended 
-                by striking ``subparagraph (A)(ii)'' and inserting 
-                ``subparagraph (A)(i)(I)''.
-                    (B)(i) The heading for section 6710 of such Code is 
-                amended by inserting ``or that dues are for lobbying 
-                activities'' after ``nondeductible''.
-                    (ii) The item relating to section 6710 in the table 
-                of sections for part I of subchapter B of chapter 68 of 
-                such Code is amended by inserting ``or that dues are 
-                for lobbying activities'' after ``nondeductible''.
-    (c) Organizations To Which Disclosure Rules Apply.--Section 
-6033(e)(1)(B)(i) of the Internal Revenue Code of 1986 (relating to 
-organizations to which subsection applies) is amended to read as 
-follows:
-                            ``(i) In general.--This subsection shall 
-                        apply to any organization which is described in 
-                        paragraph (4), (5), or (6) of section 501(c) 
-                        (other than a veterans' organization) and which 
-                        is exempt from taxation under section 
-                        501(a).''.
-    (d) Effective Date.--The amendments made by this section shall 
-apply to amounts paid or incurred after December 31, 1996.
-
-SEC. 2. 2-PERCENT FLOOR ON ITEMIZED DEDUCTIONS NOT TO APPLY TO 
-              DEDUCTION FOR DUES.
-
-    (a) In General.--Section 67(b) of the Internal Revenue Code of 1986 
-(defining miscellaneous itemized deductions) is amended by striking 
-``and'' at the end of paragraph (11), by striking the period at the end 
-of paragraph (12) and inserting ``, and'', and by adding at the end the 
-following new paragraph:
-            ``(13) the deduction allowed under section 162 for dues or 
-        other similar amounts paid by an individual to an organization 
-        described in paragraph (4), (5), or (6) of section 501(c) 
-        (other than a veterans' organization) and exempt from taxation 
-        under section 501(a).''.
-    (b) Effective Date.--The amendments made by this section shall 
-apply to taxable years beginning after December 31, 1996.
+    (a) In General.--Paragraph (2) of section 601(a) of the Legislative 
+Reorganization Act of 1946 (2 U.S.C. 31) is repealed.
+    (b) Technical and Conforming Amendments.--Section 601(a)(1) of such 
+Act is amended--
+            (1) by striking ``(a)(1)'' and inserting ``(a)'';
+            (2) by redesignating subparagraphs (A), (B), and (C) as 
+        paragraphs (1), (2), and (3), respectively; and
+            (3) by striking ``as adjusted by paragraph (2) of this 
+        subsection'' and inserting ``adjusted as provided by law''.
+    (c) Effective Date.--This section and the amendments made by this 
+section shall take effect on February 1, 2015.
                                  <all>

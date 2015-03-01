@@ -1,25 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1165 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1165
 
-    To require Medicare providers to disclose publicly staffing and 
-   performance in order to promote improved consumer information and 
-choice, to protect employees of Medicare providers who report concerns 
-about the safety and quality of services provided by Medicare providers 
- or who report violations of Federal or State law by those providers, 
-  and to require review of the impact on public health and safety of 
-        proposed mergers and acquisitions of Medicare providers.
+ To greatly enhance the Nation's environmental, energy, economic, and 
+national security by terminating long-standing Federal prohibitions on 
+   the domestic production of abundant offshore supplies of oil and 
+                  natural gas, and for other purposes.
 
 
 _______________________________________________________________________
@@ -27,15 +18,15 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 20, 1997
+                             March 14, 2013
 
-Mr. Hinchey (for himself, Mr. Ackerman, Mr. Delahunt, Mr. Dellums, Mr. 
-    Evans, Mr. Holden, Mr. Mascara, Mr. Olver, Ms. Rivers, and Mr. 
-  Thompson) introduced the following bill; which was referred to the 
-   Committee on Ways and Means, and in addition to the Committee on 
-Commerce, for a period to be subsequently determined by the Speaker, in 
-   each case for consideration of such provisions as fall within the 
-                jurisdiction of the committee concerned
+ Mr. Calvert (for himself, Mr. Latta, Mr. Nunes, Mr. Gary G. Miller of 
+California, Mr. McKeon, and Mr. Carter) introduced the following bill; 
+   which was referred to the Committee on Natural Resources, and in 
+addition to the Committees on the Budget and Rules, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
 
 _______________________________________________________________________
 
@@ -43,264 +34,200 @@ _______________________________________________________________________
 
 
  
-    To require Medicare providers to disclose publicly staffing and 
-   performance in order to promote improved consumer information and 
-choice, to protect employees of Medicare providers who report concerns 
-about the safety and quality of services provided by Medicare providers 
- or who report violations of Federal or State law by those providers, 
-  and to require review of the impact on public health and safety of 
-        proposed mergers and acquisitions of Medicare providers.
+ To greatly enhance the Nation's environmental, energy, economic, and 
+national security by terminating long-standing Federal prohibitions on 
+   the domestic production of abundant offshore supplies of oil and 
+                  natural gas, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Patient Safety Act of 1997''.
+    This Act may be cited as the ``Maximize Offshore Resource 
+Exploration Act of 2013'' or the ``MORE Act of 2013''.
 
-SEC. 2. FINDINGS.
+SEC. 2. TERMINATION OF PROHIBITIONS ON EXPENDITURES FOR, AND 
+              WITHDRAWALS FROM, OFFSHORE OIL AND GAS LEASING.
 
-    Congress finds as follows:
-            (1) There has been increased and growing public concern 
-        expressed regarding the quality and safety of services provided 
-        by health care facilities and institutions, as such facilities 
-        have instituted aggressive efforts to reduce levels of staff 
-        who provide direct patient care services as a principal means 
-        of decreasing expenses.
-            (2) A growing body of data suggests a linkage between the 
-        number and mix of nursing staff and positive patient care 
-        outcomes, including the avoidance of patient death and injury.
-            (3) Many employees of health care facilities have expressed 
-        fear for their employment if they report unsafe conditions, 
-        including violations of State or Federal law.
-            (4) Unprecedented consolidation among health care 
-        institutions has led to increasing concern regarding the effect 
-        of such activity on the health and safety of communities served 
-        by these facilities, yet the Federal Government has little 
-        authority to evaluate such effect in deciding whether or not to 
-        approve mergers and acquisitions among health care facilities.
+    (a) Prohibitions on Expenditures.--All provisions of Federal law 
+that prohibit the expenditure of appropriated funds to conduct oil and 
+natural gas leasing and preleasing activities for any area of the Outer 
+Continental Shelf shall have no force or effect with respect to such 
+activities.
+    (b) Revocation Withdrawals.--All withdrawals of Federal submerged 
+lands of the Outer Continental Shelf from leasing, including 
+withdrawals by the President under the authority of section 12(a) of 
+the Outer Continental Shelf Lands Act (43 U.S.C. 1341(a)), are hereby 
+revoked and are no longer in effect with respect to the leasing of 
+areas for exploration for, and development and production of, oil and 
+natural gas.
 
-SEC. 3. DEFINITIONS.
+SEC. 3. OUTER CONTINENTAL SHELF OIL AND NATURAL GAS LEASING PROGRAM.
 
-    For purposes of this Act:
-            (1) Licensed practical nurse or licensed vocational 
-        nurse.--The term ``licensed practical nurse or licensed 
-        vocational nurse'' means an individual who is entitled under 
-        State law or regulation to practice as a licensed practical 
-        nurse or a licensed vocational nurse.
-            (2) Made publicly available.--The term ``made publicly 
-        available'' means, with respect to information of a provider, 
-        information that is--
-                    (A) provided to the Secretary and to any State 
-                agency responsible for licensing or accrediting the 
-                provider;
-                    (B) provided to any State agency which approves or 
-                oversees health care services delivered by the provider 
-                directly or through an insuring entity or corporation; 
-                and
-                    (C) provided to any member of the public which 
-                requests such information directly from the provider.
-            (3) Medicare program.--The term ``Medicare program'' means 
-        the programs under title XVIII of the Social Security Act.
-            (4) Provider.--The term ``provider'' means an entity that 
-        is--
-                    (A) a psychiatric hospital described in section 
-                1861(f) of the Social Security Act,
-                    (B) a provider of services described in section 
-                1861(u) of such Act,
-                    (C) a rural health clinic described in section 
-                1861(aa)(2) of such Act,
-                    (D) an ambulatory surgical center described in 
-                section 1832(a)(2)(F)(i) of such Act, or
-                    (E) a renal dialysis facility described in section 
-                1881(b)(1)(A) of such Act.
-            (5) Registered nurse.--The term ``registered nurse'' means 
-        an individual who is entitled under State law or regulation to 
-        practice as a registered nurse.
-            (6) Secretary.--The term ``Secretary'' means the Secretary 
-        of Health and Human Services.
+    The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is 
+amended by inserting after section 9 the following:
 
-SEC. 4. PUBLIC DISCLOSURE OF STAFFING AND OUTCOMES DATA.
+``SEC. 10. STATE APPROVAL REQUIREMENT WITH RESPECT TO OIL AND NATURAL 
+              GAS LEASING.
 
-    (a) Disclosure of Staffing and Outcomes.--Any provider under the 
-Medicare program shall, as a condition of continued participation in 
-such program, make publicly available information regarding nurse 
-staffing and patient outcomes as specified by the Secretary. Such 
-information shall include at least the following:
-            (1) The number of registered nurses providing direct care. 
-        This information shall be expressed both in raw numbers, in 
-        terms of total hours of nursing care per patient (including 
-        adjustment for case mix and acuity), and as a percentage of 
-        nursing staff, and shall be broken down in terms of the total 
-        nursing staff, each unit, and each shift.
-            (2) The number of licensed practical nurses or licensed 
-        vocational nurses providing direct care. This information shall 
-        be expressed both in raw numbers, in terms of total hours of 
-        nursing care per patient (including adjustment for case mix and 
-        acuity), and as a percentage of nursing staff, and shall be 
-        broken down in terms of the total nursing staff, each unit, and 
-        each shift.
-            (3) Numbers of unlicensed personnel utilized to provide 
-        direct patient care. This information shall be expressed both 
-        in raw numbers and as a percentage of nursing staff and shall 
-        be broken down in terms of the total nursing staff, each unit, 
-        and each shift.
-            (4) The average number of patients per registered nurse 
-        providing direct patient care. This information shall be broken 
-        down in terms of the total nursing staff, each unit, and each 
-        shift.
-            (5) Patient mortality rate (in raw numbers and by diagnosis 
-        or diagnostic-related group).
-            (6) Incidence of adverse patient care incidents, including 
-        as such incidents at least medication errors, patient injury, 
-        decubitus ulcers, nosocomial infections, and nosocomial urinary 
-        tract infections.
-            (7) Methods used for determining and adjusting staffing 
-        levels and patient care needs and the provider's compliance 
-        with these methods.
-    (b) Disclosure of Complaints.--Data regarding complaints filed with 
-the State agency, the Health Care Financing Administration, or an 
-accrediting agency, compliance with the standards of which have been 
-deemed to demonstrate compliance with conditions of participation under 
-the Medicare program, and data regarding investigations and findings as 
-a result of those complaints and the findings of scheduled inspection 
-visits, shall be made publicly available.
-    (c) Information on Data.--All data made publicly available under 
-this section shall indicate the source and currency of the data 
-provided.
-    (d) Waiver for Small Providers.--The Secretary may waive or reduce 
-reporting requirements under this section in the case of a small 
-provider (as defined by the Secretary) for whom the imposition of the 
-requirements would be unduly burdensome.
+    ``(a) In General.--The Secretary may not issue any lease 
+authorizing exploration for, or development of, oil and natural gas in 
+any area of the outer Continental Shelf that is located within 25 miles 
+of the coastline of a State unless the State has enacted a law 
+approving of the issuance of such leases by the Secretary.
+    ``(b) State Approval Permanent.--Repeal of such a law by a State 
+shall have no effect for purposes of subsection (a).''.
 
-SEC. 5. PROTECTION OF CERTAIN ACTIVITIES BY EMPLOYEES OF MEDICARE 
-              PROVIDERS.
+SEC. 4. SHARING OF REVENUES.
 
-    (a) In General.--No provider under the Medicare program shall 
-terminate or take other adverse action against any employee or groups 
-of employees for actions taken for the purpose of--
-            (1) notifying the provider of conditions which the employee 
-        or group of employees identifies, in communications with the 
-        provider, as dangerous or potentially dangerous or injurious 
-        to--
-                    (A) patients who currently receive services from 
-                the provider;
-                    (B) individuals who are likely to receive services 
-                from the provider; or
-                    (C) employees of the provider;
-            (2) notifying a Federal or State agency or an accreditation 
-        agency, compliance with the standards of which have been deemed 
-        to demonstrate compliance with conditions of participation 
-        under the Medicare program, of such conditions as are 
-        identified in paragraph (1);
-            (3) notifying other individuals of conditions which the 
-        employee or group of employees reasonably believe to be such as 
-        are described in paragraph (1);
-            (4) discussing such conditions as are identified in 
-        paragraph (1) with other employees for the purposes of 
-        initiating action described in paragraph (1), (2), or (3); or
-            (5) other related activities as specified in regulations 
-        promulgated by the Secretary.
-    (b) Sanction.--A determination by the Secretary that a provider has 
-taken such action as described in subsection (a) shall result in 
-termination from participation in the Medicare program for a period of 
-time to be specified by the Secretary, such period to be not less than 
-1 month.
-    (c) Exception.--The protections of this section shall not apply to 
-any employee who knowingly or recklessly provides substantially false 
-information to the Secretary.
+    (a) In General.--Section 8(g) of the Outer Continental Shelf Lands 
+Act (43 U.S.C. 1337(g)) is amended--
+            (1) in paragraph (2) by striking ``Notwithstanding'' and 
+        inserting ``Except as provided in paragraph (6), and 
+        notwithstanding'';
+            (2) by redesignating paragraphs (6) and (7) as paragraphs 
+        (7) and (8); and
+            (3) by inserting after paragraph (5) the following:
+            ``(6) Royalties under qualified oil and gas leases.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), of amounts received by the United 
+                States as royalties under any qualified oil and gas 
+                lease on submerged lands that are located within the 
+                seaward boundaries of a State established under section 
+                4(a)(2)(A)--
+                            ``(i) 12.5 percent shall be deposited in 
+                        the general fund of the Treasury;
+                            ``(ii) 12.5 percent shall be deposited in 
+                        the Renewable Energy Reserve established by 
+                        section 5 of the MORE Act of 2013; and
+                            ``(iii) 75 percent shall be paid to the 
+                        States that are producing States with respect 
+                        to those submerged lands.
+                    ``(B) Lease tracts within 25 miles of the 
+                coastline.--Of amounts received by the United States as 
+                royalties under any qualified oil and gas lease on 
+                submerged lands that are located within 25 miles of the 
+                coastline of a State and within the seaward boundaries 
+                of a State established under section 4(a)(2)(A)--
+                            ``(i) 5 percent shall be deposited in the 
+                        general fund of the Treasury;
+                            ``(ii) 5 percent shall be deposited in the 
+                        Renewable Energy Reserve established by section 
+                        5 of the MORE Act of 2013; and
+                            ``(iii) 90 percent shall be paid to the 
+                        States that are producing States with respect 
+                        to those submerged lands.
+                    ``(C) Leased tract that lies partially within the 
+                seaward boundaries of a state.--In the case of a leased 
+                tract that lies partially within the seaward boundaries 
+                of a State, the amounts of royalties from such tract 
+                that are subject to subparagraph (A) or (B), as 
+                applicable, with respect to such State shall be a 
+                percentage of the total amounts of royalties from such 
+                tract that is equivalent to the total percentage of 
+                surface acreage of the tract that lies within such 
+                seaward boundaries.
+                    ``(D) Definitions.--In this paragraph:
+                            ``(i) Adjacent state.--The term `adjacent 
+                        State' means, with respect to any program, 
+                        plan, lease sale, leased tract or other 
+                        activity, proposed, conducted, or approved 
+                        pursuant to the provisions of this Act, any 
+                        State the laws of which are declared, pursuant 
+                        to section 4(a)(2), to be the law of the United 
+                        States for the portion of the outer Continental 
+                        Shelf on which such program, plan, lease sale, 
+                        leased tract, or activity appertains or is, or 
+                        is proposed to be, conducted.
+                            ``(ii) Adjacent zone.--The term `adjacent 
+                        zone' means, with respect to any program, plan, 
+                        lease sale, leased tract, or other activity, 
+                        proposed, conducted, or approved pursuant to 
+                        the provisions of this Act, the portion of the 
+                        outer Continental Shelf for which the laws of a 
+                        particular adjacent State are declared, 
+                        pursuant to section 4(a)(2), to be the law of 
+                        the United States.
+                            ``(iii) Producing state.--The term 
+                        `producing State' means an adjacent State 
+                        having an adjacent zone containing leased 
+                        tracts from which are derived royalties under a 
+                        lease under this Act.
+                            ``(iv) State.--The term `State' includes 
+                        Puerto Rico and the other territories of the 
+                        United States.
+                            ``(v) Qualified oil and gas lease.--The 
+                        term `qualified oil and gas lease' means a 
+                        lease under this Act granted after the date of 
+                        the enactment of the MORE Act of 2013 that 
+                        authorizes development and production of oil 
+                        and natural gas and associated condensate.
+                    ``(E) Application.--This paragraph shall apply to 
+                royalties received by the United States after September 
+                30, 2013.''.
+    (b) Establishment of State Seaward Boundaries.--Section 4(a)(2)(A) 
+of the Outer Continental Shelf Lands Act (43 U.S.C. 1333(a)(2)(A)) is 
+amended in the first sentence by striking ``, and the President'' and 
+all that follows through the end of the sentence and inserting the 
+following: ``. Such extended lines are deemed to be as indicated on the 
+maps for each Outer Continental Shelf region entitled `Alaska OCS 
+Region State Adjacent Zone and OCS Planning Areas', `Pacific OCS Region 
+State Adjacent Zones and OCS Planning Areas', `Gulf of Mexico OCS 
+Region State Adjacent Zones and OCS Planning Areas', and `Atlantic OCS 
+Region State Adjacent Zones and OCS Planning Areas', all of which are 
+dated September 2005 and on file in the Office of the Director, 
+Minerals Management Service. The preceding sentence shall not apply 
+with respect to the treatment under section 105 of the Gulf of Mexico 
+Energy Security Act of 2006 (title I of division C of Public Law 109-
+432) of qualified outer Continental Shelf revenues deposited and 
+disbursed under subsection (a)(2) of that section.''.
 
-SEC. 6. EVALUATION OF HEALTH AND SAFETY OF CERTAIN MERGERS AND 
-              ACQUISITIONS BY OR AMONG MEDICARE PROVIDERS.
+SEC. 5. RENEWABLE ENERGY RESERVE.
 
-    (a) Impact Report.--Any provider under the Medicare program that 
-files with the Department of Justice and the Federal Trade Commission 
-notification of a transaction which is required to be reported pursuant 
-to section 7A of the Clayton Act (15 U.S.C. 18a) shall, on the same 
-date as such notification is submitted, provide the Secretary with a 
-written report that includes the overall impact of such transaction on 
-the health services available and readily accessible to the community 
-and that includes the impact of such transaction on each of the 
-following:
-            (1) On the availability and accessibility of primary, acute 
-        care, and emergency services.
-            (2) On the availability and accessibility of services for 
-        mothers and children.
-            (3) On the availability and accessibility of services to 
-        the elderly.
-            (4) On the availability and accessibility of services to 
-        other specific populations, including the poor, the uninsured, 
-        ethnic minorities, women, the disabled, and the lesbian and gay 
-        communities.
-            (5) On the availability and accessibility of specialized 
-        services, including services for the prevention, detection, and 
-        treatment of the human immunodeficiency virus and related 
-illnesses, mental health services, and substance abuse services.
-            (6) On the safety and quality of health care services to be 
-        provided, including anticipated changes in numbers and mix of 
-        nursing and other patient care staff and on other factors 
-        related to patient outcomes.
-            (7) On the availability and accessibility of social 
-        services and other services within the community.
-            (8) On overall employment within the community.
-            (9) On the provider's workforce, including--
-                    (A) the status of existing collective bargaining 
-                contracts, if any; and
-                    (B) plans for retraining and redeployment of 
-                employees who are displaced as a result of the 
-                contemplated transaction.
-            (10) On the financial stability of the merged entity, 
-        taking into account at least projected acquisition costs, 
-        related expenses, and planned marketing or advertising 
-        campaigns for the new entity.
-            (11) On other factors to be specified in regulations to be 
-        promulgated by the Secretary.
-Such report shall be in addition to any documentation required by any 
-other Federal or State agency.
-    (b) Availability.--A report under subsection (a) shall be made 
-publicly available by the provider and by the Secretary upon request. 
-In addition, the provider shall make publicly available any 
-documentation submitted to the Department of Justice, the Federal Trade 
-Commission, or other Federal or State agency regarding the contemplated 
-transaction.
-    (c) Hearings.--The Secretary shall conduct, or arrange for, public 
-hearings on the elements of each report submitted under subsection (a) 
-and any other factors related to the health, safety, and welfare of 
-patients served by the provider and the community involved, including 
-the provider's workforce. Such hearings shall be held at a time or 
-times and location or locations readily accessible to the public and 
-may be conducted jointly with relevant State agencies.
-    (d) Review.--The Secretary shall review each such proposed 
-transaction. Such review shall be based on the written report submitted 
-under subsection (a), a transcript of testimony at the public hearing 
-under subsection (c), and any other factors which the Secretary finds 
-are relevant to the health, safety, and welfare of the patients served 
-by the provider and the community, including the provider's workforce.
-    (e) Findings.--(1) The Secretary shall, within 45 days of 
-completion of a hearing under subsection (c), issue written findings on 
-the likely impact of the contemplated transaction on the health and 
-safety of the patients and communities served by the provider, 
-including the provider's workforce.
-    (2) If the Secretary determines that the overall impact of the 
-transaction on the health and safety of patients and the community is a 
-negative one, the Secretary shall issue, as part of the findings, a 
-finding of negative impact on health and safety.
-    (3) In issuing findings under this subsection, the Secretary may 
-confer with such other agencies (such as the Department of Justice, the 
-Federal Trade Commission, and the Department of Labor) as may have an 
-interest in the impact on the public of the proposed transaction.
-    (f) Sanctions.--A provider that executes a transaction which is the 
-subject of a finding of negative impact on health and safety under 
-subsection (e)(2) (or a provider which fails to file a report with the 
-Secretary pursuant to subsection (a)) shall be deemed not to be in 
-compliance with the conditions of participation under the Medicare 
-program. Such a determination shall be subject to such procedures and 
-appeal as provided for in regulations promulgated by the Secretary. In 
-the case of a determination that conditions effected by the transaction 
-in question pose immediate jeopardy or irreparable harm to patient 
-health, safety, and welfare, the Secretary shall (if such transaction 
-is completed) immediately suspend the entity's participation in the 
-Medicare program and such suspension shall continue in force during any 
-administrative or judicial review for the transaction sought by the 
-entity.
+    (a) In General.--For budgetary purposes, there is established a 
+separate account in the Treasury to be known as the ``Renewable Energy 
+Reserve''.
+    (b) Contents.--The Renewable Energy Reserve shall consist of 
+amounts deposited into it under subparagraphs (A) and (B) of paragraph 
+(6) of section 8(g) of the Outer Continental Shelf Lands Act (43 U.S.C. 
+1337(g)), as amended by this Act.
+    (c) Use.--The Renewable Energy Reserve shall be available to offset 
+the cost of legislation enacted after the date of the enactment of this 
+Act--
+            (1) to accelerate the use of cleaner domestic energy 
+        resources and alternative fuels;
+            (2) to promote the utilization of energy-efficient products 
+        and practices; and
+            (3) to increase research, development, and deployment of 
+        clean renewable energy and efficiency technologies and job 
+        training programs for those purposes.
+    (d) Procedure for Adjustments.--
+            (1) Budget committee chairman.--After the reporting of a 
+        bill or joint resolution, or the offering of an amendment 
+        thereto or the submission of a conference report thereon, 
+        providing funding for the purposes set forth in subsection (c) 
+        in excess of the amounts provided for those purposes for fiscal 
+        year 2013, the chairman of the Committee on the Budget of the 
+        applicable House of Congress shall make the adjustments set 
+        forth in paragraph (2) for the amount of new budget authority 
+        and outlays in that measure and the outlays flowing from that 
+        budget authority.
+            (2) Matters to be adjusted.--The adjustments referred to in 
+        paragraph (1) are to be made to--
+                    (A) the discretionary spending limits, if any, set 
+                forth in the appropriate concurrent resolution on the 
+                budget;
+                    (B) the allocations made pursuant to the 
+                appropriate concurrent resolution on the budget 
+                pursuant to section 302(a) of Congressional Budget Act 
+                of 1974; and
+                    (C) the budget aggregates contained in the 
+                appropriate concurrent resolution on the budget as 
+                required by section 301(a) of Congressional Budget Act 
+                of 1974.
+            (3) Amounts of adjustments.--The adjustments referred to in 
+        paragraphs (1) and (2) shall not exceed the total of the 
+        receipts over a 10-year period, as estimated by the 
+        Congressional Budget Office upon the enactment of this Act.
                                  <all>

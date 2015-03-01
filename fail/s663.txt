@@ -1,20 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 663 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 663
 
-    To enhance taxpayer value in auctions conducted by the Federal 
-                       Communications Commission.
+ To provide for the inclusion of the State of California as a separate 
+    Federal milk marketing order upon the petition and approval of 
+             California dairy producers of such inclusion.
 
 
 _______________________________________________________________________
@@ -22,10 +17,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             April 29, 1997
+                             March 22, 2013
 
-  Mr. Kerrey introduced the following bill; which was read twice and 
-   referred to the Committee on Commerce, Science, and Transportation
+Mrs. Feinstein introduced the following bill; which was read twice and 
+   referred to the Committee on Agriculture, Nutrition, and Forestry
 
 _______________________________________________________________________
 
@@ -33,24 +28,27 @@ _______________________________________________________________________
 
 
  
-    To enhance taxpayer value in auctions conducted by the Federal 
-                       Communications Commission.
+ To provide for the inclusion of the State of California as a separate 
+    Federal milk marketing order upon the petition and approval of 
+             California dairy producers of such inclusion.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Reserve Price Act''.
+    This Act may be cited as the ``California Milk Marketing Order 
+Act''.
 
-SEC. 2. RESERVE PRICE.
+SEC. 2. INCLUSION OF CALIFORNIA AS SEPARATE MILK MARKETING ORDER.
 
-    In any auction conducted or supervised by the Federal 
-Communications Commission (hereinafter the Commission) for any license, 
-permit or right which has value, a reasonable reserve price shall be 
-set by the Commission for each unit in the auction. The reserve price 
-shall establish a minimum bid for the unit to be auctioned. If no bid 
-is received above the reserve price for a unit, the unit shall be 
-retained. The Commission shall reassess the reserve price for that unit 
-and place the unit in the next scheduled or next appropriate auction.
+    (a) Inclusion Authorized.--Upon the petition and approval of 
+California dairy producers in the manner provided in section 8c of the 
+Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments 
+by the Agricultural Marketing Agreement Act of 1937, the Secretary of 
+Agriculture shall designate the State of California as a separate 
+Federal milk marketing order.
+    (b) Special Considerations.--If designated under subsection (a), 
+the order covering California shall have the right to reblend and 
+distribute order receipts to recognize quota value.
                                  <all>

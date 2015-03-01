@@ -1,23 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4456 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4456
 
-To amend title II of the Social Security Act to provide for an increase 
- of up to 5 in the number of years disregarded in determining average 
- annual earnings on which benefit amounts are based upon a showing of 
-preclusion from remunerative work during such years occasioned by need 
-   to provide child care or care to a chronically dependent relative.
+To determine the feasibility of additional agreements for long-term use 
+ of existing or expanded non-Federal storage and conveyance facilities 
+to augment Federal water supply, ecosystem, and operational flexibility 
+           benefits in certain areas, and for other purposes.
 
 
 _______________________________________________________________________
@@ -25,10 +18,12 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             August 6, 1998
+                             April 10, 2014
 
-  Mrs. Lowey introduced the following bill; which was referred to the 
-                      Committee on Ways and Means
+Mr. George Miller of California (for himself, Mr. Costa, Mr. McNerney, 
+ Ms. Matsui, Mr. Garamendi, Mr. Thompson of California, Ms. Eshoo, Mr. 
+  Huffman, Mrs. Napolitano, and Mr. Waxman) introduced the following 
+     bill; which was referred to the Committee on Natural Resources
 
 _______________________________________________________________________
 
@@ -36,199 +31,40 @@ _______________________________________________________________________
 
 
  
-To amend title II of the Social Security Act to provide for an increase 
- of up to 5 in the number of years disregarded in determining average 
- annual earnings on which benefit amounts are based upon a showing of 
-preclusion from remunerative work during such years occasioned by need 
-   to provide child care or care to a chronically dependent relative.
+To determine the feasibility of additional agreements for long-term use 
+ of existing or expanded non-Federal storage and conveyance facilities 
+to augment Federal water supply, ecosystem, and operational flexibility 
+           benefits in certain areas, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. PILOT PROGRAM.
 
-    This Act may be cited as the ``Social Security Caregiver Act of 
-1997''.
+    In order to determine the feasibility of agreements for long-term 
+use of existing or expanded non-Federal storage and conveyance 
+facilities to augment Federal water supply, ecosystem, and operational 
+flexibility benefits, not later than 6 months after the date of the 
+enactment of this Act, the Secretary of the Interior shall enter into 
+cooperative agreements with non-Federal entities to provide replacement 
+water supplies for drought relief for Central Valley Project 
+contractors, units of the National Wildlife Refuge System, State 
+wildlife areas and private wetland area. Agreements under this section 
+shall--
+            (1) include the purchase of storage capacity in non-Federal 
+        facilities from willing sellers; and
+            (2) provide reimbursement for the temporary use of 
+        available capacity in existing above-ground, off-stream 
+        storage, and associated conveyance facilities owned by local 
+        water agencies.
 
-SEC. 2. INCREASE IN NUMBER OF YEARS DISREGARDED.
+SEC. 2. REPORT.
 
-    (a) In General.--Section 215(b)(2) of the Social Security Act (42 
-U.S.C. 415(b)(2)) is amended--
-            (1) by striking the period at the end of clause (ii) of 
-        subparagraph (A) and inserting a comma;
-            (2) by striking ``Clause (ii), once'' after and below 
-        clause (ii) of subparagraph (A) and inserting the following:
-``and reduced further to the extent provided in subparagraph (B). 
-Clause (ii), once'';
-            (3) by striking ``If an individual'' in the matter 
-        following clause (ii) of subparagraph (A) and all that follows 
-        through the end of subparagraph (A);
-            (4) by redesignating subparagraph (B) as subparagraph (F); 
-        and
-            (5) by inserting after subparagraph (A) the following new 
-        subparagraphs:
-    ``(B) Subject to subparagraph (C), in any case in which--
-            ``(i) in any calendar year which is included in an 
-        individual's computation base years--
-                    ``(I) such individual is living with a child (of 
-                such individual or his or her spouse) under the age of 
-                12, or
-                    ``(II) such individual is living with a child (of 
-                such individual or his or her spouse), a parent (of 
-                such individual or his or her spouse), or such 
-                individual's spouse while such child, parent, or spouse 
-                is a chronically dependent individual,
-            ``(ii) such calendar year is not disregarded pursuant to 
-        subparagraphs (A) and (E) (in determining such individual's 
-        benefit computation years) by reason of the reduction in the 
-        number of such individual's elapsed years under subparagraph 
-        (A), and
-            ``(iii) at any time during or after such calendar year and 
-        on or before the date of the application by such individual for 
-        benefits based on such individual's wages and self-employment 
-        income, such individual submits to the Commissioner of Social 
-        Security, in such form as the Commissioner shall prescribe by 
-        regulations, a written statement that the requirements of 
-        clause (i) are met with respect to such calendar year,
-then the number by which such elapsed years are reduced under this 
-paragraph pursuant to subparagraph (A) shall be increased by one (up to 
-a combined total not exceeding 5) for each such calendar year.
-    ``(C)(i)(I) No calendar year shall be disregarded by reason of 
-subparagraph (B) (in determining such individual's benefit computation 
-years) unless the individual had less than the applicable dollar amount 
-(in effect for such calendar year under this clause) of earnings as 
-described in section 203(f)(5) for such year.
-    ``(II) Except as otherwise provided in subclause (III), the 
-applicable dollar amount in effect under this clause for any calendar 
-year is $2,000.
-    ``(III) In each calendar year after 1997, the Commissioner of 
-Social Security shall determine and publish in the Federal Register, on 
-or before November 1 of such calendar year, the applicable dollar 
-amount which shall be effective under this clause for the next calendar 
-year. Such dollar amount shall be equal to the larger of the applicable 
-dollar amount which is effective under this clause for the calendar 
-year in which such determination is made or, subject to subclause 
-(VII), the product described in subclause (IV).
-    ``(IV) The product described in this subclause is the product 
-derived by multiplying the applicable dollar amount which is effective 
-under this clause for the calendar year in which the determination 
-under subclause (III) is made, by the ratio of the amount described in 
-subclause (V) to the amount described in subclause (VI).
-    ``(V) The amount described in this subclause is the national 
-average wage index (as defined in section 209(k)(1)) for the calendar 
-year before the calendar year in which the determination under 
-subclause (III) is made.
-    ``(VI) The amount described in this subclause is the national 
-average wage index (as defined in section 209(k)(1)) for 1996 or, if 
-later, the calendar year before the most recent calendar year in which 
-a determination resulting in an increase in the applicable dollar 
-amount was made under subclause (III).
-    ``(VII) If the product described in subclause (IV) is not a 
-multiple of $1.00, such product shall be rounded to the next higher 
-multiple of $1.00 in any case in which such product is a multiple of 
-$0.50 but not of $1.00, and to the nearest multiple of $1.00 in any 
-other case.
-    ``(ii) No calendar year shall be disregarded by reason of 
-subparagraph (B) (in determining such individual's benefit computation 
-years) in connection with a child referred to in subparagraph (B)(i)(I) 
-(and not referred to in subparagraph (B)(i)(II)) unless the individual 
-was living with the child substantially throughout the period in such 
-year in which the child was alive and under the age of 12 in such year.
-    ``(iii) No calendar year shall be disregarded by reason of 
-subparagraph (B) (in determining such individual's benefit computation 
-years) in connection with a child, parent, or spouse referred to in 
-subparagraph (B)(i)(II) unless the individual was living with such 
-child, parent, or spouse substantially throughout a period of 180 
-consecutive days in such year throughout which such child, parent, or 
-spouse was a chronically dependent individual.
-    ``(iv) The particular calendar years to be disregarded under this 
-subparagraph (in determining such benefit computation years) shall be 
-those years (not otherwise disregarded under subparagraph (A)) which, 
-before the application of subsection (f), meet the conditions of the 
-preceding provisions of this subparagraph.
-    ``(v) This subparagraph shall apply only to the extent that its 
-application would not result in a lower primary insurance amount.
-    ``(D)(i) For purposes of this paragraph, the term `chronically 
-dependent individual' means an individual who--
-            ``(I) is dependent on a daily basis on another person who 
-        is living with the individual and is assisting the individual 
-        without monetary compensation in the performance of at least 2 
-        of the activities of daily living (described in clause (ii)), 
-        and
-            ``(II) without such assistance could not perform such 
-        activities of daily living.
-    ``(ii) The `activities of daily living', referred to in clause (i), 
-are the following:
-            ``(I) Eating.
-            ``(II) Bathing.
-            ``(III) Dressing.
-            ``(IV) Toileting.
-            ``(V) Transferring in and out of a bed or in and out of a 
-        chair.
-    ``(E) The number of an individual's benefit computation years as 
-determined under this paragraph shall in no case be less than 2.''.
-
-SEC. 3. EFFECTIVE DATE AND RELATED PROVISIONS.
-
-    (a) In General.--The amendments made by this Act shall apply only 
-with respect to computation base years after 1987, and only with 
-respect to benefits payable for months after December 1998.
-    (b) Notice and Procedures.--
-            (1) 60-day grace period after initial issuance of final 
-        regulations for current beneficiaries and applicants.--The 
-        requirements of clause (iii) of section 215(b)(2)(B) of the 
-        Social Security Act (as amended by this Act) shall be treated 
-        as satisfied, in the case of a statement--
-                    (A) which is filed by an individual who is, as of 
-                the date of the first issuance in final form of the 
-                regulations required under such clause, a recipient of 
-                monthly benefits under section 202(a) or 223 of the 
-                Social Security Act, or an applicant for such benefits, 
-                and
-                    (B) with respect to which the requirements of such 
-                clause would be met but for the date of the filing of 
-                such statement,
-        if such statement is submitted to the Commissioner of Social 
-        Security not later than 60 days after the date of the first 
-        issuance in final form of such regulations.
-            (2) Notice requirements.--
-                    (A) Notice to current beneficiaries and 
-                applicants.--The Commissioner of Social Security shall 
-                issue, not later than the date of the first issuance in 
-                final form of the regulations required under clause 
-                (iii) of section 215(b)(2)(B) of the Social Security 
-                Act (as amended by this Act), regulations establishing 
-                procedures to ensure that--
-                            (i) persons who are, as of such date, 
-                        recipients of monthly benefits under section 
-                        202(a) or 223 of the Social Security Act, or 
-                        applicants for such benefits, are fully 
-                        informed of the amendments made by this Act; 
-                        and
-                            (ii) such persons are invited to comply, 
-                        and given a reasonable opportunity to comply, 
-                        with the requirements of section 
-                        215(b)(2)(B)(iii) of the Social Security Act 
-                        (as amended by this Act), as provided in 
-                        paragraph (1).
-                Upon receiving from a recipient described in clauses 
-                (i) and (ii) a written statement referred to in clause 
-                (iii) of section 215(b)(2)(B) of the Social Security 
-                Act (as amended by this Act) with respect to which the 
-                requirements of such clause are treated as satisfied, 
-                the Commissioner shall redetermine the amount of such 
-                benefits to the extent necessary to take into account 
-                the amendments made by this Act (and if such 
-                redetermination results in an increase in such amount 
-                the increase shall be effective as provided in 
-                subsection (a)).
-                    (B) Notice to future applicants.--Such regulations 
-                required under subparagraph (A) shall also provide 
-                procedures to ensure that applicants for benefits under 
-                section 202(a) or 223 of the Social Security Act are 
-                given the opportunity, at the time of their 
-                application, to indicate and verify any additional 
-                years which may be disregarded under section 
-                215(b)(2)(B) of the Social Security Act (as amended by 
-                this Act).
+    Not later than 2 years after the date of the enactment of this Act, 
+the Secretary of the Interior shall complete a report on the 
+feasibility of the agreements described in section 1 for long-term use 
+of existing or expanded non-Federal storage and conveyance facilities 
+to augment Federal water supply, ecosystem, and operational flexibility 
+benefits. The report shall be made available to the Chief of the 
+National Wildlife Refuge System and Central Valley Project contractors.
                                  <all>

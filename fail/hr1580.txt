@@ -1,129 +1,83 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1580 Introduced in House (IH)]
+[H.R. 1580 Referred in Senate (RFS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1580
 
-     To amend title 38, United States Code, to provide for certain 
-improvements in the way in which health-care resources are allocated by 
-      the Department of Veterans Affairs, and for other purposes.
-
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                              May 13, 1997
+                              May 15, 2013
 
-  Mr. Gilman introduced the following bill; which was referred to the 
-                     Committee on Veterans' Affairs
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
 
 _______________________________________________________________________
 
-                                 A BILL
+                                 AN ACT
 
 
  
-     To amend title 38, United States Code, to provide for certain 
-improvements in the way in which health-care resources are allocated by 
-      the Department of Veterans Affairs, and for other purposes.
+     To affirm the policy of the United States regarding Internet 
+                              governance.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. CRITERIA FOR REQUIRED COPAYMENT FOR MEDICAL CARE PROVIDED BY 
-              THE DEPARTMENT OF VETERANS AFFAIRS.
+SECTION 1. FINDINGS.
 
-    (a) Exception Based on Prior Catastrophic Health Care Expenses.--
-Subsection (a) of section 1722 of title 38, United States Code, is 
-amended--
-            (1) by striking out ``or'' at the end of paragraph (2);
-            (2) by striking out the period at the end of paragraph (3) 
-        and inserting in lieu thereof ``; or''; and
-            (3) by adding at the end the following new paragraph:
-            ``(4) the veteran's expenses for medical care (as defined 
-        in section 213 of the Internal Revenue Code of 1986) for the 
-        previous year are in excess of 7\1/2\ percent of the veteran's 
-        adjusted gross income for the previous year (as determined for 
-        purposes of the personal income tax under the Internal Revenue 
-        Code of 1986).''.
-    (b) Adjustment in Income Thresholds for Veterans Residing in 
-SMSAs.--Subsection (b) of such section is amended by adding at the end 
-the following new paragraph:
-    ``(3) The amounts in effect for purposes of this subsection for any 
-calendar year shall be increased by 20 percent for any veteran who 
-resides in a Standard Metropolitan Statistical Area (SMSA), as defined 
-by the Bureau of the Census.''.
-    (c) Amendments Within Existing Resources.--The Secretary of 
-Veterans Affairs shall carry out the amendments made by this section 
-for fiscal years 1998 and 1999 within the amount of funds otherwise 
-available (or programmed to be available) for medical care for the 
-Department of Veterans Affairs for those fiscal years.
-    (d) Effective Date.--The amendments made by this section shall take 
-effect on January 1, 1998.
+    The Congress finds the following:
+            (1) Given the importance of the Internet to the global 
+        economy, it is essential that the Internet remain stable, 
+        secure, and free from government control.
+            (2) The world deserves the access to knowledge, services, 
+        commerce, and communication, the accompanying benefits to 
+        economic development, education, and health care, and the 
+        informed discussion that is the bedrock of democratic self-
+        government that the Internet provides.
+            (3) The structure of Internet governance has profound 
+        implications for competition and trade, democratization, free 
+        expression, and access to information.
+            (4) Countries have obligations to protect human rights, 
+        whether exercised online or offline.
+            (5) The ability to innovate, develop technical capacity, 
+        grasp economic opportunities, and promote freedom of expression 
+        online is best realized in cooperation with all stakeholders.
+            (6) Proposals have been, and will likely continue to be, 
+        put forward at international regulatory bodies that would 
+        fundamentally alter the governance and operation of the 
+        Internet.
+            (7) The proposals would attempt to justify increased 
+        government control over the Internet and could undermine the 
+        current multistakeholder model that has enabled the Internet to 
+        flourish and under which the private sector, civil society, 
+        academia, and individual users play an important role in 
+        charting its direction.
+            (8) The proposals would diminish the freedom of expression 
+        on the Internet in favor of government control over content.
+            (9) The position of the United States Government has been 
+        and is to advocate for the flow of information free from 
+        government control.
+            (10) This Administration and past Administrations have made 
+        a strong commitment to the multistakeholder model of Internet 
+        governance and the promotion of the global benefits of the 
+        Internet.
 
-SEC. 2. SERVICES FOR MENTALLY ILL VETERANS.
+SEC. 2. POLICY REGARDING INTERNET GOVERNANCE.
 
-    (a) Membership of Committee on Care of Severely Chronically 
-Mentally Ill Veterans.--Section 7321 of title 38, United States Code, 
-is amended--
-            (1) in subsection (a), by inserting ``and members of the 
-        general public with expertise in the care of the chronically 
-        mentally ill'' in the second sentence after ``chronically 
-        mentally ill''; and
-            (2) by adding at the end the following new subsection:
-    ``(e) The Secretary shall determine the terms of service and (for 
-members appointed from the general public) the pay and allowances of 
-the members of the committee, except that a term of service may not 
-exceed five years. The Secretary may reappoint any member for 
-additional terms of service.''.
-    (b) Centers for Mental Illness Research, Education, and Clinical 
-Activities.--Paragraph (3) of section 7320(b) of such title is amended 
-to read as follows:
-    ``(3) The Secretary shall designate at least one center under this 
-section in each service network region of the Veterans Health 
-Administration.''.
+    It is the policy of the United States to preserve and advance the 
+successful multistakeholder model that governs the Internet.
 
-SEC. 3. ALLOCATION OF MEDICAL CARE RESOURCES FOR THE DEPARTMENT.
+            Passed the House of Representatives May 14, 2013.
 
-    (a) In General.--(1) Chapter 81 of title 38, United States Code, is 
-amended by inserting after section 8116 the following new section:
-``Sec. 8117. Allocation of medical care resources
-    ``In applying the plan for the allocation of health care resources 
-(including personnel and funds) known as the Veterans Equitable 
-Resource Allocation system, developed by the Secretary pursuant to the 
-requirements of section 429 of Public Law 104-204 (110 Stat. 2929) and 
-submitted to Congress in March 1997, the Secretary shall exclude from 
-consideration in the determination of the allocation of such resources 
-the following (resources for which shall be allocated in such manner as 
-the Secretary determines to be appropriate):
-            ``(1) Programs to provide readjustment counseling and 
-        treatment.
-            ``(2) Programs to provide counseling and treatment 
-        (including psychiatric care) for the mentally ill.
-            ``(3) Programs relating to drug and alcohol abuse and 
-        dependence.
-            ``(4) Programs for the homeless.
-            ``(5) Programs relating to post-traumatic stress disorder.
-            ``(6) Programs relating to spinal cord dysfunction.
-            ``(7) Programs relating to AIDS.
-            ``(8) Programs relating to geriatric and extended care.''.
-    (2) The table of sections at the beginning of such chapter is 
-amended by inserting after the item relating to section 8116 the 
-following new item:
+            Attest:
 
-``8117. Allocation of medical care resources.''.
-    (b) Effective Date.--Section 8117 of title 38, United States Code, 
-as added by subsection (a), shall apply with respect to the allocation 
-of resources for each fiscal year after fiscal year 1997.
-                                 <all>
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

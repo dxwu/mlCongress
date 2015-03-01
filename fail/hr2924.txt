@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2924 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2924
 
-   To amend the Alaskan Native Claims Settlement Act to provide for 
- selection of lands by certain veterans of the Vietnam era and by the 
-                        Elim Native Corporation.
+    To amend the Internal Revenue Code of 1986 to require that the 
+Secretary of the Treasury follow certain procedures relating to status 
+                applications of 501(c)(4) organizations.
 
 
 _______________________________________________________________________
@@ -23,10 +17,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            November 7, 1997
+                             August 1, 2013
 
- Mr. Young of Alaska introduced the following bill; which was referred 
-                     to the Committee on Resources
+ Mr. Marchant introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
 
 _______________________________________________________________________
 
@@ -34,100 +28,68 @@ _______________________________________________________________________
 
 
  
-   To amend the Alaskan Native Claims Settlement Act to provide for 
- selection of lands by certain veterans of the Vietnam era and by the 
-                        Elim Native Corporation.
+    To amend the Internal Revenue Code of 1986 to require that the 
+Secretary of the Treasury follow certain procedures relating to status 
+                applications of 501(c)(4) organizations.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. VIETNAM VETERANS ALLOTMENT.
+SECTION 1. SHORT TITLE.
 
-    The Alaskan Native Claims Settlement Act (43 U.S.C. 1600, et seq.) 
-is amended by adding at the end the following:
+    This Act may be cited as the ``Strict Standards and Accountability 
+Act''.
 
-    ``open season for certain native alaskan veterans for allotments
+SEC. 2. CERTAIN PROCEDURES RELATING TO STATUS APPLICATIONS OF 501(C)(4) 
+              ORGANIZATIONS.
 
-    ``Sec. 41. (a) In General.--(1) During the one-year period 
-beginning on the date of enactment of this section, an individual 
-described in subsection (b) is eligible for an allotment of not more 
-than 160 acres of land under the Act of May 17, 1906 (chapter 2469; 34 
-Stat. 197), as such Act was in effect before December 18, 1971.
-    ``(2) Allotments selected under this section shall not be from 
-existing native or non-native campsites.
-    ``(3) The Secretary shall prescribe such rules as may be necessary 
-to carry out this section.
-    ``(b) Eligible Individuals.--(1) An individual is eligible under 
-subsection (a) if the individual would have been eligible under the Act 
-of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect 
-before December 18, 1971, and the individual is a veteran of the 
-Vietnam era.
-    ``(2) For purposes of this section, in the case of an individual 
-described in paragraph (1) who is deceased, the heirs of the individual 
-shall be treated as the individual described in paragraph (1).
-    ``(c) Conveyance Deadline.--The Secretary of the Interior shall 
-complete land conveyances pursuant to this section not later than one 
-year after the end of the period referred to in subsection (a).
-    ``(d) Definitions.--For the purposes of this section, the terms 
-`veteran' and `Vietnam era' have the meaning given such terms by 
-paragraphs (2) and (29), respectively, of section 101 of title 38, 
-United States Code.''.
+    (a) In General.--Part I of subchapter F of chapter 1 of the 
+Internal Revenue Code of 1986 is amended by adding at the end the 
+following:
 
-SEC. 2. ELIM NATIVE CORPORATION LAND RESTORATION.
+``SEC. 506. PROCEDURES RELATING TO APPLICATIONS OF 501(C)(4) 
+              ORGANIZATIONS.
 
-    The Alaskan Native Claims Settlement Act (43 U.S.C. 1600, et seq.), 
-as amended by section 1 of this Act, is further amended by adding at 
-the end the following:
+    ``(a) Initial Notice.--The Secretary shall acknowledge in writing 
+the receipt of an application to be treated as an organization 
+described in section 501(c)(4) and exempt from tax under section 501(a) 
+not later than 28 days after receipt of such application.
+    ``(b) 6 Months.--In the case that the Secretary has not approved or 
+denied such application after 6 months after the date of the 
+acknowledgment specified in paragraph (1) the Secretary shall--
+            ``(1)(A) inform the applicant in writing as to the status 
+        of its application,
+            ``(B) enumerate reasons specific to the application for its 
+        delay, and
+            ``(C) provide an approximate expectation of when a final 
+        decision may be made, and
+            ``(2) consider such application under fast track procedures 
+        which the Secretary shall provide by regulation or other 
+        guidance.
+    ``(c) 1-Year.--
+            ``(1) In general.--In the case that the Secretary has not 
+        approved or denied such application after 365 days after the 
+        date of the acknowledgment specified in paragraph (1), the 
+        Secretary shall--
+                    ``(A) inform the applicant in writing as to the 
+                status of its application, and
+                    ``(B) enumerate reasons specific to the application 
+                for its delay.
+            ``(2) Notice to congress.--If the Secretary cannot make a 
+        decision before two months after 365 days from the date of the 
+        initial acknowledgment under subsection (a), the Secretary 
+        shall report during that time to the Chairpersons of the 
+        Committee on Ways and Means Committee and Senate Finance 
+        Committee on the extenuating circumstances of each such case 
+        that prevents timely determination thereof and provide the 
+        numerical amount of 501(c)(4) applications pending for over 365 
+        days.''.
+    (b) Clerical Amendment.--The table of sections for part I of 
+subchapter F of chapter 1 of such Code is amended by adding at the end 
+the following new item:
 
-               ``elim native corporation land restoration
-
-    ``Sec. 42. (a) Withdrawal and Availability for Selection.--The 
-lands described in subsection (b) are withdrawn from disposition under 
-the public land laws, entry or appropriation under the mining laws of 
-the United States, and the operation of the mineral leasing laws of the 
-United States, subject to valid existing rights, for a period of one 
-year from the date of enactment of this section, for selection by the 
-Elim Native Corporation under this section.
-    ``(b) Lands Described.--The lands described in this section are 
-within the boundary of the parcel of land in the vicinity of Elim, 
-Alaska, at approximately latitude 64 50 N. longitude 162 00 W, more 
-particularly described as follows:
-            ``Beginning at the point of intersection of line 3-4, U.S. 
-        Survey No. 2548 with the protracted West Boundary of T8S, R18W 
-        KRM, Alaska;
-            ``Thence North, along the west boundary of the 
-        aforementioned township, approximately 4\1/2\ miles to the 
-        protracted position for the corner of sections 1, 6, 7, and 12;
-            ``Thence Northeasterly, parallel with line 4-3 of U.S. 
-        Survey No. 2548, approximately 20\1/2\ miles, to a point;
-            ``Thence East approximately 6 miles to corner No. 3 U.S. 
-        Survey No. 2548;
-            ``Thence Southwesterly along lines 3-4, U.S. Survey 2548 
-        approximately 27\1/2\ miles to the point of beginning.
-    ``(c) Authorization To Select Lands; Reservation of Easement.--The 
-Elim Native Corporation is authorized to select 50,000 acres of lands 
-within the boundary of the lands described in subsection (b) to satisfy 
-its land entitlements under section 19(b). The Secretary is authorized 
-to receive, adjudicate, and convey the lands to the Elim Native 
-Corporation subject to--
-            ``(1) valid existing rights; and
-            ``(2) an easement reserved to the United States for the 
-        benefit of the public. An easement in the lands shall be 
-        reserved to the Iditarod National Historic Trail.
-    ``(d) Withdrawal and Selection of Additional Lands.--The Secretary 
-is authorized to withdraw, and Elim Native Corporation is authorized to 
-select, not later than 18 months after the date of the enactment of 
-this section additional lands adjacent to the lands withdrawn by 
-subsection (a) to fulfill Elim Native Corporation's land entitlements 
-equal to the total acreage of the Norton Bay Reservation as withdrawn 
-by Executive Order No. 2508, dated January 3, 1917.
-    ``(e) Finality of Selections.--Selection by the Elm Native 
-Corporation of lands under subsection (c) or (d) shall constitute full 
-satisfaction of any claim or entitlement of the Elim Native 
-Corporation--
-            ``(1) with respect to subsection (c), to its land 
-        entitlements under section 19(b), and
-            ``(2) with respect to subsection (d), to the extinguishment 
-        of the Norton Bay Reservation (as withdrawn by Executive Order 
-        No. 2508, dated January 3, 1917).''.
+``Sec. 506. Procedures relating to applications of 501(c)(4) 
+                            organizations.''.
+    (c) Effective Date.--The amendment made by this section shall apply 
+to applications submitted after the date of the enactment of this Act.
                                  <all>

@@ -1,23 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4729 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4729
 
-  To provide for protection of the Minnesota Valley National Wildlife 
- Refuge and endangered species and other wildlife that inhabit or uses 
- that refuge, and to ensure that scarce refuge land in and around the 
-Minneapolis, Minnesota, metropolitan area is not subjected to physical 
-                        or auditory impairment.
+ To require debarment of persons convicted of fraudulent use of ``Made 
+                          in America'' labels.
 
 
 _______________________________________________________________________
@@ -25,12 +16,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            October 7, 1998
+                              May 22, 2014
 
-   Mr. Young of Alaska (for himself, Mr. Doolittle, Mr. McInnis, Mr. 
-   Gibbons, Mrs. Cubin, Mr. Sessions, Mr. Pombo, Mr. Radanovich, Mr. 
- McKeon, Mr. Bob Schaffer of Colorado, and Mr. Hansen) introduced the 
-    following bill; which was referred to the Committee on Resources
+Mr. Grayson (for himself and Ms. Shea-Porter) introduced the following 
+      bill; which was referred to the Committee on Armed Services
 
 _______________________________________________________________________
 
@@ -38,62 +27,41 @@ _______________________________________________________________________
 
 
  
-  To provide for protection of the Minnesota Valley National Wildlife 
- Refuge and endangered species and other wildlife that inhabit or uses 
- that refuge, and to ensure that scarce refuge land in and around the 
-Minneapolis, Minnesota, metropolitan area is not subjected to physical 
-                        or auditory impairment.
+ To require debarment of persons convicted of fraudulent use of ``Made 
+                          in America'' labels.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Minnesota Valley National Wildlife 
-Refuge Protection Act of 1998''.
+    This Act may be cited as the ``Prohibiting False `Made in America' 
+Claims Act''.
 
-SEC. 2. FINDINGS.
+SEC. 2. DEBARMENT REQUIRED OF PERSONS CONVICTED OF FRAUDULENT USE OF 
+              ``MADE IN AMERICA'' LABELS.
 
-    The Congress finds the following:
-            (1) On September 21, 1998, the United States Fish and 
-        Wildlife Service announced an agreement with the Metropolitan 
-        Airports Commission of the State of Minnesota, which is the 
-        public agency that operates the Minneapolis-St. Paul 
-        International Airport. The agreement would allow construction 
-        of a new runway for that airport that would have severe impacts 
-        on the Minnesota Valley National Wildlife Refuge.
-            (2) The agreement purported to mitigate impacts of a major 
-        runway expansion that would allow jumbo jets to fly as low a 
-        500 feet from the surface of the Minnesota Valley National 
-        Wildlife Refuge.
-            (3) The Minnesota Valley National Wildlife Refuge, in 
-        serving as an urban-oriented refuge, is a sanctuary in the 
-        midst of the urban and industrial sprawl of Minneapolis and St. 
-        Paul, Minnesota. Any agreement to allow scores of jumbo jets 
-        each day to fly any closer to the one place of sanctuary in 
-        that region violates the very concept of providing places of 
-        refuge for wildlife.
-            (4) A disparity exists in the treatment of activities 
-        affecting various National Wildlife Refuges. Although low-
-        altitude overflights would be allowed over the Minnesota Valley 
-        National Wildlife Refuge, activities that would have 
-        significantly fewer impacts have been prohibited on or near 
-        other National Wildlife Refuges located in rural areas. Even 
-        emergency medical services necessary to save human lives have 
-        not been allowed access to some National Wildlife Refuges.
-
-SEC. 3. MINNESOTA VALLEY NATIONAL WILDLIFE REFUGE PROTECTION.
-
-    (a) Moratorium on Implementation of Agreement.--The Secretary of 
-the Interior and the United States Fish and Wildlife Service shall not 
-implement any agreement that would allow for an expansion of the 
-Minneapolis-St. Paul International Airport.
-    (b) Report.--Not later than 60 days after the date of the enactment 
-of this Act, the Secretary of the Interior shall report to the Congress 
-regarding whether the activities associated with expansion of the 
-Minneapolis-St. Paul International Airport or additional overflights of 
-Minnesota Valley National Wildlife Refuge by air traffic using that 
-airport may constitute a taking of an endangered species or threatened 
-species prohibited by the Endangered Species Act of 1973 (16 U.S.C. 
-1531 et seq.).
+    (a) Debarment Required.--Subsection (a) of section 2410f of title 
+10, United States Code, is amended by striking ``the Secretary shall'' 
+and all that follows through the period and inserting ``the person 
+shall be debarred from contracting with the Department of Defense 
+unless the Secretary waives the debarment under subsection (b).''.
+    (b) Waiver Authority and Notification Requirement.--Section 2410f 
+of such title is further amended--
+            (1) by redesignating subsection (b) as subsection (d); and
+            (2) by inserting after subsection (a) the following new 
+        subsections:
+    ``(b) Waiver for National Security.--The Secretary may waive a 
+debarment required by subsection (a) if the Secretary determines that 
+the exercise of such a waiver would be in the national security 
+interests of the United States.
+    ``(c) Notification.--The Secretary shall notify the congressional 
+defense committees annually, not later than March 1 of each year, of 
+any exercise of the waiver authority under subsection (b).''.
+    (c) Technical Amendments.--Section 2410f of such title is further 
+amended--
+            (1) in subsection (a), by inserting ``Debarment Required.--
+        '' after ``(a)''; and
+            (2) in subsection (d), as redesignated by subsection (b), 
+        by inserting ``Definition.--'' before ``In this section''.
                                  <all>

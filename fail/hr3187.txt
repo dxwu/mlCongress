@@ -1,22 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3187 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 3187
 
- To amend the Federal Land Policy and Management Act of 1976 to exempt 
- not-for-profit entities that hold rights-of-way on public lands from 
- certain strict liability requirements imposed in connection with such 
-                             rights-of-way.
+To appropriate such funds as may be necessary to ensure that members of 
+the Armed Forces, including reserve components thereof, and supporting 
+     civilian and contractor personnel continue to receive pay and 
+allowances for active service performed when a Governmentwide shutdown 
+                    occurs, and for other purposes.
 
 
 _______________________________________________________________________
@@ -24,10 +19,14 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                           February 11, 1998
+                           September 26, 2013
 
- Mr. Smith of Oregon introduced the following bill; which was referred 
-                     to the Committee on Resources
+Ms. Sinema (for herself and Ms. Gabbard) introduced the following bill; 
+which was referred to the Committee on Armed Services, and in addition 
+to the Committee on Transportation and Infrastructure, for a period to 
+      be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
 
 _______________________________________________________________________
 
@@ -35,25 +34,55 @@ _______________________________________________________________________
 
 
  
- To amend the Federal Land Policy and Management Act of 1976 to exempt 
- not-for-profit entities that hold rights-of-way on public lands from 
- certain strict liability requirements imposed in connection with such 
-                             rights-of-way.
+To appropriate such funds as may be necessary to ensure that members of 
+the Armed Forces, including reserve components thereof, and supporting 
+     civilian and contractor personnel continue to receive pay and 
+allowances for active service performed when a Governmentwide shutdown 
+                    occurs, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. EXEMPTION FOR NOT-FOR-PROFIT ENTITIES FROM STRICT LIABILITY 
-              FOR RECOVERY OF FIRE SUPPRESSION COSTS.
+SECTION 1. SHORT TITLE.
 
-    Section 504(h) of the Federal Land Policy and Management Act of 
-1976 (43 U.S.C. 1764(h)) is amended by adding at the end the following 
-new paragraph:
-    ``(3) In the regulations required under this subsection, the 
-Secretary concerned may not impose liability without fault for fire 
-suppression costs incurred by the United States with respect to a 
-right-of-way under this title if the holder of the right-of-way is a 
-not-for-profit entity, including a not-for-profit entity that uses the 
-right-of-way for the delivery of electricity to parties having an 
-equity interest in the not-for-profit entity.''.
+    This Act may be cited as the ``Military Pay Protection Act of 
+2013''.
+
+SEC. 2. EMERGENCY APPROPRIATION OF FUNDS TO PROVIDE PAY AND ALLOWANCES 
+              FOR MEMBERS OF THE ARMED FORCES AND SUPPORTING CIVILIAN 
+              AND CONTRACTOR PERSONNEL DURING GOVERNMENTWIDE SHUTDOWN.
+
+    During a Governmentwide shutdown, the Secretary of the Treasury 
+shall make available to the Secretary of Defense (and the Secretary of 
+Homeland Security in the case of the Coast Guard), out of any amounts 
+in the general fund of the Treasury not otherwise appropriated, such 
+amounts as the Secretary of Defense (and the Secretary of Homeland 
+Security in the case of the Coast Guard) determines to be necessary to 
+continue to provide the following:
+            (1) Pay and allowances (without interruption) to the 
+        following:
+                    (A) Members of the Army, Navy, Air Force, Marine 
+                Corps, and Coast Guard, including reserve components 
+                thereof, who perform active service during the 
+                Governmentwide shutdown.
+                    (B) At the discretion of the Secretary of Defense, 
+                such civilian personnel of the Department of Defense 
+                who are providing support to the members of the Armed 
+                Forces described in paragraph (1) as the Secretary 
+                considers appropriate.
+                    (C) At the discretion of the Secretary of Defense, 
+                such personnel of contractors of the Department of 
+                Defense who are providing direct support to the members 
+                of the Armed Forces described in paragraph (1) as the 
+                Secretary considers appropriate.
+            (2) Funding necessary to prevent interruptions or delays in 
+        the performance of domestic disaster relief and recovery 
+        operations during the Governmentwide shutdown.
+
+SEC. 3. GOVERNMENTWIDE SHUTDOWN DEFINED.
+
+    In this Act, the term ``Governmentwide shutdown'' means any portion 
+of a fiscal year during which none of the appropriation bills for the 
+fiscal year have become law and an Act or joint resolution making 
+continuing appropriations for the fiscal year is not in effect.
                                  <all>

@@ -1,20 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. Res. 145 Agreed to Senate (ATS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
 S. RES. 145
 
- Designating the month of November 1997 as ``National American Indian 
-                           Heritage Month''.
+Promoting minority health awareness and supporting the goals and ideals 
+ of National Minority Health Month in April 2013 to bring attention to 
+ the health disparities faced by minority populations such as American 
+   Indians and Alaska Natives, Asians, Blacks or African Americans, 
+Hispanics or Latinos, and Native Hawaiians and other Pacific Islanders.
 
 
 _______________________________________________________________________
@@ -22,22 +19,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-  Mr. Campbell (for himself, Mr. Inouye, Mr. Abraham, Mr. Allard, Mr. 
-    Baucus, Mr. Bennett, Mr. Bingaman, Mrs. Boxer, Mr. Breaux, Mr. 
-Brownback, Mr. Bryan, Mr. Chafee, Mr. Cochran, Ms. Collins, Mr. Conrad, 
-   Mr. D'Amato, Mr. Daschle, Mr. Dodd, Mr. Domenici, Mr. Dorgan, Mr. 
-  Durbin, Mr. Enzi, Mr. Faircloth, Mr. Feingold, Mrs. Feinstein, Mr. 
-  Ford, Mr. Frist, Mr. Gorton, Mr. Graham, Mr. Hatch, Mr. Inhofe, Mr. 
- Jeffords, Mr. Johnson, Mr. Kennedy, Ms. Landrieu, Mr. Lautenberg, Mr. 
- Levin, Mr. Lieberman, Mr. Lott, Mr. McCain, Ms. Mikulski, Ms. Moseley-
-Braun, Mrs. Murray, Mr. Reid, Mr. Rockefeller, Mr. Smith of Oregon, Mr. 
-    Thomas, Mr. Thurmond, Mr. Warner, Mr. Wellstone, Mr. Wyden, Mr. 
- Murkowski and Mr. Stevens) submitted the following resolution; which 
-             was referred to the Committee on the Judiciary
+                              May 16, 2013
 
-                            November 9, 1997
-
-             Committee discharged; considered and agree to
+    Mr. Cardin (for himself and Mr. Schatz) submitted the following 
+             resolution; which was considered and agreed to
 
 _______________________________________________________________________
 
@@ -45,38 +30,52 @@ _______________________________________________________________________
 
 
  
- Designating the month of November 1997 as ``National American Indian 
-                           Heritage Month''.
+Promoting minority health awareness and supporting the goals and ideals 
+ of National Minority Health Month in April 2013 to bring attention to 
+ the health disparities faced by minority populations such as American 
+   Indians and Alaska Natives, Asians, Blacks or African Americans, 
+Hispanics or Latinos, and Native Hawaiians and other Pacific Islanders.
 
-Whereas American Indians and Alaska Natives were the original inhabitants of the 
-        land that now constitutes the United States;
-Whereas American Indian tribal governments developed the fundamental principles 
-        of freedom of speech and separation of powers that form the foundation 
-        of the United States Government;
-Whereas American Indians and Alaska Natives have traditionally exhibited a 
-        respect for the finiteness of natural resources through a reverence for 
-        the earth;
-Whereas American Indians and Alaska Natives have served with valor in all of 
-        America's wars beginning with the Revolutionary War through the conflict 
-        in the Persian Gulf, and often the percentage of American Indians who 
-        served exceeded significantly the percentage of American Indians in the 
-        population of the United States as a whole;
-Whereas American Indians and Alaska Natives have made distinct and important 
-        contributions to the United States and the rest of the world in many 
-        fields, including agriculture, medicine, music, language, and art;
-Whereas American Indians and Alaska Natives deserve to be recognized for their 
-        individual contributions to the United States as local and national 
-        leaders, artists, athletes, and scholars;
-Whereas this recognition will encourage self-esteem, pride, and self-awareness 
-        in American Indians and Alaska Natives of all ages; and
-Whereas November is a time when many Americans commemorate a special time in the 
-        history of the United States when American Indians and English settlers 
-        celebrated the bounty of their harvest and the promise of new kinships: 
-        Now, therefore, be it
-    Resolved, That the Senate designates November 1997 as ``National 
-American Indian Heritage Month'' and requests that the President issue 
-a proclamation calling on the Federal Government and State and local 
-governments, interested groups and organizations, and the people of the 
-United States to observe the month with appropriate programs, 
-ceremonies, and activities.
+Whereas in 2011, the Department of Health and Human Services released the 
+        ``National Stakeholder Strategy for Achieving Health Equity'' and the 
+        ``Disparities action Plan'' to reduce health care disparities in the 
+        United States;
+Whereas a recent analysis estimates that the economy of the United States loses 
+        an estimated $309,000,000,000 a year due to the direct and indirect 
+        costs of health disparities;
+Whereas the Department of Health and Human Services has identified 6 main 
+        categories in which racial and ethnic minorities experience the most 
+        disparate access to health care and health outcomes, including infant 
+        mortality, cancer screening and management, cardiovascular disease, 
+        diabetes, HIV and AIDS infection, and immunizations;
+Whereas African-American women are more than twice as likely to die of cervical 
+        cancer than White women and are more likely to die of breast cancer than 
+        women of any other racial or ethnic group;
+Whereas the rate of death from coronary heart disease is 30 percent higher among 
+        African Americans than among Whites;
+Whereas the death rate from stroke is 50 percent higher among African Americans 
+        than among Whites;
+Whereas in 2012, as compared to non-Hispanic Whites living in Hawaii, Native 
+        Hawaiians had more than twice the rate of medically-diagnosed diabetes 
+        and were 5.7 times more likely to die of diabetes;
+Whereas compared to non-Hispanic White men, African American men are 9.5 times 
+        more likely to die of AIDS and Hispanic men are 2.5 times more likely to 
+        die of AIDS;
+Whereas in 2010, 84 percent of children born with HIV infection belonged to 
+        minority groups;
+Whereas the Department of Health and Human Services has identified diseases of 
+        the heart, malignant neoplasm, unintentional injuries, diabetes, and 
+        cerebrovascular disease as some of the leading causes of death among 
+        American Indians and Alaska Natives;
+Whereas American Indians and Alaska Natives die at higher rates than other 
+        people in the United States from tuberculosis, diabetes, unintentional 
+        injuries, and suicide; and
+Whereas American Indians and Alaska Natives have a life expectancy that is 5.2 
+        years shorter than the life expectancy of the overall population of the 
+        United States: Now, therefore, be it
+    Resolved, That the Senate supports the goals and ideals of National 
+Minority Health Month in April 2013 to bring attention to the severe 
+health disparities faced by minority populations such as American 
+Indians and Alaska Natives, Asians, Blacks or African Americans, 
+Hispanics or Latinos, and Native Hawaiians and other Pacific Islanders.
                                  <all>

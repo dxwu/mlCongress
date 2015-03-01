@@ -1,57 +1,67 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 2443 Enrolled Bill (ENR)]
+[H.R. 2443 Introduced in House (IH)]
 
-        H.R.2443
+113th CONGRESS
+  1st Session
+                                H. R. 2443
 
-                       One Hundred Fifth Congress
-
-                                 of the
-
-                        United States of America
-
-
-                          AT THE FIRST SESSION
-
-          Begun and held at the City of Washington on Tuesday,
- the seventh day of January, one thousand nine hundred and ninety-seven
+     To amend the Internal Revenue Code of 1986 to exempt certain 
+  educational institutions from the employer health insurance mandate.
 
 
-                                 An Act
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 19, 2013
+
+   Mr. Messer (for himself, Mr. Rokita, and Mrs. Brooks of Indiana) 
+ introduced the following bill; which was referred to the Committee on 
+                             Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
 
 
  
-To designate the Federal building located at 601 Fourth Street, NW., in 
-  the District of Columbia, as the ``Federal Bureau of Investigation, 
-  Washington Field Office Memorial Building'', in honor of William H. 
-   Christian, Jr., Martha Dixon Martinez, Michael J. Miller, Anthony 
-                   Palmisano, and Edwin R. Woodriffe.
+     To amend the Internal Revenue Code of 1986 to exempt certain 
+  educational institutions from the employer health insurance mandate.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. PURPOSE.
+SECTION 1. SHORT TITLE.
 
-    The purpose of this Act is to designate the Federal building 
-referred to in section 2 in honor of William H. Christian, Jr., Martha 
-Dixon Martinez, Michael J. Miller, Anthony Palmisano, and Edwin R. 
-Woodriffe, who were slain in the line of duty.
+    This Act may be cited as the ``Safeguarding Children Harmed by 
+Obamacare's Onerous Levies Act''.
 
-SEC. 2. FEDERAL BUREAU OF INVESTIGATION, WASHINGTON FIELD OFFICE 
-              MEMORIAL BUILDING.
+SEC. 2. CERTAIN EDUCATIONAL INSTITUTIONS EXEMPT FROM EMPLOYER HEALTH 
+              INSURANCE MANDATE.
 
-    (a) Designation.--The Federal building located at 601 Fourth 
-Street, NW., in the District of Columbia, shall be known and designated 
-as the ``Federal Bureau of Investigation, Washington Field Office 
-Memorial Building''.
-    (b) References.--Any reference in a law, map, regulation, document, 
-paper, or other record of the United States to the Federal building 
-referred to in subsection (a) shall be deemed to be a reference to the 
-``Federal Bureau of Investigation, Washington Field Office Memorial 
-Building''.
-
-                               Speaker of the House of Representatives.
-
-                            Vice President of the United States and    
-                                               President of the Senate.
+    (a) In General.--Section 4980H(c)(2) of the Internal Revenue Code 
+of 1986 is amended by adding at the end the following new subparagraph:
+                    ``(F) Exception for certain educational 
+                institutions.--The term `applicable large employer' 
+                shall not include--
+                            ``(i) any elementary school or secondary 
+                        school (as such terms are defined in section 
+                        9101 of the Elementary and Secondary Education 
+                        Act of 1965),
+                            ``(ii) any for-profit school which would be 
+                        such an elementary school or secondary school 
+                        if such school were a nonprofit school,
+                            ``(iii) any local educational agency or 
+                        State educational agency (as such terms are 
+                        defined in section 9101 of such Act), and
+                            ``(iv) any institution of higher education 
+                        (as such term is defined in section 102 of the 
+                        Higher Education Act of 1965, except that such 
+                        term does not include institutions described in 
+                        subsection (a)(1)(C) of such section 102).''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to months beginning after December 31, 2013.
+                                 <all>

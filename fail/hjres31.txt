@@ -1,14 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.J. Res. 31 Introduced in House (IH)]
 
+113th CONGRESS
   1st Session
 H. J. RES. 31
 
-  Proposing an amendment to the Constitution of the United States to 
-allow the States to limit the period of time United States Senators and 
-                       Representatives may serve.
+    Proposing an amendment to the Constitution of the United States 
+   relating to the authority of Congress and the States to regulate 
+  contributions and expenditures in political campaigns and to enact 
+              public financing systems for such campaigns.
 
 
 _______________________________________________________________________
@@ -16,9 +18,12 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            January 9, 1997
+                           February 14, 2013
 
-   Mr. Sanford introduced the following joint resolution; which was 
+  Mr. Schiff (for himself, Mr. Capuano, Mr. Cicilline, Mr. Farr, Mr. 
+ Garamendi, Mr. Himes, Ms. Lee of California, Mr. Michaud, Mr. Moran, 
+Ms. Norton, Mr. Welch, Mr. Van Hollen, Mr. Ruppersberger, Ms. McCollum, 
+ and Mr. Rangel) introduced the following joint resolution; which was 
                referred to the Committee on the Judiciary
 
 _______________________________________________________________________
@@ -27,12 +32,13 @@ _______________________________________________________________________
 
 
  
-  Proposing an amendment to the Constitution of the United States to 
-allow the States to limit the period of time United States Senators and 
-                       Representatives may serve.
+    Proposing an amendment to the Constitution of the United States 
+   relating to the authority of Congress and the States to regulate 
+  contributions and expenditures in political campaigns and to enact 
+              public financing systems for such campaigns.
 
     Resolved by the Senate and House of Representatives of the United 
-States of America in Congress assembled (two-thirds of each House 
+States of America in Congress assembled   (two-thirds of each House 
 concurring therein), That the following article is proposed as an 
 amendment to the Constitution of the United States, which shall be 
 valid to all intents and purposes as part of the Constitution when 
@@ -41,14 +47,11 @@ within seven years after the date of its submission for ratification:
 
                               ``Article--
 
-    ``Section 1. Each State or the people thereof may prescribe the 
-maximum number of terms to which a person may be elected or appointed 
-to the Senate of the United States.
-    ``Section 2. Each State or the people thereof may prescribe the 
-maximum number of terms to which a person may be elected to the House 
-of Representatives of the United States.
-    ``Section 3. This article shall become inoperative unless it shall 
-have been ratified by the legislatures of three-fourths of the several 
-States within seven years from the date of its submission to the States 
-by the Congress.''.
+    ``Nothing in this Constitution shall be construed to forbid 
+Congress or the States from imposing reasonable content-neutral 
+limitations on private campaign contributions or independent election 
+expenditures, or from enacting systems of public campaign financing, 
+including those designed to restrict the influence of private wealth by 
+offsetting campaign spending or independent expenditures with increased 
+public funding.''.
                                  <all>

@@ -1,22 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2050 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2050
 
-To amend title 10, United States Code, to prohibit members of the Armed 
-     Forces from entering into correctional facilities to present 
-decorations to persons who commit certain crimes before being presented 
-                           such decorations.
+  To amend the Internal Revenue Code of 1986 to increase the national 
+  limitation amount for qualified highway or surface freight transfer 
+                            facility bonds.
 
 
 _______________________________________________________________________
@@ -24,10 +17,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                              May 7, 1998
+                           February 27, 2014
 
-Mrs. Feinstein introduced the following bill; which was read twice and 
-              referred to the Committee on Armed Services
+   Mr. Kirk introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
 
 _______________________________________________________________________
 
@@ -35,36 +28,19 @@ _______________________________________________________________________
 
 
  
-To amend title 10, United States Code, to prohibit members of the Armed 
-     Forces from entering into correctional facilities to present 
-decorations to persons who commit certain crimes before being presented 
-                           such decorations.
+  To amend the Internal Revenue Code of 1986 to increase the national 
+  limitation amount for qualified highway or surface freight transfer 
+                            facility bonds.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. PROHIBITION ON ENTRY INTO CORRECTIONAL FACILITIES FOR 
-              PRESENTATION OF DECORATIONS TO PERSONS WHO COMMIT CERTAIN 
-              CRIMES BEFORE PRESENTATION.
+SECTION 1. INCREASE NATIONAL LIMITATION AMOUNT FOR QUALIFIED HIGHWAY OR 
+              SURFACE FREIGHT TRANSFER FACILITY BONDS.
 
-    (a) Prohibition.--Chapter 57 of title 10, United States Code, is 
-amended by adding at the end the following:
-``Sec. 1132. Presentation of decorations: prohibition on entering into 
-              correctional facilities for certain presentations
-    ``(a) Prohibition.--No member of the armed forces may enter into a 
-Federal, State, or local correctional facility for purposes of 
-presenting a decoration to a person who has been convicted of a serious 
-violent felony.
-    ``(b) Definitions.--In this section:
-            ``(1) The term `decoration' means any decoration or award 
-        that may be presented or awarded to a member of the armed 
-        forces.
-            ``(2) The term `serious violent felony' has the meaning 
-        given that term in section 3359(c)(2)(F) of title 18.''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-that chapter is amended by adding at the end the following:
-
-``1132. Presentation of decorations: prohibition on entering into 
-                            correctional facilities for certain 
-                            presentations.''.
+    (a) In General.--Subparagraph (A) of section 142(m)(2) of the 
+Internal Revenue Code of 1986 is amended by striking 
+``$15,000,000,000'' and inserting ``$19,000,000,000''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to bonds issued after the date of the enactment of this Act.
                                  <all>

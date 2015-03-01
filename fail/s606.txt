@@ -1,20 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 606 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 606
 
-To prohibit discrimination in contracting on federally funded projects 
-    on the basis of certain labor policies of potential contractors.
+To amend the Internal Revenue Code of 1986 to modify the rules relating 
+ to loans made from a qualified employer plan, and for other purposes.
 
 
 _______________________________________________________________________
@@ -22,14 +16,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             April 17, 1997
+                             March 19, 2013
 
-   Mr. Hutchinson (for himself, Mr. Lott, Mr. Nickles, Mr. Mack, Mr. 
-Coverdell, Mr. Thurmond, Mr. Jeffords, Mr. Coats, Mr. Gregg, Mr. Frist, 
-   Mr. Enzi, Ms. Collins, Mr. Warner, Mr. McConnell, Mr. Allard, Mr. 
-   Brownback, Mr. Sessions, Mr. Hagel, Mr. Kyl, Mr. Roberts, and Mr. 
-Craig) introduced the following bill; which was read twice and referred 
-             to the Committee on Labor and Human Resources
+ Mr. Nelson (for himself and Mr. Enzi) introduced the following bill; 
+     which was read twice and referred to the Committee on Finance
 
 _______________________________________________________________________
 
@@ -37,42 +27,92 @@ _______________________________________________________________________
 
 
  
-To prohibit discrimination in contracting on federally funded projects 
-    on the basis of certain labor policies of potential contractors.
+To amend the Internal Revenue Code of 1986 to modify the rules relating 
+ to loans made from a qualified employer plan, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Open Competition Act of 1997''.
+    This Act may be cited as the ``Shrinking Emergency Account Losses 
+Act of 2013'' or the ``SEAL Act''.
 
-SEC. 2. PROHIBITION REGARDING CONSIDERATION OF CERTAIN LABOR RELATIONS 
-              POLICIES OF OFFERORS ON FEDERALLY FUNDED CONTRACTS.
+SEC. 2. EXTENDED ROLLOVER PERIOD FOR THE ROLLOVER OF PLAN LOAN OFFSET 
+              AMOUNTS IN CERTAIN CASES.
 
-    Section 8(e) of the National Labor Relations Act (29 U.S.C. 158(e)) 
-is amended by adding at the end the following: ``Notwithstanding any 
-other provision of this Act, no person may be discriminated against 
-when bidding on a prime contract, funded in whole or in part with funds 
-provided by the Federal Government, where such discrimination is based 
-in whole or in part on a requirement that such person enter into or 
-adhere to a collective bargaining agreement or any similar agreement as 
-a condition of performing work under the contract.''.
+    (a) In General.--Paragraph (3) of section 402(c) of the Internal 
+Revenue Code of 1986 is amended by adding at the end the following new 
+subparagraph:
+                    ``(C) Rollover of certain plan loan offset 
+                amounts.--
+                            ``(i) In general.--In the case of a 
+                        qualified plan loan offset amount, paragraph 
+                        (1) shall not apply to any transfer of such 
+                        amount made after the due date (including 
+                        extensions) for filing the return of tax for 
+                        the taxable year in which such amount is 
+                        treated as distributed from a qualified 
+                        employer plan.
+                            ``(ii) Qualified plan loan offset amount.--
+                        For purposes of this subparagraph, the term 
+                        `qualified plan loan offset amount' means a 
+                        plan loan offset amount which is treated as 
+                        distributed from a qualified employer plan to a 
+                        participant or beneficiary solely by reason 
+                        of--
+                                    ``(I) the termination of the 
+                                qualified employer plan, or
+                                    ``(II) the failure to meet the 
+                                repayment terms of the loan from such 
+                                plan because of the separation from 
+                                service of the participant (whether due 
+                                to layoff, cessation of business, 
+                                termination of employment, or 
+                                otherwise).
+                            ``(iii) Plan loan offset amount.--For 
+                        purposes of clause (ii), the term `plan loan 
+                        offset amount' means the amount by which the 
+                        participant's accrued benefit under the plan is 
+                        reduced in order to repay a loan from the plan.
+                            ``(iv) Limitation.--This subparagraph shall 
+                        not apply to any plan loan offset amount unless 
+                        such plan loan offset amount relates to a loan 
+                        to which section 72(p)(1) does not apply by 
+                        reason of section 72(p)(2).
+                            ``(v) Qualified employer plan.--For 
+                        purposes of this subsection, the term 
+                        `qualified employer plan' has the meaning given 
+                        such term by section 72(p)(4).''.
+    (b) Conforming Amendment.--Subparagraph (A) of section 402(c)(3) of 
+the Internal Revenue Code of 1986 is amended by striking ``subparagraph 
+(B)'' and inserting ``subparagraphs (B) and (C)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to transfers made after the date of the enactment of this Act.
 
-SEC. 3. CONSTRUCTION.
+SEC. 3. MODIFICATION OF RULES GOVERNING HARDSHIP DISTRIBUTIONS.
 
-    The amendment made by section 2 shall not be construed--
-            (1) to apply to subcontractors; or
-            (2)(A) to prohibit a contractor from voluntarily entering 
-        into a lawful agreement with a labor organization; or
-            (B) to discourage contractors who have entered into such an 
-        agreement from bidding on Federal contracts.
+    Not later than 1 year after the date of the enactment of this Act, 
+the Secretary of the Treasury shall modify Treasury Regulation section 
+1.401(k)-1(d)(3)(iv)(E) to--
+            (1) delete the prohibition imposed by paragraph (2) 
+        thereof, and
+            (2) to make any other modifications necessary to carry out 
+        the purposes of section 401(k)(2)(B)(i)(IV) of the Internal 
+        Revenue Code of 1986.
 
-SEC. 4. APPLICATION.
+SEC. 4. QUALIFIED EMPLOYER PLANS PROHIBITED FROM MAKING LOANS THROUGH 
+              CREDIT CARDS AND OTHER SIMILAR ARRANGEMENTS.
 
-    The amendment made by section 2 shall apply to contracts made 
-directly with any agency of the Federal Government and to contracts 
-made with any entity that is managing or operating a facility owned or 
-controlled by the Federal Government on behalf of the Federal 
-Government.
+    (a) In General.--Paragraph (2) of section 72(p) of the Internal 
+Revenue Code of 1986 is amended by redesignating subparagraph (D) as 
+subparagraph (E) and by inserting after subparagraph (C) the following 
+new subparagraph:
+                    ``(D) Prohibition of loans through credit cards and 
+                other similar arrangements.--Subparagraph (A) shall not 
+                apply to any loan which is made through the use of any 
+                credit card or any other similar arrangement.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to plan years beginning after the date which is 60 days after the 
+date of the enactment of this Act.
                                  <all>

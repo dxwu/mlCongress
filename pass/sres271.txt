@@ -1,12 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. Res. 271 Agreed to Senate (ATS)]
+[S. Res. 271 Introduced in Senate (IS)]
 
-  2d Session
+113th CONGRESS
+  1st Session
 S. RES. 271
 
-     Designating October 16, 1998, as ``National Mammography Day''.
+    Expressing the sense of the Senate that United States military 
+ assistance for Cambodia should be suspended until an independent and 
+  credible investigation occurs into the July 28, 2013, parliamentary 
+elections, and election reforms are being implemented by the Government 
+                              of Cambodia.
 
 
 _______________________________________________________________________
@@ -14,28 +19,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-             September 3 (legislative day, August 31), 1998
+                            October 16, 2013
 
-   Mr. Biden (for himself, Mr. Abraham, Mr. Akaka, Mr. Ashcroft, Mr. 
-   Baucus, Mr. Bennett, Mr. Bingaman, Mrs. Boxer, Mr. Brownback, Mr. 
- Bryan, Mr. Byrd, Mr. Campbell, Mr. Chafee, Mr. Cochran, Mr. D'Amato, 
- Mr. Dodd, Mr. Dorgan, Mr. Durbin, Mr. Faircloth, Mrs. Feinstein, Mr. 
- Ford, Mr. Glenn, Mr. Graham, Mr. Gramm, Mr. Grassley, Mr. Gregg, Mr. 
- Hollings, Mrs. Hutchison, Mr. Inouye, Mr. Jeffords, Mr. Johnson, Mr. 
-   Kennedy, Mr. Kerrey, Ms. Landrieu, Mr. Lautenberg, Mr. Leahy, Mr. 
- Lieberman, Mr. Mack, Mr. McCain, Ms. Mikulski, Ms. Moseley-Braun, Mr. 
-Moynihan, Mr. Murkowski, Mrs. Murray, Mr. Reid, Mr. Robb, Mr. Roth, Mr. 
- Sarbanes, Mr. Smith of Oregon, Ms. Snowe, Mr. Specter, Mr. Thurmond, 
-Mr. Torricelli, and Mr. Wellstone) submitted the following resolution; 
-          which was referred to the Committee on the Judiciary
-
-              October 8 (legislative day, October 2), 1998
-
-                Reported by Mr. Hatch, without amendment
-
-              October 9 (legislative day, October 2), 1998
-
-                        Considered and agreed to
+ Mr. Graham submitted the following resolution; which was referred to 
+                   the Committee on Foreign Relations
 
 _______________________________________________________________________
 
@@ -43,33 +30,49 @@ _______________________________________________________________________
 
 
  
-     Designating October 16, 1998, as ``National Mammography Day''.
+    Expressing the sense of the Senate that United States military 
+ assistance for Cambodia should be suspended until an independent and 
+  credible investigation occurs into the July 28, 2013, parliamentary 
+elections, and election reforms are being implemented by the Government 
+                              of Cambodia.
 
-Whereas according to the American Cancer Society, in 1998, 178,700 women will be 
-        diagnosed with breast cancer and 43,500 women will die from this 
-        disease;
-Whereas in the decade of the 1990's, it is estimated that about 2,000,000 women 
-        will be diagnosed with breast cancer, resulting in nearly 500,000 
-        deaths;
-Whereas the risk of breast cancer increases with age, with a woman at age 70 
-        having twice as much of a chance of developing the disease as a woman at 
-        age 50;
-Whereas at least 80 percent of the women who get breast cancer have no family 
-        history of the disease;
-Whereas mammograms, when operated professionally at a certified facility, can 
-        provide a safe and quick diagnosis;
-Whereas experts agree that mammography is the best method of early detection of 
-        breast cancer, and early detection is the key to saving lives;
-Whereas mammograms can reveal the presence of small cancers up to 2 years or 
-        more before a regular clinical breast examination or breast self-
-        examination (BSE), reducing mortality by more than 30 percent; and
-Whereas 47 States and the District of Columbia have passed legislation requiring 
-        health insurance companies to cover mammograms in accordance with 
-        recognized screening guidelines: Now, therefore, be it
-    Resolved, That the Senate--
-            (1) designates October 16, 1998, as ``National Mammography 
-        Day''; and
-            (2) requests that the President issue a proclamation 
-        calling upon the people of the United States to observe such 
-        day with appropriate programs and activities.
+Whereas independent domestic and international organizations have raised serious 
+        concerns regarding the integrity of the parliamentary elections held in 
+        Cambodia on July 28, 2013;
+Whereas, according to Human Rights Watch, ``the Cambodian government-controlled 
+        National Election Committee (NEC) has failed to address credible 
+        allegations of voter fraud and other irregularities or systematic 
+        unfairness in the election process'';
+Whereas opposition Cambodia National Rescue Party (CNRP) leader Sam Rainsy noted 
+        in an October 7, 2013, Cambodia Daily op-ed article that the inaugural 
+        meeting of the newly formed government was boycotted by 55 CNRP-elected 
+        parliamentarians as a result of the refusal of the ruling Cambodian 
+        People's Party to address ``shocking election irregularities'' that 
+        allegedly denied CNRP additional parliamentary seats;
+Whereas United Nations' Special Rapporteur for Human Rights in Cambodia Surya P. 
+        Subedi noted that ``it is critical for the new National Assembly to be 
+        represented by the two key parties, for the National Assembly to be 
+        truly representative of the whole of the Cambodian people and for it to 
+        be concluded that the right to vote was effectively exercised on 28 
+        July'';
+Whereas in a September 23, 2013, statement, the United States Embassy in Phnom 
+        Penh, Cambodia, called for ``a transparent review of irregularities in 
+        the July 28 national elections which would help efforts to assess and 
+        address flaws in the electoral process and give the Cambodian people 
+        greater confidence in the electoral system'';
+Whereas the CNRP boycott calls into question the legitimacy of the Cambodian 
+        National Assembly and government; and
+Whereas the policy of the Administration of a strategic rebalance toward the 
+        Asia Pacific Region should include support for democracy, human rights, 
+        and justice in Cambodia: Now, therefore, be it
+    Resolved, That it is the sense of the Senate that the United States 
+should suspend military assistance for Cambodia until--
+            (1) an independent and credible investigation occurs into 
+        the July 28, 2013, parliamentary elections in Cambodia, and any 
+        recommendations arising out of such investigation are fully 
+        implemented; and
+            (2) the Government of Cambodia, in consultation with civil 
+        society and political parties in Cambodia, is implementing 
+        election reforms to prevent incidents of fraud and abuse in 
+        subsequent national and local elections in Cambodia.
                                  <all>

@@ -1,47 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1370 Reported in House (RH)]
+[H.R. 1370 Introduced in House (IH)]
 
-
-
-
-
-                                                 Union Calendar No. 132
-
-105th CONGRESS
-
-  1st Session
-
-                               H. R. 1370
-
-                          [Report No. 105-224]
-
-_______________________________________________________________________
-
-                                 A BILL
-
-      To reauthorize the Export-Import Bank of the United States.
-
-_______________________________________________________________________
-
-                             July 31, 1997
-
-  Reported with an amendment, committed to the Committee of the Whole 
-       House on the State of the Union, and ordered to be printed
-
-
-
-
-
-                                                 Union Calendar No. 132
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1370
 
-                          [Report No. 105-224]
-
-      To reauthorize the Export-Import Bank of the United States.
+   To require a site operator of an international travel Web site to 
+    provide information on its Web site to consumers regarding the 
+  potential health and safety risks associated with overseas vacation 
+                 destinations marketed on its Web site.
 
 
 _______________________________________________________________________
@@ -49,26 +18,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             April 17, 1997
+                             March 21, 2013
 
-    Mr. Castle (by request) (for himself, Mr. Flake, Mr. Leach, Mr. 
-  Gonzalez, Mr. Bereuter, Mr. LaFalce, Mr. Manzullo, Mr. Bentsen, Mr. 
-   Gejdenson, Mrs. Maloney of New York, Mr. Metcalf, and Mr. Gilman) 
- introduced the following bill; which was referred to the Committee on 
-                     Banking and Financial Services
-
-                             July 31, 1997
-
-             Additional sponsor: Mr. Maloney of Connecticut
-
-                             July 31, 1997
-
-  Reported with an amendment, committed to the Committee of the Whole 
-       House on the State of the Union, and ordered to be printed
- [Strike out all after the enacting clause and insert the part printed 
-                               in italic]
- [For text of introduced bill, see copy of bill as introduced on April 
-                               17, 1997]
+  Mr. Markey (for himself, Mr. Cummings, and Mr. Rush) introduced the 
+   following bill; which was referred to the Committee on Energy and 
+                                Commerce
 
 _______________________________________________________________________
 
@@ -76,123 +30,110 @@ _______________________________________________________________________
 
 
  
-      To reauthorize the Export-Import Bank of the United States.
+   To require a site operator of an international travel Web site to 
+    provide information on its Web site to consumers regarding the 
+  potential health and safety risks associated with overseas vacation 
+                 destinations marketed on its Web site.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. EXTENSION OF AUTHORITY.
+SECTION 1. SHORT TITLE.
 
-    Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is 
-amended by striking ``1997'' and inserting ``2001''.
+    This Act may be cited as the ``International Travelers Bill of 
+Rights Act of 2013''.
 
-SEC. 2. TIED AID CREDIT FUND AUTHORITY.
+SEC. 2. DEFINITIONS.
 
-    (a) Section 10(c)(2) of the Export-Import Bank Act of 1945 (12 
-U.S.C. 635i-3(c)(2)) is amended by striking ``through September 30, 
-1997''.
-    (b) Section 10(e) of such Act (12 U.S.C. 635i-3(e)) is amended by 
-striking the first sentence and inserting the following: ``There are 
-authorized to be appropriated to the Fund such sums as may be necessary 
-to carry out the purposes of this section.''.
+    In this Act:
+            (1) Site operator.--The term ``site operator'' means an 
+        individual or entity that operates a Web site that provides 
+        access to international travel services. Such term includes an 
+        overseas vacation destination or a third party that operates a 
+        Web site that offers international travel services.
+            (2) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (3) International travel services.--The term 
+        ``international travel services'' means a service that a 
+        consumer can use to reserve lodging at an overseas vacation 
+        destination.
+            (4) Overseas vacation destination.--The term ``overseas 
+        vacation destination'' means a resort, hotel, retreat, hostel, 
+        or any other similar lodging located outside the United States.
+            (5) United states.--The term ``United States'' means each 
+        of the several States, the District of Columbia, the 
+        Commonwealth of Puerto Rico, the Virgin Islands, Guam, American 
+        Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-SEC. 3. EXTENSION OF AUTHORITY TO PROVIDE FINANCING FOR THE EXPORT OF 
-              NONLETHAL DEFENSE ARTICLES OR SERVICES THE PRIMARY END 
-              USE OF WHICH WILL BE FOR CIVILIAN PURPOSES.
+SEC. 3. PROVIDING INFORMATION REGARDING THE POTENTIAL HEALTH AND SAFETY 
+              RISKS ASSOCIATED WITH OVERSEAS VACATION DESTINATIONS.
 
-    Section 1(c) of Public Law 103-428 (12 U.S.C. 635 note; 108 Stat. 
-4376) is amended by striking ``1997'' and inserting ``2001''.
+    (a) In General.--A site operator, in a manner in compliance with 
+regulations issued by the Commission and with the requirements of this 
+Act, shall provide information on its Web site to consumers in a clear 
+and conspicuous manner regarding the potential health and safety risks 
+associated with overseas vacation destinations marketed on its Web 
+site, if any, including the following:
+            (1) Information compiled by the Department of State, 
+        including Department of State country-specific travel warnings 
+        and alerts.
+            (2) Information regarding the onsite health and safety 
+        services that are available to consumers at each overseas 
+        vacation destination, including whether the destination--
+                    (A) employs or contracts with a physician or nurse 
+                on the premises to provide medical treatment for 
+                guests;
+                    (B) employs or contracts with personnel, other than 
+                a physician, nurse, or lifeguard, on the premises who 
+                are trained in cardiopulmonary resuscitation;
+                    (C) has an automated external defibrillator and 
+                employs or contracts with 1 or more individuals on the 
+                premises trained in its use; and
+                    (D) employs or contracts with 1 or more lifeguards 
+                on the premises trained in cardiopulmonary 
+                resuscitation, if the overseas vacation destination has 
+                swimming pools or other water-based activities on its 
+                premises, or in areas under its control for use by 
+                guests.
+    (b) Services Not Available 24 Hours a Day.--If the onsite health 
+and safety services at an overseas vacation destination are not 
+available 24 hours a day, 7 days a week, the site operator shall 
+display the hours and days of availability on its Web site in a clear 
+and conspicuous manner.
+    (c) Information Not Available.--If the onsite health and safety 
+services described in subsection (a)(2) are not available at an 
+overseas vacation destination, or if the site operator does not possess 
+information on the onsite health and safety services required to be 
+displayed on its Web site, the site operator shall display in a clear 
+and conspicuous manner the following: ``This destination does not 
+provide certain health and safety services, or information regarding 
+such services is not available. Travel to this destination may pose an 
+increased risk to your health or safety.''.
 
-SEC. 4. CLARIFICATION OF PROCEDURES FOR DENYING CREDIT BASED ON THE 
-              NATIONAL INTEREST.
+SEC. 4. CONSUMER COMPLAINTS.
 
-    Section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 
-635(b)(1)(B)) is amended--
-            (1) in the last sentence, by inserting ``, after 
-        consultation with the Committee on Banking and Financial 
-        Services of the House of Representatives and the Committee on 
-        Banking, Housing, and Urban Affairs of the Senate,'' after 
-        ``President''; and
-            (2) by adding at the end the following: ``Each such 
-        determination shall be delivered in writing to the President of 
-        the Bank, shall state that the determination is made pursuant 
-        to this section, and shall specify the applications or 
-        categories of applications for credit which should be denied by 
-        the Bank in furtherance of the national interest.''.
+    (a) Suspension.--A site operator shall establish a process under 
+which an overseas vacation destination will be suspended from its Web 
+site as a result of complaints from consumers to the site operator 
+regarding poor medical care, unsafe or unsanitary facilities, or other 
+health-related issues with respect to such destination.
+    (b) Public Availability.--A site operator shall make all complaints 
+submitted by consumers publicly available on its Web site and may 
+modify the contents of such complaints at the request of the 
+complainant or may remove offensive language and personal 
+identification information.
 
-SEC. 5. ADMINISTRATIVE COUNSEL.
+SEC. 5. ENFORCEMENT.
 
-    Section 3(e) of the Export-Import Bank Act of 1945 (12 U.S.C. 
-635a(e)) is amended--
-            (1) by inserting ``(1)'' after ``(e)''; and
-            (2) by adding at the end the following:
-    ``(2) The General Counsel of the Bank shall ensure that the 
-directors, officers, and employees of the Bank have available 
-appropriate legal counsel for advice on, and oversight of, issues 
-relating to ethics, conflicts of interest, personnel matters, and other 
-administrative law matters by designating an attorney to serve as 
-Assistant General Counsel for Administration, whose duties, under the 
-supervision of the General Counsel, shall be concerned solely or 
-primarily with such issues.''.
-
-SEC. 6. ADVISORY COMMITTEE FOR SUB-SAHARAN AFRICA.
-
-    (a) In General.--Section 2(b) of the Export-Import Bank Act of 1945 
-(12 U.S.C. 635(b)) is amended by inserting after paragraph (8) the 
-following:
-    ``(9)(A) The Board of Directors of the Bank shall take prompt 
-measures, consistent with the credit standards otherwise required by 
-law, to promote the expansion of the Bank's financial commitments in 
-sub-Saharan Africa under the loan, guarantee, and insurance programs of 
-the Bank.
-    ``(B)(i) The Board of Directors shall establish and use an advisory 
-committee to advise the Board of Directors on the development and 
-implementation of policies and programs designed to support the 
-expansion described in subparagraph (A).
-    ``(ii) The advisory committee shall make recommendations to the 
-Board of Directors on how the Bank can facilitate greater support by 
-United States commercial banks for trade with sub-Saharan Africa.
-    ``(iii) The advisory committee shall terminate 4 years after the 
-date of the enactment of this subparagraph.''.
-    (b) Reports to the Congress.--Within 6 months after the date of the 
-enactment of this Act, and annually for each of the 4 years thereafter, 
-the Board of Directors of the Export-Import Bank of the United States 
-submit to the Congress a report on the steps that the Board has taken 
-to implement section 2(b)(9)(B) of the Export-Import Bank Act of 1945 
-and any recommendations of the advisory committee established pursuant 
-to such section.
-
-SEC. 7. INCREASE IN LABOR REPRESENTATION ON THE ADVISORY COMMITTEE OF 
-              THE EXPORT-IMPORT BANK.
-
-    Section 3(d)(2) of the Export-Import Bank Act of 1945 (12 U.S.C. 
-635a(d)(2)) is amended--
-            (1) by inserting ``(A)'' after ``(2)''; and
-            (2) by adding after and below the end the following:
-    ``(B) Not less than 2 members appointed to the Advisory Committee 
-shall be representative of the labor community.''.
-
-SEC. 8. OUTREACH TO COMPANIES.
-
-    Section 2(b)(1) of the Export-Import Bank Act of 1945 (12 U.S.C. 
-635(b)(1)) is amended by adding at the end the following:
-    ``(I) The Chairman of the Bank shall design and implement a program 
-to provide information about Bank programs to companies which have not 
-participated in Bank programs. Not later than 1 year after the date of 
-the enactment of this subparagraph, the Chairman of the Bank shall 
-submit to the Congress a report on the activities undertaken pursuant 
-to this subparagraph.''.
-
-SEC. 9. FIRMS THAT HAVE SHOWN A COMMITMENT TO REINVESTMENT AND JOB 
-              CREATION IN THE UNITED STATES TO BE GIVEN PREFERENCE IN 
-              FINANCIAL ASSISTANCE DETERMINATIONS.
-
-    Section 2(b)(1) of the Export-Import Bank Act of 1945 (12 U.S.C. 
-635(b)(1)), as amended by section 8 of this Act, is amended by adding 
-at the end the following:
-    ``(J) The Board of Directors of the Bank shall prescribe such 
-regulations and the Bank shall implement such procedures as may be 
-appropriate to ensure that, in selecting from among firms to which to 
-provide financial assistance, preference be given to any firm that has 
-shown a commitment to reinvestment and job creation in the United 
-States.''.
+    (a) In General.--A violation of any provision of this Act shall be 
+treated as a violation of a rule defining an unfair or deceptive act or 
+practice prescribed under section 18(a)(1)(B) of the Federal Trade 
+Commission Act (15 U.S.C. 57a(a)(1)(B)). The Commission shall enforce 
+this Act in the same manner, by the same means, and with the same 
+jurisdiction as though all applicable terms and provisions of the 
+Federal Trade Commission Act were incorporated into and made a part of 
+this Act.
+    (b) Deadline for Issuance of Regulations.--The Commission shall 
+issue regulations to carry out this Act not later than 6 months after 
+the date of the enactment of this Act.
+                                 <all>

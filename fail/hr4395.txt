@@ -1,22 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4395 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4395
 
-To amend the Real Estate Settlement Procedures Act of 1974 to prohibit 
-     a lender from requiring a borrower in a residential mortgage 
-    transaction to provide the lender with unlimited access to the 
-                   borrower's tax return information.
+   To amend part B of title III of the Public Health Service Act to 
+  improve essential oral health care for lower-income individuals by 
+                    breaking down barriers to care.
 
 
 _______________________________________________________________________
@@ -24,10 +17,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             August 4, 1998
+                             April 3, 2014
 
-  Ms. Rivers introduced the following bill; which was referred to the 
-              Committee on Banking and Financial Services
+Ms. Kelly of Illinois introduced the following bill; which was referred 
+                to the Committee on Energy and Commerce
 
 _______________________________________________________________________
 
@@ -35,66 +28,93 @@ _______________________________________________________________________
 
 
  
-To amend the Real Estate Settlement Procedures Act of 1974 to prohibit 
-     a lender from requiring a borrower in a residential mortgage 
-    transaction to provide the lender with unlimited access to the 
-                   borrower's tax return information.
+   To amend part B of title III of the Public Health Service Act to 
+  improve essential oral health care for lower-income individuals by 
+                    breaking down barriers to care.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Real Estate Transaction Privacy 
-Promotion Act''.
+    This Act may be cited as the ``Action for Dental Health Act 2014''.
 
-SEC. 2. PROHIBITION.
+SEC. 2. GRANTS TO SUPPORT VOLUNTEER DENTAL PROJECTS AND PUBLIC-PRIVATE 
+              PARTNERSHIPS.
 
-    The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 
-et seq.) is amended by inserting after section 12 the following new 
-section:
+    Part B of title III of the Public Health Service Act is amended by 
+inserting after section 320A (42 U.S.C. 247d-8) the following new 
+sections:
 
-``SEC. 13. PROHIBITION OF REQUIRING OPEN-ENDED ACCESS TO BORROWER'S TAX 
-              RECORDS.
+``SEC. 320B. GRANTS TO SUPPORT VOLUNTEER DENTAL PROJECTS.
 
-    ``No person may require, as a condition of making a federally 
-related mortgage loan, that the borrower or prospective borrower 
-provide to any person a copy of Form 4506 of the Internal Revenue 
-Service (relating to a request for copy or transcript of tax form), or 
-any successor to such form, that is signed by the borrower or 
-prospective borrower, unless the form--
-            ``(1) is fully completed before signing by the borrower;
-            ``(2) specifically requests tax information for not more 
-        than the 2 tax periods most recently completed as of the date 
-        that the form is signed; and
-            ``(3) is completed, signed, and dated not later than the 
-        date of settlement involving such loan.''.
+    ``(a) Authority To Make Grants.--The Secretary shall award grants 
+to or enter into contracts with eligible entities described in 
+subsection (b) to obtain portable or mobile dental equipment and to pay 
+for appropriate operational costs, including direct health care or 
+service delivery costs, for the provision of free dental services to 
+underserved populations that are delivered in a manner consistent with 
+State licensing laws.
+    ``(b) Eligible Entity.--An eligible entity under this subsection is 
+an organization, such as a State or local dental association, State 
+oral health program, or a dental education, dental hygiene education, 
+or postdoctoral dental education program accredited by the Commission 
+on Dental Accreditation, or a community-based organization that 
+partners with an academic institution, that--
+            ``(1) is exempt from tax under section 501(c) of the 
+        Internal Revenue Code of 1986; and
+            ``(2) offers a free dental services program for underserved 
+        populations.
+    ``(c) Application.--An entity desiring a grant under this section 
+shall submit an application to the Secretary in such manner as the 
+Secretary may require.
+    ``(d) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section $10,000,000 for the first fiscal 
+year beginning after the date of enactment of the Action for Dental 
+Health Act 2014 and for each of the 4 succeeding fiscal years.
 
-SEC. 3. PENALTIES.
+``SEC. 320C. GRANTS FOR PUBLIC-PRIVATE PARTNERSHIPS TO IMPROVE ORAL 
+              HEALTH EDUCATION AND DENTAL DISEASE PREVENTION AND 
+              MEDICAID AND CHIP DENTAL PROGRAMS, AND FOR OTHER 
+              PURPOSES.
 
-    Section 8(d) of the Real Estate Settlement Procedures Act of 1974 
-(12 U.S.C. 2607(d)) is amended--
-            (1) in paragraph (1), by inserting ``or section 13'' after 
-        ``this section''; and
-            (2) in paragraph (4), by inserting ``or section 13'' before 
-        the period at the end.
-
-SEC. 4. JURISDICTION OF COURTS.
-
-    Section 16 of the Real Estate Settlement Procedures Act of 1974 (12 
-U.S.C. 2614) is amended--
-            (1) by striking ``or 9'' the first place it appears and 
-        inserting ``9, or 13''; and
-            (2) by striking ``or 9'' the second place it appears and 
-        inserting ``, 9, or 13''.
-
-SEC. 5. SPECIAL INFORMATION BOOKLETS.
-
-    Not later than 60 days after the date of the enactment of this Act, 
-the Secretary of Housing and Urban Development shall, by notice in the 
-Federal Register, revise the special information booklet prepared by 
-the Secretary pursuant to section 5 of the Real Estate Settlement 
-Procedures Act of 1974 to include in such booklet information 
-explaining the prohibition and penalties under the amendments made by 
-this Act.
+    ``(a) Authority To Make Grants.--The Secretary shall award grants 
+to or enter into contracts with eligible entities described in 
+subsection (b) to collaborate with State, county, or local public 
+officials and other stakeholders in order to develop and implement 
+initiatives to accomplish any of the following goals:
+            ``(1) To improve oral health education and dental disease 
+        prevention, including community-wide prevention programs, use 
+        of dental sealants and fluoride varnish, and increasing oral 
+        health literacy.
+            ``(2) To reduce barriers (including low reimbursement and 
+        administrative impediments) in a manner that increases dental 
+        provider participation in Medicaid and the Children's Health 
+        Insurance Program (CHIP) under titles XIX and XXI of the Social 
+        Security Act.
+            ``(3) To make the health care delivery system providing 
+        dental services under Medicaid or CHIP more accessible and 
+        efficient by taking actions necessary to facilitate the 
+        establishment of dental homes for children, adults, and the 
+        aged, blind, and disabled populations.
+            ``(4) To address geographic, language, cultural, and 
+        similar barriers in the provision of dental services.
+            ``(5) To reduce the use of emergency departments to seek 
+        dental services more appropriately delivered in a dental 
+        primary care setting.
+    ``(b) Eligible Entity.--An eligible entity under this subsection is 
+a State or local dental association or a State dental association 
+foundation that--
+            ``(1) is exempt from tax under section 501(c) of the 
+        Internal Revenue Code of 1986; and
+            ``(2) partners with public and private stakeholders to 
+        facilitate the provision of dental services for underserved 
+        populations.
+    ``(c) Application.--An entity desiring a grant under this section 
+shall submit an application to the Secretary in such manner as the 
+Secretary may require.
+    ``(d) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section $10,000,000 for the first fiscal 
+year beginning after the date of enactment of the Action for Dental 
+Health Act 2014 and for each of the 4 succeeding fiscal years.''.
                                  <all>

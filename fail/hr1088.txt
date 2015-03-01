@@ -1,21 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1088 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1088
 
- To reauthorize appropriations for the conservation of the Washington 
-  salmon fishery through the purchase of salmon fishing licenses and 
-                            fishing vessels.
+To require the Secretary of Transportation to develop a rule that does 
+  not allow Federal funds under the disadvantaged business enterprise 
+program to be used for any enterprise that is no longer eligible under 
+                 such program, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,10 +18,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 17, 1997
+                             March 12, 2013
 
- Mr. Metcalf introduced the following bill; which was referred to the 
-                         Committee on Resources
+ Ms. Herrera Beutler introduced the following bill; which was referred 
+to the Committee on Transportation and Infrastructure, and in addition 
+  to the Committee on Small Business, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -34,30 +32,45 @@ _______________________________________________________________________
 
 
  
- To reauthorize appropriations for the conservation of the Washington 
-  salmon fishery through the purchase of salmon fishing licenses and 
-                            fishing vessels.
+To require the Secretary of Transportation to develop a rule that does 
+  not allow Federal funds under the disadvantaged business enterprise 
+program to be used for any enterprise that is no longer eligible under 
+                 such program, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. REAUTHORIZATION OF PROGRAM FOR CONSERVATION OF WASHINGTON 
-              SALMON FISHERY THROUGH PURCHASE OF SALMON FISHING 
-              LICENSES AND VESSELS.
+SECTION 1. SHORT TITLE.
 
-    Section 134 of the Salmon and Steelhead Conservation and 
-Enhancement Act of 1980 (16 U.S.C. 3335) is amended--
-            (1) by striking ``for the purposes of carrying out the 
-        provisions of this part'' and inserting ``for the purchase of 
-        salmon fishing licenses and fishing vessels in accordance with 
-        this part'';
-            (2) by striking ``1981'' and inserting ``1997''; and
-            (3) by adding at the end the following new sentence: 
-        ``Amounts appropriated under this section for a fiscal year 
-        after fiscal year 1997 may be used only for the purchase of a 
-        salmon fishing license or a fishing vessel, from a person that 
-        fished under the authority of the license or that used the 
-        vessel to fish for salmon, respectively, for 3 years of the 5-
-        year period ending on the date of the purchase of the 
-        license.''.
+    This Act may be cited as the ``Cheating Doesn't Pay Act''.
+
+SEC. 2. RULE REGARDING DISADVANTAGED BUSINESS ENTERPRISE.
+
+    (a) In General.--Except as provided in subsection (b), not later 
+than 90 days after the date of enactment of this Act, the Secretary of 
+Transportation shall issue a rule that--
+            (1) does not allow Federal funds under the disadvantaged 
+        business enterprise program, described in section 1101(b) of 
+        MAP-21 (23 U.S.C. 101 note), to be used for any enterprise that 
+        is no longer eligible under such program;
+            (2) 90 days after the date of enactment of this Act, each 
+        grant award, contract, or subcontract under the disadvantaged 
+        business enterprise program prohibits any Federal funds under 
+        the program to be provided to an enterprise as soon as the 
+        enterprise is no longer eligible under such program;
+            (3) recuperates any unobligated funds made available under 
+        the disadvantaged business enterprise program to any enterprise 
+        no longer eligible under the program; and
+            (4) ensures that if a disadvantaged business enterprise is 
+        no longer eligible to receive funds under the program, the 
+        Secretary shall take such measures as are practicable to 
+        expedite bidding with other eligible enterprises to complete 
+        any project started by the no longer eligible enterprise.
+    (b) Graduation Exception.--If a disadvantaged business enterprise 
+is no longer eligible to receive funds under the program solely on the 
+basis of its size, the Secretary shall allow such entity to complete 
+any existing projects but shall not allow such enterprise to be 
+eligible for additional funds for any new projects unless the State in 
+which the enterprise is located recertifies it in accordance with 
+section 1101(b) of MAP-21 (23 U.S.C. 101 note).
                                  <all>

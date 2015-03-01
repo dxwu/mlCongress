@@ -1,21 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4213 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4213
 
- To amend the Securities Exchange Act of 1934 to provide for an annual 
-   limit on the amount of certain fees which may be collected by the 
-                  Securities and Exchange Commission.
+   To direct the Federal Trade Commission to revise the regulations 
+       regarding the definitions for funeral industry practices.
 
 
 _______________________________________________________________________
@@ -23,10 +16,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             July 14, 1998
+                             March 12, 2014
 
-  Mr. Solomon (for himself and Mr. Menendez) introduced the following 
-         bill; which was referred to the Committee on Commerce
+ Mr. Whitfield (for himself, Mr. Peters of Michigan, and Mr. Walberg) 
+ introduced the following bill; which was referred to the Committee on 
+                          Energy and Commerce
 
 _______________________________________________________________________
 
@@ -34,106 +28,43 @@ _______________________________________________________________________
 
 
  
- To amend the Securities Exchange Act of 1934 to provide for an annual 
-   limit on the amount of certain fees which may be collected by the 
-                  Securities and Exchange Commission.
+   To direct the Federal Trade Commission to revise the regulations 
+       regarding the definitions for funeral industry practices.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Savings and Investment Relief Act of 
-1998''.
+    This Act may be cited as the ``Funeral Rule Improvement Act of 
+2014''.
 
-SEC. 2. TRANSACTION FEES.
+SEC. 2. REVISION OF REGULATIONS REGARDING FUNERAL INDUSTRY PRACTICES 
+              REQUIRED.
 
-    Section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) 
-is amended by adding at the end the following new subsection:
-    ``(h) Limitation on Transaction Fees.--
-            ``(1) Exchange traded and exchange registered securities.--
-                    ``(A) In general.--The Commission shall for each 
-                fiscal year prescribe a limitation on the amount of 
-                fees described in subsections (b) and (c) to be paid by 
-                each national securities exchange and each national 
-                securities association, based on the pro rata share of 
-                the aggregate dollar amount of sales of securities 
-                described in subsections (b) and (c) for the preceding 
-                calendar year, such that the total fee payments will 
-                not exceed--
-                            ``(i) $150,000,000 during fiscal year 1999;
-                            ``(ii) $155,000,000 during fiscal year 
-                        2000;
-                            ``(iii) $165,000,000 during fiscal year 
-                        2001;
-                            ``(iv) $170,000,000 during fiscal year 
-                        2002;
-                            ``(v) $180,000,000 during fiscal year 2003;
-                            ``(vi) $190,000,000 during fiscal year 
-                        2004;
-                            ``(vii) $200,000,000 during fiscal year 
-                        2005; and
-                            ``(viii) $210,000,000 during fiscal year 
-                        2006 and any succeeding fiscal year.
-                    ``(B) Publication.--The Commission shall publish 
-                annually in the Federal Register notice of the fee 
-                limitations described in this paragraph.
-                    ``(C) Fee adjustments.--Each national securities 
-                exchange and each national securities association shall 
-                adopt rules to implement the provisions of this 
-                subsection. Such rules shall provide a reduction from 
-                the fee amount otherwise described in subsections (b) 
-                and (c), for all market participants, including (but 
-                not limited to), individual investors, pension funds, 
-                mutual fund investors, and market professionals.
-            ``(2) Off-exchange trades of last-sale-reported 
-        securities.--
-                    ``(A) In general.--The Commission shall for each 
-                fiscal year prescribe a limitation on the amount of 
-                fees described in subsection (d) to be paid by each 
-                national securities association, based on the pro rata 
-                share of the aggregate dollar amount of sales of 
-                securities described in subsection (d) for the 
-                preceding calendar year, such that the total fee 
-                payments will not exceed--
-                            ``(i) $120,000,000 during fiscal year 1999;
-                            ``(ii) $125,000,000 during fiscal year 
-                        2000;
-                            ``(iii) $135,000,000 during fiscal year 
-                        2001;
-                            ``(iv) $140,000,000 during fiscal year 
-                        2002;
-                            ``(v) $150,000,000 during fiscal year 2003;
-                            ``(vi) $160,000,000 during fiscal year 
-                        2004;
-                            ``(vii) $170,000,000 during fiscal year 
-                        2005; and
-                            ``(viii) $180,000,000 during fiscal year 
-                        2006 and any succeeding fiscal year.
-                    ``(B) Publication.--The Commission shall publish 
-                annually in the Federal Register notice of the fee 
-                limitations described in this paragraph.
-                    ``(C) Fee adjustments.--Each national securities 
-                association shall adopt rules to implement the 
-                provisions of this subsection. Such rules shall provide 
-                a reduction from the fee amount otherwise described in 
-                subsection (d), for all market participants, including, 
-                but not limited to, individual investors, pension 
-                funds, mutual fund investors, and market professionals.
-            ``(3) Report to congress.--The Commission shall annually 
-        report to Congress the total amount of fees collected pursuant 
-        to subsection (b), by each national securities exchange, and 
-        the total amount of fees collected pursuant to subsection (b), 
-        by each national securities association.
-            ``(4) Insufficient fees.--In any year in which the total 
-        amount of fees collected under this section and section 6(b) of 
-        the Securities Act of 1933 (including any balance in the 
-        account providing appropriations to the Commission) are 
-        insufficient to provide for the Commission's budget authority 
-        as provided by an Appropriations Act, such Appropriations Act 
-        may provide that the fee limitations shall be increased by 
-        equal amounts under paragraphs (1) and (2), and all such 
-        amounts shall be deposited and credited as offsetting 
-        collections to the account providing appropriations to the 
-        Commission.''.
+    Not later than 180 days after the date of enactment of this Act, 
+the Federal Trade Commission shall revise the definitions in section 
+453.1 of title 16, Code of Federal Regulations in the following manner:
+            (1) By amending the definition of ``funeral provider'' to 
+        read as follows: ``A `funeral provider' is any person, 
+        partnership, trust, or corporation that sells or offers to sell 
+        funeral or burial goods or services to the public.''.
+            (2) By further amending the definition of ``funeral 
+        provider'' to except each of the following:
+                    (A) Any religious denomination, middle judicatory, 
+                house of worship, or similar religious organization.
+                    (B) Any State or political subdivision of a State.
+                    (C) Any cemetery that has 25 or fewer burials per 
+                year.
+                    (D) Any entity described in section 501(c)(13) of 
+                the Internal Revenue Code of 1986 (26 U.S.C. 
+                501(c)(13)).
+            (3) By amending the definition of ``funeral services'' to 
+        read as follows: ```Funeral or burial services' are any 
+        services that are sold or offered for sale directly to the 
+        public for use in connection with either: (1) the care and 
+        preparation of deceased human remains for burial, cremation, or 
+        other final disposition or (2) the arrangement, supervision, or 
+        carrying out the funeral ceremony or final disposition of 
+        deceased human bodies.''.
                                  <all>

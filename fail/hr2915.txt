@@ -1,20 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2915 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2915
 
-To extend certain programs under the Energy Policy and Conservation Act 
-            and the Energy Conservation and Production Act.
+ To amend section 2423 of title 18, United States Code, to eliminate a 
+  defense, to a criminal prosecution under that section, based on the 
+state of mind of the defendant as to the age of the minor engaging in, 
+            or intended to engage in, a commercial sex act.
 
 
 _______________________________________________________________________
@@ -22,10 +18,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            November 7, 1997
+                             August 1, 2013
 
- Mr. Dan Schaefer of Colorado introduced the following bill; which was 
-                 referred to the Committee on Commerce
+ Mr. Cotton (for himself and Mr. Gowdy) introduced the following bill; 
+          which was referred to the Committee on the Judiciary
 
 _______________________________________________________________________
 
@@ -33,44 +29,27 @@ _______________________________________________________________________
 
 
  
-To extend certain programs under the Energy Policy and Conservation Act 
-            and the Energy Conservation and Production Act.
+ To amend section 2423 of title 18, United States Code, to eliminate a 
+  defense, to a criminal prosecution under that section, based on the 
+state of mind of the defendant as to the age of the minor engaging in, 
+            or intended to engage in, a commercial sex act.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. ENERGY POLICY AND CONSERVATION ACT AMENDMENTS.
+SECTION 1. SHORT TITLE.
 
-    (a) Interagency Working Groups.--Section 256(h) of the Energy 
-Policy and Conservation Act (42 U.S.C. 6276(h)) is amended to read as 
-follows:
-    ``(h) Authorization of Appropriations.--There are authorized to be 
-appropriated to the Secretary for fiscal years 1998 through 2002 such 
-sums as may be necessary to carry out subsections (d) and (e), to be 
-divided equitably between the interagency working subgroups based on 
-program requirements.''.
-    (b) State Energy Conservation Program.--Section 365(f)(1) of the 
-Energy Policy and Conservation Act (42 U.S.C. 6325(f)(1)) is amended by 
-striking ``not to exceed'' and all that follows through ``fiscal year 
-1993'' and inserting in lieu thereof ``for fiscal years 1998 through 
-2002 such sums as may be necessary''.
-    (c) Schools and Hospitals.--Section 397 the Energy Policy and 
-Conservation Act (42 U.S.C. 6371f) is amended to read as follows:
+    This Act may be cited as the ``Protect Children from Sex Tourism 
+Act of 2013''.
 
-                   ``authorization of appropriations
+SEC. 2. ELIMINATION OF DEFENSE BASED ON THE DEFENDANT'S STATE OF MIND 
+              AS TO THE AGE OF THE MINOR ENGAGING IN, OR INTENDED TO 
+              ENGAGE IN, A COMMERCIAL SEXUAL ACT.
 
-    ``Sec. 397. For the purpose of carrying out this part, there are 
-authorized to be appropriated for fiscal years 1998 through 2002 such 
-sums as may be necessary.''.
-
-SEC. 2. ENERGY CONSERVATION AND PRODUCTION ACT AMENDMENT.
-
-    Section 422 of the Energy Conservation and Production Act (42 
-U.S.C. 6872) is amended to read as follows:
-
-                   ``authorization of appropriations
-
-    ``Sec. 422. For the purpose of carrying out the weatherization 
-program under this part, there are authorized to be appropriated for 
-fiscal years 1998 through 2002 such sums as may be necessary.''.
+    Subsection (g) of section 2423 of title 18, United States Code, is 
+amended to read as follows:
+    ``(g) In a prosecution under this section based on illicit sexual 
+conduct, as defined in subsection (f)(2), the Government need not prove 
+that the defendant knew the minor engaging in, or intended to engage 
+in, a commercial sex act had not attained the age of 18 years.''.
                                  <all>

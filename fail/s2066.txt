@@ -1,19 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 2066 Introduced in Senate (IS)]
+[S. 2066 Placed on Calendar Senate (PCS)]
 
-
-
-
-
-
-
-105th CONGRESS
+                                                       Calendar No. 311
+113th CONGRESS
   2d Session
                                 S. 2066
 
-           To reduce exposure to environmental tobacco smoke.
+  To amend title 18, United States Code, to prohibit the intentional 
+   discrimination of a person or organization by an employee of the 
+                       Internal Revenue Service.
 
 
 _______________________________________________________________________
@@ -21,10 +18,14 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                              May 12, 1998
+                           February 27, 2014
 
-  Mr. Chafee introduced the following bill; which was read twice and 
-       referred to the Committee on Environment and Public Works
+Mr. Cruz (for himself and Mr. Grassley) introduced the following bill; 
+                     which was read the first time
+
+                             March 3, 2014
+
+            Read the second time and placed on the calendar
 
 _______________________________________________________________________
 
@@ -32,115 +33,61 @@ _______________________________________________________________________
 
 
  
-           To reduce exposure to environmental tobacco smoke.
+  To amend title 18, United States Code, to prohibit the intentional 
+   discrimination of a person or organization by an employee of the 
+                       Internal Revenue Service.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. EDUCATION AND OUTREACH.
+SECTION 1. INTENTIONAL DISCRIMINATION BY EMPLOYEE OF THE INTERNAL 
+              REVENUE SERVICE.
 
-    (a) State Program.--
-            (1) In general.--The Administrator of the Environmental 
-        Protection Agency (referred to in this Act as the 
-        ``Administrator'') shall provide funds to each State for the 
-        purpose of enabling such States to conduct education and 
-        outreach activities relating to the health-related effects on 
-        children of exposure to environmental tobacco smoke.
-            (2) Amount.--From amounts made available under subsection 
-        (d)(1) for each fiscal year, the Administrator shall provide to 
-        a State an amount that bears the same ratio to such available 
-        amounts as the population of the State bears to the total 
-        population of all States.
-            (3) Use of funds.--A State shall use amounts received under 
-        this subsection to carry out activities consistent with the 
-        purpose of paragraph (1).
-            (4) Minimum amount.--In providing funds to each State under 
-        this subsection, the Administrator shall ensure that no State 
-        receives less than \1/2\ of 1 percent of the amount available 
-        under subsection (e)(1) for a fiscal year for grants under this 
-        subsection.
-            (5) Maximum amount.--In providing funds to each State under 
-        this subsection, the Administrator shall ensure that no State 
-        receives more than 2\1/2\ percent of the amount available under 
-        subsection (e)(1) for a fiscal year for grants under this 
-        subsection.
-    (b) National Education and Outreach Campaign.--The Administrator 
-shall use amounts made available under subsection (d)(2) in each fiscal 
-year to establish a national education and outreach campaign relating 
-to the effect on individuals of exposure to tobacco smoke and ways to 
-minimize such exposure. In establishing such campaign, the 
-Administrator shall--
-            (1) focus on children's exposure to environmental tobacco 
-        smoke in the home; and
-            (2) coordinate activities with the Secretary of Health and 
-        Human Services and other Federal agencies as determined 
-        appropriate by the Administrator.
-    (c) Peer Review.--The Administrator shall use amounts made 
-available under subsection (d)(3) in each fiscal year to carry out 
-research, and provide for peer review studies of research, related to 
-the exposure of individuals to environmental tobacco smoke.
-    (d) Funding.--The Administrator shall use amounts available for 
-each fiscal year from any Trust Fund established as part of a national 
-settlement on tobacco litigation to carry out this section. With 
-respect to such amounts for any fiscal year, the Administrator shall 
-utilize--
-            (1) $185,000,000 for each fiscal year to carry out 
-        subsection (a);
-            (2) $10,000,000 for each fiscal year to carry out 
-        subsection (b); and
-            (3) $5,000,000 for each of the fiscal years 1999 through 
-        2008 to carry out subsection (c).
-    (e) Sunset.--This section shall not apply after the expiration of 
-the 25-year period beginning on the date of enactment of this Act.
+    (a) In General.--Chapter 93 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1925. Intentional discrimination by employee of the Internal 
+              Revenue Service
+    ``(a) Offense.--It shall be unlawful for any officer or employee of 
+the Internal Revenue Service to, regardless of whether the officer or 
+employee is acting under color of law, willfully act with the intent to 
+injure, oppress, threaten, intimidate, or single out and subject to 
+undue scrutiny for purposes of harassment any person or organization in 
+any State--
+            ``(1) based solely or primarily on the political, economic, 
+        or social positions held or expressed by the person or 
+        organization; or
+            ``(2) because the person or organization has expressed a 
+        particular political, economic, or social position using any 
+        words or writing allowed by law.
+    ``(b) Penalty.--Any person who violates subsection (a) shall be 
+fined under this title, imprisoned not more than 10 years, or both.
+    ``(c) Definition.--In this section, the term `State' means a State 
+of the United States, the District of Columbia, and any commonwealth, 
+territory, or possession of the United States.''.
+    (b) Table of Sections.--The table of sections for chapter 93 of 
+title 18, United States Code, is amended by inserting after the item 
+relating to section 1924 the following:
 
-SEC. 2. PREEMPTION.
+``1924. Intentional discrimination by employee of the Internal Revenue 
+                            Service.''.
+                                                       Calendar No. 311
 
-    The provisions of this Act shall not preempt any provision of State 
-or local law that provides greater restrictions than those required in 
-this Act.
+113th CONGRESS
 
-SEC. 3. COVERAGE OF FEDERAL BUILDINGS.
+  2d Session
 
-    (a) In General.--The provisions of Executive Order 13058 (62 FR 
-43451; August 13, 1997) shall apply to all facilities owned, rented, or 
-leased by the executive, judicial, or legislative branches of the 
-Federal Government (including independent agencies) and in any outdoor 
-areas under executive, judicial or legislative branch control.
-    (b) Enforcement.--The enforcement of the provisions described in 
-subsection (a) shall be carried out by--
-            (1) in the case of facilities or areas to which subsection 
-        (a) applies that are under executive branch control, the head 
-        of the Federal agency involved;
-            (2) in the case of facilities or areas to which subsection 
-        (a) applies that are under judicial branch control, the 
-        Director of the Administrative Office of the United States 
-        Courts; and
-            (3) in the case of facilities or areas to which subsection 
-        (a) applies that are under legislative branch control, the 
-        Congressional Office of Compliance.
+                                S. 2066
 
-SEC. 4. PROHIBITIONS AGAINST SMOKING ON SCHEDULED FLIGHTS.
+_______________________________________________________________________
 
-    (a) In General.--Section 41706 of title 49, United States Code, is 
-amended to read as follows:
-``Sec. 41706. Prohibitions against smoking on scheduled flights
-    ``(a) Smoking Prohibition in Intrastate and Interstate Air 
-Transportation.--An individual may not smoke in an aircraft on a 
-scheduled airline flight segment in interstate air transportation or 
-intrastate air transportation.
-    ``(b) Smoking Prohibition in Foreign Air Transportation.--The 
-Secretary of Transportation shall require all air carriers and foreign 
-air carriers to prohibit, on and after the 120th day following the date 
-of the enactment of this section, smoking in any aircraft on a 
-scheduled airline flight segment within the United States or between a 
-place in the United States and a place outside the United States.
-    ``(c) Limitation on Applicability.--With respect to an aircraft 
-operated by a foreign air carrier, the smoking prohibitions contained 
-in subsections (a) and (b) shall apply only to the passenger cabin and 
-lavatory of the aircraft.
-    ``(d) Regulations.--The Secretary shall prescribe regulations 
-necessary to carry out this section.''.
-    (b) Effective Date.--The amendment made by subsection (a) shall 
-take effect on the 60th day following the date of the enactment of this 
-Act.
-                                 <all>
+                                 A BILL
+
+  To amend title 18, United States Code, to prohibit the intentional 
+   discrimination of a person or organization by an employee of the 
+                       Internal Revenue Service.
+
+_______________________________________________________________________
+
+                             March 3, 2014
+
+            Read the second time and placed on the calendar

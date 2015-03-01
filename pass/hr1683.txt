@@ -1,404 +1,283 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1683 Referred in Senate (RFS)]
+[H.R. 1683 Introduced in House (IH)]
 
+113th CONGRESS
   1st Session
                                 H. R. 1683
 
+To establish the Columbine-Hondo Wilderness in the State of New Mexico, 
+  to provide for the conveyance of certain parcels of National Forest 
+           System land in the State, and for other purposes.
+
 
 _______________________________________________________________________
 
 
-                   IN THE SENATE OF THE UNITED STATES
+                    IN THE HOUSE OF REPRESENTATIVES
 
-                           September 24, 1997
+                             April 23, 2013
 
-  Received; read twice and referred to the Committee on the Judiciary
+ Mr. Ben Ray Lujan of New Mexico introduced the following bill; which 
+           was referred to the Committee on Natural Resources
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
- To clarify the standards for State sex offender registration programs 
-under the Jacob Wetterling Crimes Against Children and Sexually Violent 
-                       Offender Registration Act.
+To establish the Columbine-Hondo Wilderness in the State of New Mexico, 
+  to provide for the conveyance of certain parcels of National Forest 
+           System land in the State, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
-    This Act may be cited as the ``Jacob Wetterling Crimes Against 
-Children and Sexually Violent Offenders Registration Improvements Act 
-of 1997''.
+    (a) Short Title.--This Act may be cited as the ``Columbine-Hondo 
+Wilderness Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
 
-SEC. 2. STANDARDS FOR SEX OFFENDER REGISTRATION PROGRAMS.
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+    TITLE I--ADDITION TO THE NATIONAL WILDERNESS PRESERVATION SYSTEM
 
-    (a) In General.--Section 170101(a) of the Violent Crime Control and 
-Law Enforcement Act of 1994 (42 U.S.C. 14071(a)) is amended--
-            (1) in paragraph (1)--
-                    (A) in subparagraph (A), by striking ``with a 
-                designated State law enforcement agency''; and
-                    (B) in subparagraph (B), by striking ``with a 
-                designated State law enforcement agency'';
-            (2) by striking paragraph (2) and inserting the following:
-            ``(2) Determination of sexually violent predator status; 
-        waiver; alternative measures.--
-                    ``(A) In general.--A determination of whether a 
-                person is a sexually violent predator for purposes of 
-                this section shall be made by a court after considering 
-                the recommendation of a board composed of experts in 
-                the behavior and treatment of sex offenders, victims' 
-                rights advocates, and representatives of law 
-                enforcement agencies.
-                    ``(B) Waiver.--The Attorney General may waive the 
-                requirements of subparagraph (A) if the Attorney 
-                General determines that the State has established 
-                alternative procedures or legal standards for 
-                designating a person as a sexually violent predator.
-                    ``(C) Alternative measures.--The Attorney General 
-                may also approve alternative measures of comparable or 
-                greater effectiveness in protecting the public from 
-                unusually dangerous or recidivistic sexual offenders in 
-                lieu of the specific measures set forth in this section 
-                regarding sexually violent predators.''; and
-            (3) in paragraph (3)--
-                    (A) in subparagraph (A), by striking ``that 
-                consists of--'' and inserting ``in a range of offenses 
-                specified by State law which is comparable to or which 
-                exceeds the following range of offenses:'';
-                    (B) in subparagraph (B), by striking ``that 
-                consists of'' and inserting ``in a range of offenses 
-                specified by State law which is comparable to or which 
-                exceeds the range of offenses encompassed by''; and
-            (4) by adding at the end the following:
-                    ``(F) The term `employed, carries on a vocation' 
-                includes employment that is full-time or part-time for 
-                a period of time exceeding 14 days or for an aggregate 
-                period of time exceeding 30 days during any calendar 
-                year, whether financially compensated, volunteered, or 
-                for the purpose of government or educational benefit; 
-                and
-                    ``(G) The term `student' means a person who is 
-                enrolled on a full-time or part-time basis, in any 
-                public or private educational institution, including 
-                any secondary school, trade, or professional 
-                institution, or institution of higher education.''.
-    (b) Requirements Upon Release, Parole, Supervised Release, or 
-Probation.--Section 170101(b) of the Violent Crime Control and Law 
-Enforcement Act of 1994 (42 U.S.C. 14071(b)) is amended--
-            (1) in paragraph (1)--
-                    (A) by striking the paragraph designation and 
-                heading and inserting the following:
-            ``(1) Duties of responsible officials.--'';
-                    (B) in subparagraph (A)--
-                            (i) in the matter preceding clause (i), by 
-                        striking ``or in the case of probation, the 
-                        court'' and inserting ``the court, or another 
-                        responsible officer or official'';
-                            (ii) in clause (ii), by striking ``give'' 
-                        and all that follows before the semicolon and 
-                        inserting ``report the change of address as 
-                        provided by State law''; and
-                            (iii) in clause (iii), by striking ``shall 
-                        register'' and all that follows before the 
-                        semicolon and inserting ``shall report the 
-                        change of address as provided by State law and 
-                        comply with any registration requirement in the 
-                        new State of residence, and inform the person 
-                        that the person must also register in a State 
-                        where the person is employed, carries on a 
-                        vocation, or is a student''; and
-                    (C) in subparagraph (B), by striking ``or the 
-                court'' and inserting ``, the court, or another 
-                responsible officer or official'';
-            (2) by striking paragraph (2) and inserting the following:
-            ``(2) Transfer of information to state and fbi; 
-        participation in national sex offender registry.--
-                    ``(A) State reporting.--State procedures shall 
-                ensure that the registration information is promptly 
-                made available to a law enforcement agency having 
-                jurisdiction where the person expects to reside and 
-                entered into the appropriate State records or data 
-                system. State procedures shall also ensure that 
-                conviction data and fingerprints for persons required 
-                to register are promptly transmitted to the Federal 
-                Bureau of Investigation.
-                    ``(B) National reporting.--A State shall 
-                participate in the national database established under 
-                section 170102(b) in accordance with guidelines issued 
-                by the Attorney General, including transmission of 
-                current address information and other information on 
-                registrants to the extent provided by the 
-                guidelines.'';
-            (3) in paragraph (3)(A)--
-                    (A) in the matter preceding clause (i), by striking 
-                ``on each'' and all that follows through ``applies:'' 
-                and inserting the following: ``State procedures shall 
-                provide for verification of address at least 
-                annually.''; and
-                    (B) by striking clauses (i) through (v);
-            (4) in paragraph (4), by striking ``section reported'' and 
-        all that follows before the period at the end and inserting the 
-        following: ``section shall be reported by the person in the 
-        manner provided by State law. State procedures shall ensure 
-        that the updated address information is promptly made available 
-        to a law enforcement agency having jurisdiction where the 
-        person will reside and entered into the appropriate State 
-        records or data system'';
-            (5) in paragraph (5), by striking ``shall register'' and 
-        all that follows before the period at the end and inserting 
-        ``and who moves to another State, shall report the change of 
-        address to the responsible agency in the State the person is 
-        leaving, and shall comply with any registration requirement in 
-        the new State of residence. The procedures of the State the 
-        person is leaving shall ensure that notice is provided promptly 
-        to an agency responsible for registration in the new State, if 
-        that State requires registration''; and
-            (6) by adding at the end the following:
-            ``(7) Registration of out-of-state offenders, federal 
-        offenders, persons sentenced by courts martial, and offenders 
-        crossing state borders.--As provided in guidelines issued by 
-        the Attorney General, each State shall ensure that procedures 
-        are in place to accept registration information from--
-                    ``(A) persons who were convicted in another State, 
-                convicted of a Federal offense, or sentenced by a court 
-                martial; and
-                    ``(B) nonresident offenders who have crossed into 
-                another State in order to work or attend school.''.
-    (c) Registration of Offender Crossing State Border.--Section 170101 
-of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 
-14071(c)) is amended by redesignating subsections (c) through (f) as 
-(d) through (g), respectively, and inserting after subsection (b) the 
-following:
-    ``(c) Registration of Offender Crossing State Border.--Any person 
-who is required under this section to register in the State in which 
-such person resides shall also register in any State in which the 
-person is employed, carries on a vocation, or is a student.''.
-    (d) Release of Information.--Section 170101(e)(2) of the Violent 
-Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(e)(2)), 
-as redesignated by subsection (c) of this section, is amended by 
-striking ``The designated'' and all that follows through ``State 
-agency'' and inserting ``The State or any agency authorized by the 
-State''.
-    (e) Immunity for Good Faith Conduct.--Section 170101(f) of the 
-Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 
-14071(f)), as redesignated by subsection (c) of this section, is 
-amended by striking ``, and State officials'' and inserting ``and 
-independent contractors acting at the direction of such agencies, and 
-State officials''.
-    (f) FBI Registration.--(1) Section 170102(a)(2) of the Violent 
-Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14072(a)(2)) 
-is amended by striking ``and `predatory''' and inserting the following: 
-```predatory', `employed, or carries on a vocation', and `student'''.
-    (2) Section 170102(a)(3) of the Violent Crime Control and Law 
-Enforcement Act of 1994 (42 U.S.C. 14072(a)(3)) is amended--
-            (A) in subparagraph (A), by inserting ``in a range of 
-        offenses specified by State law which is comparable to or 
-        exceeds that'' before ``described'';
-            (B) by amending subparagraph (B) to read as follows:
-                    ``(B) participates in the national database 
-                established under subsection (b) of this section in 
-                conformity with guidelines issued by the Attorney 
-                General;''; and
-            (C) by amending subparagraph (C) to read as follows:
-                    ``(C) provides for verification of address at least 
-                annually;''.
-    (g) Pam Lychner Sexual Offender Tracking and Identification Act of 
-1996.--Section 10 of the Pam Lychner Sexual Offender Tracking and 
-Identification Act of 1996 is amended by inserting at the end the 
-following:
-    ``(d) Effective Date.--States shall be allowed the time specified 
-in subsection (b) to establish minimally sufficient sexual offender 
-registration programs for purposes of the amendments made by section 2. 
-Subsections (c) and (k) of section 170102 of the Violent Crime Control 
-and Law Enforcement Act of 1994, and any requirement to issue related 
-regulations, shall take effect at the conclusion of the time provided 
-under this subsection for the establishment of minimally sufficient 
-sexual offender registration programs.''.
-    (h) Federal Offenders and Military Personnel.--(1) Section 4042 of 
-title 18, United States Code, is amended--
-            (A) in subsection (a)(5), by striking ``subsection (b)'' 
-        and inserting ``subsections (b) and (c)'';
-            (B) in subsection (b), by striking paragraph (4);
-            (C) by redesignating subsection (c) as subsection (d); and
-            (D) by inserting after subsection (b) the following:
-    ``(c) Notice of Sex Offender Release.--(1) In the case of a person 
-described in paragraph (4) who is released from prison or sentenced to 
-probation, notice shall be provided to--
-            ``(A) the chief law enforcement officer of the State and of 
-        the local jurisdiction in which the person will reside; and
-            ``(B) a State or local agency responsible for the receipt 
-        or maintenance of sex offender registration information in the 
-        State or local jurisdiction in which the person will reside.
-The notice requirements under this subsection do not apply in relation 
-to a person being protected under chapter 224.
-    ``(2) Notice provided under paragraph (1) shall include the 
-information described in subsection (b)(2), the place where the person 
-will reside, and the information that the person shall be subject to a 
-registration requirement as a sex offender. For a person who is 
-released from the custody of the Bureau of Prisons whose expected place 
-of residence following release is known to the Bureau of Prisons, 
-notice shall be provided at least 5 days prior to release by the 
-Director of the Bureau of Prisons. For a person who is sentenced to 
-probation, notice shall be provided promptly by the probation officer 
-responsible for the supervision of the person, or in a manner specified 
-by the Director of the Administrative Office of the United States 
-Courts. Notice concerning a subsequent change of residence by a person 
-described in paragraph (4) during any period of probation, supervised 
-release, or parole shall also be provided to the agencies and officers 
-specified in paragraph (1) by the probation officer responsible for the 
-supervision of the person, or in a manner specified by the Director of 
-the Administrative Office of the United States Courts.
-    ``(3) The Director of the Bureau of Prisons shall inform a person 
-described in paragraph (4) who is released from prison that the person 
-shall be subject to a registration requirement as a sex offender in any 
-State in which the person resides, is employed, carries on a vocation, 
-or is a student (as such terms are defined for purposes of section 
-170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 
-1994), and the same information shall be provided to a person described 
-in paragraph (4) who is sentenced to probation by the probation officer 
-responsible for supervision of the person or in a manner specified by 
-the Director of the Administrative Office of the United States Courts.
-    ``(4) A person is described in this paragraph if the person was 
-convicted of any of the following offenses (including such an offense 
-prosecuted pursuant to section 1152 or 1153):
-            ``(A) An offense under section 1201 involving a minor 
-        victim.
-            ``(B) An offense under chapter 109A.
-            ``(C) An offense under chapter 110.
-            ``(D) An offense under chapter 117.
-            ``(E) Any other offense designated by the Attorney General 
-        as a sexual offense for purposes of this subsection.
-    ``(5) The United States and its agencies, officers, and employees 
-shall be immune from liability based on good faith conduct in carrying 
-out this subsection and subsection (b).''.
-    (2)(A) Section 3563(a) of title 18, United States Code, is amended 
-by striking the matter at the end of paragraph (7) beginning with ``The 
-results of a drug test'' and all that follows through the end of such 
-paragraph and inserting that matter at the end of section 3563.
-    (B) The matter inserted by subparagraph (A) at the end of section 
-3563 is amended--
-            (i) by striking ``The results of a drug test'' and 
-        inserting the following:
-    ``(e) Results of Drug Testing.--The results of a drug test''; and
-            (ii) by striking ``paragraph (4)'' each place it appears 
-        and inserting ``subsection (a)(5)''.
-    (C) Section 3563(a) of title 18, United States Code, is amended--
-            (i) so that paragraphs (6) and (7) appear in numerical 
-        order immediately after paragraph (5);
-            (ii) by striking ``and'' at the end of paragraph (6);
-            (iii) in paragraph (7), by striking ``assessments.'' and 
-        inserting ``assessments; and''; and
-            (iv) by inserting immediately after paragraph (7) (as moved 
-        by clause (i)) the following new paragraph:
-            ``(8) for a person described in section 4042(c)(4), that 
-        the person report the address where the person will reside and 
-        any subsequent change of residence to the probation officer 
-        responsible for supervision, and that the person register in 
-        any State where the person resides, is employed, carries on a 
-        vocation, or is a student (as such terms are defined under 
-        section 170101(a)(3) of the Violent Crime Control and Law 
-        Enforcement Act of 1994).''.
-    (D) Section 3583(d) of title 18, United States Code, is amended by 
-inserting after the second sentence the following: ``The court shall 
-order, as an explicit condition of supervised release for a person 
-described in section 4042(c)(4), that the person report the address 
-where the person will reside and any subsequent change of residence to 
-the probation officer responsible for supervision, and that the person 
-register in any State where the person resides, is employed, carries on 
-a vocation, or is a student (as such terms are defined under section 
-170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 
-1994).''.
-    (E) Section 4209(a) of title 18, United States Code, insofar as 
-such section remains in effect with respect to certain individuals, is 
-amended by inserting after the first sentence the following: ``In every 
-case, the Commission shall impose as a condition of parole for a person 
-described in section 4042(c)(4), that the parolee report the address 
-where the parolee will reside and any subsequent change of residence to 
-the probation officer responsible for supervision, and that the parolee 
-register in any State where the parolee resides, is employed, carries 
-on a vocation, or is a student (as such terms are defined under section 
-170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 
-1994).''.
-    (3)(A) The Secretary of Defense shall specify categories of conduct 
-punishable under the Uniform Code of Military Justice which encompass a 
-range of conduct comparable to that described in section 
-170101(a)(3)(A) and (B) of the Violent Crime Control and Law 
-Enforcement Act of 1994 (42 U.S.C. 14071(a)(3)(A) and (B)), and such 
-other conduct as the Secretary deems appropriate for inclusion for 
-purposes of this paragraph.
-    (B) In relation to persons sentenced by a court martial for conduct 
-in the categories specified under subparagraph (A), the Secretary shall 
-prescribe procedures and implement a system to--
-            (i) provide notice concerning the release from confinement 
-        or sentencing of such persons;
-            (ii) inform such persons concerning registration 
-        obligations; and
-            (iii) track and ensure compliance with registration 
-        requirements by such persons during any period of parole, 
-        probation, or other conditional release or supervision related 
-        to the offense.
-    (C) The procedures and requirements established by the Secretary 
-under this paragraph shall, to the maximum extent practicable, be 
-consistent with those specified for Federal offenders under the 
-amendments made by paragraphs (1) and (2).
-    (D) If a person within the scope of this paragraph is confined in a 
-facility under the control of the Bureau of Prisons at the time of 
-release, the Bureau of Prisons shall provide notice of release and 
-inform the person concerning registration obligations under the 
-procedures specified in section 4042(c) of title 18, United States 
-Code.
-    (i) Protected Witness Registration.--Section 3521(b)(1) of title 
-18, United States Code, is amended--
-            (1) by striking ``and'' at the end of subparagraph (G);
-            (2) by redesignating subparagraph (H) as subparagraph (I); 
-        and
-            (3) by inserting after subparagraph (G) the following:
-            ``(H) protect the confidentiality of the identity and 
-        location of persons subject to registration requirements as 
-        convicted offenders under Federal or State law, including 
-        prescribing alternative procedures to those otherwise provided 
-        by Federal or State law for registration and tracking of such 
-        persons; and''.
+Sec. 101. Designation of the Columbine-Hondo Wilderness.
+Sec. 102. Wheeler Peak Wilderness boundary modification.
+Sec. 103. Authorization of appropriations.
+                  TITLE II--LAND CONVEYANCES AND SALES
 
-SEC. 3. SENSE OF CONGRESS AND REPORT RELATING TO STALKING LAWS.
+Sec. 201. Town of Red River land conveyance.
+Sec. 202. Village of Taos Ski Valley land conveyance.
+Sec. 203. Authorization of sale of certain National Forest System land.
 
-    (a) Sense of Congress.--It is the sense of Congress that each State 
-should have in effect a law that makes it a crime to stalk any 
-individual, especially children, without requiring that such individual 
-be physically harmed or abducted before a stalker is restrained or 
-punished.
-    (b) Report.--The Attorney General shall include in an annual report 
-under section 40610 of the Violent Crime Control and Law Enforcement 
-Act of 1994 (42 U.S.C. 14039) information concerning existing or 
-proposed State laws and penalties for stalking crimes against children.
+SEC. 2. DEFINITIONS.
 
-SEC. 4. EFFECTIVE DATE.
+    In this Act:
+            (1) Red river conveyance map.--The term ``Red River 
+        Conveyance Map'' means the map entitled ``Town of Red River 
+        Town Site Act Proposal'' and dated April 19, 2012.
+            (2) Secretary.--The term ``Secretary'' means the Secretary 
+        of Agriculture.
+            (3) State.--The term ``State'' means the State of New 
+        Mexico.
+            (4) Town.--The term ``Town'' means the town of Red River, 
+        New Mexico.
+            (5) Village.--The term ``Village'' means the village of 
+        Taos Ski Valley, New Mexico.
+            (6) Wilderness.--The term ``Wilderness'' means the 
+        Columbine-Hondo Wilderness designated by section 101(a).
+            (7) Wilderness map.--The term ``Wilderness Map'' means the 
+        map entitled ``Columbine-Hondo, Wheeler Peak Wilderness'' and 
+        dated April 25, 2012.
 
-    This Act shall take effect on the date of the enactment of this 
-Act, except that--
-            (1) paragraphs (1), (2), and (3) of section 2(h) shall take 
-        effect 1 year after the date of the enactment of this Act; and
-            (2) States shall have 3 years from such date of enactment 
-        to implement amendments made by this Act which impose new 
-        requirements under the Jacob Wetterling Crimes Against Children 
-        and Sexually Violent Offender Registration Act, and the 
-        Attorney General may grant an additional 2 years to a State 
-        that is making good faith efforts to implement these 
-        amendments.
+    TITLE I--ADDITION TO THE NATIONAL WILDERNESS PRESERVATION SYSTEM
 
-            Passed the House of Representatives September 23, 1997.
+SEC. 101. DESIGNATION OF THE COLUMBINE-HONDO WILDERNESS.
 
-            Attest:
+    (a) In General.--In accordance with the Wilderness Act (16 U.S.C. 
+1131 et seq.), the approximately 45,000 acres of land in the Carson 
+National Forest in the State, as generally depicted on the Wilderness 
+Map, is designated as wilderness and as a component of the National 
+Wilderness Preservation System, which shall be known as the 
+``Columbine-Hondo Wilderness''.
+    (b) Management.--Subject to valid existing rights, the Wilderness 
+shall be administered by the Secretary in accordance with this Act and 
+the Wilderness Act (16 U.S.C. 1131 et seq.), except that any reference 
+in that Act to the effective date of that Act shall be considered to be 
+a reference to the date of enactment of this Act.
+    (c) Incorporation of Acquired Land and Interests in Land.--Any land 
+or interest in land that is within the boundary of the Wilderness that 
+is acquired by the United States shall--
+            (1) become part of the Wilderness; and
+            (2) be managed in accordance with--
+                    (A) the Wilderness Act (16 U.S.C. 1131 et seq.);
+                    (B) this section; and
+                    (C) any other applicable laws.
+    (d) Grazing.--Grazing of livestock in the Wilderness, where 
+established before the date of enactment of this Act, shall be 
+administered in accordance with--
+            (1) section 4(d)(4) of the Wilderness Act (16 U.S.C. 
+        1133(d)(4)); and
+            (2) the guidelines set forth in the report of the Committee 
+        on Interior and Insular Affairs of the House of Representatives 
+        accompanying H.R. 5487 of the 96th Congress (H. Rept. 96-617).
+    (e) Columbine-Hondo Wilderness Study Area.--
+            (1) Finding.--Congress finds that, for purposes of section 
+        103(a)(2) of Public Law 96-550 (16 U.S.C. 1132 note; 94 Stat. 
+        3223), any Federal land in the Columbine-Hondo Wilderness Study 
+        Area administered by the Forest Service that is not designated 
+        as wilderness by subsection (a) has been adequately reviewed 
+        for wilderness designation.
+            (2) Applicability.--The Federal land described in paragraph 
+        (1) is no longer subject to subsections (a)(2) and (b) of 
+        section 103 of Public Law 96-550 (16 U.S.C. 1132 note; 94 Stat. 
+        3223).
+    (f) Maps and Legal Descriptions.--
+            (1) In general.--As soon as practicable after the date of 
+        enactment of this Act, the Secretary shall prepare maps and 
+        legal descriptions of the Wilderness.
+            (2) Force of law.--The maps and legal descriptions prepared 
+        under paragraph (1) shall have the same force and effect as if 
+        included in this Act, except that the Secretary may correct 
+        errors in the maps and legal descriptions.
+            (3) Public availability.--The maps and legal descriptions 
+        prepared under paragraph (1) shall be on file and available for 
+        public inspection in the appropriate offices of the Forest 
+        Service.
+    (g) Fish and Wildlife.--Nothing in this Act affects the 
+jurisdiction of the State with respect to fish and wildlife located on 
+public land in the State, except that the Secretary, after consultation 
+with the New Mexico Department of Game and Fish, may designate zones in 
+which, and establish periods during which, hunting or fishing shall not 
+be allowed for reasons of public safety, administration, the protection 
+for nongame species and associated habitats, or public use and 
+enjoyment.
+    (h) Withdrawals.--Subject to valid existing rights, the Federal 
+land described in subsections (a) and (e)(1) and any land or interest 
+in land that is acquired by the United States in the Wilderness after 
+the date of enactment of this Act is withdrawn from--
+            (1) entry, appropriation, or disposal under the public land 
+        laws;
+            (2) location, entry, and patent under the mining laws; and
+            (3) operation of the mineral leasing, mineral materials, 
+        and geothermal leasing laws.
 
-                                                ROBIN H. CARLE,
+SEC. 102. WHEELER PEAK WILDERNESS BOUNDARY MODIFICATION.
 
-                                                                 Clerk.
+    (a) In General.--The boundary of the Wheeler Peak Wilderness in the 
+State is modified as generally depicted in the Wilderness Map.
+    (b) Withdrawal.--Subject to valid existing rights, any Federal land 
+added to or excluded from the boundary of the Wheeler Peak Wilderness 
+under subsection (a) is withdrawn from--
+            (1) entry, appropriation, or disposal under the public land 
+        laws;
+            (2) location, entry, and patent under the mining laws; and
+            (3) operation of the mineral leasing, mineral materials, 
+        and geothermal leasing laws.
 
-                              By Jeff Trandahl,
+SEC. 103. AUTHORIZATION OF APPROPRIATIONS.
 
-                                                          Deputy Clerk.
+    There are authorized to be appropriated such sums as are necessary 
+to carry out this title.
+
+                  TITLE II--LAND CONVEYANCES AND SALES
+
+SEC. 201. TOWN OF RED RIVER LAND CONVEYANCE.
+
+    (a) In General.--Subject to the provisions of this section, the 
+Secretary shall convey to the Town, without consideration and by 
+quitclaim deed, all right, title, and interest of the United States in 
+and to the one or more parcels of Federal land described in subsection 
+(b) for which the Town submits a request to the Secretary by the date 
+that is not later than 1 year after the date of enactment of this Act.
+    (b) Description of Land.--The parcels of Federal land referred to 
+in subsection (a) are the parcels of National Forest System land 
+(including any improvements to the land) in Taos County, New Mexico, 
+that are identified as ``Parcel 1'', ``Parcel 2'', ``Parcel 3'', and 
+``Parcel 4'' on the Red River Conveyance Map.
+    (c) Conditions.--The conveyance under subsection (a) shall be 
+subject to--
+            (1) valid existing rights;
+            (2) public rights-of-way through ``Parcel 1'', ``Parcel 
+        3'', and ``Parcel 4'';
+            (3) an administrative right-of-way through ``Parcel 2'' 
+        reserved to the United States; and
+            (4) such additional terms and conditions as the Secretary 
+        may require.
+    (d) Use of Land.--As a condition of the conveyance under subsection 
+(a), the Town shall use--
+            (1) ``Parcel 1'' for a wastewater treatment plant;
+            (2) ``Parcel 2'' for a cemetery;
+            (3) ``Parcel 3'' for a public park; and
+            (4) ``Parcel 4'' for a public road.
+    (e) Reversion.--In the quitclaim deed to the Town under subsection 
+(a), the Secretary shall provide that any parcel of Federal land 
+conveyed to the Town under subsection (a) shall revert to the 
+Secretary, at the election of the Secretary, if the parcel of Federal 
+land is used for a purpose other than the purpose for which the parcel 
+was conveyed, as required under subsection (d).
+    (f) Survey; Administrative Costs.--
+            (1) Survey.--The exact acreage and legal description of the 
+        National Forest System land conveyed under subsection (a) shall 
+        be determined by a survey approved by the Secretary.
+            (2) Costs.--The Town shall pay the reasonable survey and 
+        other administrative costs associated with the conveyance.
+
+SEC. 202. VILLAGE OF TAOS SKI VALLEY LAND CONVEYANCE.
+
+    (a) In General.--Subject to the provisions of this section, the 
+Secretary shall convey to the Village, without consideration and by 
+quitclaim deed, all right, title, and interest of the United States in 
+and to the parcel of Federal land described in subsection (b) for which 
+the Village submits a request to the Secretary by the date that is not 
+later than 1 year after the date of enactment of this Act.
+    (b) Description of Land.--The parcel of Federal land referred to in 
+subsection (a) is the parcel comprising approximately 4.6 acres of 
+National Forest System land (including any improvements to the land) in 
+Taos County generally depicted as ``Parcel 1'' on the map entitled 
+``Village of Taos Ski Valley Town Site Act Proposal'' and dated April 
+19, 2012.
+    (c) Conditions.--The conveyance under subsection (a) shall be 
+subject to--
+            (1) valid existing rights;
+            (2) an administrative right-of-way through the parcel of 
+        Federal land described in subsection (b) reserved to the United 
+        States; and
+            (3) such additional terms and conditions as the Secretary 
+        may require.
+    (d) Use of Land.--As a condition of the conveyance under subsection 
+(a), the Village shall use the parcel of Federal land described in 
+subsection (b) for a wastewater treatment plant.
+    (e) Reversion.--In the quitclaim deed to the Village, the Secretary 
+shall provide that the parcel of Federal land conveyed to the Village 
+under subsection (a) shall revert to the Secretary, at the election of 
+the Secretary, if the parcel of Federal land is used for a purpose 
+other than the purpose for which the parcel was conveyed, as described 
+in subsection (d).
+    (f) Survey; Administrative Costs.--
+            (1) Survey.--The exact acreage and legal description of the 
+        National Forest System land conveyed under subsection (a) shall 
+        be determined by a survey approved by the Secretary.
+            (2) Costs.--The Village shall pay the reasonable survey and 
+        other administrative costs associated with the conveyance.
+
+SEC. 203. AUTHORIZATION OF SALE OF CERTAIN NATIONAL FOREST SYSTEM LAND.
+
+    (a) In General.--Subject to the provisions of this section and in 
+exchange for consideration in an amount that is equal to the fair 
+market value of the applicable parcel of National Forest System land, 
+the Secretary may convey--
+            (1) to the holder of the permit numbered ``QUE302101'' for 
+        use of the parcel, the parcel of National Forest System land 
+        comprising approximately 0.2 acres that is generally depicted 
+        as ``Parcel 5'' on the Red River Conveyance Map; and
+            (2) to the owner of the private property adjacent to the 
+        parcel, the parcel of National Forest System land comprising 
+        approximately 0.1 acres that is generally depicted as ``Parcel 
+        6'' on the Red River Conveyance Map.
+    (b) Disposition of Proceeds.--Any amounts received by the Secretary 
+as consideration for a conveyance under subsection (a) shall be--
+            (1) deposited in the fund established under Public Law 90-
+        171 (commonly known as the ``Sisk Act'') (16 U.S.C. 484a); and
+            (2) available to the Secretary, without further 
+        appropriation and until expended, for the acquisition of land 
+        or interests in land in the Carson National Forest.
+    (c) Conditions.--The conveyance under subsection (a) shall be 
+subject to--
+            (1) valid existing rights; and
+            (2) such additional terms and conditions as the Secretary 
+        may require.
+    (d) Survey; Administrative Costs.--
+            (1) Survey.--The exact acreage and legal description of the 
+        National Forest System land conveyed under subsection (a) shall 
+        be determined by a survey approved by the Secretary.
+            (2) Costs.--The reasonable survey and other administrative 
+        costs associated with the conveyance shall be paid by the 
+        holder of the permit or the owner of the private property, as 
+        applicable.
+                                 <all>

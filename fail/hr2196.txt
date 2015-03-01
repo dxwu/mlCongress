@@ -1,21 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2196 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2196
 
-    To reduce the Federal funds to be provided to any international 
-   financial institution by the United States portion of any subsidy 
-     provided by the institution to the People's Republic of China.
+   To create and expand innovative teacher and principal preparation 
+     programs known as teacher and principal preparation academies.
 
 
 _______________________________________________________________________
@@ -23,12 +16,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             July 17, 1997
+                              May 23, 2013
 
-   Mr. Solomon (for himself, Mr. Cox of California, Mr. Gilman, Mr. 
- Spence, Mr. Rohrabacher, Mr. McIntosh, Mr. Gibbons, and Mr. Shadegg) 
- introduced the following bill; which was referred to the Committee on 
-                     Banking and Financial Services
+ Mr. Petri (for himself and Mr. Polis) introduced the following bill; 
+   which was referred to the Committee on Education and the Workforce
 
 _______________________________________________________________________
 
@@ -36,88 +27,355 @@ _______________________________________________________________________
 
 
  
-    To reduce the Federal funds to be provided to any international 
-   financial institution by the United States portion of any subsidy 
-     provided by the institution to the People's Republic of China.
+   To create and expand innovative teacher and principal preparation 
+     programs known as teacher and principal preparation academies.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
-    This Act may be cited as the ``Communist China Subsidy Reduction 
-Act of 1997''.
+    (a) Short Title.--This Act may be cited as the ``Growing Education 
+Achievement Training Academies for Teachers and Principals Act'' or the 
+``GREAT Teachers and Principals Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
 
-SEC. 2. FINDINGS.
+Sec. 1. Short title; table of contents.
+Sec. 2. Purpose.
+Sec. 3. Definitions.
+Sec. 4. State grants.
+Sec. 5. Subgrants to teacher or principal preparation academies.
+Sec. 6. Coordination with the Corporation for National and Community 
+                            Service.
+Sec. 7. Authorization of appropriations.
 
-    The Congress finds that--
-            (1) the People's Republic of China has enjoyed ready access 
-        to international capital through commercial loans, direct 
-        investment, sales of securities, bond sales, and foreign aid;
-            (2) regarding international commercial lending, the 
-        People's Republic of China had $48,000,000,000 in loans 
-        outstanding from private creditors in 1995;
-            (3) regarding international direct investment, 
-        international direct investment in the People's Republic of 
-        China from 1993 through 1995 totaled $97,151,000,000, and in 
-        1996 alone totaled $47,000,000,000;
-            (4) regarding investment in Chinese securities, the 
-        aggregate value of outstanding Chinese securities currently 
-        held by Chinese nationals and foreign persons is 
-        $175,000,000,000, and from 1993 through 1995 foreign persons 
-        invested $10,540,000,000 in Chinese stocks;
-            (5) regarding investment in Chinese bonds, entities 
-        controlled by the Government of the People's Republic of China 
-        have issued 75 bonds since 1988, including 36 dollar-
-        denominated bond offerings valued at more than $6,700,000,000, 
-        and the total value of long-term Chinese bonds outstanding as 
-        of January 1, 1996, was $11,709,000,000;
-            (6) regarding international assistance, the People's 
-        Republic of China received almost $1,000,000,000 in foreign aid 
-        grants and an additional $1,566,000,000 in technical assistance 
-        grants from 1993 through 1995, and in 1995 received 
-        $5,540,000,000 in bilateral assistance loans, including 
-        concessional aid, export credits, and related assistance; and
-            (7) regarding international financial institutions--
-                    (A) despite the People's Republic of China's access 
-                to international capital and world financial markets, 
-                international financial institutions have annually 
-                provided it with more than $4,000,000,000 in loans in 
-                recent years, amounting to almost a third of the loan 
-                commitments of the Asian Development Bank and 17.1 
-                percent of the loan approvals by the International Bank 
-                for Reconstruction and Development in 1995; and
-                    (B) the People's Republic of China borrows more 
-                from the International Bank for Reconstruction and 
-                Development and the Asian Development Bank than any 
-                other country, and loan commitments from those 
-                institutions to the People's Republic of China 
-                quadrupled from $1,100,000,000 in 1985 to 
-                $4,300,000,000 by 1995.
+SEC. 2. PURPOSE.
 
-SEC. 3. FEDERAL FUNDS FOR EACH INTERNATIONAL FINANCIAL INSTITUTION TO 
-              BE REDUCED BY THE UNITED STATES PORTION OF SUBSIDIES 
-              PROVIDED BY THE INSTITUTION TO THE PEOPLE'S REPUBLIC OF 
-              CHINA.
+    The purpose of this Act is to encourage innovation in the field of 
+teacher and principal preparation by creating and expanding teacher or 
+principal preparation academies that will increase the number of 
+effective teachers and principals serving in high-needs schools and 
+hard-to-staff subjects, such as science, technology, engineering, 
+mathematics, and computer science.
 
-    (a) Determination.--Not later than May 1 of each year, the 
-Secretary of the Treasury shall determine, with respect to each 
-international financial institution (as defined in section 1702(c)(2) 
-of the International Financial Institutions Act) the amount of the 
-United States portion of any subsidy (whether direct or indirect, or in 
-the form of loans, cash, or in-kind assistance) provided by the 
-institution during the then most recently completed fiscal year of the 
-institution, to the People's Republic of China, any citizen or national 
-of the People's Republic of China, or any entity established in the 
-People's Republic of China.
-    (b) Reduction in United States Payments.--The Secretary of the 
-Treasury shall reduce the amount that would otherwise be paid by the 
-United States to an international financial institution (as defined in 
-section 1702(c)(2) of the International Financial Institutions Act) 
-during a fiscal year by an amount equal to the amount determined under 
-subsection (a) of this section with respect to the institution for the 
-then most recently completed fiscal year of the institution.
-    (c) Subsidy Defined.--As used in this section, the term ``subsidy'' 
-includes a loan made on terms not available from a private lending 
-institution.
+SEC. 3. DEFINITIONS.
+
+    In this Act:
+            (1) Principal preparation academy.--The term ``principal 
+        preparation academy'' means a public or other nonprofit 
+        institution for preparing principals that--
+                    (A) enters into a charter with a State authorizer 
+                that specifies the goals and outcomes expected of the 
+                principal preparation academy and the obligations of 
+                the State authorizer, including--
+                            (i) a requirement that--
+                                    (I) principal candidates, or 
+                                principals serving on alternative 
+                                certificates, licenses, or credentials, 
+                                who are enrolled in the principal 
+                                preparation academy receive a 
+                                significant part of their training 
+                                through clinical preparation that 
+                                partners the principal candidate with a 
+                                mentor principal; and
+                                    (II) the academy will provide 
+                                instruction to the principal candidate 
+                                that links to the clinical preparation 
+                                experience;
+                            (ii) the number of principals the principal 
+                        preparation academy will produce and the 
+                        minimum number and percentage of effective 
+                        principals with a demonstrated track record of 
+                        success in getting a school's students on track 
+                        to being career and college ready;
+                            (iii) a requirement that a certificate of 
+                        completion (or degree, if the principal 
+                        preparation academy is, or is affiliated with, 
+                        an institution of higher education) will be 
+                        conferred upon a graduate from the principal 
+                        preparation academy only after the graduate 
+                        demonstrates a track record of success in 
+                        getting a school's students on track to being 
+                        college and career ready;
+                            (iv) a requirement that the principal 
+                        preparation academy survey the academy's alumni 
+                        not less than once every 3 years to track the 
+                        number of alumni employed as principals and in 
+                        education; and
+                            (v) timelines for producing cohorts of 
+                        graduates and conferring certificates of 
+                        completion (or degrees, if the principal 
+                        preparation academy is, or is affiliated with, 
+                        an institution of higher education) from the 
+                        principal preparation academy;
+                    (B) shall not have unnecessary restrictions on the 
+                methods the principal preparation academy will use to 
+                train principal candidates, including restrictions or 
+                requirements--
+                            (i) obligating the faculty of the principal 
+                        preparation academy faculty to hold advanced 
+                        degrees;
+                            (ii) obligating such faculty to conduct 
+                        academic research;
+                            (iii) related to the physical 
+                        infrastructure of the principal preparation 
+                        academy; or
+                            (iv) related to the number of course 
+                        credits required as part of the program of 
+                        study; and
+                    (C) limits admission to its program to candidates 
+                who demonstrate strong potential to be effective 
+                principals, based on a rigorous, competency-based 
+                selection process that reviews a candidate's prior 
+                academic achievement or record of professional 
+                accomplishment.
+            (2) State authorizer.--The term ``State authorizer'' means 
+        an entity designated by the State to recognize teacher or 
+        principal preparation academies within the State that--
+                    (A) may be a nonprofit organization, State 
+                educational agency, or other public entity, or 
+                consortium of such entities (including a consortium of 
+                States); and
+                    (B) does not renew a teacher or principal 
+                preparation academy's charter if the academy fails to 
+                produce the minimum number or percentage of effective 
+                teachers or principals, respectively, identified in the 
+                academy's charter.
+            (3) Teacher or principal preparation academy.--The term 
+        ``teacher or principal preparation academy'' means a teacher 
+        preparation academy or a principal preparation academy.
+            (4) Teacher preparation academy.--The term ``teacher 
+        preparation academy'' means a public or other nonprofit 
+        institution for preparing teachers that--
+                    (A) enters into a charter with a State authorizer 
+                that specifies the goals and outcomes expected of the 
+                teacher preparation academy and the obligations of the 
+                State authorizer, including--
+                            (i) a requirement that--
+                                    (I) teacher candidates, or teachers 
+                                teaching on alternative certificates, 
+                                licenses, or credentials, who are 
+                                enrolled in the teacher preparation 
+                                academy receive a significant part of 
+                                their training through clinical 
+                                preparation that partners teacher 
+                                candidates with mentor teachers with a 
+                                demonstrated track record of success in 
+                                improving academic achievement in the 
+                                classroom; and
+                                    (II) the academy will provide 
+                                instruction to teacher candidates that 
+                                links to the clinical preparation 
+                                experience;
+                            (ii) the number of teachers the teacher 
+                        preparation academy will produce and the 
+                        minimum number and percentage of effective 
+                        teachers with a demonstrated track record of 
+                        success in getting students on track to being 
+                        college and career ready, based on multiple 
+                        measures of student achievement;
+                            (iii) a requirement that a teacher 
+                        preparation academy will only award a 
+                        certificate of completion (or degree, if the 
+                        teacher preparation academy is, or is 
+                        affiliated with, an institution of higher 
+                        education) after the graduate demonstrates the 
+                        track record of success described in clause 
+                        (ii), either as a student teacher or teacher-
+                        of-record on an alternative certificate, 
+                        license, or credential;
+                            (iv) a requirement that the teacher 
+                        preparation academy survey the academy's alumni 
+                        not less than once every 3 years to track the 
+                        number of alumni employed as teachers and in 
+                        education; and
+                            (v) timelines for producing cohorts of 
+                        graduates and conferring certificates of 
+                        completion (or degrees, if the teacher 
+                        preparation academy is, or is affiliated with, 
+                        an institution of higher education) from the 
+                        teacher preparation academy;
+                    (B) shall not have unnecessary restrictions on the 
+                methods or inputs the teacher preparation academy will 
+                use to train teacher candidates or teachers teaching on 
+                alternative certificates, licenses, or credentials, 
+                including restrictions or requirements--
+                            (i) obligating the faculty of the teacher 
+                        preparation academy to hold advanced degrees;
+                            (ii) obligating such faculty to conduct 
+                        academic research;
+                            (iii) related to the physical 
+                        infrastructure of the teacher preparation 
+                        academy;
+                            (iv) related to the number of course 
+                        credits required as part of the program of 
+                        study;
+                            (v) related to the undergraduate coursework 
+                        completed by teachers teaching on alternative 
+                        certificates, licenses, or credentials, as long 
+                        as such teachers have successfully passed all 
+                        relevant State-approved content area 
+                        examinations; or
+                            (vi) related to obtaining additional 
+                        accreditation from a national accrediting body; 
+                        and
+                    (C) limits admission to its program to candidates 
+                who demonstrate strong potential to be effective 
+                teachers, based on a rigorous selection process that 
+                reviews a candidate's prior academic achievement or 
+                record of professional accomplishment.
+
+SEC. 4. STATE GRANTS.
+
+    (a) In General.--The Secretary is authorized to award grants to 
+States having applications approved under subsection (b) to enable such 
+States to create or expand teacher or principal preparation academies.
+    (b) Applications.--Each State that desires a grant under this Act 
+shall submit an application to the Secretary at such time, in such 
+manner, and containing such information as the Secretary may reasonably 
+require. The application shall include--
+            (1) an assurance that the State does not have in place 
+        legal, statutory, or regulatory barriers to the creation or 
+        operation of teacher or principal preparation academies;
+            (2) a description of how the State will promote the 
+        creation and expansion of teacher or principal preparation 
+        academies;
+            (3) a description of how the authorization and approval of 
+        teacher or principal preparation academies is separate and 
+        distinct from the requirements otherwise established by the 
+        State for approval of other teacher or principal preparation 
+        programs;
+            (4) a description of the process the State authorizer will 
+        use to authorize and approve a teacher or principal preparation 
+        academy that--
+                    (A) enables participants in the academy to be 
+                eligible for State financial aid to the same extent as 
+                participants in other State-approved teacher or 
+                principal preparation programs, including alternative 
+                certification, licensure, or credential programs;
+                    (B) enables teachers who are teaching on 
+                alternative certificates, licenses, or credentials to 
+                teach in the State while enrolled in a teacher 
+                preparation academy; and
+                    (C) enables graduates from teacher preparation 
+                academies to be eligible to teach in such State and 
+                graduates from principal preparation academies to be 
+                eligible to be a principal in a school in such State;
+            (5) a description of the process the State authorizer will 
+        use to monitor the success of--
+                    (A) a teacher preparation academy in--
+                            (i) producing effective teachers that 
+                        demonstrate a track record of success in 
+                        getting students on track to being college and 
+                        career ready, based on multiple measures of 
+                        student achievement; and
+                            (ii) preparing teachers to teach in high-
+                        needs schools or hard-to-staff subjects; and
+                    (B) a principal preparation academy in--
+                            (i) producing effective principals that 
+                        demonstrate a track record of success in 
+                        getting students in a school on track to being 
+                        career and college ready; and
+                            (ii) preparing principals to serve in high-
+                        needs schools or hard-to-staff subjects;
+            (6) the criteria the State authorizer will apply in 
+        renewing or denying a teacher or principal preparation 
+        academy's charter, including the minimum number and percentage 
+        of effective teachers or principals such academy must produce 
+        in order to renew its charter; and
+            (7) an assurance that the State will recognize a 
+        certificate of completion (from a teacher or principal 
+        preparation academy that is not, or is unaffiliated with, an 
+        institution of higher education), as at least the equivalent of 
+        a master's degree in education for the purposes of teacher or 
+        principal hiring, retention, compensation, and promotion in the 
+        State.
+    (c) Uses of Funds.--A State receiving a grant under this Act shall 
+use grant funds to--
+            (1) implement a process by which to--
+                    (A) create or designate State authorizers; and
+                    (B) create or approve teacher or principal 
+                preparation academies;
+            (2) support, directly or through a nonprofit intermediary 
+        organization, the establishment and operation of teacher or 
+        principal preparation academies by assisting entities with the 
+        planning, program design, and implementation of such programs; 
+        and
+            (3) award subgrants to teacher or principal preparation 
+        academies in the State in accordance with section 5.
+
+SEC. 5. SUBGRANTS TO TEACHER OR PRINCIPAL PREPARATION ACADEMIES.
+
+    (a) In General.--From the amounts made available under section 
+4(c)(3), a State shall award subgrants to nonprofit entities to carry 
+out activities described in subsection (d).
+    (b) Applications.--Each nonprofit entity desiring a subgrant under 
+this section from a State shall submit an application to a State 
+authorizer designated by the State to receive such applications. The 
+application shall include, at a minimum--
+            (1) a description of the teacher or principal preparation 
+        academy's proposed curriculum, training of teacher or principal 
+        candidates (including clinical training), and approach to 
+        teacher or principal development;
+            (2) the student achievement outcomes the entity will 
+        require of academy graduates before conferring a degree or 
+        certificate of completion from the program, with timelines for 
+        obtaining such outcomes;
+            (3) a multi-year financial and operating model for the 
+        entity;
+            (4) the qualifications of the entity's chief executive 
+        officer or organization leader; and
+            (5) a description of how the teacher or principal 
+        preparation academy is designed to prepare teachers or 
+        principals to serve in high-need areas (including rural areas 
+        and Native American communities), or hard-to-staff subjects.
+    (c) Priority.--In awarding subgrants under this section, a State 
+shall give a priority to entities proposing to expand previously 
+existing teacher or principal preparation programs, as of the date of 
+application, with a demonstrated track record of success in getting 
+students on track to being college and career ready.
+    (d) Uses of Funds.--An entity that receives a subgrant under this 
+section shall use its subgrant--
+            (1) to establish a teacher or principal preparation 
+        academy;
+            (2) to expand the capacity of a teacher or principal 
+        preparation academy;
+            (3) to measure the effectiveness of a teacher or principal 
+        preparation academy in improving student academic achievement, 
+        as demonstrated by getting students on track to be college and 
+        career ready; or
+            (4) to recruit candidates for a teacher or principal 
+        preparation academy who have demonstrated strong potential to 
+        be effective teachers or principals, based on a rigorous, 
+        competency-based selection process that reviews a candidate's 
+        prior academic achievement or record of professional 
+        accomplishment.
+
+SEC. 6. COORDINATION WITH THE CORPORATION FOR NATIONAL AND COMMUNITY 
+              SERVICE.
+
+    (a) Interagency Agreement.--The Secretary shall enter into an 
+interagency agreement with the Corporation for National and Community 
+Service under section 121(b) of the National and Community Service Act 
+of 1990 (42 U.S.C. 12571(b)) under which the Corporation shall approve 
+positions, for candidates at each teacher or principal preparation 
+academy that receives financial assistance under this Act, as approved 
+national service positions, as defined in section 101 of the National 
+and Community Service Act of 1990 (42 U.S.C. 12511). Such interagency 
+agreement shall specify how a degree or certificate of completion for a 
+term of service as a participant at a teacher or principal preparation 
+academy will be submitted to the Corporation.
+    (b) Special Rule.--Notwithstanding section 148 of the National and 
+Community Service Act of 1990 (42 U.S.C. 12604), the Secretary and the 
+Chief Executive Officer of the Corporation for National and Community 
+Service shall develop a program under which national service 
+educational awards may be disbursed to a teacher or principal 
+preparation academy to cover or reimburse the costs of attending the 
+academy.
+
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to carry out this Act such 
+sums as may be necessary for each of fiscal years 2014 through 2018.
                                  <all>

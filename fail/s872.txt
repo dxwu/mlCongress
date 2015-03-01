@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 872 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 872
 
-     To amend the Internal Revenue Code of 1986 to provide for the 
-     nonrecognition of gain for sale of stock to certain farmers' 
-                 cooperatives, and for other purposes.
+ To amend the Securities Exchange Act of 1934, to make the shareholder 
+ threshold for registration of savings and loan holding companies the 
+                  same as for bank holding companies.
 
 
 _______________________________________________________________________
@@ -23,12 +17,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             June 10, 1997
+                              May 7, 2013
 
-   Mr. Roberts (for himself, Mr. Harkin, Mr. Hatch, Mr. Johnson, Mr. 
-    Baucus, Mr. D'Amato, Mr. Bennett, and Mr. Craig) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                                Finance
+ Mr. Toomey (for himself and Mr. Pryor) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
 
 _______________________________________________________________________
 
@@ -36,54 +29,36 @@ _______________________________________________________________________
 
 
  
-     To amend the Internal Revenue Code of 1986 to provide for the 
-     nonrecognition of gain for sale of stock to certain farmers' 
-                 cooperatives, and for other purposes.
+ To amend the Securities Exchange Act of 1934, to make the shareholder 
+ threshold for registration of savings and loan holding companies the 
+                  same as for bank holding companies.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. NONRECOGNITION OF GAIN ON SALE OF STOCK TO CERTAIN FARMERS' 
-              COOPERATIVES.
+SECTION 1. SHORT TITLE.
 
-    (a) Application of Section 1042 to Certain Farmers' Cooperatives.--
-Section 1042 of the Internal Revenue Code of 1986 (relating to sales of 
-stock to employee stock ownership plans or certain cooperatives) is 
-amended by adding at the end the following new subsection:
-    ``(g) Application of Section to Sales of Stock in Agricultural 
-Refiners and Processors to Eligible Farm Cooperatives.--
-            ``(1) In general.--This section shall apply to the sale of 
-        stock of a qualified refiner or processor to an eligible 
-        farmers' cooperative.
-            ``(2) Qualified refiner or processor.--For purposes of this 
-        subsection, the term `qualified refiner or processor' means a 
-        domestic corporation--
-                    ``(A) substantially all of the activities of which 
-                consist of the active conduct of the trade or business 
-                of refining or processing agricultural or horticultural 
-                products, and
-                    ``(B) which purchases more than one-half of such 
-                products to be refined or processed from farmers who 
-                make up the eligible farmers' cooperative which is 
-                purchasing stock in the corporation in a transaction to 
-                which this subsection is to apply.
-            ``(3) Eligible farmers' cooperative.--For purposes of this 
-        section, the term `eligible farmers' cooperative' means an 
-        organization to which part I of subchapter T applies which is 
-        engaged in the marketing of agricultural or horticultural 
-        products.
-            ``(4) Special rules.--In applying this section to a sale to 
-        which paragraph (1) applies--
-                    ``(A) the eligible farmers' cooperative shall be 
-                treated in the same manner as a cooperative described 
-                in subsection (b)(1)(B),
-                    ``(B) subsection (b)(2) shall be applied by 
-                substituting `100 percent' for `30 percent',
-                    ``(C) the determination as to whether any stock in 
-                the domestic corporation is a qualified security shall 
-                be made without regard to whether the stock is an 
-                employer security or to subsection (c)(1)(A), and
-                    ``(D) subsection (c)(7) shall not apply.''
-    (b) Effective Date.--The amendment made by this section shall apply 
-to sales after the date of the enactment of this Act.
+    This Act may be cited as the ``Holding Company Registration 
+Threshold Equalization Act of 2013''.
+
+SEC. 2. REGISTRATION THRESHOLD FOR SAVINGS AND LOAN HOLDING COMPANIES.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended--
+            (1) in section 12(g) (15 U.S.C. 78l(g))--
+                    (A) in paragraph (1)(B), by inserting after ``is a 
+                bank'' the following: ``, a savings and loan holding 
+                company (as such term is defined in section 10 of the 
+                Home Owners' Loan Act),''; and
+                    (B) in paragraph (4)--
+                            (i) by inserting after ``case of a bank'' 
+                        the following: ``, a savings and loan holding 
+                        company (as such term is defined in section 10 
+                        of the Home Owners' Loan Act),''; and
+                            (ii) by striking ``persons persons'' and 
+                        inserting ``persons''; and
+            (2) in section 15(d) (15 U.S.C. 78o(d)), by striking ``case 
+        of bank'' and inserting the following: ``case of a bank, a 
+        savings and loan holding company (as such term is defined in 
+        section 10 of the Home Owners' Loan Act),''.
                                  <all>

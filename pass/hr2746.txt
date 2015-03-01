@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2746 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2746
 
-To amend title VI of the Elementary and Secondary Education Act of 1965 
-    to give parents with low-incomes the opportunity to choose the 
-                 appropriate school for their children.
+ To prevent undue disruption of interstate commerce by limiting civil 
+   actions brought against persons whose only role with regard to a 
+product in the stream of commerce is as a lawful seller of the product.
 
 
 _______________________________________________________________________
@@ -23,12 +17,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            October 28, 1997
+                             July 19, 2013
 
- Mr. Riggs (for himself, Mr. Watts of Oklahoma, Mr. Flake, Mr. Talent, 
-Mr. Gingrich, Mr. Armey, Mr. DeLay, Mr. Boehner, Ms. Dunn, Ms. Pryce of 
-  Ohio, Mr. Solomon, and Mr. Hoekstra) introduced the following bill; 
-   which was referred to the Committee on Education and the Workforce
+Mr. Farenthold introduced the following bill; which was referred to the 
+Committee on the Judiciary, and in addition to the Committee on Energy 
+    and Commerce, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -36,205 +31,85 @@ _______________________________________________________________________
 
 
  
-To amend title VI of the Elementary and Secondary Education Act of 1965 
-    to give parents with low-incomes the opportunity to choose the 
-                 appropriate school for their children.
+ To prevent undue disruption of interstate commerce by limiting civil 
+   actions brought against persons whose only role with regard to a 
+product in the stream of commerce is as a lawful seller of the product.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Helping Empower Low-income Parents 
-(HELP) Scholarships Amendments of 1997''.
+    This Act may be cited as the ``Innocent Sellers Fairness Act''.
 
-SEC. 2. DEFINITIONS.
+SEC. 2. FINDINGS.
 
-    Section 6003 of the Elementary and Secondary Education Act of 1965 
-is amended--
-            (1) in the section heading by striking ``definition'' and 
-        inserting ``definitions'';
-            (2) by striking ``(1)'', ``(2)'', and ``(3)'';
-            (3) in the matter proceeding subparagraph (A), by striking 
-        `` title the term'' and inserting the following:
-``title--
-            ``(1) the term'';
-            (4) by striking the period at the end; and
-            (5) by adding at the end the following:
-            ``(2) the term `poverty line' means the poverty line (as 
-        defined by the Office of Management and Budget, and revised 
-        annually in accordance with section 673(2) of the Community 
-        Services Block Grant Act (42 U.S.C. 9902(2)) applicable to a 
-        family of the size involved; and
-            ``(3) the term `voluntary public and private parental 
-        choice program' means a program that meets the requirements of 
-        section 6301(b)(9), is authorized by State law, and includes 1 
-        or more private schools to allow low-income parents to choose 
-        the appropriate school for their children.''.
+    Congress finds that--
+            (1) an innocent seller should not be held responsible under 
+        the doctrine of product liability for damages that the seller 
+        did not cause;
+            (2) as a result of product liability, sellers are often 
+        brought into litigation despite the fact that they had no 
+        control or input in the design, production, or any other aspect 
+        of an allegedly defective product, and may therefore face 
+        increased costs due to the possibility or result of 
+        disproportionate damage awards;
+            (3) due to high liability costs and unwarranted litigation 
+        costs, sellers face higher costs in purchasing insurance 
+        through interstate insurance markets to cover their activities;
+            (4) liability reform for sellers will promote the free flow 
+        of goods and services, lessen burdens on interstate commerce, 
+        decrease litigiousness, and lower prices to consumers; and
+            (5) legislation to address these concerns is an appropriate 
+        exercise of the powers of Congress under clauses 3, 9, and 18 
+        of section 8 of article I of the Constitution of the United 
+        States, and the 14th Amendment to the Constitution of the 
+        United States.
 
-SEC. 3. ALLOCATION TO LOCAL EDUCATIONAL AGENCIES.
+SEC. 3. LIMITATION ON LIABILITY OF PRODUCT SELLERS.
 
-    Section 6102(a) of the Elementary and Secondary Education Act of 
-1965 is amended to read as follows:
-    ``(a) Distribution Rule.--
-            ``(1) In general.--Except as provided in paragraph (2), 
-        from the sums made available each year to carry out this title, 
-        the State educational agency shall distribute not less than 90 
-        percent to local educational agencies within such State 
-        according to the relative enrollments in public and private, 
-        nonprofit schools within the school districts of such agencies, 
-        adjusted, in accordance with criteria approved by the 
-        Secretary, to provide higher per pupil allocations to local 
-        educational agencies which have the greatest numbers or 
-        percentages of children whose education imposes a higher than 
-        average cost per child, such as--
-            ``(A) children living in areas with high concentrations of 
-        low-income families;
-            ``(B) children from low-income families; and
-            ``(C) children living in sparsely populated areas.
-            ``(2) Exception.--A State that has enacted or will enact a 
-        law that establishes a voluntary public and private parental 
-        choice program and that complies with the provisions of section 
-        6301(b)(9) may reserve an additional 15 percent from the sums 
-        made available each year to carry out this title if the 
-        additional amount reserved is used exclusively for voluntary 
-        public and private parental choice programs.''.
-
-SEC. 4. USES OF FUNDS.
-
-    (a) State Uses of Funds.--Section 6201(a)(1) of the Elementary and 
-Secondary Education Act of 1965 is amended--
-            (1) in subparagraph (C), by striking ``and'' after the 
-        semicolon;
-            (2) by inserting after subparagraph (C) the following:
-                    ``(D) establishing voluntary public and private 
-                parental choice programs in accordance with section 
-                6301(b)(9); and''.
-    (b) Local Uses of Funds.--Section 6301(b) of the Elementary and 
-Secondary Education Act of 1965 is amended--
-            (1) in paragraph (7), by striking ``and'' after the 
-        semicolon;
-            (2) in paragraph (8), by striking the period and inserting 
-        ``; and''; and
-            (3) by inserting after paragraph (8) the following:
-            ``(9) voluntary public and private parental choice programs 
-        that--
-                    ``(A) are located in an area that has the greatest 
-                numbers or percentages of children--
-                            ``(i) living in areas with a high 
-                        concentration of low-income families;
-                            ``(ii) from low-income families; or
-                            ``(iii) living in sparsely populated areas;
-                    ``(B) ensure that participation in such a voluntary 
-                public and private parental choice program is limited 
-                to families whose family income does not exceed 185 
-                percent of the poverty line;
-                    ``(C) ensure that--
-                            ``(i) the maximum amount of a voluntary 
-                        public and private parental choice scholarship 
-                        does not exceed the per pupil expenditure of 
-                        the local educational agency in which an 
-                        applicant for a voluntary public and private 
-                        parental choice scholarship resides;
-                            ``(ii) the minimum amount of a voluntary 
-                        public and private parental choice scholarship 
-                        is not less than 60 percent of the per pupil 
-                        expenditure of the local educational agency in 
-                        which an applicant for a voluntary public and 
-                        private parental choice scholarship resides or 
-                        the cost of tuition at a private school, 
-                        whichever is less;
-                    ``(D) ensure that for a private school that chooses 
-                to participate in a voluntary public and private 
-                parental choice program--
-                            ``(i) such a school is permitted to impose 
-                        the same academic requirements for all 
-                        students, including students selected for a 
-                        scholarship as provided under this paragraph;
-                            ``(ii) receipt of funds under this title is 
-                        not conditioned with requirements or 
-                        regulations that preclude the use of such funds 
-                        for sectarian educational purposes or require 
-                        removal of religious art, icons, scripture, or 
-                        other symbols; and
-                            ``(iii) such a school is in compliance with 
-                        all State requirements applicable to the 
-                        operation of a private school that are in 
-                        effect in the year preceding the date of the 
-                        enactment of the Helping Empower Low-income 
-                        Parents (HELP) Scholarships Amendments of 1997;
-                    ``(E) may allow State, local, and private funds to 
-                be used for voluntary public and private parental 
-                choice programs; and
-                    ``(F) ensure priority for students who were 
-                enrolled in a public school in the school year 
-                preceding the school year in which a voluntary public 
-                and private parental choice school begins operation.''.
-
-SEC. 5. EVALUATION.
-
-    Part D of title VI of the Elementary and Secondary Education Act of 
-1965 is amended--
-            (1) by adding at the end of section 6402 the following new 
-        subsection:
-    ``(j) Application.--This section shall not apply to funds that a 
-State or local educational agency uses to establish a voluntary public 
-and private parental choice program in accordance with section 
-6301(b)(9).''; and
-            (2) by adding at the end of such part the following new 
-        sections:
-
-``SEC. 6404. EVALUATION.
-
-    ``(a) Annual Evaluation.--
-            ``(1) Contract.--The Comptroller General of the United 
-        States shall enter into a contract, with an evaluating agency 
-that has demonstrated experience in conducting evaluations, for the 
-conduct of an ongoing rigorous evaluation of the programs established 
-under section 6301(b)(9).
-            ``(2) Annual evaluation requirement.--The contract 
-        described in paragraph (1) shall require the evaluating agency 
-        entering into such contract to evaluate annually each program 
-        established under section 6301(b)(9) in accordance with the 
-        evaluation criteria described in subsection (b).
-            ``(3) Transmission.--The contract described in paragraph 
-        (1) shall require the evaluating agency entering into such 
-        contract to transmit to the Comptroller General of the United 
-        States the findings of each annual evaluation under paragraph 
-        (1).
-    ``(b) Evaluation Criteria.--The Comptroller General of the United 
-States, in consultation with the Secretary, shall establish minimum 
-criteria for evaluating each program established under section 
-6301(b)(9). Such criteria shall provide for--
-            ``(1) a description of the implementation of each program 
-        established under section 6301(b)(9) and the program's effects 
-        on all participants, schools, and communities in the program 
-        area, with particular attention given to the effect of parent 
-        participation in the life of the school and the level of 
-        parental satisfaction with the program; and
-            ``(2) a comparison of the educational achievement of all 
-        students in the program area, including a comparison between--
-                    ``(A) students receiving a voluntary public and 
-                private parental choice scholarships under section 
-                6301(b)(9); and
-                    ``(B) students not receiving a voluntary public and 
-                private parental choice scholarships under such 
-                section.
-    ``(c) Evaluation Funds.--Pursuant to the authority provided under 
-section 14701, the Secretary shall reserve not more than 0.50 percent 
-of the amount of funds made available under section 6002 to carry out 
-this section.
-
-``SEC. 6405. APPLICABILITY.
-
-    ``(a) Not School Aid.--Subject to subsection (b), funds used under 
-this title to establish a voluntary public and private parental choice 
-program shall be considered assistance to the student and shall not be 
-considered as assistance to any school that chooses to participate in 
-such program.
-    ``(b) No Federal Control.--The Secretary is not permitted to 
-exercise any direction, supervision, or control over curricula, program 
-of instruction, administration, or personnel of any school that chooses 
-to participate in a voluntary public and private choice program 
-established under 6309(b)(9).''.
+    (a) In General.--No seller of any product shall be liable for 
+personal injury, monetary loss, or damage to property arising out of an 
+accident or transaction involving such product, unless the claimant 
+proves one or more of the following activities by the seller:
+            (1) The seller was the manufacturer of the product.
+            (2) The seller participated in the design of the product.
+            (3) The seller participated in the installation of the 
+        product.
+            (4) The seller altered, modified, or expressly warranted 
+        the product in a manner not authorized by the manufacturer.
+            (5) The seller had actual knowledge of the defect in the 
+        product as a result of a recall from the manufacturer or 
+        governmental entity authorized to make such recall or actual 
+        inspection at the time the seller sold the product to the 
+        claimant.
+            (6) The seller had actual knowledge of the defect in the 
+        product at the time the seller supplied the product.
+            (7) The seller intentionally altered or modified a product 
+        warranty, warning or instruction from the manufacturer in a way 
+        not authorized by the manufacturer.
+            (8) The seller knowingly made a false representation about 
+        an aspect of the product not authorized by the manufacturer.
+    (b) Liability of Seller in Cases of Negligence.--If the claimant 
+proves one or more of the activities described in subsection (a) and 
+such activity was negligent, the seller's liability is limited to the 
+personal injury, monetary loss, or damage to property, directly caused 
+by such activity.
+    (c) Definitions.--In this Act:
+            (1) Manufacturer.--The term ``manufacturer'' means a person 
+        who is lawfully engaged in the business of manufacturing a 
+        product in interstate or foreign commerce during such person's 
+        regular course of trade or business.
+            (2) Person.--The term ``person'' means any individual, 
+        corporation, company, association, firm, partnership, society, 
+        joint stock company, or any other entity, including any 
+        governmental entity.
+            (3) Seller.--The term ``seller'' means a person who is 
+        lawfully engaged in the business of marketing, distributing, 
+        advertising, or selling a product in interstate or foreign 
+        commerce during such person's regular course of trade or 
+        business.
+    (d) Effective Date.--This Act applies to any civil action involving 
+a product that was sold to the claimant on or after the date of the 
+enactment of this Act.
                                  <all>

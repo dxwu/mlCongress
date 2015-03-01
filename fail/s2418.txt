@@ -1,19 +1,18 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2418 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2418
 
-  To establish rural opportunity communities, and for other purposes.
+  To amend title 11 and title 29, United States Code, to increase the 
+  amount of unsecured claims for salaries and wages given priority in 
+bankruptcy, to provide for payments to retirees to compensate for lost 
+health insurance benefits resulting from the bankruptcy of their former 
+employer, to protect the health benefits of employees and retirees, and 
+                          for other purposes.
 
 
 _______________________________________________________________________
@@ -21,11 +20,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             July 31, 1998
+                              June 3, 2014
 
- Mr. Jeffords (for himself, Mr. Leahy, and Mr. Warner) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                                Finance
+ Mr. Rockefeller (for himself and Ms. Warren) introduced the following 
+    bill; which was read twice and referred to the Committee on the 
+                               Judiciary
 
 _______________________________________________________________________
 
@@ -33,277 +32,344 @@ _______________________________________________________________________
 
 
  
-  To establish rural opportunity communities, and for other purposes.
+  To amend title 11 and title 29, United States Code, to increase the 
+  amount of unsecured claims for salaries and wages given priority in 
+bankruptcy, to provide for payments to retirees to compensate for lost 
+health insurance benefits resulting from the bankruptcy of their former 
+employer, to protect the health benefits of employees and retirees, and 
+                          for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Rural Opportunity Communities Act of 
-1998''.
+    (a) Short Title.--This Act may be cited as the ``Bankruptcy 
+Fairness and Employee Benefits Protection Act of 2014''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
 
-SEC. 2. FUNDING ENTITLEMENT FOR RURAL OPPORTUNITY COMMUNITIES AND 
-              ADDITIONAL ENTERPRISE ZONES.
+Sec. 1. Short title.
+ TITLE I--FAIRNESS FOR EMPLOYEES AND RETIREES IN CORPORATE BANKRUPTCIES
 
-    (a) Entitlement.--Paragraph (1) of section 2007(a) of the Social 
-Security Act (42 U.S.C. 1397f(a)) is amended--
-            (1) in subparagraph (A), by striking ``in the State; and'' 
-        and inserting ``in the State designated pursuant to section 
-        1391(b) of the Internal Revenue Code of 1986;'',
-            (2) in subparagraph (B), by striking the period at the end 
-        and inserting a semicolon, and
-            (3) by adding at the end the following new subparagraphs:
-    ``(C) 2 grants under this section for each rural opportunity 
-community in the State designated pursuant to section 3 of the Rural 
-Opportunity Communities Act of 1998; and
-    ``(D) 10 grants under this section for each qualified empowerment 
-zone in the State designated pursuant to section 1391(g) of such 
-Code.''.
-    (b) Amount of Grants.--Paragraph (2) of section 2007(a) of such Act 
-(42 U.S.C. 1397f(a)) is amended--
-            (1) in the heading of subparagraph (A), by striking 
-        ``Empowerment'' and inserting ``Original empowerment'',
-            (2) in subparagraph (A), in the matter preceding clause 
-        (i), by inserting ``described in paragraph (1)(A)'' after 
-        ``empowerment zone'',
-            (3) by redesignating subparagraph (C) as subparagraph (E), 
+Sec. 101. Prohibition of unfair reductions to employee and retiree 
+                            benefits.
+Sec. 102. Payment of insurance benefits to retirees.
+Sec. 103. Fair treatment of compensation.
+Sec. 104. Venue; change of venue.
+Sec. 105. Protection of benefits in chapter 9 bankruptcy.
+Sec. 106. Requirement to make pension contributions.
+      TITLE II--PROTECTION OF EMPLOYEE AND RETIREE HEALTH BENEFITS
+
+Sec. 201. Notification of extent to which health benefits can be 
+                            modified or terminated.
+Sec. 202. Protection of retirees under certain collectively bargained 
+                            agreements.
+Sec. 203. Comptroller General report.
+
+ TITLE I--FAIRNESS FOR EMPLOYEES AND RETIREES IN CORPORATE BANKRUPTCIES
+
+SEC. 101. PROHIBITION OF UNFAIR REDUCTIONS TO EMPLOYEE AND RETIREE 
+              BENEFITS.
+
+    (a) Collective Bargaining Agreements.--Section 1113 of title 11, 
+United States Code, is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1)(A), by striking ``necessary 
+                modifications in the employees benefits and protections 
+                that are necessary to permit the reorganization of the 
+                debtor'' and insert ``minimum modifications in the 
+                employees benefits and protections that are necessary 
+                to prevent the liquidation of the debtor''; and
+                    (B) by adding at the end the following:
+            ``(3)(A) If the proposal made under paragraph (1) provides 
+        for a modification of the health insurance benefits of 
+        employees of the debtor, the proposal shall provide for a 
+        modification of the health insurance benefits of officers and 
+        directors of the debtor--
+                    ``(i) to, at a minimum, be comparable to the 
+                modification of health insurance benefits of employees 
+                of the debtor; and
+                    ``(ii) such that the health insurance benefits of 
+                officers and directors are not more generous than those 
+                of employees of the debtor.
+            ``(B) If the proposal made under paragraph (1) provides for 
+        a modification of any benefit of employees of the debtor other 
+        than health insurance benefits, including wages and pension 
+        benefits, the proposal shall provide for a modification of such 
+        benefit of officers and directors of the debtor that is, at a 
+        minimum, in an amount equal to the percentage by which such 
+        benefit of employees of the debtor was modified.'';
+            (2) in subsection (c)--
+                    (A) in paragraph (1), by striking ``subsection 
+                (b)(1)'' and inserting ``paragraphs (1) and (3) of 
+                subsection (b)'';
+                    (B) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively; and
+                    (C) by inserting after paragraph (1) the following:
+            ``(2) the debtor established by clear and convincing 
+        evidence that any modification of the benefits and protections 
+        of an employee of the debtor proposed under subsection (b)(1) 
+        is the minimum modification necessary to prevent the 
+        liquidation of the debtor;''; and
+            (3) by adding at the end the following:
+    ``(g) The rejection of a collective bargaining agreement under this 
+section constitutes a breach of the agreement, and shall entitle 
+employees of the debtor to a claim for damages.''.
+    (b) Health Insurance Benefits of Retired Employees.--Section 1114 
+of title 11, United States Code, is amended--
+            (1) in subsection (f)--
+                    (A) in paragraph (1)(A), by striking ``necessary 
+                modifications in the retiree benefits that are 
+                necessary to permit the reorganization of the debtor'' 
+                and insert ``minimum modifications in the retiree 
+                benefits that are necessary to prevent the liquidation 
+                of the debtor''; and
+                    (B) by adding at the end the following:
+    ``(3) If the proposal made under paragraph (1) provides for a 
+modification of the health insurance benefits of retired employees of 
+the debtor, the proposal shall provide for a modification of the health 
+insurance benefits of officers and directors of the debtor--
+            ``(A) to, at a minimum, be comparable to the modification 
+        of health insurance benefits of retired employees of the 
+        debtor; and
+            ``(B) such that the health insurance benefits of officers 
+        and directors are not more generous than those of retired 
+        employees of the debtor.''; and
+            (2) in subsection (g)(3), by striking ``necessary to permit 
+        the reorganization of the debtor'' and insert ``the minimum 
+        modification necessary to prevent the liquidation of the 
+        debtor''.
+
+SEC. 102. PAYMENT OF INSURANCE BENEFITS TO RETIREES.
+
+    (a) In General.--Section 1114(j) of title 11, United States Code, 
+is amended to read as follows:
+    ``(j)(1) No claim for retiree benefits shall be limited by section 
+502(b)(7).
+    ``(2)(A) A retired employee whose retiree benefits are modified 
+under subsection (e)(1) or (g) shall have a claim in an amount equal to 
+the value of the retiree benefits lost as a result of the modification, 
+which shall be reduced by the amount paid by a debtor under 
+subparagraph (B).
+    ``(B)(i) In accordance with section 1129(a)(13)(B), a debtor shall 
+pay a retired employee with a claim under subparagraph (A)--
+            ``(I) cash in an amount equal to the 2-year cost of 
+        premiums for continuation coverage (as defined in section 602 
+        of the Employee Retirement Income Security Act of 1974 (29 
+        U.S.C. 1162)) for the retired employee under section 602(3) of 
+        the Employee Retirement Income Security Act of 1974 (29 U.S.C. 
+        1162(3)); or
+            ``(II) if the retired employee is not eligible for 
+        continuation coverage, cash in an amount equal to the 2-year 
+        cost of premiums for a comparable health insurance plan offered 
+        through a State Exchange, Federally Facilitated Exchange, or 
+        Federal-State Partnership Exchange established under the 
+        Patient Protection and Affordable Care Act (42 U.S.C. 18001 et 
+        seq.).
+    ``(ii) Notwithstanding clause (i), if the court determines it to be 
+in the interest of fairness and equity, the court may require a debtor 
+to pay a retired employee with a claim under subparagraph (A) cash in 
+an amount equal to the cost of premiums for continuation coverage under 
+clause (i)(I) or for a comparable health insurance plan under clause 
+(i)(II) for a period of more than 2 years.
+    ``(iii) The amount paid by a debtor under this subparagraph shall 
+not exceed the amount of the claim under subparagraph (A).
+    ``(C) Any amount of the claim under subparagraph (A) that is not 
+paid under subparagraph (B) shall be a general unsecured claim.''.
+    (b) Confirmation of Plan.--Section 1129(a)(13) of title 11, United 
+States Code, is amended to read as follows:
+            ``(13) The plan provides--
+                    ``(A) for the continuation, after the effective 
+                date of the plan, of the payment of all retiree 
+                benefits (as defined in section 1114(a)), at the level 
+                established pursuant to subsection (e)(1) or (g) of 
+                section 1114, at any time before the confirmation of 
+                the plan, for the duration of the period the debtor has 
+                obligated itself to provide such benefits; and
+                    ``(B) that the holder of a claim under section 
+                1114(j)(2)(A) shall receive from the debtor, on the 
+                effective date of the plan, cash equal to the amount 
+                calculated under section 1114(j)(2)(B).''.
+
+SEC. 103. FAIR TREATMENT OF COMPENSATION.
+
+    (a) Prohibition of Bonus Payments.--Section 503(c) of title 11, 
+United States Code, is amended--
+            (1) in paragraph (2)(B), by striking ``or'' at the end;
+            (2) by redesignating paragraph (3) as paragraph (4); and
+            (3) by inserting after paragraph (2) the following:
+            ``(3) a bonus payment to an insider of the debtor, 
+        including an incentive-based bonus payment; or''.
+    (b) Increased Priority Claim Amount for Employee Wages and 
+Benefits.--Section 507(a) of title 11, United States Code, is amended--
+            (1) in paragraph (4)--
+                    (A) by striking ``$10,000'' and inserting 
+                ``$25,000''; and
+                    (B) by striking ``180 days'' and inserting ``1 
+                year''; and
+            (2) in paragraph (5)--
+                    (A) in subparagraph (A), by striking ``180 days'' 
+                and inserting ``1 year''; and
+                    (B) in subparagraph (B)(i), by striking ``$10,000'' 
+                and inserting ``$25,000''.
+    (c) Recovery of Excess Compensation.--Section 547 of title 11, 
+United States Code, is amended by adding at the end the following:
+    ``(j) The court, upon motion of a party in interest, may prohibit a 
+transfer of compensation made to an insider of the debtor within 1 year 
+before the date on which the petition is filed if the court finds, 
+after notice and hearing, that the transfer--
+            ``(1) was not made in the ordinary course of business; or
+            ``(2) resulted in unjust enrichment.''.
+
+SEC. 104. VENUE; CHANGE OF VENUE.
+
+    Chapter 87 of title 28, United States Code, is amended--
+            (1) by amending section 1408 to read as follows:
+``Sec. 1408. Venue of cases under title 11
+    ``Except as provided in section 1410, a case under title 11 shall 
+be commenced in the district court for the district in which the 
+largest share of employees, retired employees, physical assets, and 
+operations of the person or entity that is the subject of the case were 
+located in the year immediately preceding the commencement of the 
+case.''; and
+            (2) in section 1412, by striking ``to a district court for 
+        another district'' and inserting ``to the district court for 
+        the district in which the principal place of business in the 
+        United States of the person or entity that is the subject of 
+        the case was located in the year immediately preceding the 
+        commencement of the case''.
+
+SEC. 105. PROTECTION OF BENEFITS IN CHAPTER 9 BANKRUPTCY.
+
+    Section 901(a) of title 11, United States Code, is amended--
+            (1) by inserting ``507(a)(4), 507(a)(5),'' after 
+        ``507(a)(2)'';
+            (2) by inserting ``1113, 1114,'' after ``1111(b)''; and
+            (3) by inserting ``1129(a)(13),'' after ``1129(a)(10)''.
+
+SEC. 106. REQUIREMENT TO MAKE PENSION CONTRIBUTIONS.
+
+    (a) Requirement To Pay Minimum Funding Contributions.--Subchapter I 
+of chapter 11 of title 11, United States Code, is amended by adding at 
+the end the following:
+``Sec. 1117. Duty of debtor in possession to make required pension 
+              contributions
+    ``(a) Definitions.--In this section--
+            ``(1) the term `pension plan' has the meaning given that 
+        term under section 3 of the Employee Retirement Income Security 
+        Act of 1974 (29 U.S.C. 1002); and
+            ``(2) the term `required pension contributions' means 
+        contributions necessary to satisfy the minimum funding 
+        standards under sections 412 and 430 of the Internal Revenue 
+        Code of 1986 and sections 302 and 303 of the Employee 
+        Retirement Income Security Act of 1974 (29 U.S.C. 1082 and 
+        1083), including any required installment contributions.
+    ``(b) Requirement.--A debtor in possession that sponsors a pension 
+plan or is a member of the controlled group with respect to such a 
+plan, or the trustee of the debtor in possession, shall--
+            ``(1) make all required pension contributions to the 
+        pension plan that become due after the filing of the petition; 
         and
-            (4) by inserting after subparagraph (B) the following new 
-        subparagraphs:
-                    ``(C) Rural opportunity communities.--The amount of 
-                each grant to a State made under this section for each 
-                rural opportunity community described in paragraph 
-                (1)(C) is $1,000,000, multiplied by the proportion of 
-                the population of the community that resides in that 
-                State.
-                    ``(D) Additional empowerment grants.--The amount of 
-                each grant to a State made under this section for a 
-                qualified empowerment zone described in paragraph 
-                (1)(D) shall be--
-                            ``(i) if the zone is designated in an urban 
-                        area, $10,000,000, or
-                            ``(ii) if the zone is designated in a rural 
-                        area, $3,600,000,
-                multiplied by the proportion of the population of the 
-                zone that resides in that State.''.
-    (c) Timing of Grants.--Paragraph (3) of section 2007(a) of such Act 
-(42 U.S.C. 1397f(a)) is amended--
-            (1) in the heading of subparagraph (A) by striking 
-        ``Qualified'' and inserting ``Original qualified'',
-            (2) in subparagraph (A), in the matter preceding clause 
-        (i), by inserting ``described in paragraph (1)(A)'' after 
-        ``empowerment zone'', and
-            (3) by adding at the end the following new subparagraphs:
-                    ``(C) Rural opportunity communities.--With respect 
-                to each rural opportunity community described in 
-                paragraph (1)(C), the Secretary shall make 1 grant 
-                under this subsection to the State (or, if applicable, 
-                to the governing body of the Indian tribe or tribal 
-                organization of the area) in which the rural 
-                opportunity community lies--
-                            ``(i) on the date of the designation of the 
-                        community under section 3 of the Rural 
-                        Opportunity Communities Act of 1998; and
-                            ``(ii) on the first day of the first fiscal 
-                        year that begins after such date of 
-                        designation.
-                    ``(D) Additional qualified empowerment zones.--With 
-                respect to each qualified empowerment zone described in 
-                paragraph (1)(D), the Secretary shall make 1 grant 
-                under this subsection to the State (or, if applicable, 
-                to the governing body of the Indian tribe or tribal 
-                organization of the area) in which the zone lies--
-                            ``(i) on the date of the designation of the 
-                        zone under such part I; and
-                            ``(ii) on the first day of each of the nine 
-                        fiscal years that begin after such date of 
-                        designation.''.
-    (d) Funding.--Paragraph (4) of section 2007(a) of such Act (42 
-U.S.C. 1397f(a)) is amended--
-            (1) by redesignating the matter following the caption as 
-        subparagraph (A), by indenting such matter, and by moving such 
-        matter 2 ems to the right,
-            (2) by inserting ``Original grants.--'' after the 
-        subparagraph designation ``(A)'',
-            (3) in subparagraph (A), as so redesignated, by inserting 
-        before the period ``for empowerment zones and enterprise 
-        communities described in subparagraphs (A) and (B) of paragraph 
-        (1)'', and
-            (4) by adding at the end the following new subparagraph:
-                    ``(B) Additional grants.--$1,700,000,000 shall be 
-                made available to the Secretary under this section 
-                for--
-                            ``(i) grants for rural opportunity 
-                        communities described in paragraph (1)(C), and
-                            ``(ii) grants for empowerment zones 
-                        described in paragraph (1)(D).''.
+            ``(2) make such contributions on or before the due dates 
+        specified in section 430(j) of the Internal Revenue Code and 
+        section 303(j) of the Employee Retirement Income Security Act 
+        of 1974 (29 U.S.C. 1083(j)).''.
+    (b) Treatment as Administrative Expenses.--Section 503(b) of title 
+11, United States Code, is amended--
+            (1) in paragraph (8)(B), by striking ``and'' at the end;
+            (2) in paragraph (9), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(10) any required pension contributions under section 
+        1117 due to be made after the filing of the petition that are 
+        unpaid.''.
+    (c) Perfection of Statutory Liens for Missed Pension 
+Contributions.--Section 362(b) of title 11, United States Code, is 
+amended--
+            (1) in paragraph (27), by striking ``and'' at the end;
+            (2) in paragraph (28), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(29) under subsection (a), of any act to perfect, or to 
+        maintain or continue the perfection of, a statutory lien 
+        imposed by section 430(k) of the Internal Revenue Code of 1986 
+        or section 303(k) of the Employee Retirement Income Security 
+        Act (29 U.S.C. 1083(k)) (which shall not be voidable under 
+        section 545 of this title), for failure to make contribution 
+        payments required under those sections, without regard to 
+        whether such contributions became due or whether such lien 
+        arose before or after the filing of the petition.''.
 
-SEC. 3. RURAL OPPORTUNITY COMMUNITIES.
+      TITLE II--PROTECTION OF EMPLOYEE AND RETIREE HEALTH BENEFITS
 
-    (a) Definitions.--For purposes of this section--
-            (1) Lead managing entity.--The term ``lead managing 
-        entity'' means a nonprofit community-based organization or unit 
-        of general purpose local government (including an Indian tribal 
-        governmental body), as determined by the Secretary.
-            (2) Secretary.--The term ``Secretary'' means the Secretary 
-        of Agriculture.
-    (b) Designation.--The Secretary may designate not more than 10 
-rural opportunity communities under this section.
-    (c) Eligible Areas.--
-            (1) Location.--An area designated as a rural opportunity 
-        community under this section must include--
-                    (A) except as provided in subparagraph (B), the 
-                entire area of at least 1, but not more than 4, rural 
-                contiguous counties (or, if applicable, parishes or 
-                State boroughs), as determined by the Secretary; and
-                    (B) in the case of a community located in an Indian 
-                reservation, the entire area of such reservation.
-            (2) Economic distress.--An area designated as a rural 
-        opportunity community under this section must demonstrate 
-        economic distress resulting from any of the following factors 
-        during the most recent 5-year time period: poverty, 
-        unemployment, underemployment, major industry disruption, 
-        Department of Defense base closings, or other factors as 
-        determined appropriate by the Secretary.
-            (3) Limitation on designations.--No area may be designated 
-        under this section unless the lead managing entity certifies 
-        that no portion of the area nominated is already included in an 
-        empowerment zone or in an enterprise community or in an area 
-        otherwise nominated to be designated under section 1391 of the 
-        Internal Revenue Code of 1986.
-    (d) Application.--
-            (1) In general.--Applications for designation of an area as 
-        a rural opportunity community shall be prepared by the lead 
-        managing entity and submitted to the Secretary.
-            (2) Required items.--No area may be designated under this 
-        section unless the application for designation--
-                    (A) demonstrates that the nominated area satisfies 
-                the eligibility criteria described in this section; and
-                    (B) includes a 10-year strategic plan for 
-                accomplishing the purposes of this section that--
-                            (i) describes the coordinated economic, 
-                        human, community, and physical development plan 
-                        and related activities proposed for the 
-                        nominated area;
-                            (ii) describes the process by which the 
-                        affected community is a full partner in the 
-                        process of developing and implementing the plan 
-                        and the extent to which local institutions and 
-                        organizations have contributed to the planning 
-                        process;
-                            (iii) identifies the sources of local, 
-                        tribal, and private resources that will be 
-                        available in the nominated area and the 
-                        private/public partnerships to be used, which 
-                        may include participation by, and cooperation 
-                        with, universities, medical centers, and other 
-                        private and public entities;
-                            (iv) identifies baselines, methods, and 
-                        benchmarks for measuring the success of 
-                        carrying out the strategic plan, in accordance 
-                        with criteria established by the Secretary, 
-                        including the extent to which persons and 
-                        families will be empowered to become 
-                        economically self-sufficient; and
-                            (v) does not include any action to assist 
-                        any establishment in relocating from 1 area 
-                        outside the nominated area to the nominated 
-                        area, except that assistance for the expansion 
-                        of an existing business entity through the 
-                        establishment of a new branch, affiliate, or 
-                        subsidiary is permitted if--
-                                    (I) the establishment of the new 
-                                branch, affiliate, or subsidiary will 
-                                not result in a decrease in employment 
-                                in the area of original location or in 
-                                any other area where the existing 
-                                business entity conducts business 
-                                operations; and
-                                    (II) there is no reason to believe 
-                                that the new branch, affiliate, or 
-                                subsidiary is being established with 
-                                the intention of closing down the 
-                                operations of the existing business 
-                                entity in the area of its original 
-                                location or in any other area where the 
-                                existing business entity conducts 
-                                business operations; and
-                            (vi) includes such other information as may 
-                        be required by the Secretary.
-    (e) Period for Designation.--
-            (1) In general.--A designation made under this section must 
-        be made by the Secretary before January 1, 2000.
-            (2) Revocation of a designation.--The Secretary may revoke 
-        the designation under this section of an area if the Secretary 
-        determines that the applicable lead managing entity--
-                    (A) has modified the boundaries of the area; or
-                    (B) is not complying substantially with or fails to 
-                make progress in achieving the benchmarks set forth in, 
-                the strategic plan under subsection (d)(2)(B).
+SEC. 201. NOTIFICATION OF EXTENT TO WHICH HEALTH BENEFITS CAN BE 
+              MODIFIED OR TERMINATED.
 
-SEC. 4. RECOGNITION AND INCENTIVES FOR WELL PERFORMING ENTERPRISE 
-              COMMUNITIES.
+    (a) Inclusion in Summary Plan Description.--Section 102(b) of the 
+Employee Retirement Income Security Act of 1974 (29 U.S.C. 1022) is 
+amended by inserting ``; in the case of a group health plan (as so 
+defined), whether the provisions of the plan permit the plan sponsor or 
+any employer participating in the plan to unilaterally modify or 
+terminate the benefits under the plan with respect to employees, 
+retired employees, and beneficiaries, and when and to what extent 
+benefits under the plan are fully vested with respect to employees, 
+retired employees, and beneficiaries'' after ``the name and address of 
+such issuer''.
+    (b) Presumption That Retired Employee Health Benefits Cannot Be 
+Modified or Terminated.--Section 502 of the Employee Retirement Income 
+Security Act of 1974 (29 U.S.C. 1132) is amended by adding at the end 
+the following new subsection:
+    ``(n) In the case of a suit brought under this title by a 
+participant or beneficiary relating to benefits of a retired employee 
+or the dependents of a retired employee under a group health plan (as 
+defined in section 733(a)(1)), the presumption for purposes of such 
+suit shall be that as of the date an employee retires or completes 20 
+years of service with the employer, benefits available under the plan 
+during retirement of the employee are fully vested and cannot be 
+modified or terminated for the life of the employee or, if longer, the 
+life of the employee's spouse. This presumption can be overcome only 
+upon a showing, by clear and convincing evidence, that the terms of the 
+group health plan allow for a modification or termination of benefits 
+available under the plan and that the employee, prior to becoming a 
+participant in the plan, was made aware, in clear and unambiguous 
+terms, that the plan allowed for such modification or termination of 
+benefits.''.
 
-    (a) Priority Given to Well Performing Enterprise Communities.--
-Subparagraph (D) of section 1391(g)(3) of the Internal Revenue Code of 
-1986 (relating to modifications to eligibility criteria, etc.) is 
-amended to read as follows:
-                    ``(D) Previously designated enterprise communities 
-                may be included.--
-                            ``(i) In general.--Subsection (e)(5) shall 
-                        not apply to any enterprise community 
-                        designated under subsection (a) that is also 
-                        nominated for designation under this 
-                        subsection.
-                            ``(ii) Priority.--In ranking nominations 
-                        for designation as an empowerment zone under 
-                        paragraph (1), the appropriate Secretary may, 
-                        in such Secretary's discretion, give additional 
-                        points in the designation process for any 
-                        nominated area if such area includes a well-
-                        performing enterprise community.''.
-    (b) Recognition of Well Performing Empowerment Zones and Enterprise 
-Communities.--Section 1391 of the Internal Revenue Code of 1986 
-(relating to designation procedure) is amended by adding at the end the 
-following new subsection:
-    ``(h) Recognition of Well Performing Empowerment Zones and 
-Enterprise Communities.--For purposes of subsection (g)--
-            ``(1) In general.--The appropriate Secretary shall--
-                    ``(A) recognize annually the well performing 
-                empowerment zones and enterprise communities, and
-                    ``(B) disseminate the best practices of the well 
-                performing empowerment zones and enterprise communities 
-                to other designated empowerment zones and enterprise 
-                communities.
-            ``(2) Well performing empowerment zone and enterprise 
-        community.--The terms `well performing empowerment zone' and 
-        `well performing enterprise community' mean an empowerment zone 
-        or an enterprise community, as the case may be, that, as of the 
-        end of the applicable period of evaluation, has completed or 
-        made substantial progress in the implementation of the 
-        strategic plan submitted in the application for designation as 
-        an empowerment zone or an enterprise community under this 
-        section, as determined by the appropriate Secretary.''.
-    (c) Additional Funding for Urban Empowerment Zones and Enterprise 
-Communities Demonstrating Satisfactory Performance.--
-            (1) Source of funding.--Notwithstanding any other provision 
-        of law, the Secretary of Health and Human Services shall set 
-        aside 10 percent of the amounts otherwise made available for 
-        urban empowerment zones after the date of the enactment of this 
-        Act under title XX of the Social Security Act (42 U.S.C. 1397 
-        et seq.) or under any other provision of law, and such amount 
-        set aside shall be used as provided under paragraphs (2) and 
-        (3).
-            (2) Distribution of funds.--The Secretary of Health and 
-        Human Services shall, at the direction of the Secretary of 
-        Housing and Urban Development, make funds available to any 
-        urban empowerment zone or enterprise community from the amount 
-        set aside under paragraph (1), if the Secretary of Housing and 
-        Urban Development determines that such zone or community has 
-        completed or made satisfactory progress in the implementation 
-        of its approved strategic plan.
-            (3) Use of funds.--Amounts distributed under paragraph (2) 
-        shall be used by an urban empowerment zone or enterprise 
-        community to continue to implement its approved strategic plan.
+SEC. 202. PROTECTION OF RETIREES UNDER CERTAIN COLLECTIVELY BARGAINED 
+              AGREEMENTS.
+
+    Section 8 of the National Labor Relations Act (29 U.S.C. 158) is 
+amended by adding at the end the following:
+    ``(h) It shall be an unfair labor practice for any labor 
+organization and any employer to enter into any contract or agreement, 
+express or implied, whereby the organization and employer agree to 
+modify the terms of any previous agreement in a manner that would 
+result in a reduction or termination of retiree health insurance 
+benefits provided to an employee or a dependent of an employee under 
+the previous agreement, if such modification of the terms of the 
+previous agreement occurs after the date on which the employee 
+retires.''.
+
+SEC. 203. COMPTROLLER GENERAL REPORT.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Comptroller General of the United States 
+shall submit to Congress a report on the strategies that corporations 
+use to avoid obligations to pay promised employee and retiree benefits.
+    (b) Contents.--The report under subsection (a) shall include a 
+discussion of--
+            (1) the use of spin-offs, mergers, subsidiaries, 
+        bankruptcies, asset sales, and other strategies to avoid 
+        obligations to pay promised employee and retiree benefits;
+            (2) the impact of such avoidance on the financial, 
+        physical, and mental well-being of employees and retirees;
+            (3) the impact on Federal and State budgets when employers 
+        terminate or reduce the benefits of employees and retirees, 
+        including the costs that are incurred when employees and 
+        retirees seek assistance from Federal and State government 
+        programs and services as a result of the termination or 
+        reduction of their employment-related benefits; and
+            (4) recommendations to prevent corporations from evading 
+        contractual obligations to pay employee and retiree benefits.
                                  <all>

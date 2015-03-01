@@ -1,115 +1,129 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1038 Introduced in House (IH)]
+[H.R. 1038 Referred in Senate (RFS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1038
 
-To amend title XVIII of the Social Security Act to provide for coverage 
-   of qualified acupuncturist services under part B of the Medicare 
-   Program, and to amend title 5, United States Code, to provide for 
- coverage of such services under the Federal Employees Health Benefits 
-                                Program.
-
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                             March 12, 1997
+                             June 13, 2013
 
-Mr. Hinchey (for himself, Mr. Filner, Ms. Pelosi, Mr. Dellums, and Mr. 
-   DeFazio) introduced the following bill; which was referred to the 
- Committee on Commerce, and in addition to the Committees on Ways and 
-    Means, and Government Reform and Oversight, for a period to be 
-subsequently determined by the Speaker, in each case for consideration 
-  of such provisions as fall within the jurisdiction of the committee 
-                               concerned
+  Received; read twice and referred to the Committee on Agriculture, 
+                        Nutrition, and Forestry
 
 _______________________________________________________________________
 
-                                 A BILL
+                                 AN ACT
 
 
  
-To amend title XVIII of the Social Security Act to provide for coverage 
-   of qualified acupuncturist services under part B of the Medicare 
-   Program, and to amend title 5, United States Code, to provide for 
- coverage of such services under the Federal Employees Health Benefits 
-                                Program.
+ To provide equal treatment for utility special entities using utility 
+           operations-related swaps, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Federal Acupuncture Coverage Act of 
-1997''.
+    This Act may be cited as the ``Public Power Risk Management Act of 
+2013''.
 
-SEC. 2. COVERAGE OF ACUPUNCTURIST SERVICES UNDER MEDICARE.
+SEC. 2. TRANSACTIONS WITH UTILITY SPECIAL ENTITIES.
 
-    (a) In General.--Section 1861(s)(2) of the Social Security Act (42 
-U.S.C. 1395x(s)(2)) is amended--
-            (1) by striking ``and'' at the end of subparagraphs (N) and 
-        (O); and
-            (2) by inserting after subparagraph (O) the following new 
-        subparagraph:
-            ``(P) qualified acupuncturist services (as defined in 
-        subsection (oo)); and''.
-    (b) Payment Rules.--
-            (1) Determination of amount of payment.--Section 1833(a)(1) 
-        of such Act (42 U.S.C. 1395l(a)(1)) is amended--
-                    (A) by striking ``and'' before ``(P)'', and
-                    (B) by striking the semicolon at the end and 
-                inserting the following: ``, and (Q) with respect to 
-                qualified acupuncturist services described in section 
-                1861(s)(2)(P), the amounts paid shall be the amount 
-                determined by a fee schedule established by the 
-                Secretary for purposes of this subparagraph (but in no 
-                event shall such amount exceed the fee schedule amount 
-                provided under section 1848 for the same service 
-                performed by a physician);''.
-            (2) Separate payment for services of institutional 
-        providers.--Section 1832(a)(2)(B)(iii) of such Act (42 U.S.C. 
-        1395k(a)(2)(B)(iii)) is amended--
-                    (A) by striking ``and services'' and inserting 
-                ``services''; and
-                    (B) by striking the semicolon at the end and 
-                inserting the following: ``, and qualified 
-                acupuncturist services described in section 
-                1861(s)(2)(P);''.
-    (c) Services Described.--Section 1861 of such Act (42 U.S.C. 1395x) 
-is amended by adding at the end the following new subsection:
+    Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is 
+amended by adding at the end the following:
+                    ``(E) Certain transactions with a utility special 
+                entity.--
+                            ``(i) Transactions in utility operations-
+                        related swaps shall be reported pursuant to 
+                        section 4r.
+                            ``(ii) In making a determination to exempt 
+                        pursuant to subparagraph (D), the Commission 
+                        shall treat a utility operations-related swap 
+                        entered into with a utility special entity, as 
+                        defined in section 4s(h)(2)(D), as if it were 
+                        entered into with an entity that is not a 
+                        special entity, as defined in section 
+                        4s(h)(2)(C).''.
 
-                   ``Qualified Acupuncturist Services
+SEC. 3. UTILITY SPECIAL ENTITY DEFINED.
 
-    ``(oo)(1) The term `qualified acupuncturist services' means such 
-services furnished by a qualified acupuncturist (as defined in 
-paragraph (2)) and such services and supplies furnished as an incident 
-to services furnished by the qualified acupuncturist which the 
-qualified acupuncturist is legally authorized to perform under State 
-law (or the State regulatory mechanism provided by State law).
-    ``(2) The term `qualified acupuncturist' means an individual who 
-has been certified, licensed, or registered as an acupuncturist by a 
-State (or the State regulatory mechanism provided by State law).''.
-    (d) Effective Date.--The amendments made by this section shall 
-apply to services furnished on or after January 1, 1998.
+    Section 4s(h)(2) of the Commodity Exchange Act (7 U.S.C. 6s(h)(2)) 
+is amended by adding at the end the following:
+                    ``(D) Utility special entity.--For purposes of this 
+                Act, the term `utility special entity' means a special 
+                entity, or any instrumentality, department, or 
+                corporation of or established by a State or political 
+                subdivision of a State, that--
+                            ``(i) owns or operates an electric or 
+                        natural gas facility or an electric or natural 
+                        gas operation;
+                            ``(ii) supplies natural gas and or electric 
+                        energy to another utility special entity;
+                            ``(iii) has public service obligations 
+                        under Federal, State, or local law or 
+                        regulation to deliver electric energy or 
+                        natural gas service to customers; or
+                            ``(iv) is a Federal power marketing agency, 
+                        as defined in section 3 of the Federal Power 
+                        Act.''.
 
-SEC. 3. COVERAGE OF ACUPUNCTURIST SERVICES UNDER FEDERAL EMPLOYEES 
-              HEALTH BENEFIT PLANS.
+SEC. 4. UTILITY OPERATIONS-RELATED SWAP.
 
-    (a) In General.--Section 8902(k)(1) of title 5, United States Code, 
-is amended by inserting ``acupuncturist,'' after ``nurse midwife,'' 
-each place it appears.
-    (b) Applicability.--The amendment made by subsection (a) shall 
-apply with respect to services provided after December 31, 1997.
-                                 <all>
+    (a) Swap Further Defined.--Section 1a(47)(A)(iii) of the Commodity 
+Exchange Act (7 U.S.C. 1a(47)(A)(iii)) is amended--
+            (1) by striking ``and'' at the end of subclause (XXI);
+            (2) by adding ``and'' at the end of subclause (XXII); and
+            (3) by adding at the end the following:
+                                    ``(XXIII) a utility operations-
+                                related swap;''.
+    (b) Utility Operations-Related Swap Defined.--Section 1a of such 
+Act (7 U.S.C. 1a) is amended by adding at the end the following:
+            ``(52) Utility operations-related swap.--The term `utility 
+        operations-related swap' means a swap that--
+                    ``(A) is entered into to hedge or mitigate a 
+                commercial risk;
+                    ``(B) is not a contract, agreement, or transaction 
+                based on, derived on, or referencing--
+                            ``(i) an interest rate, credit, equity, or 
+                        currency asset class; or
+                            ``(ii) a metal, agricultural commodity, or 
+                        crude oil or gasoline commodity of any grade, 
+                        except as used as fuel for electric energy 
+                        generation; and
+                    ``(C) is associated with--
+                            ``(i) the generation, production, purchase, 
+                        or sale of natural gas or electric energy, the 
+                        supply of natural gas or electric energy to a 
+                        utility, or the delivery of natural gas or 
+                        electric energy service to utility customers;
+                            ``(ii) all fuel supply for the facilities 
+                        or operations of a utility;
+                            ``(iii) compliance with an electric system 
+                        reliability obligation;
+                            ``(iv) compliance with an energy, energy 
+                        efficiency, conservation, or renewable energy 
+                        or environmental statute, regulation, or 
+                        government order applicable to a utility; or
+                            ``(v) any other electric energy or natural 
+                        gas swap to which a utility is a party.''.
+
+SEC. 5. EFFECTIVE DATE.
+
+    The amendments made by this Act take effect as if enacted on July 
+21, 2010.
+
+            Passed the House of Representatives June 12, 2013.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

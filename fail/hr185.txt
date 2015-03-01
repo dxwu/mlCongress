@@ -1,176 +1,44 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 185 Introduced in House (IH)]
+[H.R. 185 Enrolled Bill (ENR)]
 
-  1st Session
-                                H. R. 185
+        H.R.185
 
- To establish a commission to study employment and economic insecurity 
-                 in the workforce in the United States.
+                     One Hundred Thirteenth Congress
+
+                                 of the
+
+                        United States of America
 
 
-_______________________________________________________________________
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Thursday,
+           the third day of January, two thousand and thirteen
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            January 7, 1997
-
-   Mr. Hastings of Florida introduced the following bill; which was 
-        referred to the Committee on Education and the Workforce
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 An Act
 
 
  
- To establish a commission to study employment and economic insecurity 
-                 in the workforce in the United States.
+  To designate the United States courthouse located at 101 East Pecan 
+      Street in Sherman, Texas, as the ``Paul Brown United States 
+                              Courthouse''.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
+SECTION 1. DESIGNATION.
+    The United States courthouse located at 101 East Pecan Street in 
+Sherman, Texas, shall be known and designated as the ``Paul Brown 
+United States Courthouse''.
+SEC. 2. REFERENCES.
+    Any reference in a law, map, regulation, document, paper, or other 
+record of the United States to the United States courthouse referred to 
+in section 1 shall be deemed to be a reference to the ``Paul Brown 
+United States Courthouse''.
 
-SECTION 1. SHORT TITLE.
+                               Speaker of the House of Representatives.
 
-    This Act may be cited as the ``Presidential Commission to Study 
-Employment and Economic Insecurity in the American Workforce Act''.
-
-SEC. 2. ESTABLISHMENT OF COMMISSION.
-
-    There is established a commission to be known as the Presidential 
-Commission to Study Employment and Economic Insecurity in the American 
-Workforce (in this Act referred to as the ``Commission'').
-
-SEC. 3. DUTIES OF COMMISSION.
-
-    The Commission shall--
-            (1) examine the issues of economic and psychological 
-        insecurity of members of the workforce in the United States 
-        caused by employment dislocation;
-            (2) examine the relationship between psychological stress 
-        caused by employment insecurity and economic insecurity, and 
-        increased violence by employees and former employees in the 
-        workplace;
-            (3) examine the economic and psychological effects of the 
-        decreasing number of well-paid jobs on members of the workforce 
-        in the United States; and
-            (4) recommend potential solutions, including 
-        recommendations for legislation and administrative action, to 
-        alleviate the problems of economic and psychological insecurity 
-        of members of the workforce in the United States.
-
-SEC. 4. MEMBERSHIP OF COMMISSION.
-
-    (a) Number and Appointment.--The Commission shall be composed of 17 
-members (in this Act referred to as the ``members'') who shall be 
-appointed as follows:
-            (1) 9 individuals appointed by the President.
-            (2) 2 individuals appointed by the Majority Leader of the 
-        House of Representatives.
-            (3) 2 individuals appointed by the Minority Leader of the 
-        House of Representatives.
-            (4) 2 individuals appointed by the Majority Leader of the 
-        Senate.
-            (5) 2 individuals appointed by the Minority Leader of the 
-        Senate.
-    (b) Qualifications.--
-            (1) In general.--Members shall be experts in the subjects 
-        of labor and employment.
-            (2) Political affiliation.--Political affiliation shall not 
-        be a determining factor in the appointment of members.
-    (c) Deadline for Appointment.--Every original member shall be 
-appointed to the Commission within 3 months after the date of the 
-enactment of this Act.
-    (d) Terms.--Each member shall be appointed for the life of the 
-Commission.
-    (e) Basic Pay.--Members shall not be paid by reason of their 
-service as members.
-    (f) Travel Expenses.--Each member shall receive travel expenses, 
-including per diem in lieu of subsistence, in accordance with sections 
-5702 and 5703 of title 5, United States Code.
-    (g) Quorum.--9 members shall constitute a quorum for conducting the 
-business of the Commission, but a lesser number may hold hearings.
-    (h) Chairperson.--The members shall elect 1 member to act as the 
-Chairperson of the Commission (in this Act referred to as the 
-``Chairperson'').
-    (i) Meetings.--The Commission shall meet at the call of the 
-Chairperson.
-
-SEC. 5. STAFF OF COMMISSION.
-
-    (a) Staff.--The Chairperson may appoint and fix the pay of 
-Commission personnel as the Chairperson considers appropriate.
-    (b) Applicability of Certain Civil Service Laws.--The staff of the 
-Commission shall be appointed subject to the provisions of title 5, 
-United States Code, governing appointments in the competitive service, 
-and shall be paid in accordance with the provisions of chapter 51 and 
-subchapter III of chapter 53 of such title relating to classification 
-and General Schedule pay rates.
-    (c) Staff of Federal Agencies.--Upon request of the Chairperson, 
-the head of any Federal department or agency may detail, on a 
-reimbursable basis, any of the personnel of the department or agency to 
-assist the Commission in carrying out the duties of the Commission.
-
-SEC. 6. POWERS OF COMMISSION.
-
-    (a) Hearings and Sessions.--The Commission may hold hearings, sit 
-and act at times and places, take testimony, and receive evidence as 
-the Commission considers appropriate to carry out this Act. The 
-Commission may administer oaths or affirmations to witnesses appearing 
-before the Commission.
-    (b) Powers of Members and Agents.--The Commission may delegate to a 
-member or agency any authority of the Commission under this subsection 
-or subsection (e) or (h).
-    (c) Obtaining Official Data.--The Commission may secure directly 
-from any department or agency of the United States information 
-necessary to enable the Commission to carry out this Act. Upon request 
-of the Chairperson, the head of the department or agency shall furnish 
-the information to the Commission.
-    (d) Mails.--The Commission may use the United States mails in the 
-same manner and under the same conditions as other departments and 
-agencies of the United States.
-    (e) Administrative Support Services.--Upon the request of the 
-Commission, the Administrator of General Services shall provide to the 
-Commission, on a reimbursable basis, the administrative support 
-services necessary for the Commission to carry out its duties.
-    (f) Immunity.--The Commission is an agency of the United States for 
-purposes of part V of title 18, United States Code (relating to 
-immunity of witnesses).
-    (g) Subpoena Power.--
-            (1) In general.--The Commission may issue a subpoena to 
-        require the attendance and testimony of witnesses and the 
-        production of evidence relating to any matter described in 
-        section 3.
-            (2) Failure to obey an order or subpoena.--If a person 
-        refuses to obey an order or subpoena of the Commission that is 
-        issued in connection with a Commission hearing, the Commission 
-        may apply to the United States district court in the judicial 
-        district in which the hearing is held for an order requiring 
-        the person to comply with the subpoena or order.
-    (h) Contract Authority.--The Commission may contract with and 
-compensate government or private agencies or persons for supplies or 
-services, without regard to section 3709 of the Revised Statutes (41 
-U.S.C. 5).
-
-SEC. 7. REPORT OF COMMISSION.
-
-    The Commission shall transmit a report to the President and the 
-Congress not later than 1 year after the date that all original members 
-have been appointed to the Commission. The report shall contain a 
-detailed statement of the findings, conclusions, and recommendations of 
-the Commission.
-
-SEC. 8. TERMINATION OF COMMISSION.
-
-    The Commission shall terminate 30 days after submitting the report 
-required by section 7.
-
-SEC. 9. BUDGET ACT COMPLIANCE.
-
-    Any spending authority (as defined in subparagraphs (A) and (C) of 
-section 401(c)(2) of the Congressional Budget Act of 1974) authorized 
-by this Act shall be effective only to such extent and in such amounts 
-as are provided in appropriations Acts.
-                                 <all>
+                            Vice President of the United States and    
+                                               President of the Senate.

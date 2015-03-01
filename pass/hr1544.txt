@@ -1,134 +1,227 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1544 Referred in Senate (RFS)]
+[H.R. 1544 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 1544
 
+To promote transportation-oriented development and encourage dedicated 
+   revenue sources for urban and regional rail corridor development.
+
 
 _______________________________________________________________________
 
 
-                   IN THE SENATE OF THE UNITED STATES
+                    IN THE HOUSE OF REPRESENTATIVES
 
-                           February 26, 1998
+                             April 12, 2013
 
-  Received; read twice and referred to the Committee on the Judiciary
+Mr. Petri (for himself and Mr. Lipinski) introduced the following bill; 
+       which was referred to the Committee on Transportation and 
+                             Infrastructure
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
-  To prevent Federal agencies from pursuing policies of unjustifiable 
-nonacquiescence in, and relitigation of, precedents established in the 
-                       Federal judicial circuits.
+To promote transportation-oriented development and encourage dedicated 
+   revenue sources for urban and regional rail corridor development.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Federal Agency Compliance Act''.
+    This Act may be cited as the ``National High Performance Passenger 
+Rail Transportation-Oriented Development Act of 2013''.
 
-SEC. 2. PROHIBITING INTRACIRCUIT AGENCY NONACQUIESCENCE IN APPELLATE 
-              PRECEDENT.
+SEC. 2. TRANSPORTATION-ORIENTED DEVELOPMENT INITIATIVE.
 
-    (a) In General.--Chapter 7 of title 5, United States Code, is 
-amended by adding at the end the following:
-``Sec. 707. Adherence to court of appeals precedent
-    ``(a) Except as provided in subsection (b), an agency (as defined 
-in section 701(b)(1) of this title) shall, in administering a statute, 
-rule, regulation, program, or policy within a judicial circuit, adhere 
-to the existing precedent respecting the interpretation and application 
-of such statute, rule, regulation, program, or policy, as established 
-by the decisions of the United States court of appeals for that 
-circuit. All officers and employees of an agency, including 
-administrative law judges, shall adhere to such precedent.
-    ``(b) An agency is not precluded under subsection (a) from taking a 
-position, either in administration or litigation, that is at variance 
-with precedent established by a United States court of appeals if--
-            ``(1) it is not certain whether the administration of the 
-        statute, rule, regulation, program, or policy will be subject 
-        to review by the court of appeals that established that 
-        precedent or a court of appeals for another circuit;
-            ``(2) the Government did not seek further review of the 
-        case in which that precedent was first established, in that 
-        court of appeals or the United States Supreme Court, because 
-        neither the United States nor any agency or officer thereof was 
-        a party to the case or because the decision establishing that 
-        precedent was otherwise substantially favorable to the 
-        Government; or
-            ``(3) it is reasonable to question the continued validity 
-        of that precedent in light of a subsequent decision of that 
-        court of appeals or the United States Supreme Court, a 
-        subsequent change in any pertinent statute or regulation, or 
-        any other subsequent change in the public policy or 
-        circumstances on which that precedent was based.''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-chapter 7 of title 5, United States Code, is amended by adding at the 
-end of following new item:
+    (a) Establishment.--The Secretary of Transportation (in this Act 
+referred to as the ``Secretary'') shall establish an initiative to 
+promote intercity and urban passenger rail operations and 
+transportation-oriented development by creating incentives for 
+communities to encourage dedicated revenue sources for urban and 
+regional rail corridor development.
+    (b) Implementation.--Not later than 180 days after the date of 
+enactment of this Act, the Secretary shall obtain the services of 
+qualified independent private sector entity with experience in 
+transportation-oriented development to serve as a liaison between the 
+Federal Government, State and local authorities, private sector 
+participants, and appropriate other stakeholders in the initiative. 
+Such entity shall--
+            (1) serve as a development planning advisor, by advancing 
+        and recommending methodologies to use in the overall 
+        implementation of the initiative;
+            (2) provide recommendations as requested by the Secretary, 
+        which shall include recommendations on--
+                    (A) liaison between the Federal Government, and 
+                State, local, or regional applicants for incentives 
+                under the initiative;
+                    (B) mechanisms for coordination among all 
+                stakeholders, including State, local, and regional 
+                authorities;
+                    (C) types of projects that should receive 
+                incentives under the initiative; and
+                    (D) mechanisms for providing technical assistance 
+                and types of technical assistance that should be 
+                provided; and
+            (3) conduct a preliminary transportation-oriented 
+        development survey on the Northeast Corridor or other local 
+        station areas or regional corridors.
+    (c) Coordination.--The Secretary shall harmonize planning 
+requirements and direct coordination and administration of the 
+initiative between the Federal Railroad Administration and the Federal 
+Transit Administration.
 
-``707. Adherence to court of appeals precedent.''.
+SEC. 3. FEDERAL INCENTIVES.
 
-SEC. 3. PREVENTING UNNECESSARY AGENCY RELITIGATION IN MULTIPLE 
-              CIRCUITS.
+    (a) Qualified Projects.--
+            (1) Criteria.--The Secretary shall establish criteria for 
+        the designation of projects qualified for Federal incentives 
+        pursuant to this section and the amendments made by this 
+        section.
+            (2) Types of projects that may qualify.--Projects that may 
+        qualify for Federal incentives pursuant to this section and the 
+        amendments made by this section are commercial development or 
+        other projects that--
+                    (A) contribute to the generation of revenue by the 
+                capture of increasing value from development around 
+                station areas, through the establishment of special 
+                assessment districts, increasing the tax base, 
+                promoting job growth, promoting cost effectiveness, 
+                facilitating intermodal connectivity, combining 
+                congestion relief with station development, stimulating 
+                economic development, or any other appropriate means;
+                    (B) are likely to make long-term contributions to 
+                rail corridor development funds or similar mechanisms 
+                that help finance intercity and urban passenger rail 
+                infrastructure or operating expenses; and
+                    (C) provide for a quantifiable revenue stream to 
+                the relevant station or rail operation.
+            (3) Applicant coordinating authority.--An applicant for 
+        Federal incentives pursuant to this section and the amendments 
+        made by this section shall be a State, local, or regional 
+        authority. Such authority shall provide for coordination among 
+        stakeholders, local governments, and private developers in the 
+        defined region, and shall be the lead party in the application.
+            (4) Projects authorized.--Except as provided in subsection 
+        (b), projects are not authorized to receive Federal incentives 
+        pursuant to this section and the amendments made by this 
+        section until the date that is 1 year after the report required 
+        under subsection (c) is transmitted to Congress.
+    (b) Pilot Projects.--The Secretary may designate up to 4 pilot 
+projects as qualified for Federal incentives pursuant to this section 
+and the amendments made by this section before the date specified in 
+subsection (a)(4).
+    (c) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the Secretary, after consultation with each 
+State, local, or regional authority coordinating a pilot project under 
+subsection (b), shall transmit to Congress a report assessing the 
+success or failure of each such pilot project and making any 
+appropriate recommendations for modifications to the initiative under 
+this Act.
+    (d) Railroad Rehabilitation Improvement Financing.--Section 502 of 
+the Railroad Revitalization and Regulatory Reform Act of 1976 (45 
+U.S.C. 822) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``and'' at the end of paragraph 
+                (5);
+                    (B) by striking the period at the end of paragraph 
+                (6) and inserting ``; and''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(7) persons conducting a qualified project (as defined by 
+        the Secretary under section 3 of the National High Performance 
+        Passenger Rail Transportation-Oriented Development Act of 
+        2013).''; and
+            (2) in subsection (b)(1)--
+                    (A) by striking ``or'' at the end of subparagraph 
+                (B);
+                    (B) by striking the period at the end of 
+                subparagraph (C) and inserting ``; or''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(D) conduct a qualified project (as defined by 
+                the Secretary under section 3 of the National High 
+                Performance Passenger Rail Transportation-Oriented 
+                Development Act of 2013).''.
+    (e) Transportation Infrastructure Finance.--Section 601(a)(12) of 
+title 23, United States Code, is amended--
+            (1) by striking ``and'' at the end of subparagraph (C);
+            (2) by striking the period at the end of subparagraph (D) 
+        and inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(E) a qualified project (as defined by the 
+                Secretary under section 3 of the National High 
+                Performance Passenger Rail Transportation-Oriented 
+                Development Act of 2013).''.
+    (f) Application Priority.--In general, Federal applications to the 
+Federal Railroad Administration and Federal Transit Administration for 
+railroad projects that participate in the transportation-oriented 
+development initiative under this Act shall receive a priority for 
+funding in the application decision process.
+    (g) Revenue Neutral Program Cost.--The Secretary shall establish 
+and apply to recipients of Federal incentives pursuant to this section 
+and the amendments made by this section a fee in an amount sufficient 
+to cover the administrative costs of carrying out this Act, including 
+section 2(b).
 
-    (a) In General.--Chapter 7 of title 5, United States Code, as 
-amended by section 2(a), is amended by adding at the end the following:
-``Sec. 708. Supervision of litigation; limiting unnecessary 
-              relitigation of legal issues
-    ``(a) In supervising the conduct of litigation, the officers of any 
-agency of the United States authorized to conduct litigation, including 
-the Department of Justice acting under sections 516 and 519 of title 
-28, United States Code, shall ensure that the initiation, defense, and 
-continuation of proceedings in the courts of the United States within, 
-or subject to the jurisdiction of, a particular judicial circuit avoids 
-unnecessarily repetitive litigation on questions of law already 
-consistently resolved against the position of the United States, or an 
-agency or officer thereof, in precedents established by the United 
-States courts of appeals for 3 or more other judicial circuits.
-    ``(b) Decisions on whether to initiate, defend, or continue 
-litigation for purposes of subsection (a) shall take into account, 
-among other relevant factors, the following:
-            ``(1) The effect of intervening changes in pertinent law or 
-        the public policy or circumstances on which the established 
-        precedents were based.
-            ``(2) Subsequent decisions of the United States Supreme 
-        Court or the courts of appeals that previously decided the 
-        relevant question of law.
-            ``(3) The extent to which that question of law was fully 
-        and adequately litigated in the cases in which the precedents 
-        were established.
-            ``(4) The need to conserve judicial and other parties' 
-        resources.
-    ``(c) The Attorney General shall report annually to the Committees 
-on the Judiciary of the Senate and the House of Representatives on the 
-efforts of the Department of Justice and other agencies to comply with 
-subsection (a).
-    ``(d) A decision on whether to initiate, defend, or continue 
-litigation is not subject to review in a court, by mandamus or 
-otherwise, on the grounds that the decision violates subsection (a).''.
-    (b) Clerical Amendment.--The table of sections at the beginning of 
-chapter 7 of title 5, United States Code, as amended by section 2(b), 
-is amended by adding at the end of following new item:
+SEC. 4. TECHNICAL ASSISTANCE.
 
-``708. Supervision of litigation; limiting unnecessary relitigation of 
-                            legal issues.''.
-
-            Passed the House of Representatives February 25, 1998.
-
-            Attest:
-
-                                                ROBIN H. CARLE,
-
-                                                                 Clerk.
+    (a) National Technical Assistance.--The Secretary shall provide 
+technical assistance to applicants and potential applicants for Federal 
+incentives pursuant to this Act and the amendments made by this Act 
+with respect to--
+            (1) identification of transportation-oriented development 
+        opportunities;
+            (2) establishment of special assessment districts in 
+        regions;
+            (3) establishment of rail corridor development funds; and
+            (4) expediting Federal, State, and local regulatory 
+        approvals.
+    (b) States, Localities, and Regions Outside the Northeast 
+Corridor.--The Secretary shall provide technical assistance to the 
+States, localities, and regions outside the Northeast Corridor as 
+identified by the Secretary, including--
+            (1) technical assistance on the establishment of regional 
+        authorities appropriate to carrying out the purposes of this 
+        Act at the regional level; and
+            (2) technical assistance at the request of a State, local, 
+        or regional entity to identify stations and potential stations 
+        within a region and conduct a preliminary survey of property 
+        available and potentially available, to maximize development 
+        and commercial revenue generation to financially support the 
+        development of a high performance intercity or urban rail 
+        passenger corridor.
+    (c) Northeast Corridor.--The Secretary shall provide technical 
+assistance to the States and local or regional entities along the 
+Northeast Corridor, including--
+            (1) technical assistance on the establishment, by the 
+        Northeast Corridor Infrastructure and Operations Advisory 
+        Commission established under section 24905 of title 49, United 
+        States Code, of a Northeast Corridor Transportation-Oriented 
+        Development Working Group, which shall--
+                    (A) include outside members with expertise in 
+                transportation-oriented development;
+                    (B) be supported by the independent private sector 
+                entity retained by the Secretary under section 2(b);
+                    (C) be chaired by a designee appointed by the 
+                Secretary who is an expert with private sector 
+                transportation oriented development experience; and
+                    (D) advise the Secretary and the Northeast Corridor 
+                Infrastructure and Operations Advisory Commission on 
+                the ways and means for carrying out the purposes of 
+                this Act at the regional level; and
+            (2) not more than 1 year after the date of enactment of 
+        this Act, technical assistance to identify Northeast Corridor 
+        stations and potential stations and conduct a preliminary 
+        survey of property available and potentially available, to 
+        maximize development and commercial revenue generation to 
+        financially support the creation of a true high-speed rail 
+        corridor in the Northeast Corridor.
+                                 <all>

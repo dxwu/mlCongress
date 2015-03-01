@@ -1,20 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 694 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 694
 
-    To establish reform criteria to permit payment of United States 
-      arrearages in assessed contributions to the United Nations.
+   To remove the authority of the Agricultural Marketing Service to 
+                            inspect apples.
 
 
 _______________________________________________________________________
@@ -22,10 +16,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                              May 5, 1997
+                             April 10, 2013
 
-   Ms. Snowe introduced the following bill; which was read twice and 
-             referred to the Committee on Foreign Relations
+Mrs. Gillibrand introduced the following bill; which was read twice and 
+   referred to the Committee on Agriculture, Nutrition, and Forestry
 
 _______________________________________________________________________
 
@@ -33,91 +27,20 @@ _______________________________________________________________________
 
 
  
-    To establish reform criteria to permit payment of United States 
-      arrearages in assessed contributions to the United Nations.
+   To remove the authority of the Agricultural Marketing Service to 
+                            inspect apples.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``United Nations Reform Act of 1997''.
+    This Act may be cited as the ``Apple Red Tape Elimination Act of 
+2013''.
 
-SEC. 2. PAYMENT OF UNITED STATES ARREARAGES IN ASSESSED CONTRIBUTIONS 
-              TO THE UNITED NATIONS.
+SEC. 2. REMOVAL OF AMS INSPECTION AUTHORITY OVER APPLES.
 
-    (a) Limitation.--Notwithstanding any other provision of law, for 
-each of the fiscal years 1998 through 2002, no funds shall be available 
-for obligation or expenditure to the United Nations for the payment 
-except under procedures of United States assessed contributions to the 
-United Nations more than one year in arrears at the time of passage of 
-this Act under United States Government accounting except under 
-procedures under subsection (b);
-    (b) Procedures for the Release of United States Arrearages to the 
-United Nations.--In accordance with procedures applicable to 
-reprogramming notifications under section 34 of the State Department 
-Basic Authorities Act of 1956, for each fiscal year 1998 through 2002, 
-the President may make available for obligation or expenditure to the 
-United Nations an amount not to exceed 20% of United States assessed 
-contributions to the United Nations more than one year in arrears at 
-the time of passage of this Act under United States Government 
-accounting if on January 31 of each fiscal year 1998 through 2002 the 
-President determines and certifies to the relevant committees of the 
-Congress that the applicable reform criteria for each fiscal year has 
-been met.
-    (c) Definitions.--As used in this section:
-            (1) Relevant committees of the congress.--The term 
-        ``relevant committees of the Congress'' means the Committee on 
-        Foreign Relations and the Committee on Appropriations of the 
-        Senate and the Committee on International Relations and the 
-        Committee on Appropriations of the House of Representatives.
-            (2) Applicable reform criteria.--The term ``applicable 
-        reform criteria'' means--
-                    (A) for fiscal year 1998 that the United Nations 
-                has maintained a zero nominal growth budget in United 
-                States dollar terms and has made all of its programs, 
-                offices and activities open to auditing by the national 
-                auditing and inspecting agencies of its member states 
-                to include, but not be limited to the United States 
-                General Accounting Office and the State Department 
-                Office of Inspector General, that the United Nations 
-                Office of Internal Oversight Services has been fully 
-                funded at its request level, and that all products of 
-                the Office of Internal Oversight Services relevant to 
-                United Nations budgetary and administrative matters are 
-                available to all United Nations member states;
-                    (B) for fiscal year 1999 that all criteria for 
-                fiscal year 1998 continue to be met and that United 
-                States representation on the United Nations Advisory 
-                Committee on Administrative and Budgetary Questions has 
-                been restored;
-                    (C) for fiscal year 2000 that all criteria for 
-                fiscal years 1998 and 1999 continue to be met and that 
-                procedures for assessing contributions for United 
-                Nations peacekeeping activities have been reformed to 
-                ensure that for all logistical, in-kind, and non-cash 
-                aid provided by the United States to support United 
-                Nations assessed peacekeeping activities that the 
-                United States either receives from the United Nations 
-                cash reimbursement for the full value of such aid or 
-                credit toward the payment of assessed contributions for 
-                peacekeeping operations;
-                    (D) for fiscal year 2001 that all criteria for 
-                fiscal years 1998 through 2000 continue to be met and 
-                that the United Nations has divided its regular budget 
-                into a small ``core'' assessed budget representing only 
-                those activities determined by the General Accounting 
-                Office to be necessary for the United Nations to 
-                maintain its existence under the terms of the United 
-                Nations Charter and a voluntary ``program'' budget that 
-                would include all United Nations programs, 
-                developmental activities, regional activities, economic 
-                and social activities, and related staff; and
-                    (E) for fiscal year 2002 that all criteria for 
-                fiscal years 1998 through 2001 continue to be met and 
-                that the United Nations has approved and implemented 
-                systemwide structural reform, entailing a significant 
-                reduction in staff, that would eliminate all outdated 
-                activities and program duplication and would encompass 
-                all relevant United Nations specialized agencies.
+    Notwithstanding any other provision of law, the Secretary of 
+Agriculture, acting through the Agricultural Marketing Service, shall 
+have no authority to inspect apples prior to export.
                                  <all>

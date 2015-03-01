@@ -1,21 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2487 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2487
 
- To amend The Equal Access Act to provide equal access for elementary 
-and secondary school groups to expense reimbursement and materials, and 
-     to provide equal access for community groups to meeting space.
+  To amend the Small Business Act to increase the maximum loan limits 
+          under the microloan program, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,10 +16,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                           September 16, 1998
+                             June 18, 2014
 
- Mr. Ashcroft introduced the following bill; which was read twice and 
-         referred to the Committee on Labor and Human Resources
+Mrs. Fischer (for herself and Mr. Scott) introduced the following bill; 
+ which was read twice and referred to the Committee on Small Business 
+                          and Entrepreneurship
 
 _______________________________________________________________________
 
@@ -34,172 +28,64 @@ _______________________________________________________________________
 
 
  
- To amend The Equal Access Act to provide equal access for elementary 
-and secondary school groups to expense reimbursement and materials, and 
-     to provide equal access for community groups to meeting space.
+  To amend the Small Business Act to increase the maximum loan limits 
+          under the microloan program, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Equal Access Improvement Act''.
+    This Act may be cited as the ``Access to Capital, Access to 
+Opportunity Act''.
 
-SEC. 2. EQUAL ACCESS TO EXPENSE REIMBURSEMENT.
+SEC. 2. DEFINITIONS.
 
-    (a) In General.--Section 802 of The Equal Access Act (20 U.S.C. 
-4071) is amended--
-            (1) by redesignating subsections (d) through (f) as 
-        subsections (g) through (i), respectively; and
-            (2) by inserting after subsection (c), the following:
-    ``(d)(1) Subject to subsection (i), it shall be unlawful for any 
-public intermediate school or secondary school that--
-            ``(A) receives Federal financial assistance;
-            ``(B) maintains a limited open forum as described in 
-        subsection (b); and
-            ``(C) provides for the reimbursement of the expenses of one 
-        or more noncurriculum-related student groups or students 
-        pursuing noncurriculum-related activities;
-to deny equal treatment, to any student group or student, respectively, 
-seeking reimbursement for similar expenses, on the basis of the 
-religious, political, philosophical, or other content of the speech or 
-activity engaged in by such student group or student, respectively.
-    ``(2) Nothing in this subsection shall be construed to prevent a 
-public intermediate school or secondary school from granting or denying 
-a reimbursement request pursuant to a neutral policy administered 
-without regard to the religious, political, philosophical, or other 
-content of the speech or activity engaged in by the student group or 
-student seeking the reimbursement.''.
-    (b) Construction.--Subsection (g) of section 802 of The Equal 
-Access Act (20 U.S.C. 4071), as amended in subsection (a), is further 
-amended--
-            (1) in paragraph (3), by inserting after ``beyond'' the 
-        following: ``the reimbursement of expenses on a 
-        nondiscriminatory basis as provided for in subsection (d), and 
-        payment of'';
-            (2) in paragraph (4), by inserting ``or activity'' after 
-        ``meeting'' each place it appears; and
-            (3) in paragraph (5), by inserting ``or activities'' after 
-        ``meetings''.
+    In this Act--
+            (1) the terms ``Administration'' and ``Administrator'' mean 
+        the Small Business Administration and the Administrator 
+        thereof, respectively;
+            (2) the term ``microloan program'' means the program 
+        established under section 7(m) of the Small Business Act (15 
+        U.S.C. 636(m)); and
+            (3) the term ``small business concern'' has the meaning 
+        given the term under section 3 of the Small Business Act (15 
+        U.S.C. 632).
 
-SEC. 3. EQUAL ACCESS FOR DISTRIBUTION OF MATERIALS.
+SEC. 3. MAXIMUM LOAN LIMITS UNDER MICROLOAN PROGRAM.
 
-    Section 802 of The Equal Access Act (20 U.S.C. 4071) is amended by 
-inserting after subsection (d), as added by section 2, the following:
-    ``(e)(1) Subject to subsection (i), it shall be unlawful for any 
-public intermediate school or secondary school that--
-            ``(A) receives Federal financial assistance;
-            ``(B) maintains a limited open forum as described in 
-        subsection (b); and
-            ``(C) permits one or more noncurriculum-related student 
-        groups or students pursuing noncurriculum-related activities to 
-        distribute newsletters or other written materials;
-to deny equal treatment, to any student group or student, respectively, 
-seeking a similar opportunity to distribute newsletters or other 
-written materials, on the basis of the religious, political, 
-philosophical, or other content of the speech or activity engaged in by 
-such student group or student, respectively.
-    ``(2) Nothing in this subsection shall be construed to prevent a 
-public intermediate school or secondary school from granting or denying 
-a request to distribute newsletters or other written materials pursuant 
-to a neutral policy that--
-            ``(A) is administered without regard to the religious, 
-        political, philosophical, or other content of the speech or 
-        activity engaged in by the student group or student making the 
-        request; and
-            ``(B) imposes reasonable time, place, and manner 
-        restrictions on the distribution of newsletters or other 
-        written materials consistent with the first and 14th amendments 
-        to the Constitution.''.
+    (a) In General.--Section 7(m) of the Small Business Act (15 U.S.C. 
+636(m)) is amended--
+            (1) in paragraph (1)(B)(iii), by striking ``$50,000'' and 
+        inserting ``$100,000'';
+            (2) in paragraph (3)(E), by striking ``$50,000'' each place 
+        that term appears and inserting ``$100,000''; and
+            (3) in paragraph (11)(B), by striking ``$50,000'' and 
+        inserting ``$100,000''.
+    (b) Funding.--The Administrator may use amounts made available to 
+the Administrator for administrative expenses to carry out the direct 
+and guaranteed loan programs to pay for any costs associated with the 
+amendments made under subsection (a).
 
-SEC. 4. EQUAL ACCESS FOR COMMUNITY GROUPS.
+SEC. 4. ADOPTION OF OUTCOME-ORIENTED PERFORMANCE MEASURES.
 
-    (a) In General.--Section 802 of The Equal Access Act (20 U.S.C. 
-4071) is amended by inserting after subsection (e), as added by section 
-3, the following:
-    ``(f)(1) Subject to subsection (i), it shall be unlawful for any 
-public elementary school, intermediate school, or secondary school 
-that--
-            ``(A) receives Federal financial assistance; and
-            ``(B) has a limited community forum with respect to 
-        noncurriculum-related community groups or individuals from the 
-        community pursuing noncurriculum-related activities as 
-        described in paragraph (2);
-to deny equal access to, or discriminate against, any community group 
-or any individual from the community, respectively, who desires to 
-conduct a meeting, or otherwise use school facilities, within that 
-limited community forum, on the basis of the religious, political, 
-philosophical, or other content of the speech or activity engaged in by 
-such community group or individual, respectively.
-    ``(2) In this subsection, a public elementary school, intermediate 
-school, or secondary school has a limited community forum if such 
-school grants an offering to or opportunity for one or more 
-noncurriculum-related community groups or individuals from the 
-community pursuing noncurriculum-related activities to meet on school 
-premises or otherwise use school facilities during noninstructional 
-time.
-    ``(3) Nothing in this subsection shall be construed to prevent a 
-public elementary school, intermediate school, or secondary school from 
-granting or denying a request by a community group or individual from a 
-community to meet on school premises or otherwise use school facilities 
-pursuant to a neutral policy administered without regard to the 
-religious, political, philosophical, or other content of the speech or 
-activities engaged in by the community group or individual.
-    ``(4) In this subsection, the term `elementary school' means a 
-school that provides elementary education, as defined by State law.''.
-    (b) Construction.--Subsection (g) of section 802 of The Equal 
-Access Act (20 U.S.C. 4071), as amended in section 2, is further 
-amended--
-            (1) in paragraph (3), by inserting ``or meetings initiated 
-        by a community group or individual from a community'' after 
-        ``student-initiated meetings''; and
-            (2) in paragraph (6), by inserting ``or community groups'' 
-        after ``groups of students''.
+    Not later than 180 days after the date of enactment of this Act, 
+the Administrator shall develop and adopt outcome-oriented standards to 
+measure the performance of the microloan program, including the 
+recommendations provided in the Office of the Inspector General of the 
+Administration Memorandum ROM-10-10, SBA's Administration of the 
+Microloan Program under the Recovery Act, issued December 28, 2009.
 
-SEC. 5. EXTENSION OF EQUAL ACCESS GUARANTEES TO PUBLIC INTERMEDIATE 
-              SCHOOLS.
+SEC. 5. EDUCATION ON THE MICROLOAN PROGRAM.
 
-    (a) In General.--Section 802 of The Equal Access Act (20 U.S.C. 
-4071) is amended by striking subsections (a) through (c) and inserting 
-the following:
-    ``(a) Subject to subsection (i), it shall be unlawful for any 
-public intermediate school or secondary school that receives Federal 
-financial assistance and that has a limited open forum with respect to 
-noncurriculum-related student groups or students pursuing 
-noncurriculum-related activities to deny equal access or a fair 
-opportunity to, or discriminate against, any student group or student, 
-respectively, who wishes to conduct a meeting, or otherwise use school 
-facilities, within that limited open forum, on the basis of the 
-religious, political, philosophical, or other content of the speech or 
-activity at such meetings.
-    ``(b) In this subsection, a public intermediate school or secondary 
-school has a limited open forum if such school grants an offering to or 
-opportunity for one or more noncurriculum-related student groups or 
-students pursuing noncurriculum-related activities to meet on school 
-premises or otherwise use school facilities during noninstructional 
-time.
-    ``(c) Schools shall be deemed to offer a fair opportunity to 
-student groups and students who wish to conduct a meeting, or otherwise 
-use school facilities, within its limited open forum if such school 
-uniformly provides that--
-            ``(1) the meeting or use of facilities is voluntary and 
-        student-initiated;
-            ``(2) there is no sponsorship of the meeting or use of 
-        facilities by the school, the government, or its agents or 
-        employees;
-            ``(3) employees or agents of the school or government are 
-        present at religious meetings or activities involving the use 
-        of facilities only in a nonparticipatory capacity;
-            ``(4) the meeting or use of facilities does not materially 
-        and substantially interfere with the orderly conduct of 
-        educational activities within the school; and
-            ``(5) nonschool persons may not direct, conduct, control, 
-        or regularly attend activities of student groups or 
-        students.''.
-    (b) Definitions.--Section 803 of the The Equal Access Act (20 
-U.S.C. 4072) is amended by adding at the end the following:
-            ``(5) The term `intermediate school' means a public school 
-        that provides education to students in grade 6 or higher and 
-        that does not provide education to students in grade 5 or 
-        lower.''.
+    Section 7(m)(1)(B) of the Small Business Act (15 U.S.C. 
+636(m)(1)(B)) is amended--
+            (1) in clause (ii), by striking ``and'' at the end;
+            (2) in clause (iii), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+                            ``(iv) to educate individuals, including 
+                        owners and operators of small business concerns 
+                        and aspiring entrepreneurs, about the microloan 
+                        program.''.
                                  <all>

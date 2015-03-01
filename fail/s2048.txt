@@ -1,19 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2048 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2048
 
-            To provide for the elimination of duty on Ziram.
+ To include New Zealand in the list of foreign states whose nationals 
+   are eligible for admission into the United States as E-1 and E-2 
+ nonimmigrants if United States nationals are treated similarly by the 
+                       Government of New Zealand.
 
 
 _______________________________________________________________________
@@ -21,10 +18,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                              May 7, 1998
+                           February 26, 2014
 
- Mr. Santorum introduced the following bill; which was read twice and 
-                  referred to the Committee on Finance
+ Ms. Hirono (for herself, Mr. Lee, Mr. McCain, Mr. Rubio, Mr. Schumer, 
+ and Mrs. Murray) introduced the following bill; which was read twice 
+             and referred to the Committee on the Judiciary
 
 _______________________________________________________________________
 
@@ -32,18 +30,24 @@ _______________________________________________________________________
 
 
  
-            To provide for the elimination of duty on Ziram.
+ To include New Zealand in the list of foreign states whose nationals 
+   are eligible for admission into the United States as E-1 and E-2 
+ nonimmigrants if United States nationals are treated similarly by the 
+                       Government of New Zealand.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. ELIMINATION OF DUTY ON ZIRAM.
+SECTION 1. SHORT TITLE.
 
-    (a) In General.--Subheading 3808.20.24 of the Harmonized Tariff 
-Schedule of the United States is amended by striking ``and Metiram'' 
-and inserting ``Metiram; and Ziram''.
-    (b) Effective Date.--The amendment made by subsection (a) applies 
-with respect to goods entered, or withdrawn from warehouse for 
-consumption, on or after the 15th day after the date of the enactment 
-of this Act.
+    This Act may be cited as the ``Encouraging Trade and Investment 
+from New Zealand Act''.
+
+SEC. 2. NONIMMIGRANT TRADERS AND INVESTORS.
+
+    For purposes of clauses (i) and (ii) of section 101(a)(15)(E) of 
+the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), New 
+Zealand shall be considered to be a foreign state described in such 
+section if the Government of New Zealand provides similar nonimmigrant 
+status to nationals of the United States.
                                  <all>

@@ -1,160 +1,49 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1864 Introduced in House (IH)]
+[H.R. 1864 Referred in Senate (RFS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1864
 
-  To provide for a gradual reduction in the loan rate for peanuts, to 
-  repeal peanut quotas for the 2002 and subsequent crops, and to make 
-           nonrecourse loans available for peanut producers.
-
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                             June 11, 1997
+                              July 8, 2013
 
-    Mr. Shays (for himself, Mrs. Lowey, Mr. Andrews, Mr. Barrett of 
-Wisconsin, Mr. Bass, Ms. Carson, Mr. Castle, Mr. Chabot, Mr. Coyne, Mr. 
-   Dellums, Mr. Doyle, Mr. English of Pennsylvania, Mr. Ensign, Mr. 
-Fawell, Mr. Foglietta, Mr. Franks of New Jersey, Mr. Frelinghuysen, Mr. 
-    Gekas, Mr. Hinchey, Mr. Hobson, Mr. Holden, Mr. Hutchinson, Mr. 
-   Kanjorski, Mr. Klug, Mr. Knollenberg, Mr. Kolbe, Mr. LaFalce, Mr. 
- LaTourette, Mr. Lipinski, Mr. LoBiondo, Mr. McIntosh, Mrs. Maloney of 
-    New York, Mr. Markey, Mr. Martinez, Mr. McHale, Mr. Meehan, Mr. 
-Menendez, Mr. Miller of Florida, Mrs. Morella, Mr. Neumann, Mr. Olver, 
-   Mr. Packard, Mr. Porter, Mr. Portman, Mr. Quinn, Mr. Ramstad, Ms. 
-  Rivers, Mr. Rohrabacher, Mr. Rothman, Mrs. Roukema, Mr. Royce, Mr. 
- Schumer, Mr. Sensenbrenner, Mr. Skaggs, Mr. Smith of New Jersey, Mr. 
-Souder, Mr. Stark, Mr. Torres, Mr. Visclosky, and Mr. Wamp) introduced 
- the following bill; which was referred to the Committee on Agriculture
+  Received; read twice and referred to the Committee on Armed Services
 
 _______________________________________________________________________
 
-                                 A BILL
+                                 AN ACT
 
 
  
-  To provide for a gradual reduction in the loan rate for peanuts, to 
-  repeal peanut quotas for the 2002 and subsequent crops, and to make 
-           nonrecourse loans available for peanut producers.
+To amend title 10, United States Code, to require an Inspector General 
+investigation of allegations of retaliatory personnel actions taken in 
+ response to making protected communications regarding sexual assault.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. REDUCTION IN LOAN RATES FOR PEANUTS.
+SECTION 1. INSPECTOR GENERAL INVESTIGATION OF ALLEGATIONS OF 
+              RETALIATORY PERSONNEL ACTIONS TAKEN IN RESPONSE TO MAKING 
+              PROTECTED COMMUNICATIONS REGARDING SEXUAL ASSAULT.
 
-    Section 155(a) of the Agricultural Market Transition Act (7 U.S.C. 
-7271(a)(2)) is amended by striking paragraph (2) and inserting the 
-following new paragraph:
-            ``(2) Loan rate.--The national average quota loan rate for 
-        quota peanuts shall be as follows:
-                    ``(A) $610 per ton for the 1997 crop.
-                    ``(B) $550 per ton for the 1998 crop.
-                    ``(C) $515 per ton for the 1999 crop.
-                    ``(D) $480 per ton for the 2000 crop.
-                    ``(E) $445 per ton for the 2001 crop.''.
+    Section 1034(c)(2)(A) of title 10, United States Code, is amended 
+by striking ``sexual harassment or'' and inserting ``rape, sexual 
+assault, or other sexual misconduct in violation of sections 920 
+through 920c of this title (articles 120 through 120c of the Uniform 
+Code of Military Justice), sexual harassment, or''.
 
-SEC. 2. FUTURE TERMINATION OF PRICE SUPPORT AND MARKETING QUOTA 
-              PROGRAMS FOR PEANUTS.
+            Passed the House of Representatives June 27, 2013.
 
-    (a) Effective Date.--The amendments made by this section shall take 
-effect October 1, 2001, and shall apply with respect to the 2002 and 
-subsequent crops of peanuts.
-    (b) Price Support.--Section 155 of the Agricultural Market 
-Transition Act (7 U.S.C. 7271) is repealed.
-    (c) Marketing Quota.--Part VI of subtitle B of title III of the 
-Agricultural Adjustment Act of 1938 (7 U.S.C. 1357-1359a), relating to 
-peanuts, is repealed.
-    (d) Conforming Amendments.--The Agricultural Act of 1949 (7 U.S.C. 
-1441 et seq.) is amended--
-            (1) in section 101(b) (7 U.S.C. 1441(b)), by striking ``and 
-        peanuts''; and
-            (2) in section 408(c) (7 U.S.C. 1428(c)), by striking 
-        ``peanuts,''.
-    (e) Prohibition on Subsequent Provision of Price Support.--
-            (1) Prohibition.--After the effective date of this section, 
-        except as provided in section 3, the Secretary of Agriculture 
-        may not make price support available, whether in the form of 
-        loans, purchases, or other operations, to peanut producers for 
-        the 2002 and subsequent crops of peanuts by using the funds of 
-        the Commodity Credit Corporation or under the authority of any 
-        law.
-            (2) Outstanding loans.--Notwithstanding paragraph (1), the 
-        Secretary shall settle any outstanding loans under section 155 
-        of the Agricultural Market Transition Act (title I of Public 
-        Law 104-127; 7 U.S.C. 7271) made before the effective date of 
-        this section with regard to the 2001 and previous crops of 
-        peanuts.
-    (f) Continued Liability of Producers.--An amendment made by this 
-section shall not affect the liability of any person under any 
-provision of law as in effect before the effective date of this 
-section.
+            Attest:
 
-SEC. 3. NONRECOURSE LOANS FOR PEANUT PRODUCERS.
+                                                 KAREN L. HAAS,
 
-    (a) Nonrecourse Loans Available.--For each of the 2002 and 
-subsequent crops of peanuts produced in the United States, the 
-Secretary of Agriculture shall make available to producers on a farm a 
-nonrecourse loan for peanuts produced on the farm. The loans shall be 
-made under terms and conditions that are prescribed by the Secretary 
-and at the loan rate established under subsection (b).
-    (b) Loan Rate.--The loan rate for a nonrecourse loan under this 
-section for peanuts shall be--
-            (1) not less than 85 percent of the simple average price 
-        received by producers of peanuts, as determined by the 
-        Secretary, during the marketing years for the immediately 
-        preceding five crops of peanuts, excluding the year in which 
-        the average price was the highest and the year in which the 
-        average price was the lowest in the period; but
-            (2) not more than $350 per ton.
-    (c) Term of Loan.--A nonrecourse loan for peanuts under this 
-section shall have a term of 9 months beginning on the first day of the 
-first month after the month in which the loan is made. The Secretary 
-may not extend the term of the loan.
-    (d) Repayment Rates.--The Secretary shall permit a producer to 
-repay a nonrecourse loan for peanuts under this section at a rate that 
-is the lesser of--
-            (1) the loan rate established under subsection (b), plus 
-        interest (as determined by the Secretary); or
-            (2) a rate that the Secretary determines will--
-                    (A) minimize potential loan forfeitures;
-                    (B) minimize the accumulation of stocks of peanuts 
-                by the Federal Government;
-                    (C) minimize the cost incurred by the Federal 
-                Government in storing the peanuts; and
-                    (D) allow peanuts produced in the United States to 
-                be marketed freely and competitively, both domestically 
-                and internationally.
-    (e) Loan Deficiency Payments.--
-            (1) Availability.--The Secretary may make loan deficiency 
-        payments available to peanut producers who, although eligible 
-        to obtain a nonrecourse loan under this section, agree to forgo 
-        obtaining the loan for the commodity in return for payments 
-        under this subsection.
-            (2) Computation.--A loan deficiency payment under this 
-        subsection shall be computed by multiplying--
-                    (A) the loan payment rate determined under 
-                paragraph (3); by
-                    (B) the quantity of peanuts that the producers on a 
-                farm are eligible to place under loan but for which the 
-                producers forgo obtaining the loan in return for 
-                payments under this subsection.
-            (3) Loan payment rate.--For purposes of this subsection, 
-        the loan payment rate shall be the amount by which--
-                    (A) the loan rate established under subsection (b); 
-                exceeds
-                    (B) the rate at which a loan for the peanuts may be 
-                repaid under subsection (d).
-                                 <all>
+                                                                 Clerk.

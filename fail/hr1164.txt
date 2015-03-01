@@ -1,22 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1164 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1164
 
-To amend the Internal Revenue Code of 1986 to provide taxpayers engaged 
- in certain agriculture-related activities a credit against income tax 
- for property used to control environmental pollution and for soil and 
-                    water conservation expenditures.
+    To amend title 31, United States Code, to provide for automatic 
+                        continuing resolutions.
 
 
 _______________________________________________________________________
@@ -24,12 +16,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 20, 1997
+                             March 14, 2013
 
-  Mr. Herger (for himself, Mr. Barrett of Nebraska, Mr. Houghton, Mr. 
-Watkins, Mr. Camp, Mr. Frost, Mr. Latham, Mr. Minge, Mr. Kingston, Mr. 
- McHugh, Mr. Gilchrest, Mr. Walsh, and Mr. Nethercutt) introduced the 
- following bill; which was referred to the Committee on Ways and Means
+    Mr. Lankford (for himself, Mr. Hensarling, Mr. McClintock, Mrs. 
+Blackburn, Mr. Ribble, Mrs. Lummis, Mr. Bucshon, Mr. Mullin, Mr. Duncan 
+   of South Carolina, Mr. Huizenga of Michigan, Mr. Daines, and Mr. 
+Westmoreland) introduced the following bill; which was referred to the 
+                      Committee on Appropriations
 
 _______________________________________________________________________
 
@@ -37,121 +30,95 @@ _______________________________________________________________________
 
 
  
-To amend the Internal Revenue Code of 1986 to provide taxpayers engaged 
- in certain agriculture-related activities a credit against income tax 
- for property used to control environmental pollution and for soil and 
-                    water conservation expenditures.
+    To amend title 31, United States Code, to provide for automatic 
+                        continuing resolutions.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Rural Environment Tax Credit Act''.
+    This Act may be cited as the ``Government Shutdown Prevention 
+Act''.
 
-SEC. 2. CREDIT FOR PROPERTY USED IN CERTAIN AGRICULTURE-RELATED 
-              ACTIVITIES TO CONTROL ENVIRONMENTAL POLLUTION AND FOR 
-              SOIL AND WATER CONSERVATION EXPENDITURES.
+SEC. 2. AUTOMATIC CONTINUING APPROPRIATIONS.
 
-    (a) In General.--Section 46 of the Internal Revenue Code of 1986 
-(relating to amount of investment credit) is amended by striking 
-``and'' at the end of paragraph (2), by striking the period at the end 
-of paragraph (3) and inserting ``, and'', and by adding at the end 
-thereof the following paragraph:
-            ``(4) in the case of an eligible taxpayer (as defined in 
-        section 48(c)), the agricultural environmental credit.''
-    (b) Agricultural Environmental Credit.--Section 48 of such Code is 
-amended by adding at the end thereof the following new subsection:
-    ``(c) Agricultural Environmental Credit.--
-            ``(1) In general.--For purposes of section 46, in the case 
-        of an eligible taxpayer, the agricultural environmental credit 
-        for any taxable year is--
-                    ``(A) 15 percent of the portion of the basis of 
-                each agricultural environmental property placed in 
-                service by the taxpayer during such taxable year, and
-                    ``(B) 15 percent of the amount allowed as a 
-                deduction under section 175 (determined without regard 
-                to paragraph (4)(B)) for such taxable year.
-            ``(2) Eligible taxpayer.--
-                    ``(A) In general.--For purposes of this subsection, 
-                the term `eligible taxpayer' means any taxpayer 
-                primarily engaged in a farming-related business.
-                    ``(B) Farming-related business.--For purposes of 
-                this subsection, the term `farming-related business' 
-                means--
-                            ``(i) a farming business (as defined in 
-                        section 263A(e)(4)),
-                            ``(ii) a trade or business of mixing 
-                        fertilizers from purchased fertilizer 
-                        materials, and
-                            ``(iii) a trade or business of the 
-                        wholesale distribution of animal feeds, 
-                        fertilizers, agricultural chemicals, 
-                        pesticides, seeds, or other farm supplies 
-                        (other than grains).
-            ``(3) Agricultural environmental property.--
-                    ``(A) In general.--For purposes of this subsection, 
-                the term `agricultural environmental property' means 
-                any new identifiable treatment facility--
-                            ``(i) which is used in a farming-related 
-                        business for the primary purpose of complying 
-                        with Federal, State, and local environmental 
-                        laws dealing with the abatement or control of 
-                        water, soil, or atmospheric pollution or 
-                        contamination by removing, altering, disposing, 
-                        storing, or preventing the creation or emission 
-                        of pollutants, contaminants, wastes, or heat, 
-                        and
-                            ``(ii) which does not significantly--
-                                    ``(I) increase the output or 
-                                capacity, extend the useful life, or 
-                                reduce the total operating costs of 
-                                plant or property to which such 
-                                facility relates, or
-                                    ``(II) alter the nature of any 
-                                manufacturing or production process or 
-                                facility.
-                    ``(B) New identifiable treatment facility.--The 
-                term `new identifiable treatment facility' has the 
-                meaning given such term by section 169(d)(4)(A), 
-                determined by substituting `December 31, 1996' for 
-                `December 31, 1968'.
-            ``(4) Special rules.--
-                    ``(A) Coordination with energy and rehabilitation 
-                credits.--This subsection shall not apply to--
-                            ``(i) any property to the extent the basis 
-                        of such property is attributable to qualified 
-                        rehabilitation expenditures (as defined in 
-                        section 47(c)(2)), or
-                            ``(ii) energy property.
-                    ``(B) Coordination with deduction for soil and 
-                water conservation expenditures.--The amount which 
-                would (but for this subparagraph) be allowed as a 
-                deduction under section 174 for any taxable year shall 
-                be reduced by the amount of the credit allowed by 
-                paragraph (1)(B) for such year.
-                    ``(C) Coordination with amortization of pollution 
-                control facilities.--This subsection shall not apply to 
-                any property to the extent an election is made under 
-                section 169 with respect to the basis of such 
-                property.''
-    (c) Clerical Amendments.--
-            (1) The section heading for section 48 of such Code is 
-        amended to read as follows:
+    (a) In General.--Chapter 13 of title 31, United States Code, is 
+amended by inserting after section 1310 the following new section:
 
-``SEC. 48. ENERGY CREDIT; REFORESTATION CREDIT; AGRICULTURAL 
-              ENVIRONMENTAL CREDIT.''
+``SEC. 1311. CONTINUING APPROPRIATIONS.
 
-            (2) The item relating to section 48 in the table of 
-        sections for subpart E of part IV of subchapter A of chapter 1 
-        of such Code is amended to read as follows:
+    ``(a)(1) If any appropriation measure for a fiscal year is not 
+enacted before the beginning of such fiscal year or a joint resolution 
+making continuing appropriations is not in effect, there are 
+appropriated such sums as may be necessary to continue any program, 
+project, or activity for which funds were provided in the preceding 
+fiscal year--
+            ``(A) in the corresponding appropriation Act for such 
+        preceding fiscal year; or
+            ``(B) if the corresponding appropriation bill for such 
+        preceding fiscal year did not become law, then in a joint 
+        resolution making continuing appropriations for such preceding 
+        fiscal year.
+    ``(2)(A) Appropriations and funds made available, and authority 
+granted, for a program, project, or activity for any fiscal year 
+pursuant to this section shall be at a rate of operations not in excess 
+of the lower of--
+            ``(i) 100 percent of the rate of operations provided for in 
+        the regular appropriation Act providing for such program, 
+        project, or activity for the preceding fiscal year;
+            ``(ii) in the absence of such an Act, 100 percent of the 
+        rate of operations provided for such program, project, or 
+        activity pursuant to a joint resolution making continuing 
+        appropriations for such preceding fiscal year; or
+            ``(iii) 100 percent of the annualized rate of operations 
+        provided for in the most recently enacted joint resolution 
+        making continuing appropriations for part of that fiscal year 
+        or any funding levels established under the provisions of this 
+        Act;
+for the period of 120 days. After the first 120-day period during which 
+this subsection is in effect for that fiscal year, the applicable rate 
+of operations shall be reduced by 1 percentage point. For each 
+subsequent 90-day period during which this subsection is in effect for 
+that fiscal year, the applicable rate of operations shall be reduced by 
+1 percentage point. The 90-day period reductions shall extend beyond 
+the last day of that fiscal year.
+    ``(B) If this section is in effect at the end of a fiscal year, 
+funding levels shall continue as provided in this section for the next 
+fiscal year.
+    ``(3) Appropriations and funds made available, and authority 
+granted, for any fiscal year pursuant to this section for a program, 
+project, or activity shall be available for the period beginning with 
+the first day of a lapse in appropriations and ending with the date on 
+which the applicable regular appropriation bill for such fiscal year 
+becomes law (whether or not such law provides for such program, 
+project, or activity) or a continuing resolution making appropriations 
+becomes law, as the case may be.
+    ``(b) An appropriation or funds made available, or authority 
+granted, for a program, project, or activity for any fiscal year 
+pursuant to this section shall be subject to the terms and conditions 
+imposed with respect to the appropriation made or funds made available 
+for the preceding fiscal year, or authority granted for such program, 
+project, or activity under current law.
+    ``(c) Expenditures made for a program, project, or activity for any 
+fiscal year pursuant to this section shall be charged to the applicable 
+appropriation, fund, or authorization whenever a regular appropriation 
+bill or a joint resolution making continuing appropriations until the 
+end of a fiscal year providing for such program, project, or activity 
+for such period becomes law.
+    ``(d) This section shall not apply to a program, project, or 
+activity during a fiscal year if any other provision of law (other than 
+an authorization of appropriations)--
+            ``(1) makes an appropriation, makes funds available, or 
+        grants authority for such program, project, or activity to 
+        continue for such period; or
+            ``(2) specifically provides that no appropriation shall be 
+        made, no funds shall be made available, or no authority shall 
+        be granted for such program, project, or activity to continue 
+        for such period.''.
+    (b) Clerical Amendment.--The table of sections of chapter 13 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 1310 the following new item:
 
-                              ``Sec. 48. Energy credit; reforestation 
-                                        credit; agricultural 
-                                        environmental credit.''
-    (d) Effective Date.--The amendments made by this section shall 
-apply to periods after December 31, 1996, under rules similar to the 
-rules of section 48(m) of the Internal Revenue Code of 1986 (as in 
-effect on the day before the date of the enactment of the Revenue 
-Reconciliation Act of 1990).
+``1311. Continuing appropriations.''.
                                  <all>

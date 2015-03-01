@@ -1,24 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4404 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4404
 
-To amend title XVIII of the Social Security Act to modify the standards 
- for calculating the per beneficiary payment limits under the interim 
-   payment system for home health services furnished by home health 
-   agencies under the Medicare Program and the standards for setting 
- payments rates under the prospective payment system for such services 
-              to achieve fair reimbursement payment rates.
+To direct the Attorney General to acquire data, for each calendar year, 
+   about sexual offenses, including rape, that occur aboard aircraft.
 
 
 _______________________________________________________________________
@@ -26,15 +16,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             August 5, 1998
+                             April 4, 2014
 
-Mr. Hilleary (for himself, Mr. Rahall, Mr. Aderholt, Mr. Cook, Mr. Hall 
- of Texas, Mr. McIntosh, Mr. Sanders, and Ms. Stabenow) introduced the 
-following bill; which was referred to the Committee on Ways and Means, 
-   and in addition to the Committee on Commerce, for a period to be 
-subsequently determined by the Speaker, in each case for consideration 
-  of such provisions as fall within the jurisdiction of the committee 
-                               concerned
+ Mr. Crawford (for himself and Mr. Griffin of Arkansas) introduced the 
+  following bill; which was referred to the Committee on the Judiciary
 
 _______________________________________________________________________
 
@@ -42,152 +27,21 @@ _______________________________________________________________________
 
 
  
-To amend title XVIII of the Social Security Act to modify the standards 
- for calculating the per beneficiary payment limits under the interim 
-   payment system for home health services furnished by home health 
-   agencies under the Medicare Program and the standards for setting 
- payments rates under the prospective payment system for such services 
-              to achieve fair reimbursement payment rates.
+To direct the Attorney General to acquire data, for each calendar year, 
+   about sexual offenses, including rape, that occur aboard aircraft.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Homebound Elderly Relief Opportunity 
-Act of 1998''.
+    This Act may be cited as the ``Sexual Assault Reporting on Aircraft 
+Act of 2014'' or the ``SARA Act of 2014''.
 
-SEC. 2. MODIFICATION OF HOME HEALTH SERVICES PAYMENT LIMITS.
+SEC. 2. STATISTICS RELATING TO SEXUAL OFFENSES THAT OCCUR ABOARD 
+              AIRCRAFT.
 
-    (a) Moratorium on Implementation of Per Beneficiary Limits Under 
-Interim Payment System.--Section 1861(v)(1)(L)(iv) of the Social 
-Security Act (42 U.S.C. 1395x(v)(1)(L)(iv)) is amended to read as 
-follows:
-    ``(iv)(I) The interim system of payments under clause (v) shall 
-apply only if aggregate expenditures for home health services in a 
-fiscal year exceed the applicable amount described in subclause (II).
-    ``(II) For purposes of subclause (I), the applicable amount for 
-fiscal year 1998 is $18,200,000,000 and for fiscal year 1999 is 
-$19,300,000,000.
-    ``(III) In the case of an excess under subclause (I), the Secretary 
-shall implement such system beginning January 1 of the year following 
-the fiscal year in which such aggregate expenditures exceed the 
-applicable amount. The Secretary shall adjust payments under such 
-system so that aggregate expenditures for home health services for 
-fiscal years 1998 through 2002 do not exceed $101,000,000,000.
-    ``(IV) Not later than the October 31 that precedes a year in which 
-such system is implemented, the Secretary shall publish in the Federal 
-Register proposed per beneficiary limits for the subsequent year, along 
-with the standards and methods utilized in calculating and applying the 
-limits in compliance with the rulemaking provisions under section 553 
-of the Administrative Procedures Act (5 U.S.C. 553). Not later than the 
-December 31 that precedes such year, the Secretary shall publish in the 
-Federal Register the per beneficiary limits for home health services 
-furnished during cost reporting periods beginning in that year.''.
-    (b) Establishment of Uniform Per Beneficiary Limits Under Interim 
-Payment System.--Section 1861(v)(1)(L)(v) of such Act (42 U.S.C. 
-1395x(v)(1)(L))(v)), is amended--
-            (1) in the first sentence, by striking ``For'' and 
-        inserting ``Subject to clause (iv), for''; and
-            (2) in subclause (I), by striking ``calculated based 75 
-        percent on 98 percent'' through ``periods ending during fiscal 
-        year 1994, such costs'' and inserting ``equal to the greater of 
-        75 percent of the standardized regional average of reasonable 
-        costs (including nonroutine medical supplies) for cost 
-        reporting periods ending during fiscal year 1994 for the 
-        agency's census division and 25 percent of the standardized 
-        national average of such costs or 25 percent of the 
-        standardized regional average of such costs for the agency's 
-        census division and 75 percent of the standardized national 
-        average of such costs, such costs determined separately for 
-        agencies in rural and nonrural areas and''.
-    (c) Adjustment for Outliers.--Section 1861(v)(1)(L) of such Act (42 
-U.S.C. 1395x(v)(1)(L)) is amended by adding at the end the following 
-new clause:
-    ``(viii)(I) Subject to subclause (II), in the case of a home health 
-agency that exceeds the per beneficiary limit under clause (v), the 
-Secretary shall provide for an additional payment where the reasonable 
-cost for home health services provided to an individual exceeds such 
-limit by a fixed number of standard deviations. Such additional payment 
-amount shall be determined prior to the fiscal year in which subsection 
-(iv) is applicable.
-    ``(II) The aggregate amount of such additional payments in a fiscal 
-year may not exceed 5 percent of the aggregate payments projected or 
-estimated by the Secretary to be made under clause (v) in that year.''.
-    (d) Per Visit Cost Limits.--Section 1861(v)(1)(L)(i)(IV) of such 
-Act (42 U.S.C. 1395x(v)(1)(L)(i)(IV)) is amended to read as follows:
-            ``(IV) October 1, 1997, 110 percent of such mean.''.
-    (e) Elimination of Special Per Beneficiary Payment Rule for New 
-Agencies.--Section 1861(v)(1)(L)(vi) of such Act (42 U.S.C. 
-1395x(v)(1)(L)(vi)) is amended to read as follows:
-    ``(vi) Where the Secretary establishes that beneficiaries use 
-services furnished by more than one home health agency for purposes of 
-circumventing the per beneficiary annual limitation under clause (v), 
-the per beneficiary limitation shall be prorated among the agencies.''.
-    (f) Publication of New Limits.--Section 1861(v)(1)(L)(vii) of such 
-Act (42 U.S.C. 1395x(v)(1)(L)(vii)) is amended by adding at the end the 
-following new subclause:
-    ``(III) Notwithstanding subclause (II), in the case of per visit or 
-per beneficiary limits for fiscal year 1999 established by reason of 
-the Homebound Elderly Relief Opportunity Act of 1998, the Secretary 
-shall establish such limits by not later than 90 days after the date of 
-the enactment of such Act.''.
-
-SEC. 3. MODIFICATION OF CALCULATION OF PAYMENT AMOUNT FOR HOME HEALTH 
-              SERVICES UNDER THE PROSPECTIVE PAYMENT SYSTEM.
-
-    (a) Establishment of Equitable Limits for Calculating Prospective 
-Payment Rates.--
-            (1) In general.--Section 1895(b)(3)(A)(i) of the Social 
-        Security Act (42 U.S.C. 1395fff(b)(3)(A)(i)) is amended by 
-        inserting ``the greater of $19,000,000,000 or'' after ``equal 
-        to''.
-            (2) Contingency.--Section 4603(e) of the Balanced Budget 
-        Act of 1997 (42 U.S.C. 1395fff note) is amended to read as 
-        follows:
-    ``(e) Contingency.--
-            ``(1) In general.--If the Secretary of Health and Human 
-        Services for any reason does not establish and implement the 
-        prospective payment system for home health services described 
-        in section 1895(b) of the Social Security Act (as added by 
-        subsection (a)) for cost reporting periods described in 
-        subsection (d), the Secretary shall provide--
-                    ``(A) for such cost reporting periods that begin 
-                before October 1, 2002, an adjustment to the cost 
-                limits described in section 1861(v)(1)(L) of such Act 
-                (42 U.S.C. 1395x(v)(1)(L)) so that the aggregate 
-                amounts payable for such services in a fiscal year do 
-                not exceed the greater of--
-                            ``(i) the applicable amount (as defined in 
-                        paragraph (2)); or
-                            ``(ii) the aggregate amount of payments for 
-                        such services that would have been made in such 
-                        fiscal year if such cost limits (as those 
-                        limits would otherwise be in effect on 
-                        September 30, 1999) had been reduced by 15 
-                        percent; and
-                    ``(B) for such cost reporting periods that begin on 
-                or after October 1, 2002, a reduction by 15 percent in 
-                such cost limits (as so in effect).
-            ``(2) Applicable amount defined.--In paragraph (1) the term 
-        `applicable amount' means, with respect to a fiscal year, the 
-        following amount:
-            ``(A) For fiscal year 2000, $19,000,000,000.
-            ``(B) For fiscal year 2001, $21,400,000,000.
-            ``(C) For fiscal year 2002, $23,100,000,000.''.
-    (b) Temporary Restoration of Periodic Interim Payment for Home 
-Health Services.--Section 1815(e)(2) of the Social Security Act (42 
-U.S.C. 1395g(e)(2)) is amended--
-            (1) in subparagraph (C), by striking ``and'' at the end;
-            (2) by redesignating subparagraph (D) as subparagraph (E); 
-        and
-            (3) by inserting after subparagraph (C) the following:
-            ``(D) home health services until the end of the 12-month 
-        period following the date that the prospective payment system 
-        for such services is implemented under section 1895; and''.
-
-SEC. 4. EFFECTIVE DATE.
-
-    The amendments made by this Act shall take effect as if included in 
-the enactment of the Balanced Budget Act of 1997.
+    Under the authority of section 534 of title 28, United States Code, 
+the Attorney General shall acquire data, for each calendar year, about 
+sexual offenses, including rape, that occur aboard aircraft.
                                  <all>

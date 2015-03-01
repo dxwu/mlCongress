@@ -1,481 +1,102 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 898 Introduced in Senate (IS)]
+[S. 898 Engrossed in Senate (ES)]
 
-
-
-
-
-
-
-105th CONGRESS
-  1st Session
+113th CONGRESS
+  2d Session
                                  S. 898
 
-    To amend the Internal Revenue Code of 1986 to simplify certain 
-        provisions applicable to real estate investment trusts.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                              June 12, 1997
-
-    Mr. Hatch  (for himself, Mr. Baucus, Mr. Mack, and Mr. D'Amato) 
-introduced the following bill; which was read twice and referred to the 
-                          Committee on Finance
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
-    To amend the Internal Revenue Code of 1986 to simplify certain 
-        provisions applicable to real estate investment trusts.
+ To authorize the Administrator of General Services to convey a parcel 
+  of real property in Albuquerque, New Mexico, to the Amy Biehl High 
+                           School Foundation.
 
     Be it enacted by the Senate and House of Representatives of the 
-United States of America in Congress assembled, 
+United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE; AMENDMENT OF 1986 CODE.
+SECTION 1. SHORT TITLE.
 
-    (a) Short Title.--This Act may be cited as the ``Real Estate 
-Investment Trust Tax Simplification Act of 1997''.
-    (b) Amendment of 1986 Code.--Except as otherwise expressly 
-provided, whenever in this Act an amendment or repeal is expressed in 
-terms of an amendment to, or repeal of, a section or other provision, 
-the reference shall be considered to be made to a section or other 
-provision of the Internal Revenue Code of 1986.
+    This Act may be cited as the ``Albuquerque, New Mexico, Federal 
+Land Conveyance Act of 2013''.
 
-              TITLE I--REMOVAL OF TAX TRAPS FOR THE UNWARY
+SEC. 2. DEFINITIONS.
 
-SEC. 101. CLARIFICATION OF LIMITATION ON MAXIMUM NUMBER OF 
-              SHAREHOLDERS.
+    In this Act:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of General Services.
+            (2) Federal land.--The term ``Federal land'' means the real 
+        property located in Albuquerque, New Mexico, that, as 
+        determined by the Administrator, subject to survey, generally 
+        consists of lots 12 through 19, and for the westerly boundary, 
+        the portion of either lot 19 or 20 which is the outside west 
+        wall of the basement level of the Old Post Office building, and 
+        which has a municipal address of 123 Fourth Street, SW, in 
+        Block 18, New Mexico Town Company's Original Townsite, 
+        Albuquerque, New Mexico.
+            (3) Foundation.--The term ``Foundation'' means the Amy 
+        Biehl High School Foundation.
 
-    (a) Rules Relating to Determination of Ownership.--
-            (1) Failure to issue shareholder demand letter not to 
-        disqualify reit.--Section 857(a) (relating to requirements 
-        applicable to real estate investment trusts) is amended by 
-        adding ``and'' at the end of paragraph (1), by striking 
-        paragraph (2), and by redesignating paragraph (3) as paragraph 
-        (2).
-            (2) Shareholder demand letter requirement; penalty.--
-        Section 857 (relating to taxation of real estate investment 
-        trusts and their beneficiaries) is amended by redesignating 
-        subsection (f) as subsection (g) and by inserting after 
-        subsection (e) the following new subsection:
-    ``(f) Real Estate Investment Trusts To Ascertain Ownership.--
-            ``(1) In general.--Each real estate investment trust shall 
-        each taxable year comply with regulations prescribed by the 
-        Secretary for the purposes of ascertaining the actual ownership 
-        of the outstanding shares, or certificates of beneficial 
-        interest, of such trust.
-            ``(2) Failure to comply.--
-                    ``(A) In general.--If a real estate investment 
-                trust fails to comply with the requirements of 
-                paragraph (1) for a taxable year, such trust shall pay 
-                (on notice and demand by the Secretary and in the same 
-                manner as tax) a penalty of $25,000.
-                    ``(B) Intentional disregard.--If any failure under 
-                paragraph (1) is due to intentional disregard of the 
-                requirement under paragraph (1), the penalty under 
-                subparagraph (A) shall be $50,000.
-                    ``(C) Failure to comply after notice.--The 
-                Secretary may require a real estate investment trust to 
-                take such actions as the Secretary determines 
-                appropriate to ascertain actual ownership if the trust 
-                fails to meet the requirements of paragraph (1). If the 
-                trust fails to take such actions, the trust shall pay 
-                (on notice and demand by the Secretary and in the same 
-                manner as tax) an additional penalty equal to the 
-                penalty determined under subparagraph (A) or (B), 
-                whichever is applicable.
-                    ``(D) Reasonable cause.--No penalty shall be 
-                imposed under this paragraph with respect to any 
-                failure if it is shown that such failure is due to 
-                reasonable cause and not to willful neglect.''
-    (b) Compliance With Closely Held Prohibition.--
-            (1) In general.--Section 856 (defining real estate 
-        investment trust) is amended by adding at the end the following 
-        new subsection:
-    ``(k) Requirement That Entity Not Be Closely Held Treated as Met in 
-Certain Cases.--A corporation, trust, or association--
-            ``(1) which for a taxable year meets the requirements of 
-        section 857(f)(1), and
-            ``(2) which does not know, or exercising reasonable 
-        diligence would not have known, whether the entity failed to 
-        meet the requirement of subsection (a)(6),
-shall be treated as having met the requirement of subsection (a)(6) for 
-the taxable year.''
-            (2) Conforming amendment.--Paragraph (6) of section 856(a) 
-        is amended by inserting ``subject to the provisions of 
-        subsection (k),'' before ``which is not''.
+SEC. 3. CONVEYANCE OF REAL PROPERTY IN ALBUQUERQUE, NEW MEXICO, TO THE 
+              AMY BIEHL HIGH SCHOOL FOUNDATION.
 
-SEC. 102. DE MINIMIS RULE FOR TENANT SERVICES INCOME.
+    (a) Conveyance.--Notwithstanding any other provision of law, not 
+later than 90 days after the date of enactment of this Act, the 
+Administrator shall offer to convey to the Foundation, by quitclaim 
+deed, all right, title, and interest of the United States in and to the 
+Federal land.
+    (b) Consideration.--As consideration for conveyance of the Federal 
+land under subsection (a), the Administrator shall require the 
+Foundation to pay to the Administrator consideration in an amount equal 
+to the fair market value of the Federal land, as determined based on an 
+appraisal that is acceptable to the Administrator.
+    (c) Costs of Conveyance.--The Foundation shall be responsible for 
+paying--
+            (1) the costs of an appraisal conducted under subsection 
+        (b); and
+            (2) any other costs relating to the conveyance of the 
+        Federal land under this Act.
+    (d) Proceeds.--
+            (1) Deposit.--Net proceeds received under subsection (b) 
+        shall be paid into the Federal Buildings Fund established under 
+        section 592 of title 40, United States Code.
+            (2) Expenditure.--Amounts paid into the Federal Buildings 
+        Fund under paragraph (1) shall be available to the 
+        Administrator, in amounts specified in appropriations Acts, for 
+        expenditure for any lawful purpose consistent with existing 
+        authorities granted to the Administrator, except that the 
+        Administrator shall provide to the Committee on Transportation 
+        and Infrastructure of the House of Representatives and the 
+        Committee on Environment and Public Works of the Senate 30 days 
+        advance written notice of any expenditure of the proceeds.
+    (e) Additional Terms and Conditions.--The Administrator may require 
+that any conveyance under subsection (a) be subject to such additional 
+terms and conditions as the Administrator considers appropriate to 
+protect the interests of the United States.
+    (f) Deadline.--The conveyance of the Federal land under this Act 
+shall occur not later than 3 years after the date of enactment of this 
+Act.
 
-    (a) In General.--Paragraph (2) of section 856(d) (defining rents 
-from real property) is amended by striking subparagraph (C) and the 
-last sentence and inserting:
-                    ``(C) any impermissible tenant service income (as 
-                defined in paragraph (7)).''
-    (b) Impermissible Tenant Service Income.--Section 856(d) is amended 
-by adding at the end the following new paragraph:
-            ``(7) Impermissible tenant service income.--For purposes of 
-        paragraph (2)(C)--
-                    ``(A) In general.--The term `impermissible tenant 
-                service income' means, with respect to any real or 
-                personal property, any amount received or accrued 
-                directly or indirectly by the real estate investment 
-                trust for--
-                            ``(i) services furnished or rendered by the 
-                        trust to the tenants of such property, or
-                            ``(ii) managing or operating such property.
-                    ``(B) Disqualification of all amounts where more 
-                than de minimis amount.--If the amount described in 
-                subparagraph (A) with respect to a property exceeds 1 
-                percent of all amounts received or accrued during such 
-                taxable year directly or indirectly by the real estate 
-                investment trust with respect to such property, the 
-                impermissible tenant service income of the trust with 
-                respect to the property shall include all such amounts.
-                    ``(C) Exceptions.--For purposes of subparagraph 
-                (A)--
-                            ``(i) services furnished or rendered, or 
-                        management or operation provided, through an 
-                        independent contractor from whom the trust 
-                        itself does not derive or receive any income 
-                        shall not be treated as furnished, rendered, or 
-                        provided by the trust, and
-                            ``(ii) there shall not be taken into 
-                        account any amount which would be excluded from 
-                        unrelated business taxable income under section 
-                        512(b)(3) if received by an organization 
-                        described in section 511(a)(2).
-                    ``(D) Amount attributable to impermissible 
-                services.--For purposes of subparagraph (A), the amount 
-                treated as received for any service (or management or 
-                operation) shall not be less than 150 percent of the 
-                direct cost of the trust in furnishing or rendering the 
-                service (or providing the management or operation).
-                    ``(E) Coordination with limitations.--For purposes 
-                of paragraphs (2) and (3) of subsection (c), amounts 
-                described in subparagraph (A) shall be included in the 
-                gross income of the corporation, trust, or 
-                association.''
+            Passed the Senate September 9, 2014.
 
-SEC. 103. ATTRIBUTION RULES APPLICABLE TO TENANT OWNERSHIP.
+            Attest:
 
-    Section 856(d)(5) (relating to constructive ownership of stock) is 
-amended by adding at the end the following: ``For purposes of paragraph 
-(2)(B), section 318(a)(3)(A) shall be applied under the preceding 
-sentence in the case of a partnership by taking into account only 
-partners who own (directly or indirectly) 25 percent or more of the 
-capital interest, or the profits interest, in the partnership.''
+                                                             Secretary.
+113th CONGRESS
 
-      TITLE II--CONFORMITY WITH REGULATED INVESTMENT COMPANY RULES
+  2d Session
 
-SEC. 201. CREDIT FOR TAX PAID BY REIT ON RETAINED CAPITAL GAINS.
+                                 S. 898
 
-    (a) General Rule.--Paragraph (3) of section 857(b) (relating to 
-capital gains) is amended by redesignating subparagraph (D) as 
-subparagraph (E) and by inserting after subparagraph (C) the following 
-new subparagraph:
-                    ``(D) Treatment by shareholders of undistributed 
-                capital gains.--
-                            ``(i) Every shareholder of a real estate 
-                        investment trust at the close of the trust's 
-                        taxable year shall include, in computing his 
-                        long-term capital gains in his return for his 
-                        taxable year in which the last day of the 
-                        trust's taxable year falls, such amount as the 
-                        trust shall designate in respect of such shares 
-                        in a written notice mailed to its shareholders 
-                        at any time prior to the expiration of 60 days 
-                        after the close of its taxable year (or mailed 
-                        to its shareholders with its annual report for 
-                        the taxable year), but the amount so includible 
-                        by any shareholder shall not exceed that part 
-of the amount subjected to tax in subparagraph (A)(ii) which he would 
-have received if all of such amount had been distributed as capital 
-gain dividends by the trust to the holders of such shares at the close 
-of its taxable year.
-                            ``(ii) For purposes of this title, every 
-                        such shareholder shall be deemed to have paid, 
-                        for his taxable year under clause (i), the tax 
-                        imposed by subparagraph (A)(ii) on the amounts 
-                        required by this subparagraph to be included in 
-                        respect of such shares in computing his long-
-                        term capital gains for that year; and such 
-                        shareholder shall be allowed credit or refund 
-                        as the case may be, for the tax so deemed to 
-                        have been paid by him.
-                            ``(iii) The adjusted basis of such shares 
-                        in the hands of the shareholder shall be 
-                        increased with respect to the amounts required 
-                        by this subparagraph to be included in 
-                        computing his long-term capital gains, by the 
-                        difference between the amount of such 
-                        includible gains and the tax deemed paid by 
-                        such shareholder in respect of such shares 
-                        under clause (ii).
-                            ``(iv) In the event of such designation, 
-                        the tax imposed by subparagraph (A)(ii) shall 
-                        be paid by the real estate investment trust 
-                        within 30 days after the close of its taxable 
-                        year.
-                            ``(v) The earnings and profits of such real 
-                        estate investment trust, and the earnings and 
-                        profits of any such shareholder which is a 
-                        corporation, shall be appropriately adjusted in 
-                        accordance with regulations prescribed by the 
-                        Secretary.
-                            ``(vi) As used in this subparagraph, the 
-                        terms `shares' and `shareholders' shall include 
-                        beneficial interests and holders of beneficial 
-                        interests, respectively.''
-    (b) Conforming Amendments.--
-            (1) Clause (i) of section 857(b)(7)(A) is amended by 
-        striking ``subparagraph (B)'' and inserting ``subparagraph (B) 
-        or (D)''.
-            (2) Clause (iii) of section 852(b)(3)(D) is amended by 
-        striking ``by 65 percent'' and all that follows and inserting 
-        ``by the difference between the amount of such includible gains 
-        and the tax deemed paid by such shareholder in respect of such 
-        shares under clause (ii).''
+_______________________________________________________________________
 
-SEC. 202. REDUCTION OF DISTRIBUTION REQUIREMENT.
+                                 AN ACT
 
-    Clauses (i) and (ii) of section 857(a)(1)(A) are each amended by 
-striking ``95 percent (90 percent for taxable years beginning before 
-January 1, 1980)'' and inserting ``90 percent''.
-
-                    TITLE III--OTHER SIMPLIFICATION
-
-SEC. 301. MODIFICATION OF EARNINGS AND PROFITS RULES FOR DETERMINING 
-              WHETHER REIT HAS EARNINGS AND PROFITS FROM NON-REIT YEAR.
-
-    Subsection (d) of section 857 is amended by adding at the end the 
-following new paragraph:
-            ``(3) Distributions to meet requirements of subsection 
-        (a)(2)(B).--Any distribution which is made in order to comply 
-        with the requirements of subsection (a)(2)(B)--
-                    ``(A) shall be treated for purposes of this 
-                subsection and subsection (a)(2)(B) as made from the 
-                earliest accumulated earnings and profits (other than 
-                earnings and profits to which subsection (a)(2)(A) 
-                applies) rather than the most recently accumulated 
-                earnings and profits, and
-                    ``(B) to the extent treated under subparagraph (A) 
-                as made from accumulated earnings and profits, shall 
-                not be treated as a distribution for purposes of 
-                subsection (b)(2)(B).''
-
-SEC. 302. TREATMENT OF FORECLOSURE PROPERTY.
-
-    (a) Grace Periods.--
-            (1) Initial period.--Paragraph (2) of section 856(e) 
-        (relating to special rules for foreclosure property) is amended 
-        by striking ``on the date which is 2 years after the date such 
-        trust acquired such property'' and inserting ``as of the close 
-        of the 3d taxable year following the taxable year in which such 
-        trust acquired such property''.
-            (2) Extension.--Paragraph (3) of section 856(e) is 
-        amended--
-                    (A) by striking ``or more extensions'' and 
-                inserting ``extension'', and
-                    (B) by striking the last sentence and inserting: 
-                ``Any such extension shall not extend the grace period 
-                beyond the close of the 3d taxable year following the 
-                last taxable year in the period under paragraph (2).''
-    (b) Revocation of Election.--Paragraph (5) of section 856(e) is 
-amended by striking the last sentence and inserting: ``A real estate 
-investment trust may revoke any such election for a taxable year by 
-filing the revocation (in the manner provided by the Secretary) on or 
-before the due date (including any extension of time) for filing its 
-return of tax under this chapter for the taxable year. If a trust 
-revokes an election for any property, no election may be made by the 
-trust under this paragraph with respect to the property for any 
-subsequent taxable year.''
-    (c) Certain Activities Not To Disqualify Property.--Paragraph (4) 
-of section 856(e) is amended by adding at the end the following new 
-flush sentence:
-        ``For purposes of subparagraph (C), property shall not be 
-        treated as used in a trade or business by reason of any 
-        activities of the real estate investment trust with respect to 
-        such property to the extent that such activities would not 
-        result in amounts received or accrued, directly or indirectly, 
-        with respect to such property being treated as other than rents 
-        from real property.''
-
-SEC. 303. SPECIAL FORECLOSURE RULE FOR HEALTH CARE PROPERTIES.
-
-    Section 856(e) (relating to special rules for foreclosure property) 
-is amended by adding at the end the following new paragraph:
-            ``(6) Special rule for qualified health care properties.--
-        For purposes of this subsection--
-                    ``(A) Acquisition by lease terminations.--The term 
-                `foreclosure property' shall include any qualified 
-                health care property acquired by a real estate 
-                investment trust as the result of the termination or 
-                expiration of a lease of such property.
-                    ``(B) Grace period.--In the case of a qualified 
-                health care property which is foreclosure property 
-                solely by reason of subparagraph (A), in lieu of 
-                applying paragraphs (2) and (3)--
-                            ``(i) the qualified health care property 
-                        shall cease to be foreclosure property on the 
-                        date which is 2 years after the date such trust 
-                        acquired such property, and
-                            ``(ii) if the real estate investment trust 
-                        establishes to the satisfaction of the 
-                        Secretary that an extension of the grace period 
-                        in clause (i) is necessary to the orderly 
-                        leasing or liquidation of the trust's interest 
-                        in such qualified health care property, the 
-                        Secretary may grant 1 or more extensions of the 
-                        grace period for such qualified health care 
-                        property.
-                Any such extension shall not extend the grace period 
-                beyond the date which is 6 years after the date such 
-                trust acquired such qualified health care property.
-                    ``(C) Income from independent contractors.--For 
-                purposes of applying paragraph (4)(C) with respect to 
-                qualified health care property which is foreclosure 
-                property, income derived or received by the trust from 
-                an independent contractor shall be disregarded to the 
-                extent such income is attributable to--
-                            ``(i) leases existing on the date the real 
-                        estate investment trust acquired the qualified 
-                        health care property, or
-                            ``(ii) leases extended or entered into 
-                        after the trust acquired such property from 
-                        lessees pursuant to terms set forth in such 
-                        existing leases or on terms under which the 
-                        trust receives a substantially similar or 
-                        lesser benefit in comparison to the previous 
-                        lease for such property.
-                    ``(D) Qualified health care property.--The term 
-                `qualified health care property' means any real 
-                property (including interests therein), and any 
-                personal property incident to such real property, 
-                which--
-                            ``(i) is a health care facility, or
-                            ``(ii) is necessary or incidental to the 
-                        use of a health care facility.
-                For purposes of the preceding sentence, the term 
-                `health care facility' means a hospital, nursing 
-                facility, assisted living facility, or other licensed 
-                health care facility which extends medical or nursing 
-                or ancillary services to patients and which, 
-                immediately before the termination, expiration, 
-                default, or breach of the lease of or mortgage secured 
-                by such facility, was operated by a provider of such 
-                services which was eligible for participation in the 
-                Medicare program under title XVIII of the Social 
-                Security Act with respect to such facility.''
-
-SEC. 304. PAYMENTS UNDER HEDGING INSTRUMENTS.
-
-    Section 856(c)(6)(G) (relating to treatment of certain interest 
-rate agreements) is amended to read as follows:
-                    ``(G) Treatment of certain hedging instruments.--
-                Except to the extent provided by regulations, any--
-                            ``(i) payment to a real estate investment 
-                        trust under an interest rate swap or cap 
-                        agreement, option, futures contract, forward 
-                        rate agreement, or any similar financial 
-                        instrument, entered into by the trust in a 
-                        transaction to reduce the interest rate risks 
-                        with respect to any indebtedness incurred or to 
-                        be incurred by the trust to acquire or carry 
-                        real estate assets, and
-                            ``(ii) gain from the sale or other 
-                        disposition of any instrument described in 
-                        clause (i),
-                shall be treated as income qualifying under paragraph 
-                (2).''
-
-SEC. 305. EXCESS NONCASH INCOME.
-
-    Section 857(e)(2) (relating to determination of amount of excess 
-noncash income) is amended--
-            (1) by striking subparagraph (B),
-            (2) by striking the period at the end of subparagraph (C) 
-        and inserting a comma,
-            (3) by redesignating subparagraph (C) (as amended by 
-        paragraph (2)) as subparagraph (B), and
-            (4) by adding at the end the following new subparagraphs:
-                    ``(C) the amount (if any) by which--
-                            ``(i) the amounts includible in gross 
-                        income with respect to instruments to which 
-                        section 860E(a) or 1272 applies, exceed
-                            ``(ii) the amount of money and the fair 
-                        market value of other property received during 
-                        the taxable year under such instruments, and
-                    ``(D) amounts includible in income by reason of 
-                cancellation of indebtedness.''
-
-SEC. 306. PROHIBITED TRANSACTION SAFE HARBOR.
-
-    (a) In General.--Clause (iii) of section 857(b)(6)(C) (relating to 
-certain sales not to constitute prohibited transactions) is amended by 
-striking ``(other than foreclosure property)'' each place it appears 
-and inserting ``(other than exempt property)''.
-    (b) Exempt Property.--Subparagraph (D) of section 857(b)(6) is 
-amended by adding at the end the following new clause:
-                            ``(viii) The term `exempt property' means--
-                                    ``(I) foreclosure property, and
-                                    ``(II) property which, while held 
-                                by the real estate investment trust, 
-                                was compulsorily or involuntarily 
-                                converted (within the meaning of 
-                                section 1033).''
-
-SEC. 307. SHARED APPRECIATION MORTGAGES.
-
-    (a) Bankruptcy Safe Harbor.--Section 856(j) (relating to treatment 
-of shared appreciation mortgages) is amended by redesignating paragraph 
-(4) as paragraph (5) and by inserting after paragraph (3) the following 
-new paragraph:
-            ``(4) Coordination with 4-year holding period.--
-                    ``(A) In general.--For purposes of section 
-                857(b)(6)(C), if a real estate investment trust is 
-                treated as having sold secured property under paragraph 
-                (3)(A), the trust shall be treated as having held such 
-                property for at least 4 years if--
-                            ``(i) the secured property is sold or 
-                        otherwise disposed of pursuant to a case under 
-                        title 11 of the United States Code,
-                            ``(ii) the seller is under the jurisdiction 
-                        of the court in such case, and
-                            ``(iii) the disposition is required by the 
-                        court or is pursuant to a plan approved by the 
-                        court.
-                    ``(B) Exception.--Subparagraph (A) shall not apply 
-                if--
-                            ``(i) the secured property was acquired by 
-                        the trust with the intent to evict or 
-                        foreclose, or
-                            ``(ii) the trust knew or had reason to know 
-                        that default on the obligation described in 
-                        paragraph (5)(A) would occur.''
-    (b) Clarification of Definition of Shared Appreciation Provision.--
-Clause (ii) of section 856(j)(5)(A) is amended by striking ``gain'' 
-each place it appears and inserting ``gain or appreciation in value''.
-
-SEC. 308. WHOLLY OWNED SUBSIDIARIES.
-
-    Section 856(i)(2) (defining qualified REIT subsidiary) is amended 
-by striking ``at all times during the period such corporation was in 
-existence''.
-
-                        TITLE IV--EFFECTIVE DATE
-
-SEC. 401. EFFECTIVE DATE.
-
-    The amendments made by this Act shall apply to taxable years 
-beginning after the date of the enactment of this Act.
-                                 <all>
+ To authorize the Administrator of General Services to convey a parcel 
+  of real property in Albuquerque, New Mexico, to the Amy Biehl High 
+                           School Foundation.

@@ -1,20 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3074 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 3074
 
-  To prohibit the Secretary of the Interior from issuing oil and gas 
-       leases on certain portions of the Outer Continental Shelf.
+To amend the Internal Revenue Code of 1986 to require the Secretary of 
+     the Treasury to notify the taxpayer each time the taxpayer's 
+        information is accessed by the Internal Revenue Service.
 
 
 _______________________________________________________________________
@@ -22,14 +17,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                           November 13, 1997
+                           September 10, 2013
 
-   Mr. Riggs (for himself, Mr. Bilbray, Mr. Cunningham, Mr. Farr of 
-  California, Mr. Filner, Ms. Harman, Ms. Lofgren, Ms. Roybal-Allard, 
- Mrs. Tauscher, Mr. Horn, Mr. LoBiondo, Mr. McDermott, Mr. Gilchrest, 
- Mr. Klug, Mrs. Mink of Hawaii, Mrs. Maloney of New York, Mr. Sherman, 
- Ms. Woolsey, Mr. Campbell, Mr. Bono, and Mr. Pallone) introduced the 
-    following bill; which was referred to the Committee on Resources
+Mr. Fincher (for himself and Mrs. Black) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
 
 _______________________________________________________________________
 
@@ -37,152 +28,106 @@ _______________________________________________________________________
 
 
  
-  To prohibit the Secretary of the Interior from issuing oil and gas 
-       leases on certain portions of the Outer Continental Shelf.
+To amend the Internal Revenue Code of 1986 to require the Secretary of 
+     the Treasury to notify the taxpayer each time the taxpayer's 
+        information is accessed by the Internal Revenue Service.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. PROHIBITION.
+SECTION 1. SHORT TITLE.
 
-    (a)(1) The Secretary of the Interior shall not issue a lease, 
-permit, or license for the exploration for or extraction of oil or gas 
-on or from submerged lands described in subsection (b).
-    (2)(A) No person shall explore for or extract oil or gas on or from 
-any area of the submerged lands described in subsection (b) after the 
-date of the cancellation, expiration, relinquishment, surrender, or 
-termination of a lease with respect to such area.
-    (B) Except as provided in subparagraph (A), this subsection shall 
-not prohibit exploration for or extraction of oil or gas on or from any 
-area of submerged lands under the terms of a lease, permit, or license 
-in effect on the date of enactment of this Act with respect to such 
-area.
-    (b)(1) The lands with respect to which subsection (a) applies shall 
-include--
-            (A) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Florida, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act, 
-        and all submerged lands south of 26 degrees north latitude and 
-        east of 86 degrees west longitude;
-            (B) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Georgia;
-            (C) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of South Carolina;
-            (D) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 175 miles of any 
-        point of the coast line of the State of North Carolina;
-            (E) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Virginia;
-            (F) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 50 miles of any 
-        point of the coast line of the State of Maryland, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (G) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Delaware, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (H) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 125 miles of any 
-        point of the coast line of the State of New Jersey, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (I) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 125 miles of any 
-        point of the coast line of the State of New York, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (J) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 125 miles of any 
-        point of the coast line of the State of Connecticut, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (K) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 125 miles of any 
-        point of the coast line of the State of Rhode Island, including 
-        areas with respect to which a moratorium on oil and gas 
-leasing activities existed before the date of enactment of this Act;
-            (L) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 50 miles of any 
-        point of the coast line of the State of Massachusetts, 
-        including areas with respect to which a moratorium on oil and 
-        gas leasing activities existed before the date of enactment of 
-        this Act, and lands within the 400 meter isobath surrounding 
-        Georges Bank, identified by the Department of the Interior as 
-        consisting of the following blocks: in protraction diagram NJ 
-        19-1, blocks numbered 12-16, 54-55 and 57-58; in protraction 
-        diagram NK 19-5, blocks numbered 744, 788, 831-832, and 1005-
-        1008; in protraction diagram NK 19-6, blocks numbered 489-491, 
-        532-537, 574-576, 578-581, 618-627, 661-662, 664-671, 705-716, 
-        749-761, 793-805, and 969-971; in protraction diagram NK 19-8, 
-        blocks numbered 37-40, 80-84, 124-127, and 168-169; in 
-        protraction diagram NK 19-9, blocks numbered 13-18, 58-63, 102-
-        105, 107-108, 146-149, 151-152, 191-193, 195-197, 235-237, 240-
-        242, 280-282, 284-286, 324-331, 368-376, 412-420, 456-465, 500-
-        510, 543-554, 587-594, 596-599, 631-637, 640-644, 675-688, 718-
-        733, 762-778, 805-821, 846-865, 887-891, 894-908, 930-950, and 
-        972-994; in protraction diagram NK 19-10, blocks numbered 474-
-        478, 516-524, 560-568, 604-612, 647-660, 692-704, 737-748, 787-
-        792, 830-836, 873-880, 967-968, and 1011-1012; in protraction 
-        diagram NK 19-11, blocks numbered 621-632, 665-676, 700, 709-
-        720, 744, 753-764, 785, 797-808, 825-827, 841-852, 856-860, 
-        869, 890-905, 907-909, 929-931, 941-945, 947-949, 973-975, and 
-        985-989; and in protraction diagram NK 19-12, blocks numbered 
-        452-456, 495-499, 536-537, 539-541, 575-577, 579-582, 617-621, 
-        623-624, 661-662, 664-665, and 705-706;
-            (M) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of New Hampshire;
-            (N) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Maine;
-            (O) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 145 miles of any 
-        point of the coast line of the State of California, including 
-        areas with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act;
-            (P) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Oregon;
-            (Q) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Washington; and
-            (R) all submerged lands seaward from the landward boundary 
-        of the Outer Continental Shelf that lie within 100 miles of any 
-        point of the coast line of the State of Alaska, including areas 
-        with respect to which a moratorium on oil and gas leasing 
-        activities existed before the date of enactment of this Act.
-    (2) The lands with respect to which subsection (a) applies shall 
-not include any portion of the Central or Western Gulf of Mexico 
-planning areas of the Department of the Interior.
-    (c)(1)(A) Notwithstanding section 5(a)(2) (A) and (B) of the Outer 
-Continental Shelf Lands Act (43 U.S.C. 1334(a)(2) (A) and (B)), the 
-Secretary of the Interior shall cancel any lease or permit in effect on 
-the date of enactment of this Act in areas described in subparagraph 
-(B), and such cancellation shall entitle the lessee to receive 
-compensation under section 5(a)(2)(C) of the Outer Continental Shelf 
-Lands Act (43 U.S.C. 1334(a)(2)(C)).
-    (B) The areas with respect to which subparagraph (A) applies are as 
-follows:
-            (i) Any lands south of 26 degrees north latitude and east 
-        of 86 degrees west longitude.
-            (ii) Any lands within the North Aleutian Basin planning 
-        area of the Department of the Interior.
-    (2) The Secretary of the Interior shall report to the Congress 
-within 9 months after the date of the enactment of this Act on 
-alternative options for compensating leaseholders on blocks numbered 
-204, 246, 247, 290, 291, 334, 335, 378, 379, 422, 423, 466, 467, 510, 
-511, 553, 554, 555, 597, 598, 599, 640, 641, and 642 on protraction 
-diagram NI 18-2 of the Universal Transverse Mercator Grid System, 
-assuming the compensation procedures outlined in section 5 of the Outer 
-Continental Shelf Lands Act (43 U.S.C. 1334). These options shall 
-include, to the extent practicable, credits in lieu of appropriations, 
-such as credits on Federal royalties on producing Outer Continental 
-Shelf leases.
+    This Act may be cited as the ``IRS Abuse Protection Act of 2013''.
+
+SEC. 2. NOTICE RELATING TO ACCESSING ACCOUNT, RETURN, OR RETURN 
+              INFORMATION.
+
+    (a) In General.--Section 6103 of the Internal Revenue Code of 1986 
+is amended by redesignating subsection (q) as subsection (r) and by 
+inserting after subsection (p) the following new subsection:
+    ``(q) Notice Relating to Accessing Account, Return, or Return 
+Information.--
+            ``(1) In general.--The Secretary shall provide notice, in 
+        writing, to a taxpayer any time the taxpayer's account, return, 
+        or return information is accessed by the Secretary.
+            ``(2) Special rules relating to investigations.--
+                    ``(A) Investigations by the secretary.--In the case 
+                of any civil or criminal investigation, the notice 
+                required by paragraph (1) shall be provided not later 
+                than 1 year after such investigation is closed.
+                    ``(B) Investigations by states.--In the case of any 
+                investigation by a State using information provided 
+                pursuant to subsection (d), the notice required by 
+                paragraph (1) shall be provided after the Secretary 
+                receives notice with respect to such investigation 
+                pursuant to subsection (d)(7). Notice provided pursuant 
+                to this subparagraph shall include all information 
+                provided to the Secretary pursuant to subsection 
+                (d)(7).
+            ``(3) Notice.--The notice required by paragraph (1) shall 
+        include the following:
+                    ``(A) Who accessed such account, return, or return 
+                information.
+                    ``(B) The purpose for which such account, return, 
+                or return information was accessed.
+                    ``(C) How such account, return, or return 
+                information was accessed.
+            ``(4) Copy of information accessed.--In addition to the 
+        notice required to be provided by paragraph (1), the Secretary 
+        shall provide with such notice a copy of all information 
+        accessed.
+            ``(5) Subsequent use of accessed information.--If a report 
+        or other use of an account, return, or return information for 
+        which notice is provided under paragraph (1) is made, the 
+        Secretary shall provide such report or a report of such use to 
+        the taxpayer.
+            ``(6) Taxpayer rights.--The Secretary shall include with 
+        each notice provided under this subsection a notice of taxpayer 
+        rights pursuant to the Taxpayer Bill of Rights 2.''.
+    (b) Availability of Inspector General for Tax Administration 
+Reports.--Section 7803(d) of the Internal Revenue Code of 1986 is 
+amended by adding at the end the following new paragraph:
+            ``(4) Availability of inspector general for tax 
+        administration reports.--If the Inspector General for Tax 
+        Administration investigates any unauthorized use a taxpayer's 
+        account, return, or return information, the Inspector General 
+        for Tax Administration shall notify the taxpayer of such 
+        investigation and provide full access to any report by the 
+        Inspector General for Tax Administration with respect to the 
+        investigation.''.
+    (c) State Access to Taxpayer Information.--Section 6103(d) of the 
+Internal Revenue Code of 1986 is amended by adding at the end the 
+following new paragraph:
+            ``(7) Submission of notification to secretary.--The 
+        Secretary may not provide any access or disclosure under the 
+        preceding paragraphs of this subsection until the entity to be 
+        provided access or disclosure agrees to notify the Secretary 
+        within 1 year after an investigation is closed the identity of 
+        who accessed such information, what was accessed, why it was 
+        accessed and how it was accessed.''.
+    (d) Reports of Unauthorized Access to Congress.--Section 6103(f) of 
+the Internal Revenue Code of 1986 is amended by adding at the end the 
+following new paragraph:
+            ``(6) Unauthorized access reports, etc.--Notwithstanding 
+        any other provision of this section, the Secretary with respect 
+        to Internal Revenue Service employees, and the Inspector 
+        General for Tax Administration with respect to any audit, shall 
+        submit to each member of the committees referred to in 
+        paragraph (1) any report of the Secretary or the Inspector 
+        General for Tax Administration, as the case may be, regarding 
+        unauthorized access, violation of rights, laws, or any rules or 
+        regulations of the Internal Revenue Service.''.
+    (e) Effective Dates.--
+            (1) Subsection (a).--The amendment made by subsection (a) 
+        shall apply with respect to information accessed after the date 
+        of the enactment of this Act.
+            (2) Subsection (b).--The amendment made by subsection (b) 
+        shall apply with respect to investigations closed after the 
+        date of the enactment of this Act.
+            (3) Subsection (c).--The amendment made by subsection (c) 
+        shall apply to access and disclosures after the date of the 
+        enactment of this Act.
+            (4) Subsection (d).--The amendment made by subsection (d) 
+        shall apply with respect to information accessed and reports 
+        prepared after the date of the enactment of this Act.
                                  <all>

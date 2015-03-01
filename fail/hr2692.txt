@@ -1,24 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2692 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2692
 
-    To combine the Consolidated Farm Service Agency and the Natural 
- Resources Conservation Service of the Department of Agriculture as a 
-   single agency under an Under Secretary of Agriculture for Foreign 
-Agriculture and Agricultural Field Services and to ensure the equitable 
-treatment of socially disadvantaged farmers and ranchers and employees 
-  of the Department who are members of a socially disadvantaged group.
+ To direct the Administrator of the Environmental Protection Agency to 
+take certain actions related to pesticides that may affect pollinators, 
+                        and for other purposes.
 
 
 _______________________________________________________________________
@@ -26,10 +17,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            October 22, 1997
+                             July 16, 2013
 
- Mr. Smith of Oregon introduced the following bill; which was referred 
-                    to the Committee on Agriculture
+ Mr. Conyers (for himself and Mr. Blumenauer) introduced the following 
+        bill; which was referred to the Committee on Agriculture
 
 _______________________________________________________________________
 
@@ -37,444 +28,106 @@ _______________________________________________________________________
 
 
  
-    To combine the Consolidated Farm Service Agency and the Natural 
- Resources Conservation Service of the Department of Agriculture as a 
-   single agency under an Under Secretary of Agriculture for Foreign 
-Agriculture and Agricultural Field Services and to ensure the equitable 
-treatment of socially disadvantaged farmers and ranchers and employees 
-  of the Department who are members of a socially disadvantaged group.
+ To direct the Administrator of the Environmental Protection Agency to 
+take certain actions related to pesticides that may affect pollinators, 
+                        and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+SECTION 1. SHORT TITLE.
 
-    (a) Short Title.--This Act may be cited as the ``Department of 
-Agriculture Civil Rights and Efficiency Act of 1997''.
-    (b) Table of Contents.--The table of contents of this Act is as 
-follows:
+    This Act may be cited as the ``Saving America's Pollinators Act of 
+2013''.
 
-Sec. 1. Short title; table of contents.
-           TITLE I--DEPARTMENT OF AGRICULTURE REORGANIZATION
+SEC. 2. FINDINGS.
 
-Sec. 101. Under Secretary of Agriculture for Foreign Agriculture and 
-                            Agricultural Field Services.
-Sec. 102. Under Secretary of Agriculture for Forestry.
-Sec. 103. Establishment of Farm Service Agency.
-Sec. 104. Personnel of Farm Service Agency.
-Sec. 105. Regulations regarding management of State, county, and area 
-                            offices of Farm Service Agency.
-TITLE II--IMPLEMENTATION OF RECOMMENDATIONS OF CIVIL RIGHTS ACTION TEAM
+            (1) Pollination services are a vital part of agricultural 
+        production, valued at over $125,000,000,000 globally and worth 
+        $20,000,000,000 to $30,000,000,000 in agricultural production 
+        annually in the United States.
+            (2) One-third of food produced in North America depends on 
+        pollination by honey bees, including nearly 95 varieties of 
+        fruits such as almonds, avocados, cranberries, and apples.
+            (3) Over the past several years, documented incidents of 
+        colony collapse disorder have been at a record high, with some 
+        beekeepers repeatedly losing 100 percent of their operations.
+            (4) During the winter beginning in 2012 and ending in 2013, 
+        United States beekeepers, on average, lost 45.1 percent of the 
+        colonies they operate.
+            (5) According to scientists of the Department of 
+        Agriculture, current estimates of the survivorship of honey bee 
+        colonies show they are too low to be able to meet the 
+        pollination demands of United States agricultural crops.
+            (6) Scientists have linked the use of systemic 
+        neonicotinoid insecticides to the rapid decline of pollinators 
+        and to the deterioration of pollinator health.
+            (7) Neonicotinoids cause sublethal effects including 
+        impaired foraging and feeding behavior, disorientation, 
+        weakened immunity, delayed larval development, and increased 
+        susceptibility to viruses, diseases, and parasites and numerous 
+        studies have also demonstrated acute, lethal effects from the 
+        application of neonicotinoid insecticides.
+            (8) Recent science has demonstrated that a single corn 
+        kernel coated with a neonicotinoid is toxic enough to kill a 
+        songbird.
+            (9) In June 2013, over 50,000 bumblebees were killed as a 
+        direct result of exposure to a neonicotinoid applied to Linden 
+        trees for cosmetic purposes.
+            (10) In January 2013, the European Food Safety Authority 
+        determined that the most widely used neonicotinoids pose 
+        unacceptable hazards to bees, prompting the European Union to 
+        suspend their use on agricultural crops.
 
-Sec. 201. Definitions.
-Sec. 202. Representation on county and area committees.
-Sec. 203. Authority of Secretary to remove members and employees of 
-                            county and area committees.
-Sec. 204. Office of Civil Rights Protection for Program Participants.
-Sec. 205. Prompt investigation of discrimination claims.
-Sec. 206. Approval by Secretary of legal settlements involving $25,000 
-                            or more.
-Sec. 207. Calculation of socially disadvantaged farmers and ranchers in 
-                            census of agriculture.
-Sec. 208. Study of recruitment and hiring practices regarding members 
-                            of socially disadvantaged groups.
-Sec. 209. Activities of Inspector General of the Department of 
-                            Agriculture.
-                       TITLE III--EFFECTIVE DATE
+SEC. 3. URGENT REGULATORY RESPONSE FOR HONEY BEE AND POLLINATOR 
+              PROTECTION.
 
-Sec. 301. Effective Date.
-
-           TITLE I--DEPARTMENT OF AGRICULTURE REORGANIZATION
-
-SEC. 101. UNDER SECRETARY OF AGRICULTURE FOR FOREIGN AGRICULTURE AND 
-              AGRICULTURAL FIELD SERVICES.
-
-    (a) Establishment.--There is established in the Department of 
-Agriculture the position of Under Secretary of Agriculture for Foreign 
-Agriculture and Agricultural Field Services. The Under Secretary shall 
-be appointed by the President, by and with the advice and consent of 
-the Senate.
-    (b) Functions of Under Secretary.--
-            (1) Principal functions.--The Secretary of Agriculture 
-        shall delegate to the Under Secretary of Agriculture for 
-        Foreign Agriculture and Agricultural Field Services those 
-        functions and duties performed, as of the effective date of 
-        this Act--
-                    (A) by the Under Secretary of Agriculture for Farm 
-                and Foreign Agricultural Services; and
-                    (B) by the Under Secretary of Agriculture for 
-                Natural Resources and Environment (other than the 
-                functions and duties of that Under Secretary related to 
-                the Forest Service).
-            (2) Additional functions.--The Under Secretary of 
-        Agriculture for Foreign Agriculture and Agricultural Field 
-        Services shall perform such other functions and duties as may 
-        be required by law or prescribed by the Secretary of 
-        Agriculture.
-    (c) Succession.--The person who is serving as Under Secretary of 
-Agriculture for Farm and Foreign Agricultural Services on the effective 
-date of this Act and who was appointed by the President, by and with 
-the advice and consent of the Senate, shall not be required to be 
-reappointed under subsection (a) to the successor position established 
-under this section if the person occupies the new position within 180 
-days after the effective date of this Act.
-    (d) Conforming Amendments.--
-            (1) Existing position.--Section 225 of the Department of 
-        Agriculture Reorganization Act of 1994 (7 U.S.C. 6931) is 
-        repealed.
-            (2) Executive schedule.--Section 5314 of title 5, United 
-        States Code, is amended by striking ``Under Secretary of 
-        Agriculture for Farm and Foreign Agricultural Services.'' and 
-        inserting ``Under Secretary of Agriculture for Agriculture and 
-        Agricultural Field Services.''.
-            (3) Cross reference.--Section 226A(d)(1) of the Department 
-        of Agriculture Reorganization Act of 1994 (7 U.S.C. 6933(d)(1)) 
-        is amended by striking ``Under Secretary of Agriculture for 
-        Farm and Foreign Agricultural Services'' and inserting ``Under 
-        Secretary of Agriculture for Foreign Agriculture and 
-        Agricultural Field Services''.
-
-SEC. 102. UNDER SECRETARY OF AGRICULTURE FOR FORESTRY.
-
-    (a) Establishment.--There is established in the Department of 
-Agriculture the position of Under Secretary of Agriculture for 
-Forestry. The Under Secretary shall be appointed by the President, by 
-and with the advice and consent of the Senate.
-    (b) Functions of Under Secretary.--
-            (1) Principal functions.--The Secretary of Agriculture 
-        shall delegate to the Under Secretary of Agriculture for 
-        Forestry those functions and duties performed, as of the 
-        effective date of this Act, by the Under Secretary of 
-        Agriculture for Natural Resources and Environment related to 
-        the Forest Service.
-            (2) Additional functions.--The Under Secretary of 
-        Agriculture for Forestry shall perform such other functions and 
-        duties as may be required by law or prescribed by the Secretary 
-        of Agriculture.
-    (c) Succession.--The person who is serving as Under Secretary of 
-Agriculture for Natural Resources and Environment on the effective date 
-of this Act and who was appointed by the President, by and with the 
-advice and consent of the Senate, shall not be required to be 
-reappointed under subsection (a) to the successor position established 
-under this section if the person occupies the new position within 180 
-days after the effective date of this Act.
-    (d) Conforming Amendments.--
-            (1) Existing position.--Section 245 of the Department of 
-        Agriculture Reorganization Act of 1994 (7 U.S.C. 6961) is 
-        repealed.
-            (2) Executive schedule.--Section 5314 of title 5, United 
-        States Code, is amended by striking ``Under Secretary of 
-        Agriculture for Natural Resources and Environment.'' and 
-        inserting ``Under Secretary of Agriculture for Forestry.''.
-
-SEC. 103. ESTABLISHMENT OF FARM SERVICE AGENCY.
-
-    (a) Establishment.--The Secretary of Agriculture shall establish 
-and maintain a Farm Service Agency in the Department of Agriculture.
-    (b) Functions of Farm Service Agency.--
-            (1) Principal functions.--The Secretary shall assign to the 
-        Farm Service Agency jurisdiction over the administrative, 
-        financial, and regulatory activities performed, as of the 
-        effective date of this Act--
-                    (A) by the Consolidated Farm Service Agency; and
-                    (B) by the Natural Resources Conservation Service, 
-                including the functions specified in section 246(b) of 
-                the Department of Agriculture Reorganization Act of 
-                1994 (7 U.S.C. 6962(b)), as in effect on the day before 
-                the effective date of this Act.
-            (2) Additional functions.--The Farm Service Agency shall 
-        perform such other administrative, financial, and regulatory 
-        activities as may be required by law or prescribed by the 
-        Secretary of Agriculture.
-    (c) Interagency Transfer of Records, Property, Personnel, and 
-Funds.--
-            (1) Related transfers.--Subject to paragraph (2), as part 
-        of the transfer of administrative, financial, and regulatory 
-        responsibilities to the Farm Service Agency under subsection 
-        (b), the Secretary of Agriculture shall transfer--
-                    (A) any of the records, property, or personnel 
-                affected by the transfer or delegation of the 
-                administrative, financial, and regulatory 
-                responsibilities; and
-                    (B) unexpended balances (available or to be made 
-                available for use in connection with the transferred or 
-                delegated administrative, financial, and regulatory 
-                responsibilities) of appropriations, allocations, or 
-                other funds of the Department.
-            (2) Applicable law relating to funds transfer.--Section 
-        1531 of title 31, United States Code, shall apply to any 
-        transfer of funds under paragraph (1).
-    (d) Conforming Amendments.--
-            (1) Consolidated Farm Service Agency.--Section 226 of the 
-        Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 
-        6932) is repealed.
-            (2) Natural Resources Conservation Service.--Section 246 of 
-        the Department of Agriculture Reorganization Act of 1994 (7 
-        U.S.C. 6962) is repealed.
-
-SEC. 104. PERSONNEL OF FARM SERVICE AGENCY.
-
-    (a) Use of Federal and Non-Federal Employees.--
-            (1) Use authorized.--In the implementation of programs and 
-        activities assigned to the Farm Service Agency, the Secretary 
-        of Agriculture may use interchangeably in local offices of the 
-        Agency both Federal employees of the Department of Agriculture 
-        and non-Federal employees of county and area committees 
-        established under section 8(b)(5) of the Soil Conservation and 
-        Domestic Allotment Act (16 U.S.C. 590h(b)(5)).
-            (2) Exception.--Notwithstanding paragraph (1), no personnel 
-        action (as defined in section 2302(a)(2)(A) of title 5, United 
-        States Code) may be taken with respect to a Federal employee 
-        unless such action is taken by another person who is a Federal 
-        employee or deemed to be a Federal employee under subsection 
-        (b).
-    (b) County Executive Director.--
-            (1) Management and supervisory duties.--The County 
-        Executive Director hired by a county or area committee 
-        established under section 8(b)(5) of the Soil Conservation and 
-        Domestic Allotment Act (16 U.S.C. 590h(b)(5)) shall be deemed 
-        to be a Federal employee for purposes of--
-                    (A) the management of local offices of the Farm 
-                Service Agency in that county or area; and
-                    (B) the supervision of personnel of the Farm 
-                Service Agency in that county or area, regardless of 
-                whether the personnel are Federal employees of the 
-                Department or non-Federal employees of that county or 
-                area committee.
-            (2) Regulations.--The Secretary of Agriculture shall issue 
-        regulations prescribing the manner in which, and the extent to 
-        which, the County Executive Director may carry out the 
-        management and supervisory responsibilities provided under 
-        paragraph (1).
-    (c) County Credit Responsibilities.--
-            (1) Assignment and duties.--In each county or area served 
-        by a county or area committee established under section 8(b)(5) 
-        of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 
-        590h(b)(5)), the Secretary of Agriculture shall assign a 
-        Federal employee of the Department of Agriculture to be 
-        responsible for making determinations in that county or area 
-        regarding the eligibility of persons for assistance under the 
-        agricultural credit programs administered by the Farm Service 
-        Agency related to farm ownership and operating, emergency, and 
-        disaster loans. The employee assigned must be qualified to 
-        perform such duties.
-            (2) Consultation.--The Federal employee assigned to an area 
-        or county shall carry out the employee's duties under paragraph 
-        (1) in consultation with the county or area committee for that 
-        county or area. However, the employee shall not otherwise be 
-        answerable to the county or area committee.
-            (3) Succession.--The Federal employee who, on the effective 
-        date of this Act, is performing the duties described in 
-        paragraph (1) in a county or area shall continue to perform 
-        such duties for that county or area unless and until the 
-        Secretary of Agriculture assigns a successor under paragraph 
-        (1).
-
-SEC. 105. REGULATIONS REGARDING MANAGEMENT OF STATE, COUNTY, AND AREA 
-              OFFICES OF FARM SERVICE AGENCY.
-
-    The Secretary of Agriculture shall issue regulations applicable to 
-State, county, and area offices of the Farm Service Agency to 
-prescribe--
-            (1) the management and administration of such offices; and
-            (2) the classification, employment, and personnel 
-        management of non-Federal employees of such offices carrying 
-        out programs and activities assigned to the Farm Service 
-        Agency.
-
-TITLE II--IMPLEMENTATION OF RECOMMENDATIONS OF CIVIL RIGHTS ACTION TEAM
-
-SEC. 201. DEFINITIONS.
-
-    For purposes of this title:
-            (1) Socially disadvantaged group.--The term ``socially 
-        disadvantaged group'' means a group whose members have been 
-        subjected to racial, ethnic, or gender prejudice because of 
-        their identity as members of a group without regard to their 
-        individual qualities.
-            (2) Socially disadvantaged farmer or rancher.--The term 
-        ``socially disadvantaged farmer or rancher'' means a farmer or 
-        rancher who is a member of a socially disadvantaged group.
-            (3) County or area committee.--The term ``county or area 
-        committee'' means a county or area committee established under 
-        section 8(b)(5) of the Soil Conservation and Domestic Allotment 
-        Act (16 U.S.C. 590h(b)(5)).
-
-SEC. 202. REPRESENTATION ON COUNTY AND AREA COMMITTEES.
-
-    Section 8(b)(5)(B) of the Soil Conservation and Domestic Allotment 
-Act (16 U.S.C. 590h(b)(5)(B)) is amended by striking clause (iv) and 
-inserting the following new clause:
-                    ``(iv) In addition to the members of a county or 
-                area committee elected by agricultural producers under 
-                clause (ii), the Secretary shall appoint two nonvoting 
-                members for each committee who shall serve as the 
-                Secretary's representatives on the committee. The 
-                members appointed under this clause shall advise the 
-                committee regarding the rules and policies of the 
-                Department to promote the interests of socially 
-                disadvantaged groups (as defined in section 201 of the 
-                Department of Agriculture Civil Rights and Efficiency 
-                Act of 1997). A member appointed under this clause 
-                shall submit to the Secretary a written report whenever 
-                the member believes the committee (or a member or 
-                employee of the committee) has violated such rules and 
-                policies or any other civil rights law.''.
-
-SEC. 203. AUTHORITY OF SECRETARY TO REMOVE MEMBERS AND EMPLOYEES OF 
-              COUNTY AND AREA COMMITTEES.
-
-    (a) Removal of Members for Cause.--Section 8(b)(5)(B)(v) of the 
-Soil Conservation and Domestic Allotment Act (16 U.S.C. 
-590h(b)(5)(B)(v)) is amended by adding at the end the following new 
-sentence: ``The Secretary may remove a member for cause on a charge of 
-misconduct, delinquency, or inefficiency.''.
-    (b) Orders for Employee Removal.--If the Secretary of Agriculture 
-makes a finding that an employee of a county or area committee has 
-discriminated against a socially disadvantaged farmer or rancher in 
-administering an activity or program of the Farm Service Agency or 
-otherwise violates a rule or policy of the Department of Agriculture, 
-the Secretary may order the county or area committee to remove the 
-employee or take other appropriate disciplinary action against the 
-employee.
-    (c) Effect of Failure to Comply.--If a county or area committee 
-fails to comply with an order issued under subsection (b) with respect 
-to disciplinary action to be taken against an employee of the county or 
-area committee, the Secretary may withhold from the funds otherwise 
-paid to the county or area committee or employees of the county or area 
-committee an amount equal to not more than two years' pay at the rate 
-the employee was receiving at the time of the order.
-
-SEC. 204. OFFICE OF CIVIL RIGHTS PROTECTION FOR PROGRAM PARTICIPANTS.
-
-    (a) Establishment.--The Secretary of Agriculture may establish an 
-Office of Civil Rights Protection for Program Participants under the 
-jurisdiction of the Assistant Secretary of Agriculture for 
-Administration.
-    (b) Enforcement.--Upon establishment, the Office shall be the 
-primary office of the Department of Agriculture responsible for 
-enforcing--
-            (1) the civil rights rules and practices of the Department 
-        of Agriculture to ensure the fair and equitable treatment of 
-        participants in programs and activities of the Department of 
-        Agriculture; and
-            (2) those rules and policies of the Department designed to 
-        promote the interests of such participants who are members of 
-        socially disadvantaged groups (including socially disadvantaged 
-        farmers and ranchers).
-    (c) Investigations.--Upon establishment, the Office shall be the 
-primary office of the Department responsible for investigating claims 
-submitted to the Secretary or otherwise brought to the attention of the 
-Secretary that a Federal employee of the Department or a non-Federal 
-employee of a county or area committee discriminated against a member 
-of a socially disadvantaged group in the operation of a program or 
-activity of the Department of Agriculture.
-
-SEC. 205. PROMPT INVESTIGATION OF DISCRIMINATION CLAIMS.
-
-    (a) Notice of Discrimination Claims.--If the administrative appeal 
-of an adverse decision of the Department of Agriculture contains an 
-allegation that an agency or employee of the Department or a non-
-Federal employee of a county or area committee discriminated against a 
-member of a socially disadvantaged group in the operation of a program 
-or activity of the Department, the Secretary of Agriculture shall be 
-notified in writing of the allegation as soon as possible.
-    (b) Initiation of Investigation.--Upon receipt of a notice under 
-subsection (a), the Secretary may assemble a team of employees of the 
-Department of Agriculture to investigate the actions of the agency, 
-Federal employee, or non-Federal employee against whom the allegation 
-of discrimination is raised. The Secretary shall make the decision 
-whether to assemble such a team as soon as possible after the receipt 
-of the notice.
-    (c) Considerations.--The purpose of an investigation under this 
-section is not to gather or consider evidence of discrimination. In the 
-case of a claim alleging that a member of a socially disadvantaged 
-group was denied participation in a Department program on account of 
-being a member of a socially disadvantaged group, the team shall 
-consider whether the member met the eligibility requirements for 
-participation in the program. In the case of other adverse decisions 
-involving a member of a socially disadvantaged group in which a claim 
-of discrimination is raised, the team shall consider whether the acts 
-or failure to act of the agency, employee, or non-Federal employee have 
-a legitimate basis.
-    (d) Time for Investigation.--The team assigned to investigate a 
-particular claim shall endeavor to complete its investigation within 30 
-days, but the team shall complete the investigation before a final 
-decision is made on the appeal. The results of each investigation shall 
-be submitted to the Secretary.
-
-SEC. 206. APPROVAL BY SECRETARY OF LEGAL SETTLEMENTS INVOLVING $25,000 
-              OR MORE.
-
-    Notwithstanding section 3702(a) of title 31, United States Code, if 
-the amount of a proposed settlement for a claim against the United 
-States Government is equal to $25,000 or more and the claim against the 
-United States arose out of an act or failure to act of an employee of 
-the Department of Agriculture or an employee of a county or area 
-committee, the claim may be settled only with the personal approval of 
-the Secretary of Agriculture.
-
-SEC. 207. CALCULATION OF SOCIALLY DISADVANTAGED FARMERS AND RANCHERS IN 
-              CENSUS OF AGRICULTURE.
-
-    Any census of agriculture undertaken under the authority of section 
-142 of title 13, United States Code, or any other provision of law 
-shall separately enumerate or sample each agricultural producer who is 
-a socially disadvantaged farmer or rancher.
-
-SEC. 208. STUDY OF RECRUITMENT AND HIRING PRACTICES REGARDING MEMBERS 
-              OF SOCIALLY DISADVANTAGED GROUPS.
-
-    (a) Study Required.--The Secretary of Agriculture shall conduct a 
-study of the recruitment and hiring practices of the Department of 
-Agriculture and county and area committees for the purpose of 
-developing recommendations for increasing the number of qualified 
-members of socially disadvantaged groups recruited for employment.
-    (b) Submission to Congress.--Not later than 60 days after the 
-effective date of this Act, the Secretary shall submit to Congress a 
-report containing the results of the study.
-
-SEC. 209. ACTIVITIES OF INSPECTOR GENERAL OF THE DEPARTMENT OF 
-              AGRICULTURE.
-
-    (a) Reoccurring review.--The Inspector General of the Department of 
-Agriculture shall include in each report required to be prepared by the 
-Inspector General under section 5 of the Inspector General Act of 1978 
-(Public Law 95-452; 5 U.S.C. App.) the following:
-            (1) An audit of the civil rights rules and practices of the 
-        Department of Agriculture and rules and policies of the 
-        Department designed to promote the interests of socially 
-        disadvantaged groups, the implementation of such rules and 
-        practices during the period covered by the report, and 
-        enforcement actions undertaken or underway during that period 
-        regarding violations of such rules and practices.
-            (2) An audit of each legal settlement involving the 
-        Department of Agriculture that was entered into during the 
-        period covered by the report to determine whether--
-                    (A) the settlement was appropriate given the facts 
-                of the claim; and
-                    (B) the process by which the claim was investigated 
-                and settled was timely.
-    (b) Review of Nepotism and Conflicts of Interest.--Not later than 
-60 days after the effective date of this Act, the Inspector General of 
-the Department of Agriculture shall submit to Congress a report 
-regarding the extent to which nepotism and conflicts of interest occur 
-in the administration of Department of Agriculture programs. The 
-Inspector General shall base the report on an audit of randomly 
-selected State and local offices of the Department.
-
-                       TITLE III--EFFECTIVE DATE
-
-SEC. 301. EFFECTIVE DATE.
-
-    (a) Effective Date.--Except as provided in subsection (b), this Act 
-and the amendments made by this Act shall take effect 120 days after 
-the date of the enactment of this Act.
-    (b) Activities in Anticipation of Effective Date.--Beginning on the 
-date of the enactment of this Act, the Secretary of Agriculture shall 
-take such actions as the Secretary considers necessary to ensure the 
-prompt implementation of this Act and the amendments made by this Act 
-upon the effective date of this Act. Such actions may include the 
-commencement of rule making and the selection of persons to serve in 
-positions created by this Act.
+    (a) In General.--Not later than 180 days after the date of the 
+enactment of this Act, the Administrator of the Environmental 
+Protection Agency shall suspend the registration of imidacloprid, 
+clothianidin, thiamethoxam, dinotafuran, and any other members of the 
+nitro group of neonicotinoid insecticides to the extent such 
+insecticide is registered, conditionally or otherwise, under the 
+Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et 
+seq.) for use in seed treatment, soil application, or foliar treatment 
+on bee attractive plants, trees, and cereals until the Administrator 
+has made a determination that such insecticide will not cause 
+unreasonable adverse effects on pollinators based on--
+            (1) an evaluation of the published and peer-reviewed 
+        scientific evidence on whether the use or uses of such 
+        neonicotinoids cause unreasonable adverse effects on 
+        pollinators, including native bees, honey bees, birds, bats, 
+        and other species of beneficial insects; and
+            (2) a completed field study that meets the criteria 
+        required by the Administrator and evaluates residues, including 
+        residue build-up after repeated annual application, chronic 
+        low-dose exposure, cumulative effects of multiple chemical 
+        exposures, and any other protocol determined to be necessary by 
+        the Administrator to protect managed and native pollinators.
+    (b) Conditions on Certain Pesticides Registrations.--
+Notwithstanding section 3 of the Federal Insecticide, Fungicide, and 
+Rodenticide Act (7 U.S.C. 136a), for purposes of the protection of 
+honey bees, other pollinators, and beneficial insects, the 
+Administrator of the Environmental Protection Agency shall not issue 
+any new registrations, conditional or otherwise, for any seed 
+treatment, soil application, and foliar treatment on bee attractive 
+plants, trees, and cereals under such Act until the Administrator has 
+made the determination described in subsection (a), based on an 
+evaluation described in subsection (a)(1) and a completed field study 
+described in subsection (a)(2), with respect to such insecticide.
+    (c) Monitoring of Native Bees.--The Secretary of the Interior, in 
+coordination with the Administrator of the Environmental Protection 
+Agency, shall, for purposes of protecting and ensuring the long-term 
+viability of native bees and other pollinators of agricultural crops, 
+horticultural plants, wild plants, and other plants--
+            (1) regularly monitor the health and population status of 
+        native bees, including the status of native bees in 
+        agricultural and non-agricultural habitats and areas of 
+        ornamental plants, residential areas, and landscaped areas;
+            (2) identify the scope and likely causes of unusual native 
+        bee mortality; and
+            (3) beginning not later than 180 days after the date of the 
+        enactment of this Act and each year thereafter, submit to 
+        Congress, and make available to the public, a report on such 
+        health and population status.
                                  <all>
