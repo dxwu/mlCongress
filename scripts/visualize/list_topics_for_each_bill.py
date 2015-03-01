@@ -12,7 +12,7 @@ if __name__=='__main__':
 	print "Top 2 topics for 50 bills\n"
 
 	count = 0
-	for document in open('./topic_dist.txt'):
+	for document in open('../../topic_dist.txt'):
 		if (count % 10 != 0):
 			count = count + 1
 			continue;

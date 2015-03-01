@@ -37,7 +37,7 @@ function get_text
         typ=${bill//[!A-z]/}    # bill type
 
         # text locations base url
-        dirURL="Congress/${cong}/bills/${typ}/${bill}/text-versions"
+        dirURL="../Congress/${cong}/bills/${typ}/${bill}/text-versions"
 
         # look at each version of text
         for ver in $(find ${loc}/${dirURL}/* -type d)

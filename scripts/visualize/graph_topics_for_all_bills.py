@@ -12,7 +12,7 @@ if __name__=='__main__':
 	print "%topic distributions for 50 bills\n"
 	print "y = [",
 	count = 0
-	for document in open('./topic_dist.txt'):
+	for document in open('../../topic_dist.txt'):
 		if (count % 10 != 0):
 			count = count + 1
 			continue;

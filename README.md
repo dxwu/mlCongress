@@ -4,9 +4,11 @@ Barry Chen, Vivian Hu, David Wu
 
 ### Overview
 
-Use billStatus.sh to separate bills into ones that passed and ones that did not pass
+Use scripts/billStatus.sh to separate bills into ones that passed and ones that did not pass
+	This produces files in the billsStatus directory
 
-Use get_texts.sh to get the bill texts for each category
+Use scripts/get_texts.sh to get the bill texts for each category
+	This produces the files in the pass and fail directory
 
 Use extract_words.py to generate a vocabulary for the bills
 
@@ -21,6 +23,8 @@ Use lda.m to generate topics:
 			(each row is a document [pass documents first, then fail documents], with each entry the P(topic | document))
 		word_dist: for each topic, the probablity that word will be in it 
 			(each row is a topic, with each entry the P(word | topic))
+
+Use scripts/visualize/graph*.py, scripts/visualize/list*.py to graph probability distributions for LDA results.
 
 ### Python Enviornment Setup
 

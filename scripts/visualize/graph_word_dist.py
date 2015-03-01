@@ -24,11 +24,11 @@ def printTop50 (top50words):
 	print "];"
 
 if __name__=='__main__':
-	numwords = int(re.sub('[^0-9a-zA-Z]+', '', open('./vocab_length.txt').read()))
+	numwords = int(re.sub('[^0-9a-zA-Z]+', '', open('../../vocab_length.txt').read()))
 	total_probability_for_word = np.zeros(numwords)
 	num_lines = 0
 
-	for line in open('./word_dist.txt'):
+	for line in open('../../word_dist.txt'):
 		probabilities = line.split(',')
 		count = 0;
 		for p in probabilities:
@@ -40,7 +40,7 @@ if __name__=='__main__':
 
 	# read in vocab, map ids to words
 	words = [None]*numwords
-	for line in open('./vocab.txt'):
+	for line in open('../../vocab.txt'):
 		id_to_word = line.split(':')
 		words[int(id_to_word[0]) - 1] = id_to_word[1].strip() #words[id] = word
 
@@ -53,7 +53,7 @@ if __name__=='__main__':
 
 	# generate a graph for each topic
 	topicCount = 0
-	for line in open('./word_dist.txt'):
+	for line in open('../../word_dist.txt'):
 		probabilities = line.split(',')
 		print "figure"
 		print "x = 1:1:50;"
