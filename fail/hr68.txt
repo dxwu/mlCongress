@@ -1,22 +1,18 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 68 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  H. R. 68
 
-To amend title II of the Social Security Act to provide that a monthly 
- insurance benefit thereunder shall be paid for the month in which the 
- recipient dies, subject to a reduction of 50 percent if the recipient 
-  dies during the first 15 days of such month, and for other purposes.
+   To provide that no Federal funds may be used by the Secretary of 
+   Homeland Security to approve a site security plan for a chemical 
+ facility, unless the facility meets or exceeds security standards and 
+    requirements to protect the facility against acts of terrorism 
+ established for such a facility by the State or local government for 
+    the area where the facility is located, and for other purposes.
 
 
 _______________________________________________________________________
@@ -24,14 +20,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            January 7, 1997
+                            January 3, 2013
 
-  Mr. Holden (for himself, Mr. Bereuter, Mr. Borski, Mr. Boucher, Ms. 
-Brown of Florida, Mr. Condit, Mr. DeFazio, Mr. Dellums, Mr. Evans, Mr. 
-  Frost, Mr. Green, Ms. Eddie Bernice Johnson of Texas, Mr. Lewis of 
-  Georgia, Ms. McKinney, Mr. Stupak, Mr. Owens, and Mr. Smith of New 
-   Jersey) introduced the following bill; which was referred to the 
-                      Committee on Ways and Means
+ Ms. Jackson Lee introduced the following bill; which was referred to 
+the Committee on Energy and Commerce, and in addition to the Committee 
+on Homeland Security, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
 
 _______________________________________________________________________
 
@@ -39,162 +34,67 @@ _______________________________________________________________________
 
 
  
-To amend title II of the Social Security Act to provide that a monthly 
- insurance benefit thereunder shall be paid for the month in which the 
- recipient dies, subject to a reduction of 50 percent if the recipient 
-  dies during the first 15 days of such month, and for other purposes.
+   To provide that no Federal funds may be used by the Secretary of 
+   Homeland Security to approve a site security plan for a chemical 
+ facility, unless the facility meets or exceeds security standards and 
+    requirements to protect the facility against acts of terrorism 
+ established for such a facility by the State or local government for 
+    the area where the facility is located, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Social Security Benefits Fairness 
-Act of 1997''.
+    This Act may be cited as the ``Chemical Facility Security 
+Improvement Act of 2013''.
 
-SEC. 2. COMPUTATION AND PAYMENT OF LAST MONTHLY PAYMENT.
+SEC. 2. PERFORMANCE STANDARDS FOR SECURITY OF CHEMICAL FACILITIES.
 
-    (a) Old-Age and Survivors Insurance Benefits.--Section 202 of the 
-Social Security Act (42 U.S.C. 402) is amended by adding at the end the 
-following new subsection:
-
-    ``Last Payment of Monthly Insurance Benefit Terminated by Death
-
-    ``(y)(1) In any case in which an individual dies during the first 
-15 days of a calendar month, the amount of such individual's monthly 
-insurance benefit under this section paid for such month shall be an 
-amount equal to 50 percent of the amount of such benefit (as determined 
-without regard to this subsection), rounded, if not a multiple of $1, 
-to the next lower multiple of $1. This subsection shall apply with 
-respect to such benefit after all other adjustments with respect to 
-such benefit provided by this title have been made.
-    ``(2) Any payment of an individual's benefit under this section for 
-the month in which such individual dies shall be made in accordance 
-with section 204(d).''.
-    (b) Disability Insurance Benefits.--Section 223 of such Act (42 
-U.S.C. 423) is amended by adding at the end the following new 
-subsection:
-
-             ``Last Payment of Benefit Terminated by Death
-
-    ``(j)(1) In any case in which an individual dies during the first 
-15 days of a calendar month, the amount of such individual's monthly 
-insurance benefit under this section paid for such month shall be an 
-amount equal to 50 percent of the amount of such benefit (as determined 
-without regard to this subsection), rounded, if not a multiple of $1, 
-to the next lower multiple of $1. This subsection shall apply with 
-respect to such benefit after all other adjustments with respect to 
-such benefit provided by this title have been made.
-    ``(2) Any payment of an individual's benefit under this section for 
-the month in which such individual dies shall be made in accordance 
-with section 204(d).''.
-    (c) Benefits at Age 72 for Certain Uninsured Individuals.--Section 
-228 of such Act (42 U.S.C. 428) is amended by adding at the end the 
-following new subsection:
-
-             ``Last Payment of Benefit Terminated by Death
-
-    ``(i)(1) In any case in which an individual dies during the first 
-15 days of a calendar month, the amount of such individual's monthly 
-insurance benefit under this section paid for such month shall be an 
-amount equal to 50 percent of the amount of such benefit (as determined 
-without regard to this subsection), rounded, if not a multiple of $1, 
-to the next lower multiple of $1. This subsection shall apply with 
-respect to such benefit after all other adjustments with respect to 
-such benefit provided by this title have been made.
-    ``(2) Any payment of an individual's benefit under this section for 
-the month in which such individual dies shall be made in accordance 
-with section 204(d).''.
-
-SECTION 3. CONFORMING AMENDMENTS REGARDING PAYMENT OF BENEFITS FOR 
-              MONTH OF RECIPIENT'S DEATH.
-
-    (a) Old-Age Insurance Benefits.--Section 202(a) of the Social 
-Security Act (42 U.S.C. 402(a)) is amended by striking ``the month 
-preceding'' in the matter following subparagraph (B).
-    (b) Wife's Insurance Benefits.--
-            (1) In general.--Section 202(b)(1) of such Act (42 U.S.C. 
-        402(b)(1)) is amended--
-                    (A) by striking ``and ending with the month'' in 
-                the matter immediately following clause (ii) and 
-                inserting ``and ending with the month in which she dies 
-                or (if earlier) with the month'';
-                    (B) by striking subparagraph (E); and
-                    (C) by redesignating subparagraphs (F) through (K) 
-                as subparagraphs (E) through (J), respectively.
-            (2) Conforming amendment.--Section 202(b)(5)(B) of such Act 
-        (42 U.S.C. 402(b)(5)(B)) is amended by striking ``(E), (F), 
-        (H), or (J)'' and inserting ``(E), (G), or (I)''.
-    (c) Husband's Insurance Benefits.--
-            (1) In general.--Section 202(c)(1) of such Act (42 U.S.C. 
-        402(c)(1)) is amended--
-                    (A) by striking ``and ending with the month'' in 
-                the matter immediately following clause (ii) and 
-                inserting ``and ending with the month in which he dies 
-                or (if earlier) with the month'';
-                    (B) by striking subparagraph (E); and
-                    (C) by redesignating subparagraphs (F) through (K) 
-                as subparagraphs (E) through (J), respectively.
-            (2) Conforming amendment.--Section 202(c)(5)(B) of such Act 
-        (42 U.S.C. 402(c)(5)(B)) is amended by striking ``(E), (F), 
-        (H), or (J)'' and inserting ``(E), (G), or (I)''.
-    (d) Child's Insurance Benefits.--Section 202(d)(1) of such Act (42 
-U.S.C. 402(d)(1)) is amended--
-            (1) by striking ``and ending with the month'' in the matter 
-        immediately preceding subparagraph (D) and inserting ``and 
-        ending with the month in which such child dies or (if earlier) 
-        with the month''; and
-            (2) by striking ``dies, or'' in subparagraph (D).
-    (e) Widow's Insurance Benefits.--Section 202(e)(1) of such Act (42 
-U.S.C. 402(e)(1)) is amended by striking ``ending with the month 
-preceding the first month in which any of the following occurs: she 
-remarries, dies,'' in the matter following subparagraph (F) and 
-inserting ``ending with the month in which she dies or (if earlier) 
-with the month preceding the first month in which any of the following 
-occurs: she remarries, or''.
-    (f) Widower's Insurance Benefits.--Section 202(f)(1) of such Act 
-(42 U.S.C. 402(f)(1)) is amended by striking ``ending with the month 
-preceding the first month in which any of the following occurs: he 
-remarries, dies,'' in the matter following subparagraph (F) and 
-inserting ``ending with the month in which he dies or (if earlier) with 
-the month preceding the first month in which any of the following 
-occurs: he remarries,''.
-    (g) Mother's and Father's Insurance Benefits.--Section 202(g)(1) of 
-such Act (42 U.S.C. 402(g)(1)) is amended--
-            (1) by inserting ``with the month in which he or she dies 
-        or (if earlier)'' after ``and ending'' in the matter following 
-        subparagraph (F); and
-            (2) by striking ``he or she remarries, or he or she dies'' 
-        and inserting ``or he or she remarries''.
-    (h) Parent's Insurance Benefits.--Section 202(h)(1) of such Act (42 
-U.S.C. 402(h)(1)) is amended by striking ``ending with the month 
-preceding the first month in which any of the following occurs: such 
-parent dies, marries,'' in the matter following subparagraph (E) and 
-inserting ``ending with the month in which such parent dies or (if 
-earlier) with the month preceding the first month in which any of the 
-following occurs: such parent marries,''.
-    (i) Disability Insurance Benefits.--Section 223(a)(1) of such Act 
-(42 U.S.C. 423(a)(1)) is amended by striking ``ending with the month 
-preceding whichever of the following months is the earliest: the month 
-in which he dies,'' in the matter following subparagraph (D) and 
-inserting the following: ``ending with the month in which he dies or 
-(if earlier) with whichever of the following months is the earliest:''.
-    (j) Benefits at Age 72 for Certain Uninsured Individuals.--Section 
-228(a) of such Act (42 U.S.C. 428(a)) is amended by striking ``the 
-month preceding'' in the matter following paragraph (4).
-    (k) Exemption From Maximum Benefit Cap.--Section 203 of such Act 
-(42 U.S.C. 403 is amended by adding at the end the following new 
-subsection:
-
-                  ``Exemption From Maximum Benefit Cap
-
-    ``(m) Notwithstanding any other provision of this section, the 
-application of this section shall be made without regard to any benefit 
-of an individual under section 202, 223, or 228 for the month in which 
-such individual dies.''.
-
-SEC. 4. EFFECTIVE DATE.
-
-    The amendments made by this Act shall apply with respect to deaths 
-occurring after 180 days after the date of the enactment of this Act.
+    (a) Limitation on Use of Funds.--
+            (1) Limitation.--No Federal funds may be used by the 
+        Secretary of Homeland Security to approve a site security plan 
+        for a chemical facility unless the facility meets or exceeds 
+        security standards and requirements to protect the facility 
+        against acts of terrorism established for such a facility by 
+        the State or local government for the area where the facility 
+        is located.
+            (2) Definitions.--In this subsection, each of the terms 
+        ``site security plan'' and ``chemical facility'' has the 
+        meaning that the term has in section 550 of the Department of 
+        Homeland Security Appropriations Act, 2007 (Public Law 109-295; 
+        120 Stat. 1388), as amended by this Act.
+    (b) Amendments to Existing Law Relating to Approval of Security 
+Plans.--Section 550 of the Department of Homeland Security 
+Appropriations Act, 2007 (Public Law 109-295; 120 Stat. 1388) is 
+amended--
+            (1) in subsection (a)--
+                    (A) by inserting ``from a terrorist attack'' after 
+                ``shall issue interim final regulations establishing 
+                risk-based performance standards for security of 
+                chemical facilities'';
+                    (B) by inserting ``of a terrorist attack'' after 
+                ``in the discretion of the Secretary, present high 
+                levels of security risk''; and
+                    (C) by striking ``the Secretary may not disapprove 
+                a site security plan submitted under this section based 
+                on the presence or absence of a particular security 
+                measure, but'';
+            (2) in subsection (c)--
+                    (A) by striking ``consistent with similar'' and 
+                inserting ``identical to'';
+                    (B) by striking ``vulnerability assessments, site 
+                security plans, and other information submitted to or 
+                obtained by the Secretary under this section, and 
+                related vulnerability or security information,'' and 
+                inserting ``vulnerability assessments and site security 
+                plans''; and
+                    (C) by striking ``classified material'' and 
+                inserting ``sensitive security information (as that 
+                term is used in section 1520.5 of title 49, Code of 
+                Federal Regulations)''; and
+            (3) in subsection (d), by striking: ``: Provided, That 
+        nothing in this section confers upon any person except the 
+        Secretary a right of action against an owner or operator of a 
+        chemical facility to enforce any provision of this section.''.
                                  <all>

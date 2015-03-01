@@ -1,20 +1,13 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3551 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 3551
 
-To amend title 18, United States Code, relating to identity fraud, and 
-                          for other purposes.
+   To require the periodic inspection of certain railroad facilities.
 
 
 _______________________________________________________________________
@@ -22,13 +15,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 25, 1998
+                           November 20, 2013
 
- Ms. DeLauro introduced the following bill; which was referred to the 
-    Committee on the Judiciary, and in addition to the Committee on 
-  Transportation and Infrastructure, for a period to be subsequently 
-   determined by the Speaker, in each case for consideration of such 
- provisions as fall within the jurisdiction of the committee concerned
+ Mr. Andrews introduced the following bill; which was referred to the 
+             Committee on Transportation and Infrastructure
 
 _______________________________________________________________________
 
@@ -36,133 +26,42 @@ _______________________________________________________________________
 
 
  
-To amend title 18, United States Code, relating to identity fraud, and 
-                          for other purposes.
+   To require the periodic inspection of certain railroad facilities.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Identity Piracy Act of 1998''.
+    This Act may be cited as the ``Railway Inspection and Transparency 
+Act''.
 
-SEC. 2. IDENTITY THEFT AND DECEPTIVE ASSUMPTION.
+SEC. 2. INSPECTION OF RAILROAD FACILITIES.
 
-    (a) Establishment of Offense.--Chapter 47 of title 18, United 
-States Code, is amended by adding at the end the following:
-``Sec. 1036. Identity theft and deceptive assumption
-    ``(a) Prohibition.--Whoever knowingly and with intent to deceive or 
-defraud--
-            ``(1) obtains or transfers, or attempts to obtain or 
-        transfer, any personal identifier, identification device, 
-        personal information or data, or other document or means of 
-        identification of any other entity or person;
-            ``(2) possesses or uses, or attempts to possess or use, any 
-        personal identifier, identification device, personal 
-        information or data, or other document or means of 
-        identification of any entity or person; or
-            ``(3) assumes or uses, or attempts to assume or use, the 
-        identity of any other entity or person;
-shall, if the offense affects interstate or foreign commerce, be 
-punished as provided in subsection (c) of this section.
-    ``(b) Conspiracy.--Whoever is a party to a conspiracy of 2 or more 
-persons to commit an offense under subsection (a), if any of the 
-parties engages in any conduct in furtherance of such offense, shall be 
-fined an amount not greater than the amount provided as the maximum 
-fine for such offense under subsection (c) of this section or 
-imprisoned not longer than one-half the period provided as the maximum 
-imprisonment for such offense under subsection (c) of this section, or 
-both.
-    ``(c) Punishment; Restitution.--
-            ``(1) Punishment.--The punishment for an offense under 
-        subsection (a) or (b) is a fine under this title or 
-        imprisonment for not more than 20 years, or both.
-            ``(2) Restitution.--In sentencing any defendant convicted 
-        of an offense under this section, the court may order, in 
-        addition to or in lieu of any other penalty authorized by law, 
-        that the defendant make restitution to any victim of the 
-        offense. Such restitution may include payment for any costs, 
-        including attorney's fees, incurred by any victim in clearing 
-        any credit history or rating relating to the victim, as well as 
-        any civil or administrative proceeding required to clear any 
-        debt, lien, or other obligation arising as a result of the 
-        defendant's activity.
-    ``(d) Investigative Authority.--In addition to any other agency 
-having such authority, the United States Secret Service may investigate 
-any offense under this section, except that the exercise of 
-investigative authority under this paragraph shall be subject to the 
-terms of an agreement, which shall be entered into by the Secretary of 
-the Treasury and the Attorney General.
-    ``(e) Definitions.--As used in this section--
-            ``(1) the term `means of identification' means any name or 
-        number that may be used, alone or in conjunction with any other 
-        information, to assume the identity of an individual, including 
-        any--
-                    ``(A) personal identification card (as that term is 
-                defined in section 1028); or
-                    ``(B) access device, counterfeit access device, or 
-                unauthorized access device (as those terms are defined 
-                in section 1029);
-            ``(2) the term `personal identifier' means--
-                    ``(A) a name, social security number, date of 
-                birth, official State or government issued driver's 
-                license or identification number, alien registration 
-                number, government passport number, employer or 
-                taxpayer identification number, or any access device 
-                (as that term is defined in section 1029);
-                    ``(B) any unique biometric data, such as a 
-                fingerprint, voice print, retina or iris image, or 
-                other unique physical representation;
-                    ``(C) any unique electronic identification number, 
-                address, or routing code; or
-                    ``(D) any other means of identification not 
-                lawfully issued to the user;
-            ``(3) the term `identification device' means any physical, 
-        mechanical, or electronic representation of a personal 
-        identifier or any personal information or data; and
-            ``(4) the term `personal information or data' means any 
-        information that, when used in conjunction with a personal 
-        identifier or identification device, would facilitate a 
-        misrepresentation or assumption of the identity of another.''.
-    (b) Seizure and Forfeiture.--Section 80302(a) of title 49, United 
-States Code, is amended--
-            (1) in paragraph (5), by striking `or' at the end;
-            (2) in paragraph (6), by striking the period at the end and 
-        inserting a semicolon; and
-            (3) by adding at the end the following:
-            ``(7) an identification document, false identification 
-        document, or a document-making implement (as those terms are 
-        defined in sections 1028 and 1029 of title 18) involved in a 
-        violation of section 1028 or 1029 of title 18;
-            ``(8) a counterfeit access device, device-making equipment, 
-        or scanning receiver (as those terms are defined in sections 
-        1028 and 1029 of title 18); or
-            ``(9) a means of identification (as that term is defined in 
-        section 1036) involved in a violation of section 1036.''.
-    (c) Annual Reporting of Identity Theft and Assumption 
-Information.--Beginning not later than 60 days after the date of the 
-enactment of this Act, the Secretary of the Treasury shall collect and 
-maintain information and statistical data relating to--
-            (1) the number of identity fraud offenses investigated 
-        under section 1036 of title 18, United States Code;
-            (2) the number of prosecutions and convictions under 
-        section 1036 of title 18, United States Code;
-            (3) any information provided to the Department of the 
-        Treasury by State and local law enforcement agencies relating 
-        to the investigation of identity fraud offenses; and
-            (4) any information provided to the Department of the 
-        Treasury by financial institutions relating to identity fraud 
-        or the financial consequences of identity fraud offenses.
-    (d) Identity Fraud Study.--Within 1 year after the date of the 
-enactment of this Act, the Secretary of the Treasury, in conjunction 
-with the Chairperson of the Federal Trade Commission, shall complete a 
-comprehensive study of the extent, nature, and causes of identity 
-fraud, and the threats posed to the Nation's financial institutions and 
-payment systems, and consumer safety and privacy, and submit to 
-Congress specific legislative recommendations to address these matters.
-    (e) Clerical Amendment.--The table of sections at the beginning of 
-chapter 47 of title 18, United States Code, is amended by adding at the 
-end the following new item:
-
-``1036. Identity theft and deceptive assumption.''.
+    (a) Requirement.--The Federal Railroad Administration shall require 
+each railroad carrier to arrange for an independent inspection by a 
+professional engineer of--
+            (1) all railroad bridges owned or leased by that railroad 
+        carrier at least once every 2 years; and
+            (2) all railroad signals and switches owned or leased by 
+        that railroad carrier at least once every 6 months.
+    (b) Documentation.--Each railroad carrier shall provide to the 
+Federal Railroad Administration documentation of the results of 
+inspections carried out under subsection (a). The Federal Railroad 
+Administration shall make such documentation available to the public.
+    (c) Definitions.--In this section:
+            (1) Independent inspection.--The term ``independent 
+        inspection'' means an inspection conducted by a professional 
+        engineer that is not employed by the railroad carrier or the 
+        Federal Railroad Administration.
+            (2) Professional engineer.--The term ``professional 
+        engineer'' means an individual who--
+                    (A) is currently registered as a professional 
+                engineer or structural engineer by a State, the 
+                District of Columbia, or a territory, commonwealth, or 
+                possession of the United States; and
+                    (B) has expertise in railroad operations.
+            (3) Railroad carrier.--The term ``railroad carrier'' has 
+        the meaning given that term in section 20102 of title 49, 
+        United States Code.
                                  <all>

@@ -1,23 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3848 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 3848
 
- To permit certain claims against foreign states to be heard in United 
-      States courts where the foreign state is a state sponsor of 
- international terrorism or where no extradition treaty with the state 
-  existed at the time the claim arose and where no other adequate and 
-                       available remedies exist.
+ To amend the Magnuson-Stevens Fishery Conservation and Management Act 
+to add New York to the New England Fishery Management Council, and for 
+                            other purposes.
 
 
 _______________________________________________________________________
@@ -25,10 +17,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                              May 12, 1998
+                            January 10, 2014
 
-  Mr. Yates introduced the following bill; which was referred to the 
-                       Committee on the Judiciary
+  Mr. Bishop of New York (for himself and Mr. Israel) introduced the 
+    following bill; which was referred to the Committee on Natural 
+                               Resources
 
 _______________________________________________________________________
 
@@ -36,69 +29,24 @@ _______________________________________________________________________
 
 
  
- To permit certain claims against foreign states to be heard in United 
-      States courts where the foreign state is a state sponsor of 
- international terrorism or where no extradition treaty with the state 
-  existed at the time the claim arose and where no other adequate and 
-                       available remedies exist.
+ To amend the Magnuson-Stevens Fishery Conservation and Management Act 
+to add New York to the New England Fishery Management Council, and for 
+                            other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Foreign Sovereign Immunity Technical 
-Corrections Act of 1998''.
+    This Act may be cited as the ``New York Fair Fishing Act''.
 
-SEC. 2. TECHNICAL CORRECTIONS WITH RESPECT TO A LIMITATION ON FOREIGN 
-              SOVEREIGN IMMUNITY.
+SEC. 2. ADDITION OF NEW YORK TO NEW ENGLAND FISHERY MANAGEMENT COUNCIL.
 
-    (a) In General.--Section 1605(a)(7) of title 28, United States 
-Code, is amended to read as follows:
-            ``(7) in which money damages are sought against a foreign 
-        state for personal injury or death caused by an act of torture, 
-        extrajudicial killing, aircraft sabotage, hostage taking, or 
-        the provision of material support or resources (as defined in 
-        section 2339A of title 18) for such an act, if--
-                    ``(A) such act or provision of material support for 
-                such act is engaged in by an official, employee, or 
-                agent of such foreign state while acting within the 
-                scope of his or her office, employment, or agency;
-                    ``(B) the foreign state against whom the claim was 
-                brought--
-                            ``(i) was designated as a state sponsor of 
-                        terrorism under section 6(j) of the Export 
-                        Administration Act of 1979 (50 U.S.C. App. 
-                        2405(j)) or section 620A of the Foreign 
-                        Assistance Act of 1961 (22 U.S.C. 2371) at the 
-                        time the act occurred or later so designated as 
-                        a result of such act; or
-                            ``(ii) had no treaty of extradition with 
-                        the United States at the time the act occurred 
-                        and no adequate and available remedies 
-                        conforming with fundamental fairness and due 
-                        process exist in such state;
-                    ``(C) the claimant or victim was a national of the 
-                United States (as that term is defined in section 
-                101(a)(22) of the Immigration and Nationality Act) when 
-                the act upon which the claim is based occurred except 
-                that, in the case brought under subparagraph (B)(ii), 
-                the victim shall be a national of the United States (as 
-                defined in such section 101(a)(22) when the act upon 
-                which the claim is based occurred; and
-                    ``(D) in the case of an act that occurred in the 
-                foreign state against which the claim has been brought, 
-                the claimant has afforded the foreign state a 
-                reasonable opportunity to arbitrate the claim in 
-                accordance with accepted international rules of 
-                arbitration.''.
-    (b) Tolling Limitation.--Section 1605(f) of title 28, United States 
-Code, is amended by inserting before the period the following: ``, 
-except that no action may be brought under subsection (a)(7)(B)(ii) for 
-a cause of action that arose more than 20 years before the date of 
-enactment of the Foreign Sovereign Immunity Technical Corrections Act 
-of 1998''.
-    (c) Effective Date.--The amendment made by subsection (a) shall 
-apply to any cause of action arising before, on, or after the date of 
-enactment of this Act.
+    Section 302(a)(1)(A) of the Magnuson-Stevens Fishery Conservation 
+and Management Act (16 U.S.C. 1852(a)(1)(A)) is amended--
+            (1) by inserting ``New York,'' after ``New Hampshire,'';
+            (2) by striking ``except'' and inserting ``except New York 
+        and except'';
+            (3) by striking ``18'' and inserting ``21''; and
+            (4) by striking ``12'' and inserting ``14''.
                                  <all>

@@ -1,19 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1610 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 S. 1610
 
-To increase the availability, affordability, and quality of child care.
+To delay the implementation of certain provisions of the Biggert-Waters 
+      Flood Insurance Reform Act of 2012, and for other purposes.
 
 
 _______________________________________________________________________
@@ -21,16 +16,13 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                            February 4, 1998
+                            October 29, 2013
 
- Mr. Dodd (for himself, Mr. Daschle, Mr. Kennedy, Mr. Inouye, Mr. 
-        Akaka, Mr. Biden, Mr. Bingaman, Mr. Dorgan, Mr. Durbin, Mrs. 
-        Feinstein, Mr. Graham, Mr. Harkin, Mr. Kerrey, Ms. Landrieu, 
-        Mr. Lautenberg, Mr. Levin, Ms. Mikulski, Ms. Moseley-Braun, 
-        Mrs. Murray, Mr. Reed, Mr. Reid, Mr. Rockefeller, Mr. 
-        Wellstone, Mr. Bumpers, Mrs. Boxer, and Mr. Kerry) introduced 
-        the following bill; which was read twice and referred to the 
-        Committee on Finance
+Mr. Menendez (for himself, Mr. Isakson, Ms. Landrieu, Mr. Cochran, Mr. 
+   Merkley, Mr. Vitter, Mr. Hoeven, Ms. Heitkamp, Mr. Schumer, Mrs. 
+  Gillibrand, Mr. Markey, Mr. Nelson, Mr. Begich, Ms. Warren, and Mr. 
+   Franken) introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
 
 _______________________________________________________________________
 
@@ -38,1149 +30,397 @@ _______________________________________________________________________
 
 
  
-To increase the availability, affordability, and quality of child care.
+To delay the implementation of certain provisions of the Biggert-Waters 
+      Flood Insurance Reform Act of 2012, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+SECTION 1. SHORT TITLE.
 
-    (a) Short Title.--This Act may be cited as the ``Child Care ACCESS 
-(Affordable Child Care for Early Success and Security) Act''.
-    (b) Table of Contents.--The table of contents for this Act is as 
-follows:
+    This Act may be cited as the ``Homeowner Flood Insurance 
+Affordability Act of 2013''.
 
-Sec. 1. Short title; table of contents.
-Sec. 2. Findings.
-           TITLE I--IMPROVING THE AFFORDABILITY OF CHILD CARE
+SEC. 2. DEFINITIONS.
 
-Sec. 101. Increased appropriations for child care grants.
-   TITLE II--ENHANCING THE QUALITY OF CHILD CARE AND EARLY CHILDHOOD 
-                              DEVELOPMENT
+    As used in this Act, the following definitions shall apply:
+            (1) Adjusted base flood elevation.--For purposes of rating 
+        a floodproofed covered structure, the term ``adjusted base 
+        flood elevation'' means the base flood elevation for a covered 
+        structure on the applicable effective flood insurance rate map, 
+        plus 1 foot.
+            (2) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Federal Emergency Management Agency.
+            (3) Affordability authority bill.--The term ``affordability 
+        authority bill'' means a non-amendable bill that if enacted 
+        would only grant the Administrator the authority necessary to 
+        promulgate regulations in accordance with the criteria set 
+        forth in section 3(d)(2).
+            (4) Affordability study.--The term ``affordability study'' 
+        means the study required under section 100236 of the Biggert-
+        Waters Flood Insurance Reform Act of 2012 (Public Law 112-141; 
+        126 Stat. 957).
+            (5) Applicable flood plain management measures.--The term 
+        ``applicable flood plain management measures'' means flood 
+        plain management measures adopted by a community under section 
+        60.3(c) of title 44, Code of Federal Regulations.
+            (6) Covered structure.--The term ``covered structure'' 
+        means a residential structure--
+                    (A) that is located in a community that has adopted 
+                flood plain management measures that are approved by 
+                the Federal Emergency Management Agency and that 
+                satisfy the requirements for an exception for 
+                floodproofed residential basements under section 
+                60.6(c) of title 44, Code of Federal Regulations; and
+                    (B) that was built in compliance with the 
+                applicable flood plain management measures.
+            (7) Draft affordability framework.--The term ``draft 
+        affordability framework'' means the draft programmatic and 
+        regulatory framework required to be prepared by the 
+        Administrator and submitted to Congress under section 3(d) 
+        addressing the issues of affordability of flood insurance sold 
+        under the National Flood Insurance Program, including issues 
+        identified in the affordability study.
+            (8) Floodproofed elevation.--The term ``floodproofed 
+        elevation'' means the height of floodproofing on a covered 
+        structure, as identified on the Residential Basement 
+        Floodproofing Certificate for the covered structure.
+            (9) National flood insurance program.--The term ``National 
+        Flood Insurance Program'' means the program established under 
+        the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et 
+        seq.).
 
-Sec. 201. Grants to improve the quality of child care and early 
-                            childhood development.
- TITLE III--EXPANDING THE AVAILABILITY AND QUALITY OF SCHOOL-AGE CHILD 
-                                  CARE
+SEC. 3. DELAYED IMPLEMENTATION OF FLOOD INSURANCE RATE INCREASES; DRAFT 
+              AFFORDABILITY FRAMEWORK.
 
-Sec. 301. Appropriations for after-school care.
-Sec. 302. Amendments to the 21st Century Community Learning Centers 
-                            Act.
-           TITLE IV--SUPPORTING FAMILY CHOICES IN CHILD CARE
+    (a) Delayed Implementation of Flood Insurance Rate Increases.--
+            (1) Grandfathered properties.--Beginning on the date of 
+        enactment of this Act, the Administrator may not increase risk 
+        premium rates for flood insurance for any property located in 
+        an area subject to the premium adjustment required under 
+        section 1308(h) of the National Flood Insurance Act of 1968 (42 
+        U.S.C. 4015(h)).
+            (2) Pre-firm properties.--Beginning on the date of 
+        enactment of this Act, the Administrator may not reduce the 
+        risk premium rate subsidies for flood insurance for any 
+        property--
+                    (A) described under section 1307(g)(1) of the 
+                National Flood Insurance Act of 1968 (42 U.S.C. 
+                4014(g)(1)); or
+                    (B) described under 1307(g)(3) of the National 
+                Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(3)), 
+                provided that the decision of the policy holder to 
+                permit a lapse in flood insurance coverage was as a 
+                result of the property no longer being required to 
+                retain such coverage.
+            (3) Expiration.--The prohibitions set forth under 
+        paragraphs (1) and (2) shall expire 6 months after the later 
+        of--
+                    (A) the date on which the Administrator proposes 
+                the draft affordability framework;
+                    (B) the date on which any regulations proposed 
+                pursuant to the authority that the Administrator is 
+                granted in the affordability authority bill, if such 
+                bill is enacted, become final; or
+                    (C) the date on which the Administrator certifies 
+                in writing to Congress that the Federal Emergency 
+                Management Agency has implemented a flood mapping 
+                approach that utilizes sound scientific and engineering 
+                methodologies to determine varying levels of flood risk 
+                in all areas participating in the National Flood 
+                Insurance Program.
+    (b) Property Sale Trigger.--Section 1307(g)(2) of the National 
+Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(2)) is amended to read 
+as follows:
+            ``(2) any property purchased after the expiration of the 6-
+        month period set forth under section 3(a)(3) of the Homeowner 
+        Flood Insurance Affordability Act of 2013;''.
+    (c) Treatment of Pre-FIRM Properties.--Beginning on the date of 
+enactment of this Act and ending upon the expiration of the 6-month 
+period set forth under subsection (a)(3), the Administrator shall 
+restore the risk premium rate subsidies for flood insurance estimated 
+under section 1307(a)(2) of the National Flood Insurance Act of 1968 
+(42 U.S.C. 4014(a)(2)) for any property described in subparagraphs (A) 
+and (B) of subsection (a)(2) of this Act and in section 1307(g)(2) of 
+the National Flood Insurance Act of 1968 (42 U.S.C. 4014(g)(2)).
+    (d) Draft Affordability Framework.--
+            (1) In general.--The Administrator shall prepare a draft 
+        affordability framework that proposes to address, via 
+        programmatic and regulatory changes, the issues of 
+        affordability of flood insurance sold under the National Flood 
+        Insurance Program, including issues identified in the 
+        affordability study.
+            (2) Criteria.--In carrying out the requirements under 
+        paragraph (1), the Administrator shall consider the following 
+        criteria:
+                    (A) Accurate communication to consumers of the 
+                flood risk associated with their property.
+                    (B) Targeted assistance to flood insurance policy 
+                holders based on their financial ability to continue to 
+                participate in the National Flood Insurance Program.
+                    (C) Individual or community actions to mitigate the 
+                risk of flood or lower the cost of flood insurance.
+                    (D) The impact of increases in risk premium rates 
+                on participation in the National Flood Insurance 
+                Program.
+                    (E) The impact flood insurance rate map updates 
+                have on the affordability of flood insurance.
+            (3) Deadline for submission.--Not later than 18 months 
+        after the date on which the Administrator submits the 
+        affordability study, the Administrator shall submit to the full 
+        Committee on Banking, Housing, and Urban Affairs and the full 
+        Committee on Appropriations of the Senate and the full 
+        Committee on Financial Services and the full Committee on 
+        Appropriations of the House of Representatives the draft 
+        affordability framework.
+    (e) Congressional Consideration of FEMA Affordability 
+Authorities.--
+            (1) No referral.--Upon introduction in either House of 
+        Congress, an affordability authority bill shall not be referred 
+        to a committee and shall immediately be placed on the calendar.
+            (2) Consideration in the house of representatives.--
+                    (A) Proceeding to consideration.--It shall be in 
+                order to move to proceed to consider the affordability 
+                authority bill in the House. All points of order 
+                against the motion are waived. Such a motion shall not 
+                be in order after the House has disposed of a motion to 
+                proceed with respect to the affordability authority 
+                bill. The previous question shall be considered as 
+                ordered on the motion to its adoption without 
+                intervening motion. The motion shall not be debatable. 
+                A motion to reconsider the vote by which the motion is 
+                disposed of shall not be in order.
+                    (B) Consideration.--The affordability authority 
+                bill shall be considered as read. All points of order 
+                against the affordability authority bill and against 
+                its consideration are waived. The previous question 
+                shall be considered as ordered on the affordability 
+                authority bill to its passage without intervening 
+                motion except 10 hours of debate equally divided and 
+                controlled by the proponent and an opponent. A motion 
+                to reconsider the vote on passage of the affordability 
+                authority bill shall not be in order.
+            (3) Consideration in the senate.--
+                    (A) Placement on the calendar.--Upon introduction 
+                in the Senate, an affordability authority bill shall be 
+                immediately placed on the calendar.
+                    (B) Floor consideration.--Notwithstanding Rule XXII 
+                of the Standing Rules of the Senate, it is in order, at 
+                any time beginning on the day after the 6th day after 
+                the date of introduction of an affordability authority 
+                bill (even if a previous motion to the same effect has 
+                been disagreed to) to move to proceed to the 
+                consideration of the affordability authority bill and 
+                all points of order against consideration of the 
+                affordability authority bill are waived. The motion to 
+                proceed is not debatable. The motion is not subject to 
+                a motion to postpone. A motion to reconsider the vote 
+                by which the motion is agreed to or disagreed to shall 
+                not be in order. If a motion to proceed to the 
+                consideration of the affordability authority bill is 
+                agreed to, the affordability authority bill shall 
+                remain the unfinished business until disposed of.
+                    (C) Consideration.--All points of order against the 
+                affordability authority bill are waived. Consideration 
+                of the affordability authority bill and of all 
+                debatable motions and appeals in connection therewith 
+                shall be limited to not more than 10 hours which shall 
+                be divided equally between the majority and minority 
+                leaders or their designees. A motion further to limit 
+                debate on the affordability authority bill is in order, 
+                and is not debatable.
+                    (D) No amendments.--An amendment to the 
+                affordability authority bill, or a motion to postpone, 
+                or a motion to proceed to the consideration of other 
+                business, or a motion to commit or recommit the 
+                affordability authority bill, is not in order.
+                    (E) Vote on passage.--If the Senate has voted to 
+                proceed to the affordability authority bill, the vote 
+                on passage of the affordability authority bill shall 
+                occur immediately following the conclusion of 
+                consideration of the affordability authority bill, and 
+                a single quorum call at the conclusion of the debate if 
+                requested in accordance with the rules of the Senate.
+            (4) Amendment.--The affordability authority bill shall not 
+        be subject to amendment in either the House of Representatives 
+        or the Senate.
+            (5) Consideration by the other house.--
+                    (A) In general.--If, before passing the 
+                affordability authority bill, one House receives from 
+                the other an affordability authority bill--
+                            (i) the affordability authority bill of the 
+                        other House shall not be referred to a 
+                        committee; and
+                            (ii) the procedure in the receiving House 
+                        shall be the same as if no affordability 
+                        authority bill had been received from the other 
+                        House except that the vote on passage shall be 
+                        on the affordability authority bill of the 
+                        other House.
+                    (B) Revenue measure.--This subsection shall not 
+                apply to the House of Representatives if the 
+                affordability authority bill received from the Senate 
+                is a revenue measure.
+            (6) Coordination with action by other house.--
+                    (A) Treatment of affordability authority bill of 
+                other house.--If the Senate fails to introduce or 
+                consider a affordability authority bill under this 
+                section, the affordability authority bill of the House 
+                shall be entitled to expedited floor procedures under 
+                this section.
+                    (B) Treatment of companion measures in the 
+                senate.--If following passage of the affordability 
+                authority bill in the Senate, the Senate then receives 
+                the affordability authority bill from the House of 
+                Representatives, the House-passed affordability 
+                authority bill shall not be debatable.
+                    (C) Vetoes.--If the President vetoes the 
+                affordability authority bill, debate on a veto message 
+                in the Senate under this section shall be 1 hour 
+                equally divided between the majority and minority 
+                leaders or their designees.
+            (7) Rules of the house of representatives and senate.--This 
+        subsection is enacted by Congress--
+                    (A) as an exercise of the rulemaking power of the 
+                Senate and the House of Representatives, respectively, 
+                and as such it is deemed a part of the rules of each 
+                House, respectively, but applicable only with respect 
+                to the procedure to be followed in that House in the 
+                case of an affordability authority bill, and it 
+                supersedes other rules only to the extent that it is 
+                inconsistent with such rules; and
+                    (B) with full recognition of the constitutional 
+                right of either House to change its rules at any time, 
+                in the same manner, and to the same extent as in the 
+                case of any other rule of that House.
+    (f) Interagency Agreements.--The Administrator may enter into an 
+agreement with another Federal agency to--
+            (1) complete the affordability study; or
+            (2) prepare the draft affordability framework.
+    (g) Clear Communications.--The Administrator shall clearly 
+communicate full flood risk determinations to individual property 
+owners regardless of whether their premium rates are full actuarial 
+rates.
+    (h) Rule of Construction.--Nothing in this section shall be 
+construed to provide the Administrator with the authority to provide 
+assistance to homeowners based on affordability that was not available 
+prior to the enactment of the Biggert-Waters Flood Insurance Reform Act 
+of 2012 (Public Law 112-141; 126 Stat. 916).
 
-Sec. 401. Expanding the dependent care tax credit.
-Sec. 402. Minimum credit allowed for stay-at-home parents.
-Sec. 403. Credit made refundable.
-Sec. 404. Expansion of the Family and Medical Leave Act.
-            TITLE V--ENCOURAGING PRIVATE SECTOR INVOLVEMENT
+SEC. 4. AFFORDABILITY STUDY AND REPORT.
 
-Sec. 501. Allowance of credit for employer expenses for child care 
-                            assistance.
-Sec. 502. Grants to support public-private partnerships.
-      TITLE VI--ENSURING THE QUALITY OF FEDERAL CHILD CARE CENTERS
+    Notwithstanding the deadline under section 100236(c) of the 
+Biggert-Waters Flood Insurance Reform Act of 2012 (Public Law 112-141; 
+126 Stat. 957), not later than 2 years after the date of enactment of 
+this Act, the Administrator shall submit to the full Committee on 
+Banking, Housing, and Urban Affairs and the full Committee on 
+Appropriations of the Senate and the full Committee on Financial 
+Services and the full Committee on Appropriations of the House of 
+Representatives the affordability study and report required under such 
+section.
 
-Sec. 601. Quality child care for Federal employees.
+SEC. 5. AFFORDABILITY STUDY FUNDING.
 
-SEC. 2. FINDINGS.
+    Section 100236(d) of the Biggert-Waters Flood Insurance Reform Act 
+of 2012 (Public Law 112-141; 126 Stat. 957) is amended by striking 
+``not more than $750,000'' and inserting ``such amounts as may be 
+necessary''.
 
-    Congress makes the following findings:
-            (1) Each day an estimated 13,000,000 children spend some 
-        part of their day in child care.
-            (2) Fifty-four percent of mothers with children between the 
-        ages of 0-3 are in the work force. Labor force participation 
-        rises to 63 percent for mothers with children under the age of 
-        6, and to 78 percent for mothers with children ages 6-17.
-            (3) The availability of child care that is reliable, 
-        convenient, and affordable helps parents to reach and maintain 
-        self-sufficiency and is essential to making the transition from 
-        welfare to work.
-            (4) Only an estimated 1 out of 10 eligible families receive 
-        assistance in paying for child care through the Child Care 
-        Development Block Grant Act of 1990.
-            (5) Full-day child care can cost $4,000 to $9,000 a year.
-            (6) In many instances, high quality child care services 
-        cost little more than mediocre services. An investment of only 
-        an additional 10 percent has been found to have a significant 
-        impact on quality.
-            (7) Only 1 in 7 child care centers provides care that 
-        promotes healthy development. Child care at 1 in 8 centers 
-        actually threatens children's health and safety.
-            (8) The education, training, and salary of a child care 
-        provider make the difference between poor and good quality 
-        child care.
-                    (A) The average salary of a child care provider in 
-                a center is only $12,058 a year, which is approximately 
-                equal to the poverty level for a family of 3.
-                    (B) Home-based providers earn $9,000 a year on 
-                average.
-            (9) Poor compensation and limited opportunities for 
-        professional training and education contribute to high turnover 
-        among child care providers, which disrupts the creation of 
-        strong provider-child relationships that are critical to 
-        children's healthy development.
-            (10) Children placed in poor quality child care settings 
-        have been found to have delayed language and reading skills, as 
-        well as an increase in aggressive behavior toward other 
-        children and adults.
-            (11) Nearly 5,000,000 children are home alone after school 
-        each week.
-            (12) Although it is thought that juvenile crime occurs 
-        mostly on evenings and weekends, juvenile crime actually peaks 
-        between 3 and 6 p.m.
-            (13) Eighth-graders left home alone after school report 
-        greater use of cigarettes, alcohol, and marijuana than those in 
-        adult-supervised settings.
-            (14) The Family and Medical Leave Act of 1993 has provided 
-        employees with a significant new tool in balancing the needs of 
-        their families with the demands of work.
-            (15) The number of single-parent households and two-parent 
-        households in which the single parent or both parents work is 
-        increasing significantly.
-            (16) The Family and Medical Leave Act of 1993 has had a 
-        minimal impact on business, and over 90 percent of private 
-        employers covered by the Act experienced little or no cost and 
-        a minimal or positive impact on productivity as a result of the 
-        Act.
-            (17) Only 57 percent of the private workforce is currently 
-        protected by the Family and Medical Leave Act of 1993.
-            (18) 13,000,000 more private employees, or an additional 14 
-        percent of the private workforce, would be protected by the 
-        Family and Medical Leave Act of 1993 if the Act was expanded to 
-        cover private employers with 25 or more employees.
+SEC. 6. FUNDS TO REIMBURSE HOMEOWNERS FOR SUCCESSFUL MAP APPEALS.
 
-           TITLE I--IMPROVING THE AFFORDABILITY OF CHILD CARE
+    (a) In General.--Section 1363(f) of the National Flood Insurance 
+Act of 1968 (42 U.S.C. 4104(f)) is amended by striking the second 
+sentence and inserting the following: ``The Administrator may use such 
+amounts from the National Flood Insurance Fund established under 
+section 1310 as may be necessary to carry out this subsection.''.
+    (b) Conforming Amendment.--Section 1310(a) of the National Flood 
+Insurance Act of 1968 (42 U.S.C. 4017(a)) is amended--
+            (1) in paragraph (6), by striking ``and'' at the end;
+            (2) in paragraph (7), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(8) for carrying out section 1363(f).''.
 
-SEC. 101. INCREASED APPROPRIATIONS FOR CHILD CARE GRANTS.
+SEC. 7. FLOOD PROTECTION SYSTEMS.
 
-    Section 418(a)(3) of the Social Security Act (42 U.S.C. 618(a)(3)) 
-is amended by striking subparagraphs (C) through (F) and inserting the 
-following:
-                    ``(C) $3,167,000,000 for fiscal year 1999;
-                    ``(D) $3,367,000,000 for fiscal year 2000;
-                    ``(E) $4,067,000,000 for fiscal year 2001;
-                    ``(F) $4,717,000,000 for fiscal year 2002; and
-                    ``(G) $4,717,000,000 for fiscal year 2003.''.
+    (a) Adequate Progress on Construction of Flood Protection 
+Systems.--Section 1307(e) of the National Flood Insurance Act of 1968 
+(42 U.S.C. 4014(e)) is amended--
+            (1) in the first sentence, by inserting ``or 
+        reconstruction'' after ``construction'';
+            (2) by amending the second sentence to read as follows: 
+        ``The Administrator shall find that adequate progress on the 
+        construction or reconstruction of a flood protection system, 
+        based on the present value of the completed flood protection 
+        system, has been made only if (1) 100 percent of the cost of 
+        the system has been authorized, (2) at least 60 percent of the 
+        cost of the system has been appropriated, (3) at least 50 
+        percent of the cost of the system has been expended, and (4) 
+        the system is at least 50 percent completed.''; and
+            (3) by adding at the end the following: ``Notwithstanding 
+        any other provision of law, in determining whether a community 
+        has made adequate progress on the construction, reconstruction, 
+        or improvement of a flood protection system, the Administrator 
+        shall consider all sources of funding, including Federal, 
+        State, and local funds.''.
+    (b) Communities Restoring Disaccredited Flood Protection Systems.--
+Section 1307(f) of the National Flood Insurance Act of 1968 (42 U.S.C. 
+4014(f)) is amended by amending the first sentence to read as follows: 
+``Notwithstanding any other provision of law, this subsection shall 
+apply to riverine and coastal levees that are located in a community 
+which has been determined by the Administrator of the Federal Emergency 
+Management Agency to be in the process of restoring flood protection 
+afforded by a flood protection system that had been previously 
+accredited on a Flood Insurance Rate Map as providing 100-year 
+frequency flood protection but no longer does so, and shall apply 
+without regard to the level of Federal funding of or participation in 
+the construction, reconstruction, or improvement of the flood 
+protection system.''.
 
-   TITLE II--ENHANCING THE QUALITY OF CHILD CARE AND EARLY CHILDHOOD 
-                              DEVELOPMENT
+SEC. 8. TREATMENT OF FLOODPROOFED RESIDENTIAL BASEMENTS.
 
-SEC. 201. GRANTS TO IMPROVE THE QUALITY OF CHILD CARE AND EARLY 
-              CHILDHOOD DEVELOPMENT.
+    Notwithstanding the Biggert-Waters Flood Insurance Reform Act of 
+2012 (Public Law 112-141; 126 Stat. 916), the amendments made by that 
+Act, or any other provision of law, the Administrator shall rate a 
+covered structure using the elevation difference between the 
+floodproofed elevation of the covered structure and the adjusted base 
+flood elevation of the covered structure.
 
-    Section 418 of the Social Security Act (42 U.S.C. 618) is amended 
-by adding at the end the following:
-    ``(e) Grants To Improve the Quality of Child Care and Early 
-Childhood Development.--
-            ``(1) Secretarial authority.--The Secretary shall use the 
-        amounts appropriated under paragraph (2) to make grants to 
-        States in accordance with this subsection.
-            ``(2) Appropriation.--For grants under this section, there 
-        are appropriated--
-                    ``(A) $250,000,000 for fiscal year 1999;
-                    ``(B) $400,000,000 for fiscal year 2000;
-                    ``(C) $600,000,000 for fiscal year 2001;
-                    ``(D) $750,000,000 for fiscal year 2002; and
-                    ``(E) $1,000,000,000 for fiscal year 2003.
-            ``(3) Allotments to states.--The amounts appropriated under 
-        paragraph (2) for payments to States under this paragraph shall 
-        be allotted among the States in the same manner as amounts 
-        (including the redistribution of unused amounts) are allotted 
-        or redistributed, as the case may be, under subsection (a)(2), 
-        except that the matching requirement of subsection (a)(2)(C) 
-        shall not apply to a grant made under this subsection.
-            ``(4) Use of funds.--Funds received by a State through a 
-        grant made under this subsection may be used for any of the 
-        following:
-                    ``(A) Bringing provider-child ratios up to 
-                standards recommended by nationally recognized child 
-                care accrediting bodies.
-                    ``(B) Improving the enforcement of licensing 
-                standards, including the use of unannounced inspections 
-                of child care providers.
-                    ``(C) Conducting background checks on child care 
-                providers.
-                    ``(D) Providing increased payment rates for child 
-                care services for infants and for children with special 
-                health care needs.
-                    ``(E) Providing increased payment rates for child 
-                care services offered by licensed or accredited 
-                providers.
-                    ``(F) Improving the compensation of child care 
-                providers.
-                    ``(G) Assisting child care providers in becoming 
-                licensed or accredited.
-                    ``(H) Expanding activities to educate parents on 
-                the availability and quality of child care, including 
-                the development and operation of resource and referral 
-                systems.
-                    ``(I) Creating support networks for family child 
-                care providers.
-                    ``(J) Establishing linkages between child care 
-                services and health care services.
-                    ``(K) Offering training and education to child care 
-                providers, including offering scholarships and tax 
-                credits to assist with the expenses of obtaining such 
-                training and education.
-                    ``(L) Providing family support and parent 
-                education.
-                    ``(M) Ensuring the availability and quality of 
-                child care for children with special health care 
-                needs.''.
+SEC. 9. DESIGNATION OF FLOOD INSURANCE ADVOCATE.
 
- TITLE III--EXPANDING THE AVAILABILITY AND QUALITY OF SCHOOL-AGE CHILD 
-                                  CARE
-
-SEC. 301. APPROPRIATIONS FOR AFTER-SCHOOL CARE.
-
-    (a) Grants.--Section 418 of the Social Security Act (42 U.S.C. 
-618), as amended by section 201, is amended by adding at the end the 
-following:
-    ``(f) Grants To Increase the Availability and Quality of School-Age 
-Child Care.--
-            ``(1) Secretarial authority.--The Secretary shall use the 
-        amounts appropriated under paragraph (2) to make grants to 
-        States in accordance with this subsection.
-            ``(2) Appropriation.--For grants under this section, there 
-        are appropriated--
-                    ``(A) $250,000,000 for fiscal year 1999;
-                    ``(B) $400,000,000 for fiscal year 2000;
-                    ``(C) $600,000,000 for fiscal year 2001;
-                    ``(D) $750,000,000 for fiscal year 2002; and
-                    ``(E) $1,000,000,000 for fiscal year 2003.
-            ``(3) Allotments to states.--The amounts appropriated under 
-        paragraph (2) for payments to States under this paragraph shall 
-        be allotted among the States in the same manner as amounts 
-        (including the redistribution of unused amounts) are allotted 
-        or redistributed, as the case may be, under subsection (a)(2), 
-        except that the matching requirement of subsection (a)(2)(C) 
-        shall not apply to a grant made under this subsection.
-            ``(4) Use of funds.--Funds received by a State through a 
-        grant made under this subsection shall be used for the 
-        provision of child care services before and after regular 
-        school hours and during months in which schools are not in 
-        session.''.
-    (b) Definition of Eligible Child.--Section 658P(4)(A) of the Child 
-Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n(4)(A)) is 
-amended by striking ``13'' and inserting ``16''.
-
-SEC. 302. AMENDMENTS TO THE 21ST CENTURY COMMUNITY LEARNING CENTERS 
-              ACT.
-
-    (a) Program Authorization.--Section 10903 of the 21st Century 
-Community Learning Centers Act (20 U.S.C. 8243) is amended--
-            (1) in subsection (a)--
-                    (A) by striking ``rural and inner-city''; and
-                    (B) by striking ``a rural or inner-city community'' 
-                and inserting ``communities'';
-            (2) in subsection (b), by striking ``, among urban and 
-        rural areas of the United States, and among urban and rural 
-        areas of a State'';
-            (3) by redesignating subsections (c) and (d) as subsections 
-        (d) and (e), respectively; and
-            (4) by inserting after subsection (b) the following:
-    ``(c) Priority of Distribution.--In awarding grants under this 
-part, the Secretary shall give priority to rural, urban, and low-income 
-communities.''.
-    (b) Application Requirements.--Section 10904 of the 21st Century 
-Community Learning Centers Act (20 U.S.C. 8244) is amended--
-            (1) in subsection (a)(3)(B), by inserting ``, including the 
-        programs under the Child Care and Development Block Grant Act 
-        of 1990, '' after ``coordinated''; and
-            (2) in subsection (b), by striking ``a broad selection'' 
-        and all that follows and inserting ``child care services before 
-        or after regular school hours that include mentoring programs, 
-        academic assistance, recreational activities, or technology 
-        training, and that may include drug, alcohol, and gang 
-        prevention, job skills preparation, or health and nutrition 
-        counseling.''.
-    (c) Uses of Funds.--Section 10905 of the 21st Century Community 
-Learning Centers Act (20 U.S.C. 8245) is amended--
-            (1) in the matter preceding paragraph (1), by striking 
-        ``not less than four'' and inserting ``any''; and
-            (2) by striking paragraph (3) and inserting the following:
-            ``(3) Child care services.''.
-    (d) Authorization of Appropriations.--Section 10907 of the 21st 
-Century Community Learning Centers Act (20 U.S.C. 8247) is amended by 
-striking ``$20,000,000 for fiscal year 1995'' and inserting 
-``$200,000,000 for fiscal year 1999''.
-
-           TITLE IV--SUPPORTING FAMILY CHOICES IN CHILD CARE
-
-SEC. 401. EXPANDING THE DEPENDENT CARE TAX CREDIT.
-
-    (a) Percentage of Employment-Related Expenses Determined by 
-Taxpayer Status.--Section 21(a)(2) of the Internal Revenue Code of 1986 
-(defining applicable percentage) is amended to read as follows:
-            ``(2) Applicable percentage defined.--For purposes of 
-        paragraph (1), the term `applicable percentage' means--
-                    ``(A) except as provided in subparagraph (B), 50 
-                percent reduced (but not below 20 percent) by 1 
-                percentage point for each $1,000, or fraction thereof, 
-                by which the taxpayers's adjusted gross income for the 
-                taxable year exceeds $30,000, and
-                    ``(B) in the case of employment-related expenses 
-                described in subsection (e)(11), 50 percent reduced 
-                (but not below zero) by 1 percentage point for each 
-                $800, or fraction thereof, by which the taxpayers's 
-                adjusted gross income for the taxable year exceeds 
-                $30,000.''.
-    (b) Inflation Adjustment for Allowable Expenses.--Section 21(c) of 
-the Internal Revenue Code of 1986 (relating to dollar limit on amount 
-creditable) is amended by striking ``The amount determined'' and 
-inserting ``In the case of any taxable year beginning after 1998, each 
-dollar amount referred to in paragraphs (1) and (2) shall be increased 
-by an amount equal to such dollar amount multiplied by the cost-of-
-living adjustment determined under section 1(f)(3) for the calendar 
-year in which the taxable year begins, by substituting `calendar year 
-1997' for `calendar year 1992' in subparagraph (B) thereof. If any 
-dollar amount after being increased under the preceding sentence is not 
-a multiple of $10, such dollar amount shall be rounded to the nearest 
-multiple of $10. The amount determined''.
-    (c) Effective Date.--The amendments made by this section apply to 
-taxable years beginning after December 31, 1998.
-
-SEC. 402. MINIMUM CREDIT ALLOWED FOR STAY-AT-HOME PARENTS.
-
-    (a) In General.--Section 21(e) of the Internal Revenue Code of 1986 
-(relating to special rules) is amended by adding at the end the 
-following:
-            ``(11) Minimum credit allowed for stay-at-home parents.--
-        Notwithstanding subsection (d), in the case of any taxpayer 
-        with one or more qualifying individuals described in subsection 
-        (b)(1)(A) under the age of 1 at any time during the taxable 
-        year, such taxpayer shall be deemed to have employment-related 
-        expenses with respect to such qualifying individuals in an 
-        amount equal to the sum of--
-                    ``(A) $90 for each month in such taxable year 
-                during which at least one of such qualifying 
-                individuals is under the age of 1, and
-                    ``(B) the amount of employment-related expenses 
-                otherwise incurred for such qualifying individuals for 
-                the taxable year (determined under this section without 
-                regard to this paragraph).''.
-    (b) Effective Date.--The amendments made by this section apply to 
-taxable years beginning after December 31, 1998.
-
-SEC. 403. CREDIT MADE REFUNDABLE.
-
-    (a) In General.--Part IV of subchapter A of chapter 1 of the 
-Internal Revenue Code of 1986 (relating to credits against tax) is 
-amended--
-            (1) by redesignating section 35 as section 36, and
-            (2) by redesignating section 21 as section 35.
-    (b) Advance Payment of Credit.--Chapter 25 of such Code (relating 
-to general provisions relating to employment taxes) is amended by 
-inserting after section 3507 the following:
-
-``SEC. 3507A. ADVANCE PAYMENT OF DEPENDENT CARE CREDIT.
-
-    ``(a) General Rule.--Except as otherwise provided in this section, 
-every employer making payment of wages with respect to whom a dependent 
-care eligibility certificate is in effect shall, at the time of paying 
-such wages, make an additional payment equal to such employee's 
-dependent care advance amount.
-    ``(b) Dependent Care Eligibility Certificate.--For purposes of this 
-title, a dependent care eligibility certificate is a statement 
-furnished by an employee to the employer which--
-            ``(1) certifies that the employee will be eligible to 
-        receive the credit provided by section 35 for the taxable year,
-            ``(2) certifies that the employee reasonably expects to be 
-        an applicable taxpayer for the taxable year,
-            ``(3) certifies that the employee does not have a dependent 
-        care eligibility certificate in effect for the calendar year 
-        with respect to the payment of wages by another employer,
-            ``(4) states whether or not the employee's spouse has a 
-        dependent care eligibility certificate in effect,
-            ``(5) states the number of qualifying individuals in the 
-        household maintained by the employee, and
-            ``(6) estimates the amount of employment-related expenses 
-        for the calendar year.
-    ``(c) Dependent Care Advance Amount.--
-            ``(1) In general.--For purposes of this title, the term 
-        `dependent care advance amount' means, with respect to any 
-        payroll period, the amount determined--
-                    ``(A) on the basis of the employee's wages from the 
-                employer for such period,
-                    ``(B) on the basis of the employee's estimated 
-                employment-related expenses included in the dependent 
-                care eligibility certificate, and
-                    ``(C) in accordance with tables provided by the 
-                Secretary.
-            ``(2) Advance amount tables.--The tables referred to in 
-        paragraph (1)(C) shall be similar in form to the tables 
-        prescribed under section 3402 and, to the maximum extent 
-        feasible, shall be coordinated with such tables and the tables 
-        prescribed under section 3507(c).
-    ``(d) Other Rules.--For purposes of this section, rules similar to 
-the rules of subsections (d) and (e) of section 3507 shall apply.
-    ``(e) Definitions.--For purposes of this section, terms used in 
-this section which are defined in section 35 shall have the respective 
-meanings given such terms by section 35.''.
-    (c) Conforming Amendments.--
-            (1) Section 35(a)(1) of such Code, as redesignated by 
-        paragraph (1), is amended by striking ``chapter'' and inserting 
-        ``subtitle''.
-            (2) Section 35(e) of such Code, as so redesignated and 
-        amended by subsection (c), is amended by adding at the end the 
-        following:
-            ``(12) Coordination with advance payments and minimum 
-        tax.--Rules similar to the rules of subsections (g) and (h) of 
-        section 32 shall apply for purposes of this section.''.
-            (3) Sections 23(f)(1) and 129(a)(2)(C) of such Code are 
-        each amended by striking ``section 21(e)'' and inserting 
-        ``section 35(e)''.
-            (4) Section 129(b)(2) of such Code is amended by striking 
-        ``section 21(d)(2)'' and inserting ``section 35(d)(2)''.
-            (5) Section 129(e)(1) of such Code is amended by striking 
-        ``section 21(b)(2)'' and inserting ``section 35(b)(2)''.
-            (6) Section 213(e) of such Code is amended by striking 
-        ``section 21'' and inserting ``section 35''.
-            (7) Section 995(f)(2)(C) of such Code is amended by 
-        striking ``and 34'' and inserting ``34, and 35''.
-            (8) Section 6211(b)(4)(A) of such Code is amended by 
-        striking ``and 34'' and inserting ``, 34, and 35''.
-            (9) Section 6213(g)(2)(H) of such Code is amended by 
-        striking ``section 21'' and inserting ``section 35''.
-            (10) The table of sections for subpart C of part IV of 
-        subchapter A of chapter 1 of such Code is amended by striking 
-        the item relating to section 35 and inserting the following:
-
-                              ``Sec. 35. Dependent care services.
-                              ``Sec. 36. Overpayments of tax.''.
-            (11) The table of sections for subpart A of such part IV is 
-        amended by striking the item relating to section 21.
-            (12) The table of sections for chapter 25 of such Code is 
-        amended by adding after the item relating to section 3507 the 
-        following:
-
-                              ``Sec. 3507A. Advance payment of 
-                                        dependent care credit.''.
-            (13) Section 1324(b)(2) of title 31, United States Code, is 
-        amended by inserting before the period ``, or enacted by the 
-        Child Care ACCESS (Affordable Child Care for Early Success and 
-        Security) Act''.
-    (d) Effective Date.--The amendments made by this section apply to 
-taxable years beginning after December 31, 1998.
-
-SEC. 404. EXPANSION OF THE FAMILY AND MEDICAL LEAVE ACT.
-
-    Paragraphs (2)(B)(ii) and (4)(A)(i) of section 101 of the Family 
-and Medical Leave Act of 1993 (29 U.S.C. 2611 (2)(B)(ii) and (4)(A)(i)) 
-are amended by striking ``50'' each place it appears and inserting 
-``25''.
-
-            TITLE V--ENCOURAGING PRIVATE SECTOR INVOLVEMENT
-
-SEC. 501. ALLOWANCE OF CREDIT FOR EMPLOYER EXPENSES FOR CHILD CARE 
-              ASSISTANCE.
-
-    (a) In General.--Subpart D of part IV of subchapter A of chapter 1 
-of the Internal Revenue Code of 1986 (relating to business related 
-credits) is amended by adding at the end the following:
-
-``SEC. 45D. EMPLOYER-PROVIDED CHILD CARE CREDIT.
-
-    ``(a) Allowance of Credit.--For purposes of section 38, the 
-employer-provided child care credit determined under this section for 
-the taxable year is an amount equal to 25 percent of the qualified 
-child care expenditures of the taxpayer for such taxable year.
-    ``(b) Dollar Limitation.--The credit allowable under subsection (a) 
-for any taxable year shall not exceed $150,000.
-    ``(c) Definitions.--For purposes of this section--
-            ``(1) Qualified child care expenditure.--
-                    ``(A) In general.--The term `qualified child care 
-                expenditure' means any amount paid or incurred--
-                            ``(i) to acquire, construct, rehabilitate, 
-                        or expand property--
-                                    ``(I) which is to be used as part 
-                                of a qualified child care facility of 
-                                the taxpayer,
-                                    ``(II) with respect to which a 
-                                deduction for depreciation (or 
-                                amortization in lieu of depreciation) 
-                                is allowable, and
-                                    ``(III) which does not constitute 
-                                part of the principal residence (within 
-                                the meaning of section 1034) of the 
-                                taxpayer or any employee of the 
-                                taxpayer,
-                            ``(ii) for the operating costs of a 
-                        qualified child care facility of the taxpayer, 
-                        including costs related to the training of 
-                        employees of the child care facility, to 
-                        scholarship programs, to the providing of 
-                        differential compensation to employees based on 
-                        level of child care training, and to expenses 
-                        associated with achieving accreditation,
-                            ``(iii) under a contract with a qualified 
-                        child care facility to provide child care 
-                        services to employees of the taxpayer, or
-                            ``(iv) under a contract to provide child 
-                        care resource and referral services to 
-                        employees of the taxpayer.
-                    ``(B) Exclusion for amounts funded by grants, 
-                etc.--The term `qualified child care expenditure' shall 
-                not include any amount to the extent such amount is 
-                funded by any grant, contract, or otherwise by another 
-                person (or any governmental entity).
-                    ``(C) Limitation on allowable operating costs.--The 
-                term `qualified child care expenditure' shall not 
-                include any amount described in subparagraph (A)(ii) if 
-                such amount is paid or incurred after the third taxable 
-                year in which a credit under this section is taken by 
-                the taxpayer, unless the qualified child care facility 
-                of the taxpayer has received accreditation from a 
-                nationally recognized accrediting body before the end 
-                of such third taxable year.
-            ``(2) Qualified child care facility.--
-                    ``(A) In general.--The term `qualified child care 
-                facility' means a facility--
-                            ``(i) the principal use of which is to 
-                        provide child care assistance, and
-                            ``(ii) which meets the requirements of all 
-                        applicable laws and regulations of the State or 
-                        local government in which it is located, 
-                        including, but not limited to, the licensing of 
-                        the facility as a child care facility.
-                Clause (i) shall not apply to a facility which is the 
-                principal residence (within the meaning of section 
-                1034) of the operator of the facility.
-                    ``(B) Special rules with respect to a taxpayer.--A 
-                facility shall not be treated as a qualified child care 
-                facility with respect to a taxpayer unless--
-                            ``(i) enrollment in the facility is open to 
-                        employees of the taxpayer during the taxable 
-                        year,
-                            ``(ii) the facility is not the principal 
-                        trade or business of the taxpayer unless at 
-                        least 30 percent of the enrollees of such 
-                        facility are dependents of employees of the 
-                        taxpayer, and
-                            ``(iii) the costs to employees of child 
-                        care services at such facility are determined 
-                        on a sliding fee scale.
-    ``(d) Recapture of Acquisition and Construction Credit.--
-            ``(1) In general.--If, as of the close of any taxable year, 
-        there is a recapture event with respect to any qualified child 
-        care facility of the taxpayer, then the tax of the taxpayer 
-        under this chapter for such taxable year shall be increased by 
-        an amount equal to the product of--
-                    ``(A) the applicable recapture percentage, and
-                    ``(B) the aggregate decrease in the credits allowed 
-                under section 38 for all prior taxable years which 
-                would have resulted if the qualified child care 
-                expenditures of the taxpayer described in subsection 
-                (c)(1)(A) with respect to such facility had been zero.
-            ``(2) Applicable recapture percentage.--
-                    ``(A) In general.--For purposes of this subsection, 
-                the applicable recapture percentage shall be determined 
-                from the following table:
-
-  
-                                                         The applicable
-  
-                                                              recapture
-            ``If the recapture event occurs in:
-                                                         percentage is:
-                Years 1-3............................          100     
-                Year 4...............................           85     
-                Year 5...............................           70     
-                Year 6...............................           55     
-                Year 7...............................           40     
-                Year 8...............................           25     
-                Years 9 and 10.......................           10     
-                Years 11 and thereafter..............            0.    
-                    ``(B) Years.--For purposes of subparagraph (A), 
-                year 1 shall begin on the first day of the taxable year 
-                in which the qualified child care facility is placed in 
-                service by the taxpayer.
-            ``(3) Recapture event defined.--For purposes of this 
-        subsection, the term `recapture event' means--
-                    ``(A) Cessation of operation.--The cessation of the 
-                operation of the facility as a qualified child care 
-                facility.
-                    ``(B) Change in ownership.--
-                            ``(i) In general.--Except as provided in 
-                        clause (ii), the disposition of a taxpayer's 
-                        interest in a qualified child care facility 
-                        with respect to which the credit described in 
-                        subsection (a) was allowable.
-                            ``(ii) Agreement to assume recapture 
-                        liability.--Clause (i) shall not apply if the 
-                        person acquiring such interest in the facility 
-                        agrees in writing to assume the recapture 
-                        liability of the person disposing of such 
-                        interest in effect immediately before such 
-                        disposition. In the event of such an 
-                        assumption, the person acquiring the interest 
-                        in the facility shall be treated as the 
-                        taxpayer for purposes of assessing any 
-                        recapture liability (computed as if there had 
-                        been no change in ownership).
-            ``(4) Special rules.--
-                    ``(A) Tax benefit rule.--The tax for the taxable 
-                year shall be increased under paragraph (1) only with 
-                respect to credits allowed by reason of this section 
-                which were used to reduce tax liability. In the case of 
-                credits not so used to reduce tax liability, the 
-                carryforwards and carrybacks under section 39 shall be 
-                appropriately adjusted.
-                    ``(B) No credits against tax.--Any increase in tax 
-                under this subsection shall not be treated as a tax 
-                imposed by this chapter for purposes of determining the 
-                amount of any credit under subpart A, B, or D of this 
-                part.
-                    ``(C) No recapture by reason of casualty loss.--The 
-                increase in tax under this subsection shall not apply 
-                to a cessation of operation of the facility as a 
-                qualified child care facility by reason of a casualty 
-                loss to the extent such loss is restored by 
-                reconstruction or replacement within a reasonable 
-                period established by the Secretary.
-    ``(e) Special Rules.--For purposes of this section--
-            ``(1) Aggregation rules.--All persons which are treated as 
-        a single employer under subsections (a) and (b) of section 52 
-        shall be treated as a single taxpayer.
-            ``(2) Pass-thru in the case of estates and trusts.--Under 
-        regulations prescribed by the Secretary, rules similar to the 
-        rules of subsection (d) of section 52 shall apply.
-            ``(3) Allocation in the case of partnerships.--In the case 
-        of partnerships, the credit shall be allocated among partners 
-        under regulations prescribed by the Secretary.
-    ``(f) No Double Benefit.--
-            ``(1) Reduction in basis.--For purposes of this subtitle--
-                    ``(A) In general.--If a credit is determined under 
-                this section with respect to any property by reason of 
-                expenditures described in subsection (c)(1)(A), the 
-                basis of such property shall be reduced by the amount 
-                of the credit so determined.
-                    ``(B) Certain dispositions.--If during any taxable 
-                year there is a recapture amount determined with 
-                respect to any property the basis of which was reduced 
-                under subparagraph (A), the basis of such property 
-                (immediately before the event resulting in such 
-                recapture) shall be increased by an amount equal to 
-                such recapture amount. For purposes of the preceding 
-                sentence, the term `recapture amount' means any 
-                increase in tax (or adjustment in carrybacks or 
-                carryovers) determined under subsection (d).
-            ``(2) Other deductions and credits.--No deduction or credit 
-        shall be allowed under any other provision of this chapter with 
-        respect to the amount of the credit determined under this 
-        section.''.
-    (b) Conforming Amendments.--
-            (1) Section 38(b) of the Internal Revenue Code of 1986 is 
-        amended--
-                    (A) by striking out ``plus'' at the end of 
-                paragraph (11),
-                    (B) by striking out the period at the end of 
-                paragraph (12), and inserting a comma and ``plus'', and
-                    (C) by adding at the end the following new 
-                paragraph:
-            ``(13) the employer-provided child care credit determined 
-        under section 45D.''.
-            (2) The table of sections for subpart D of part IV of 
-        subchapter A of chapter 1 of such Code is amended by adding at 
-        the end the following new item:
-
-                              ``Sec. 45D. Employer-provided child care 
-                                        credit.''.
-    (c) Effective Date.--The amendments made by this section shall 
-apply to taxable years beginning after December 31, 1998.
-
-SEC. 502. GRANTS TO SUPPORT PUBLIC-PRIVATE PARTNERSHIPS.
-
-    (a) Establishment.--The Secretary of Health and Human Services (in 
-this section referred to as the ``Secretary'') shall establish a 
-program to award grants to local communities for the purpose of 
-expanding the availability of, and improving the quality of, child care 
-on a community-wide basis.
-    (b) Application.--To be eligible to receive a grant under this 
-section, a local community shall prepare and submit to the Secretary an 
-application at such time and in such manner as the Secretary may 
-require, and that includes--
-            (1) an assurance that the matching funds required under 
-        subsection (c) will be provided;
-            (2) evidence of collaboration with parents, schools, 
-        employers, State and local government agencies, and child care 
-        agencies, including resource and referral agencies, in the 
-        preparation of the application;
-            (3) an assessment of child care resources and needs within 
-        the community; and
-            (4) any additional information that the Secretary may 
-        require.
-    (c) Matching Requirement.--To be eligible to receive a grant under 
-this section a local community shall provide assurances to the 
-Secretary that the community will provide matching funds in the amount 
-of $1 for every $2 provided under the grant. Such funds shall be 
-generated from private sources, including employers and philanthropic 
-organizations.
-    (d) Use of Funds.--A local community shall use the funds provided 
-under a grant awarded under this section only for the purposes 
-described in subsection (a).
-    (e) Administration.--A local community awarded a grant under this 
-section may authorize a public or nonprofit entity within the community 
-to act as the fiscal agent for the administration of the program funded 
-under the grant.
-    (f) Authorization of Appropriations.--There is authorized to be 
-appropriated to carry out this section $250,000,000 for each of fiscal 
-years 1999 through 2003.
-
-      TITLE VI--ENSURING THE QUALITY OF FEDERAL CHILD CARE CENTERS
-
-SEC. 601. QUALITY CHILD CARE FOR FEDERAL EMPLOYEES.
-
-    (a) Definitions.--In this section:
-            (1) Accredited child care center.--The term ``accredited 
-        child care center'' means--
-                    (A) a center that is accredited, by a child care 
-                credentialing or accreditation entity recognized by a 
-                State, to provide child care to children in the State 
-                (except children who a tribal organization elects to 
-                serve through a center described in subparagraph (B));
-                    (B) a center that is accredited, by a child care 
-                credentialing or accreditation entity recognized by a 
-                tribal organization, to provide child care for children 
-                served by the tribal organization;
-                    (C) a center that is used as a Head Start center 
-                under the Head Start Act (42 U.S.C. 9831 et seq.) and 
-                is in compliance with any applicable performance 
-                standards established by regulation under such Act for 
-                Head Start programs; or
-                    (D) a military child development center (as defined 
-                in section 1798(1) of title 10, United States Code).
-            (2) Child care credentialing or accreditation entity.--The 
-        term ``child care credentialing or accreditation entity'' means 
-        a nonprofit private organization or public agency that--
-                    (A) is recognized by a State agency or tribal 
-                organization; and
-                    (B) accredits a center or credentials an individual 
-                to provide child care on the basis of--
-                            (i) an accreditation or credentialing 
-                        instrument based on peer-validated research;
-                            (ii) compliance with applicable State and 
-                        local licensing requirements, or standards 
-                        described in section 658E(c)(2)(E)(ii) of the 
-                        Child Care and Development Block Grant Act (42 
-                        U.S.C. 9858c(c)(2)(E)(ii)), as appropriate, for 
-                        the center or individual;
-                            (iii) outside monitoring of the center or 
-                        individual; and
-                            (iv) criteria that provide assurances of--
-                                    (I) compliance with age-appropriate 
-                                health and safety standards at the 
-                                center or by the individual;
-                                    (II) use of age-appropriate 
-                                developmental and educational 
-                                activities, as an integral part of the 
-                                child care program carried out at the 
-                                center or by the individual; and
-                                    (III) use of ongoing staff 
-                                development or training activities for 
-                                the staff of the center or the 
-                                individual, including related skills-
-                                based testing.
-            (3) Credentialed child care professional.--The term 
-        ``credentialed child care professional'' means--
-                    (A) an individual who is credentialed, by a child 
-                care credentialing or accreditation entity recognized 
-                by a State, to provide child care to children in the 
-                State (except children who a tribal organization elects 
-                to serve through an individual described in 
-                subparagraph (B)); or
-                    (B) an individual who is credentialed, by a child 
-                care credentialing or accreditation entity recognized 
-                by a tribal organization, to provide child care for 
-                children served by the tribal organization.
-            (4) State.--The term ``State'' has the meaning given the 
-        term in section 658P of the Child Care and Development Block 
-        Grant Act (42 U.S.C. 9858n).
-    (b) Providing Quality Child Care in Federal Facilities.--
-            (1) Definitions.--In this subsection:
-                    (A) Administrator.--The term ``Administrator'' 
-                means the Administrator of General Services.
-                    (B) Entity sponsoring a child care center.--The 
-                term ``entity sponsoring a child care center'' means a 
-                Federal agency that operates, or an entity that enters 
-                into a contract or licensing agreement with a Federal 
-                agency to operate, a child care center.
-                    (C) Executive agency.--The term ``Executive 
-                agency'' has the meaning given the term in section 105 
-                of title 5, United States Code, except that the term--
-                            (i) does not include the Department of 
-                        Defense; and
-                            (ii) includes the General Services 
-                        Administration, with respect to the 
-                        administration of a facility described in 
-                        subparagraph (D)(ii).
-                    (D) Executive facility.--The term ``executive 
-                facility''--
-                            (i) means a facility that is owned or 
-                        leased by an Executive agency; and
-                            (ii) includes a facility that is owned or 
-                        leased by the General Services Administration 
-                        on behalf of a judicial office.
-                    (E) Federal agency.--The term ``Federal agency'' 
-                means an Executive agency, a judicial office, or a 
-                legislative office.
-                    (F) Judicial facility.--The term ``judicial 
-                facility'' means a facility that is owned or leased by 
-                a judicial office (other than a facility that is also a 
-                facility described in subparagraph (D)(ii)).
-                    (G) Judicial office.--The term ``judicial office'' 
-                means an entity of the judicial branch of the Federal 
-                Government.
-                    (H) Legislative facility.--The term ``legislative 
-                facility'' means a facility that is owned or leased by 
-                a legislative office.
-                    (I) Legislative office.--The term ``legislative 
-                office'' means an entity of the legislative branch of 
-                the Federal Government.
-            (2) Executive branch standards and compliance.--
-                    (A) State and local licensing requirements.--
-                            (i) In general.--Any entity sponsoring a 
-                        child care center in an executive facility 
-                        shall--
-                                    (I) obtain the appropriate State 
-                                and local licenses for the center; and
-                                    (II) in a location where the State 
-                                or locality does not license executive 
-                                facilities, comply with the appropriate 
-                                State and local licensing requirements 
-                                related to the provision of child care.
-                            (ii) Compliance.--Not later than 6 months 
-                        after the date of enactment of this Act--
-                                    (I) the entity shall comply, or 
-                                make substantial progress (as 
-                                determined by the Administrator) toward 
-                                complying, with clause (i); and
-                                    (II) any contract or licensing 
-                                agreement used by an Executive agency 
-                                for the operation of such a child care 
-                                center shall include a condition that 
-                                the child care be provided by an entity 
-                                that complies with the appropriate 
-                                State and local licensing requirements 
-                                related to the provision of child care.
-                    (B) Health, safety, and facility standards.--The 
-                Administrator shall by regulation establish standards 
-                relating to health, safety, facilities, facility 
-                design, and other aspects of child care that the 
-                Administrator determines to be appropriate for child 
-                care centers in executive facilities, and require child 
-                care centers, and entities sponsoring child care 
-                centers, in executive facilities to comply with the 
-                standards.
-                    (C) Accreditation standards.--
-                            (i) In general.--The Administrator shall 
-                        issue regulations requiring, to the maximum 
-                        extent possible, any entity sponsoring an 
-                        eligible child care center (as defined by the 
-                        Administrator) in an executive facility to 
-                        comply with child care center accreditation 
-                        standards issued by a nationally recognized 
-                        accreditation organization approved by the 
-                        Administrator.
-                            (ii) Compliance.--The regulations shall 
-                        require that, not later than 5 years after the 
-                        date of enactment of this Act--
-                                    (I) the entity shall comply, or 
-                                make substantial progress (as 
-                                determined by the Administrator) toward 
-                                complying, with the standards; and
-                                    (II) any contract or licensing 
-                                agreement used by an Executive agency 
-                                for the operation of such a child care 
-                                center shall include a condition that 
-                                the child care be provided by an entity 
-                                that complies with the standards.
-                            (iii) Contents.--The standards shall base 
-                        accreditation on--
-                                    (I) an accreditation instrument 
-                                described in subsection (a)(2)(B);
-                                    (II) outside monitoring described 
-                                in subsection (a)(2)(B), by--
-                                            (aa) the Administrator; or
-                                            (bb) a child care 
-                                        credentialing or accreditation 
-                                        entity, or other entity, with 
-                                        which the Administrator enters 
-                                        into a contract to provide such 
-                                        monitoring; and
-                                    (III) the criteria described in 
-                                subsection (a)(2)(B).
-                    (D) Evaluation and compliance.--
-                            (i) In general.--The Administrator shall 
-                        evaluate the compliance, with the requirements 
-                        of subparagraph (A) and the regulations issued 
-                        pursuant to subparagraphs (B) and (C), of child 
-                        care centers, and entities sponsoring child 
-                        care centers, in executive facilities. The 
-                        Administrator may conduct the evaluation of 
-                        such a child care center or entity directly, or 
-                        through an agreement with another Federal 
-                        agency or private entity, other than the 
-                        Federal agency for which the child care center 
-                        is providing services. If the Administrator 
-                        determines, on the basis of such an evaluation, 
-                        that the child care center or entity is not in 
-                        compliance with the requirements, the 
-                        Administrator shall notify the Executive 
-                        agency.
-                            (ii) Effect of noncompliance.--On receipt 
-                        of the notification of noncompliance issued by 
-                        the Administrator, the head of the Executive 
-                        agency shall--
-                                    (I) if the entity operating the 
-                                child care center is the agency--
-                                            (aa) within 2 business days 
-                                        after the date of receipt of 
-                                        the notification, correct any 
-                                        deficiencies that are 
-                                        determined by the Administrator 
-                                        to be life threatening or to 
-                                        present a risk of serious 
-                                        bodily harm;
-                                            (bb) develop and provide to 
-                                        the Administrator a plan to 
-                                        correct any other deficiencies 
-                                        in the operation of the center 
-                                        and bring the center and entity 
-                                        into compliance with the 
-                                        requirements not later than 4 
-                                        months after the date of 
-                                        receipt of the notification;
-                                            (cc) provide the parents of 
-                                        the children receiving child 
-                                        care services at the center 
-                                        with a notification detailing 
-                                        the deficiencies described in 
-                                        items (aa) and (bb) and actions 
-                                        that will be taken to correct 
-                                        the deficiencies;
-                                            (dd) bring the center and 
-                                        entity into compliance with the 
-                                        requirements and certify to the 
-                                        Administrator that the center 
-                                        and entity are in compliance, 
-                                        based on an onsite evaluation 
-                                        of the center conducted by an 
-                                        independent entity with 
-                                        expertise in child care health 
-                                        and safety; and
-                                            (ee) in the event that 
-                                        deficiencies determined by the 
-                                        Administrator to be life 
-                                        threatening or to present a 
-                                        risk of serious bodily harm 
-                                        cannot be corrected within 2 
-                                        business days after the date of 
-                                        receipt of the notification, 
-                                        close the center or portion of 
-                                        the center where the deficiency 
-                                        was identified until such 
-                                        deficiencies are corrected and 
-                                        notify the Administrator of 
-                                        such closure; and
-                                    (II) if the entity operating the 
-                                child care center is a contractor or 
-                                licensee of the Executive agency--
-                                            (aa) require the contractor 
-                                        or licensee within 2 business 
-                                        days after the date of receipt 
-                                        of the notification, to correct 
-                                        any deficiencies that are 
-                                        determined by the Administrator 
-                                        to be life threatening or to 
-                                        present a risk of serious 
-                                        bodily harm:
-                                            (bb) require the contractor 
-                                        or licensee to develop and 
-                                        provide to the head of the 
-                                        agency a plan to correct any 
-                                        other deficiencies in the 
-                                        operation of the center and 
-                                        bring the center and entity 
-                                        into compliance with the 
-                                        requirements not later than 4 
-                                        months after the date of 
-                                        receipt of the notification;
-                                            (cc) require the contractor 
-                                        or licensee to provide the 
-                                        parents of the children 
-                                        receiving child care services 
-                                        at the center with a 
-                                        notification detailing the 
-                                        deficiencies described in items 
-                                        (aa) and (bb) and actions that 
-                                        will be taken to correct the 
-                                        deficiencies;
-                                            (dd) require the contractor 
-                                        or licensee to bring the center 
-                                        and entity into compliance with 
-                                        the requirements and certify to 
-                                        the head of the agency that the 
-                                        center and entity are in 
-                                        compliance, based on an onsite 
-                                        evaluation of the center 
-                                        conducted by an independent 
-                                        entity with expertise in child 
-                                        care health and safety; and
-                                            (ee) in the event that 
-                                        deficiencies determined by the 
-                                        Administrator to be life 
-                                        threatening or to present a 
-                                        risk of serious bodily harm 
-                                        cannot be corrected within 2 
-                                        business days after the date of 
-                                        receipt of the notification, 
-                                        close the center or portion of 
-                                        the center where the deficiency 
-                                        was identified until such 
-                                        deficiencies are corrected and 
-                                        notify the Administrator of 
-                                        such closure, which closure 
-                                        shall be grounds for the 
-                                        immediate termination or 
-                                        suspension of the contract or 
-                                        license of the contractor or 
-                                        licensee.
-                            (iii) Cost reimbursement.--The Executive 
-                        agency shall reimburse the Administrator for 
-                        the costs of carrying out clause (i) for child 
-                        care centers located in an executive facility 
-                        other than an executive facility of the General 
-                        Services Administration. If an entity is 
-                        sponsoring a child care center for 2 or more 
-                        Executive agencies, the Administrator shall 
-                        allocate the costs of providing such 
-                        reimbursement with respect to the entity among 
-                        the agencies in a fair and equitable manner, 
-                        based on the extent to which each agency is 
-                        eligible to place children in the center.
-            (3) Legislative branch standards and compliance.--
-                    (A) State and local licensing requirements, health, 
-                safety, and facility standards, and accreditation 
-                standards.--The Architect of the Capitol shall issue 
-                regulations approved by the Committee on Rules and 
-                Administration of the Senate and the Committee on House 
-                Oversight of the House of Representatives for child 
-                care centers, and entities sponsoring child care 
-                centers, in legislative facilities, which shall be no 
-                less stringent in content and effect than the 
-                requirements of paragraph (2)(A) and the regulations 
-                issued by the Administrator under subparagraphs (B) and 
-                (C) of paragraph (2), except to the extent that the 
-                Architect with the consent and approval of the 
-                Committee on Rules and Administration of the Senate and 
-                the Committee on House Oversight of the House of 
-                Representatives, may determine, for good cause shown 
-                and stated together with the regulations, that a 
-                modification of such regulations would be more 
-                effective for the implementation of the requirements 
-                and standards described in subparagraphs (A), (B), and 
-                (C) of paragraph (2) for child care centers, and 
-                entities sponsoring child care centers, in legislative 
-                facilities.
-                    (B) Evaluation and compliance.--
-                            (i) Architect of the capitol.--The 
-                        Architect of the Capitol shall have the same 
-                        authorities and duties with respect to the 
-                        evaluation of, compliance of, and cost 
-                        reimbursement for child care centers, and 
-                        entities sponsoring child care centers, in 
-                        legislative facilities as the Administrator has 
-                        under paragraph (2)(D) with respect to the 
-                        evaluation of, compliance of, and cost 
-                        reimbursement for such centers and entities 
-                        sponsoring such centers, in executive 
-                        facilities.
-                            (ii) Head of a legislative office.--The 
-                        head of a legislative office shall have the 
-                        same authorities and duties with respect to the 
-                        compliance of and cost reimbursement for child 
-                        care centers, and entities sponsoring child 
-                        care centers, in legislative facilities as the 
-                        head of an Executive agency has under paragraph 
-                        (2)(D) with respect to the compliance of and 
-                        cost reimbursement for such centers and 
-                        entities sponsoring such centers, in executive 
-                        facilities.
-            (4) Judicial branch standards and compliance.--
-                    (A) State and local licensing requirements, health, 
-                safety, and facility standards, and accreditation 
-                standards.--The Director of the Administrative Office 
-                of the United States Courts shall issue regulations for 
-                child care centers, and entities sponsoring child care 
-                centers, in judicial facilities, which shall be no less 
-                stringent in content and effect than the requirements 
-                of paragraph (2)(A) and the regulations issued by the 
-                Administrator under subparagraphs (B) and (C) of 
-                paragraph (2), except to the extent that the Director 
-                may determine, for good cause shown and stated together 
-                with the regulations, that a modification of such 
-                regulations would be more effective for the 
-                implementation of the requirements and standards 
-                described in subparagraphs (A), (B), and (C) of 
-                paragraph (2) for child care centers, and entities 
-                sponsoring child care centers, in judicial facilities.
-                    (B) Evaluation and compliance.--
-                            (i) Director of the administrative office 
-                        of the united states courts.--The Director of 
-                        the Administrative Office of the United States 
-                        Courts shall have the same authorities and 
-                        duties with respect to the evaluation of, 
-                        compliance of, and cost reimbursement for child 
-                        care centers, and entities sponsoring child 
-                        care centers, in judicial facilities as the 
-                        Administrator has under paragraph (2)(D) with 
-                        respect to the evaluation of, compliance of, 
-                        and cost reimbursement for such centers and 
-                        entities sponsoring such centers, in executive 
-                        facilities.
-                            (ii) Head of a judicial office.--The head 
-                        of a judicial office shall have the same 
-                        authorities and duties with respect to the 
-                        compliance of and cost reimbursement for child 
-                        care centers, and entities sponsoring child 
-                        care centers, in judicial facilities as the 
-                        head of an Executive agency has under paragraph 
-                        (2)(D) with respect to the compliance of and 
-                        cost reimbursement for such centers and 
-                        entities sponsoring such centers, in executive 
-                        facilities.
-            (5) Application.--Notwithstanding any other provision of 
-        this section, if 8 or more child care centers are sponsored in 
-        facilities owned or leased by an Executive agency, the 
-        Administrator shall delegate to the head of the agency the 
-        evaluation and compliance responsibilities assigned to the 
-        Administrator under paragraph (2)(D)(i).
-            (6) Technical assistance, studies, and reviews.--The 
-        Administrator may provide technical assistance, and conduct and 
-        provide the results of studies and reviews, for Executive 
-        agencies, and entities sponsoring child care centers in 
-        executive facilities, on a reimbursable basis, in order to 
-        assist the entities in complying with this section. The 
-        Architect of the Capitol and the Director of the Administrative 
-        Office of the United States Courts may provide technical 
-        assistance, and conduct and provide the results of studies and 
-        reviews, or request that the Administrator provide technical 
-        assistance, and conduct and provide the results of studies and 
-        reviews, for legislative offices and judicial offices, 
-        respectively, and entities operating child care centers in 
-        legislative facilities and judicial facilities, respectively, 
-        on a reimbursable basis, in order to assist the entities in 
-        complying with this section.
-            (7) Council.--The Administrator shall establish an 
-        interagency council, comprised of all Executive agencies 
-        described in paragraph (5), a representative of the Office of 
-        Architect of the Capitol, and a representative of the 
-        Administrative Office of the United States Courts, to 
-        facilitate cooperation and sharing of best practices, and to 
-        develop and coordinate policy, regarding the provision of child 
-        care in the Federal Government.
-            (8) Authorization of appropriations.--There is authorized 
-        to be appropriated to carry out this section $900,000 for 
-        fiscal year 1999 and such sums as may be necessary for each 
-        subsequent fiscal year.
+    (a) In General.--The Administrator shall designate a Flood 
+Insurance Advocate to advocate for the fair treatment of policy holders 
+under the National Flood Insurance Program and property owners in the 
+mapping of flood hazards, the identification of risks from flood, and 
+the implementation of measures to minimize the risk of flood.
+    (b) Duties and Responsibilities.--The duties and responsibilities 
+of the Flood Insurance Advocate designated under subsection (a) shall 
+be to--
+            (1) educate property owners and policyholders under the 
+        National Flood Insurance Program on--
+                    (A) individual flood risks;
+                    (B) flood mitigation; and
+                    (C) measures to reduce flood insurance rates 
+                through effective mitigation; and
+                    (D) the flood insurance rate map review and 
+                amendment process;
+            (2) assist policy holders under the National Flood 
+        Insurance Program and property owners to understand the 
+        procedural requirements related to appealing preliminary flood 
+        insurance rate maps and implementing measures to mitigate 
+        evolving flood risks;
+            (3) assist in the development of regional capacity to 
+        respond to individual constituent concerns about flood 
+        insurance rate map amendments and revisions;
+            (4) coordinate outreach and education with local officials 
+        and community leaders in areas impacted by proposed flood 
+        insurance rate map amendments and revisions; and
+            (5) aid potential policy holders under the National Flood 
+        Insurance Program in obtaining and verifying accurate and 
+        reliable flood insurance rate information when purchasing or 
+        renewing a flood insurance policy.
+    (c) Authorization of Appropriations.--There are authorized to be 
+appropriated for each fiscal year such sums as may be necessary to 
+carry out the duties and responsibilities of the Flood Insurance 
+Advocate.
                                  <all>

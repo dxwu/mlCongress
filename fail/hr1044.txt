@@ -1,19 +1,13 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1044 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1044
 
-      To promote the fitting of firearms with child safety locks.
+   To extend the temporary suspension of duty on Disperse Blue 79:1.
 
 
 _______________________________________________________________________
@@ -21,10 +15,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 12, 1997
+                             March 11, 2013
 
-    Ms. Millender-McDonald introduced the following bill; which was 
-               referred to the Committee on the Judiciary
+   Mr. Watt introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
 
 _______________________________________________________________________
 
@@ -32,60 +26,18 @@ _______________________________________________________________________
 
 
  
-      To promote the fitting of firearms with child safety locks.
+   To extend the temporary suspension of duty on Disperse Blue 79:1.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. DISPERSE BLUE 79:1.
 
-    This Act may be cited as the ``Firearm Child Safety Lock Act of 
-1997''.
-
-SEC. 2. PROHIBITIONS AGAINST TRANSFER OF A FIREARM OR MANUFACTURE OF A 
-              HANDGUN WITHOUT CHILD SAFETY LOCKS.
-
-    (a) Prohibition Against Transfer of Firearm Without Child Safety 
-Lock Attached.--
-            (1) Prohibition.--It shall be unlawful for any person, in 
-        or affecting commerce, to transfer a firearm in the United 
-        States, unless a child safety lock which meets the requirement 
-        of subsection (c) is attached to, or is an integral part of, 
-        the firearm.
-            (2) Penalties.--
-                    (A) Private transfers.--The Secretary shall impose 
-                a civil fine of $1,000 on any person, other than a 
-                licensed dealer or licensed manufacturer, who violates 
-                paragraph (1).
-                    (B) Transfers by federally licensed firearms 
-                dealers.--The Secretary shall impose a civil fine of 
-                $5,000 on any licensed dealer who violates paragraph 
-                (1), and shall revoke any license issued under chapter 
-                44 of title 18, United States Code, to such a licensed 
-                dealer.
-                    (C) Transfers by federally licensed firearms 
-                manufacturers.--The Secretary shall impose a civil fine 
-                of $5,000 on any licensed manufacturer who violates 
-                paragraph (1).
-    (b) Prohibition Against Manufacture of Handgun Without Child Safety 
-Lock Attached.--
-            (1) Prohibition.--It shall be unlawful for any person, in 
-        or affecting commerce, to manufacture a handgun in the United 
-        States, unless a child safety lock which meets the requirement 
-        of subsection (c) is attached to, or is an integral part of, 
-        the firearm.
-            (2) Penalties.--The Secretary shall impose a civil fine of 
-        $5,000 on any person who violates paragraph (1).
-    (c) Child Safety Lock Requirements.--A lock meets the requirements 
-of this subsection if the lock, while activated or attached to the 
-firearm, prevents the firearm from being discharged.
-    (d) Judicial Review.--Not later than 60 days after an individual 
-receives notice from the Secretary of a decision to impose a fine on, 
-or revoke a license of, the individual under this section, the 
-individual may bring an action against the Secretary in any United 
-States district court for de novo review of the decision.
-    (e) Definitions.--As used in this section, the terms ``firearm'', 
-``handgun'', ``dealer'', ``licensed dealer'', ``manufacturer'', 
-``licensed manufacturer'', and ``Secretary'' shall have the meanings 
-given such terms in section 921(a) of title 18, United States Code.
+    (a) In General.--Heading 9902.03.46 of the Harmonized Tariff 
+Schedule of the United States (relating to Disperse Blue 79:1) is 
+amended by striking the date in the effective period column and 
+inserting ``12/31/2016''.
+    (b) Effective Date.--The amendment made by subsection (a) applies 
+to goods entered, or withdrawn from warehouse for consumption, on or 
+after the 15th day after the date of the enactment of this Act.
                                  <all>

@@ -1,21 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1477 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 S. 1477
 
-To amend the Harmonized Tariff Schedule of the United States to provide 
-  that certain goods may be reimported into the United States without 
-                            additional duty.
+  To clarify the rights of Indians and Indian tribes on Indian lands 
+                under the National Labor Relations Act.
 
 
 _______________________________________________________________________
@@ -23,10 +16,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                            November 8, 1997
+                             August 1, 2013
 
-  Mr. D'Amato introduced the following bill; which was read twice and 
-                  referred to the Committee on Finance
+ Mr. Moran (for himself and Mr. Thune) introduced the following bill; 
+  which was read twice and referred to the Committee on Indian Affairs
 
 _______________________________________________________________________
 
@@ -34,73 +27,42 @@ _______________________________________________________________________
 
 
  
-To amend the Harmonized Tariff Schedule of the United States to provide 
-  that certain goods may be reimported into the United States without 
-                            additional duty.
+  To clarify the rights of Indians and Indian tribes on Indian lands 
+                under the National Labor Relations Act.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. REIMPORTATION OF CERTAIN GOODS.
+SECTION 1. SHORT TITLE.
 
-    (a) In General.--Subchapter I of chapter 98 of the Harmonized 
-Tariff Schedule of the United States is amended by inserting in 
-numerical sequence the following new subheading:
-    
+    This Act may be cited as the ``Tribal Labor Sovereignty Act of 
+2013''.
 
-            ``       9801.00.26         Articles,                                                               
-                                         previously                                                             
-                                         imported, with                                                         
-                                         respect to which                                                       
-                                         the duty was                                                           
-                                         paid upon such                                                         
-                                         previous                                                               
-                                         importation if                                                         
-                                         (1) exported                                                           
-                                         within 3 years                                                         
-                                         after the date                                                         
-                                         of such previous                                                       
-                                         importation, (2)                                                       
-                                         sold for                                                               
-                                         exportation and                                                        
-                                         exported to                                                            
-                                         individuals for                                                        
-                                         personal use,                                                          
-                                         (3) reimported                                                         
-                                         without having                                                         
-                                         been advanced in                                                       
-                                         value or                                                               
-                                         improved in                                                            
-                                         condition by any                                                       
-                                         process of                                                             
-                                         manufacture or                                                         
-                                         other means                                                            
-                                         while abroad,                                                          
-                                         (4) reimported                                                         
-                                         as personal                                                            
-                                         returns from                                                           
-                                         those                                                                  
-                                         individuals,                                                           
-                                         whether or not                                                         
-                                         consolidated                                                           
-                                         with other                                                             
-                                         personal returns                                                       
-                                         prior to                                                               
-                                         reimportation,                                                         
-                                         and (5)                                                                
-                                         reimported by or                                                       
-                                         for the account                                                        
-                                         of the person                                                          
-                                         who exported                                                           
-                                         them from the                                                          
-                                         United States                                                          
-                                         within 1 year of                                                       
-                                         such exportation  Free                              Free               
-                                                                                                              ''
+SEC. 2. DEFINITION OF EMPLOYER.
 
-    (b) Effective Date.--The amendment made by this section applies to 
-goods described in subheading 9801.00.26 of the Harmonized Tariff 
-Schedule of United States (as added by subsection (a)) that are 
-reimported into the United States on or after the date that is 15 days 
-after the date of enactment of this Act.
+    Section 2 of the National Labor Relations Act (29 U.S.C. 152) is 
+amended--
+            (1) in paragraph (2), by inserting ``or any enterprise or 
+        institution owned and operated by an Indian tribe and located 
+        on its Indian lands,'' after ``subdivision thereof''; and
+            (2) by adding at the end the following:
+            ``(15) The term `Indian tribe' means any Indian tribe, 
+        band, nation, pueblo, or other organized group or community 
+        which is recognized as eligible for the special programs and 
+        services provided by the United States to Indians because of 
+        their status as Indians.
+            ``(16) The term `Indian' means any individual who is a 
+        member of an Indian tribe.
+            ``(17) The term `Indian lands' means--
+                    ``(A) all lands within the limits of any Indian 
+                reservation;
+                    ``(B) any lands title to which is either held in 
+                trust by the United States for the benefit of any 
+                Indian tribe or individual or held by any Indian tribe 
+                or individual subject to restriction by the United 
+                States against alienation; and
+                    ``(C) any lands in the State of Oklahoma that are 
+                within the boundaries of a former reservation (as 
+                defined by the Secretary of the Interior) of a 
+                federally recognized Indian tribe.''.
                                  <all>

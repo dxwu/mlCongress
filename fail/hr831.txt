@@ -1,20 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 831 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 831
 
-  To provide for the retrocession of the District of Columbia to the 
-               State of Maryland, and for other purposes.
+ To phase out special wage certificates under the Fair Labor Standards 
+ Act of 1938 under which individuals with disabilities may be employed 
+                       at subminimum wage rates.
 
 
 _______________________________________________________________________
@@ -22,14 +17,13 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                           February 25, 1997
+                           February 26, 2013
 
- Mr. Regula (for himself, Mr. Shays, Mr. Rohrabacher, and Mr. Hansen) 
- introduced the following bill; which was referred to the Committee on 
- the Judiciary, and in addition to the Committee on Government Reform 
-   and Oversight, for a period to be subsequently determined by the 
-  Speaker, in each case for consideration of such provisions as fall 
-           within the jurisdiction of the committee concerned
+  Mr. Harper (for himself, Mr. Alexander, Mr. Bishop of Georgia, Mr. 
+ Conyers, Mr. Ellison, Mr. Hastings of Florida, Ms. Moore, Ms. Norton, 
+ Mr. Rush, Mr. Tonko, Mr. Young of Alaska, and Mr. Clyburn) introduced 
+ the following bill; which was referred to the Committee on Education 
+                           and the Workforce
 
 _______________________________________________________________________
 
@@ -37,276 +31,110 @@ _______________________________________________________________________
 
 
  
-  To provide for the retrocession of the District of Columbia to the 
-               State of Maryland, and for other purposes.
+ To phase out special wage certificates under the Fair Labor Standards 
+ Act of 1938 under which individuals with disabilities may be employed 
+                       at subminimum wage rates.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``District of Columbia Retrocession 
-Act''.
+    This Act may be cited as the ``Fair Wages for Workers with 
+Disabilities Act of 2013''.
 
-SEC. 2. RETROCESSION OF DISTRICT OF COLUMBIA TO MARYLAND.
+SEC. 2. FINDINGS.
 
-    (a) In General.--Upon the issuance of a proclamation by the 
-President under section 7 and except as provided in subsection (b), the 
-territory ceded to Congress by the State of Maryland to serve as the 
-District constituting the permanent seat of the Government of the 
-United States is ceded and relinquished to the State of Maryland.
-    (b) Continuation of Federal Control Over National Capital Service 
-Area.--Notwithstanding subsection (a), Congress shall continue to 
-exercise exclusive legislative authority and control over the District 
-of Columbia, which shall consist of the National Capital Service Area 
-described in section 4.
+    Congress finds the following:
+            (1) Current Federal law allows the Secretary of Labor to 
+        grant special wage certificates to entities that provide 
+        employment to workers with disabilities, allowing such entities 
+        to pay their disabled workers at rates that are lower than the 
+        Federal minimum wage.
+            (2) The practice of paying workers with disabilities less 
+        than the Federal minimum wage dates back to the 1930s, when 
+        there were virtually no employment opportunities for disabled 
+        workers in the mainstream workforce.
+            (3) Today, advancements in vocational rehabilitation, 
+        technology, and training provide disabled workers with greater 
+        opportunities than in the past, and the number of such workers 
+        in the national workforce has dramatically increased.
+            (4) Employees with disabilities, when provided the proper 
+        rehabilitation services, training, and tools, can be as 
+        productive as nondisabled employees. Even those individuals 
+        that are considered most severely disabled have been able to 
+        successfully obtain employment earning minimum wage or higher.
+            (5) While some employers possessing special wage 
+        certificates claim to provide rehabilitation and training to 
+        disabled workers to prepare them for competitive employment, 
+        the fact that such employers can pay their workers less than 
+        the Federal minimum wage gives them an incentive to exploit the 
+        cheap labor provided by their disabled workers rather than to 
+        prepare those workers for integrated employment in the 
+        mainstream economy.
+            (6) Many employers with a history of paying subminimum 
+        wages benefit from philanthropic donations and preferred status 
+        when bidding on Federal contracts. Yet they claim that paying 
+        minimum wage to their employees with disabilities would result 
+        in lack of profitability and forced reduction of their 
+        workforces.
+            (7) Other employers, recognizing that the payment of 
+        subminimum wages is in fact exploitation of disabled workers, 
+        are now paying the Federal minimum wage, or higher, to their 
+        employees with disabilities without reducing their workforces, 
+        while still maintaining their profitability. For example, 
+        National Industries for the Blind (NIB) agencies exploited 
+        their blind employees for years through the payment of 
+        subminimum wages, claiming they could not maintain 
+        profitability otherwise. Now, ``All NIB associated agencies are 
+        committed to the NIB Board policy to pay employees, whose only 
+        disability is blindness, at or above the Federal minimum wage 
+        or their state minimum wage, whichever is highest.''
+            (8) The Wage and Hour Division of the Department of Labor 
+        is charged with the responsibility for oversight of these 
+        special wage certificates. The results from thorough 
+        investigations conducted by the Government Accountability 
+        Office--``Stronger Federal Efforts Needed for Providing 
+        Employment Opportunities and Enforcing Labor Standards in 
+        Sheltered Workshops, Report to the Congress, Comptroller 
+        General of the United States'' (HRD-81-99) and ``Report to 
+        Congressional Requesters, Special Wage Program: Centers Offer 
+        Employment and Support Services to Workers With Disabilities, 
+        But Labor Should Improve Oversight'' (GAO-01-886)--explain that 
+        due to lack of capacity, training, and resources, the Wage and 
+        Hour Division is incapable of enforcing compliance with the 
+        subminimum wage provision. Furthermore, the significant 
+        appropriation that would be required to improve oversight of 
+        the regulation would be better spent improving employment 
+        outcomes for people with disabilities.
+            (9) According to the rules established under section 14(c) 
+        of the Fair Labor Standards Act of 1938, employers are to 
+        determine the special wage to be paid to a disabled employee 
+        through a complicated method that unfairly establishes a 
+        productivity benchmark that would be difficult for anyone to 
+        maintain. The inability of many employers to correctly 
+        establish the wage pursuant to the rule has regularly resulted 
+        in disabled employees receiving even less than the special 
+        minimum wage (below the federally established minimum wage) 
+        that they should have received under the regulation.
 
-SEC. 3. EFFECT ON JUDICIAL PROCEEDINGS IN DISTRICT OF COLUMBIA.
+SEC. 3. TRANSITION TO FAIR WAGES.
 
-    (a) Continuation of Suits.--No writ, action, indictment, cause, or 
-proceeding pending in any court of the District of Columbia on the 
-effective date of this Act shall abate as a result of the enactment of 
-this Act, but shall be transferred and shall proceed within such 
-appropriate court of the State of Maryland as established under the 
-laws or constitution of the State of Maryland.
-    (b) Appeals.--An order or decision of any court of the District of 
-Columbia for which no appeal has been filed as of the effective date of 
-this Act shall be considered an order or decision of a court of the 
-State of Maryland for purposes of appeal from and appellate review of 
-such order or decision in an appropriate court of the State of 
-Maryland.
-
-SEC. 4. NATIONAL CAPITAL SERVICE AREA.
-
-    (a) Description.--The National Capital Service Area referred to in 
-section 2(b) is comprised of the principal Federal monuments, the White 
-House, the Capitol Building, the United States Supreme Court Building, 
-and the Federal executive, legislative, and judicial office buildings 
-located adjacent to the Mall and the Capitol Building (but shall not 
-include the District Building), and is more particularly described as 
-the territory located within the following boundaries:
-            Beginning at the point on the present Virginia-District of 
-        Columbia boundary due west of the northernmost point of 
-        Theodore Roosevelt Island and running due east of the eastern 
-        shore of the Potomac River;
-            thence generally south along the shore at the mean high 
-        water mark to the northwest corner of the Kennedy Center;
-            thence east along the north side of the Kennedy Center to a 
-        point where it reaches the E Street Expressway;
-            thence east on the expressway to E Street Northwest and 
-        thence east on E Street Northwest to Nineteenth Street 
-        Northwest;
-            thence north on Nineteenth Street Northwest to F Street 
-        Northwest;
-            thence east on F Street Northwest to Eighteenth Street 
-        Northwest;
-            thence south on Eighteenth Street Northwest to Constitution 
-        Avenue Northwest;
-            thence east on Constitution Avenue to Seventeenth Street 
-        Northwest;
-            thence north on Seventeenth Street Northwest to H Street 
-        Northwest;
-            thence east on H Street Northwest to Madison Place 
-        Northwest;
-            thence south on Madison Place Northwest to Pennsylvania 
-        Avenue Northwest;
-            thence east on Pennsylvania Avenue Northwest to Fifteenth 
-        Street Northwest;
-            thence south on Fifteenth Street Northwest to Pennsylvania 
-        Avenue Northwest;
-            thence southeast on Pennsylvania Avenue Northwest to Tenth 
-        Street Northwest;
-            thence north on Tenth Street Northwest to E Street 
-        Northwest;
-            thence east on E Street Northwest to Ninth Street 
-        Northwest;
-            thence south on Ninth Street Northwest to Pennsylvania 
-        Avenue Northwest;
-            thence southeast on Pennsylvania Avenue Northwest to John 
-        Marshall Place Northwest;
-            thence north on John Marshall Place Northwest to C Street 
-        Northwest;
-            thence east on C Street Northwest to Third Street 
-        Northwest;
-            thence north on Third Street Northwest to D Street 
-        Northwest;
-            thence east on D Street Northwest to Second Street 
-        Northwest;
-            thence south on Second Street Northwest to the intersection 
-        of Constitution Avenue Northwest and Louisiana Avenue 
-        Northwest;
-            thence northeast on Louisiana Avenue Northwest to North 
-        Capitol Street;
-            thence north on North Capitol Street to Massachusetts 
-        Avenue Northwest;
-            thence southeast on Massachusetts Avenue Northwest so as to 
-        encompass Union Square;
-            thence following Union Square to F Street Northeast;
-            thence east on F Street Northeast to Second Street 
-        Northeast;
-            thence south on Second Street Northeast to D Street 
-        Northeast;
-            thence west on D Street Northeast to First Street 
-        Northeast;
-            thence south on First Street Northeast to C Street 
-        Northeast;
-            thence east on C Street Northeast to Third Street 
-        Northeast;
-            thence south on Third Street Northeast to Maryland Avenue 
-        Northeast;
-            thence south and west on Maryland Avenue Northeast to 
-        Constitution Avenue Northeast;
-            thence west on Constitution Avenue Northeast to First 
-        Street Northeast;
-            thence south on First Street Northeast to Maryland Avenue 
-        Northeast;
-            thence generally north and east on Maryland Avenue to 
-        Second Street Northeast;
-            thence south on Second Street Northeast to East Capitol 
-        Street;
-            thence east on East Capitol Street to Third Street 
-        Northeast;
-            thence south on Third Street Northeast to Independence 
-        Avenue Southeast;
-            thence west on Independence Avenue Southeast to Second 
-        Street Southeast;
-            thence south on Second Street Southeast to C Street 
-        Southeast;
-            thence west on C Street Southeast to New Jersey Avenue 
-        Southeast;
-            thence south on New Jersey Avenue Southeast to D Street 
-        Southeast;
-            thence west on D Street Southeast to Washington Avenue 
-        Southwest;
-            thence north and west on Washington Avenue Southwest to the 
-        intersection of Independence Avenue Southwest and Second Street 
-        Southwest;
-            thence south on Second Street Southwest to Virginia Avenue 
-        Southwest;
-            thence generally west on Virginia Avenue to Third Street 
-        Southwest;
-            thence north on Third Street Southwest to C Street 
-        Southwest;
-            thence west on C Street Southwest to Sixth Street 
-        Southwest;
-            thence south on Sixth Street Southwest to E Street 
-        Southwest;
-            thence west on E Street Southwest to Seventh Street 
-        Southwest;
-            thence north on Seventh Street Southwest to Maryland Avenue 
-        Southwest;
-            thence west on Maryland Avenue Southwest to Ninth Street 
-        Southwest;
-            thence north on Ninth Street Southwest to Independence 
-        Avenue Southwest;
-            thence west on Independence Avenue Southwest to Twelfth 
-        Street Southwest;
-            thence south on Twelfth Street Southwest to D Street 
-        Southwest;
-            thence west on D Street Southwest to Fourteenth Street 
-        Southwest;
-            thence south on Fourteenth Street Southwest to the middle 
-        of the Washington Channel;
-            thence generally south and east along the midchannel of the 
-        Washington Channel to a point due west of the northern boundary 
-        line of Fort Lesley McNair;
-            thence due east to the side of the Washington Channel;
-            thence following generally south and east along the side of 
-        the Washington Channel at the mean high water mark, to the 
-        point of confluence with the Anacostia River, and along the 
-        northern shore at the mean high water mark to the northernmost 
-        point of the Eleventh Street Bridge;
-            thence generally south and west along such shore at the 
-        mean high water mark to the point of confluence of the 
-        Anacostia and Potomac Rivers;
-            thence generally south and east along the northern side of 
-        the Eleventh Street Bridge to the eastern shore of the 
-        Anacostia River;
-            thence generally south along the eastern shore at the mean 
-        high water mark of the Potomac River to the point where it 
-        meets the present southeastern boundary line of the District of 
-        Columbia;
-            thence south and west along such southeastern boundary line 
-        to the point where it meets the present Virginia-District of 
-        Columbia boundary;
-            thence generally north and west up the Potomac River along 
-        the Virginia-District of Columbia boundary to the point of 
-        beginning.
-    (b) Streets and Sidewalks.--The National Capital Service Area shall 
-include any street (and sidewalk thereof) that bounds such Area.
-    (c) Affronting or Abutting Federal Real Property.--
-            (1) In general.--The National Capital Service Area shall 
-        include any Federal real property affronting or abutting such 
-        Area as of the effective date of this Act.
-            (2) Property included.--For purposes of paragraph (1), 
-        Federal real property affronting or abutting the National 
-        Capital Service Area shall--
-                    (A) include the Department of Housing and Urban 
-                Development Building, the Department of Energy 
-                Building, Fort Lesley McNair, the Washington Navy Yard, 
-                the Anacostia Naval Annex, the United States Naval 
-                Station, Bolling Air Force Base, and the Naval Research 
-                Laboratory; and
-                    (B) not include any portion of Rock Creek Park, any 
-                portion of Anacostia Park east of the northern side of 
-                the Eleventh Street Bridge, or any territory not 
-                located in the District of Columbia on the day before 
-                the date of the enactment of this Act.
-
-SEC. 5. TRANSITION PROVISIONS RELATING TO HOUSE OF REPRESENTATIVES.
-
-    (a) Temporary Increase in Apportionment.--
-            (1) In general.--Until the taking effect of the first 
-        reapportionment occurring after the effective date of this 
-        Act--
-                    (A) the individual serving as the Delegate to the 
-                House of Representatives from the District of Columbia 
-                shall serve as a member of the House of Representatives 
-                from the State of Maryland;
-                    (B) the State of Maryland shall be entitled to 1 
-                additional Representative until the taking effect of 
-                such reapportionment; and
-                    (C) such Representative shall be in addition to the 
-                membership of the House of Representatives as now 
-                prescribed by law.
-            (2) Increase not counted against total number of members.--
-        The temporary increase in the membership of the House of 
-        Representatives provided under paragraph (1) shall not operate 
-        to either increase or decrease the permanent membership of the 
-        House of Representatives as prescribed in the Act of August 8, 
-        1911 (37 Stat. 13; 2 U.S.C. 2), nor shall such temporary 
-        increase affect the basis of reapportionment established by the 
-        Act of November 15, 1941 (55 Stat. 761; 2 U.S.C. 2a), for the 
-        82nd Congress and each Congress thereafter.
-    (b) Repeal of Laws Providing for Delegate from the District of 
-Columbia.--Sections 202 and 204 of the District of Columbia Delegate 
-Act (Public Law 91-405; sections 1-401 and 1-402, D.C. Code) are 
-repealed, and the provisions of law amended or repealed by such 
-sections are restored or revived as if such sections had not been 
-enacted.
-
-SEC. 6. EFFECT ON OTHER LAWS.
-
-    No law or regulation which is in force on the effective date of 
-this Act shall be deemed amended or repealed by this Act except to the 
-extent specifically provided in this Act, or to the extent that such 
-law or regulation is inconsistent with this Act.
-
-SEC. 7. PROCLAMATION REGARDING ACCEPTANCE OF RETROCESSION BY MARYLAND.
-
-    Not later than 30 days after the State of Maryland enacts 
-legislation accepting the retrocession described in section 2(a), the 
-President shall issue a proclamation announcing such acceptance and 
-declaring that the territory ceded to Congress by the State of Maryland 
-to serve as the District constituting the permanent seat of the 
-Government of the United States has been ceded back to the State of 
-Maryland.
-
-SEC. 8. EFFECTIVE DATE.
-
-    The provisions of this Act and the amendments made by this Act 
-shall take effect on the date the President issues a proclamation under 
-section 7 or the date of the ratification of an amendment to the 
-Constitution of the United States repealing the twenty-third article of 
-amendment to the Constitution, whichever comes later.
+            (1) Discontinuance.--Effective on the date of enactment of 
+        this Act, the Secretary of Labor shall discontinue issuing 
+        special wage certificates under section 14(c) of the Fair Labor 
+        Standards Act of 1938 (29 U.S.C. 214(c)) to any new entities 
+        not currently holding a certificate.
+            (2) Transition.--All special wage certificates held on the 
+        date of enactment of this Act--
+                    (A) by private for profit entities shall be revoked 
+                1 year after such date of enactment;
+                    (B) by public or governmental entities shall be 
+                revoked 2 years after such date of enactment; and
+                    (C) by non-profit entities shall be revoked 3 years 
+                after such date of enactment.
+            (3) Repeal.--Effective 3 years from the date of enactment 
+        of this Act, section 14(c) of the Fair Labor Standards Act of 
+        1938 (29 U.S.C. 214(c)) is repealed and any remaining special 
+        wage certificates issued under such section shall be revoked.
                                  <all>

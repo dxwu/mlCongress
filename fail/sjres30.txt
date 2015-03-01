@@ -1,20 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S.J. Res. 30 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
-  1st Session
+113th CONGRESS
+  2d Session
 S. J. RES. 30
 
-    Designating March 1, 1998 as ``United States Navy Asiatic Fleet 
-                Memorial Day'', and for other purposes.
+To disapprove a rule of the Environmental Protection Agency relating to 
+    greenhouse gas emissions from electric utility generating units.
 
 
 _______________________________________________________________________
@@ -22,11 +16,18 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                              May 6, 1997
+                            January 16, 2014
 
-Mr. Warner (for himself, Mr. Inouye, Mr. Thurmond, and Mrs. Feinstein) 
-  introduced the following joint resolution; which was read twice and 
-               referred to the Committee on the Judiciary
+   Mr. McConnell (for himself, Mr. Vitter, Mr. Moran, Mr. Scott, Mr. 
+ Hoeven, Mr. Portman, Mr. Thune, Mr. Paul, Mr. Hatch, Mr. Inhofe, Mr. 
+Blunt, Mr. Barrasso, Mr. Enzi, Mr. Roberts, Mr. Sessions, Mr. Isakson, 
+   Mr. Flake, Mr. Rubio, Mr. Johanns, Mr. Boozman, Mrs. Fischer, Ms. 
+ Murkowski, Mr. Cornyn, Mr. Johnson of Wisconsin, Mr. Risch, Mr. Burr, 
+ Mr. Shelby, Mr. Chambliss, Mr. Coburn, Mr. Grassley, Mr. McCain, Mr. 
+Alexander, Mr. Crapo, Mr. Lee, Mr. Coats, Mr. Toomey, Mr. Cochran, Mr. 
+Cruz, Mr. Kirk, Mr. Wicker, Mr. Corker, and Mr. Graham) introduced the 
+ following joint resolution; which was read twice and referred to the 
+               Committee on Environment and Public Works
 
 _______________________________________________________________________
 
@@ -34,45 +35,14 @@ _______________________________________________________________________
 
 
  
-    Designating March 1, 1998 as ``United States Navy Asiatic Fleet 
-                Memorial Day'', and for other purposes.
+To disapprove a rule of the Environmental Protection Agency relating to 
+    greenhouse gas emissions from electric utility generating units.
 
-Whereas the United States established the Asiatic Fleet of the Navy in 1910 to 
-        protect American nationals, policies, and possessions in the Far East;
-Whereas the sailors and Marines of the Asiatic Fleet ensured the safety of 
-        United States citizens and foreign nationals, and provided humanitarian 
-        assistance, in that region during the Chinese civil war, the Yangtze 
-        Flood of 1931, and the outbreak of Sino-Japanese hostilities;
-Whereas in 1940, due to deteriorating political relations and increasing 
-        tensions between the United States and Japan, a reinforced Asiatic Fleet 
-        began concentrating on the defense of the Philippines and engaged in 
-        extensive training to ensure maximum operational readiness for any 
-        eventuality;
-Whereas following the declaration of war against Japan, the warships, 
-        submarines, and aircraft of the Asiatic Fleet singly or in task forces 
-        courageously fought many naval battles against a superior Japanese 
-        armada; and
-Whereas the Asiatic Fleet directly suffered the loss of 22 ships, 1,826 men 
-        killed or missing in action, and 518 men captured and imprisoned under 
-        the worst of conditions with many of them dying while held as prisoners 
-        of war: Now, therefore, be it
     Resolved by the Senate and House of Representatives of the United 
-States of America in Congress assembled,
-
-SECTION 1. CONGRESSIONAL COMMENDATION.
-
-    Congress--
-            (1) commends the personnel who served in the Asiatic Fleet 
-        of the United States Navy during the period 1910 to 1942; and
-            (2) honors those who gave their lives in the line of duty 
-        while serving in the Asiatic Fleet.
-
-SEC. 2. UNITED STATES NAVY ASIATIC FLEET MEMORIAL DAY.
-
-    (a) Designation.--March 1, 1998 is designated as ``United States 
-Navy Asiatic Fleet Memorial Day''.
-    (b) Proclamation.--The President is authorized and requested to 
-issue a proclamation calling upon the people of the United States to 
-observe United States Navy Asiatic Fleet Memorial Day with appropriate 
-programs, ceremonies, and activities.
+States of America in Congress assembled, That Congress disapproves the 
+rule submitted by the Environmental Protection Agency relating to new 
+source performance standards for emissions of carbon dioxide for new 
+affected fossil fuel-fired electric utility generating units (published 
+at 79 Fed. Reg. 1430 (January 8, 2014)), and such rule shall have no 
+force or effect.
                                  <all>

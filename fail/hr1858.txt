@@ -1,20 +1,17 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1858 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1858
 
-     To prohibit employment discrimination on the basis of sexual 
-                              orientation.
+   To amend the Congressional Accountability Act of 1995 to provide 
+   enhanced enforcement authority for occupational safety and health 
+     protections applicable to the legislative branch, to provide 
+ whistleblower protections and other antidiscrimation protections for 
+      employees of the legislative branch, and for other purposes.
 
 
 _______________________________________________________________________
@@ -22,45 +19,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             June 10, 1997
+                              May 7, 2013
 
- Mr. Shays (for himself, Mr. Frank of Massachusetts, Mr. Abercrombie, 
-  Mr. Ackerman, Mr. Allen, Mr. Andrews, Mr. Baldacci, Mr. Barrett of 
- Wisconsin, Mr. Becerra, Mr. Berman, Mr. Blagojevich, Mr. Blumenauer, 
- Mr. Boehlert, Mr. Bonior, Mr. Brown of California, Mr. Brown of Ohio, 
- Mr. Campbell, Mr. Capps, Mr. Cardin, Ms. Carson, Ms. Christian-Green, 
-   Mr. Clay, Mrs. Clayton, Mr. Clyburn, Mr. Conyers, Mr. Coyne, Mr. 
-    Cummings, Mr. Davis of Illinois, Mr. DeFazio, Ms. DeGette, Mr. 
-Delahunt, Ms. DeLauro, Mr. Dellums, Mr. Deutsch, Mr. Dicks, Mr. Dixon, 
-    Mr. Engel, Ms. Eshoo, Mr. Evans, Mr. Faleomavaega, Mr. Farr of 
-California, Mr. Fattah, Mr. Fazio of California, Mr. Filner, Mr. Flake, 
- Mr. Foglietta, Mr. Ford, Mr. Frelinghuysen, Mr. Frost, Ms. Furse, Mr. 
- Gejdenson, Mr. Gephardt, Mr. Gilman, Mr. Gonzalez, Mr. Greenwood, Mr. 
-Gutierrez, Ms. Harman, Mr. Hastings of Florida, Mr. Hinchey, Ms. Hooley 
- of Oregon, Mr. Horn, Mr. Hoyer, Ms. Jackson-Lee of Texas, Mr. Jackson 
- of Illinois, Mr. Jefferson, Ms. Eddie Bernice Johnson of Texas, Mrs. 
- Johnson of Connecticut, Mrs. Kelly, Mr. Kennedy of Massachusetts, Mr. 
-Kennedy of Rhode Island, Mrs. Kennelly of Connecticut, Mr. Kildee, Ms. 
- Kilpatrick, Mr. Kind, Mr. Kolbe, Mr. Kucinich, Mr. Lantos, Mr. Leach, 
- Mr. Levin, Mr. Lewis of Georgia, Ms. Lofgren, Mrs. Lowey, Mr. Luther, 
- Mrs. Maloney of New York, Mr. Maloney of Connecticut, Mr. Markey, Mr. 
-   Martinez, Mr. Matsui, Mrs. McCarthy of New York, Ms. McCarthy of 
- Missouri, Mr. McDermott, Mr. McGovern, Mr. McHale, Ms. McKinney, Mr. 
-Meehan, Mrs. Meek of Florida, Mr. Menendez, Ms. Millender-McDonald, Mr. 
- Miller of California, Mrs. Mink of Hawaii, Mr. Moakley, Mr. Moran of 
-  Virginia, Mrs. Morella, Mr. Nadler, Mr. Neal of Massachusetts, Ms. 
- Norton, Mr. Olver, Mr. Owens, Mr. Pallone, Mr. Pascrell, Mr. Pastor, 
-Mr. Payne, Ms. Pelosi, Mr. Rangel, Mr. Reyes, Ms. Rivers, Mr. Rothman, 
- Ms. Roybal-Allard, Mr. Rush, Mr. Sabo, Ms. Sanchez, Mr. Sanders, Mr. 
-    Sawyer, Mr. Schumer, Mr. Serrano, Mr. Sherman, Mr. Skaggs, Ms. 
- Slaughter, Mr. Adam Smith of Washington, Ms. Stabenow, Mr. Stark, Mr. 
-   Stokes, Mrs. Tauscher, Mr. Thompson, Mr. Tierney, Mr. Torres, Mr. 
-  Towns, Mr. Traficant, Mr. Underwood, Ms. Velazquez, Mr. Vento, Ms. 
-    Waters, Mr. Watt of North Carolina, Mr. Waxman, Mr. Wexler, Mr. 
-Weygand, Ms. Woolsey, Mr. Wynn, and Mr. Yates) introduced the following 
-    bill; which was referred to the Committee on Education and the 
-   Workforce, and in addition to the Committees on House Oversight, 
-Government Reform and Oversight, and the Judiciary, for a period to be 
+  Ms. Norton introduced the following bill; which was referred to the 
+Committee on House Administration, and in addition to the Committees on 
+   the Judiciary and Education and the Workforce, for a period to be 
 subsequently determined by the Speaker, in each case for consideration 
   of such provisions as fall within the jurisdiction of the committee 
                                concerned
@@ -71,335 +34,430 @@ _______________________________________________________________________
 
 
  
-     To prohibit employment discrimination on the basis of sexual 
-                              orientation.
+   To amend the Congressional Accountability Act of 1995 to provide 
+   enhanced enforcement authority for occupational safety and health 
+     protections applicable to the legislative branch, to provide 
+ whistleblower protections and other antidiscrimation protections for 
+      employees of the legislative branch, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Employment Non-Discrimination Act of 
-1997''.
+    This Act may be cited as the ``Congress Leads by Example Act of 
+2013''.
 
-SEC. 2. PURPOSES.
+SEC. 2. ENHANCED ENFORCEMENT OF PROTECTIONS OF OCCUPATIONAL SAFETY AND 
+              HEALTH ACT APPLICABLE TO LEGISLATIVE BRANCH.
 
-    The purposes of this Act are--
-            (1) to provide a comprehensive Federal prohibition of 
-        employment discrimination on the basis of sexual orientation;
-            (2) to provide meaningful and effective remedies for 
-        employment discrimination on the basis of sexual orientation; 
+    (a) Subpoena Authority for Office of Compliance.--Section 215(c)(1) 
+of the Congressional Accountability Act of 1995 (2 U.S.C. 1341(c)(1)) 
+is amended--
+            (1) by striking ``subsections (a),'' and inserting 
+        ``subsections (a), (b),''; and
+            (2) by striking ``657(a),'' and inserting ``657(a), (b),''.
+    (b) Recordkeeping Requirements for Employing Offices.--Section 
+215(c) of such Act (2 U.S.C. 1341(c)) is amended--
+            (1) by redesignating paragraphs (3) through (6) as 
+        paragraphs (4) through (7);
+            (2) in paragraph (6), as so redesignated, by striking 
+        ``paragraph (3) or (4)'' and inserting ``paragraph (4) or 
+        (5)''; and
+            (3) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) Recordkeeping requirements.--Each employing office 
+        shall be subject to the requirements of subsection (c) of 
+        section 8 of the Occupational Safety and Health Act of 1970 (29 
+        U.S.C. 657(c)) that are applicable to employers under such 
+        section, and the General Counsel shall exercise the authorities 
+        granted to the Secretary of Labor under such subsection.''.
+    (c) Prohibiting Retaliation.--
+            (1) In general.--Section 215 of such Act (2 U.S.C. 1341) is 
+        amended--
+                    (A) by redesignating subsections (d), (e), (f), and 
+                (g) as subsections (e), (f), (g), and (h); and
+                    (B) by inserting after subsection (c) the following 
+                new subsection:
+    ``(d) Prohibiting Retaliation.--
+            ``(1) In general.--An employing office may not discharge or 
+        in any manner discriminate against any covered employee because 
+        such employee has requested the General Counsel to take any 
+        action authorized under this section, or has instituted or 
+        caused to be instituted, or has testified or is about to 
+        testify in, any proceeding that arises from the application of 
+        this section to the employing office, or because of the 
+        exercise by such employee on behalf of himself or others of any 
+        right provided under this section.
+            ``(2) Enforcement.--
+                    ``(A) Charge filed with general counsel.--Any 
+                covered employee who believes that he has been 
+                discharged or otherwise discriminated against by an 
+                employing office in violation of paragraph (1) may file 
+                a charge against the employing office with the General 
+                Counsel not later than 180 days after the occurrence of 
+                the alleged violation. The General Counsel shall 
+                investigate the charge.
+                    ``(B) Mediation.--If, upon investigation under 
+                subparagraph (A), the General Counsel believes that a 
+                violation of paragraph (1) may have occurred and that 
+                mediation may be helpful in resolving the dispute, the 
+                General Counsel may request mediation under subsections 
+                (b) through (d) of section 1403 between the covered 
+                employee and the employing office.
+                    ``(C) Complaint; hearing; board review.--If 
+                mediation under subparagraph (B) has not succeeded in 
+                resolving the dispute (or if the General Counsel does 
+                not request mediation under such subparagraph) and the 
+                General Counsel believes that a violation of paragraph 
+                (1) may have occurred, the General Counsel may file 
+                with the Office a complaint against the employing 
+                office. The complaint shall be submitted to a hearing 
+                officer for decision pursuant to subsections (b) 
+                through (h) of section 1405 and any person who has 
+                filed a charge under subparagraph (A) may intervene as 
+                of right, with the full rights of a party. The decision 
+                of the hearing officer shall be subject to review by 
+                the Board pursuant to section 1406.
+                    ``(D) Judicial review.--An individual who is 
+                aggrieved by a final decision of the Board under 
+                subparagraph (C) may file a petition for review in the 
+                United States Court of Appeals for the Federal Circuit, 
+                pursuant to section 1407.''.
+            (2) Conforming amendments.--Section 215 of such Act (2 
+        U.S.C. 1341) is amended--
+                    (A) in subsection (g), as redesignated by paragraph 
+                (1)(A), by striking ``subsection (e)(1)'' and inserting 
+                ``subsection (f)(1)'' and by striking ``subsection 
+                (e)(2)'' and inserting ``subsection (f)(2)''; and
+                    (B) in subsection (h)(1), as redesignated by 
+                paragraph (1)(A), by striking ``(e)(3)'' and inserting 
+                ``(f)(3)''.
+    (d) Effective Date.--
+            (1) In general.--Subject to paragraph (2), the amendments 
+        made by this section shall take effect upon the adoption of 
+        regulations promulgated by the Board of Directors of the Office 
+        of Compliance to implement the amendments in accordance with 
+        section 304 of the Congressional Accountability Act of 1995 (2 
+        U.S.C. 1384).
+            (2) Interim applicability.--During the period that begins 
+        on the date of the enactment of this Act and ends on the 
+        effective date of the regulations referred to in paragraph (1), 
+        the amendments made by this section shall be implemented by the 
+        Board of Directors of the Office of Compliance, the General 
+        Counsel of the Office of Compliance, or a hearing officer or 
+        court under the Congressional Accountability Act of 1995 (as 
+        the case may be) by applying (to the extent necessary and 
+        appropriate) the most relevant substantive executive agency 
+        regulations promulgated to implement the provisions of law that 
+        are made applicable to employing offices and covered employees 
+        (as such terms are defined in the Congressional Accountability 
+        Act of 1995) by such amendments.
+
+SEC. 3. APPLICATION TO LEGISLATIVE BRANCH EMPLOYEES OF WHISTLEBLOWER 
+              PROTECTION RULES AND RESTRICTIONS ON DISCHARGE BY REASON 
+              OF GARNISHMENT AND DISCRIMINATORY TREATMENT BY REASON OF 
+              BANKRUPTCY.
+
+    (a) In General.--Part A of title II of the Congressional 
+Accountability Act of 1995 (2 U.S.C. 1311 et seq.) is amended--
+            (1) in the heading, by striking ``fair labor standards,'' 
+        and all that follows and inserting ``and other protections and 
+        benefits'';
+            (2) by redesignating section 207 as section 209; and
+            (3) by inserting after section 206 the following new 
+        sections:
+
+``SEC. 207. RIGHTS AND PROTECTIONS UNDER WHISTLEBLOWER PROTECTION 
+              RULES.
+
+    ``(a) Rights and Protections Described.--
+            ``(1) In general.--No employing office may take or fail to 
+        take, or threaten to take or fail to take, a personnel action 
+        (within the meaning of chapter 23 of title 5, United States 
+        Code) with respect to any covered employee or applicant for 
+        employment because of--
+                    ``(A) any disclosure of information by a covered 
+                employee or applicant which the employee or applicant 
+                reasonably believes evidences--
+                            ``(i) a violation of any law, rule, or 
+                        regulation, or
+                            ``(ii) gross mismanagement, a gross waste 
+                        of funds, an abuse of authority, or a 
+                        substantial and specific danger to public 
+                        health or safety,
+                if such disclosure is not specifically prohibited by 
+                law and if such information is not specifically 
+                required by Executive order or the rules of the House 
+                of Representatives or Senate to be kept secret in the 
+                interest of national defense or the conduct of foreign 
+                affairs; or
+                    ``(B) any disclosure to the General Counsel, or to 
+                the Inspector General of an executive agency or office 
+                of the legislative branch or another employee 
+                designated by the head of the agency or office to 
+                receive such disclosures, of information which the 
+                employee or applicant reasonably believes evidences--
+                            ``(i) a violation of any law, rule, or 
+                        regulation, or
+                            ``(ii) gross mismanagement, a gross waste 
+                        of funds, an abuse of authority, or a 
+                        substantial and specific danger to public 
+                        health or safety.
+            ``(2) Definitions.--For purposes of this section and for 
+        purposes of applying the procedures established under title IV 
+        for the consideration of alleged violations of this section--
+                    ``(A) the term `covered employee' includes an 
+                employee of the Government Accountability Office or 
+                Library of Congress; and
+                    ``(B) the term `employing office' includes the 
+                Government Accountability Office and the Library of 
+                Congress.
+    ``(b) Remedy.--The remedy for a violation of subsection (a) shall 
+be such remedy as would be appropriate if awarded under chapter 12 of 
+title 5, United States Code, with respect to a prohibited personnel 
+practice described in section 2302(b)(8) of such title.
+    ``(c) Regulations To Implement Section.--
+            ``(1) In general.--The Board shall, pursuant to section 
+        304, issue regulations to implement this section.
+            ``(2) Agency regulations.--The regulations issued under 
+        paragraph (1) shall be the same as the substantive regulations 
+        promulgated by the Merit Systems Protection Board to implement 
+        chapters 12 and 23 of title 5, United States Code, except to 
+        the extent that the Board of Directors of the Office of 
+        Compliance may determine, for good cause shown and stated 
+        together with the regulation, that a modification of such 
+        regulations would be more effective for the implementation of 
+        the rights and protections under this section.
+
+``SEC. 208. RESTRICTION ON DISCHARGE FROM EMPLOYMENT BY REASON OF 
+              GARNISHMENT OR DISCRIMINATORY TREATMENT BY REASON OF 
+              BANKRUPTCY.
+
+    ``(a) Garnishment.--
+            ``(1) Rights and protections described.--No employing 
+        office may discharge any covered employee by reason of the fact 
+        that the employee's earnings have been subjected to garnishment 
+        for any one indebtedness.
+            ``(2) Remedy.--The remedy for a violation of paragraph (1) 
+        shall be such remedy as would be appropriate if awarded under 
+        section 304(b) of the Consumer Credit Protection Act (15 U.S.C. 
+        1674(b)).
+    ``(b) Bankruptcy.--
+            ``(1) Rights and protections described.--No employing 
+        office may deny employment to, terminate the employment of, or 
+        discriminate with respect to employment against, a covered 
+        employee who is or has been a debtor under title 11, United 
+        States Code, or a bankrupt or a debtor under the Bankruptcy 
+        Act, or another covered employee with whom such bankrupt or 
+        debtor has been associated, solely because such bankrupt or 
+        debtor--
+                    ``(A) is or has been a debtor under such title or a 
+                debtor or bankrupt under such Act;
+                    ``(B) has been insolvent before the commencement of 
+                a case under such title or during the case but before 
+                the grant or denial of a discharge; or
+                    ``(C) has not paid a debt that is dischargeable in 
+                a case under such title or that was discharged under 
+                such Act.
+            ``(2) Remedy.--The remedy for a violation of paragraph (1) 
+        would be such remedy as would be appropriate if awarded with 
+        respect to a violation of section 525(a) or (b) of title 11, 
+        United States Code.
+    ``(c) Definitions.--For purposes of this section and for purposes 
+of applying the procedures established under title IV for the 
+consideration of alleged violations of this section--
+            ``(1) the term `covered employee' includes an employee of 
+        the Government Accountability Office or the Library of 
+        Congress; and
+            ``(2) the term `employing office' includes the Government 
+        Accountability Office and the Library of Congress.
+    ``(d) Regulations To Implement Section.--
+            ``(1) In general.--The Board shall, pursuant to section 
+        304, issue regulations to implement this section.
+            ``(2) Agency regulations.--The regulations issued under 
+        paragraph (1) shall be the same as the substantive regulations 
+        promulgated to implement section 304 of the Consumer Credit 
+        Protection Act (15 U.S.C. 1674) and the substantive regulations 
+        promulgated to implement section 525 of title 11, United States 
+        Code, except to the extent that the Board of Directors of the 
+        Office of Compliance may determine, for good cause shown and 
+        stated together with the regulation, that a modification of any 
+        such regulation would be more effective for the implementation 
+        of the rights and protections under this section.''.
+    (b) Conforming Amendment to Bankruptcy Code.--Section 525 of title 
+11, United States Code, is amended by adding at the end the following 
+new subsection:
+    ``(d)(1) In the case of an alleged violation of subsection (a) or 
+(b) by a governmental unit which is a legislative branch employing 
+office with respect to an employee of such office who is a legislative 
+branch covered employee, the procedures for consideration of the 
+alleged violation shall consist of the procedures applicable under 
+title IV of the Congressional Accountability Act of 1995.
+    ``(2) In this subsection--
+            ``(A) the term `legislative branch employing office' means 
+        an employing office described in section 101(9) of the 
+        Congressional Accountability Act of 1995, and includes the 
+        Government Accountability Office and the Library of Congress; 
         and
-            (3) to invoke congressional powers, including the powers to 
-        enforce the 14th amendment to the Constitution and to regulate 
-        interstate commerce, in order to prohibit employment 
-        discrimination on the basis of sexual orientation.
+            ``(B) the term `legislative branch covered employee' means 
+        a covered employee described in section 101(3) of the 
+        Congressional Accountability Act of 1995, and includes an 
+        employee of the Government Accountability Office or the Library 
+        of Congress.''.
+    (c) Other Conforming Amendment.--Section 102(a) of the 
+Congressional Accountability Act of 1995 (2 U.S.C. 1302(a)) is amended 
+by adding at the end the following new paragraphs:
+            ``(12) Section 2302(b)(8) of title 5, United States Code.
+            ``(13) Section 304 of the Consumer Credit Protection Act 
+        (15 U.S.C. 1674).
+            ``(14) Section 525 of title 11, United States Code.''.
+    (d) Clerical Amendment.--The table of contents for part A of title 
+II of the Congressional Accountability Act of 1995 is amended--
+            (1) in the item relating to part A, by striking ``FAIR 
+        LABOR STANDARDS,'' and all that follows and inserting ``AND 
+        OTHER PROTECTIONS AND BENEFITS'';
+            (2) by redesignating the item relating to section 207 as 
+        relating to section 209; and
+            (3) by inserting after the item relating to section 206 the 
+        following:
 
-SEC. 3. DEFINITIONS.
+``Sec. 207. Rights and protections under whistleblower protection 
+                            rules.
+``Sec. 208. Restriction on discharge from employment by reason of 
+                            garnishment or discriminatory treatment by 
+                            reason of bankruptcy.''.
 
-    In this Act:
-            (1) Commission.--The term ``Commission'' means the Equal 
-        Employment Opportunity Commission.
-            (2) Covered entity.--The term ``covered entity'' means an 
-        employer, employment agency, labor organization, joint labor-
-        management committee, an entity to which section 717(a) of the 
-        Civil Rights Act of 1964 (42 U.S.C. 2000e-16(a)) applies, an 
-        employing authority to which section 302(a)(1) of the 
-        Government Employee Rights Act of 1991 (2 U.S.C. 1202(a)(1)) 
-        applies, or an employing office, as defined in section 101 of 
-        the Congressional Accountability Act of 1995 (2 U.S.C. 1301). 
-        The term ``covered entity'' includes an employing office, as 
-        defined in section 401 of title 3, United States Code.
-            (3) Employer.--The term ``employer'' means a person engaged 
-        in an industry affecting commerce (as defined in section 701(h) 
-        of the Civil Rights Act of 1964 (42 U.S.C. 2000e(h))) who has 
-        15 or more employees (as defined in section 701(f) of such Act 
-        (42 U.S.C. 2000e(f)) for each working day in each of 20 or more 
-        calendar weeks in the current or preceding calendar year, and 
-        any agent of such a person, but such term does not include a 
-        bona fide private membership club (other than a labor 
-        organization) that is exempt from taxation under section 501(c) 
-        of the Internal Revenue Code of 1986.
-            (4) Employment agency.--The term ``employment agency'' has 
-        the meaning given the term in section 701(c) of the Civil 
-        Rights Act of 1964 (42 U.S.C. 2000e(c)).
-            (5) Employment or an employment opportunity.--Except as 
-        provided in section 10(a)(1), the term ``employment or an 
-        employment opportunity'' includes job application procedures, 
-        hiring, advancement, discharge, compensation, job training, or 
-        any other term, condition, or privilege of employment, but does 
-        not include the service of a volunteer for which the volunteer 
-        receives no compensation.
-            (6) Labor organization.--The term ``labor organization'' 
-        has the meaning given the term in section 701(d) of the Civil 
-        Rights Act of 1964 (42 U.S.C. 2000e(d)).
-            (7) Person.--The term ``person'' has the meaning given the 
-        term in section 701(a) of the Civil Rights Act of 1964 (42 
-        U.S.C. 2000e(a)).
-            (8) Religious organization.--The term ``religious 
-        organization'' means--
-                    (A) a religious corporation, association, or 
-                society; or
-                    (B) a school, college, university, or other 
-                educational institution or institution of learning, 
-                if--
-                            (i) the institution is in whole or 
-                        substantial part controlled, managed, owned, or 
-                        supported by a religion, religious corporation, 
-                        association, or society; or
-                            (ii) the curriculum of the institution is 
-                        directed toward the propagation of a religion.
-            (9) Sexual orientation.--The term ``sexual orientation'' 
-        means homosexuality, bisexuality, or heterosexuality, whether 
-the orientation is real or perceived.
-            (10) State.--The term ``State'' has the meaning given the 
-        term in section 701(i) of the Civil Rights Act of 1964 (42 
-        U.S.C. 2000e(i)).
+SEC. 4. REQUIRING RETENTION OF RECORDS NECESSARY TO ADMINISTER ANTI-
+              DISCRIMINATION LAWS APPLICABLE TO COVERED EMPLOYEES.
 
-SEC. 4. DISCRIMINATION PROHIBITED.
+    (a) Title VII of the Civil Rights Act; Age Discrimination in 
+Employment Act; Americans With Disabilities Act.--Section 201 of the 
+Congressional Accountability Act of 1995 (2 U.S.C. 1311) is amended--
+            (1) by redesignating subsections (c) and (d) as subsections 
+        (d) and (e); and
+            (2) by inserting after subsection (b) the following new 
+        subsection:
+    ``(c) Retention of Records.--
+            ``(1) Requiring employing offices to retain records 
+        necessary to administer rights and protections.--To the extent 
+        that the following provisions of law require the keeping of 
+        records necessary or appropriate for the administration of this 
+        section, such provisions of law shall apply to employing 
+        offices:
+                    ``(A) Section 709(c) of the Civil Rights Act of 
+                1964 (42 U.S.C. 2000e-8(c)).
+                    ``(B) Section 7(a) of the Age Discrimination in 
+                Employment Act of 1967 (29 U.S.C. 626(a)).
+                    ``(C) Section 107(a) of the Americans with 
+                Disabilities Act of 1990 (42 U.S.C. 12117(a)).
+            ``(2) Effective date.--This subsection shall apply with 
+        respect to records generated on or after the expiration of the 
+        60-day period that begins on the date of the enactment of this 
+        subsection.''.
+    (b) Family and Medical Leave Act of 1993.--
+            (1) In general.--Section 202(a)(1) of such Act (2 U.S.C. 
+        1312(a)(1)) is amended by striking ``sections 101 through 105'' 
+        and inserting ``sections 101 through 105 and section 106(b)''.
+            (2) Effective date.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                amendment made by paragraph (1) shall take effect upon 
+                the adoption of regulations promulgated by the Board of 
+                Directors of the Office of Compliance to implement the 
+                amendment.
+                    (B) Interim applicability.--During the period that 
+                begins on the date of the enactment of this Act and 
+                ends on the effective date of the regulations referred 
+                to in subparagraph (A), the amendment made by paragraph 
+                (1) shall be implemented by the Board of Directors of 
+                the Office of Compliance or a hearing officer or court 
+                under the Congressional Accountability Act of 1995 (as 
+                the case may be) by applying (to the extent necessary 
+                and appropriate) the most relevant substantive 
+                executive agency regulations promulgated to implement 
+                the provision of law that is made applicable to 
+                employing offices and covered employees (as such terms 
+                are defined in the Congressional Accountability Act of 
+                1995) by such amendment.
+    (c) Fair Labor Standards Act of 1938.--
+            (1) In general.--Section 203(a)(1) of such Act (2 U.S.C. 
+        1313(a)(1)) is amended--
+                    (A) by striking ``and section 12(c)'' and inserting 
+                ``section 11(c), and section 12(c)''; and
+                    (B) by striking ``212(c)'' and inserting ``211(c), 
+                212(c)''.
+            (2) Effective date.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                amendment made by paragraph (1) shall take effect upon 
+                the adoption of regulations promulgated by the Board of 
+                Directors of the Office of Compliance to implement the 
+                amendment.
+                    (B) Interim applicability.--During the period that 
+                begins on the date of the enactment of this Act and 
+                ends on the effective date of the regulations referred 
+                to in subparagraph (A), the amendment made by paragraph 
+                (1) shall be implemented by the Board of Directors of 
+                the Office of Compliance or a hearing officer or court 
+                under the Congressional Accountability Act of 1995 (as 
+                the case may be) by applying (to the extent necessary 
+                and appropriate) the most relevant substantive 
+                executive agency regulations promulgated to implement 
+                the provision of law that is made applicable to 
+                employing offices and covered employees (as such terms 
+                are defined in the Congressional Accountability Act of 
+                1995) by such amendment.
 
-    A covered entity shall not, with respect to the employment or an 
-employment opportunity of an individual--
-            (1) subject the individual to a different standard or 
-        different treatment, or otherwise discriminate against the 
-        individual, on the basis of sexual orientation; or
-            (2) discriminate against the individual based on the sexual 
-        orientation of a person with whom the individual is believed to 
-        associate or to have associated.
+SEC. 5. REQUIRING EMPLOYING OFFICES TO POST NOTICE OF RIGHTS OF COVERED 
+              EMPLOYEES AND PROVIDE TRAINING REGARDING RIGHTS AND 
+              REMEDIES.
 
-SEC. 5. RETALIATION AND COERCION PROHIBITED.
+    (a) In General.--Title V of the Congressional Accountability Act of 
+1995 (2 U.S.C. 1431 et seq.) is amended by inserting after section 506 
+the following new section:
 
-    (a) Retaliation.--A covered entity shall not discriminate against 
-an individual because the individual opposed any act or practice 
-prohibited by this Act or because the individual made a charge, 
-assisted, testified, or participated in any manner in an investigation, 
-proceeding, or hearing under this Act.
-    (b) Coercion.--A person shall not coerce, intimidate, threaten, or 
-interfere with any individual in the exercise or enjoyment of, or on 
-account of the individual's having exercised, enjoyed, assisted in, or 
-encouraged the exercise or enjoyment of, any right granted or protected 
-by this Act.
+``SEC. 507. REQUIRING EMPLOYING OFFICES TO POST NOTICE OF RIGHTS OF 
+              COVERED EMPLOYEES AND PROVIDE TRAINING REGARDING RIGHTS 
+              AND REMEDIES.
 
-SEC. 6. BENEFITS.
+    ``(a) Notices of Rights.--Each employing office shall post and keep 
+posted (in conspicuous places upon its premises where notices to 
+covered employees are customarily posted) notices provided by the Board 
+that describe the rights and protections applicable to covered 
+employees of the office under this Act or any other Federal law made 
+applicable to covered employees pursuant to this Act.
+    ``(b) Training.--Each employing office shall provide to the covered 
+employees of such office training regarding the rights and protections 
+and remedies applicable to such employees under this Act or any other 
+Federal law relating to the terms and conditions of employment.
+    ``(c) Effective Date.--This section shall take effect 60 days after 
+the date of the enactment of this section.''.
+    (b) Clerical Amendment.--The table of contents of such Act is 
+amended by amending the item relating to section 507 to read as 
+follows:
 
-    This Act does not apply to the provision of employee benefits to an 
-individual for the benefit of the partner of the individual.
+``Sec. 507. Requiring employing offices to post notice of rights of 
+                            covered employees and provide training 
+                            regarding rights and remedies.''.
 
-SEC. 7. NO DISPARATE IMPACT; COLLECTION OF STATISTICS.
+SEC. 6. COVERAGE OF LEGISLATIVE BRANCH EMPLOYEES UNDER RULES PROTECTING 
+              JURORS' EMPLOYMENT.
 
-    (a) Disparate Impact.--The fact that an employment practice has a 
-disparate impact, as the term ``disparate impact'' is used in section 
-703(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e-2(k)), on the 
-basis of sexual orientation does not establish a prima facie violation 
-of this Act.
-    (b) Collection of Statistics.--The Commission shall not collect 
-statistics on sexual orientation from covered entities, or compel the 
-collection of such statistics by covered entities.
-
-SEC. 8. QUOTAS AND PREFERENTIAL TREATMENT PROHIBITED.
-
-    (a) Quotas.--A covered entity shall not adopt or implement a quota 
-on the basis of sexual orientation.
-    (b) Preferential Treatment.--A covered entity shall not give 
-preferential treatment to an individual on the basis of sexual 
-orientation.
-    (c) Consent Decrees.--The Commission may not enter into a consent 
-decree that includes a quota, or preferential treatment to an 
-individual, based on sexual orientation.
-
-SEC. 9. RELIGIOUS EXEMPTION.
-
-    (a) In General.--Except as provided in subsection (b), this Act 
-shall not apply to a religious organization.
-    (b) Unrelated Business Taxable Income.--This Act shall apply to 
-employment or an employment opportunity for an employment position of a 
-covered entity that is a religious organization, if the duties of the 
-position pertain solely to activities of the organization that generate 
-unrelated business taxable income subject to taxation under section 
-511(a) of the Internal Revenue Code of 1986.
-
-SEC. 10. NONAPPLICATION TO MEMBERS OF THE ARMED FORCES; VETERANS' 
-              PREFERENCES.
-
-    (a) Armed Forces.--
-            (1) Employment or an employment opportunity.--In this Act, 
-        the term ``employment or an employment opportunity'' does not 
-        apply to the relationship between the United States and members 
-        of the Armed Forces.
-            (2) Armed forces.--In paragraph (1), the term ``Armed 
-        Forces'' means the Army, Navy, Air Force, Marine Corps, and 
-        Coast Guard.
-    (b) Veterans' Preferences.--This Act does not repeal or modify any 
-Federal, State, territorial, or local law creating a special right or 
-preference concerning employment or an employment opportunity for a 
-veteran.
-
-SEC. 11. CONSTRUCTION.
-
-    Nothing in this Act shall be construed to prohibit a covered entity 
-from enforcing rules regarding nonprivate sexual conduct, if the rules 
-of conduct are designed for, and uniformly applied to, all individuals 
-regardless of sexual orientation.
-
-SEC. 12. ENFORCEMENT.
-
-    (a) Enforcement Powers.--With respect to the administration and 
-enforcement of this Act in the case of a claim alleged by an individual 
-for a violation of this Act--
-            (1) the Commission shall have the same powers as the 
-        Commission has to administer and enforce--
-                    (A) title VII of the Civil Rights Act of 1964 (42 
-                U.S.C. 2000e et seq.); or
-                    (B) sections 302 and 304 of the Government Employee 
-                Rights Act of 1991 (2 U.S.C. 1202 and 1220);
-        in the case of a claim alleged by the individual for a 
-        violation of such title or of section 302(a)(1) of such Act (2 
-        U.S.C. 1202(a)(1)), respectively;
-            (2) the Librarian of Congress shall have the same powers as 
-        the Librarian of Congress has to administer and enforce title 
-        VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) 
-        in the case of a claim alleged by the individual for a 
-        violation of such title;
-            (3) the Board (as defined in section 101 of the 
-        Congressional Accountability Act of 1995 (2 U.S.C. 1301)) shall 
-        have the same powers as the Board has to administer and enforce 
-        the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et 
-        seq.) in the case of a claim alleged by the individual for a 
-        violation of section 201(a)(1) of such Act (2 U.S.C. 
-        1311(a)(1));
-            (4) the Attorney General shall have the same powers as the 
-        Attorney General has to administer and enforce--
-                    (A) title VII of the Civil Rights Act of 1964 (42 
-                U.S.C. 2000e et seq.); or
-                    (B) sections 302 and 304 of the Government Employee 
-                Rights Act of 1991 (2 U.S.C. 1202 and 1220);
-        in the case of a claim alleged by the individual for a 
-        violation of such title or of section 302(a)(1) of such Act (2 
-        U.S.C. 1202(a)(1)), respectively;
-            (5) the President, the Commission, and the Merit Systems 
-        Protection Board shall have the same powers as the President, 
-        the Commission, and the Board, respectively, have to administer 
-        and enforce chapter 5 of title 3, United States Code, in the 
-        case of a claim alleged by the individual for a violation of 
-        section 411 of such title;
-            (6) a court of the United States shall have the same 
-        jurisdiction and powers as the court has to enforce--
-                    (A) title VII of the Civil Rights Act of 1964 (42 
-                U.S.C. 2000e et seq.) in the case of a claim alleged by 
-                the individual for a violation of such title;
-                    (B) sections 302 and 304 of the Government Employee 
-                Rights Act of 1991 (2 U.S.C. 1202 and 1220) in the case 
-                of a claim alleged by the individual for a violation of 
-                section 302(a)(1) of such Act (2 U.S.C. 1202(a)(1));
-                    (C) the Congressional Accountability Act of 1995 (2 
-                U.S.C. 1301 et seq.) in the case of a claim alleged by 
-                the individual for a violation of section 201(a)(1) of 
-                such Act (2 U.S.C. 1311(a)(1)); and
-                    (D) chapter 5 of title 3, United States Code, in 
-                the case of a claim alleged by the individual for a 
-                violation of section 411 of such title.
-    (b) Procedures and Remedies.--The procedures and remedies 
-applicable to a claim alleged by an individual for a violation of this 
-Act are--
-            (1) the procedures and remedies applicable for a violation 
-        of title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e 
-        et seq.) in the case of a claim alleged by the individual for a 
-        violation of such title;
-            (2) the procedures and remedies applicable for a violation 
-        of section 302(a)(1) of the Government Employee Rights Act of 
-        1991 (2 U.S.C. 1202(a)(1)) in the case of a claim alleged by 
-        the individual for a violation of such section;
-            (3) the procedures and remedies applicable for a violation 
-        of section 201(a)(1) of the Congressional Accountability Act of 
-        1995 (2 U.S.C. 1311(a)(1)) in the case of a claim alleged by 
-        the individual for a violation of such section; and
-            (4) the procedures and remedies applicable for a violation 
-        of section 411 of title 3, United States Code, in the case of a 
-        claim alleged by the individual for a violation of such 
-        section.
-    (c) Other Applicable Provisions.--With respect to a claim alleged 
-by a covered employee (as defined in section 101 of the Congressional 
-Accountability Act of 1995 (2 U.S.C. 1301)) for a violation of this 
-Act, title III of the Congressional Accountability Act of 1995 (2 
-U.S.C. 1381 et seq.) shall apply in the same manner as such title 
-applies with respect to a claim alleged by such a covered employee for 
-a violation of section 201(a)(1) of such Act (2 U.S.C. 1311(a)(1)).
-
-SEC. 13. STATE AND FEDERAL IMMUNITY.
-
-    (a) State Immunity.--A State shall not be immune under the 11th 
-amendment to the Constitution from an action in a Federal court of 
-competent jurisdiction for a violation of this Act.
-    (b) Remedies Against the United States and the States.--
-Notwithstanding any other provision of this Act, in an action or 
-administrative proceeding against the United States or a State for a 
-violation of this Act, remedies (including remedies at law and in 
-equity, and interest) are available for the violation to the same 
-extent as the remedies are available for a violation of title VII of 
-the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) by a private 
-entity, except that--
-            (1) punitive damages are not available; and
-            (2) compensatory damages are available to the extent 
-        specified in section 1977A(b) of the Revised Statutes (42 
-        U.S.C. 1981a(b)).
-
-SEC. 14. ATTORNEYS' FEES.
-
-    Notwithstanding any other provision of this Act, in an action or 
-administrative proceeding for a violation of this Act, an entity 
-described in section 12(a) (other than paragraph (4) of such section), 
-in the discretion of the entity, may allow the prevailing party, other 
-than the United States, a reasonable attorney's fee (including expert 
-fees) as part of the costs. The United States shall be liable for the 
-costs to the same extent as a private person.
-
-SEC. 15. POSTING NOTICES.
-
-    A covered entity shall post notices for employees, applicants for 
-employment, and members, to whom the provisions specified in section 
-12(b) apply, that describe the applicable provisions of this Act in the 
-manner prescribed by, and subject to the penalty provided under, 
-section 711 of the Civil Rights Act of 1964 (42 U.S.C. 2000e-10).
-
-SEC. 16. REGULATIONS.
-
-    (a) In General.--Except as provided in subsections (b), (c), and 
-(d), the Commission shall have authority to issue regulations to carry 
-out this Act.
-    (b) Librarian of Congress.--The Librarian of Congress shall have 
-authority to issue regulations to carry out this Act with respect to 
-employees of the Library of Congress.
-    (c) Board.--The Board referred to in section 12(a)(3) shall have 
-authority to issue regulations to carry out this Act, in accordance 
-with section 304 of the Congressional Accountability Act of 1995 (2 
-U.S.C. 1384), with respect to covered employees, as defined in section 
-101 of such Act (2 U.S.C. 1301).
-    (d) President.--The President shall have authority to issue 
-regulations to carry out this Act with respect to covered employees, as 
-defined in section 401 of title 3, United States Code.
-
-SEC. 17. RELATIONSHIP TO OTHER LAWS.
-
-    This Act shall not invalidate or limit the rights, remedies, or 
-procedures available to an individual claiming discrimination 
-prohibited under any other Federal law or any law of a State or 
-political subdivision of a State.
-
-SEC. 18. SEVERABILITY.
-
-    If any provision of this Act, or the application of the provision 
-to any person or circumstance, is held to be invalid, the remainder of 
-this Act and the application of the provision to any other person or 
-circumstance shall not be affected by the invalidity.
-
-SEC. 19. EFFECTIVE DATE.
-
-    (a) In General.--Except as provided in subsection (b), this Act 
-shall take effect 60 days after the date of enactment of this Act and 
-shall not apply to conduct occurring before the effective date.
-    (b) Presidential Offices.--The second sentence of section 3(2), and 
-sections 12(a)(5), 12(a)(6)(D), 12(b)(4), and 16(d), shall take effect 
-on, and shall not apply to conduct occurring before, the later of--
-            (1) October 1, 1997; and
-            (2) the effective date described in subsection (a).
+    (a) In General.--Section 1875(a) of title 28, United States Code, 
+is amended--
+            (1) by striking ``(a)'' and inserting ``(a)(1)''; and
+            (2) by adding at the end the following:
+    ``(2) In this section--
+            ``(A) the term `employer' includes an employing office 
+        under section 101(9) of the Congressional Accountability Act of 
+        1995, the Government Accountability Office, the Government 
+        Printing Office, and the Library of Congress; and
+            ``(B) the term `permanent employee' includes any covered 
+        employee under section 101(3) of the Congressional 
+        Accountability Act of 1995 and any employee of the Government 
+        Accountability Office, the Government Printing Office, and the 
+        Library of Congress, without regard to whether the employee's 
+        term of service or appointment is permanent.''.
+    (b) Effective Date.--The amendments made by subsection (a) apply 
+with respect to individuals summoned for juror service or serving on 
+juries on or after the date of the enactment of this Act.
                                  <all>

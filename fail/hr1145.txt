@@ -1,24 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1145 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1145
 
- To amend the Internal Revenue Code of 1986 to increase the deduction 
-  for health insurance costs of self-employed individuals, to provide 
-clarification for the deductibility of expenses incurred by a taxpayer 
-    in connection with the business use of the home, to clarify the 
-    standards used for determining that certain individuals are not 
-                   employees, and for other purposes.
+   To help ensure the fiscal solvency of the FHA mortgage insurance 
+  programs of the Secretary of Housing and Urban Development, and for 
+                            other purposes.
 
 
 _______________________________________________________________________
@@ -26,13 +17,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 20, 1997
+                             March 13, 2013
 
- Mr. Talent (for himself, Mrs. Smith of Washington, Mr. Portman, Mrs. 
-  Emerson, Mr. Pappas, Mr. English of Pennsylvania, Mr. Ehrlich, Mrs. 
- Morella, Mr. Hill, Mr. Chabot, Mr. Manzullo, Mrs. Kelly, Mr. Bartlett 
-  of Maryland, Mr. Jones, and Mr. McIntosh) introduced the following 
-      bill; which was referred to the Committee on Ways and Means
+Ms. Waters (for herself and Mr. Capuano) introduced the following bill; 
+       which was referred to the Committee on Financial Services
 
 _______________________________________________________________________
 
@@ -40,272 +28,484 @@ _______________________________________________________________________
 
 
  
- To amend the Internal Revenue Code of 1986 to increase the deduction 
-  for health insurance costs of self-employed individuals, to provide 
-clarification for the deductibility of expenses incurred by a taxpayer 
-    in connection with the business use of the home, to clarify the 
-    standards used for determining that certain individuals are not 
-                   employees, and for other purposes.
+   To help ensure the fiscal solvency of the FHA mortgage insurance 
+  programs of the Secretary of Housing and Urban Development, and for 
+                            other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
-    This Act may be cited as the ``Home-Based Business Fairness Act of 
-1997''.
+    (a) Short Title.--This Act may be cited as the ``FHA Emergency 
+Fiscal Solvency Act of 2013''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
 
-SEC. 2. DEDUCTION FOR HEALTH INSURANCE COSTS OF SELF-EMPLOYED 
-              INDIVIDUALS INCREASED.
+Sec. 1. Short title and table of contents.
+Sec. 2. FHA annual mortgage insurance premiums.
+Sec. 3. Indemnification by FHA mortgagees.
+Sec. 4. Early period delinquencies.
+Sec. 5. Semiannual actuarial studies of MMIF during periods of capital 
+                            depletion.
+Sec. 6. Delegation of FHA insuring authority.
+Sec. 7. Authority to terminate FHA mortgagee origination and 
+                            underwriting approval.
+Sec. 8. Authorization to participate in the origination of FHA-insured 
+                            loans.
+Sec. 9. Reporting of mortgagee actions taken against other mortgagees.
+Sec. 10. Default and origination information by loan servicer and 
+                            originating direct endorsement lender.
+Sec. 11. Deputy Assistant Secretary of FHA for Risk Management and 
+                            Regulatory Affairs.
+Sec. 12. Establishment of Chief Risk Officer for GNMA.
+Sec. 13. Report on mortgage servicers.
+Sec. 14. FHA emergency capital plan.
+Sec. 15. FHA safety and soundness review.
+Sec. 16. FHA disclosure standards.
+Sec. 17. Report on streamlining FHA programs.
+Sec. 18. Budget compliance.
 
-    (a) In General.--Section 162(l)(1) of the Internal Revenue Code of 
-1986 (relating to special rules for health insurance costs of self-
-employed individuals) is amended to read as follows:
-            ``(1) Allowance of deduction.--In the case of an individual 
-        who is an employee within the meaning of section 401(c)(1), 
-        there shall be allowed as a deduction under this section an 
-        amount equal to the amount paid during the taxable year for 
-        insurance which constitutes medical care for the taxpayer, the 
-        taxpayer's spouse, and dependents.''
-    (b) Effective Date.--The amendment made by this section shall apply 
-to taxable years beginning after December 31, 1996.
+SEC. 2. FHA ANNUAL MORTGAGE INSURANCE PREMIUMS.
 
-SEC. 3. CLARIFICATION OF DEFINITION OF PRINCIPAL PLACE OF BUSINESS.
+    (a) In General.--Subparagraph (B) of section 203(c)(2) of the 
+National Housing Act (12 U.S.C. 1709(c)(2)(B)) is amended--
+            (1) in the matter preceding clause (i)--
+                    (A) by striking ``may'' and inserting ``shall'';
+                    (B) by striking ``not exceeding 1.5 percent'' and 
+                inserting ``not less than 0.55 percent''; and
+                    (C) by inserting ``and not exceeding 2.0 percent of 
+                such remaining insured principal balance'' before ``for 
+                the following periods:''; and
+            (2) in clause (ii), by striking ``1.55 percent'' and 
+        inserting ``2.05 percent''.
+    (b) Effective Date.--The amendments made by subsection (a) take 
+effect upon the expiration of the 6-month period beginning on the date 
+of the enactment of this Act.
 
-    (a) In General.--Subsection (f) of section 280A of the Internal 
-Revenue Code of 1986 (relating to definitions and special rules) is 
-amended by redesignating paragraphs (2), (3), and (4) as paragraphs 
-(3), (4), and (5), respectively, and by inserting after paragraph (1) 
-the following new paragraph:
-            ``(2) Principal place of business.--For purposes of 
-        subsection (c), a home office shall in any case qualify as the 
-        principal place of business if--
-                    ``(A) the office is the location where the 
-                taxpayer's essential administrative or management 
-                activities are conducted on a regular and systematic 
-                (and not incidental) basis by the taxpayer, and
-                    ``(B) the office is necessary because the taxpayer 
-                has no other location for the performance of the 
-                essential administrative or management activities of 
-                the business.''
-    (b) Effective Date.--The amendment made by this section shall apply 
-to taxable years beginning after December 31, 1996.
+SEC. 3. INDEMNIFICATION BY FHA MORTGAGEES.
 
-SEC. 4. SAFE HARBOR FOR DETERMINING THAT CERTAIN INDIVIDUALS ARE NOT 
-              EMPLOYEES.
+    Section 202 of the National Housing Act (12 U.S.C. 1708) is amended 
+by adding at the end the following new subsection:
+    ``(i) Indemnification by Mortgagees.--
+            ``(1) In general.--If the Secretary determines that the 
+        mortgagee knew, or should have known, of a serious or material 
+        violation of the requirements established by the Secretary with 
+        respect to a mortgage executed by a mortgagee approved by the 
+        Secretary under the direct endorsement program or insured by a 
+        mortgagee pursuant to the delegation of authority under section 
+        256 such that the mortgage loan should not have been approved 
+        and endorsed for insurance, and the Secretary pays an insurance 
+        claim with respect to the mortgage within a reasonable period 
+        specified by the Secretary, the Secretary may require the 
+        mortgagee approved by the Secretary under the direct 
+        endorsement program or the mortgagee delegated authority under 
+        section 256 to indemnify the Secretary for the loss, 
+        irrespective of whether the violation caused the mortgage 
+        default.
+            ``(2) Fraud or misrepresentation.--If fraud or 
+        misrepresentation was involved in connection with the 
+        origination or underwriting and the Secretary determines that 
+        the mortgagee knew or should have known of the fraud or 
+        misrepresentation, the Secretary shall require the mortgagee 
+        approved by the Secretary under the direct endorsement program 
+        or the mortgagee delegated authority under section 256 to 
+        indemnify the Secretary for the loss regardless of when an 
+        insurance claim is paid.
+            ``(3) Appeals process.--The Secretary shall, by regulation, 
+        establish an appeals process for mortgagees to appeal 
+        indemnification determinations made pursuant to paragraph (1) 
+        or (2).
+            ``(4) Requirements and procedures.--The Secretary shall 
+        issue regulations establishing appropriate requirements and 
+        procedures governing the indemnification of the Secretary by 
+        the mortgagee, including public reporting on--
+                    ``(A) the number of loans that--
+                            ``(i) were not originated or underwritten 
+                        in accordance with the requirements established 
+                        by the Secretary; and
+                            ``(ii) involved fraud or misrepresentation 
+                        in connection with the origination or 
+                        underwriting; and
+                    ``(B) the financial impact on the Mutual Mortgage 
+                Insurance Fund when indemnification is required.''.
 
-    (a) In General.--Chapter 25 of the Internal Revenue Code of 1986 
-(relating to general provisions relating to employment taxes) is 
-amended by adding after section 3510 the following new section:
+SEC. 4. EARLY PERIOD DELINQUENCIES.
 
-``SEC. 3511. SAFE HARBOR FOR DETERMINING THAT CERTAIN INDIVIDUALS ARE 
-              NOT EMPLOYEES.
+    Subsection (a) of section 202 of the National Housing Act (12 
+U.S.C. 1708(a)) is amended by adding at the end the following new 
+paragraphs:
+            ``(8) Programmatic review of early period delinquencies.--
+        The Secretary shall establish and maintain a program--
+                    ``(A) to review the cause of each early period 
+                delinquency on a mortgage that is an obligation of the 
+                Mutual Mortgage Insurance Fund;
+                    ``(B) to require indemnification of the Secretary 
+                for a loss associated with any such early period 
+                delinquency that is the result of a material violation, 
+                as determined by the Secretary, of any provision, 
+                regulation, or other guideline established or 
+                promulgated pursuant to this title; and
+                    ``(C) to publicly report--
+                            ``(i) a summary of the results of all early 
+                        period delinquencies reviewed under 
+                        subparagraph (A);
+                            ``(ii) any indemnifications required under 
+                        subparagraph (B); and
+                            ``(iii) the financial impact on the Mutual 
+                        Mortgage Insurance Fund of any such 
+                        indemnifications.
+            ``(9) Definition of early period delinquency.--For purposes 
+        of this section, the term `early period delinquency' means, 
+        with respect to a mortgage, that the mortgage becomes 90 or 
+        more days delinquent within 24 months of the origination of 
+        such mortgage.''.
 
-    ``(a) Safe Harbor.--
-            ``(1) In general.--For purposes of this title, if the 
-        requirements of subsections (b), (c), and (d), or the 
-        requirements of subsections (d) and (e), are met with respect 
-        to any service performed by any individual, then with respect 
-        to such service--
-                    ``(A) the service provider shall not be treated as 
-                an employee,
-                    ``(B) the service recipient shall not be treated as 
-                an employer,
-                    ``(C) the payor shall not be treated as an 
-                employer, and
-                    ``(D) compensation paid or received for such 
-                service shall not be treated as paid or received with 
-                respect to employment.
-            ``(2) Availability of safe harbor not to limit application 
-        of other laws.--Nothing in this section shall be construed--
-                    ``(A) as limiting the ability of a service 
-                provider, service recipient, or payor to apply other 
-                applicable provisions of this title, section 530 of the 
-                Revenue Act of 1978, or the common law in determining 
-                whether an individual is not an employee, or
-                    ``(B) as a prerequisite for the application of any 
-                provision of law described in subparagraph (A).
-    ``(b) Service Provider Requirements With Regard to the Service 
-Recipient.--For purposes of subsection (a), the requirements of this 
-subsection are met if the service provider, in connection with 
-performing the service--
-            ``(1) has the ability to realize a profit or loss,
-            ``(2) incurs unreimbursed expenses which are ordinary and 
-        necessary to the service provider's industry and which 
-        represent an amount at least equal to 2 percent of the service 
-        provider's adjusted gross income attributable to services 
-        performed pursuant to 1 or more contracts described in 
-        subsection (d), and
-            ``(3) agrees to perform services for a particular amount of 
-        time or to complete a specific result or task.
-    ``(c) Additional Service Provider Requirements With Regard to 
-Others.--For the purposes of subsection (a), the requirements of this 
-subsection are met if the service provider--
-            ``(1) has a principal place of business,
-            ``(2) does not primarily provide the service at a single 
-        service recipient's facilities,
-            ``(3) pays a fair market rent for use of the service 
-        recipient's facilities, or
-            ``(4) operates primarily with equipment not supplied by the 
-        service recipient.
-    ``(d) Written Document Requirements.--For purposes of subsection 
-(a), the requirements of this subsection are met if the services 
-performed by the service provider are performed pursuant to a written 
-contract between such service provider and the service recipient, or 
-the payor, and such contract provides that the service provider will 
-not be treated as an employee with respect to such services for Federal 
-tax purposes.
-    ``(e) Business Structure and Benefits Requirement.--For purposes of 
-subsection (a), the requirements of this subsection are met if the 
-service provider--
-            ``(1) conducts business as a properly constituted 
-        corporation or limited liability company under applicable State 
-        laws, and
-            ``(2) does not receive from the service recipient or payor 
-        benefits that are provided to employees of the service 
-        recipient.
-    ``(f) Special Rules.--For purposes of this section--
-            ``(1) Failure to meet reporting requirements.--If for any 
-        taxable year any service recipient or payor fails to meet the 
-        applicable reporting requirements of section 6041(a) or 
-        6041A(a) with respect to a service provider, then, unless the 
-        failure is due to reasonable cause and not willful neglect, the 
-        safe harbor provided by this section for determining whether 
-        individuals are not employees shall not apply to such service 
-        recipient or payor with respect to that service provider.
-            ``(2) Burden of proof.--For purposes of subsection (a), 
-        if--
-                    ``(A) a service provider, service recipient, or 
-                payor establishes a prima facie case that it was 
-                reasonable not to treat a service provider as an 
-                employee for purposes of this section, and
-                    ``(B) the service provider, service recipient, or 
-                payor has fully cooperated with reasonable requests 
-                from the Secretary or his delegate,
-        then the burden of proof with respect to such treatment shall 
-        be on the Secretary.
-            ``(3) Related entities.--If the service provider is 
-        performing services through an entity owned in whole or in part 
-        by such service provider, the references to `service provider' 
-        in subsections (b) through (e) may include such entity, 
-        provided that the written contract referred to in subsection 
-        (d) is with such entity.
-    ``(g) Determinations by the Secretary.--For purposes of this 
-title--
-            ``(1) In general.--
-                    ``(A) Determinations with respect to a service 
-                recipient or a payor.--A determination by the Secretary 
-                that a service recipient or a payor should have treated 
-                a service provider as an employee shall be effective no 
-                earlier than the notice date if--
-                            ``(i) the service recipient or the payor 
-                        entered into a written contract satisfying the 
-                        requirements of subsection (d),
-                            ``(ii) the service recipient or the payor 
-                        satisfied the applicable reporting requirements 
-                        of section 6041(a) or 6041A(a) for all taxable 
-                        years covered by the agreement described in 
-                        clause (i), and
-                            ``(iii) the service recipient or the payor 
-                        demonstrates a reasonable basis for determining 
-                        that the service provider is not an employee 
-                        and that such determination was made in good 
-                        faith.
-                    ``(B) Determinations with respect to a service 
-                provider.--A determination by the Secretary that a 
-                service provider should have been treated as an 
-                employee shall be effective no earlier than the notice 
-                date if--
-                            ``(i) the service provider entered into a 
-                        contract satisfying the requirements of 
-                        subsection (d),
-                            ``(ii) the service provider satisfied the 
-                        applicable reporting requirements of sections 
-                        6012(a) and 6017 for all taxable years covered 
-                        by the agreement described in clause (i), and
-                            ``(iii) the service provider demonstrates a 
-                        reasonable basis for determining that the 
-                        service provider is not an employee and that 
-                        such determination was made in good faith.
-                    ``(C) Reasonable cause exception.--The requirements 
-                of subparagraph (A)(ii) or (B)(ii) shall be treated as 
-                being met if the failure to satisfy the applicable 
-                reporting requirements is due to reasonable cause and 
-                not willful neglect.
-            ``(2) Construction.--Nothing in this subsection shall be 
-        construed as limiting any provision of law that provides an 
-        opportunity for administrative or judicial review of a 
-        determination by the Secretary.
-            ``(3) Notice date.--For purposes of this subsection, the 
-        notice date is the 30th day after the earlier of--
-                    ``(A) the date on which the first letter of 
-                proposed deficiency that allows the service provider, 
-                the service recipient, or the payor an opportunity for 
-                administrative review in the Internal Revenue Service 
-                Office of Appeals is sent, or
-                    ``(B) the date on which the deficiency notice under 
-                section 6212 is sent.
-    ``(h) Definitions.--For the purposes of this section--
-            ``(1) Service provider.--The term `service provider' means 
-        any individual who performs a service for another person.
-            ``(2) Service recipient.--Except as provided in paragraph 
-        (4), the term `service recipient' means the person for whom the 
-        service provider performs such service.
-            ``(3) Payor.--Except as provided in paragraph (4), the term 
-        `payor' means the person who pays the service provider for the 
-        performance of such service in the event that the service 
-        recipient does not pay the service provider.
-            ``(4) Exceptions.--The terms `service recipient' and 
-        `payor' do not include any entity in which the service provider 
-        owns in excess of 5 percent of--
-                    ``(A) in the case of a corporation, the total 
-                combined voting power of stock in the corporation, or
-                    ``(B) in the case of an entity other than a 
-                corporation, the profits or beneficial interests in the 
-                entity.
-            ``(5) In connection with performing the service.--The term 
-        `in connection with performing the service' means in connection 
-        or related to the operation of the service provider's trade or 
-        business.
-            ``(6) Principal place of business.--For purposes of 
-        subsection (c), a home office shall in any case qualify as the 
-        principal place of business if--
-                    ``(A) the office is the location where the service 
-                provider's essential administrative or management 
-                activities are conducted on a regular and systematic 
-                (and not incidental) basis by the service provider, and
-                    ``(B) the office is necessary because the service 
-                provider has no other location for the performance of 
-                the essential administrative or management activities 
-                of the business.
-            ``(7) Fair market rent.--The term `fair market rent' means 
-        a periodic, fixed minimum rental fee which is based on the fair 
-        rental value of the facilities and is established pursuant to a 
-        written agreement with terms similar to those offered to 
-        unrelated persons for facilities of similar type and quality.''
-    (b) Clarification of Rules Regarding Evidence of Control.--For 
-purposes of determining whether an individual is an employee under the 
-Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), compliance with 
-statutory or regulatory standards shall not be treated as evidence of 
-control.
-    (c) Repeal of Section 530(d) of the Revenue Act of 1978.--Section 
-530(d) of the Revenue Act of 1978 (as added by section 1706 of the Tax 
-Reform Act of 1986) is repealed.
-    (d) Clerical Amendment.--The table of sections for chapter 25 of 
-such Code is amended by adding at the end the following new item:
+SEC. 5. SEMIANNUAL ACTUARIAL STUDIES OF MMIF DURING PERIODS OF CAPITAL 
+              DEPLETION.
 
-                              ``Sec. 3511. Safe harbor for determining 
-                                        that certain individuals are 
-                                        not employees.''
-    (e) Effective Dates.--
-            (1) In general.--The amendments made by, and the provisions 
-        of, this section shall apply to services performed after the 
-        date of enactment of this Act.
-            (2) Determinations by secretary.--Section 3511(g) of the 
-        Internal Revenue Code of 1986 (as added by subsection (a)) 
-        shall apply to determinations after the date of enactment of 
-        this Act.
-            (3) Section 530(d).--The amendment made by subsection (c) 
-        shall apply to periods ending after the date of enactment of 
-        this Act.
+    (a) In General.--Paragraph (4) of section 202(a) of the National 
+Housing Act (12 U.S.C. 1708(a)(4)) is amended--
+            (1) in the first sentence, by inserting ``except as 
+        provided in subparagraph (B),'' after ``to be conducted 
+        annually,'';
+            (2) in the second sentence, by inserting ``, except as 
+        provided in subparagraph (B),'' after ``annually'';
+            (3) by striking the paragraph designation and heading and 
+        all that follows through ``The Secretary shall provide'' and 
+        inserting the following:
+            ``(4) Independent actuarial study.--
+                    ``(A) Annual study.--The Secretary shall provide''; 
+                and
+            (4) by adding at the end the following new subparagraph:
+                    ``(B) Semiannual studies during periods of capital 
+                depletion.--During any period that the Fund fails to 
+                maintain sufficient capital to comply with the capital 
+                ratio requirement under section 205(f)(2)--
+                            ``(i) the independent study required by 
+                        subparagraph (A) shall be conducted 
+                        semiannually and shall analyze the financial 
+                        position of the Fund as of September 30 and 
+                        March 31 of each fiscal year during such 
+                        period; and
+                            ``(ii) the Secretary shall submit a report 
+                        meeting the requirements of subparagraph (A) 
+                        for each such semiannual study.''.
+    (b) Analysis of Quarterly Actuarial Studies.--The Secretary of 
+Housing and Urban Development shall conduct an analysis of the cost and 
+feasibility of providing for an independent actuarial study of the 
+Mutual Mortgage Insurance Fund on a calendar quarterly basis, which 
+shall compare the cost and feasibility of conducting such a study on a 
+quarterly basis as compared to a semi-annual basis and shall determine 
+whether such an actuarial study can be conducted on a quarterly basis 
+without substantial additional costs to the taxpayers. Not later than 
+the expiration of the 90-day period beginning on the date of the 
+enactment of this Act, the Secretary shall submit a report to the 
+Congress setting forth the findings and conclusion of the analysis 
+conducted pursuant to this subsection.
+
+SEC. 6. DELEGATION OF FHA INSURING AUTHORITY.
+
+    Section 256 of the National Housing Act (12 U.S.C. 1715z-21) is 
+amended--
+            (1) by striking subsection (c);
+            (2) in subsection (e), by striking ``, including'' and all 
+        that follows through ``by the mortgagee''; and
+            (3) by redesignating subsections (d) and (e) as subsections 
+        (c) and (d), respectively.
+
+SEC. 7. AUTHORITY TO TERMINATE FHA MORTGAGEE ORIGINATION AND 
+              UNDERWRITING APPROVAL.
+
+    Section 533 of the National Housing Act (12 U.S.C. 1735f-11) is 
+amended--
+            (1) in the first sentence of subsection (b), by inserting 
+        ``or areas or on a nationwide basis'' after ``area'' each place 
+        such term appears; and
+            (2) in subsection (c), by striking ``(c)'' and all that 
+        follows through ``The Secretary'' in the first sentence of 
+        paragraph (2) and inserting the following:
+    ``(c) Termination of Mortgagee Origination and Underwriting 
+Approval.--
+            ``(1) Termination authority.--If the Secretary determines, 
+        under the comparison provided in subsection (b), that a 
+        mortgagee has a rate of early defaults and claims that is 
+        excessive, the Secretary may terminate the approval of the 
+        mortgagee to originate or underwrite single family mortgages 
+        for any area, or areas, or on a nationwide basis, 
+        notwithstanding section 202(c) of this Act.
+            ``(2) Procedure.--The Secretary''.
+
+SEC. 8. AUTHORIZATION TO PARTICIPATE IN THE ORIGINATION OF FHA-INSURED 
+              LOANS.
+
+    (a) Single Family Mortgages.--Section 203(b) of the National 
+Housing Act (12 U.S.C. 1709(b)) is amended by striking paragraph (1) 
+and inserting the following new paragraph:
+            ``(1) Have been made to a mortgagee approved by the 
+        Secretary or to a person or entity authorized by the Secretary 
+        under section 202(d)(1) to participate in the origination of 
+        the mortgage, and be held by a mortgagee approved by the 
+        Secretary as responsible and able to service the mortgage 
+        properly.''.
+    (b) Home Equity Conversion Mortgages.--Section 255(d) of the 
+National Housing Act (12 U.S.C. 1715z-20(d)) is amended by striking 
+paragraph (1) and inserting the following new paragraph:
+            ``(1) have been originated by a mortgagee approved by, or 
+        by a person or entity authorized under section 202(d)(1) to 
+        participate in the origination by, the Secretary;''.
+
+SEC. 9. REPORTING OF MORTGAGEE ACTIONS TAKEN AGAINST OTHER MORTGAGEES.
+
+    Section 202 of the National Housing Act (12 U.S.C. 1708), as 
+amended by the preceding provisions of this Act, is further amended by 
+adding at the end the following new subsection:
+    ``(j) Notification of Mortgagee Actions.--The Secretary shall 
+require each mortgagee, as a condition for approval by the Secretary to 
+originate or underwrite mortgages on single family or multifamily 
+housing that are insured by the Secretary, if such mortgagee engages in 
+the purchase of mortgages insured by the Secretary and originated by 
+other mortgagees or in the purchase of the servicing rights to such 
+mortgages, and such mortgagee at any time takes action to terminate or 
+discontinue such purchases from another mortgagee based on any 
+determination or evidence of fraud or material misrepresentation in 
+connection with the origination of such mortgages, to notify the 
+Secretary of the action taken and the reasons for such action not later 
+than 15 days after taking such action.''.
+
+SEC. 10. DEFAULT AND ORIGINATION INFORMATION BY LOAN SERVICER AND 
+              ORIGINATING DIRECT ENDORSEMENT LENDER.
+
+    (a) Collection of Information.--Paragraph (2) of section 540(b) of 
+the National Housing Act (12 U.S.C. 1712 U.S.C. 1735f-18(b)(2)) is 
+amended by adding at the end the following new subparagraph:
+                    ``(C) For each entity that services insured 
+                mortgages, data on the number of claims paid to each 
+                servicing mortgagee during each calendar quarter 
+                occurring during the applicable collection period.''.
+    (b) Applicability.--Information described in subparagraph (C) of 
+section 540(b)(2) of the National Housing Act, as added by subsection 
+(a) of this section, shall first be made available under such section 
+540 for the applicable collection period (as such term is defined in 
+such section) relating to the first calendar quarter ending after the 
+expiration of the 12-month period that begins on the date of the 
+enactment of this Act.
+
+SEC. 11. DEPUTY ASSISTANT SECRETARY OF FHA FOR RISK MANAGEMENT AND 
+              REGULATORY AFFAIRS.
+
+    (a) Establishment of Position.--Subsection (b) of section 4 of the 
+Department of Housing and Urban Development Act (42 U.S.C. 3533(b)) is 
+amended--
+            (1) by inserting ``(1)'' after ``(b)''; and
+            (2) by adding at the end the following new paragraph:
+    ``(2) There shall be in the Department, within the Federal Housing 
+Administration, a Deputy Assistant Secretary for Risk Management and 
+Regulatory Affairs, who shall be appointed by the Secretary and shall 
+be responsible to the Federal Housing Commissioner for all matters 
+relating to managing and mitigating risk to the mortgage insurance 
+funds of the Department and ensuring the performance of mortgages 
+insured by the Department.''.
+    (b) Termination.--Upon the appointment of the initial Deputy 
+Assistant Secretary for Risk Management and Regulatory Affairs pursuant 
+to section 4(b)(2) of the Department of Housing and Urban Development 
+Act, as amended by subsection (a) of this section, the position of 
+chief risk officer within the Federal Housing Administration, filled by 
+appointment by the Federal Housing Commissioner, is abolished.
+
+SEC. 12. ESTABLISHMENT OF CHIEF RISK OFFICER FOR GNMA.
+
+    Section 4 of the Department of Housing and Urban Development Act 
+(42 U.S.C. 3533) is amended by adding after subsection (g), as added by 
+section 1442 of the Dodd-Frank Wall Street Reform and Consumer 
+Protection Act (Public Law 111-203; 124 Stat. 2163), the following new 
+subsection:
+    ``(h) There shall be in the Department a Chief Risk Officer for the 
+Government National Mortgage Association, who shall--
+            ``(1) be designated by the Secretary;
+            ``(2) be responsible to the President of the Association 
+        for all matters related to evaluating, managing, and mitigating 
+        risk to the programs of the Association;
+            ``(3) be in the competitive service or the senior executive 
+        service;
+            ``(4) be a career appointee;
+            ``(5) be designated from among individuals who possess 
+        demonstrated ability in general management of, and knowledge of 
+        and extensive practical experience in risk evaluation practices 
+        in large governmental or business entities; and
+            ``(6) shall not be required to obtain the prior approval, 
+        comment, or review of any officer or agency of the United 
+        States before submitting to the Congress, or any committee or 
+        subcommittee thereof, any reports, recommendations, testimony, 
+        or comments if such submission include a statement indicating 
+        that the views expressed therein are those of the Chief Risk 
+        Officer of the Association and do not necessarily represent the 
+        views of the Secretary.''.
+
+SEC. 13. REPORT ON MORTGAGE SERVICERS.
+
+    (a) Examination.--The Secretary of Housing and Urban Development 
+shall conduct an examination into mortgage servicer compliance with the 
+loan servicing, loss mitigation, and insurance claim submission 
+guidelines of the FHA mortgage insurance programs under the National 
+Housing Act (12 U.S.C. 1701 et seq.), and an estimate of the annual 
+costs to the Mutual Mortgage Insurance Fund, since 2008, resulting from 
+any failures by mortgage servicers to comply with such guidelines.
+    (b) Report.--Not later than the expiration of the 120-day period 
+that begins upon the date of the enactment of this Act, the Secretary 
+shall submit a report to the Congress on the results of the examination 
+conducted pursuant to subsection (a), including recommendations for any 
+administrative and legislative actions to improve mortgage servicer 
+compliance with the guidelines referred to in subsection (a).
+
+SEC. 14. FHA EMERGENCY CAPITAL PLAN.
+
+    (a) Establishment.--Not later than the expiration of the 30-day 
+period beginning on the date of the enactment of this Act, the 
+Secretary of Housing and Urban Development shall develop, submit to the 
+Congress, and commence implementation of an emergency capital plan for 
+the restoration of the fiscal solvency of the Mutual Mortgage Insurance 
+Fund (in this section referred to as the ``Fund'').
+    (b) Contents.--The emergency capital plan developed pursuant to 
+this section shall--
+            (1) provide a detailed explanation of the processes and 
+        controls by which amounts of capital that are assets of the 
+        Fund are monitored and tracked;
+            (2) establish a plan to ensure the financial safety and 
+        soundness of the Fund that avoids the need for borrowing 
+        amounts from the Treasury of the United States to meet 
+        obligations of the Fund; and
+            (3) describe the procedure by which, if necessary, any 
+        amounts from the Treasury needed to meet obligations of the 
+        Fund will be obtained from the Treasury.
+    (c) Monthly Reports.--
+            (1) Reports.--Subject to paragraph (3), upon the conclusion 
+        of each calendar month ending after the 14-day period that 
+        begins on the date of the enactment of this Act, the Secretary 
+        of Housing and Urban Development shall submit to the Congress a 
+        report assessing the financial status of the Fund at the 
+        conclusion of such month and setting forth the information 
+        described in paragraph (2).
+            (2) Contents.--Each report required under paragraph (1) for 
+        a month shall contain the following information regarding the 
+        Fund as of the conclusion of such month:
+                    (A) The number of mortgages that are obligations of 
+                the Fund that are 60 or more days delinquent, the 
+                expected losses to the Fund associated with such 
+                delinquent mortgages, and the methodology used to make 
+                such calculation.
+                    (B) The number of mortgages that are obligations of 
+                the Fund that have a loan-to-value ratio at the time of 
+                origination that is less than 80 percent and the 
+                percentage of all mortgages that are obligations of the 
+                Fund having such a ratio.
+                    (C) The number of mortgages that are obligations of 
+                the Fund that had an original principal obligation 
+                exceeding 125 percent of the median house price, for a 
+                home of the size of the residence subject to the 
+                mortgage, for the area in which such residence is 
+                located, and the percentage of all mortgages that are 
+                obligations of the Fund having such an original 
+                principal obligation.
+                    (D) The number of mortgages that are obligations of 
+                the Fund for which the mortgagor's income at the time 
+                of origination of the mortgage is greater than the 
+                median income for the area in which the residence 
+                subject to the mortgage is located, and the percentage 
+                of all mortgages that are obligations of the Fund for 
+                which the mortgagor has such an income.
+                    (E) The balances for the financing and capital 
+                reserve accounts of the Fund.
+                    (F) Any actions taken during such month to help 
+                ensure the financial soundness of the Fund and 
+                compliance with section 205(f) of the National Housing 
+                Act (12 U.S.C. 1711(f); relating to a capital ratio 
+                requirement).
+            (3) Termination of reporting requirement.--The requirement 
+        to submit reports under paragraph (1) shall terminate on the 
+        first date after the date of the enactment of this Act that the 
+        Fund attains a capital ratio (as such term is defined in 
+        section 205(f)(3) of the National Housing Act) of 2.0 percent.
+
+SEC. 15. FHA SAFETY AND SOUNDNESS REVIEW.
+
+    (a) Review.--The Comptroller General of the United States shall 
+provide for an independent third party to--
+            (1) conduct a one-time review of the mortgage insurance 
+        programs and funds of the Secretary of Housing and Urban 
+        Development that shall determine, as of the time of such 
+        review--
+                    (A) the financial safety and soundness of such 
+                programs and funds; and
+                    (B) the extent of loan loss reserves and capital 
+                adequacy of such programs and funds; and
+            (2) to submit a report under subsection (b).
+Such review shall be conducted in accordance with generally accepted 
+accounting principles applicable to the private sector and Federal 
+entities.
+    (b) Report.--The report under this subsection shall describe the 
+methodology and standards used to conduct the review under subsection 
+(a)(1), set forth the results and findings of the review, including the 
+extent of loan loss reserves and capital adequacy of the mortgage 
+insurance programs and funds of the Secretary of Housing and Urban 
+Development, and include recommendations regarding restoring such 
+reserves and capital to maintain such programs and funds in a safe and 
+sound condition.
+    (c) Timing.--The review required under subsection (a) shall be 
+completed, and the report required under subsection (b) shall be 
+submitted, not later than the expiration of the 60-day period beginning 
+on the date of the enactment of this Act.
+    (d) Rule of Construction.--Nothing in this section may be construed 
+to alter or affect, or exempt the Secretary of Housing and Urban 
+Development from complying with, any laws, regulations, or guidance 
+relating to preparation or submission of budgets or audits or financial 
+or management statements or reports.
+
+SEC. 16. FHA DISCLOSURE STANDARDS.
+
+    Not later than the expiration of the 90-day period beginning on the 
+date of the enactment of this Act, the Secretary of Housing and Urban 
+Development shall review and revise all standards and requirements 
+relating to disclosure of information regarding the mortgage insurance 
+programs and funds, including actuarial studies conducted under section 
+202(a)(4) of the National Housing Act (12 U.S.C. 1708(a)(4)), quarterly 
+reports under section 202(a)(5) of such Act, and annual audited 
+financial statements under section 538 of such Act (12 U.S.C. 1735f-
+16), to ensure that, after the date of the enactment of this Act, such 
+disclosures--
+            (1) provide meaningful financial and other information that 
+        is timely, comprehensive, and accurate;
+            (2) do not contain any material misstatements or 
+        misrepresentations;
+            (3) make available all relevant information; and
+            (4) prohibit material omissions that make the contents of 
+        the disclosure misleading.
+
+SEC. 17. REPORT ON STREAMLINING FHA PROGRAMS.
+
+    (a) Examination.--The Secretary of Housing and Urban Development 
+shall conduct an examination of the mortgage insurance and any other 
+programs of the Federal Housing Administration to identify--
+            (1) the level of use and need for such programs;
+            (2) any such programs that are unused or underused; and
+            (3) methods for streamlining, consolidating, simplifying, 
+        increasing the efficiency of, and reducing the number of such 
+        programs.
+    (b) Report.--Not later than the expiration of the 12-month period 
+that begins upon the date of the enactment of this Act, the Secretary 
+shall submit a report to the Congress on the results of the examination 
+conducted pursuant to subsection (a), including recommendations for any 
+administrative and legislative actions to streamline, consolidate, 
+simplify, increase the efficiency of, and reduce the number of such 
+programs.
+
+SEC. 18. BUDGET COMPLIANCE.
+
+    The Secretary of Housing and Urban Development shall allocate 
+$2,500,000 from the account for Administrative Contract Expenses each 
+fiscal year through September 30, 2017, which amounts shall be 
+available only for the purposes of this Act and the amendments made by 
+this Act, including such additional actuarial reviews as may be 
+required by section 5 of this Act and the amendments made by such 
+section.
                                  <all>

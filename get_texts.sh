@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-# Script name: get_texts.sh
+# Script name: get_texts.sh [passfiles] [failfiles]
+#           ex: ./get_texts.sh pass105.txt pass106.txt fail105.txt fail106.txt
 #
 # Description: Extracts and separates most recent versions of bill
 # texts into different directories
@@ -8,6 +9,8 @@
 # Input: Text files containing lists of urls that correspond to bills on govtrack.us
 #
 # Output: Directories containing the most recent versions of bill texts
+#         If the files are named passN.txt failN.txt where N is the number of congress,
+#         the directories will be named "pass" "fail"
 
 
 # get current location
@@ -41,7 +44,7 @@ function get_text
         do
             # get text date
             issued=`cat $ver/data.json | grep "issued_on" | cut -d':' -f2 | sed s/[\",]//g`
-            issued=`date -d"${issued}" +%y%m%d`
+            issued=`gdate -d"${issued}" +%y%m%d`
 
             # compare date to most recent text date
             # store the more recent of the two

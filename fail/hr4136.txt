@@ -1,24 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4136 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4136
 
-To establish provisions regarding a proposed rulemaking under the Clean 
- Air Act with respect to the transport, in the eastern portion of the 
- United States, of ozone pollution and oxides of nitrogen and to amend 
-  the Clean Air Act to provide a 2-year period prior to the statutory 
-reclassification of areas that fail to attain the national ambient air 
-                      quality standard for ozone.
+ To amend part B of the Individuals with Disabilities Education Act to 
+               provide full Federal funding of such part.
 
 
 _______________________________________________________________________
@@ -26,12 +16,11 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             June 24, 1998
+                           February 28, 2014
 
- Mr. Wise (for himself, Mr. Ney, Mr. Oxley, Mr. Rahall, Mr. Mollohan, 
-   Mr. Goode, Mr. Boucher, Mr. Baesler, Mr. Spratt, Mr. Pickett, Mr. 
-Boehner, Mr. Bachus, and Mr. Whitfield) introduced the following bill; 
-            which was referred to the Committee on Commerce
+ Mr. Van Hollen (for himself, Mr. McKinley, Mr. Walz, Mr. Gibson, Mr. 
+  Huffman, and Mr. Reichert) introduced the following bill; which was 
+        referred to the Committee on Education and the Workforce
 
 _______________________________________________________________________
 
@@ -39,81 +28,135 @@ _______________________________________________________________________
 
 
  
-To establish provisions regarding a proposed rulemaking under the Clean 
- Air Act with respect to the transport, in the eastern portion of the 
- United States, of ozone pollution and oxides of nitrogen and to amend 
-  the Clean Air Act to provide a 2-year period prior to the statutory 
-reclassification of areas that fail to attain the national ambient air 
-                      quality standard for ozone.
+ To amend part B of the Individuals with Disabilities Education Act to 
+               provide full Federal funding of such part.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Clean Air Common Sense Act''.
+    This Act may be cited as the ``IDEA Full Funding Act''.
 
-SEC. 2. PROVISIONS REGARDING PROPOSED RULE UNDER CLEAR AIR ACT WITH 
-              RESPECT TO TRANSPORT OF OZONE POLLUTION AND OXIDES OF 
-              NITROGEN.
+SEC. 2. AMENDMENT TO IDEA.
 
-    (a) Delay in Promulgation of Final Rule; Effective Date of Final 
-Rule.--With respect to authorities of the Administrator of the 
-Environmental Protection Agency to establish a requirement that States 
-submit measures in State implementation plans under the Clean Air Act 
-to ensure that emission reductions are achieved as needed to mitigate 
-transport of ozone pollution, and emissions of oxides of nitrogen, 
-across the boundaries of States included in the Ozone Transport 
-Assessment Group Region (relating to the eastern portion of the United 
-States), the following applies notwithstanding any other provision of 
-law:
-            (1) The Administrator may not promulgate a final rule to 
-        establish such a requirement before the date specified in 
-        paragraph (4), and any such final rule may not become effective 
-        before the date specified in paragraph (5).
-            (2) During the one-year period beginning on the date of the 
-        enactment of this Act, the Administrator shall collect any data 
-        that in such period the States in such region develop through 
-        air quality monitoring and modeling conducted with respect to 
-        oxides of nitrogen and any other pollutant to be regulated for 
-        purposes of the rulemaking proposed on November 7, 1997, 
-        regarding such a requirement (62 FR 60318).
-            (3) After the expiration of such period, the Administrator 
-        shall make the data collected under paragraph (2) available to 
-        the public and shall publish in the Federal Register a notice 
-        that the data are available, or as applicable, shall so publish 
-        a notice that none of the States developed such data.
-            (4) The date described in this paragraph regarding the 
-        promulgation of the final rule referred to in paragraph (1) is 
-        the expiration of the one-year period beginning on the date on 
-        which the Administrator publishes the notice under paragraph 
-        (3).
-            (5) The date described in this paragraph regarding the 
-        effective date of such final rule is the later of May 1, 2005, 
-        or the expiration of the five-year period beginning on the date 
-        on which such final rule is promulgated.
-    (b) Petitions Regarding Interstate Pollution Abatement.--
-            (1) In general.--With respect to petitions submitted to the 
-        Administrator of the Environmental Protection Agency under 
-        section 126(b) of the Clean Air Act, the Administrator may not 
-        make any finding pursuant to a petition described in paragraph 
-        (2), or deny any such petition, before the expiration of the 
-        180-day period beginning on the date of the promulgation of the 
-        final rule referred to in subsection (a)(1).
-            (2) Relevant petitions.--For purposes of paragraph (1), a 
-        petition described in this paragraph is any petition under 
-        section 126(b) of the Clean Air Act that--
-                    (A) is submitted with respect to a State included 
-                in the region specified in subsection (a);
-                    (B) is submitted with respect to oxides of nitrogen 
-                or any other pollutant to be regulated for purposes of 
-                the proposed rulemaking specified in such subsection; 
-                and
-                    (C) is pending as of the date of the enactment of 
-                this Act or is submitted after such date.
+    Section 611(i) of the Individuals with Disabilities Education Act 
+(20 U.S.C. 1411(i)) is amended to read as follows:
+    ``(i) Funding.--
+            ``(1) In general.--For the purpose of carrying out this 
+        part, other than section 619, there are authorized to be 
+        appropriated--
+                    ``(A) $12,906,093,000 or 16.8 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2015, and there are hereby appropriated 
+                $1,433,245,000 or 1.5 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2015, which shall become available for obligation 
+                on July 1, 2015, and shall remain available through 
+                September 30, 2016;
+                    ``(B) 14,518,385,000 or 18.6 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2016, and there are hereby appropriated 
+                $3,045,437,000 or 3.3 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2016, which shall become available for obligation 
+                on July 1, 2016, and shall remain available through 
+                September 30, 2017;
+                    ``(C) $16,332,093,000 or 20.4 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2017, and there are hereby appropriated 
+                $4,859,245,000 or 5.1 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2017, which shall become available for obligation 
+                on July 1, 2017, and shall remain available through 
+                September 30, 2018;
+                    ``(D) $18,372,379,000 or 22.5 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2018, and there are hereby appropriated 
+                $6,899,531,000 or 7.2 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2018, which shall become available for obligation 
+                on July 1, 2018, and shall remain available through 
+                September 30, 2019;
+                    ``(E) 20,667,547,000 or 24.7 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2019, and there are hereby appropriated 
+                $9,194,699,000 or 9.4 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2019, which shall become available for obligation 
+                on July 1, 2019, and shall remain available through 
+                September 30, 2020;
+                    ``(F) $23,249,438,000 or 27.2 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2020, and there are hereby appropriated 
+                $11,776,590,000 or 11.9 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2020, which shall become available for 
+                obligation on July 1, 2020, and shall remain available 
+                through September 30, 2021;
+                    ``(G) $26,153,872,000 or 30 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2021, and there are hereby appropriated 
+                $14,681,024,000 or 14.7 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2021, which shall become available for 
+                obligation on July 1, 2021, and shall remain available 
+                through September 30, 2022;
+                    ``(H) $29,421,143,000 or 33 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2022, and there are hereby appropriated 
+                $17,948,295,000 or 17.7 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2022, which shall become available for 
+                obligation on July 1, 2022, and shall remain available 
+                through September 30, 2023;
+                    ``(I) $33,096,577,000 or 36.3 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2023, and there are hereby appropriated 
+                $21,623,729,000 or 21 percent of the amount determined 
+                under paragraph (2), whichever is greater, for fiscal 
+                year 2023, which shall become available for obligation 
+                on July 1, 2023, and shall remain available through 
+                September 30, 2024; and
+                    ``(J) $37,231,164,000 or 40 percent of the amount 
+                determined under paragraph (2), whichever is greater, 
+                for fiscal year 2024 and each subsequent fiscal year, 
+                and there are hereby appropriated $37,231,164,000 or 40 
+                percent of the amount determined under paragraph (2), 
+                whichever is greater, for fiscal year 2024 and each 
+                subsequent fiscal year, which--
+                            ``(i) shall become available for obligation 
+                        with respect to fiscal year 2024 on July 1, 
+                        2024, and shall remain available through 
+                        September 30, 2025; and
+                            ``(ii) shall become available for 
+                        obligation with respect to each subsequent 
+                        fiscal year on July 1 of that fiscal year and 
+                        shall remain available through September 30 of 
+                        the succeeding fiscal year.
+            ``(2) Amount.--With respect to each subparagraph of 
+        paragraph (1), the amount determined under this paragraph is 
+        the product of--
+                    ``(A) the total number of children with 
+                disabilities in all States who--
+                            ``(i) received special education and 
+                        related services during the last school year 
+                        that concluded before the first day of the 
+                        fiscal year for which the determination is 
+                        made; and
+                            ``(ii) were aged--
+                                    ``(I) 3 through 5 (with respect to 
+                                the States that were eligible for 
+                                grants under section 619); and
+                                    ``(II) 6 through 21; and
+                    ``(B) the average per-pupil expenditure in public 
+                elementary schools and secondary schools in the United 
+                States.''.
 
-SEC. 2. RECLASSIFICATION UPON FAILURE TO ATTAIN OZONE STANDARD.
+SEC. 3. OFFSETS.
 
-    Section 181(b)(2) of the Clean Air Act (42 U.S.C. 7511(a)(2)) is 
-amended by striking ``6 months'' and inserting ``2 years''.
+    The amounts appropriated in 611(i) of the Individuals with 
+Disabilities Education Act (20 U.S.C. 1411(i)), as amended by section 2 
+of this Act, shall be expended consistent with pay-as-you-go 
+requirements.
                                  <all>

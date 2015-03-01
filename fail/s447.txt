@@ -1,21 +1,18 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 447 Placed on Calendar Senate (PCS)]
+[S. 447 Reported in Senate (RS)]
 
-
-
-
-
-
-                                                        Calendar No. 28
-105th CONGRESS
+                                                       Calendar No. 117
+113th CONGRESS
   1st Session
                                  S. 447
 
-To amend title 18, United States Code, to give further assurance to the 
-  right of victims of crime to attend and observe the trials of those 
-             accused of the crime, and for other purposes.
+                          [Report No. 113-63]
+
+To provide for the conveyance of certain cemeteries that are located on 
+   National Forest System land in Black Hills National Forest, South 
+                                Dakota.
 
 
 _______________________________________________________________________
@@ -23,11 +20,15 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             March 14, 1997
+                             March 5, 2013
 
-  Mr. Nickles (for himself, Mr. Inhofe, Mr. Hatch, Mr. Leahy, and Mr. 
-   Grassley) introduced the following bill; which was read twice and 
-                     ordered placed on the calendar
+Mr. Thune (for himself and Mr. Johnson of South Dakota) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                      Energy and Natural Resources
+
+                             June 27, 2013
+
+                Reported by Mr. Wyden, without amendment
 
 _______________________________________________________________________
 
@@ -35,77 +36,86 @@ _______________________________________________________________________
 
 
  
-To amend title 18, United States Code, to give further assurance to the 
-  right of victims of crime to attend and observe the trials of those 
-             accused of the crime, and for other purposes.
+To provide for the conveyance of certain cemeteries that are located on 
+   National Forest System land in Black Hills National Forest, South 
+                                Dakota.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Victims' Rights Clarification Act of 
-1997''.
+    This Act may be cited as the ``Black Hills Cemetery Act''.
 
-SEC. 2. RIGHTS OF VICTIMS TO ATTEND AND OBSERVE TRIAL.
+SEC. 2. LAND CONVEYANCES, CERTAIN CEMETERIES LOCATED IN BLACK HILLS 
+              NATIONAL FOREST, SOUTH DAKOTA.
 
-    (a) In General.--
-            (1) Rights of victims to attend and observe trial.--Chapter 
-        223 of title 18, United States Code, is amended by adding at 
-        the end the following:
-``Sec. 3510. Rights of victims to attend and observe trial
-    ``(a) In General.--Notwithstanding any statute, rule, or other 
-provision of law, in any trial of a defendant accused of an offense, a 
-United States district court shall not order the exclusion of any 
-victim of the offense from the trial on the basis that the victim may, 
-during the sentencing phase of the proceedings--
-            ``(1) make a victim impact statement or present any victim 
-        impact information in relation to the sentence to be imposed on 
-        the defendant; or
-            ``(2) testify as to the effect of the offense on the victim 
-        or the family of the victim.
-    ``(b) Definition of Victim.--In this section, the term `victim' has 
-the same meaning as in section 503(e)(2) of the Victims' Rights and 
-Restitution Act of 1990 (42 U.S.C. 10607(e)(2)).''.
-            (2) Clerical amendment.--The analysis for chapter 223 of 
-        title 18, United States Code, is amended by adding at the end 
-        the following:
+    (a) Cemetery Conveyances Required.--The Secretary of Agriculture 
+shall convey, without consideration, to the local communities in South 
+Dakota that are currently managing and maintaining certain community 
+cemeteries (as specified in subsection (b)) all right, title, and 
+interest of the United States in and to--
+            (1) the parcels of National Forest System land containing 
+        such cemeteries; and
+            (2) up to an additional two acres adjoining each cemetery 
+        in order to ensure the conveyances include unmarked gravesites 
+        and allow for expansion of the cemeteries.
+    (b) Property and Recipients.--The properties to be conveyed under 
+subsection (a), and the recipients of each property, are as follows:
+            (1) The Silver City Cemetery to the Silver City Volunteer 
+        Fire Department.
+            (2) The Hayward Cemetery to the Hayward Volunteer Fire 
+        Department.
+            (3) The encumbered land adjacent to the Englewood Cemetery 
+        (encompassing the cemetery entrance portal, access road, 
+        fences, 2,500 gallon reservoir and building housing such 
+        reservoir, and piping to provide sprinkling system to the 
+        cemetery) to the City of Lead.
+            (4) The land adjacent to the Mountain Meadow Cemetery to 
+        the Mountain Meadow Cemetery Association.
+            (5) The Roubaix Cemetery to the Roubaix Cemetery 
+        Association.
+            (6) The Nemo Cemetery to the Nemo Cemetery Association.
+            (7) The Galena Cemetery to the Galena Historical Society.
+            (8) The Rockerville Cemetery to the Rockerville Community 
+        Club.
+            (9) The Cold Springs Cemetery (including adjacent school 
+        yard and log building) to the Cold Springs Historical Society.
+    (c) Condition of Conveyance.--Each conveyance under subsection (a) 
+shall be subject to the condition that the recipient accept the 
+conveyed real property in its condition at the time of the conveyance.
+    (d) Use of Land Conveyed.--The lands conveyed under subsection (a) 
+shall continue to be used in the same manner and for the same purposes 
+as they were immediately prior to their conveyance under this Act.
+    (e) Description of Property.--The exact acreage and legal 
+description of each parcel of real property to be conveyed under 
+subsection (a) shall be determined by surveys satisfactory to the 
+Secretary. The cost of the survey for a particular parcel shall be 
+borne by the recipient of such parcel.
+    (f) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyances 
+under subsection (a) as the Secretary considers appropriate to protect 
+the interests of the United States.
+                                                       Calendar No. 117
 
-``3510. Rights of victims to attend and observe trial.''.
-    (b) Admissibility of Certain Evidence.--Section 3593(c) of title 
-18, United States Code, is amended by inserting after ``misleading the 
-jury.'' the following: ``For purposes of the preceding sentence, the 
-fact that a victim (as that term is defined in section 503(e)(2) of the 
-Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(e)(2))) 
-attended or observed the trial in accordance with applicable statutes, 
-rules, or other provisions of law, shall not be construed to create a 
-danger of unfair prejudice, confusing the issues, or misleading the 
-jury.''.
-    (c) Effect on Pending Cases.--The amendments made by this section 
-shall apply in any case that is pending on the date of the enactment of 
-this Act.
-
-
-
-
-                                                        Calendar No. 28
-
-105th CONGRESS
+113th CONGRESS
 
   1st Session
 
                                  S. 447
 
+                          [Report No. 113-63]
+
 _______________________________________________________________________
 
                                  A BILL
 
-To amend title 18, United States Code, to give further assurance to the 
-  right of victims of crime to attend and observe the trials of those 
-             accused of the crime, and for other purposes.
+To provide for the conveyance of certain cemeteries that are located on 
+   National Forest System land in Black Hills National Forest, South 
+                                Dakota.
 
 _______________________________________________________________________
 
-                             March 14, 1997
+                             June 27, 2013
 
-             Read twice and ordered placed on the calendar
+                       Reported without amendment

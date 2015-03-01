@@ -1,22 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4181 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4181
 
-  To require the expenditure of funds for the construction of United 
-States chancery facilities in Berlin and Jerusalem in such a manner as 
-  to ensure comparable rates of construction and occupation of the 2 
-                              facilities.
+To appropriate funds for carrying out certain provisions of the Public 
+   Health Service Act relating to emergency care and trauma services.
 
 
 _______________________________________________________________________
@@ -24,14 +16,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             June 25, 1998
+                             March 6, 2014
 
-Mr. Sherman (for himself, Mr. Saxton, Mr. Salmon, Mrs. McCarthy of New 
-    York, Mr. Pallone, Mr. McNulty, Ms. Ros-Lehtinen, Mr. Watts of 
- Oklahoma, Mr. LoBiondo, Mr. Pappas, Mr. English of Pennsylvania, Mr. 
-   Forbes, Mr. Hayworth, Mr. Ryun, Mr. Calvert, and Mr. Snowbarger) 
- introduced the following bill; which was referred to the Committee on 
-                        International Relations
+   Mr. Rush introduced the following bill; which was referred to the 
+                      Committee on Appropriations
 
 _______________________________________________________________________
 
@@ -39,133 +27,35 @@ _______________________________________________________________________
 
 
  
-  To require the expenditure of funds for the construction of United 
-States chancery facilities in Berlin and Jerusalem in such a manner as 
-  to ensure comparable rates of construction and occupation of the 2 
-                              facilities.
+To appropriate funds for carrying out certain provisions of the Public 
+   Health Service Act relating to emergency care and trauma services.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Jerusalem and Berlin Embassy 
-Relocation Act of 1998''.
+    This Act may be cited as the ``Trauma Relief Access for Urgent 
+Medical Assistance of 2014''.
 
-SEC. 2. FINDINGS.
+SEC. 2. FUNDING FOR EMERGENCY CARE AND TRAUMA SERVICES.
 
-    Congress makes the following findings:
-            (1) Berlin was Germany's capital from 1871 through the end 
-        of World War II. At the end of the war, the city was divided 
-        into 4 sectors: American, British, French, and Soviet. 
-        Eventually, the Soviet sector became communist East Berlin and 
-        the other sectors combined to form West Berlin.
-            (2) The Berlin Wall was built in 1961 by the East German 
-        authorities to prevent East Germans from fleeing to the West. 
-        The Wall encircled all of West Berlin, leaving West Berlin as 
-        an isolated outpost of the democratic Federal Republic 
-        surrounded by communist East Germany. The Wall became a symbol 
-        of the cold war and more than 100 East Germans were killed 
-        trying to escape.
-            (3) On October 3, 1990, the German Democratic Republic 
-        officially acceded to the Federal Republic of Germany in 
-        accordance with Article 23 of the Basic Law. Thus, German 
-        unification was achieved after 40 years of division following 
-        the Second World War.
-            (4) On November 9, 1989, the Berlin Wall fell and Berliners 
-        were once again able to move throughout the city. On October 3, 
-        1990, Berlin once more became the capital of a unified Germany 
-        and on June 20, 1991, the German Bundestag voted to return the 
-        seat of government and the parliament to Berlin.
-            (5) The first constitutional body to relocate to Berlin was 
-        the Federal President in 1994. The Bundestag and Chancellery 
-        intend to more to Berlin in 1999.
-            (6) Shortly after unification, the United States Embassy to 
-        East Germany and the United States Mission in West Berlin 
-        merged to form the Berlin Office of the United States Embassy 
-        in Bonn.
-            (7) After the German decision in June 1991 to return the 
-        capital to its historic site in Berlin, then United States 
-        Ambassador Kimmitt announced plans in 1992 to rebuild an 
-        embassy in Berlin on the United States site at Pariser Platz.
-            (8) The State Department maintains that reestablishing the 
-        United States Embassy in the center of Berlin will send a 
-        signal of American commitment and influence not only to Germany 
-        but to all of Europe.
-            (9) On May 14, 1948, in the aftermath of World War II, the 
-        state of Israel was created to serve as a homeland and refuge 
-        for the Jewish people.
-            (10) For 3,000 years Jerusalem has been Judaism's holiest 
-        city and a focal point of religious Jewish devotion and is also 
-        considered a holy city by members of other religious faiths.
-            (11) There has been an uninterrupted Jewish presence in the 
-        city of Jerusalem for 3,000 years and a Jewish majority since 
-        1840. Since 1950, the city of Jerusalem has been the capital of 
-        the State of Israel, serving as the seat of the Israeli 
-        President, Parliament, and Supreme Court, and the site of 
-        numerous government ministries and social and cultural 
-        institutions.
-            (12) From 1948 through 1967, Jerusalem was a divided city 
-        and Israeli citizens of all faiths were not entitled to visit 
-        the holy sites and Jews from other nations were restricted in 
-        their access to holy sites in the area controlled by Jordan.
-            (13) In 1967, the city of Jerusalem was reunited during the 
-        conflict known as the Six Day War and since 1967, Jerusalem has 
-        been a unified city administered by Israel, and persons of all 
-        faiths have been guaranteed full access to holy sites within 
-        the city.
-            (14) In 1990, Congress unanimously adopted Senate 
-        Concurrent Resolution 106, which declares that Congress 
-        ``strongly believes that Jerusalem must remain an undivided 
-        city in which the rights of every ethnic religious group are 
-        protected.''.
-            (15) In 1995, Congress overwhelmingly approved the 
-        Jerusalem Embassy Relocation Act (Public Law 104-45) which 
-        requires the establishment of the United States Embassy in 
-        Jerusalem no later than May 31, 1999.
-            (16) The United States maintains its embassy in the 
-        functioning capital of every country except in the case of our 
-        democratic friend and ally, the State of Israel.
-            (17) The United States conducts official meetings and other 
-        business in the city of Jerusalem in de facto recognition of 
-        its status as the capital of Israel.
-            (18) Israel and the modern democratic Germany were born out 
-        of the ashes of World War II and have emerged as staunch allies 
-        of the United States. Both nations are vitally important as 
-        partners in United States economic, security, and cultural 
-        exchanges.
-            (19) Berlin and Jerusalem are cities with rich histories, 
-        emblematic of the great nations which they represent. Both 
-        cities have been divided by war and ideological differences; 
-        today, both cities have been reunited and proudly serve as 
-        their nation's capital.
-
-SEC. 3. STATEMENT OF THE POLICY.
-
-    It is the sense of Congress that the United States should proceed 
-simultaneously with the design, construction, and occupancy of an 
-embassy in Berlin, the capital of Germany, and in Jerusalem, the 
-capital of Israel.
-
-SEC. 4. EXPENDITURE OF FUNDS.
-
-    Notwithstanding any other provision of law, funds available to the 
-Department of State for fiscal years 1999 and 2000 under the 
-appropriations account entitled, ``SECURITY AND MAINTENANCE OF UNITED 
-STATES MISSIONS'' may not be obligated or expended for any purpose 
-relating to the construction of chancery facilities in Berlin, Germany, 
-unless construction of chancery facilities in Jerusalem, Israel, has 
-either commenced or commences simultaneously in a manner as to ensure 
-comparable rates of construction and completion of the 2 facilities and 
-that no chancery facilities in Berlin, Germany, shall be occupied or 
-used (and no funds shall be used to occupy employ, or carry out 
-activities in chancery facilities in Berlin, Germany) unless prior to 
-or simultaneous with such occupancy and use, the United States shall 
-have opened permanent or temporary chancery facilities in Jerusalem, 
-Israel.
-
-SEC. 5. DEFINITION.
-
-    As used in this Act, the term ``chancery facilities'' means the 
-principal offices of the United States embassy and diplomatic mission.
+    Out of any money in the Treasury not otherwise appropriated, there 
+are hereby appropriated for each of fiscal years 2014 through 2018 the 
+following sums:
+            (1) $24,000,000 for carrying out parts A through C of title 
+        XII of the Public Health Service Act (42 U.S.C. 300d et seq.; 
+        relating to regional systems for emergency care).
+            (2) $100,000,000 for carrying out part D of title XII of 
+        the Public Health Service Act (42 U.S.C. 300d-41 et seq.; 
+        relating to trauma care centers).
+            (3) $100,000,000 for carrying out part H of title XII of 
+        the Public Health Service Act (42 U.S.C. 300d-81 et seq.; 
+        relating to trauma service availability).
+            (4) $20,000,000 for carrying out section 498D of the Public 
+        Health Service Act (42 U.S.C. 289g-4; relating to emergency 
+        medicine research).
+            (5) $30,400,000 for carrying out section 1910 of the Public 
+        Health Service Act (42 U.S.C. 300w-9; relating to children's 
+        emergency medical services demonstration grants).
                                  <all>

@@ -1,710 +1,409 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 2519 Introduced in Senate (IS)]
+[S. 2519 Engrossed in Senate (ES)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2519
 
-   To promote and enhance public safety through use of 9-1-1 as the 
- universal emergency assistance number, further deployment of wireless 
- 9-1-1 service, support of States in upgrading 9-1-1 capabilities and 
-   related functions, encouragement of construction and operation of 
-   seamless, ubiquitous and reliable networks for personal wireless 
- services, and ensuring access to Federal Government property for such 
-                   networks, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                           September 24, 1998
-
- Mr. McCain (for himself and Mr. Burns) introduced the following bill; 
-    which was read twice and referred to the Committee on Commerce, 
-                      Science, and Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
-   To promote and enhance public safety through use of 9-1-1 as the 
- universal emergency assistance number, further deployment of wireless 
- 9-1-1 service, support of States in upgrading 9-1-1 capabilities and 
-   related functions, encouragement of construction and operation of 
-   seamless, ubiquitous and reliable networks for personal wireless 
- services, and ensuring access to Federal Government property for such 
-                   networks, and for other purposes.
+       To codify an existing operations center for cybersecurity.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Wireless Communications and Public 
-Safety Act of 1998''.
+    This Act may be cited as the ``National Cybersecurity Protection 
+Act of 2014''.
 
-SEC. 2. FINDINGS AND PURPOSE.
+SEC. 2. DEFINITIONS.
 
-    (a) Findings.--The Congress finds that--
-            (1) the establishment and maintenance of an end-to-end 
-        communications infrastructure among members of the public, 
-        emergency safety, fire service and law enforcement officials, 
-        and hospital emergency and trauma care facilities will reduce 
-        response times for the delivery of emergency care, assist in 
-        delivering appropriate care, and thereby prevent fatalities, 
-        substantially reduce the severity and extent of injuries, 
-        reduce time lost from work, and save thousands of lives and 
-        billions of dollars in health care costs;
-            (2) the rapid, efficient deployment of emergency 
-        telecommunications service requires statewide coordination of 
-        the efforts of local public safety, fire service and law 
-        enforcement officials, the establishment of sources of adequate 
-        funding for carrier and public safety, fire service and law 
-        enforcement agency technology development and deployment, and 
-        the designation of 911 as the number to call in emergencies 
-        throughout the Nation;
-            (3) emerging technologies such as automatic crash 
-        notification systems can be a critical component of the end-to-
-        end communications infrastructure connecting the public with 
-        emergency medical service providers and emergency dispatch 
-        providers, public safety, fire service and law enforcement 
-        officials, and hospital emergency and trauma care facilities, 
-        to reduce emergency response times and provide appropriate 
-        care;
-            (4) improved public safety remains an important public 
-        health objective of Federal, State, and local governments and 
-        substantially facilitates interstate and foreign commerce;
-            (5) the benefits of wireless communications in emergencies 
-        will be enhanced by--
-                    (A) the establishment of a program to improve 
-                safety through grants to States to develop integrated 
-                enhanced wireless 911 services and to support State 
-programs to address risks to the safety of members of the public from 
-driving under the influence of alcohol or illegal drugs, driving 
-aggressively, or other driving behavior that poses a risk to such 
-safety; and
-                    (B) investments in research on and development of 
-                automatic crash notification and related matters;
-            (6) emergency care systems, particularly in rural areas of 
-        the Nation, will improve with the enabling of prompt 
-        notification of emergency services when motor vehicle crashes 
-        occur; and
-            (7) the construction and operation of seamless. ubiquitous, 
-        and reliable wireless telecommunications systems promote public 
-        safety and provide immediate and critical communications links 
-        among members of the public, emergency medical service 
-        providers and emergency dispatch providers, public safety, fire 
-        service and law enforcement officials, and hospital emergency 
-        and trauma care facilities.
-    (b) Purpose.--The purpose of this Act is to encourage and 
-facilitate the prompt deployment throughout the United States of a 
-seamless, ubiquitous, and reliable end-to-end infrastructure for 
-communications, including wireless communications, to meet the Nation's 
-public safety and other communications needs.
+    In this Act--
+            (1) the term ``Center'' means the national cybersecurity 
+        and communications integration center under section 226 of the 
+        Homeland Security Act of 2002, as added by section 3;
+            (2) the term ``critical infrastructure'' has the meaning 
+        given that term in section 2 of the Homeland Security Act of 
+        2002 (6 U.S.C. 101);
+            (3) the term ``cybersecurity risk'' has the meaning given 
+        that term in section 226 of the Homeland Security Act of 2002, 
+        as added by section 3;
+            (4) the term ``information sharing and analysis 
+        organization'' has the meaning given that term in section 
+        212(5) of the Homeland Security Act of 2002 (6 U.S.C. 131(5));
+            (5) the term ``information system'' has the meaning given 
+        that term in section 3502(8) of title 44, United States Code; 
+        and
+            (6) the term ``Secretary'' means the Secretary of Homeland 
+        Security.
 
-SEC. 3. UNIVERSAL EMERGENCY TELEPHONE NUMBER.
+SEC. 3. NATIONAL CYBERSECURITY AND COMMUNICATIONS INTEGRATION CENTER.
 
-    Section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)) 
-is amended by adding at the end the following new paragraph:
-            ``(3) Universal emergency telephone number.--The Commission 
-        and any agency or entity to which the Commission has delegated 
-        authority under this subsection shall designate 911 as the 
-        universal emergency telephone number within the United States 
-        for reporting an emergency to appropriate authorities and 
-        requesting assistance. Such designation shall apply to both 
-        wireline and wireless telephone service. In making such 
-        designation, the Commission (and any such agency or entity) 
-        shall provide appropriate transition periods for areas in which 
-        911 is not in use as an emergency telephone number on the date 
-        of enactment of the Wireless Communications and Public Safety 
-        Act of 1998.''.
+    (a) In General.--Subtitle C of title II of the Homeland Security 
+Act of 2002 (6 U.S.C. 141 et seq.) is amended by adding at the end the 
+following:
 
-SEC. 4. WIRELESS COMMUNICATIONS AND PUBLIC SAFETY FUND.
+``SEC. 226. NATIONAL CYBERSECURITY AND COMMUNICATIONS INTEGRATION 
+              CENTER.
 
-    (a) Establishment of the WICAPS Fund.--There is hereby established 
-in the Treasury a fund to be known as the Wireless Communications and 
-Public Safety Fund.
-    (b) Administration of the WICAPS Fund.--The Secretary of the 
-Treasury shall administer the WICAPS Fund in accordance with this Act.
-    (c) Investment and Retention of Earnings.--It shall be the duty of 
-the Secretary of the Treasury to invest such portion of the WICAPS Fund 
-as is not, in the Secretary of the Treasury's judgment, required to 
-meet current withdrawals. Such investments may be made only in 
-interest-bearing obligations of the United States. The interest on, and 
-the proceeds from the sale or redemption of, any obligations held in 
-the WICAPS Fund shall be credited to and form a part of the WICAPS 
-Fund.
+    ``(a) Definitions.--In this section--
+            ``(1) the term `cybersecurity risk' means threats to and 
+        vulnerabilities of information or information systems and any 
+        related consequences caused by or resulting from unauthorized 
+        access, use, disclosure, degradation, disruption, modification, 
+        or destruction of information or information systems, including 
+        such related consequences caused by an act of terrorism;
+            ``(2) the term `incident' means an occurrence that--
+                    ``(A) actually or imminently jeopardizes, without 
+                lawful authority, the integrity, confidentiality, or 
+                availability of information on an information system; 
+                or
+                    ``(B) constitutes a violation or imminent threat of 
+                violation of law, security policies, security 
+                procedures, or acceptable use policies;
+            ``(3) the term `information sharing and analysis 
+        organization' has the meaning given that term in section 
+        212(5); and
+            ``(4) the term `information system' has the meaning given 
+        that term in section 3502(8) of title 44, United States Code.
+    ``(b) Center.--There is in the Department a national cybersecurity 
+and communications integration center (referred to in this section as 
+the `Center') to carry out certain responsibilities of the Under 
+Secretary appointed under section 103(a)(1)(H).
+    ``(c) Functions.--The cybersecurity functions of the Center shall 
+include--
+            ``(1) being a Federal civilian interface for the multi-
+        directional and cross-sector sharing of information related to 
+        cybersecurity risks, incidents, analysis, and warnings for 
+        Federal and non-Federal entities;
+            ``(2) providing shared situational awareness to enable 
+        real-time, integrated, and operational actions across the 
+        Federal Government and non-Federal entities to address 
+        cybersecurity risks and incidents to Federal and non-Federal 
+        entities;
+            ``(3) coordinating the sharing of information related to 
+        cybersecurity risks and incidents across the Federal 
+        Government;
+            ``(4) facilitating cross-sector coordination to address 
+        cybersecurity risks and incidents, including cybersecurity 
+        risks and incidents that may be related or could have 
+        consequential impacts across multiple sectors;
+            ``(5)(A) conducting integration and analysis, including 
+        cross-sector integration and analysis, of cybersecurity risks 
+        and incidents; and
+            ``(B) sharing the analysis conducted under subparagraph (A) 
+        with Federal and non-Federal entities;
+            ``(6) upon request, providing timely technical assistance, 
+        risk management support, and incident response capabilities to 
+        Federal and non-Federal entities with respect to cybersecurity 
+        risks and incidents, which may include attribution, mitigation, 
+        and remediation; and
+            ``(7) providing information and recommendations on security 
+        and resilience measures to Federal and non-Federal entities, 
+        including information and recommendations to--
+                    ``(A) facilitate information security; and
+                    ``(B) strengthen information systems against 
+                cybersecurity risks and incidents.
+    ``(d) Composition.--
+            ``(1) In general.--The Center shall be composed of--
+                    ``(A) appropriate representatives of Federal 
+                entities, such as--
+                            ``(i) sector-specific agencies;
+                            ``(ii) civilian and law enforcement 
+                        agencies; and
+                            ``(iii) elements of the intelligence 
+                        community, as that term is defined under 
+                        section 3(4) of the National Security Act of 
+                        1947 (50 U.S.C. 3003(4));
+                    ``(B) appropriate representatives of non-Federal 
+                entities, such as--
+                            ``(i) State and local governments;
+                            ``(ii) information sharing and analysis 
+                        organizations; and
+                            ``(iii) owners and operators of critical 
+                        information systems;
+                    ``(C) components within the Center that carry out 
+                cybersecurity and communications activities;
+                    ``(D) a designated Federal official for operational 
+                coordination with and across each sector; and
+                    ``(E) other appropriate representatives or 
+                entities, as determined by the Secretary.
+            ``(2) Incidents.--In the event of an incident, during 
+        exigent circumstances the Secretary may grant a Federal or non-
+        Federal entity immediate temporary access to the Center.
+    ``(e) Principles.--In carrying out the functions under subsection 
+(c), the Center shall ensure--
+            ``(1) to the extent practicable, that--
+                    ``(A) timely, actionable, and relevant information 
+                related to cybersecurity risks, incidents, and analysis 
+                is shared;
+                    ``(B) when appropriate, information related to 
+                cybersecurity risks, incidents, and analysis is 
+                integrated with other relevant information and tailored 
+                to the specific characteristics of a sector;
+                    ``(C) activities are prioritized and conducted 
+                based on the level of risk;
+                    ``(D) industry sector-specific, academic, and 
+                national laboratory expertise is sought and receives 
+                appropriate consideration;
+                    ``(E) continuous, collaborative, and inclusive 
+                coordination occurs--
+                            ``(i) across sectors; and
+                            ``(ii) with--
+                                    ``(I) sector coordinating councils;
+                                    ``(II) information sharing and 
+                                analysis organizations; and
+                                    ``(III) other appropriate non-
+                                Federal partners;
+                    ``(F) as appropriate, the Center works to develop 
+                and use mechanisms for sharing information related to 
+                cybersecurity risks and incidents that are technology-
+                neutral, interoperable, real-time, cost-effective, and 
+                resilient; and
+                    ``(G) the Center works with other agencies to 
+                reduce unnecessarily duplicative sharing of information 
+                related to cybersecurity risks and incidents;
+            ``(2) that information related to cybersecurity risks and 
+        incidents is appropriately safeguarded against unauthorized 
+        access; and
+            ``(3) that activities conducted by the Center comply with 
+        all policies, regulations, and laws that protect the privacy 
+        and civil liberties of United States persons.
+    ``(f) No Right or Benefit.--
+            ``(1) In general.--The provision of assistance or 
+        information to, and inclusion in the Center of, governmental or 
+        private entities under this section shall be at the sole and 
+        unreviewable discretion of the Under Secretary appointed under 
+        section 103(a)(1)(H).
+            ``(2) Certain assistance or information.--The provision of 
+        certain assistance or information to, or inclusion in the 
+        Center of, one governmental or private entity pursuant to this 
+        section shall not create a right or benefit, substantive or 
+        procedural, to similar assistance or information for any other 
+        governmental or private entity.''.
+    (b) Technical and Conforming Amendment.--The table of contents in 
+section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note) 
+is amended by inserting after the item relating to section 225 the 
+following:
 
-SEC. 5. ASSISTANCE TO STATES.
+``Sec. 226. National cybersecurity and communications integration 
+                            center.''.
 
-    (a) Population-Based Matching Grants To Implement State Plans.--
-            (1) In general.--From the amounts available under section 
-        9(d)(1), the Secretary shall make grants to States in 
-        accordance with the requirements of this subsection.
-            (2) State plans.--Any State seeking to obtain a grant under 
-        this subsection shall submit to the Secretary a plan for the 
-        administration of the grant. Such plan shall--
-                    (A) contain a certification by the Governor or the 
-                Governor's designee that the State--
-                            (i) will implement the designation of 911 
-                        as a universal emergency telephone number in 
-                        such State for reporting an emergency to 
-                        appropriate authorities and requesting 
-                        assistance;
-                            (ii) has in place policies to encourage 
-                        members of the public to report significant 
-                        risks to the safety of members of the traveling 
-                        public, such as incidents of driving under the 
-                        influence of alcohol or illegal drugs, driving 
-                        aggressively, or other driving behavior that 
-                        poses a risk to such safety;
-                            (iii) will make significant efforts to 
-                        minimize, such as through youth and adult 
-                        driver education, driving behavior that poses a 
-                        risk to the safety of members of the public;
-                            (iv) will provide from non-Federal sources 
-                        for carrying out the purposes of the grant an 
-                        amount equal to not less than one-fourth of the 
-                        amount of the grant; and
-                            (v) has consulted in the development of the 
-                        plan, and will consult in the implementation of 
-                        the plan, with State and local officials 
-                        responsible for emergency services and public 
-                        safety, the telecommunications industry 
-                        (specifically including the cellular and other 
-                        wireless telecommunications elements of the 
-                        industry), the motor vehicle manufacturing 
-                        industry, emergency medical service providers 
-                        and emergency dispatch providers, special 911 
-                        districts, public safety, fire service and law 
-                        enforcement officials, consumer groups, and 
-                        hospital emergency and trauma care personnel 
-                        (including emergency physicians, trauma 
-                        surgeons, and nurses);
-                    (B) provide for coordination on a statewide basis, 
-                by an entity designated by the Governor of the State, 
-                of deployment and functioning of a comprehensive end-
-                to-end emergency communications system, including 
-                enhanced wireless 911 service;
-                    (C) contain a description of the mechanisms used in 
-                the State for wireless carrier recovery of costs 
-                related to the provision of automatic numbering 
-                identification and call location services in response 
-                to a request from a PSAP;
-                    (D) describe the activities to be undertaken with 
-                the grant to achieve the purposes set forth in 
-                paragraph (4);
-                    (E) identify any entity that will be used to 
-                administer the grant in accordance with subsection (a);
-                    (F) provide such assurances as the Secretary may 
-                require that the grant funds will be used to implement 
-                the plan consistent with the provisions of this Act.
-            (3) Allocation of grants on the basis of population.--
-                    (A) In general.--The Secretary shall allocate the 
-                amount available under section 9(d)(1) for any fiscal 
-                year among States submitting plans in accordance with 
-                paragraph (2) for such fiscal year. The amount of each 
-                such grant shall be equal to the amount that bears the 
-                same ratio to the amount available under section 
-                9(d)(1) for such fiscal year as the population of each 
-                State bears to the total population of the States 
-                submitting such plans, as determined in the most recent 
-                decennial census of the United States.
-                    (B) Reallocation of unmatched amounts.--If any 
-                amounts remain unallocated because one or more States 
-                provide a smaller matching amount under paragraph 
-                (2)(A)(iv) than is required to obtain the full grant 
-                amount under subparagraph (A) of this paragraph, the 
-                Secretary shall reallocate such remaining amounts among 
-                the other States (meeting such matching amount) in 
-                proportion to the amounts allocated under subparagraph 
-                (A).
-            (4) Use of funds.--Funds made available by a grant under 
-        this subsection may be used for any one or more of the 
-        following purposes:
-                    (A) payment of costs associated with acquisition, 
-                upgrade, or modification of equipment to be used by 
-                units of States or of political subdivisions thereof 
-                (including PSAPs) for receipt of enhanced wireless 911 
-                service information; and
-                    (B) other emergency prevention, educational, or 
-                pre-hospital emergency medical programs or expenditures 
-                which will utilize or make effective the end-to-end 
-                system envisioned by this Act.
-    (b) Rural Assistance Grants to States.--
-            (1) In general.--From the amounts available under section 
-        9(d)(2), the Secretary shall make grants to States in 
-        accordance with the requirements of this subsection to assist 
-        in ensuring the achievement of the purpose of this Act in rural 
-        areas of the United States.
-            (2) State plans.--Any State seeking to obtain a grant under 
-        this subsection shall submit to the Secretary a plan for the 
-        administration of the grant. Such plan shall comply with the 
-        requirements set forth in subsection (a)(2).
-            (3) Amount of grants.--The amount of the grant under this 
-        subsection shall be such amount as the Secretary deems 
-        appropriate to assist in ensuring the achievement of the 
-        purpose of this Act in rural areas of the State.
-            (4) Use of funds.--Funds made available by a grant under 
-        this subsection may be used for any of the purposes set forth 
-        in subsection (a)(4).
-    (c) Disbursement of Grant Funds.--
-            (1) Direct or indirect disbursement permitted.--A State 
-        that receives a grant under this section may--
-                    (A) directly administer funds provided by a grant 
-                under subsection (a) or (b) (or both); or
-                    (B) administer such funds through governmental 
-                entities of that State, political subdivisions of that 
-                State or entities thereof, or eligible nongovernmental 
-                entities, if--
-                            (i) the system with which the entity or 
-                        subdivision is associated uses the number 911 
-                        as a universal emergency telephone number; or
-                            (ii) a purpose of the disbursements is to 
-                        enable such system to use the number 911 as a 
-                        universal emergency telephone number.
-                    (2) Eligible nongovernmental entities.--For 
-                purposes of paragraph (1), an eligible nongovernmental 
-                entity is an entity that provides pubic safety services 
-                or administrative services on behalf of a State 
-                government.
-    (d) Dual Grants Permitted.--A State may, in any fiscal year, obtain 
-a grant under either or both of subsections (a) and (b).
+SEC. 4. RECOMMENDATIONS REGARDING NEW AGREEMENTS.
 
-SEC. 6. RESEARCH AND DEVELOPMENT ON CRASH INFORMATION SYSTEMS.
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Secretary shall submit recommendations on 
+how to expedite the implementation of information-sharing agreements 
+for cybersecurity purposes between the Center and non-Federal entities 
+(referred to in this section as ``cybersecurity information-sharing 
+agreements'') to--
+            (1) the Committee on Homeland Security and Governmental 
+        Affairs and the Committee on the Judiciary of the Senate; and
+            (2) the Committee on Homeland Security and the Committee on 
+        the Judiciary of the House of Representatives.
+    (b) Contents.--In submitting recommendations under subsection (a), 
+the Secretary shall--
+            (1) address the development and utilization of a scalable 
+        form that retains all privacy and other protections in 
+        cybersecurity information-sharing agreements that are in effect 
+        as of the date on which the Secretary submits the 
+        recommendations, including Cooperative Research and Development 
+        Agreements; and
+            (2) include in the recommendations any additional 
+        authorities or resources that may be needed to carry out the 
+        implementation of any new cybersecurity information-sharing 
+        agreements.
 
-    (a) Program Authorized.--Not later than 90 days after the date of 
-enactment of this Act, the Secretary shall establish a program to 
-provide, from amounts appropriated from the WICAPS Fund under section 
-9(b), investments in research and development of--
-            (1) an end-to-end automatic crash notification system that, 
-        in the event of a crash of a motor vehicle, would automatically 
-        use a wireless telephone or other communications system in that 
-        vehicle to transmit information about the crash to the 
-        appropriate emergency personnel; and
-            (2) an interface in motor vehicles that permits all models 
-        of wireless telephones--
-                    (A) to transmit crash data; and
-                    (B) to be voice-activated, allowing hands-free use.
-    (b) Consultation With Interested Parties.--The Secretary shall 
-consult with representatives of the personal wireless services and 
-equipment industry, the motor vehicle manufacturing industry, the 
-public safety community, and the medical community in planning the 
-research and development investments described in subsection (a).
-    (c) Use of Funds.--
-            (1) Authorized uses.--The investments for which subsection 
-        (a)(1) provides shall include investments conducted by trauma 
-        centers in coordination with other provides of emergency 
-        medical services for the purpose of--
-                    (A) establishing decision protocols for the use of 
-                data obtained from such systems;
-                    (B) training emergency personnel in the use of such 
-                data;
-                    (C) establishing standardized methods to assess the 
-                added value of an end-to-end automatic crash 
-                notification system and to identify the factors causing 
-                changes in injury patterns of motor vehicle crashes; 
+SEC. 5. ANNUAL REPORT.
+
+    Not later than 1 year after the date of enactment of this Act, and 
+every year thereafter for 3 years, the Secretary shall submit to the 
+Committee on Homeland Security and Governmental Affairs and the 
+Committee on the Judiciary of the Senate, the Committee on Homeland 
+Security and the Committee on the Judiciary of the House of 
+Representatives, and the Comptroller General of the United States a 
+report on the Center, which shall include--
+     (a) information on the Center, including--
+            (1) an assessment of the capability and capacity of the 
+        Center to carry out its cybersecurity mission under this Act;
+            (2) the number of representatives from non-Federal entities 
+        that are participating in the Center, including the number of 
+        representatives from States, nonprofit organizations, and 
+        private sector entities, respectively;
+            (3) the number of requests from non-Federal entities to 
+        participate in the Center and the response to such requests;
+            (4) the average length of time taken to resolve requests 
+        described in paragraph (3);
+            (5) the identification of--
+                    (A) any delay in resolving requests described in 
+                paragraph (3) involving security clearance processing; 
                 and
-                    (D) developing models for incorporating the use of 
-                such data into emergency systems throughout the United 
-                States.
-            (2) Geographic distribution.--The centers for which 
-        paragraph (1) provides shall reflect a cross section of the 
-        geographic diversity, population characteristics, and climatic 
-        features of the United States.
+                    (B) the agency involved with a delay described in 
+                subparagraph (A);
+            (6) a description of any other obstacles or challenges to 
+        resolving requests described in paragraph (3) and a summary of 
+        the reasons for denials of any such requests;
+            (7) the extent to which the Department is engaged in 
+        information sharing with each critical infrastructure sector, 
+        including--
+                    (A) the extent to which each sector has 
+                representatives at the Center;
+                    (B) the extent to which owners and operators of 
+                critical infrastructure in each critical infrastructure 
+                sector participate in information sharing at the 
+                Center; and
+                    (C) the volume and range of activities with respect 
+                to which the Secretary has collaborated with the sector 
+                coordinating councils and the sector-specific agencies 
+                to promote greater engagement with the Center; and
+            (8) the policies and procedures established by the Center 
+        to safeguard privacy and civil liberties.
 
-SEC. 7. EMERGENCY SERVICES SUPPORT FROM USE OF FEDERAL PROPERTY.
+SEC. 6. GAO REPORT.
 
-    Section 704 of the Telecommunications Act of 1996 is amended by 
-inserting after subsection (c) (47 U.S.C. 332 nt) the following new 
-subsection:
-    ``(d) Use of Federal Property To Provide Personal Wireless 
-Services.--
-            ``(1) Policy.--It is the policy of the United States to 
-        encourage rapid construction and expansion of the wireless 
-        communications infrastructure in the United States and, to that 
-        end, to make the real property of the United States Government 
-        available to the maximum extent practicable for the siting of 
-        facilities that are part of that infrastructure.
-            ``(2) Availability of federal property for personal 
-        wireless services.--Not later than 60 days after a department, 
-        agency, officer, or instrumentality of the United States with 
-        control of real property (including rights-of-way and 
-        easements) owned by the United States receives a request 
-        containing the information set forth in paragraph (5) from a 
-        provider of personal wireless services for access to and use of 
-        such real property for siting of facilities used in providing 
-        such services, the department, agency, officer, or 
-        instrumentality shall make that real property available on a 
-        fair, reasonable, and nondiscriminatory basis and at not more 
-than a reasonable fee (which shall in no event exceed fair market 
-value), to the provider for that purpose, unless and to the extent that 
-the head of the department, agency, officer, or instrumentality 
-determines and notifies the provider prior to the expiration of that 
-60-day period that making such real property available will present an 
-unavoidable direct conflict with--
-                    ``(A) the mission of the department, agency, or 
-                instrumentality; or
-                    ``(B) the current use of the real property or the 
-                use of the real property that was planned at the time 
-                of the request.
-            ``(3) Favorable decision.--Unless the department, agency, 
-        officer, or instrumentality determines pursuant to paragraph 
-        (2) that an unavoidable conflict exists (as described in such 
-        paragraph), such department, agency, officer, or 
-        instrumentality shall, within 90 days after the date of the 
-        receipt of the request under paragraph (2), execute any 
-        documents, such as a lease, that are necessary to implement the 
-        request.
-            ``(4) Unfavorable decision.--With regard to a request under 
-        paragraph (2), a department, agency, officer, or 
-        instrumentality shall not make a determination that an 
-        unavoidable conflict exists (as described in such paragraph) 
-        unless--
-                    ``(A) an opportunity for an informal hearing is 
-                afforded to interested persons commencing within 60 
-                days, and concluding within 90 days, after receipt of 
-                the request and prior to the making of the 
-                determination;
-                    ``(B) the determination is in writing, constitutes 
-                a final agency action, and discloses the specific 
-                grounds therefor.
-            ``(5) Information required in request for access to and use 
-        of federal property.--A request by a provider of personal 
-        wireless services under paragraph (2) shall contain the 
-        following information:
-                    ``(A) The name, address and telephone number of the 
-                provider and the provider's authorized or legal 
-                representative for the request.
-                    ``(B) Site-specific identification of the real 
-                property to which access is requested, such as a 
-                specific building name and address or site latitude and 
-                longitude.
-                    ``(C) The type and size of antenna installation and 
-                support required for the provider's proposed wireless 
-                site, including access to the site, utility 
-                requirements, acreage of land, or foot-pound capacity 
-                for rooftops, and any special site modification 
-                requirements.
-                    ``(D) a summary of antenna specifications, 
-                including frequencies.
-                    ``(E) The term of the requirement for use of the 
-                real property.
-                    ``(F) The terms of removal of the equipment and 
-                structures or property restoration.
-                    ``(G) A description of any project or larger 
-                antenna program to which the site relates.
-                    ``(H) A description of methods of achieving 
-                compliance with any applicable environmental or 
-                historic preservation statutes.
-            ``(6) Judicial review.--A provider of personal wireless 
-        services adversely affected by a final action or failure to act 
-        by a department, agency, officer, or instrumentality concerning 
-        a request under paragraph (2) (including any decision relating 
-        to a fair, reasonable, and nondiscriminatory basis for access 
-        and use or what constitutes a reasonable fee) may obtain 
-        judicial review of the action or failure to act in accordance 
-        with the provisions of chapter 7 of title 5, of the United 
-        States Code, except that the burden shall be on the department, 
-        agency, officer, or instrumentality to sustain its action.
-            ``(7) Regulatory compliance.--The department, agency, 
-        officer or instrumentality receiving a request under paragraph 
-        (2) shall conduct environmental processing of such request in 
-        accordance with subpart I of part 1 of title 47 of the Code of 
-        Federal Regulations, except that such rules shall be applied 
-        consistent with the time periods established in this 
-        subsection.
-            ``(8) Avoidance of redundant regulations.--Bulletins issued 
-        by the Administrator of General Services pursuant to subsection 
-        (c) of this section shall continue to apply, to the extent 
-        otherwise consistent with this subsection, to the 
-        administration of this subsection until modified or superseded 
-        by the Administrator as necessary for the purposes of this 
-        subsection.
-            ``(9) Notice and opportunity to comment.--
-                    ``(A) Notice.--A provider of personal wireless 
-                services making a request under paragraph (2) shall 
-                provide written notice of such request to the chief 
-                executives of the State and any local government in 
-                which the Federal property covered by the request is 
-                located. Such notice shall consist of the intended 
-                location of the facilities, and the name, address, and 
-                telephone number of the Federal official to whom the 
-                request has been made.
-                    ``(B) Opportunity to provide comments.--The 
-                department, agency, officer, or instrumentality 
-                receiving a request under paragraph (2) shall afford 
-                the State and any local government described in 
-                subparagraph (A) of this paragraph with a reasonable 
-                opportunity, consistent with the time period 
-                established in paragraph (2), to comment on the 
-                request.
-            ``(10) Definitions.--As used in this subsection:
-                    ``(A) The term `instrumentality of the United 
-                States' includes any independent establishment of the 
-                United States.
-                    ``(B) The term `personal wireless services' has the 
-                meaning specified for that term in section 
-                332(c)(7)(C)(i) of the Communications Act of 1934 (47 
-                U.S.C. 332(c)(7)(C)(i).
-                    ``(C) Facilities used in the provision of personal 
-                wireless services are the antenna and supporting 
-                equipment, including ground-based electronics connected 
-                to such equipment, for the provision of such 
-                service.''.
+    Not later than 2 years after the date of enactment of this Act, the 
+Comptroller General of the United States shall submit to the Committee 
+on Homeland Security and Governmental Affairs of the Senate and the 
+Committee on Homeland Security of the House of Representatives a report 
+on the effectiveness of the Center in carrying out its cybersecurity 
+mission.
 
-SEC. 8. PARITY OF PROTECTION FOR PROVISION OR USE OF WIRELESS 9-1-1 
-              SERVICE.
+SEC. 7. CYBER INCIDENT RESPONSE PLAN; CLEARANCES; BREACHES.
 
-    (a) Provider Parity.--A wireless carrier, and its officers, 
-directors, employees, vendors, and agents, shall have immunity or other 
-protection from liability of a scope and extent that is not less than 
-the scope and extent of immunity or other protection from liability 
-that a local exchange company, and its officers, directors, employees, 
-vendors, or agents, have under applicable law, including in connection 
-with an act or omission involving--
-            (1) development, design, installation, operation, 
-        maintenance, performance, or provision of telecommunications 
-        service (including wireless 9-1-1 service);
-            (2) transmission errors, failures, network outages, or 
-        other technical difficulties that may arise in the course of 
-        handling emergency calls or providing emergency services 
-        (including wireless 9-1-1 service); or
-            (3) release to a PSAP, emergency medical service provider 
-        or emergency dispatch provider, public safety, fire service or 
-        law enforcement official, or hospital emergency or trauma care 
-        facility of subscriber information related to emergency calls 
-        or emergency services involving use of wireless services.
-    (b) User Parity.--A person using wireless 9-1-1 service shall have 
-immunity or other protection from liability of a scope and extent that 
-is not less than the scope and extent of immunity or other protection 
-from liability under applicable law in similar circumstances of a 
-person using 9-1-1 service that is not wireless.
-    (c) Basis for Enactment.--This section is enacted as an exercise of 
-the enforcement power of the Congress under section 5 of the fourteenth 
-amendment and the power of the Congress to regulate commerce with 
-foreign nations, among the several States, and with Indian tribes.
+    (a) Cyber Incident Response Plan; Clearances.--Subtitle C of title 
+II of the Homeland Security Act of 2002 (6 U.S.C. 141 et seq.), as 
+amended by section 3, is amended by adding at the end the following:
 
-SEC. 9. AUTHORIZATIONS OF APPROPRIATIONS AND DISPOSITION OF FEES.
+``SEC. 227. CYBER INCIDENT RESPONSE PLAN.
 
-    (a) Authorization of Appropriations for Administration of the 
-Act.--There are authorized to be appropriated in any fiscal year to the 
-Department of Transportation such sums as may be necessary to carry out 
-the duties of the Secretary under this Act (other than the duties for 
-which subsections (b) and (c) authorize appropriations), and such sums 
-may be derived by transfer from the WICAPS Fund to the extent provided 
-in appropriations Acts.
-    (b) Authorization of Appropriations From the WICAPS Fund for Making 
-Research and Development Investments.--There is authorized to be 
-appropriated in any fiscal year from the WICAPS Fund, for the purpose 
-of making investments under section 6, an amount not to exceed 25 
-percent of the amount appropriated for that fiscal year pursuant to 
-subsection (c). The total amount that is authorized to be appropriated 
-pursuant to this subsection for all such fiscal years shall not exceed 
-$60,000,000.
-    (c) Authorization of Appropriations From the WICAPS Fund for Making 
-Grants.--There are authorized to be appropriated in any fiscal year 
-from the WICAPS Fund, for the purpose of making grants under section 5, 
-such sums as the WICAPS fund may contain after deduction of the amounts 
-appropriated pursuant to subsections (a) and (b).
-    (d) Allocation of Appropriations for Grants.--In any fiscal year--
-            (1) \2/3\ of the funds appropriated pursuant to subsection 
-        (c) shall be available for grants pursuant to section 5(a); and
-            (2) \1/3\ of the funds so appropriated shall be available 
-        for grants pursuant to section 5(b).
-    (e) Authorization of Appropriations to the WICAPS Fund.--There are 
-authorized to be appropriated to the WICAPS Fund in any fiscal year 
-such sums as may be necessary to carry out this Act.
-    (f) Fiscal Year Availability.--Funds made available pursuant to an 
-authorization of appropriations contained in this Act shall be 
-available without fiscal year limitation to the extent provided in 
-appropriations Acts.
-    (g) Disposition of Fees.--
-            (1) Subject to paragraph (4), a department, agency, officer 
-        or instrumentality of the United States receiving funds which 
-        are the reasonable fees to which section 704(d)(2) of the 
-        Telecommunications Act of 1996 (as added by section 7) refers--
-                    (A) may, without regard to section 3302 of title 31 
-                of the United States Code and consistent with such 
-                instructions as the Director of the Office of 
-                Management and Budget may issue, credit to the 
-                appropriations accounts identified in paragraph (2) not 
-                to exceed the amount set forth in paragraph (3); and
-                    (B) shall remit to the Treasury for deposit in the 
-                WICAPS Fund established by section 4 such sums received 
-                as reasonable fees as are not credited in accordance 
-                with subparagraph (A).
-            (2) The appropriations accounts to which paragraph (1)(A) 
-        refers are the appropriations accounts the appropriated funds 
-        of which the department, agency, officer, or instrumentality 
-        would use at the time the crediting occurs to process requests 
-        for access to and use of real property for siting of facilities 
-        used in providing personal wireless services.
-            (3) The amount to which paragraph (1)(A) refers is the 
-        amount the department, agency, officer, or instrumentality has 
-        obligated after the date of enactment of this Act to process 
-        requests for access to and use of real property for siting of 
-        facilities used in providing personal wireless services.
-            (4) Nothing in this subsection shall impair or affect the 
-        authority under a statute other than this Act of a department, 
-        agency, officer, or instrumentality to receive and use funds 
-        that are not appropriated funds.
-    (h) Radiofrequency Study.--
-            (1) Findings.--The Congress finds that--
-                    (A) there is a significant international body of 
-                scientific knowledge on electromagnetic energy and 
-                wireless telephones;
-                    (B) the United States should add to this body of 
-                knowledge through the conduct of appropriate research 
-                that is coordinated with other international research 
-                efforts; and
-                    (C) representatives of the scientific community and 
-                the industry can provide information and expertise that 
-                would be valuable to the research authorized by this 
-                subsection.
-            (2) Authorization of appropriations.--There is authorized 
-        to be appropriated to the Food and Drug Administration for the 
-        purpose of implementing this subsection in each of fiscal years 
-        1999, 2000, 2001, 2002, and 2003, the lesser of--
-                    (A) 5 percent of the amount appropriated for the 
-                WICAPS Fund for that fiscal year pursuant to section 
-                9(c); or
-                    (B) $2,000,000.
-            (3) Study.--
-                    (A) In general.--Subject to the availability of 
-                appropriations, the Food and Drug Administration shall 
-                conduct a 2-year animal bioassay of radiofrequency 
-                emissions from wireless telephones operating on 
-                frequencies between 825 and 1900 megahertz, inclusive.
-                    (B) Coordination.--To the maximum extent practical, 
-                the study described in subparagraph (A) shall be 
-                consistent with the global research needs on such 
-                matters as set forth by the International 
-                Electromagnetic Frequency Project of the World Health 
-                Organization.
-            (4) Advisory panel.--The Commissioner of the Food and Drug 
-        Administration shall, after consultation with the Center for 
-        Devices and Radiological Health and representatives of the 
-        scientific community and the wireless industry, designate a 
-        panel of scientific and industry experts to advise the Food and 
-        Drug Administration, on an ongoing basis, on the preparation, 
-        conduct, and evaluation of the study described in paragraph 
-(3)(A). Such panel shall provide advice on--
-                    (A) the scope of the investigation;
-                    (B) the appropriate transmission modalities to be 
-                studied;
-                    (C) dosimetry techniques and measurements;
-                    (D) other relevant scientific studies;
-                    (E) engineering and properties of radio-frequency 
-                transmissions from wireless telephones; and
-                    (F) other matters relevant to such study.
-            (5) Attendance at meetings.--Subject to the availability of 
-        appropriations, the Food and Drug Administration may use funds 
-        appropriated pursuant to the authorization of appropriations in 
-        this subsection to provide for attendance by Food and Drug 
-        Administration personnel at scientific symposia and other 
-        meetings related to the subject matter of the study described 
-        in paragraph (3)(A), including such meetings convened under the 
-        auspices of the International Electromagnetic Frequency Project 
-        of the World Health Organization, to ensure full participation 
-        by the United States in the international research in such 
-        matters.
+    ``The Under Secretary appointed under section 103(a)(1)(H) shall, 
+in coordination with appropriate Federal departments and agencies, 
+State and local governments, sector coordinating councils, information 
+sharing and analysis organizations (as defined in section 212(5)), 
+owners and operators of critical infrastructure, and other appropriate 
+entities and individuals, develop, regularly update, maintain, and 
+exercise adaptable cyber incident response plans to address 
+cybersecurity risks (as defined in section 226) to critical 
+infrastructure.
 
-SEC. 10. AUTHORITY TO PROVIDE LOCATION INFORMATION.
+``SEC. 228. CLEARANCES.
 
-    Section 222 of the Communications Act of 1934 (47 U.S.C. 222) is 
-amended--
-            (1) in subsection (d)--
-                    (A) by striking ``or'' at the end of paragraph (2);
-                    (B) by striking the period at the end of paragraph 
-                (3) and inserting a semicolon;
-                    (C) by adding at the end the following new 
-                paragraph:
-            ``(4) to provide call location information concerning the 
-        user of a commercial mobile service as such term is defined in 
-        section 332(d)) to emergency dispatch providers and emergency 
-        service personnel (including public safety, fire, police, and 
-        emergency medical personnel) in order to respond to the user's 
-        call for emergency services; and
-            ``(5) to transmit automatic crash notification information 
-        as part of the operation of an automatic crash notification 
-        system.'';
-            (2) by redesignating subsection (f) as subsection (g) and 
-        by inserting before such subsection the following new 
-        subsection:
-    ``(f) Authority To Use Wireless Location Information.--For purposes 
-of subsection (c)(1), without the express prior authorization of the 
-customer, a customer shall not be considered to have approved the use, 
-disclosure, or access to--
-            ``(1) call location information concerning the user of a 
-        commercial mobile service (as such term is defined in section 
-        332(d)) to any person other than emergency dispatch providers 
-        and emergency service personnel (including public safety, fire, 
-        police, and emergency medical personnel); or
-            ``(2) automatic crash notification information to any 
-        person other than for use in the operation of an automatic 
-        crash notification system.''; and
-            (3) in subsection (g) (as redesignated by paragraph (2)), 
-        by inserting ``location,'' after ``destination.''; and
-            (4) by inserting the following new subsection after 
-        subsection (d) and redesignating the subsequent subsection 
-        accordingly:
-    ``(e) Commercial Mobile Services.--Nothing in this section 
-prohibits a provider of commercial mobile services from using, 
-disclosing, or permitting access to individually identifiable customer 
-proprietary network information derived from the provision of such 
-services that is related to calling volume or the nature and type of 
-the commercial mobile services purchased to market or provide customer 
-premises equipment or information services necessary to or offered with 
-commercial mobile services.''.
+    ``The Secretary shall make available the process of application for 
+security clearances under Executive Order 13549 (75 Fed. Reg. 162; 
+relating to a classified national security information program) or any 
+successor Executive Order to appropriate representatives of sector 
+coordinating councils, sector information sharing and analysis 
+organizations (as defined in section 212(5)), owners and operators of 
+critical infrastructure, and any other person that the Secretary 
+determines appropriate.''.
+    (b) Breaches.--
+            (1) Requirements.--The Director of the Office of Management 
+        and Budget shall ensure that data breach notification policies 
+        and guidelines are updated periodically and require--
+                    (A) except as provided in paragraph (4), notice by 
+                the affected agency to each committee of Congress 
+                described in section 3544(c)(1) of title 44, United 
+                States Code, the Committee on the Judiciary of the 
+                Senate, and the Committee on Homeland Security and the 
+                Committee on the Judiciary of the House of 
+                Representatives, which shall--
+                            (i) be provided expeditiously and not later 
+                        than 30 days after the date on which the agency 
+                        discovered the unauthorized acquisition or 
+                        access; and
+                            (ii) include--
+                                    (I) information about the breach, 
+                                including a summary of any information 
+                                that the agency knows on the date on 
+                                which notification is provided about 
+                                how the breach occurred;
+                                    (II) an estimate of the number of 
+                                individuals affected by the breach, 
+                                based on information that the agency 
+                                knows on the date on which notification 
+                                is provided, including an assessment of 
+                                the risk of harm to affected 
+                                individuals;
+                                    (III) a description of any 
+                                circumstances necessitating a delay in 
+                                providing notice to affected 
+                                individuals; and
+                                    (IV) an estimate of whether and 
+                                when the agency will provide notice to 
+                                affected individuals; and
+                    (B) notice by the affected agency to affected 
+                individuals, pursuant to data breach notification 
+                policies and guidelines, which shall be provided as 
+                expeditiously as practicable and without unreasonable 
+                delay after the agency discovers the unauthorized 
+                acquisition or access.
+            (2) National security; law enforcement; remediation.--The 
+        Attorney General, the head of an element of the intelligence 
+        community (as such term is defined under section 3(4) of the 
+        National Security Act of 1947 (50 U.S.C. 3003(4)), or the 
+        Secretary may delay the notice to affected individuals under 
+        paragraph (1)(B) if the notice would disrupt a law enforcement 
+        investigation, endanger national security, or hamper security 
+        remediation actions.
+            (3) OMB report.--During the first 2 years beginning after 
+        the date of enactment of this Act, the Director of the Office 
+        of Management and Budget shall, on an annual basis--
+                    (A) assess agency implementation of data breach 
+                notification policies and guidelines in aggregate; and
+                    (B) include the assessment described in clause (i) 
+                in the report required under section 3543(a)(8) of 
+                title 44, United States Code.
+            (4) Exception.--Any element of the intelligence community 
+        (as such term is defined under section 3(4) of the National 
+        Security Act of 1947 (50 U.S.C. 3003(4)) that is required to 
+        provide notice under paragraph (1)(A) shall only provide such 
+        notice to appropriate committees of Congress.
+    (c) Rule of Construction.--Nothing in the amendment made by 
+subsection (a) or in subsection (b)(1) shall be construed to alter any 
+authority of a Federal agency or department.
+    (d) Technical and Conforming Amendment.--The table of contents in 
+section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 note), 
+as amended by section 3, is amended by inserting after the item 
+relating to section 226 the following:
 
-SEC. 11. DEFINITIONS.
+``Sec. 227. Cyber incident response plan.
+``Sec. 228. Clearances.''.
 
-    As used in this Act:
-            (1) The term ``WICAPS Fund'' means the Wireless 
-        Communications and Public Safety Fund established by section 4.
-            (2) The term ``Secretary'' means the Secretary of 
-        Transportation.
-            (3) The term ``State'' means any of the several States, the 
-        District of Columbia, or any territory or possession of the 
-        United States.
-            (4) The term ``instrumentality of the United States'' 
-        includes any independent establishment of the United States.
-            (5) The term ``personal wireless services'' has the meaning 
-        specified for that term in section 332(c)(7)(C)(i) of the 
-        Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i)).
-            (6) The term ``public safety answering point'' or ``PSAP'' 
-        means a facility that has been designated to receive 911 calls 
-        and route them to emergency service personnel.
-            (7) The term ``wireless carrier'' means a provider of 
-        commercial mobile services or any other radio communications 
-        service that the Federal Communications Commission requires to 
-        provide wireless 911 service.
-            (8) The term ``enhanced wireless 911 service'' means any 
-        enhanced 911 service so designated by the Federal 
-        Communications Commission in the proceeding entitled ``Revision 
-        of the Commission's Rules to Ensure Compatibility with Enhanced 
-        911 Emergency Calling Systems'' (CC Docket No. 94-102; RM-
-        8143), or any successor proceeding.
-            (9) The term ``wireless 911 service'' means any 911 service 
-        provided by a wireless carrier, including enhanced wireless 911 
-        service.
+SEC. 8. RULES OF CONSTRUCTION.
 
-SEC. 12. SAVINGS CLAUSE.
+    (a) Prohibition on New Regulatory Authority.--Nothing in this Act 
+or the amendments made by this Act shall be construed to grant the 
+Secretary any authority to promulgate regulations or set standards 
+relating to the cybersecurity of private sector critical infrastructure 
+that was not in effect on the day before the date of enactment of this 
+Act.
+    (b) Private Entities.--Nothing in this Act or the amendments made 
+by this Act shall be construed to require any private entity--
+            (1) to request assistance from the Secretary; or
+            (2) that requested such assistance from the Secretary to 
+        implement any measure or recommendation suggested by the 
+        Secretary.
 
-    Nothing in this Act shall be construed to affect sections 253, 
-332(a), or 332(c) of the Communications Act of 1934, as amended (47 
-U.S.C. 253, 332(a), 332(c)).
-                                 <all>
+            Passed the Senate December 10, 2014.
+
+            Attest:
+
+                                                             Secretary.
+113th CONGRESS
+
+  2d Session
+
+                                S. 2519
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+       To codify an existing operations center for cybersecurity.

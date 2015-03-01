@@ -1,20 +1,13 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 483 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 483
 
-To authorize appropriations for the payment of United States arrearages 
-                         to the United Nations.
+              To repeal the Federal estate and gift taxes.
 
 
 _______________________________________________________________________
@@ -22,10 +15,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                            January 21, 1997
+                            February 4, 2013
 
-  Mr. Leach introduced the following bill; which was referred to the 
-                  Committee on International Relations
+  Mr. Hudson introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
 
 _______________________________________________________________________
 
@@ -33,95 +26,22 @@ _______________________________________________________________________
 
 
  
-To authorize appropriations for the payment of United States arrearages 
-                         to the United Nations.
+              To repeal the Federal estate and gift taxes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. FINDINGS.
+SECTION 1. SHORT TITLE.
 
-    The Congress makes the following findings:
-            (1) The United States played a leading role in the founding 
-        of the United Nations in 1945.
-            (2) The United Nations, which by charter is dedicated to 
-        saving ``succeeding generations from the scourge of war'', 
-        continues to promote important interests of the United States 
-        in the protection of human rights, the control of weapons of 
-        mass destruction, advancing the ideal of democracy, open 
-        international trade and investment, the promotion of 
-        sustainable development, refugee protection and humanitarian 
-        relief, the prevention of global conflict, eradicating disease, 
-        and environmental protection.
-            (3) The United States remains committed to working to 
-        achieve reform and instill greater budget discipline in the 
-        United Nations, and to continue the trend toward restructuring 
-        and revitalizing that organization.
-            (4) Ongoing reform efforts in the United Nations are 
-        jeopardized by a serious financial crisis, caused in part by 
-        arrearages on payments by member states.
-            (5) The United States is the leading debtor to the United 
-        Nations, owing more than $1,300,000,000 at the end of 1996 for 
-        the regular and peacekeeping operations of the United Nations.
-            (6) The assessed share of the United States for the regular 
-        budget of the United Nations is just over $320,000,000 for 
-        1996, or slightly more than $1 for each citizen of the United 
-        States.
-            (7) Article 17 of the United Nations Charter states that 
-        ``[t]he expenses of the Organization shall be borne by the 
-        members as apportioned by the General Assembly'', of which the 
-        United States is a member.
-            (8) Payment by the United States of its assessment for the 
-        regular budget and the peacekeeping operations of the United 
-        Nations is a solemn treaty obligation under international law, 
-        voluntarily undertaken through the ratification by the United 
-        States of the United Nations Charter.
-            (9) Efforts to reform and revitalize the United Nations 
-        cannot succeed without the political, moral, financial, and 
-        material support of the United States.
-            (10) United States leadership in an effective United 
-        Nations will be seriously jeopardized if the Congress fails to 
-        fulfill the financial obligations of the United States to the 
-        United Nations in a full and timely manner, consistent with 
-        international law and the role of the United States as a 
-        founder and leading member of the United Nations.
+    This Act may be cited as the ``Farmers Against Crippling Taxes 
+Act''.
 
-SEC. 2. AUTHORIZATION OF APPROPRIATIONS FOR ARREARAGES IN ASSESSED 
-              CONTRIBUTIONS TO THE UNITED NATIONS FOR PRIOR YEARS.
+SEC. 2. REPEAL OF ESTATE AND GIFT TAXES.
 
-    (a) Authorization.--Notwithstanding any other provision of law, 
-there are authorized to be appropriated $376,775,000 for the payment of 
-arrearages in assessed contributions of the United States to the United 
-Nations (other than contributions for international peacekeeping 
-activities) for fiscal years prior to fiscal year 1998.
-    (b) Availability.--Amounts appropriated pursuant to subsection (a) 
-are authorized to remain available until expended.
-
-SEC. 3. AUTHORIZATION OF APPROPRIATIONS FOR CONTRIBUTIONS FOR 
-              INTERNATIONAL PEACEKEEPING ACTIVITIES.
-
-    (a) Authorization.--Notwithstanding any other provision of law, 
-there are authorized to be appropriated $926,154,000 for the payment of 
-arrearages in assessed contributions of the United States for 
-international peacekeeping activities of the United Nations for fiscal 
-years prior to fiscal year 1998.
-    (b) Availability.--Amounts appropriated pursuant to subsection (a) 
-are authorized to remain available until expended.
-
-SEC. 4. SENSE OF CONGRESS.
-
-    It is the sense of the Congress that--
-            (1) the United States should maintain its leadership role 
-        within a more effective United Nations, and continue to seek to 
-        lower the long-term costs associated with the participation of 
-        the United States in the United Nations;
-            (2) the United States should continue its efforts to 
-        persuade other members of the United Nations to support a broad 
-        agenda for reform, budgetary discipline, and equitable 
-        financial burdensharing at the United Nations; and
-            (3) the United States should promptly negotiate a reduction 
-        in its assessed contribution for any United Nations 
-        peacekeeping operation to an amount not greater than 25 percent 
-        of the total amount of all assessed contributions for that 
-        operation.
+    (a) In General.--Subtitle B of the Internal Revenue Code of 1986 
+(relating to estate, gift, and generation-skipping taxes) is hereby 
+repealed.
+    (b) Effective Date.--The repeal made by subsection (a) shall apply 
+to estates of decedents dying, gifts made, and generation-skipping 
+transfers made after the date of the enactment of this Act.
                                  <all>

@@ -1,24 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 3469 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 3469
 
-To amend the Public Health Service Act, the Employee Retirement Income 
-Security Act of 1974, and the Internal Revenue Code of 1986 to require 
- that group and individual health insurance coverage and group health 
-       plans provide for external appeals in the case of adverse 
-determinations involving experimental treatment, significant costs, or 
-                      a serious medical condition.
+ To amend titles 5 and 38, United States Code, to clarify the veteran 
+status of an individual based on the attendance of the individual at a 
+    preparatory school of a service academy, and for other purposes.
 
 
 _______________________________________________________________________
@@ -26,11 +17,24 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             March 17, 1998
+                           November 13, 2013
 
-  Mr. Cardin introduced the following bill; which was referred to the 
- Committee on Commerce, and in addition to the Committees on Education 
-and the Workforce, and Ways and Means, for a period to be subsequently 
+ Mr. Issa (for himself, Ms. Duckworth, Mr. Brady of Pennsylvania, Ms. 
+ Brownley of California, Mr. Cardenas, Mr. Cicilline, Ms. Clarke, Mr. 
+ Crowley, Mr. Danny K. Davis of Illinois, Mr. Enyart, Mr. Al Green of 
+   Texas, Mr. Grijalva, Mr. Gutierrez, Ms. Hanabusa, Mr. Nolan, Mrs. 
+    Napolitano, Mr. Murphy of Florida, Ms. Meng, Mr. Matheson, Mr. 
+Lowenthal, Mr. Lewis, Mr. Langevin, Mr. Kildee, Ms. Kelly of Illinois, 
+Ms. Jackson Lee, Mr. Horsford, Mr. Honda, Ms. Norton, Mr. Peterson, Mr. 
+ Rangel, Ms. Schakowsky, Mr. Schiff, Ms. Shea-Porter, Ms. Sinema, Ms. 
+  Slaughter, Ms. Speier, Mr. Swalwell of California, Mr. Takano, Ms. 
+Tsongas, Mr. Shuster, Mr. Smith of Washington, Mr. Rigell, Mr. LaMalfa, 
+ Mr. Grimm, Mr. Crawford, Mr. Cook, Mr. Cole, Mr. Bishop of Utah, Mr. 
+ Bentivolio, Mrs. Noem, Mr. Calvert, Mr. Rodney Davis of Illinois, Mr. 
+ Richmond, Ms. Waters, Ms. Bordallo, Mr. Courtney, Mrs. Walorski, and 
+Mr. Cummings) introduced the following bill; which was referred to the 
+  Committee on Veterans' Affairs, and in addition to the Committee on 
+   Oversight and Government Reform, for a period to be subsequently 
    determined by the Speaker, in each case for consideration of such 
  provisions as fall within the jurisdiction of the committee concerned
 
@@ -40,723 +44,79 @@ _______________________________________________________________________
 
 
  
-To amend the Public Health Service Act, the Employee Retirement Income 
-Security Act of 1974, and the Internal Revenue Code of 1986 to require 
- that group and individual health insurance coverage and group health 
-       plans provide for external appeals in the case of adverse 
-determinations involving experimental treatment, significant costs, or 
-                      a serious medical condition.
+ To amend titles 5 and 38, United States Code, to clarify the veteran 
+status of an individual based on the attendance of the individual at a 
+    preparatory school of a service academy, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Patient Right to Independent Appeal 
-Act of 1998''.
+    This Act may be cited as the ``Support Earned Recognition for 
+Veterans Act'' or the ``SERV Act''.
 
-SEC. 2. EXTERNAL APPEALS PROCESS FOR HEALTH PLANS.
+SEC. 2. CLARIFICATION OF VETERAN STATUS.
 
-    (a) Group Health Plans.--
-            (1) Public health service act amendments.--(A) Subpart 2 of 
-        part A of title XXVII of the Public Health Service Act is 
-        amended by adding at the end the following new section:
-
-``SEC. 2706. EXTERNAL APPEALS OF ADVERSE DETERMINATIONS.
-
-    ``(a) Right to External Appeal.--
-            ``(1) In general.--A group health plan, and a health 
-        insurance issuer offering group health insurance coverage, 
-        shall provide for an external appeals process that meets the 
-        requirements of this section in the case of an externally 
-        appealable decision described in paragraph (2). The Secretary 
-        shall establish standards to carry out such requirements.
-            ``(2) Externally appealable decision defined.--For purposes 
-        of this section, the term `externally appealable decision' 
-        means a benefit denial, reduction, or termination of, or 
-        failure to provide or make, payment (in whole or in part) for, 
-        a benefit (including a denial of choice of provider to the 
-        extent such a choice is permitted under a plan), if--
-                    ``(A) the denial or failure involves a 
-                determination that a treatment is experimental or 
-                investigational in nature;
-                    ``(B) the denial or failure is based on a 
-                determination that services are not medically necessary 
-                or appropriate and the amount involved exceeds a 
-                significant threshold; or
-                    ``(C) the patient's life or health is jeopardized 
-                as a consequence of the denial or failure.
-        Such term does not include a denial of (or failure to provide) 
-        coverage for services that are specifically stated in plan or 
-        coverage documents as an exclusion from coverage.
-            ``(3) Conditioning appeal on internal appeals process.--A 
-        plan or issuer may condition the use of an external appeal 
-        process in the case of an externally appealable decision upon 
-        completion of an internal review process but only if the 
-        internal review process provides for a determination on the 
-        decision in accordance with the medical exigencies of the case 
-        involved, but in no event later than 15 business days (or 72 
-        hours in the case of a decision involving emergency or urgent 
-        care) of the time of the filing of the request for the internal 
-        review.
-    ``(b) General Elements of Process.--
-            ``(1) Contract with qualified external appeal entity.--
-                    ``(A) Contract requirement.--Subject to 
-                subparagraph (B), the external appeal process under 
-                this section of a plan or issuer shall be conducted 
-                under a contract between the plan or issuer and one or 
-                more qualified external appeal entities (as defined in 
-                subsection (c)).
-                    ``(B) Restrictions on qualified external appeal 
-                entity.--
-                            ``(i) By state for health insurance 
-                        issuers.--With respect to health insurance 
-                        issuers in a State, the State may provide for 
-                        external review activities to be conducted by a 
-                        qualified external appeal entity that is 
-                        designated by the State or that is selected by 
-                        the State in such a manner as to assure an 
-                        unbiased determination.
-                            ``(ii) By federal government for group 
-                        health plans.--With respect to group health 
-                        plans, the Secretary may exercise the same 
-                        authority as a State may exercise with respect 
-                        to health insurance issuers under clause (i). 
-                        Such authority may include requiring the use of 
-                        the qualified external appeal entity designated 
-                        or selected under such clause.
-                            ``(iii) Limitation on plan or issuer 
-                        selection.--If a State or the Secretary under 
-                        this subparagraph permits more than one entity 
-                        to qualify as a qualified external appeal 
-                        entity with respect to a group health plan or 
-                        health insurance issuer and the plan or issuer 
-                        may select among such qualified entities, the 
-                        State or Secretary shall assure that the 
-                        selection process will not create any 
-                        incentives for external appeal entities to make 
-                        a decision in a biased manner.
-                    ``(C) Other terms and conditions.--The terms and 
-                conditions of a contract under this paragraph shall be 
-                consistent with the standards the Secretary shall 
-                establish to assure there is no real or apparent 
-                conflict of interest in the conduct of external appeal 
-                activities. Such contract shall provide that the direct 
-                costs of the process (not including costs of 
-                representation of a participant, beneficiary, or 
-                enrollee) shall be paid by the plan or issuer, and not 
-                by the participant, beneficiary, or enrollee.
-            ``(2) Elements of process.--An external appeal process 
-        shall be conducted consistent with standards established by the 
-        Secretary that include at least the following:
-                    ``(A) Fair process; de novo determination.--The 
-                process shall provide for a fair, de novo 
-                determination.
-                    ``(B) Determination concerning externally 
-                appealable decisions.--A qualified external appeal 
-                entity shall determine whether a decision is an 
-                externally appealable decision and related decisions, 
-                including--
-                            ``(i) whether such a decision involves 
-                        emergency or urgent care,
-                            ``(ii) the appropriate deadlines for 
-                        internal review process required due to medical 
-                        exigencies in a case, and
-                            ``(iii) whether such a process has been 
-                        completed.
-                    ``(C) Opportunity to submit evidence, have 
-                representation, and make oral presentation.--Each party 
-                to an externally appealable decision--
-                            ``(i) may submit and review evidence 
-                        related to the issues in dispute,
-                            ``(ii) may use the assistance or 
-                        representation of one or more individuals (any 
-                        of whom may be an attorney), and
-                            ``(iii) may make an oral presentation.
-                    ``(D) Provision of information.--The plan or issuer 
-                involved shall provide timely access to all its records 
-                relating to the matter of the externally appealable 
-                decision and to all provisions of the plan or health 
-                insurance coverage (including any coverage manual) 
-                relating to the matter.
-                    ``(E) Timely decisions.--A determination by the 
-                external appeal entity on the decision shall--
-                            ``(i) be made orally or in writing and, if 
-                        it is made orally, shall be supplied to the 
-                        parties in writing as soon as possible;
-                            ``(ii) be binding on the plan or issuer;
-                            ``(iii) be made in accordance with the 
-                        medical exigencies of the case involved, but in 
-                        no event later than 60 days (or 72 hours in the 
-                        case of an externally appealable decision 
-                        involving emergency or urgent care) from the 
-                        date of completion of the filing of notice of 
-                        external appeal of the decision;
-                            ``(iv) state, in layperson's language, the 
-                        basis for the determination, including, if 
-                        relevant, any basis in the terms or conditions 
-                        of the plan or coverage; and
-                            ``(v) inform the enrollee of the enrollee's 
-                        rights to seek further review by the courts (or 
-                        other process) of the external appeal 
-                        determination.
-    ``(c) Qualifications of External Appeal Entities.--
-            ``(1) In general.--For purposes of this section, the term 
-        `qualified external appeal entity' means, in relation to a plan 
-        or issuer, an entity (which may be a governmental entity) that 
-        is certified under paragraph (2) as meeting the following 
-        requirements:
-                    ``(A) There is no real or apparent conflict of 
-                interest that would impede the entity conducting 
-                external appeal activities independent of the plan or 
-                issuer.
-                    ``(B) The entity conducts external appeal 
-                activities through clinical peers.
-                    ``(C) The entity has sufficient medical, legal, and 
-                other expertise and sufficient staffing to conduct 
-                external appeal activities for the plan or issuer on a 
-                timely basis consistent with subsection (b)(3)(E)(ii).
-                    ``(D) The entity meets such other requirements as 
-                the Secretary may impose.
-            ``(2) Certification of external appeal entities.--
-                    ``(A) In general.--In order to be treated as a 
-                qualified external appeal entity with respect to--
-                            ``(i) a group health plan, the entity must 
-                        be certified (and, in accordance with 
-                        subparagraph (B), periodically recertified) as 
-                        meeting the requirements of paragraph (1) by 
-                        the Secretary of Labor (or under a process 
-                        recognized or approved by the Secretary of 
-                        Labor); or
-                            ``(ii) a health insurance issuer operating 
-                        in a State, the entity must be certified (and, 
-                        in accordance with subparagraph (B), 
-                        periodically recertified) as meeting such 
-                        requirements by the applicable State authority 
-                        (or, if the States has not established an 
-                        adequate certification and recertification 
-                        process, by the Secretary of Health and Human 
-                        Services, or under a process recognized or 
-                        approved by such Secretary).
-                    ``(B) Recertification process.--The Secretary shall 
-                develop standards for the recertification of external 
-                appeal entities. Such standards shall include a 
-                specification of--
-                            ``(i) the information required to be 
-                        submitted as a condition of recertification on 
-                        the entity's performance of external appeal 
-                        activities, which information shall include the 
-                        number of cases reviewed, a summary of the 
-                        disposition of those cases, the length of time 
-                        in making determinations on those cases, and 
-                        such information as may be necessary to assure 
-                        the independence of the entity from the plans 
-                        or issuers for which external appeal activities 
-                        are being conducted; and
-                            ``(ii) the periodicity which 
-                        recertification will be required.
-            ``(3) Clinical peer defined.--For purposes of this 
-        subsection, the term `clinical peer' means, with respect to an 
-        appeal, a physician (allopathic or osteopathic) or other health 
-        care professional who holds a non-restricted license in a State 
-        and who is appropriately credentialed in the same or similar 
-        specialty as typically manages the medical condition, 
-        procedure, or treatment under appeal and includes a pediatric 
-        specialist where appropriate.
-    ``(d) Continuing Legal Rights of Enrollees.--Nothing in this 
-section shall be construed as removing any legal rights of 
-participants, beneficiaries, enrollees, and others under State or 
-Federal law, including the right to file judicial actions to enforce 
-rights.
-    ``(e) Notice.--A group health plan under this part shall comply 
-with the notice requirement under section 713(e) of the Employee 
-Retirement Income Security Act of 1974 with respect to the requirements 
-of this section as if such section applied to such plan.''.
-            (B) Section 2723(c) of such Act (42 U.S.C. 300gg-23(c)), as 
-        amended by section 604(b)(2) of Public Law 104-204, is amended 
-        by striking ``section 2704'' and inserting ``sections 2704 and 
-        2706''.
-            (2) ERISA amendments.--(A) Subpart B of part 7 of subtitle 
-        B of title I of the Employee Retirement Income Security Act of 
-        1974 is amended by adding at the end the following new section:
-
-``SEC. 713. EXTERNAL APPEALS OF ADVERSE DETERMINATIONS.
-
-    ``(a) Right to External Appeal.--
-            ``(1) In general.--A group health plan, and a health 
-        insurance issuer offering group health insurance coverage, 
-        shall provide for an external appeals process that meets the 
-        requirements of this section in the case of an externally 
-        appealable decision described in paragraph (2). The Secretary 
-        shall establish standards to carry out such requirements.
-            ``(2) Externally appealable decision defined.--For purposes 
-        of this section, the term `externally appealable decision' 
-        means a benefit denial, reduction, or termination of, or 
-        failure to provide or make, payment (in whole or in part) for, 
-        a benefit (including a denial of choice of provider to the 
-        extent such a choice is permitted under a plan), if--
-                    ``(A) the denial or failure involves a 
-                determination that a treatment is experimental or 
-                investigational in nature;
-                    ``(B) the denial or failure is based on a 
-                determination that services are not medically necessary 
-                or appropriate and the amount involved exceeds a 
-                significant threshold; or
-                    ``(C) the patient's life or health is jeopardized 
-                as a consequence of the denial or failure.
-        Such term does not include a denial of (or failure to provide) 
-        coverage for services that are specifically stated in plan or 
-        coverage documents as an exclusion from coverage.
-            ``(3) Conditioning appeal on internal appeals process.--A 
-        plan or issuer may condition the use of an external appeal 
-        process in the case of an externally appealable decision upon 
-        completion of an internal review process but only if the 
-        internal review process provides for a determination on the 
-        decision in accordance with the medical exigencies of the case 
-        involved, but in no event later than 15 business days (or 72 
-        hours in the case of a decision involving emergency or urgent 
-        care)of the time of the filing of the request for the internal 
-        review.
-    ``(b) General Elements of Process.--
-            ``(1) Contract with qualified external appeal entity.--
-                    ``(A) Contract requirement.--Subject to 
-                subparagraph (B), the external appeal process under 
-                this section of a plan or issuer shall be conducted 
-                under a contract between the plan or issuer and one or 
-                more qualified external appeal entities (as defined in 
-                subsection (c)).
-                    ``(B) Restrictions on qualified external appeal 
-                entity.--
-                            ``(i) By state for health insurance 
-                        issuers.--With respect to health insurance 
-                        issuers in a State, the State may provide for 
-                        external review activities to be conducted by a 
-                        qualified external appeal entity that is 
-                        designated by the State or that is selected by 
-                        the State in such a manner as to assure an 
-                        unbiased determination.
-                            ``(ii) By federal government for group 
-                        health plans.--With respect to group health 
-                        plans, the Secretary may exercise the same 
-                        authority as a State may exercise with respect 
-                        to health insurance issuers under clause (i). 
-                        Such authority may include requiring the use of 
-                        the qualified external appeal entity designated 
-                        or selected under such clause.
-                            ``(iii) Limitation on plan or issuer 
-                        selection.--If a State or the Secretary under 
-                        this subparagraph permits more than one entity 
-                        to qualify as a qualified external appeal 
-                        entity with respect to a group health plan or 
-                        health insurance issuer and the plan or issuer 
-                        may select among such qualified entities, the 
-                        State or Secretary shall assure that the 
-                        selection process will not create any 
-                        incentives for external appeal entities to make 
-                        a decision in a biased manner.
-                    ``(C) Other terms and conditions.--The terms and 
-                conditions of a contract under this paragraph shall be 
-                consistent with the standards the Secretary shall 
-                establish to assure there is no real or apparent 
-                conflict of interest in the conduct of external appeal 
-                activities. Such contract shall provide that the direct 
-                costs of the process (not including costs of 
-                representation of a participant, beneficiary, or 
-                enrollee) shall be paid by the plan or issuer, and not 
-                by the participant, beneficiary, or enrollee.
-            ``(2) Elements of process.--An external appeal process 
-        shall be conducted consistent with standards established by the 
-        Secretary that include at least the following:
-                    ``(A) Fair process; de novo determination.--The 
-                process shall provide for a fair, de novo 
-                determination.
-                    ``(B) Determination concerning externally 
-                appealable decisions.--A qualified external appeal 
-                entity shall determine whether a decision is an 
-                externally appealable decision and related decisions, 
-                including--
-                            ``(i) whether such a decision involves 
-                        emergency or urgent care,
-                            ``(ii) the appropriate deadlines for 
-                        internal review process required due to medical 
-                        exigencies in a case, and
-                            ``(iii) whether such a process has been 
-                        completed.
-                    ``(C) Opportunity to submit evidence, have 
-                representation, and make oral presentation.--Each party 
-                to an externally appealable decision--
-                            ``(i) may submit and review evidence 
-                        related to the issues in dispute,
-                            ``(ii) may use the assistance or 
-                        representation of one or more individuals (any 
-                        of whom may be an attorney), and
-                            ``(iii) may make an oral presentation.
-                    ``(D) Provision of information.--The plan or issuer 
-                involved shall provide timely access to all its records 
-                relating to the matter of the externally appealable 
-                decision and to all provisions of the plan or health 
-                insurance coverage (including any coverage manual) 
-                relating to the matter.
-                    ``(E) Timely decisions.--A determination by the 
-                external appeal entity on the decision shall--
-                            ``(i) be made orally or in writing and, if 
-                        it is made orally, shall be supplied to the 
-                        parties in writing as soon as possible;
-                            ``(ii) be binding on the plan or issuer;
-                            ``(iii) be made in accordance with the 
-                        medical exigencies of the case involved, but in 
-                        no event later than 60 days (or 72 hours in the 
-                        case of an externally appealable decision 
-                        involving emergency or urgent care) from the 
-                        date of completion of the filing of notice of 
-                        external appeal of the decision;
-                            ``(iv) state, in layperson's language, the 
-                        basis for the determination, including, if 
-                        relevant, any basis in the terms or conditions 
-                        of the plan or coverage; and
-                            ``(v) inform the enrollee of the enrollee's 
-                        rights to seek further review by the courts (or 
-other process) of the external appeal determination.
-    ``(c) Qualifications of External Appeal Entities.--
-            ``(1) In general.--For purposes of this section, the term 
-        `qualified external appeal entity' means, in relation to a plan 
-        or issuer, an entity (which may be a governmental entity) that 
-        is certified under paragraph (2) as meeting the following 
-        requirements:
-                    ``(A) There is no real or apparent conflict of 
-                interest that would impede the entity conducting 
-                external appeal activities independent of the plan or 
-                issuer.
-                    ``(B) The entity conducts external appeal 
-                activities through clinical peers.
-                    ``(C) The entity has sufficient medical, legal, and 
-                other expertise and sufficient staffing to conduct 
-                external appeal activities for the plan or issuer on a 
-                timely basis consistent with subsection (b)(3)(E)(ii).
-                    ``(D) The entity meets such other requirements as 
-                the Secretary may impose.
-            ``(2) Certification of external appeal entities.--
-                    ``(A) In general.--In order to be treated as a 
-                qualified external appeal entity with respect to--
-                            ``(i) a group health plan, the entity must 
-                        be certified (and, in accordance with 
-                        subparagraph (B), periodically recertified) as 
-                        meeting the requirements of paragraph (1) by 
-                        the Secretary of Labor (or under a process 
-                        recognized or approved by the Secretary of 
-                        Labor); or
-                            ``(ii) a health insurance issuer operating 
-                        in a State, the entity must be certified (and, 
-                        in accordance with subparagraph (B), 
-                        periodically recertified) as meeting such 
-                        requirements by the applicable State authority 
-                        (or, if the States has not established an 
-                        adequate certification and recertification 
-                        process, by the Secretary of Health and Human 
-                        Services, or under a process recognized or 
-                        approved by such Secretary).
-                    ``(B) Recertification process.--The Secretary shall 
-                develop standards for the recertification of external 
-                appeal entities. Such standards shall include a 
-                specification of--
-                            ``(i) the information required to be 
-                        submitted as a condition of recertification on 
-                        the entity's performance of external appeal 
-                        activities, which information shall include the 
-                        number of cases reviewed, a summary of the 
-                        disposition of those cases, the length of time 
-                        in making determinations on those cases, and 
-                        such information as may be necessary to assure 
-                        the independence of the entity from the plans 
-                        or issuers for which external appeal activities 
-                        are being conducted; and
-                            ``(ii) the periodicity which 
-                        recertification will be required.
-            ``(3) Clinical peer defined.--For purposes of this 
-        subsection, the term `clinical peer' means, with respect to an 
-        appeal, a physician (allopathic or osteopathic) or other health 
-        care professional who holds a non-restricted license in a State 
-        and who is appropriately credentialed in the same or similar 
-        specialty as typically manages the medical condition, 
-        procedure, or treatment under appeal and includes a pediatric 
-        specialist where appropriate.
-    ``(d) Continuing Legal Rights of Enrollees.--Nothing in this 
-section shall be construed as removing any legal rights of 
-participants, beneficiaries, enrollees, and others under State or 
-Federal law, including the right to file judicial actions to enforce 
-rights.
-    ``(e) Notice under Group Health Plan.--The imposition of the 
-requirement of this section shall be treated as a material modification 
-in the terms of the plan described in section 102(a)(1), for purposes 
-of assuring notice of such requirements under the plan; except that the 
-summary description required to be provided under the last sentence of 
-section 104(b)(1) with respect to such modification shall be provided 
-by not later than 60 days after the first day of the first plan year in 
-which such requirement apply.''.
-            (B) Section 731(c) of such Act (29 U.S.C. 1191(c)) is 
-        amended by striking ``section 711'' and inserting ``sections 
-        711 and 713''.
-            (C) Section 732(a) of such Act (29 U.S.C. 1191a(a)) is 
-        amended by striking ``section 711'' and inserting ``sections 
-        711 and 713''.
-            (D) The table of contents in section 1 of such Act is 
-        amended by inserting after the item relating to section 712 the 
-        following new item:
-
-``Sec. 713. External appeals of adverse determinations.''.
-            (3) Internal revenue code amendments.--Subchapter B of 
-        chapter 100 of the Internal Revenue Code of 1986 (as amended by 
-        section 1531(a) of the Taxpayer Relief Act of 1997) is 
-        amended--
-                    (A) in the table of sections, by inserting after 
-                the item relating to section 9812 the following new 
-                item:
-
-                              ``Sec. 9813. External appeals of adverse 
-                                        determinations.'';
-                and
-                    (B) by inserting after section 9812 the following:
-
-``SEC. 9813. EXTERNAL APPEALS OF ADVERSE DETERMINATIONS.
-
-    ``(a) Right to External Appeal.--
-            ``(1) In general.--A group health plan shall provide for an 
-        external appeals process that meets the requirements of this 
-        section in the case of an externally appealable decision 
-        described in paragraph (2). The Secretary shall establish 
-        standards to carry out such requirements.
-            ``(2) Externally appealable decision defined.--For purposes 
-        of this section, the term `externally appealable decision' 
-        means a benefit denial, reduction, or termination of, or 
-        failure to provide or make, payment (in whole or in part) for, 
-        a benefit (including a denial of choice of provider to the 
-        extent such a choice is permitted under a plan), if--
-                    ``(A) the denial or failure involves a 
-                determination that a treatment is experimental or 
-                investigational in nature;
-                    ``(B) the denial or failure is based on a 
-                determination that services are not medically necessary 
-                or appropriate and the amount involved exceeds a 
-                significant threshold; or
-                    ``(C) the patient's life or health is jeopardized 
-                as a consequence of the denial or failure.
-        Such term does not include a denial of (or failure to provide) 
-        coverage for services that are specifically stated in plan 
-        documents as an exclusion from coverage.
-            ``(3) Conditioning appeal on internal appeals process.--A 
-        plan may condition the use of an external appeal process in the 
-        case of an externally appealable decision upon completion of an 
-        internal review process but only if the internal review process 
-        provides for a determination on the decision in accordance with 
-        the medical exigencies of the case involved, but in no event 
-        later than 15 business days (or 72 hours in the case of a 
-        decision involving emergency or urgent care) of the time of the 
-        filing of the request for the internal review.
-    ``(b) General Elements of Process.--
-            ``(1) Contract with qualified external appeal entity.--
-                    ``(A) Contract requirement.--Subject to 
-                subparagraph (B), the external appeal process under 
-                this section of a plan shall be conducted under a 
-                contract between the plan and one or more qualified 
-                external appeal entities (as defined in subsection 
-                (c)).
-                    ``(B) Restrictions on qualified external appeal 
-                entity.--
-                            ``(i) In general.--The Secretary may 
-                        provide for external review activities to be 
-                        conducted by a qualified external appeal entity 
-                        that is designated by the Secretary or that is 
-                        selected by the Secretary in such a manner as 
-                        to assure an unbiased determination.
-                            ``(ii) Limitation on plan selection.--If 
-                        the Secretary under this subparagraph permits 
-                        more than one entity to qualify as a qualified 
-                        external appeal entity with respect to a group 
-                        health plan and the plan may select among such 
-                        qualified entities, the Secretary shall assure 
-                        that the selection process will not create any 
-                        incentives for external appeal entities to make 
-                        a decision in a biased manner.
-                    ``(C) Other terms and conditions.--The terms and 
-                conditions of a contract under this paragraph shall be 
-                consistent with the standards the Secretary shall 
-                establish to assure there is no real or apparent 
-                conflict of interest in the conduct of external appeal 
-                activities. Such contract shall provide that the direct 
-                costs of the process (not including costs of 
-                representation of a participant or beneficiary) shall 
-                be paid by the plan, and not by the participant or 
-                beneficiary.
-            ``(2) Elements of process.--An external appeal process 
-        shall be conducted consistent with standards established by the 
-        Secretary that include at least the following:
-                    ``(A) Fair process; de novo determination.--The 
-                process shall provide for a fair, de novo 
-                determination.
-                    ``(B) Determination concerning externally 
-                appealable decisions.--A qualified external appeal 
-                entity shall determine whether a decision is an 
-                externally appealable decision and related decisions, 
-                including--
-                            ``(i) whether such a decision involves 
-                        emergency or urgent care,
-                            ``(ii) the appropriate deadlines for 
-                        internal review process required due to medical 
-                        exigencies in a case, and
-                            ``(iii) whether such a process has been 
-                        completed.
-                    ``(C) Opportunity to submit evidence, have 
-                representation, and make oral presentation.--Each party 
-                to an externally appealable decision--
-                            ``(i) may submit and review evidence 
-                        related to the issues in dispute,
-                            ``(ii) may use the assistance or 
-                        representation of one or more individuals (any 
-                        of whom may be an attorney), and
-                            ``(iii) may make an oral presentation.
-                    ``(D) Provision of information.--The plan involved 
-                shall provide timely access to all its records relating 
-                to the matter of the externally appealable decision and 
-                to all provisions of the plan (including any coverage 
-                manual) relating to the matter.
-                    ``(E) Timely decisions.--A determination by the 
-                external appeal entity on the decision shall--
-                            ``(i) be made orally or in writing and, if 
-                        it is made orally, shall be supplied to the 
-                        parties in writing as soon as possible;
-                            ``(ii) be binding on the plan;
-                            ``(iii) be made in accordance with the 
-                        medical exigencies of the case involved, but in 
-                        no event later than 60 days (or 72 hours in the 
-                        case of an externally appealable decision 
-                        involving emergency or urgent care) from the 
-                        date of completion of the filing of notice of 
-                        external appeal of the decision;
-                            ``(iv) state, in layperson's language, the 
-                        basis for the determination, including, if 
-                        relevant, any basis in the terms or conditions 
-                        of the plan; and
-                            ``(v) inform the participant, beneficiary, 
-                        or enrollee of the individual's rights to seek 
-                        further review by the courts (or other process) 
-                        of the external appeal determination.
-    ``(c) Qualifications of External Appeal Entities.--
-            ``(1) In general.--For purposes of this section, the term 
-        `qualified external appeal entity' means, in relation to a 
-        group health plan, an entity (which may be a governmental 
-        entity) that is certified under paragraph (2) as meeting the 
-        following requirements:
-                    ``(A) There is no real or apparent conflict of 
-                interest that would impede the entity conducting 
-                external appeal activities independent of the plan.
-                    ``(B) The entity conducts external appeal 
-                activities through clinical peers.
-                    ``(C) The entity has sufficient medical, legal, and 
-                other expertise and sufficient staffing to conduct 
-                external appeal activities for the plan on a timely 
-                basis consistent with subsection (b)(3)(E)(ii).
-                    ``(D) The entity meets such other requirements as 
-                the Secretary may impose.
-            ``(2) Certification of external appeal entities.--
-                    ``(A) In general.--In order to be treated as a 
-                qualified external appeal entity with respect to a 
-                group health plan, the entity must be certified (and, 
-                in accordance with subparagraph (B), periodically 
-                recertified) as meeting the requirements of paragraph 
-                (1) by the Secretary of Labor (or under a process 
-                recognized or approved by the Secretary of Labor.
-                    ``(B) Recertification process.--The Secretary shall 
-                develop standards for the recertification of external 
-                appeal entities. Such standards shall include a 
-                specification of--
-                            ``(i) the information required to be 
-                        submitted as a condition of recertification on 
-                        the entity's performance of external appeal 
-                        activities, which information shall include the 
-                        number of cases reviewed, a summary of the 
-                        disposition of those cases, the length of time 
-                        in making determinations on those cases, and 
-                        such information as may be necessary to assure 
-                        the independence of the entity from the plans 
-                        for which external appeal activities are being 
-                        conducted; and
-                            ``(ii) the periodicity which 
-                        recertification will be required.
-            ``(3) Clinical peer defined.--For purposes of this 
-        subsection, the term `clinical peer' means, with respect to an 
-        appeal, a physician (allopathic or osteopathic) or other health 
-        care professional who holds a non-restricted license in a State 
-        and who is appropriately credentialed in the same or similar 
-        specialty as typically manages the medical condition, 
-        procedure, or treatment under appeal and includes a pediatric 
-        specialist where appropriate.''
-    (b) Individual Health Insurance.--(1) Part B of title XXVII of the 
-Public Health Service Act is amended by inserting after section 2751 
-the following new section:
-
-``SEC. 2752. EXTERNAL REVIEW PROCESS.
-
-    ``(a) In General.--The provisions of section 2706 (other than 
-subsection (e)) shall apply to health insurance coverage offered by a 
-health insurance issuer in the individual market in the same manner as 
-they apply to health insurance coverage offered by a health insurance 
-issuer in connection with a group health plan in the small or large 
-group market.
-    ``(b) Notice.--A health insurance issuer under this part shall 
-comply with the notice requirement under section 713(3) of the Employee 
-Retirement Income Security Act of 1974 with respect to the requirements 
-referred to in subsection (a) as if such section applied to such issuer 
-and such issuer were a group health plan.''.
-    (2) Section 2762(b)(2) of such Act (42 U.S.C. 300gg-62(b)(2)) is 
-amended by striking ``section 2751'' and inserting ``sections 2751 and 
-2752''.
-    (c) Authority To Apply Standards to Medicare and Medicaid 
-Programs.--The Secretary of Health and Human Services may apply the 
-requirements of section 2706 of the Public Health Service Act to 
-Medicare+Choice organizations offering plans under part C under title 
-XVIII of the Social Security Act, eligible organizations offering 
-coverage under section 1876 of such Act, medicaid managed care 
-organizations or managed care entity offering coverage under section 
-1932 of such Act, and similar organizations and entities offering 
-coverage under title XVIII or XIX of such Act, to the extent that the 
-Secretary finds that such requirements provide greater protections for 
-enrollees under such titles and do not conflict directly with 
-requirements otherwise imposed by law relating to external review and 
-appeals.
-    (d) Effective Dates.--
-            (1) Group health plans.--
-                    (A) In general.--Subject to subparagraph (B), the 
-                amendments made by subsection (a) shall apply with 
-                respect to group health plans for plan years beginning 
-                on or after January 1, 1999.
-                    (B) Rule for certain collective bargaining 
-                agreements.--In the case of a group health plan 
-                maintained pursuant to 1 or more collective bargaining 
-                agreements between employee representatives and 1 or 
-                more employers ratified before the date of enactment of 
-                this Act, the amendments made by subsection (a) shall 
-                not apply to plan years beginning before the later of--
-                            (i) the date on which the last collective 
-                        bargaining agreements relating to the plan 
-                        terminates (determined without regard to any 
-                        extension thereof agreed to after the date of 
-                        enactment of this Act), or
-                            (ii) January 1, 1999.
-                For purposes of clause (i), any plan amendment made 
-                pursuant to a collective bargaining agreement relating 
-                to the plan which amends the plan solely to conform to 
-                any requirement added by subsection (a) shall not be 
-                treated as a termination of such collective bargaining 
-                agreement.
-            (2) Individual health insurance coverage.--The amendment 
-        made by subsection (b) shall apply with respect to health 
-        insurance coverage offered, sold, issued, renewed, in effect, 
-        or operated in the individual market on or after such date.
-    (e) Coordinated Regulations.--Section 104(1) of Health Insurance 
-Portability and Accountability Act of 1996 is amended by striking 
-``this subtitle (and the amendments made by this subtitle and section 
-401)'' and inserting ``the provisions of part 7 of subtitle B of title 
-I of the Employee Retirement Income Security Act of 1974, the 
-provisions of parts A and C of title XXVII of the Public Health Service 
-Act, and chapter 100 of the Internal Revenue Code of 1986''.
+    (a) Clarification of Definition of Military Service.--Section 101 
+of title 38, United States Code, is amended--
+            (1) in paragraph (21)(D), by inserting after ``Naval 
+        Academy'' the following: ``(but, except for purposes of chapter 
+        17 of this title in accordance with section 107(e)(2), does not 
+        include any service performed by a student at a preparatory 
+        school of a service academy who is not otherwise a member of 
+        the Armed Forces)'';
+            (2) in paragraph (22), by inserting before the period at 
+        the end the following: ``or, except for purposes of chapter 17 
+        of this title in accordance with section 107(e)(2), duty 
+        performed by a student at a preparatory school of a service 
+        academy who is not otherwise a member of the Armed Forces''; 
+        and
+            (3) in paragraph (23), by adding after the period at the 
+        end the following: ``Except for purposes of chapter 17 of this 
+        title in accordance with section 107(e)(2), such term does not 
+        include duty performed by a student at a preparatory school of 
+        a service academy who is not otherwise a member of the Armed 
+        Forces.''.
+    (b) Service Deemed Not To Be Active Service.--Section 107 of title 
+38, United States Code, is amended by adding at the end the following 
+new subsection:
+    ``(e)(1) Except as provided by paragraph (2), duty performed by a 
+student at a preparatory school of a service academy who is not 
+otherwise a member of the Armed Forces shall not be deemed to have been 
+active military, naval, or air service for the purposes of any of the 
+laws administered by the Secretary, regardless of whether the student 
+was injured or disabled as a result of such duty.
+    ``(2) Chapter 17 of this title shall apply to an individual 
+described in paragraph (1) with respect to furnishing hospital care and 
+medical services solely for an injury or disability incurred by the 
+individual as a result of military training related to future active 
+duty service performed as a student during the course of required 
+training at a preparatory school of a service academy. An individual 
+who receives such care and services under this paragraph may not be 
+treated as a veteran for the purposes of any other provision of law 
+solely by reason of receiving such care and services under this 
+paragraph.''.
+    (c) Small Business Concerns.--Section 8127(l) of title 38, United 
+States Code, is amended by adding at the end the following new 
+paragraph:
+            ``(3) The term `veteran', in accordance with sections 101 
+        and 107 of this title, does not include an individual whose 
+        veteran status is based solely on the attendance of the 
+        individual as a student at a preparatory school of a service 
+        academy, regardless of whether the individual was injured or 
+        disabled as a result of duty performed as such a student.''.
+    (d) Preference Eligible.--Section 2108 of title 5, United States 
+Code, is amended--
+            (1) in paragraph (4)(B), by striking ``; and'' and 
+        inserting a semicolon;
+            (2) in paragraph (5), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(6) an individual whose veteran status is based solely on 
+        the attendance of the individual as a student at a preparatory 
+        school of a service academy, regardless of whether the 
+        individual was injured or disabled as a result of duty 
+        performed as such a student, may not be treated as a `veteran', 
+        `disabled veteran', or `preference eligible'.''.
                                  <all>

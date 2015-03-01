@@ -1,19 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2462 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2462
 
-        Entitled the ``Lisa De Land Financial Protection Act''.
+     To amend the Internal Revenue Code of 1986 to exempt certain 
+  educational institutions from the employer health insurance mandate.
 
 
 _______________________________________________________________________
@@ -21,10 +16,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                           September 11, 1998
+                             June 11, 2014
 
-  Mr. Baucus introduced the following bill; which was read twice and 
-                  referred to the Committee on Finance
+Mr. Thune (for himself and Mr. Grassley) introduced the following bill; 
+     which was read twice and referred to the Committee on Finance
 
 _______________________________________________________________________
 
@@ -32,41 +27,35 @@ _______________________________________________________________________
 
 
  
-        Entitled the ``Lisa De Land Financial Protection Act''.
+     To amend the Internal Revenue Code of 1986 to exempt certain 
+  educational institutions from the employer health insurance mandate.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Lisa De Land Financial Protection 
-Act''.
+    This Act may be cited as the ``Safeguarding Classrooms Hurt by 
+ObamaCare's Obligatory Levies''.
 
-SEC. 2. STATE OPTION TO EXEMPT CERTAIN TRUSTS FROM THE ESTATE RECOVERY 
-              PROVISIONS OF THE MEDICAID PROGRAM.
+SEC. 2. CERTAIN EDUCATIONAL INSTITUTIONS EXEMPT FROM EMPLOYER HEALTH 
+              INSURANCE MANDATE.
 
-    Section 1917(b)(1)(B) of the Social Security Act (42 U.S.C. 
-1396p(b)(1)(B)) is amended--
-            (1) by redesignating clauses (i) and (ii) as subclauses (I) 
-        and (II), respectively;
-            (2) by striking ``In'' and inserting ``(i) In''; and
-            (3) by adding at the end the following:
-            ``(ii) At the option of a State, clause (i) shall not apply 
-        in the case of an individual who, at the time the individual 
-        received medical assistance under the State plan--
-                    ``(I) was disabled, mentally ill, or physically 
-                handicapped, as determined by the State; and
-                    ``(II) was the beneficiary of a trust established 
-                under the law of the State where the individual resided 
-                by the beneficiary, a parent, grandparent, legal 
-                guardian, or at the direction of a court for the 
-                purpose of providing or supplementing the cost of the 
-                care and treatment for the individual (including the 
-                cost of medical assistance provided under the State 
-                plan),
-        but only if State law provides that, upon the death of the 
-        individual, not more than 90 percent of the value of the trust 
-        may be conveyed to the heirs of the individual and that the 
-        remainder shall be donated to a charitable trust approved by 
-        the State.''.
+    (a) In General.--Section 4980H(c)(2) of the Internal Revenue Code 
+of 1986 is amended by adding at the end the following new subparagraph:
+                    ``(F) Exception for certain educational 
+                institutions.--The term `applicable large employer' 
+                shall not include--
+                            ``(i) any elementary school or secondary 
+                        school (as such terms are defined in section 
+                        9101 of the Elementary and Secondary Education 
+                        Act of 1965),
+                            ``(ii) any local educational agency or 
+                        State educational agency (as such terms are 
+                        defined in section 9101 of such Act), and
+                            ``(iii) any institution of higher education 
+                        (as such term is defined in section 102 of the 
+                        Higher Education Act of 1965).''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to months beginning after December 31, 2013.
                                  <all>

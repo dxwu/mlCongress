@@ -1,54 +1,44 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 4032 Introduced in House (IH)]
+[H.R. 4032 Enrolled Bill (ENR)]
+
+        H.R.4032
+
+                     One Hundred Thirteenth Congress
+
+                                 of the
+
+                        United States of America
 
 
+                          AT THE SECOND SESSION
+
+           Begun and held at the City of Washington on Friday,
+           the third day of January, two thousand and fourteen
 
 
-
-
-
-105th CONGRESS
-  2d Session
-                                H. R. 4032
-
-  To repeal the authority of the Federal Communications Commission to 
-  require contributions from telephone carriers for the connection of 
-     schools, health care providers, and libraries to the Internet.
-
-
-_______________________________________________________________________
-
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             June 10, 1998
-
-Mr. Sensenbrenner introduced the following bill; which was referred to 
-                       the Committee on Commerce
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 An Act
 
 
  
-  To repeal the authority of the Federal Communications Commission to 
-  require contributions from telephone carriers for the connection of 
-     schools, health care providers, and libraries to the Internet.
+ To exempt from Lacey Act Amendments of 1981 certain water transfers by 
+the North Texas Municipal Water District and the Greater Texoma Utility 
+                   Authority, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
-
 SECTION 1. SHORT TITLE.
+    This Act may be cited as the ``North Texas Invasive Species Barrier 
+Act of 2014''.
+SEC. 2. COMPLIANCE WITH LACEY ACT AMENDMENTS OF 1981.
+    Section 5 of Public Law 112-237 (126 Stat. 1629) is amended by 
+inserting after ``zebra mussels'' the following: ``and other fish, 
+wildlife, and plants present in Lake Texoma that are prohibited under 
+section 3 of such Act (16 U.S.C. 3372) or under section 42 of title 18, 
+United States Code''.
 
-    This Act may be cited as the ``Anti-FCC Phone Tax Act of 1998''.
+                               Speaker of the House of Representatives.
 
-SEC. 2. REPEALS.
-
-    The following provisions of section 254 of the Communications Act 
-of 1934 (47 U.S.C. 254) are repealed:
-            (1) Paragraph (6) of subsection (b).
-            (2) Subsection (h).
-                                 <all>
+                            Vice President of the United States and    
+                                               President of the Senate.

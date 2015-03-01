@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1755 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 S. 1755
 
- To amend the Internal Revenue Code of 1986 to disallow tax deductions 
-   for advertising, promotional, and marketing expenses relating to 
-  tobacco product use unless certain advertising requirements are met.
+  To require the Secretary of Veterans Affairs to conduct a study on 
+matters relating to the claiming and interring of unclaimed remains of 
+                   veterans, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,11 +17,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             March 13, 1998
+                           November 21, 2013
 
-   Mr. Reed (for himself, Mrs. Boxer, and Mr. Chafee) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                                Finance
+  Mr. Toomey introduced the following bill; which was read twice and 
+             referred to the Committee on Veterans' Affairs
 
 _______________________________________________________________________
 
@@ -35,285 +28,42 @@ _______________________________________________________________________
 
 
  
- To amend the Internal Revenue Code of 1986 to disallow tax deductions 
-   for advertising, promotional, and marketing expenses relating to 
-  tobacco product use unless certain advertising requirements are met.
+  To require the Secretary of Veterans Affairs to conduct a study on 
+matters relating to the claiming and interring of unclaimed remains of 
+                   veterans, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Children's Health Preservation and 
-Tobacco Advertising Compliance Act''.
+    This Act may be cited as the ``Dignified Interment of Our Veterans 
+Act of 2013''.
 
-SEC. 2. DISALLOWANCE OF TAX DEDUCTIONS FOR CERTAIN ADVERTISING, 
-              PROMOTION, AND MARKETING EXPENSES RELATING TO TOBACCO 
-              PRODUCT USE.
+SEC. 2. DEPARTMENT OF VETERANS AFFAIRS STUDY ON MATTERS RELATING TO 
+              CLAIMING AND INTERRING UNCLAIMED REMAINS OF VETERANS.
 
-    (a) In General.--Part IX of subchapter B of chapter 1 of subtitle A 
-of the Internal Revenue Code of 1986 (relating to items not deductible) 
-is amended by adding at the end the following:
-
-``SEC. 280I. DISALLOWANCE OF DEDUCTION FOR CERTAIN TOBACCO ADVERTISING, 
-              PROMOTION, AND MARKETING EXPENSES.
-
-    ``(a) In General.--No deduction shall be allowed under this chapter 
-for any taxable year for any expenditure relating to advertising, 
-promoting, or marketing tobacco products if such advertising, 
-promoting, or marketing, or such expenditure is prohibited under the 
-following subsections.
-    ``(b) Prohibition of Certain Advertising.--
-            ``(1) Prohibition on outdoor advertising.--
-                    ``(A) In general.--No manufacturer, distributor, or 
-                retailer may use any form of outdoor tobacco product 
-                advertising, including billboards, posters, or 
-                placards.
-                    ``(B) Stadia and arenas.--Except as otherwise 
-                provided in this section, a manufacturer, distributor, 
-                or retailer shall not advertise tobacco products in any 
-                arena or stadium where athletic, musical, artistic, or 
-                other social or cultural events or activities occur.
-            ``(2) Prohibition on use of human images and cartoons.--No 
-        manufacturer, distributor, or retailer may use a human image or 
-        a cartoon character or cartoon-type character in its 
-        advertising, labeling, or promotional material with respect to 
-        a tobacco product.
-            ``(3) Prohibition on advertising on the internet.--No 
-        manufacturer, distributor, or retailer may use the Internet to 
-        advertise tobacco products unless such an advertisement is 
-        inaccessible in or from the United States.
-            ``(4) Prohibition on point of sale advertising.--
-                    ``(A) In general.--Except as otherwise provided in 
-                this paragraph, no manufacturer, distributor, or 
-                retailer may use point of sale advertising of tobacco 
-                products.
-                    ``(B) Adult only stores and tobacco outlets.--
-                Subparagraph (A) shall not apply to point of sale 
-                advertising at adult only stores and tobacco outlets.
-                    ``(C) Permissible advertising.--
-                            ``(i) In general.--Each manufacturer of 
-                        tobacco products may display not more than 2 
-                        separate point of sale advertisements in or at 
-                        each location at which tobacco products are 
-                        offered for sale.
-                            ``(ii) Retailers.--No manufacturer, 
-                        distributor, or retailer may enter into any 
-                        arrangement with a retailer to limit the 
-                        ability of the retailer to display any form of 
-                        permissible point of sale advertisement or 
-                        promotional material originating with another 
-                        manufacturer, distributor, or retailer.
-                    ``(D) Limitations.--
-                            ``(i) In general.--A point of sale 
-                        advertisement permitted under this paragraph 
-                        shall be comprised of a display area that is 
-                        not larger than 576 square inches (either 
-                        individually or in the aggregate) and shall 
-                        consist only of black letters on a white 
-                        background or other recognized typographical 
-                        marks. Such advertisement shall not be attached 
-                        to nor located within 2 feet of any fixture on 
-which candy is displayed for sale.
-                            ``(ii) Audio and video formats.--Audio and 
-                        video advertisements otherwise permitted under 
-                        this section may be distributed to individuals 
-                        who are 18 years of age or older at point of 
-                        sale but may not be played or viewed at such 
-                        point of sale.
-                            ``(iii) Display fixtures.--Display fixtures 
-                        in the form of signs consisting of brand name 
-                        and price and not larger than 2 inches in 
-                        height are permitted.
-    ``(c) Additional Restrictions.--
-            ``(1) Restriction on product names.--A manufacturer shall 
-        not use a trade or brand name of a nontobacco product as the 
-        trade or brand name for a cigarette or smokeless tobacco 
-        product, except for a tobacco product whose trade or brand name 
-        was on both a tobacco product and a nontobacco product that 
-        were sold in the United States on January 1, 1998.
-            ``(2) Advertising limit actions.--
-                    ``(A) In general.--A manufacturer, distributor, or 
-                retailer may in accordance with this section, 
-                disseminate or cause to be disseminated advertising or 
-                labeling which bears a tobacco product brand name 
-                (alone or on conjunction with any other word) or any 
-                other indicia of tobacco product identification only in 
-                newspapers, in magazines, in periodicals or other 
-                publications (whether periodic or limited 
-                distribution), on billboards, posters and placards in 
-                accordance with subsection (b)(1), in nonpoint of sale 
-                promotional material (including direct mail), in point-
-                of-sale promotional material, and in audio or video 
-                formats delivered at a point-of-sale.
-                    ``(B) Limitation.--A manufacturer, distributor, or 
-                retailer that intends to disseminate, or to cause to be 
-                disseminated, advertising or labeling for a tobacco 
-                product in a medium that is not described in 
-                subparagraph (A) shall notify the Secretary of Health 
-                and Human Services not less than 30 days prior to the 
-                date on which such medium is to be used. Such notice 
-                shall describe the medium and discuss the extent to 
-                which the advertising or labeling may be seen by 
-                individuals who are under 18 years of age.
-                    ``(C) Action by secretary.--Not later than 30 days 
-                after the date on which the Secretary receives a notice 
-                under subparagraph (B), the Secretary shall make a 
-                determination with respect to the action to be taken 
-                concerning such notice.
-            ``(3) Restriction on placement in entertainment media.--No 
-        payment shall be made by any manufacturer, distributor, or 
-        retailer for the placement of any tobacco product or tobacco 
-        product package or advertisement--
-                    ``(A) as a prop in any television program or motion 
-                picture produced for viewing by the general public; or
-                    ``(B) in a video or on a video game machine.
-            ``(4) Restrictions on glamorization of tobacco products.--
-        No direct or indirect payment shall be made, or consideration 
-        given, by any manufacturer, distributor, or retailer to any 
-        entity for the purpose of promoting the image or use of a 
-        tobacco product through print, film or broadcast media that 
-        appeals to individuals under 18 years of age or through a live 
-        performance by an entertainment artist that appeals to such 
-        individuals.
-    ``(d) Format and Content Requirements for Labeling and 
-Advertising.--
-            ``(1) In general.--Except as provided in paragraphs (2) and 
-        (3), each manufacturer, distributor, or retailer advertising or 
-        causing to be advertised, disseminating or causing to be 
-        disseminated, any labeling or advertising for a tobacco product 
-        shall use only black text on a white background.
-            ``(2) Certain advertising excepted.--
-                    ``(A) In general.--Paragraph (1) shall not apply to 
-                advertising--
-                            ``(i) in any facility where vending 
-                        machines and self-service displays are located 
-                        if the advertising involved--
-                                    ``(I) is not visible from outside 
-                                of the facility; and
-                                    ``(II) is affixed to a wall or 
-                                fixture in the facility;
-                            ``(ii) that appears in any publication 
-                        (whether periodic or limited distribution) that 
-                        is an adult publication.
-                    ``(B) Adult publication.--For purposes of 
-                subparagraph (A)(ii), the term `adult publication' 
-                means a newspaper, magazine, periodical, or other 
-                publication--
-                            ``(i) whose readers under 18 years of age 
-                        constitute 15 percent or less of the total 
-readership as measured by competent and reliable survey evidence; and
-                            ``(ii) that is read by fewer than 2,000,000 
-                        individuals who are under 18 years of age as 
-                        measured by competent and reliable survey 
-                        evidence.
-            ``(3) Audio or video formats.--Each manufacturer, 
-        distributor or retailer advertising or causing to be advertised 
-        any advertising for a tobacco product in an audio or video 
-        format shall comply with the following:
-                    ``(A) With respect to an audio format, the 
-                advertising shall be limited to words only with no 
-                music or sound effects.
-                    ``(B) With respect to a video format, the 
-                advertising shall be limited to static black text only 
-                on a white background. Any audio with the video 
-                advertising shall be limited to words only with no 
-                music or sound effects.
-    ``(e) Ban on Nontobacco Items and Services, Contests and Games of 
-Chance, and Sponsorship of Events.--
-            ``(1) Ban on all non-tobacco merchandise.--No manufacturer, 
-        importer, distributor, or retailer shall market, license, 
-        distribute, sell or cause to be marketed, licensed, distributed 
-        or sold any item (other than tobacco products) or service, 
-        which bears the brand name (alone or in conjunction with any 
-        other word), logo, symbol, motto, selling message, recognizable 
-        color or pattern of colors, or any other indicia of product 
-        identification similar or identifiable to those used for any 
-        brand of tobacco products.
-            ``(2) Gifts, contests, and lotteries.--No manufacturer, 
-        distributor, or retailer shall offer or cause to be offered to 
-        any person purchasing tobacco products any gift or item (other 
-        than a tobacco product) in consideration of the purchase of 
-        such products, or to any person in consideration of furnishing 
-        evidence, such as credits, proofs-of-purchase, or coupons, of 
-        such a purchase.
-            ``(3) Sponsorship.--
-                    ``(A) In general.--No manufacturer, distributor, or 
-                retailer shall sponsor or cause to be sponsored any 
-                athletic, musical, artistic or other social or cultural 
-                event, or any entry or team in any event, in which the 
-                brand name (alone or in conjunction with any other 
-                word), logo, motto, selling message, recognizable color 
-                or pattern of colors, or any other indicia of product 
-                identification similar or identical to those used for 
-                tobacco products is used.
-                    ``(B) Use of corporate name.--A manufacturer, 
-                distributor, or retailer may sponsor or cause to be 
-                sponsored any athletic, musical, artistic, or other 
-                social or cultural event in the name of the corporation 
-                which manufactures the tobacco product if--
-                            ``(i) both the corporate name and the 
-                        corporation were registered and in use in the 
-                        United States prior to January 1, 1995; and
-                            ``(ii) the corporate name does not include 
-                        any brand name (alone or in conjunction with 
-                        any other word), logo, symbol, motto, selling 
-                        message, recognizable color or pattern of 
-                        colors, or any other indicia or product 
-                        identification identical or similar to, or 
-                        identifiable with, those used for any brand of 
-                        tobacco products.
-    ``(f) Definitions.--For purposes of this section--
-            ``(1) In general.--Any term used in this section which is 
-        also used in section 5702 shall have the same meaning given 
-        such term by section 5702.
-            ``(2) Brand.--The term `brand' means a variety of a tobacco 
-        product distinguished by the tobacco used, tar content, 
-        nicotine content, flavoring used, size, filtration, or 
-        packaging.
-            ``(3) Distributor.--The term `distributor' means any person 
-        who furthers the distribution of tobacco products, whether 
-        domestic or imported, at any point from the original place of 
-        manufacture to the person who sells or distributes the product 
-        to individuals for personal consumption. Such term shall not 
-        include common carriers.
-            ``(4) Package.--The term `package' means a pack, box, 
-        carton, or container of any kind in which tobacco products are 
-        offered for sale, sold, or otherwise distributed to consumers.
-            ``(5) Point of sale.--The term `point of sale' means any 
-        location at which an individual can purchase or otherwise 
-        obtain tobacco products for personal consumption.
-            ``(6) Point of sale advertising.--The term `point of sale 
-        advertising' means all printed or graphical materials bearing 
-        the brand name (alone or in conjunction with any other word), 
-        logo, motto, selling message, recognizable color or pattern of 
-        colors, or any other indicia of product identification similar 
-        or identical to those used for tobacco products, which, when 
-        used for its intended purpose, can reasonably be anticipated to 
-        be seen by customers at a location at which tobacco products 
-        are offered for sale.
-            ``(7) Retailer.--The term `retailer' means any person who 
-        sells tobacco products to individuals for personal consumption, 
-        or who operates a facility where vending machines or self-
-        service displays are located.
-            ``(8) Video.--The term `video' means an audiovisual work 
-        produced for viewing by the general public, such as a 
-        television program, a motion picture, a music video, and the 
-        audiovisual display of a video game.
-            ``(9) Video game.--The term `video game' means any 
-        electronic amusement device that utilizes a computer, 
-        microprocessor, or similar electronic circuitry and its own 
-        cathode ray tube, or is designed to be used with a television 
-        set or a monitor, that interacts with the user of the 
-        device.''.
-    (b) Conforming Amendment.--The table of sections for such part IX 
-is amended by adding after the item relating to section 280H the 
-following:
-
-                                  ``Sec. 280I. Disallowance of 
-                                        deduction for certain tobacco 
-                                        advertising, promotion, and 
-                                        marketing expenses.''
-    (c) Effective Date.--The amendments made by this section shall 
-apply to taxable years beginning after December 31, 1998.
+    (a) Study and Report Required.--Not later than one year after the 
+date of the enactment of this Act, the Secretary of Veterans Affairs 
+shall--
+            (1) complete a study on matters relating to the 
+        identification, claiming, and interring of unclaimed remains of 
+        veterans; and
+            (2) submit to Congress a report on the findings of the 
+        Secretary with respect to the study required under paragraph 
+        (1).
+    (b) Matters Studied.--The matters studied under subsection (a)(1) 
+shall include the following:
+            (1) Determining the scope of issues relating to unclaimed 
+        remains of veterans, including an estimate of the number of 
+        unclaimed remains of veterans on the day before the date of the 
+        enactment of this Act.
+            (2) Assessing the effectiveness of the procedures of the 
+        Department of Veterans Affairs for claiming and interring 
+        unclaimed remains of veterans.
+            (3) Identifying and assessing State and local laws that 
+        affect the ability of the Secretary to identify, claim, and 
+        inter unclaimed remains of veterans.
+            (4) Developing recommendations for such legislative or 
+        administrative action as the Secretary considers appropriate.
                                  <all>

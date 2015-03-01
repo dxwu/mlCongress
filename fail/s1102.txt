@@ -1,23 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1102 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 S. 1102
 
- To amend the general mining laws to provide a reasonable royalty from 
-      mineral activities on Federal lands, to specify reclamation 
-requirements for mineral activities on Federal lands, to create a State 
-  program for the reclamation of abandoned hard rock mining sites on 
-                 Federal lands, and for other purposes.
+ To abolish the Export-Import Bank of the United States, and for other 
+                               purposes.
 
 
 _______________________________________________________________________
@@ -25,12 +16,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             July 31, 1997
+                              June 6, 2013
 
-    Mr. Craig (for himself, Mr. Murkowski, Mr. Reid, Mr. Bryan, Mr. 
- Bennett, Mr. Burns, Mr. Hatch, Mr. Thomas, Mr. Campbell, Mr. Stevens, 
-and Mr. Kempthorne) introduced the following bill; which was read twice 
-     and referred to the Committee on Energy and Natural Resources
+    Mr. Lee introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
 
 _______________________________________________________________________
 
@@ -38,1620 +27,378 @@ _______________________________________________________________________
 
 
  
- To amend the general mining laws to provide a reasonable royalty from 
-      mineral activities on Federal lands, to specify reclamation 
-requirements for mineral activities on Federal lands, to create a State 
-  program for the reclamation of abandoned hard rock mining sites on 
-                 Federal lands, and for other purposes.
+ To abolish the Export-Import Bank of the United States, and for other 
+                               purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 101. SHORT TITLE.
+SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Mining Law Reform Act of 1997''.
+    This Act may be cited as the ``Export-Import Bank Termination 
+Act''.
 
-SEC. 102. FINDINGS AND PURPOSE.
+SEC. 2. FINDINGS.
 
-    (a) Findings.--Congress finds and declares that--
-            (1) a secure and reliable supply of locatable minerals is 
-        essential to the industrial base of the United States, national 
-        security, and balance of trade;
-            (2) many of the deposits of locatable minerals that may be 
-        commercially developed are on Federal lands as that term is 
-        defined in this Act, and are difficult and expensive to 
-        discover, mine, extract and process;
-            (3) the national need for locatable minerals will continue 
-        to expand, and without a strong mining industry the demand for 
-        the minerals will exceed domestic sources of supply;
-            (4) mining of locatable minerals is an extremely high-risk, 
-        capital-intensive endeavor, which, to attract necessary 
-        investment, requires certainty and predictability in access to 
-        Federal lands in establishment of mining titles, and in the 
-        rights of owners of mining claims or sites to develop minerals;
-            (5) it is in the national interest to foster and encourage 
-        private enterprise in the development of a domestic minerals 
-        industry to maintain and create high-paying jobs and the 
-        various Federal, State, and local taxes paid by the mining 
-        industry in the United States;
-            (6) the diversity in terrain, climate, biological, 
-        chemical, and other physical conditions, and variation among 
-        the locatable minerals mined and the methods of mining and 
-        processing, require that reclamation standards be tailored to 
-        local and regional conditions;
-            (7) there are extensive Federal and State environmental 
-        standards that apply to mining operations on Federal lands, 
-        including State programs for the protection of groundwater 
-        quality;
-            (8) every State containing Federal lands has enacted laws 
-        and regulations governing the reclamation of mined lands and, 
-        subject to the Supremacy Clause of the United States 
-        Constitution, these laws and regulations, including financial 
-        assurance requirements, apply to mineral activities on Federal 
-        lands;
-            (9) changes in the general mining laws of the United States 
-        to provide more direct economic return to the United States and 
-        greater protection of public resources are desirable, so long 
-        as the changes do not act as a disincentive to development of 
-        minerals, adversely affect employment in the mining industry or 
-        in industries that provide goods and services required for 
-        mining activities, interfere with a secure and reliable 
-        domestic supply of minerals, or adversely affect the balance of 
-        trade of the United States; and
-            (10) mining claims, mill sites and tunnel sites located 
-        under the general mining laws are property interests, and any 
-        law or regulation that impairs existing property rights may 
-        expose the Federal Government to taking claims under the fifth 
-        amendment to the United States Constitution.
-    (b) Purpose.--It is the purpose of this Act to--
-            (1) promote exploration for and the development of a secure 
-        and reliable domestic source of locatable minerals;
-            (2) provide for increased Federal revenue from the location 
-        and production of locatable minerals from Federal lands through 
-        fees, patent payments and royalties;
-            (3) ensure that mineral activities on Federal lands are 
-        conducted in compliance with all applicable Federal and State 
-        environmental regulations and standards, including standards 
-        governing mined land reclamation;
-            (4) ensure that all Federal lands affected by mineral 
-        activities under the general mining laws are reclaimed as 
-        required by applicable laws;
-            (5) establish a program to reclaim abandoned locatable mine 
-        sites on Federal lands; and
-            (6) recognize that unpatented mining claims, mill sites and 
-        tunnel sites are property rights in the fullest sense and 
-        avoid, to the greatest extent possible, claims of takings of 
-        existing property rights under the general mining laws that 
-        could require compensation under the fifth amendment to the 
-        United States Constitution.
+    Congress makes the following findings:
+            (1) Export subsidies provide advantages to specific 
+        industries or businesses at the expense of their domestic 
+        competition, other sectors of the economy of the United States, 
+        and the people of the United States.
+            (2) Banks and other financial institutions that provide 
+        trade facilitation credit also profit from export subsidies 
+        such as loan guarantees and trade insurance.
+            (3) International trade finance is well developed and 
+        supplied by the private sector at competitive rates that 
+        reflect market conditions.
+            (4) The Export-Import Bank of the United States is an 
+        agency of the United States Government that subsidizes exports 
+        by insuring or guaranteeing trade facilitation loans and other 
+        credit from private financial institutions and by providing 
+        direct loans to exporters in the United States.
+            (5) Export subsidies impose risks on the taxpayers of the 
+        United States.
+            (6) In a June 2012 report, the Congressional Budget Office 
+        found, using accurate, fair value estimation, that the expected 
+        return of the Export-Import Bank of the United States was less 
+        than \1/10\ of the estimate under the current, flawed 
+        methodology used pursuant to the Federal Credit Reform Act of 
+        1990 (2 U.S.C. 661 et seq.).
+            (7) Recent years have revealed other ``safe'' Federal 
+        credit programs to have large taxpayer costs, including Freddie 
+        Mac, Fannie Mae, and the Federal Housing Administration.
+            (8) The Export-Import Bank of the United States claims to 
+        serve small businesses primarily but most of its financing 
+        subsidizes exports of large multinational corporations.
 
-SEC. 103. DEFINITIONS.
+SEC. 3. REDUCTIONS OF AUTHORITIES BEFORE ABOLISHMENT.
 
-    When used in this Act:
-            (1) ``Assessment year'' means the annual period commencing 
-        at 12 o'clock noon on the first day of September and ending at 
-        12 o'clock noon on the first day of September of the following 
-        year.
-            (2) ``Federal lands'' means, except as provided otherwise 
-        in title III, lands and interests in lands owned by the United 
-        States that are open to mineral location, or that were open to 
-        mineral location when a mining claim or site was located and 
-        which have not been patented under the general mining laws.
-            (3) ``General mining laws'' means those Acts which 
-        generally comprise chapters 2, 11, 12, 12A, 15, and 16, and 
-        sections 161 and 162, of title 30 of the United States Code, 
-        all Acts heretofore enacted which are amendatory of or 
-        supplementary to any of the foregoing Acts, and the judicial 
-        and administrative decisions interpreting such Acts.
-            (4) ``Locatable minerals'' means those minerals owned by 
-        the United States and subject to location and disposition under 
-        the general mining laws on or after the effective date of this 
-        Act, but not including any mineral held in trust by the United 
-        States for any Indian or Indian tribe, as defined in section 2 
-        of the Indian Mineral Development Act of 1982 (25 U.S.C. 2101), 
-        or any mineral owned by any Indian or Indian tribe, as defined 
-        in that section, that is subject to a restriction against 
-        alienation imposed by the United States, or any mineral owned 
-        by any incorporated Native group, village corporation, or 
-        regional corporation and acquired by the group or corporation 
-        under the provisions of the Alaska Native Claims Settlement Act 
-        (43 U.S.C. 1601 et seq.).
-            (5) ``Mineral activities'' means any activity on Federal 
-        lands related to, or incidental to, exploration for or 
-        development, mining, production, beneficiation, or processing 
-        of any locatable mineral or mineral that would be locatable if 
-        it were subject to disposition under the general mining laws, 
-        or reclamation of the impacts of such activities.
-            (6) ``Mining claim or site'', except where provided 
-        otherwise, means a lode mining claim, placer mining claim, mill 
-        site or tunnel site.
-            (7) ``Operator'' means any person conducting mineral 
-        activities subject to this Act.
-            (8) ``Person'' means an individual, Indian tribe, 
-        partnership, association, society, joint venture, joint stock 
-        company, firm, company, limited liability company, corporation, 
-        cooperative or other organization, and any instrumentality of 
-        State or local government, including any publicly owned utility 
-        or publicly owned corporation of State or local government.
-            (9) ``Secretary'' means (i) in titles II and V, the 
-        Secretary of the Interior acting through the Bureau of Land 
-        Management, (ii) in title IV, the Secretary of the Interior 
-        acting through the Bureau of Land Management or the Minerals 
-        Management Service, or both, and (iii) elsewhere in this Act, 
-        the Secretary of Agriculture, acting through the Forest 
-        Service, with respect to lands under the jurisdiction of the 
-        Secretary of Agriculture, and the Secretary of the Interior, 
-        acting through the Bureau of Land Management, with respect to 
-        all other lands subject to the requirements of this Act.
+    (a) Termination of Authority To Accept Applications for 
+Assistance.--Notwithstanding any other provision of law, the Export-
+Import Bank of the United States (in this Act referred to as the 
+``Bank'') may not accept an application for a loan, insurance, or a 
+guarantee, and may not participate in an extension of credit by another 
+entity after the 30-day period that begins on the date of the enactment 
+of this Act.
+    (b) Termination of Authority To Renew or Enter Into a Contract for 
+the Provision of Assistance by the Bank.--Notwithstanding any other 
+provision of law, the Bank may not renew or enter into a contract that 
+obligates the Bank to provide a loan, insurance, or a guarantee, or to 
+participate in an extension of credit by another entity after the 12-
+month period that begins on the date of the enactment of this Act.
 
-          TITLE II--DISPOSITION OF LOCATABLE MINERAL DEPOSITS
+SEC. 4. ABOLISHMENT OF EXPORT-IMPORT BANK OF THE UNITED STATES.
 
-SEC. 201. CLAIM MAINTENANCE REQUIREMENTS.
+    (a) Abolishment.--The Bank is abolished on the date that is 3 years 
+after the date of the enactment of this Act (in this Act referred to as 
+the ``abolishment date'').
+    (b) Repeal of Statutory Authority.--Effective on the abolishment 
+date, the Export-Import Bank Act of 1945 (12 U.S.C. 635 et seq.) is 
+repealed.
 
-    (a) Maintenance Fee.--After the date of enactment of this Act, the 
-owner of each unpatented mining claim or site located pursuant to the 
-general mining laws, whether located before or after the enactment of 
-this Act, shall pay in advance to the Secretary annually on or before 
-September 1, and until a patent has been issued therefor, a maintenance 
-fee of $100 per mining claim or site. The owner of each unpatented 
-mining claim or site located after the date of enactment of this Act 
-pursuant to the general mining laws shall pay to the Secretary, at the 
-time the copy of the notice or certificate of location is filed with 
-the Bureau of Land Management pursuant to section 314(b) of the Federal 
-Land Policy and Management Act of 1976 (43 U.S.C. 1744(b)), in addition 
-to the location fee required under subsection (f) of this section, an 
-initial maintenance fee of $100 per mining claim or site for the 
-assessment year which includes the date of location of such mining 
-claim or site. If a mining claim or site is located within ninety days 
-before September 1 and the copy of the notice or certificate of 
-location is timely filed with the Bureau of Land Management under 
-subsection 314(b) of the Federal Land Policy and Management Act of 1976 
-after September 1, the annual maintenance fee payable under the first 
-sentence of this subsection, for the following assessment year, shall 
-be paid at the time such notice or certificate of location is filed, in 
-addition to the location fee and the initial $100 maintenance fee. No 
-maintenance fee shall be required if the fee is waived or the owner of 
-the mining claim or site is exempt as provided in section 202 of this 
-Act.
-    (b) Assessment Work Requirements.--
-            (1) For the first five assessment years following the 
-        assessment year which includes the date of location of any 
-        unpatented mining claim or site located on or after the date of 
-        enactment of this Act, or for the first five assessment years 
-        following the assessment year which includes the date of 
-        enactment of this Act for any unpatented mining claim or site 
-        located before the date of enactment, the annual maintenance 
-        fee under subsection (a) of this section shall be in lieu of 
-        the assessment work requirements of the general mining laws and 
-        of any other Federal law. Beginning with the sixth assessment 
-        year following the assessment year which includes such date of 
-        location or enactment, such assessment work requirements shall 
-        apply in addition to such annual maintenance fee, subject to 
-        any suspension or deferment of annual assessment work provided 
-        by law.
-            (2)(A) Section 1 of the Act of September 2, 1958 (30 U.S.C. 
-        28-1), is amended by inserting ``mineral activities, 
-        environmental baseline monitoring, and'' after ``without being 
-        limited to'' and before ``geological, geochemical and 
-        geophysical surveys''.
-            (B) Section 2(d) of the Act of September 2, 1958 (30 U.S.C. 
-        28-2(d)), is amended by inserting ``environmental baseline 
-        monitoring or'' after ``experience to conduct'' and before 
-        ``geological, geochemical or geophysical surveys''.
-            (C) Section 2 of the Act of September 2, 1958 (30 U.S.C. 
-        28-2), is amended by adding at the end the following new 
-        subsection:
-    ``(e) The term `environmental baseline monitoring' means activities 
-for collecting, reviewing and analyzing information concerning soil, 
-vegetation, wildlife, mineral, air, water, cultural, historical, 
-archeological or other resources related to planning for or complying 
-with Federal and State environmental or permitting requirements 
-applicable to potential or proposed mineral activities on the 
-claim(s).''.
-    (c) Maintenance Fee Statement.--Each payment under subsection (a) 
-of this section shall be accompanied by a statement which reasonably 
-identifies the mining claim or site for which the maintenance fee is 
-being paid. Such statement may include the name of the mining claim or 
-site, the serial number assigned by the Secretary to such mining claim 
-or site, the description of the book and page in which the notice or 
-certificate of location for such mining claim or site is recorded under 
-State law, any combination of the foregoing, or any other information 
-that reasonably identifies the mining claim or site for which the 
-maintenance fee is being paid. The statement required under this 
-subsection shall be in lieu of any annual filing requirements for 
-mining claims or sites, under any other Federal law, but shall not 
-supersede any such filing requirement under applicable State law.
-    (d) Effect of Compliance as Against Subsequent Locators.--
-            (1) Except as provided in paragraph (d)(2) of this 
-        subsection, after the date of enactment of this Act, compliance 
-        with the requirements of this section and sections 202 and 
-        203(a) shall, from the time the location notice or certificate 
-        is posted on the land under applicable State law, confer upon 
-        the owner of any unpatented mining claim or site, whether 
-        located before or after the date of enactment of this Act, an 
-        exclusive right of possession, as against subsequent locators, 
-        of the land included in such mining claim or site for the 
-        purposes described in subsection 203(a). If more than one 
-        mining claim or site owned or controlled by the same claim or 
-        site owner covers substantially the same land, by reason of the 
-        location of one or more mining claims or sites on such land, 
-        the amendment or relocation of any such mining claim or site, 
-        or otherwise, such exclusive right of possession shall extend 
-        to all such mining claims or sites, effective from the time the 
-        location notice or certificate for the initial mining claim or 
-        site was posted on such land under applicable State law. The 
-        order of location, amendment, or relocation of any such mining 
-        claims or sites on such land shall not affect the validity of 
-        any such mining claim or site. Such owner of the mining claim 
-        or site shall not be required to be in actual, physical 
-        occupation of such land and shall not be required to exclude 
-        rival locators from such land. Such exclusive right of 
-        possession shall be subject to applicable Federal law, 
-        including the Multiple Mineral Development Act of 1954 (30 
-        U.S.C. 521-31), the Materials Act of 1947 (30 U.S.C. 601-604) 
-        and the Surface Resources Act of 1955 (30 U.S.C. 611-15) to the 
-        extent applicable, and shall neither enlarge nor diminish any 
-        rights of such owner of the mining claim or site as against the 
-        United States in such land. This paragraph shall supersede the 
-        common law doctrine of pedis possessio.
-            (2) Conflicts over the right of exclusive possession of 
-        land included in any mining claim or site shall be determined 
-        in proceedings between owners of mining claims or sites under 
-        the provisions of section 910 of the Revised Statutes (30 
-        U.S.C. 53) and other applicable law, including but not limited 
-        to the following:
-                    (A) Any conflict based upon circumstances existing 
-                as of the date of enactment of this Act between 
-mining claims or sites located before the date of enactment of this 
-Act, which shall be resolved under the law in effect on the day prior 
-to the date of enactment of this Act, including the common law doctrine 
-of pedis possessio.
-                    (B) Any conflict arising on or after the date of 
-                enactment of this Act between mining claims or sites 
-                located before, on or after the date of enactment over 
-                whether either owner of the mining claim or site has 
-                complied with the requirements of this section or 
-                section 202 or 203(a), shall be resolved under this 
-                Act.
-    (e) Failure of Co-Owner To Contribute.--Upon the failure of any one 
-or more of several co-owners of any mining claim or site to contribute 
-such co-owner or owners' portion of the location or maintenance fee 
-under this section, any co-owner who has paid such fee may, after the 
-payment due date, serve the delinquent co-owner or owners with notice 
-of such failure in writing or, if such delinquent co-owner or owners 
-cannot be located after reasonable efforts, by publication in a general 
-circulation newspaper published in a location nearest the mining claim 
-or site at least once a week for at least ninety days. If at the 
-expiration of ninety days after such notice in writing or by 
-publication, any delinquent co-owner fails or refuses to contribute the 
-owed portion, such co-owner or owners' interest shall become the 
-property of the owner or co-owners who have paid the required fee.
-    (f) Location Fee.--The owner of each unpatented mining claim or 
-site located on or after the date of enactment of this Act pursuant to 
-the general mining laws shall pay to the Secretary, at the time the 
-notice or certificate of location is filed with the Bureau of Land 
-Management pursuant to subsection 314(b) of the Federal Land Policy and 
-Management Act of 1976 (43 U.S.C. 1744(b)), a location fee of $25 per 
-claim.
-    (g) Credit Against Royalty.--The annual claim maintenance fee paid 
-for any unpatented mining claim or site on or before September 1 of any 
-year shall be credited against the amount of royalty required to be 
-paid under title IV for such mining claim or site during the following 
-assessment year.
-    (h) Fee Adjustments and Disposition.--
-            (1) At the end of each period of five assessment years 
-        after the date of enactment of this Act, the Secretary shall 
-        adjust the maintenance fee and the location fee required by 
-        this section by an amount equal to the net adjustment in the 
-        implicit price deflator for the gross national product 
-        established by the United States Department of Commerce over 
-        the preceding five-year period, rounded up or down to the 
-        nearest dollar.
-            (2) The Secretary shall provide owners of mining claims or 
-        sites with notice by publication in the Federal Register and in 
-        local widely circulated newspapers of any adjustment made under 
-        paragraph (1) not later than January 1 of any assessment year 
-        in which the adjustment is made.
-            (3) A fee adjustment under paragraph (1) shall apply to the 
-        payment due for the next assessment year after the assessment 
-        year in which notice is given under paragraph (2).
-            (4) Subject to appropriations, all maintenance and location 
-        fees received by the Secretary under this section shall be paid 
-        into a State Fund or Federal Fund in accordance with sections 
-        501 and 502, until termination as provided in section 506 of 
+SEC. 5. TRANSFER AUTHORITIES.
+
+    (a) Transfer of Functions.--
+            (1) In general.--All functions that are authorized to be 
+        performed by the Bank, the Board of Directors of the Bank, any 
+        officer or employee of the Bank acting in that capacity, or any 
+        agency or office of the Bank on the day before the abolishment 
+        date are transferred to the Secretary on the abolishment date.
+            (2) Inspector general duties.--
+                    (A) Termination of the office of inspector general 
+                for the export-import bank of the united states.--
+                Notwithstanding any other provision of law, the Office 
+                of Inspector General for the Bank shall terminate on 
+                the abolishment date, and the assets and obligations of 
+                the Office shall be transferred to the Office of the 
+                Inspector General for the Department of the Treasury or 
+                otherwise disposed of as the Secretary determines to be 
+                appropriate.
+                    (B) Savings provision.--
+                            (i) In general.--The provisions of this 
+                        section shall not affect the performance of any 
+                        pending audit, investigation, inspection, or 
+                        report by the Office of the Inspector General 
+                        for the Bank as of the abolishment date, with 
+                        respect to functions transferred by this 
+                        section.
+                            (ii) Modification of performance.--Nothing 
+                        in this subsection shall be deemed to prohibit 
+                        the discontinuance or modification of any 
+                        performance under the same terms and conditions 
+                        and to the same extent that performance could 
+                        have been discontinued or modified if this 
+                        section had not been enacted.
+            (3) Performance of transferred functions.--
+                    (A) In general.--Except as otherwise provided by 
+                law, a Federal official to whom a function is 
+                transferred by this subsection may, for purposes of 
+                performing the function, exercise all authorities under 
+                any other provision of law that were available with 
+                respect to the performance of that function to the 
+                official responsible for the performance of the 
+                function immediately before the abolishment date.
+                    (B) Delegation and assignment.--
+                            (i) In general.--Except as otherwise 
+                        expressly prohibited by law, a Federal official 
+                        to whom a function is transferred by this 
+                        subsection (including the head of any office to 
+                        which functions are transferred by this 
+                        subsection) may delegate any of the functions 
+                        so transferred to such officers and employees 
+                        of the office of the official as the official 
+                        may designate, and may authorize successive 
+                        redelegations of such functions as may be 
+                        necessary or appropriate.
+                            (ii) Ultimate responsibility.--No 
+                        delegation of functions under this subparagraph 
+                        or under any other provision of this Act shall 
+                        relieve the official to whom a function is 
+                        transferred under this Act of responsibility 
+                        for the administration of the function.
+            (4) Authority of the secretary with respect to transferred 
+        functions.--
+                    (A) Determinations.--If necessary, the Secretary 
+                shall make any determination of the functions that are 
+                transferred under this subsection.
+                    (B) Incidental transfers.--The Secretary, at such 
+                time or times as the Secretary shall provide, may make 
+                such determinations as may be necessary with regard to 
+                the functions transferred by this subsection, and make 
+                such additional incidental dispositions of personnel, 
+                assets, liabilities, grants, contracts, property, 
+                records, and unexpended balances of appropriations, 
+                authorizations, allocations, and other funds held, 
+                used, arising from, available to, or to be made 
+                available in connection with such functions, as may be 
+                necessary to carry out the provisions of this Act.
+    (b) Transfer of Personnel.--All individuals who were officers or 
+employees of the Bank immediately before the abolishment date and 
+performed functions that are transferred to the Secretary under 
+subsection (a) are transferred to the Department of the Treasury on the 
+abolishment date (other than members of the Board of Directors of the 
+Bank).
+    (c) Transfer of Assets.--Except as otherwise provided in this Act, 
+so much of the personnel, property, records, and unexpended balances of 
+appropriations, allocations, and other funds employed, used, held, 
+available, or to be made available in connection with a function 
+transferred to an official or agency by this Act shall be available to 
+the official or the head of that agency, respectively, at such time or 
+times as the Director of the Office of Management and Budget directs 
+for use in connection with the functions transferred.
+
+SEC. 6. RESOLUTION AND TERMINATION OF BANK FUNCTIONS.
+
+    (a) Resolution of Functions.--The Secretary shall--
+            (1) complete the disposition and resolution of the 
+        functions of the Bank in accordance with this Act; and
+            (2) resolve all functions that are transferred to the 
+        Secretary under section 5(a).
+    (b) Termination of Functions.--All functions that are transferred 
+to the Secretary under section 5(a) shall terminate on the date all 
+obligations of the Bank, and all obligations of others to the Bank, in 
+effect immediately before the abolishment date, have been satisfied, as 
+determined by the Secretary.
+    (c) Report to Congress.--When the Secretary makes the determination 
+described in subsection (b), the Secretary shall submit to the 
+Committee on Banking, Housing, and Urban Affairs of the Senate and the 
+Committee on Financial Services of the House of Representatives a 
+report on the determination.
+
+SEC. 7. DUTIES OF THE SECRETARY.
+
+    (a) In General.--The Secretary shall be responsible for the 
+implementation of this Act as follows:
+            (1) The administration and wind-up of all functions 
+        transferred to the Secretary under section 5(a).
+            (2) The administration and wind-up of any outstanding 
+        obligations of the Federal Government under any programs 
+        terminated by this Act.
+            (3) Other actions as may be necessary to wind-up any 
+        outstanding affairs of the Bank.
+    (b) Delegation of Functions.--The Secretary may delegate to the 
+head of any other Federal department or agency the performance of the 
+functions of the Secretary under this Act to the extent that the 
+Secretary determines that the delegation would further the purposes of 
+this Act.
+    (c) Transfer of Assets and Personnel.--In connection with any 
+delegation of functions under subsection (b), the Secretary may 
+transfer to the department or agency concerned such assets, funds, 
+personnel, records, and other property relating to the delegated 
+function as the Secretary determines to be appropriate.
+    (d) Authorities of the Secretary.--For purposes of performing the 
+functions of the Secretary under this Act and subject to the 
+availability of appropriations, the Secretary may--
+            (1) enter into contracts;
+            (2) employ experts and consultants in accordance with 
+        section 3109 of title 5, United States Code, at rates not to 
+        exceed the daily rate paid a person occupying a position at 
+        level IV of the Executive Schedule under section 5313 of such 
+        title; and
+            (3) utilize, on a reimbursable basis, the services, 
+        facilities, and personnel of other Federal agencies.
+
+SEC. 8. SAVINGS PROVISIONS.
+
+    (a) Legal Documents.--
+            (1) In general.--All legal documents specified in paragraph 
+        (2) shall continue in effect according to their terms until 
+        modified, terminated, superseded, set aside, or revoked in 
+        accordance with law by the President, any other authorized 
+        official, a court of competent jurisdiction, or operation of 
+        law if such legal documents--
+                    (A) have been issued, made, granted, or allowed to 
+                become effective by the President, the Bank, any 
+                officer or employee of any office transferred by this 
+                Act, or any other Government official, or by a court of 
+                competent jurisdiction, in the performance of any 
+                function that is transferred by this Act; and
+                    (B) are in effect on the abolishment date (or 
+                become effective after such date pursuant to their 
+                terms as in effect on such effective date).
+            (2) Legal documents specified.--The legal documents 
+        specified in this paragraph are orders, determinations, rules, 
+        regulations, permits, grants, loans, contracts, agreements, 
+        certificates, licenses, and privileges.
+    (b) Proceedings.--
+            (1) In general.--This Act shall not affect any proceedings 
+        or any application for any benefits, service, license, permit, 
+        certificate, or financial assistance pending on the date of the 
+        enactment of this Act before an office transferred by this Act.
+            (2) Issuance of orders.--Orders shall be issued in such 
+        proceedings, appeals shall be taken, and payments shall be made 
+        pursuant to such orders as if this Act had not been enacted, 
+        and orders issued in any such proceeding shall continue in 
+        effect until modified, terminated, superseded, or revoked by a 
+        duly authorized official, by a court of competent jurisdiction, 
+        or by operation of law.
+            (3) Modification of proceedings.--Nothing in this 
+        subsection shall be considered to prohibit the discontinuance 
+        or modification of any proceeding under the same terms and 
+        conditions and to the same extent that such proceeding could 
+        have been discontinued or modified if this Act had not been 
+        enacted.
+    (c) Actions.--
+            (1) In general.--This Act shall not affect any civil or 
+        criminal action commenced before the date of the enactment of 
         this Act.
-    (i) Oil Shale Claims Subject to Claim Maintenance Fee Under Energy 
-Policy Act of 1992.--This section shall not apply to any oil shale 
-claims for which a fee is required to be paid under paragraph 
-2511(e)(2) of the Energy Policy Act of 1992 (30 U.S.C. 242(e)(2)).
-    (j) Failure To Comply.--The failure of the owner of the mining 
-claim or site to pay the claim maintenance fee or location fee for a 
-mining claim or site on or before the date such payment is due under 
-subsection (a) or subsection (f) of this section shall constitute 
-forfeiture of the mining claim or site and such mining claim or site 
-shall be null and void, effective as of the day after the date such 
-payment is due: Provided, however, That, if such maintenance fee or 
-location fee is paid or tendered on or before the thirtieth day after 
-such payment was due under subsection (a) or subsection (f) of this 
-section, such mining claim or site shall not be forfeited or null or 
-void, and such maintenance fee or location fee shall be deemed timely 
-paid.
-    (k) Repeal of Omnibus Budget Reconciliation Act Fee Requirements.--
-Sections 10101 through 10106 of the Omnibus Budget Reconciliation Act 
-of 1993 (30 U.S.C. 28f-28k) are hereby repealed.
-    (l) Conforming Amendment.--The third sentence of section 2324 of 
-the Revised Statutes (30 U.S.C. 28) is amended by adding the words 
-``Except as provided in paragraph 201(b)(1) of the Mining Law Reform 
-Act of 1997,'' at the beginning of such sentence and deleting the words 
-``that is granted a waiver under section 10101 of the Omnibus Budget 
-Reconciliation Act of 1993,''.
-    (m) Amendment of FLPMA Filing Requirements.--
-            (1) Section 314(a) of the Federal Land Policy and 
-        Management Act of 1976 (43 U.S.C. 1744(a)) is hereby repealed.
-            (2) Section 314(c) of the Federal Land Policy and 
-        Management Act of 1976 (43 U.S.C. 1744(c)) is amended to read 
-        as follows:
-    ``(c) Failure To File as Constituting Forfeiture; Defective or 
-Untimely Filing.--The failure to timely file the copy of the notice or 
-certificate of location as required by subsection (b) shall constitute 
-forfeiture of the mining claim and such claim shall be null and void by 
-operation of law: Provided, however, That it shall not be considered a 
-failure to file if the notice or certificate of location is defective 
-or not timely filed for record under other State or Federal laws 
-permitting or requiring the filing or recording thereof, or if the copy 
-of the notice or certificate is filed by or on behalf of some but not 
-all of the owners of the claim.''.
+            (2) Continue as if not enacted.--In all such actions, 
+        proceedings shall be had, appeals shall be taken, and judgments 
+        shall be rendered in the same manner and with the same effect 
+        as if this Act had not been enacted.
+    (d) Nonabatement of Actions.--No action or other proceeding 
+commenced by or against an office transferred by this Act, or by or 
+against any individual in the official capacity of such individual as 
+an officer or employee of such an office, shall abate by reason of the 
+enactment of this Act.
+    (e) Continuance of Actions.--If any Government officer in the 
+official capacity of such officer is party to an action with respect to 
+a function of the officer, and under this Act such function is 
+transferred to any other officer or office, then such action shall be 
+continued with the other officer or the head of such other office, as 
+applicable, substituted or added as a party.
+    (f) Administrative Procedure and Judicial Review.--Except as 
+otherwise provided by this Act, any statutory requirements relating to 
+notice, hearings, action upon the record, or administrative or judicial 
+review that apply to any function transferred by this Act shall apply 
+to the exercise of such function by the head of the Federal agency, and 
+other officers of the agency, to which such function is transferred by 
+this Act.
 
-SEC. 202. WAIVER AND EXEMPTION.
+SEC. 9. AVAILABILITY OF EXISTING FUNDS.
 
-    (a) Waiver of Fee.--The maintenance fee provided for in subsection 
-201(a) shall be waived for the owner of a mining claim or site who 
-certifies in writing to the Secretary, on or before the date the 
-payment is due, that, as of the date such payment is due, such owner 
-and all related persons own not more than twenty-five unpatented mining 
-claims or sites. Any owner of a mining claim or site that is not 
-required to pay a maintenance fee under this subsection shall continue 
-to be subject to the assessment work requirements of the general mining 
-laws or of any other State or Federal law, subject to any suspension or 
-deferment of annual assessment work provided by law, for the assessment 
-year following the filing of the certification, and paragraph 201(b)(1) 
-of this Act shall not apply.
-    (b) Related Persons.--As used in subsection (a), the term ``related 
-persons'' includes--
-            (1) the spouse and dependent children (as defined in 
-        section 152 of the Internal Revenue Code of 1986), of the owner 
-        of the mining claim or site; and
-            (2) a person controlled by, controlling, or under common 
-        control with the owner of the mining claim or site.
-    (c) Exemption.--The owner of any mining claim or site who certifies 
-in writing to the Secretary on or before the first day of any 
-assessment year that access to such mining claim or site was denied or 
-in any way impeded during the prior assessment year by the action or 
-inaction of any local, State, or Federal governmental officer, agency, 
-or court, or by any Indian tribal authority, shall be exempt from the 
-maintenance fee and assessment work requirements of subsections (a) and 
-(b) of section 201 for the assessment year following the filing of the 
-certification.
+    Existing appropriations and funds available for the performance of 
+functions, programs, and activities terminated pursuant to this Act 
+shall remain available, for the duration of their period of 
+availability, for necessary expenses in connection with the termination 
+and resolution of such functions, programs, and activities.
 
-SEC. 203. GOOD FAITH REQUIREMENT AND RESIDENTIAL OCCUPANCY; DIVESTMENT.
+SEC. 10. CONFORMING AMENDMENTS.
 
-    (a) Good Faith Holding of Mining Claim or Site.--The location, 
-maintenance, and use of an unpatented mining claim or site, whether 
-located before or after enactment of this Act, shall be for the purpose 
-of conducting mineral activities in good faith.
-    (b) Residential Occupancy.--The Secretary shall not prohibit 
-residential occupancy of an unpatented mining claim or site and shall 
-not require removal of equipment or facilities until mineral activities 
-are completed, if such occupancy is shown in a notice of intent or plan 
-of operations to be reasonably required to accomplish the mineral 
-activities described therein.
+    (a) Elimination of Related Authorizing Provisions.--
+            (1) Section 103 of the International Development and 
+        Finance Act of 1989 (Public Law 101-240; 12 U.S.C. 635 note) is 
+        repealed.
+            (2) Section 303 of the Support for East European Democracy 
+        (SEED) Act of 1989 (Public Law 101-179; 12 U.S.C. 635 note) is 
+        repealed.
+            (3) The Export-Import Bank Act Amendments of 1978 (Public 
+        Law 95-630; 92 Stat. 3724) is amended--
+                    (A) in section 1908 (12 U.S.C. 635a-1)--
+                            (i) in subsection (a), by striking ``(a)''; 
+                        and
+                            (ii) by striking subsection (b);
+                    (B) by repealing section 1911 (12 U.S.C. 635a-2); 
+                and
+                    (C) by repealing section 1912 (12 U.S.C. 635a-3).
+            (4) Section 206 of the Bank Export Services Act (12 U.S.C. 
+        635a-4) is repealed.
+            (5) Sections 1 through 5 of Public Law 90-390 (12 U.S.C. 
+        635j through 635n) are repealed.
+            (6) Sections 641 through 647 of the Trade and Development 
+        Enhancement Act of 1983 (12 U.S.C. 635o-635t) are repealed.
+            (7) Section 534 of the Foreign Operations, Export 
+        Financing, and Related Programs Appropriations Act, 1990 
+        (Public Law 101-167; 12 U.S.C. 635g note) is amended by 
+        striking subsection (d).
+            (8) Section 3302 of the Omnibus Trade and Competitiveness 
+        Act of 1988 (Public Law 100-418; 12 U.S.C. 635i-3 note) is 
+        amended by striking subsection (a).
+            (9) Section 1105(a) of title 31, United States Code, is 
+        amended by striking paragraph (34) and redesignating the 
+        succeeding paragraphs of such section as paragraphs (34) 
+        through (38), respectively.
+            (10) Section 9101(3) of title 31, United States Code, is 
+        amended by striking subparagraph (C).
+    (b) Elimination of Related Compensation Provisions.--
+            (1) Position at level iii.--Section 5314 of title 5, United 
+        States Code, is amended by striking the following item:
+    ``President of the Export-Import Bank of Washington.''.
+            (2) Positions at level iv.--Section 5315 of title 5, United 
+        States Code, is amended--
+                    (A) by striking the following item:
+    ``First Vice President of the Export-Import Bank of Washington.''; 
+and
+                    (B) by striking the following item:
+    ``Members, Board of Directors of the Export-Import Bank of 
+Washington.''.
+    (c) Elimination of Office of Inspector General for the Bank.--
+Section 12 of the Inspector General Act of 1978 (5 U.S.C. App.) is 
+amended--
+            (1) in paragraph (1), by striking ``the President of the 
+        Export-Import Bank;''; and
+            (2) in paragraph (2), by striking ``the Export-Import 
+        Bank,''.
+    (d) Effective Date.--The repeals and amendments made by this 
+section shall take effect on the abolishment date.
+    (e) Report to Congress on Other Amendments to Federal Statute.--The 
+Secretary shall submit to the Committee on Banking, Housing, and Urban 
+Affairs of the Senate and the Committee on Financial Services of the 
+House of Representatives a written report that contains suggestions for 
+such other amendments to Federal statutes as may be necessary or 
+appropriate as a result of this Act.
 
-SEC. 204. PATENTS.
+SEC. 11. REFERENCES.
 
-    (a) In General.--Except as provided in subsection (c), any patent 
-issued by the United States under the general mining laws after the 
-date of enactment of this Act shall be issued only--
-            (1) upon payment by the owner of the claim of the fair 
-        market value for the interest in the land owned by the United 
-        States exclusive of and without regard to the mineral deposits 
-        in the land or the use of the land for mineral activities; and
-            (2) subject to reservation by the United States of the 
-        royalty provided in title IV.
-    (b) Right of Reentry.--
-            (1) Except as provided in subsection (c), and 
-        notwithstanding any other provision of law, the United States 
-        shall retain a right of reentry in lands patented under this 
-        section.
-            (2) Such right of reentry of the United States shall ripen 
-        if--
-                    (A) the Secretary, after engaging in good faith 
-                discussions with the patentee, or any subsequent 
-                owners, about the use of the land, concludes that the 
-                patentee, or any subsequent owners, has used the land 
-                for any purpose other than conducting mineral 
-                activities in good faith;
-                    (B) the Secretary has served on the patentee, or 
-                subsequent owners, in the manner prescribed for service 
-                of summons and complaint under the Federal Rule of 
-                Civil Procedure, notice specifying such unauthorized 
-                use and providing at least 90 days in which such 
-                unauthorized use must be terminated. The giving of such 
-                notice shall constitute final agency action appealable 
-                by the patentee, or any subsequent owners;
-                    (C) such use is not discontinued within the time 
-                period specified by the Secretary in the notice 
-                provided under subparagraph (B) or within sixty days 
-                after all appeal rights have expired and any appeals of 
-                such notice have been finally determined; and
-                    (D) the Secretary elects to assert the right of 
-                reentry in accordance with paragraph (3).
-            (3) The ripened right of reentry retained by the United 
-        States pursuant to subparagraph (2) shall vest and all right, 
-        title and interest in such patented estate shall revert to the 
-        United States only if--
-                    (A) the Secretary files a declaration of reentry 
-                within 6 months of the requisite occurrences under 
-                paragraph (2) with the Office of the Bureau of Land 
-                Management in the state where the lands subject to such 
-                right of reentry are situated; and
-                    (B) the Secretary records such declaration in the 
-                office of the county recorder of the county in which 
-                the lands subject to such right of reentry are situated 
-                within 30 days of the filing under subparagraph (A).
-            (4) One year after the patentee, or any subsequent owners, 
-        provides written notice to the Secretary that all mineral 
-        activities are completed and applicable reclamation is 
-        completed, the right of reentry held by the United States and 
-        created under this subsection shall expire unless within such 
-        period the Secretary notifies the patentee, or any subsequent 
-        owners, in writing that the right of reentry held by the United 
-        States will be exercised. At such time, ownership of the 
-        patented lands shall automatically revert to the United States, 
-        notwithstanding the provisions of paragraph (2). The Secretary 
-        may decline to exercise the right of reentry and such rights 
-        shall continue if--
-                    (A) solid waste or hazardous substances released on 
-                or from the patented estate may pose a threat to public 
-                safety or the environment; or
-                    (B) acceptance of title would expose the United 
-                States to liability for past mineral activities on the 
-                patented estate.
-    (c) Protection of Valid Existing Rights.--Notwithstanding any other 
-provision of law, the requirements of this Act (except with respect to 
-claim maintenance fees in accordance with section 201)--
-            (1) shall not apply to the mining claims and sites 
-        contained within those mineral patent applications pending at 
-        the Department as of September 30, 1997, which shall be 
-        processed under the general mining laws in effect immediately 
-        prior to the date of enactment of this Act; and
-            (2) likewise shall not apply to the mining claims or sites 
-        for which there is on the date of enactment of this Act a 
-        vested possessory property right against the United States 
-        under the general mining laws in effect immediately prior to 
-        the date of enactment of this Act.
+    Any reference in any other Federal law, Executive order, rule, 
+regulation, or delegation of authority, or any document of or 
+pertaining to a department or office from which a function is 
+transferred by this Act--
+            (1) to the head of such department or office is deemed to 
+        refer to the head of the department or office to which the 
+        function is transferred; or
+            (2) to such department or office is deemed to refer to the 
+        department or office to which the function is transferred.
 
-          TITLE III--SURFACE MANAGEMENT OF MINERAL ACTIVITIES
+SEC. 12. DEFINITIONS.
 
-SEC. 301. PURPOSE; APPLICABILITY; OPERATING AND RECLAMATION STANDARDS.
-
-    (a) Purpose.--It is the purpose of this title to provide for 
-mineral entry, exploration, location and operations pursuant to the 
-general mining laws in a manner that will not unduly hinder such 
-activities or diminish rights, including but not limited to all 
-statutory and common law rights of access, obtained under the general 
-mining laws or other authorities, but will assure that such activities 
-are conducted in a manner that will prevent unnecessary and undue 
-degradation of nonmineral surface resources on Federal lands. 
-Compliance with the provisions of this title shall constitute a 
-compliance with (i) the final sentence of subsection 302(b) of the 
-Federal Land Policy and Management Act (43 U.S.C. 1732(b)); and (ii) 
-any standard related to the management of surface resources within the 
-National Forest System contained in or derived from the Organic 
-Administration Act (16 U.S.C. 473 et seq.), the Multiple-Use Sustained-
-Yield Act of 1960 (16 U.S.C. 528 et seq.), the Forest and Rangeland 
-Renewable Resources Planning Act of 1974 (16 U.S.C. 1601 et seq.), or 
-any other law applicable to Federal lands subject to this title within 
-the National Forest System.
-    (b) Applicability.--This title shall apply only to mineral 
-activities on those Federal lands where the surface estate is managed 
-by the Bureau of Land Management or the Forest Service.
-    (c) Operations.--All mineral activities on Federal lands shall be 
-conducted so as to prevent unnecessary and undue degradation of Federal 
-lands by complying with applicable requirements of Federal and State 
-environmental protection laws, including but not limited to--
-            (1) the Atomic Energy Act of 1952 (42 U.S.C. 2011 et seq.);
-            (2) the Clean Air Act (42 U.S.C. 7401 et seq.);
-            (3) the Comprehensive Environmental Response, Compensation, 
-        and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
-            (4) the Endangered Species Act of 1973 (14 U.S.C. 1531 et 
-        seq.);
-            (5) the Federal Land Policy and Management Act of 1976 (43 
-        U.S.C. 1701 et seq.);
-            (6) the Federal Mine Safety and Health Act of 1977 (30 
-        U.S.C. 801 et seq.);
-            (7) the Federal Water Pollution Control Act (commonly 
-        referred to as the ``Clean Water Act'') (33 U.S.C. 1251 et 
-        seq.);
-            (8) the Forest and Rangeland Renewable Resources Planning 
-        Act of 1974 (16 U.S.C. 1600 et seq.);
-            (9) the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.);
-            (10) the National Environmental Policy Act of 1969 (42 
-        U.S.C. 4321 et seq.);
-            (11) the National Historic Preservation Act (16 U.S.C. 470 
-        et seq.);
-            (12) title XIV of the Public Health Service Act (commonly 
-        referred to as the ``Safe Drinking Water Act'') (42 U.S.C. 300f 
-        et seq.);
-            (13) the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.);
-            (14) the Toxic Substances Control Act (15 U.S.C. 2601 et 
-        seq.); and
-            (15) the Uranium Mill Tailings Radiation Control Act of 
-        1978 (42 U.S.C. 7901 et seq.).
-    (d) Reclamation.--In order to prevent unnecessary and undue 
-degradation of surface resources, Federal lands disturbed by mineral 
-activities shall be reclaimed, to the extent economically and 
-technically practicable, in compliance with the provisions of section 
-304.
-    (e) Designated Lands.--Where any mineral activities are to be 
-conducted on Federal lands administered by the Bureau of Land 
-Management or the Forest Service specifically designated by any special 
-Act of Congress that applies a specific land management, resource 
-protection or reclamation standard (such as wild and scenic rivers and 
-designated wilderness) to such lands, such management or protection 
-standard shall apply to the extent of any conflict with the provisions 
-of this title.
-
-SEC. 302. AUTHORIZATION FOR MINERAL ACTIVITIES.
-
-    (a) In General.--Except as otherwise provided in subsections (b) 
-and (c) of this section, no person may engage in mineral activities on 
-Federal lands unless that person has filed a plan of operations with, 
-and received approval of the plan from, the Secretary in accordance 
-with section 303.
-    (b) Notice Required.--
-            (1) A person may engage in mineral activities on Federal 
-        lands that cause only minor, short term, readily reclaimable 
-        impacts on surface resources, including but not limited to 
-        initial exploratory test hole drilling and road limited to 
-        initial exploratory test hole drilling and road construction, 
-        only after filing with the Secretary a notice of intent to 
-        conduct such activities.
-            (2) Such notice shall include--
-                    (A) the name and mailing address of the operator;
-                    (B) when applicable, the name of the mining 
-                claim(s) or site(s), and serial number(s) assigned to 
-                the mining claim(s) or site(s) on which mineral 
-                activities are proposed;
-                    (C) a statement describing the activities proposed 
-                and their location in sufficient detail to locate the 
-                operations on the ground, and giving the approximate 
-                date when activities will begin. The statement shall 
-                include a description and the location of any access 
-                routes to be constructed or improved and the type of 
-                equipment to be used in their construction;
-                    (D) a statement that reclamation of all areas will 
-                be completed as required by subsection 301(d), and that 
-                mineral activities will comply with the operations 
-                standard as required by subsection 301(c); and
-                    (E) evidence of financial assurance as required by 
-                section 306.
-            (3) Failure of the operator to conduct mineral activities 
-        in conformance with the notice and the requirements of this 
-        title may cause the operator to be subject to enforcement 
-        pursuant to section 308.
-            (4) The Secretary shall review the notice within thirty 
-        days of receipt. If the Secretary determines that the proposed 
-        mineral activities will, or are likely to cause more than 
-        minor, short term, readily reclaimable impacts on surface 
-        resources, the Secretary shall provide a statement of reasons 
-        explaining why the mineral activities cannot proceed under 
-        notice and shall require in writing that the operator submit a 
-        proposed plan of operations in accordance with the requirements 
-        of section 303. Failure of the Secretary to respond in writing 
-        within thirty days of receipt of the notice shall be deemed to 
-        be approval of the mineral activities proposed in the notice.
-            (5) The Secretary shall establish by regulation from time 
-        to time additional categories of mineral activities which may 
-        be conducted under notice based on the amount of surface to be 
-        disturbed, the type of equipment to be used, the time required 
-        for reclamation, and other relevant factors.
-    (c) Other Mineral Activities.--Notwithstanding the provisions of 
-subsections (a) and (b), any person may conduct mineral activities on 
-Federal lands which cause only a minimal disturbance of surface 
-resources, including but not limited to claim location; exploration; 
-geological, geophysical or geochemical surveys; environmental baseline 
-monitoring; activities related to the gathering of data related to the 
-preparation or analysis of a notice or plan of operations under this 
-title, or required under any other applicable Federal or State 
-environmental law or regulation; and other activities designated by the 
-Secretary, without filing a notice or plan of operations with the 
-Secretary.
-    (d) Transfer of Rights.--An operator may transfer, assign or sell 
-any rights associated with a notice without approval by the Secretary: 
-Provided, That the successor in interest agrees in writing to assume 
-the liabilities and reclamation responsibilities established under 
-subsection (b) and provides evidence of financial assurance as required 
-under section 306. The transfer, assignment or sale shall not become 
-effective prior to the filing of such writing and evidence of financial 
-assurance with the Secretary. The financial assurance of the transferee 
-shall be substituted for the assurance previously submitted by the 
-transferor and the financial assurance of the transferor shall be fully 
-released.
-
-SEC. 303. PLAN OF OPERATIONS; CONTENT, REVIEW AND APPROVAL.
-
-    (a) Plan of Operations Requirements.--A plan of operations required 
-under this title shall contain--
-            (1) the name and mailing address of the operator;
-            (2) when applicable, the name of the mining claim(s) or 
-        site(s), and serial number(s) assigned to the mining claim(s) 
-        or site(s) on which mineral activities are proposed;
-            (3) a general description of the mineral activities 
-        proposed, including the anticipated periods during which the 
-        proposed mineral activities will occur;
-            (4) a map showing existing and/or proposed routes of 
-        surface access, or other means of access, and identifying areas 
-        where surface disturbance will occur;
-            (5) information describing the land and water resources of 
-        the area expected to be disturbed by the proposed mineral 
-        activities and any proposed mitigation measures necessary to 
-        comply with the requirements of this title;
-            (6) a reclamation plan which includes proposed measures to 
-        reclaim Federal lands disturbed by the proposed mineral 
-        activities as required under subsection 301(d);
-            (7) evidence of adequate financial assurance as required 
-        under section 306; and
-            (8) a monitoring plan to assure compliance with the 
-        requirements of the plan of operations.
-    (b) Plan of Operations Review.--A proposed plan of operations shall 
-be submitted to the Secretary, who shall promptly acknowledge receipt 
-thereof to the operator. The Secretary shall promptly review the 
-proposed plan of operations and shall notify the operator within thirty 
-days--
-            (1) that the plan of operations has been approved as 
-        submitted;
-            (2) of all changes in, or additions to the proposed plan of 
-        operations necessary to comply with the requirements of this 
-        title; or
-            (3) that a specified reasonable amount of time is necessary 
-        to complete the review, setting forth the circumstances which 
-        justify the additional time.
-    (c) Mineral Activities Pending Review.--Any operator who has 
-submitted a plan of operations under this section may continue to 
-conduct mineral activities otherwise authorized pursuant to subsections 
-(b) and (c) of section 302 within the geographic area covered by the 
-proposed plan of operations pending its approval.
-    (d) Plan of Operations Approval.--
-            (1) The Secretary shall approve a proposed plan of 
-        operations within a reasonable period of time if--
-                    (A) the proposed plan of operations substantially 
-                complies with the requirements of this title; and
-                    (B) the applicant has complied with the 
-                requirements of section 306 concerning financial 
-                assurance.
-            (2) If, after review, the Secretary determines that a 
-        proposed plan of operations will not substantially comply with 
-        the requirements of this title, the Secretary shall specify all 
-        deficiencies in the proposed plan, shall request the operator 
-        to modify the proposed plan to comply with the requirements of 
-        this title and shall specify all necessary modifications to the 
-        proposed plan.
-    (e) Modifications to an Approved Plan of Operations.--
-            (1) Minor modifications.--At any time during which mineral 
-        activities are being conducted under an approved plan of 
-        operations, an operator may make minor modifications to the 
-        approved plan of operations by notifying the Secretary. Failure 
-        of the Secretary to respond in writing within thirty days of 
-        receipt of the proposed minor modification shall be deemed to 
-        be approval of the minor modification. For purposes of this 
-        title, a ``minor modification'' is a change to the approved 
-        plan of operations that is not likely to result in significant 
-        impacts to surface resources different from those previously 
-        considered in the approved plan of operations.
-            (2) Review of minor modifications.--If the Secretary 
-        determines that a proposed minor modification may be 
-        significant, the Secretary shall provide a statement of reasons 
-        and may require the operator to submit a significant 
-        modification to the plan of operations pursuant to paragraph 
-        (3) of this subsection.
-            (3) Significant modification.--At any time during 
-        activities under an approved plan of operations, the operator 
-        may propose a significant modification to the approved plan of 
-operations. A significant modification must be submitted, reviewed and 
-approved in the same manner as a plan of operations under this section, 
-except that the modification need not include information required 
-under subsection 303(a) if the modification requires no change to such 
-information: Provided, however, That approval of such modification 
-shall neither require nor be denied or conditioned upon retrofit, 
-redesign, reconstruction, closure or change in the operation of any 
-facility, structure or mineral activity previously approved. For 
-purposes of this title, a ``significant modification'' is a change to 
-the approved plan of operations which is likely to result in 
-significant impacts to surface resources different from those 
-previously considered in the approved plan of operations.
-            (4) Request by secretary.--At any time during which mineral 
-        activities are being conducted under an approved plan of 
-        operations, the Secretary may request that an operator submit a 
-        modification to the approved plan of operations together with a 
-        written determination that such modification is necessary to 
-        prevent unnecessary and undue degradation of Federal lands as 
-        required by section 301. The Secretary's determination that a 
-        modification is necessary shall be subject to notice to the 
-        operator and a right to a hearing at the request of the 
-        operator. If the Secretary has requested a modification under 
-        this paragraph, mineral activities may continue in accordance 
-        with the approved plan of operations until the modification is 
-        submitted, reviewed and approved.
-    (f) Term.--An approved plan of operations shall remain in effect as 
-approved until the mineral activities subject to the approved plan of 
-operations are completed or until the plan of operations are completed 
-or until the plan of operations is modified.
-    (g) Transfer of Rights.--An operator may transfer, assign or sell 
-any rights associated with an approved plan of operations without 
-approval by the Secretary, provided that the successor in interest 
-agrees in writing to assume the liabilities and reclamation 
-responsibilities established by the approved plan of operations and 
-provide evidence of financial assurance as required under section 306. 
-The transfer, assignment or sale shall not become effective prior to 
-the filing of such writing and evidence of financial assurance with the 
-Secretary. The financial assurance of the transferee shall be 
-substituted for the assurance previously submitted by the transferor, 
-and the financial assurance of the transferor shall be fully released.
-
-SEC. 304. RECLAMATION.
-
-    A reclamation plan submitted with a proposed plan of operations 
-pursuant to section 303 shall include appropriate measures to comply 
-with substantive reclamation requirements of the State in which the 
-proposed mineral activities will be located to the extent that those 
-requirements are not in conflict with the purposes of the general 
-mining laws and this Act, and the applicable provisions of State and 
-Federal environmental protection laws, including those Federal laws 
-listed in subsection 301(c). A proposed reclamation plan that complies 
-with such State and Federal requirements shall be deemed sufficient to 
-prevent unnecessary and undue degradation and to comply with subsection 
-301(d), and certification or other approval issued by a State or 
-Federal agency of compliance with such laws shall be deemed compliance 
-with this section.
-
-SEC. 305. TRANSITION RULES.
-
-    (a) Applicability to Existing Operations.--Mineral activities for 
-which an operator is authorized to proceed under notice or for which a 
-plan of operations has been approved prior to the date of enactment of 
-this Act shall continue under the terms and conditions of such notice 
-or plan. Notices which were filed within thirty days of the effective 
-date of enactment of this Act, and plans of operations which have been 
-submitted before but not approved on the date of enactment of this Act, 
-shall be reviewed based on the law existing on the day prior to the 
-date of enactment of this Act. Significant modifications to approved 
-plans of operations shall be submitted, reviewed, and approved pursuant 
-to the applicable requirements of this title: Provided, however, That 
-approval of such modifications shall neither require nor be conditioned 
-upon retrofit, redesign, reconstruction, closure or change in the 
-operation of any facility, structure or mineral activity previously 
-approved.
-    (b) Enforcement and Financial Assurance.--Notwithstanding the 
-provisions of subsection (a), the enforcement provisions of section 308 
-shall apply to all mineral activities on the effective date of this Act 
-and, within one year after the effective date of this Act, all 
-operators operating under notice or a plan of operations shall submit 
-to the Secretary evidence of adequate financial assurance as may be 
-required under section 306.
-
-SEC. 306. FINANCIAL ASSURANCE.
-
-    (a) Evidence of Financial Assurance.--
-            (1) Prior to the commencement of any mineral activities 
-        requiring a plan of operations, an operator shall furnish 
-        evidence to the Secretary of a bond, surety, self-insurance or 
-        other financial assurance (including the use of bonding pools 
-        or a financial assurance instrument posted with a State or 
-        another Federal agency) in an amount sufficient to cover the 
-        reasonably estimated cost to complete reclamation as required 
-        by the plan of operations.
-            (2)(A) Prior to conducing notice activities subject 
-to subsection 302(b), the operator shall comply with the financial 
-assurance requirements promulgated by the Secretary applicable to such 
-notice activities. Such requirements shall allow operators or owners of 
-mining claims or sites to use bonding pools or statewide or nationwide 
-bonds. Statewide or nationwide bonds shall be in amounts fixed by 
-regulation that cover notice activities at multiple locations statewide 
-or nationwide, as appropriate.
-            (B) For such notice activities conducted between the date 
-        of enactment of this Act and the effective date of such 
-        regulations, the operator or owner of the mining claim or site 
-        shall provide evidence of financial assurance, in the form and 
-        manner authorized by the Secretary's regulations in effect on 
-        the date of enactment of this Act, in an amount sufficient to 
-        cover the reasonable estimated cost of reclamation required as 
-        a result of such notice activities.
-    (b) Review and Adjustment.--Not later than five years after the 
-financial assurance is provided, and each five years thereafter, or at 
-the request of the operator, the Secretary shall review its adequacy 
-and may increase or decrease the amount of the financial assurance 
-based upon changed circumstances, including a determination by the 
-Secretary that a portion of the reclamation has been completed.
-    (c) Financial Assurance for Increments.--Financial assurance for 
-increments of mineral activities may be authorized if the financial 
-assurance for an increment covers all reclamation costs within the area 
-covered by the notice or plan of operations for that increment. After 
-reclamation is completed, an operator may apply for, and the Secretary 
-may grant, release of the financial assurance for the completed 
-increment.
-
-SEC. 307. FEDERAL AND STATE AUTHORITY AND COOPERATION.
-
-    (a) Cooperative Agreement.--
-            (1) Upon request from a State, the Secretary shall enter 
-        into a cooperative agreement with that State for joint 
-        administration of the requirements of this title relating to 
-        mineral activities requiring a notice or plan of operations, 
-        financial assurances, reclamation, inspection and enforcement 
-        if the Secretary determines in writing that such State has the 
-        capability to implement the agreement in a manner consistent 
-        with the purposes of this title. A cooperative agreement may 
-        cover (i) some or all of the responsibilities enumerated in 
-        this paragraph, and (ii) some or all mineral activities on 
-        Federal lands within a State.
-            (2) Under a cooperative agreement, a State and the 
-        Secretary may jointly administer mineral activities on Federal 
-        lands. The State and the Secretary shall make an independent 
-        and timely decision regarding individual plans of operation 
-        under this title, but in no event shall the State's authority 
-        under applicable Federal environmental protection statutes be 
-        restricted.
-            (3) Under a cooperative agreement, the State may conduct 
-        inspections and monitoring activities, and take enforcement 
-        actions deemed necessary to determine or require compliance 
-        with the requirements of this Act, other than recommending 
-        civil actions under section 308. The Secretary may not take 
-        enforcement action where a State under a cooperative agreement 
-        already has initiated appropriate enforcement action unless the 
-        State requests that the Secretary recommend initiation of a 
-        civil action under section 308.
-            (4) Under a cooperative agreement, the financial assurance 
-        sufficient to cover reclamation of Federal lands shall be 
-        calculated based on the completion of both the Federal and 
-        State reclamation requirements, and may be held as one bond. 
-        The financial assurance shall be approved by both the Secretary 
-        and the State prior to approval of a plan of operations, and 
-        the Secretary and the State may agree that the financial 
-        assurance may not be released without Federal and State 
-        concurrence. Financial assurance that duplicates financial 
-        assurance required under other State or Federal law shall not 
-        be required under this title.
-            (5) If a cooperative agreement is entered into pursuant to 
-        this section, the Secretary shall, subject to appropriations, 
-        reimburse the State for its regulatory costs in an amount 
-        approximating, but not exceeding, the reasonably estimated 
-        amount the Secretary would have reasonably expended absent a 
-        cooperative agreement.
-            (6) Each cooperative agreement entered into pursuant to 
-        this section shall provide that (i) the Secretary shall take 
-        appropriate action, including termination of the agreement, 
-        upon a determination that State performance under the agreement 
-        is not in substantial compliance with the agreement or the 
-        requirements of this title, and (ii) prior to taking any such 
-        action, the Secretary shall provide notice to the State 
-        allowing the State a reasonable time to come into substantial 
-        compliance.
-    (b) Existing Agreements.--Any cooperative agreement or memorandum 
-of understanding between the Secretary and any State related to the 
-surface management of mineral activities on Federal lands subject to 
-this Act in existence on the date of enactment of this Act shall 
-continue in force unless the Secretary determines such agreement or 
-memorandum of understanding is inconsistent with the provisions of this 
-title.
-
-SEC. 308. ENFORCEMENT, ADMINISTRATIVE AND JUDICIAL REVIEW.
-
-    (a) Inspections.--The Secretary, or a State if the State has 
-entered into a cooperative agreement pursuant to section 307, shall 
-conduct a minimum of one complete inspection each year of mineral 
-activities for which a plan of operations or notice is required under 
-section 302 to ensure compliance with the terms of the plan or notice. 
-The operator shall grant access at reasonable times and under 
-reasonable circumstances to the appropriate designated representative 
-of the Secretary or State when requested. The Secretary or the State 
-must give reasonable notice to the operator before commencing any 
-inspection. The Secretary or the State may inspect more frequently, if 
-warranted, and may modify the inspection schedule as necessary for 
-mineral activities that are conducted on a seasonal basis.
-    (b) Compliance Orders.--
-            (1) Whenever, on the basis of any inspection authorized by 
-        subsection (a), the Secretary finds that the operator is in 
-        violation of any term or condition of a plan of operations or 
-        notice, the Secretary may issue an order requiring the operator 
-        to comply with such requirement, or may request the Attorney 
-        General to bring a civil action in accordance with subsection 
-        (c): Provided, however, That the Secretary shall not request 
-        commencement of a civil action if (i) the violation is 
-        corrected within thirty days, and (ii) the violation is neither 
-        causing nor likely to cause irreparable harm to the environment 
-        or a threat to human health or safety.
-            (2) Any order issued under this subsection shall state with 
-        reasonable specificity the nature of the violation and shall 
-        require compliance within a reasonable period of time specified 
-        in the order. The Secretary may extend the time specified for 
-        compliance for a reasonable period, considering the seriousness 
-        of the violation and any good faith efforts to comply with the 
-        terms and conditions of the plan of operation.
-    (c) Civil Actions.--At the request of the Secretary, the Attorney 
-General may institute a civil action in the district court of the 
-United States for the district in which the affected operation is 
-located for a temporary restraining order, injunction, civil penalties 
-as provided in subsection (d), or other appropriate remedy, when the 
-operator (i) violates or refuses to comply with an order issued by the 
-Secretary under subsection (b), or (ii) refuses to allow an inspection 
-authorized under subsection (a).
-    (d) Civil Penalties.--An operator that fails to comply with the 
-requirements applicable to mineral activities conducted under notice 
-pursuant to section 302 or the terms or conditions of a plan of 
-operations approved under section 302, after notice of such failure and 
-expiration of a reasonable period allowed for abatement as specified 
-pursuant to subsection (b), is subject to a civil penalty of not more 
-than $5,000 for each day of the continuance of such noncompliance. In 
-determining the amount of the penalty, the court shall consider the 
-existence of previous violations at the operation, the seriousness of 
-the violation, the likelihood of irreparable harm to the environment 
-and any hazard to the health or safety of the public, whether the 
-operator was negligent, and the good faith of the operator.
-    (e) Administrative Review.--
-            (1) Any operator issued a compliance order under this 
-        section may apply to the Secretary for review of the order 
-        within thirty days of receipt thereof, or as the case may be, 
-        within thirty days of such order being modified.
-            (2) The Secretary shall provide an opportunity for a 
-        hearing on the record at the request of the operator.
-            (3) Pending completion of any review proceedings under this 
-        subsection, the operator may file with the Secretary a written 
-        request that the Secretary grant temporary relief from any 
-        order issued under this section, supported by a detailed 
-        statement of reasons for such relief. The Secretary shall 
-        expeditiously issue an order or decision granting or denying 
-        such relief.
-    (f) Final Agency Action.-- Final agency action under this title 
-shall be subject to judicial review pursuant to 5 U.S.C. 701-706 and 28 
-U.S.C. 1331.
-
-SEC. 309. SAVINGS CLAUSE.
-
-    The provisions of this title shall supersede any provision of the 
-general mining laws or the Federal Land Policy and Management Act, and 
-any standard related to the management of surface resources within the 
-National Forest System contained in or derived from the Organic 
-Administration Act (16 U.S.C. 473 et seq.), the Multiple-Use Sustained-
-Yield Act of 1960 (16 U.S.C. 528 et seq.), the Forest and Rangeland 
-Renewable Resources Planning Act of 1974 (16 U.S.C. 1601 et seq.), or 
-any other law applicable to Federal lands subject to this title within 
-the National Forest System, and any rules promulgated under such laws, 
-only to the extent that such laws or rules conflict or are inconsistent 
-with the provisions of this title. Orders, rules and regulations in 
-effect as of the date of enactment of this Act which govern surface 
-management of mineral activities shall remain in effect under the 
-authority of this title.
-
-                           TITLE IV--ROYALTY
-
-SEC. 401. ROYALTY.
-
-    (a) In General.--The production and sale of locatable minerals 
-(including associated minerals) from any unpatented mining claim (other 
-than those from Federal lands to which subsection 204(b) applies) or 
-any mining claim patented under subsection 204(a) shall be subject to a 
-royalty of 5 percent of the Net Proceeds from such production mined and 
-sold from such claim.
-    (b) Royalty Exclusion.--
-            (1) The royalty payable under this title shall be waived 
-        for any person with annual Net Proceeds from mineral production 
-        subject to subsection (a) of less than $50,000.
-            (2) The obligation to pay royalties hereunder shall accrue 
-        only upon the sale of locatable minerals or mineral products 
-        produced from a mining claim subject to such royalty, and not 
-        upon the stockpiling of the same for future processing.
-            (3) Where mining operations subject to this section are 
-        conducted in two or more places by the same person and qualify 
-        for a waiver under subsection 202(a) the operations shall be 
-        considered a single operation the aggregate Net Proceeds from 
-        which shall be subject to the $50,000 limitation set forth in 
-        this subsection.
-            (4) No royalty shall be payable pursuant to this title with 
-        respect to minerals processed at a facility by the same person 
-        or entity which extracted the minerals if an urban development 
-        action grant has been made under section 119 of the Housing and 
-        Community Development Act of 1974 with respect to any portion 
-        of such facility.
-    (c) Definitions.--For the purposes of this title, the term:
-            (1) ``Gross Yield'' shall mean--
-                    (A) in the case of sales of gold and silver ore, 
-                concentrates or bullion, or the sales of other 
-                locatable minerals in the form of ore or concentrates, 
-                the actual proceeds of sale of such ore, concentrates 
-                or bullion;
-                    (B) in the case of sales of beneficiated products 
-                from locatable minerals other than those subject to 
-                section 401(c)(1)(A), such as cathode, anode or copper 
-                rod or wire, or other products fabricated from the 
-                locatable minerals, the gross income from mining 
-                derived from the first commercially marketable product 
-                determined in the same manner as under section 613 of 
-                the Internal Revenue Code of 1986;
-                    (C) in the event that ore, concentrates, 
-                beneficiated or fabricated products or locatable 
-                minerals are used or consumed and are not sold in an 
-                arms length transaction, the reasonable fair market 
-                value of the ore, concentrates, beneficiated or 
-                fabricated products at the mine or wellhead determined 
-                from the first applicable of the following:
-                            (i) published or other competitive selling 
-                        prices of locatable minerals of like kind and 
-                        grade;
-                            (ii) any proceeds of sale;
-                            (iii) value received in exchange for any 
-                        thing or service; or
-                            (iv) the value of any locatable minerals in 
-                        kind or used or consumed in a manufacturing 
-                        process or in providing a service; and
-                    (D) without limiting the foregoing, the profits or 
-                losses incurred in connection with forward sales, 
-                futures or commodity options trading, metal loans, or 
-                any other price hedging or speculative activity or 
-                arrangement shall not be included in Gross yield.
-            (2) ``Net Proceeds'' shall mean Gross Yield, less the sum 
-        of the following allowable deductions for costs incurred prior 
-        to sale or value determination, and none other:
-                    (A) The actual cost of extracting the locatable 
-                mineral.
-                    (B) The actual cost of transporting the locatable 
-                mineral from the claim to the place or places of 
-                reduction, beneficiation, refining, and sale.
-                    (C) The actual cost of reduction, beneficiation, 
-                refining, and sale of the locatable mineral.
-                    (D) The actual cost of marketing and delivering the 
-                locatable mineral and the conversion of the locatable 
-                mineral into money.
-                    (E) The actual cost of maintenance and repairs of--
-                            (i) all machinery, equipment, apparatus, 
-                        and facilities used in the mine;
-                            (ii) all crushing, milling, leaching, 
-                        refining, smelting, and reduction works, 
-                        plants, and facilities; and
-                            (iii) all facilities and equipment for 
-                        transportation.
-                    (F) The actual cost for support personnel and 
-                support services at the mine site, including without 
-                limitation, accounting, assaying, drafting and mapping, 
-                computer services surveying, housing, camp, and office 
-                expenses, safety, and security.
-                    (G) The actual cost of engineering, sampling, and 
-                assaying pertaining to development and production.
-                    (H) The actual cost of permitting, reclamation, 
-                environmental compliance and monitoring.
-                    (I) The actual cost of fire and other insurance on 
-                the machinery, equipment, apparatus, works, plants, and 
-                facilities mentioned in subparagraph (E).
-                    (J) Depreciation of the original capitalized cost 
-                of the machinery, equipment, apparatus, works, plants, 
-                and facilities listed in subparagraph (E). The annual 
-                depreciation charge shall consist of amortization of 
-                the original cost in a manner consistent with the 
-                Internal Revenue Code of 1986, as amended from time to 
-                time. The probable life of the property represented by 
-                the original cost must be considered in computing the 
-                depreciation charge.
-                    (K) All money expended for premiums for industrial 
-                insurance, and the owner paid cost of hospital and 
-                medical attention and accident benefits and group 
-                insurance for all employees engaged in the production 
-                or processing of locatable minerals.
-                    (L) All money paid as contributions or payments 
-                under State unemployment compensation law, all money 
-                paid as contributions under the Federal Social Security 
-                Act, and all money paid to State government in real 
-                property taxes and severance or other taxes measured or 
-                levied on production, or Federal excise tax payments 
-                and payments as fees or charges for use of the Federal 
-                lands from which the locatable minerals are produced.
-                    (M) The actual cost of developmental work in or 
-                about the mine or upon a group of mines when operated 
-                as a unit.
-    (d) Limitations and Allocations of Net Proceeds, Gross Yield, and 
-Allowable Deductions.--
-            (1) The several deductions listed in subparagraph (c)(2) 
-        are intended to allow a reasonable allowance for overhead: 
-        Provided, That they do not include any expenditures for 
-        salaries, or any portion of salaries, of any person not 
-        actually engaged in--
-                    (A) the working of the mine;
-                    (B) the operating of the leach pads, ponds, plants, 
-                mills, smelters, or reduction works;
-                    (C) the operating of the facilities or equipment 
-                for transportation; or
-                    (D) superintending the management of any of those 
-                operations described in subparagraphs (A)-(C).
-            (2) Ores or solutions of locatable minerals, subject to the 
-        royalty requirements of this title, may be extracted from mines 
-        comprised of mining claims and lands other than mining claims. 
-        Ore or solutions of locatable minerals, subject to the royalty 
-        requirements of this section, may be commingled with ores or 
-        solutions from lands other than mining claims. In any such 
-        case, for the purposes of determining the amount of royalties 
-        payable under this title--
-                    (A) the operator shall first sample, weigh or 
-                measure, and assay the same in accordance with accepted 
-                industry standards; and
-                    (B) Gross Yield, allowable costs and Net Proceeds 
-                for royalty purposes shall be allocated in proportion 
-                to mineral products recovered from the mining claims in 
-                accordance with accepted industry standards.
-    (e) Liability for Royalty Payments.--The owner or co-owners of a 
-mining claim subject to a royalty under this title shall be liable for 
-such royalty to the extent of the interest in such claim owned. As used 
-in this subsection, ``owner'' and ``co-owner'' mean the person or 
-persons owning the right to mine locatable minerals from such claim and 
-receiving the Net Proceeds of such sale. No person who makes any 
-royalty payment attributable to the interest of the owner or co-owners 
-liable therefor shall become liable to the United States for such 
-royalty as a result of making such payment on behalf of such owner or 
-co-owners.
-    (f) Time and Manner of Payments.--
-            (1) Royalty payments for production from any mining claim 
-        subject to a royalty under this title shall be due to the 
-        United States at the end of the month following the end of the 
-        calendar quarter in which the Net Proceeds from the sale of 
-        such production are received by the owner or co-owners. Royalty 
-        payments may be made based upon good faith estimates of the 
-        Gross Yield, Net Proceeds and the quantity of ore, 
-        concentrates, or other beneficiated or fabricated products of 
-        locatable minerals, subject to adjustment when the actual 
-        annual Gross Yield, Net Proceeds and quantity are determined by 
-        the owner or co-owners of the mining claim.
-            (2) Each royalty payment or adjustment shall be accompanied 
-        by a statement containing each of the following:
-                    (A) the name and Bureau of Land Management serial 
-                number of the mining claim or claims from which ores, 
-                concentrates, solutions or beneficiated products of 
-                locatable minerals subject to the royalty required in 
-                this section were produced and sold for the period 
-                covered by such payment or adjustment;
-                    (B) the estimated (or actual, if determined) 
-                quantity of such ore, concentrates, solutions or 
-                beneficiated or fabricated products produced and sold 
-                from such mining claim or claims for such period;
-                    (C) the estimated (or actual, if determined) Gross 
-                Yield from the production and sale of such ore, 
-                concentrates, solutions or beneficiated products for 
-                such period;
-                    (D) the estimated (or actual, if determined) Net 
-                Proceeds from the production and sale of such 
-ores, concentrates, solutions or beneficiated products for such period, 
-including an itemization of the applicable deductions described in 
-paragraph (c)(2); and
-                    (E) the estimated (or actual, if determined) 
-                royalty due to the United States, or adjustment due to 
-                the United States from such owner or co-owners, for 
-                such period.
-            (3) In lieu of receiving a refund under subsection (h)(2), 
-        the owner of co-owners may elect to apply any adjustment due to 
-        such owner or co-owners as an offset against royalties due from 
-        such owner or co-owners to the United States under this Act, 
-        regardless of whether such royalties are due for production and 
-        sale from the same mining claim or claims.
-    (g) Recordkeeping and Reporting Requirements.--
-            (1) An owner, operator, or other person directly involved 
-        in conducting mineral activities, transportating, purchasing, 
-        or selling of locatable minerals, concentrates, or products 
-        derived therefrom, subject to a royalty under this title, 
-        through the point of royalty computation, shall establish and 
-        maintain any records, make any reports, and provide any 
-        information that the Secretary may reasonably require for the 
-        purposes of implementing this title or determining compliance 
-        with regulations or orders under this title. Upon the request 
-        of the Secretary when conducting an audit or investigation 
-        pursuant to subsection (i), the appropriate records, reports, 
-        or information which may be required by this title shall be 
-        made available for inspection and duplication by the Secretary.
-            (2) Records required by the Secretary under this title 
-        shall be maintained for three years after the records are 
-        generated unless the Secretary notifies the record holder that 
-        he or she has initiated an audit or investigation specifically 
-        identifying and involving such records and that such records 
-        must be maintained for a longer period. When an audit or 
-        investigation is under way, such records shall be maintained 
-        until the earlier of the date that the Secretary releases the 
-        record holder of the obligation to maintain such records or the 
-        date that the limitations period applicable to such audit or 
-        investigation under subsection (i) expires.
-    (h) Interest Assessments.--
-            (1) If any royalty payments under this title are not 
-        received by the Secretary on the date that such payments are 
-        due, or if such payments are less than the amount due, the 
-        Secretary shall charge interest on such unpaid amount. Interest 
-        under this subsection shall be computed at the rate published 
-        by the Department of the Treasury as the ``Treasury Current 
-        Value of Funds Rate''. In the case of an underpayment or 
-        partial payment, interest shall be computed and charged only on 
-        the amount of the deficiency and not on the total amount, and 
-        only for the number of days such payment is late. No other late 
-        payment or underpayment charge or penalty shall be charged with 
-        respect to royalties under this title.
-            (2) In any case in which royalty payments are made in 
-        excess of the amount due, or amounts are held by the Secretary 
-        pending the outcome of any appeal in which the Secretary does 
-        not prevail, the Secretary shall promptly refund such 
-        overpayments or pay such amounts to the person or persons 
-        entitled thereto, together with interest thereon for the number 
-        of days such overpayment or amounts were held by the Secretary, 
-        with the addition of interest charged against the United States 
-        computed at the rate published by the Department of the 
-        Treasury as the ``Treasury Current Value of Funds Rate''.
-    (i) Audits, Payment Demands, and Limitations.--
-            (1) The Secretary may conduct, after notice, any audit 
-        reasonably necessary and appropriate to verify the royalty 
-        payment required under this title. Notice of such audit shall 
-        be provided to all owners, co-owners, and mine managers.
-            (2) The Secretary shall send or issue any billing or demand 
-        letter for royalty due on locatable minerals produced and sold 
-        from any mining claim subject to a royalty under this title not 
-        later than three years after the date such royalty was due and 
-        must specifically identify the production involved, the royalty 
-        allegedly due and the basis for the claim. No action, 
-        proceeding or claim for royalty due on locatable minerals 
-        produced and sold, or relating to such production, may be 
-        brought by the United States, including but not limited to any 
-        claim for additional royalties or claim of the right to offset 
-        the amount of such additional royalties against amounts owed to 
-        any person by the United States, unless judicial suit or 
-        administrative proceedings are commenced to recover specific 
-        amounts claimed to be due prior to the expiration of three 
-        years from the date such royalty is alleged to have been due.
-    (j) Confidentialty.--The Secretary shall maintain the 
-confidentiality of all information obtained under this title.
-    (k) Transitional Rules.--Any mining claim for which a patent is 
-issued pursuant to subsection 204(c) shall not be subject to the 
-obligation to pay the royalty pursuant to this section. Royalty 
-payments for any claim processed under subsection 204(c) shall be 
-suspended pending final determination of the right to patent. For any 
-claim that does not qualify for the issuance of a patent under 
-subsection 204(c), royalties shall be payable under this title on 
-production after the date of enactment of this Act, plus interest 
-computed at the rate published by the Department of the Treasury as the 
-``Treasury Current Value of Funds Rate'' on production after such date 
-of enactment and before the date of such determination.
-    (l) Disbursement of Revenues.--Subject to appropriations, all 
-receipts from royalties collected under this section shall be paid into 
-a State Fund or Federal Fund in accordance with sections 501 and 502; 
-until termination as provided in section 506 of this Act.
-    (m) No Implied Covenants.--The owner of a mining claim subject to 
-the provisions of this title shall have no obligation, expressed or 
-implied, to explore for, develop, produce or market locatable minerals 
-as a result of the obligation to pay royalty hereunder, and the timing, 
-nature, extent and manner of exploring, developing, mining and 
-marketing such locatable minerals shall be in the sole discretion of 
-the claim owner.
-    (n) Penalties.--Any person who withholds payment or royalties under 
-this title after a final, nonappealable determination of liability may 
-be liable for civil penalties of up to $5,000 per day that payment is 
-withheld after becoming due.
-
-    TITLE V--ABANDONED LOCAT- ABLE MINERALS MINE RECLAMATION PROGRAM
-
-SEC. 501. ABANDONED LOCATABLE MINERAL MINE RECLAMATION FUND.
-
-    (a) State Fund.--Any State within which royalties, maintenance fees 
-or location fees are collected pursuant to this Act from a mining claim 
-and which elects to become eligible to receive such funds shall 
-establish and maintain an interest-bearing abandoned locatable mineral 
-mine reclamation fund (referred to in this Act as the ``State Fund'') 
-to accomplish the purposes of this title. States with existing 
-abandoned locatable mineral mine reclamation programs shall qualify to 
-receive funds under this Act.
-    (b) Federal Fund.--There is established on the books of the 
-Treasury of the United States an interest-bearing fund to be known as 
-the Abandoned Locatable Minerals Mine Reclamation Fund (referred to in 
-this Act as the ``Federal Fund'') which shall consist of royalty 
-proceeds, maintenance fees and location fees collected from mining 
-claims in a State where a State Fund has not been established or 
-maintained under subsection (a).
-
-SEC. 502. ALLOCATION AND PAYMENTS.
-
-    (a) State Fund.--Royalties, maintenance fees and location fees 
-collected pursuant to this Act shall be paid by the Secretary of the 
-Treasury to the State Fund established pursuant to subsection 501(a) 
-for the State where the mining is located. Payments to States under 
-this subsection with respect to any funds received by the United 
-States, shall be made not later than the last business day of the month 
-in which such funds are warranted by the United States Treasury to the 
-Secretary of the Interior as having been received, except for any 
-portion of such funds which is under challenge, which shall be placed 
-in a suspense account pending resolution of such challenge. Such 
-warrants shall be issued by the United States Treasury not later than 
-ten days after receipt of such funds by the Treasury. Funds placed in a 
-suspense account which are determined to be due the United States shall 
-be payable to a State Fund not later than fifteen days after such 
-challenge is resolved. Any such amount placed in a suspense account 
-pending resolution shall bear interest until the challenge is resolved. 
-In determining the amount of payments to State Funds under this 
-section, the amount of such payments shall not be reduced by any 
-administrative or other costs incurred by the United States.
-    (b) Federal Fund.--Royalties, maintenance fees and location fees 
-collected pursuant to this Act from mining claims located in a State 
-which has not established or maintained a State Fund, and such proceeds 
-from mining claims located in a State for which the Secretary's 
-authority has expired under subsection 506(a), shall be credited to the 
-Federal Fund and distributed in accordance with subsection (c).
-    (c) Transition.--Prior to the time a State establishes a State Fund 
-pursuant to subsection 501(a), any funds collected from a mining claim 
-within such State shall be deposited into the Federal Fund and 
-allocated to such State. Once a State establishes a State Fund under 
-subsection 501(a), the State allocation in the Federal Fund with 
-accrued interest shall be paid by the Secretary of the Treasury to the 
-State Fund in accordance with subsection (a). Commencing three years 
-after the date of enactment of this Act, the Secretary of the Treasury 
-shall distribute funds then accrued or which are thereafter credited to 
-the Federal Fund equally among all States which maintain a State Fund 
-established under subsection 501(a), and for which the Secretary of the 
-Treasury's authority has not expired under subsection 506(a).
-
-SEC. 503. ELIGIBLE AREA.
-
-    (a) In General.--Subject to subsection (b), lands and water 
-eligible for reclamation under this title shall be Federal lands that--
-            (1) have been adversely affected by past mineral activities 
-        on lands abandoned and left inadequately reclaimed prior to the 
-        date of enactment of this Act; and
-            (2) for which the State determines there is no identifiable 
-        party with a continuing reclamation responsibility under State 
-        or Federal laws.
-    (b) Specific Sites and Areas Not Eligible.-- The following areas 
-shall not be eligible for expenditures from a State Fund:
-            (1) Any area subject to a plan of operations submitted or 
-        approved prior to, on or after the date of enactment of this 
-        Act which includes remining or reclamation of the area 
-        adversely affected by past locatable mineral activities.
-            (2) Any area affected by coal mining eligible for 
-        reclamation expenditures pursuant to section 404 of the Surface 
-        Mining Control and Reclamation Act (30 U.S.C. 1234),
-            (3) Any area designated for remedial action pursuant to the 
-        Uranium Mill Tailings Radiation Control Act of 1978 (42 U.S.C. 
-        7912), and
-            (4) Any area that was listed on the National Priorities 
-        List pursuant to the Comprehensive Environmental Response, 
-        Compensation and Liability Act of 1980 (42 U.S.C. 9605) prior 
-        to the date of enactment of this Act, or where the 
-        Environmental Protection Agency has initiated or caused to be 
-        initiated a response action pursuant to that Act.
-
-SEC. 504. USES AND OBJECTIVES OF FUNDS.
-
-    (a) Use of Funds.-- Moneys in a State Fund shall be used for the 
-reclamation of eligible areas. For purposes of this section, 
-reclamation includes--
-            (1) backfilling, fencing, sealing, or otherwise controlling 
-        abandoned underground mine entries to protect public health and 
-        safety;
-            (2) abatement, treatment or control of water pollution;
-            (3) shaping, grading, contouring and revegetation of land 
-        to prevent erosion and sedimentation, or to enhance fish and 
-        wildlife habitat;
-            (4) removal or control of toxic or hazardous materials;
-            (5) analysis, curation and preservation of structures, 
-        buildings, sites or objects listed or eligible for listing 
-        pursuant to the National Historic Preservation Act (16 U.S.C. 
-        470a); and
-            (6) control or reclamation of surface subsidence due to 
-        abandoned underground mines.
-    (b) Priorities.-- Expenditures of moneys from a State Fund shall 
-reflect the following priorities in the order stated, but shall not 
-preclude, where feasible and appropriate, a combination of these 
-priorities for cost-effective reclamation:
-            (1) The protection of public health, safety, general 
-        welfare and property from extreme danger from the adverse 
-        effects of past mineral activities.
-            (2) The protection of public health, safety, and general 
-        welfare from the adverse effects of past mineral activities.
-    (c) Liability.--No State, or a contractor for such State engaged in 
-approved reclamation work under this title, or any other entity 
-authorized by a State to conduct approved reclamation activities, shall 
-be liable under any provision of Federal law for any costs or damages 
-as a result of action taken or omitted in the course of carrying out 
-reclamation pursuant to this section. This subsection shall not 
-preclude liability for costs and damages as a result of gross 
-negligence or intentional misconduct. For purposes of the preceding 
-sentence, reckless, willful or wanton misconduct shall constitute gross 
-negligence.
-
-SEC. 505. REPORT TO CONGRESS.
-
-    Annually, each State with a State Fund shall submit a report to the 
-Congress providing an accounting of the State Fund, including 
-identifying sites for which moneys in the State Fund have been spent 
-during the preceding year and sites for which moneys shall be allocated 
-in the following year, the amounts spent or expected to be spent on 
-each such site, and an estimate of the number of eligible areas that 
-remain to be reclaimed in the State.
-
-SEC. 506. SUNSET PROVISIONS.
-
-    (a) Termination of Authority.-- The Secretary of the Treasury's 
-authority to allocate funds to a State Fund under section 502 shall 
-expire on the date that the State submits a report to the Congress 
-pursuant to section 505 which reports that there are no areas in the 
-State which remain to be reclaimed and the Secretary of the Interior 
-has verified such report.
-    (b) Termination of Fund.-- Upon the termination of authority as 
-provided in subsection (a) with respect to all State Funds, the Federal 
-Fund shall also be terminated, and all funds thereafter shall be 
-disbursed as follows:
-            (1) 50 percent of such funds shall be paid into the 
-        Treasury of the United States and deposited as miscellaneous 
-        receipts; and
-            (2) the remaining 50 percent of such funds shall be paid by 
-        the Secretary of the Treasury to the state in which the mining 
-        claim is located.
-
-                      TITLE VI--MINERAL MATERIALS
-
-SEC. 601. DETERMINATIONS.
-
-    Section 3 of the Act of July 23, 1955 (30 U.S.C. 611), is amended 
-as follows: Insert ``(a)'' before the first sentence. Add the following 
-new subsection at the end thereof:
-            ``(1) Subject to valid existing rights, after the date of 
-        enactment of this subsection, notwithstanding the reference to 
-        common varieties in subsection (a) and to the exception to such 
-        term relating to a deposit of materials with some property 
-        giving it distinct and special value, all deposits of mineral 
-        materials referred to in such subsection, including the block 
-        pumice referred to in such subsection, shall be subject to 
-        disposal only under the terms and conditions of the Materials 
-        Act of 1947.
-            ``(2) For purposes of paragraph (1), the term `valid 
-        existing rights' means that a mining claim located for any such 
-        mineral material had some property giving it the distinct and 
-        special value referred to in subsection (a), or as the case may 
-        be, met the definition of block pumice referred to in such 
-        subsection, was properly located and maintained under the 
-        general mining laws prior to the date of the enactment of this 
-        subsection, and was supported by a discovery of a valuable 
-        mineral deposit within the meaning of the general mining laws 
-        as in effect immediately prior to such date of enactment and 
-        that such claim continues to be valid under this Act.''.
-
-SEC. 602. IDENTIFIED DEPOSITS.
-
-    The Act entitled ``An Act to provide for the disposal of materials 
-on the public lands of the United States'', approved July 31, 1947 (30 
-U.S.C. 602), is amended by adding at the end the following:
-    ``(b) Identified Deposits.--
-            ``(1) Lands known to contain valuable deposits of mineral 
-        materials subject to this Act and subsequent amendments and not 
-        covered by any contract, permit, or lease, for uncommon 
-        varieties of mineral materials under this section or by a valid 
-        mining claim for an uncommon variety of a mineral material 
-        under the general mining laws shall be subject to disposition 
-        by lease under this Act by the Secretary through advertisement, 
-        competitive bidding, or such other methods as he may by general 
-        regulations adopt, and in such reasonably compact areas as he 
-        shall fix.
-            ``(2) All leases will be conditioned upon--
-                    ``(A) the payment by the lessee of such royalty as 
-                may be fixed in the lease, not less than two percent of 
-                the quantity or gross value of the output of mineral 
-                materials, and
-                    ``(B) the payment in advance of a rental of 25 
-                cents per acre for the first calendar year or fraction 
-                thereof; 50 cents per acre for the second, third, 
-                fourth, and fifth years, respectively; and $1 per acre 
-                per annum thereafter during the continuance of the 
-                lease, such rental for that year being credited against 
-                royalties accruing for that year.
-            ``(3)(A) Any lease issued under this subsection shall be 
-        for a term of 20 years and so long thereafter as the lessee 
-        complies with the terms and conditions of the lease and upon 
-        the further condition that at the end of each 20-year period 
-        succeeding the date of the lease such reasonable adjustment of 
-        the terms and conditions thereof may be made therein as may be 
-        prescribed by the Secretary unless otherwise provided by law at 
-        the expiration of such periods.
-            ``(B) Leases shall be conditioned upon a minimum annual 
-        production or the payment of a minimum royalty in lieu thereof, 
-        except when production is interrupted by strikes, the elements, 
-        or casualties not attributable to the lessee.
-            ``(C) The Secretary may permit suspension of operations 
-        under any such leases when marketing conditions are such that 
-        the leases cannot be operated except at a loss.
-            ``(D) The Secretary upon application by the lessee prior to 
-        the expiration of any existing lease in good standing shall 
-        amend such lease to provide for the same tenure and to contain 
-        the same conditions, including adjustment at the end of each 
-        20-year period succeeding the date of said lease, as provided 
-        for in this subsection.
-    ``(c) Other Lands.--
-            ``(1) The Secretary is hereby authorized, under such rules 
-        and regulations as he may prescribe, to grant to any qualified 
-        applicant a prospecting permit which shall give the exclusive 
-        right to prospect for mineral materials in lands belonging to 
-        the United States which are not subject to subsection (b), and 
-        are not covered by a contract, permit, or lease under this Act, 
-        except that a prospecting permit shall not exceed a period of 2 
-        years and the area to be included in such a permit shall not 
-        exceed 2,560 acres of land in reasonably compact form.
-            ``(2) The Secretary shall reserve and may exercise the 
-        authority to cancel any prospecting permit upon failure by the 
-        permittee to exercise due diligence in the prosecution of the 
-        prospecting work in accordance with the terms and conditions 
-        stated in the permit, and shall insert in every such permit 
-        issued under the provisions of this Act appropriate provisions 
-        for its cancellation by him,
-            ``(3)(A) Upon showing to the satisfaction of the Secretary 
-        that valuable deposits of one of the mineral materials subject 
-        to the Materials Act of 1947 have been discovered by the 
-        permittee within the area covered by his permit, and that such 
-        land is valuable therefor, the permittee shall be entitled to a 
-        lease for any or all of the land embraced in the prospecting 
-        permit, at a royalty of not less than two percent of the 
-        quantity or gross value of the output of the mineral materials 
-        at the point of shipment to market, such lease to be taken in 
-        compact form by legal subdivisions of the public land surveys, 
-        or if the land be not surveyed, by survey executed at the cost 
-        of the permittee in accordance with regulations prescribed by 
-        the Secretary.
-            ``(B) Persons holding valid mining claims for uncommon 
-        varieties of mineral materials shall be entitled to receive a 
-        lease under this subsection.
-    ``(d) Mineral Materials Disposal Clarification.--Section 4 July 23, 
-1955 (30 U.S.C. 612), is amended as follows:
-            ``(1) In subsection (b) insert `and mineral material' after 
-        `vegetative'.
-            ``(2) In subsection (c) insert `and mineral material' after 
-        `vegetative'.
-    ``(e) Authorization for Disposal of Mineral Materials by 
-Contract.--Section 2(a) of the Act entitled `An Act to provide for the 
-disposal of materials on the public lands of the United States', 
-approved July 31, 1947 (30 U.S.C. 602(a)), is amended--
-            ``(1) by striking the period at the end of paragraph (3) 
-        and inserting `or, if', and
-            ``(2) by adding after paragraph (3) the following:
-            ```(4) the material is a mineral material.'.''.
-
-                  TITLE VII--ADMINISTRATIVE PROVISIONS
-
-SEC. 701. EFFECTIVE DATE.
-
-    The provisions of this Act shall take effect on the date of 
-enactment of this Act, except as otherwise provided in this Act.
-
-SEC. 702. EFFECT ON FEDERAL AND STATE LAWS.
-
-    (a) Effect on the General Mining Laws.--The provisions of this Act 
-shall supersede the general mining laws only to the extent such laws 
-conflict with the requirements of this Act. Where so such conflict 
-exists, the general mining laws, including all judicial and 
-administrative decisions interpreting them, shall remain in full force 
-and effect.
-    (b) Effect on Other Federal and State Laws.--Except as provided in 
-subsection (a), nothing in this Act shall be construed--
-            (1) as superseding, modifying, amending or repealing any 
-        other provision of Federal law, State law or Federal or State 
-        regulation enacted pursuant thereto, not expressly superseded, 
-        modified, amended or repealed;
-            (2) without limiting the foregoing, as affecting or 
-        intended to affect or in any way interfere with or modify the 
-        laws of the States relating to the ownership, control, 
-        appropriation, use and distribution of ground or surface waters 
-        or the regulation by States of surface or ground water quality; 
-        and
-            (3) as affecting or modifying in any way the rights, 
-        obligations or liabilities of any person under other provision 
-        of law.
-
-SEC. 703. SEVERABILITY.
-
-    If any provision of this Act or the applicability thereof to any 
-person or circumstances is held invalid, the remainder of the Act and 
-the application of such provision to other persons or circumstances 
-shall not be affected thereby.
+    In this Act:
+            (1) Function.--The term ``function'' includes any duty, 
+        obligation, power, authority, responsibility, right, privilege, 
+        activity, or program.
+            (2) Office.--The term ``office'' includes any office, 
+        administration, agency, bureau, institute, council, unit, 
+        organizational entity, or component thereof.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Treasury.
                                  <all>

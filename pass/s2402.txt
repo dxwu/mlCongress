@@ -1,76 +1,90 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[S. 2402 Referred in House (RFH)]
+[S. 2402 Introduced in Senate (IS)]
 
+113th CONGRESS
   2d Session
                                 S. 2402
 
+ To amend the Workforce Investment Act of 1998 to address the need to 
+increase on-the-job training and apprenticeship opportunities, and for 
+                            other purposes.
+
 
 _______________________________________________________________________
 
 
-                    IN THE HOUSE OF REPRESENTATIVES
+                   IN THE SENATE OF THE UNITED STATES
 
-                            October 10, 1998
+                              May 22, 2014
 
-                 Referred to the Committee on Resources
+  Mr. Warner (for himself, Mr. Pryor, and Mr. Begich) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                 Health, Education, Labor, and Pensions
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
-To direct the Secretaries of Agriculture and Interior to convey certain 
-       lands in San Juan County, New Mexico, to San Juan College.
+ To amend the Workforce Investment Act of 1998 to address the need to 
+increase on-the-job training and apprenticeship opportunities, and for 
+                            other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. OLD JICARILLA ADMINISTRATIVE SITE.
+SECTION 1. SHORT TITLE.
 
-    (a) Conveyance of Property.--Not later than one year after the date 
-of enactment of this Act, the Secretaries of Agriculture and Interior 
-(herein ``the Secretaries'') shall convey to San Juan College, in 
-Farmington, New Mexico, subject to the terms and conditions under 
-subsection (c), all right, title, and interest of the United States in 
-and to a parcel of real property (including any improvements on the 
-land) consisting of approximately ten acres known as the ``Old 
-Jicarilla Site'' located in San Juan County, New Mexico (T29N; R5W; 
-portions of Sections 29 and 30).
-    (b) Description of Property.--The exact acreage and legal 
-description of the real property conveyed under subsection (a) shall be 
-determined by a survey satisfactory to the Secretaries and the 
-President of San Juan College. The cost of the survey shall be borne by 
-San Juan College.
-    (c) Terms and Conditions.--
-            (1) Notwithstanding exceptions of application under the 
-        Recreation and Public Purposes Act (43 U.S.C. 869(c)), 
-        consideration for the conveyance described in subsection (a) 
-        shall be--
-                    (A) an amount that is consistent with the Bureau of 
-                Land Management special pricing program for 
-                Governmental entities under the Recreation and Public 
-                Purposes Act; and
-                    (B) an agreement between the Secretaries and San 
-                Juan College indemnifying the Government of the United 
-                States from all liability of the Government that arises 
-                from the property.
-            (2) The lands conveyed by this Act shall be used for 
-        educational and recreational purposes. If such lands cease to 
-        be used for such purposes, at the option of the United States, 
-        such lands will revert to the United States.
-    (d) Land Withdrawals.--Public Land Order 3443, only insofar as it 
-pertains to lands described in subsections (a) and (b) above, shall be 
-revoked simultaneous with the conveyance of the property under 
-subsection (a).
+    This Act may be cited as the ``Work and Learn Act''.
 
-            Passed the Senate October 9 (legislative day, October 2), 
-      1998.
+SEC. 2. FINDINGS; PURPOSE.
 
-            Attest:
+    (a) Findings.--Congress finds the following:
+            (1) Success in the 21st century labor market increasingly 
+        requires workers to demonstrate competencies in thinking 
+        critically and applying new skills to ever more complex 
+        technology.
+            (2) By 2020, the United States is expected to experience a 
+        shortage of 3,000,000 workers with associate degrees or higher 
+        degrees, and 5,000,000 workers with technical certificates and 
+        credentials.
+            (3) Properly structured, on-the-job training programs 
+        should be part of the mission to get individuals back to work.
+            (4) Apprenticeships, one common model for providing 
+        workplace training, are a proven way to help people develop in-
+        demand skills and to meet the needs of employers, yet the 
+        individuals in apprenticeships compose just 0.2 percent of the 
+        Nation's workforce.
+    (b) Purpose.--The purpose of this Act is to strengthen work-based 
+programs of employment and training activities.
 
-                                                    GARY SISCO,
+SEC. 3. LOCAL WORKFORCE INVESTMENT BOARDS.
 
-                                                             Secretary.
+    Section 117(b)(2)(A) of the Workforce Investment Act of 1998 (29 
+U.S.C. 2832(b)(2)(A)) is amended--
+            (1) in clause (v), by striking ``and'' at the end; and
+            (2) by inserting after clause (vi) the following:
+                            ``(vii) a representative who has expertise 
+                        implementing work-based programs of employment 
+                        and training activities that combine technical 
+                        training with related instruction, including 
+                        such programs that begin by providing mentoring 
+                        and job shadowing opportunities, which evolve 
+                        into intensive internships and registered 
+                        apprenticeships; and''.
+
+SEC. 4. PERFORMANCE.
+
+    Section 136(b)(2)(A)(i) of the Workforce Investment Act of 1998 (29 
+U.S.C. 2871(b)(2)(A)(i)) is amended--
+            (1) in subclause (III), by striking ``and'';
+            (2) in subclause (IV), by striking the period and inserting 
+        ``; and''; and
+            (3) by inserting after subclause (IV) the following new 
+        subclause:
+                                    ``(V) Completion of a registered 
+                                apprenticeship.''.
+                                 <all>

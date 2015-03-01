@@ -1,21 +1,19 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 4147 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 H. R. 4147
 
-  To amend the Internal Revenue Code of 1986 to increase the maximum 
-  annual contribution to education individual retirement accounts to 
-                 $5,000 for higher education purposes.
+ To direct the Chief Information Officer of the Department of Veterans 
+Affairs and the Deputy Under Secretary of Veterans Affairs for Economic 
+  Opportunity to submit to the Committees on Veterans' Affairs of the 
+Senate and House of Representatives a report regarding the information 
+    technology of the Department that is used in administering the 
+educational benefits administered by the Secretary of Veterans Affairs, 
+                        and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,12 +21,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             June 25, 1998
+                             March 4, 2014
 
-    Mr. Fox of Pennsylvania (for himself, Mr. Horn, Mr. Fattah, Ms. 
-   Stabenow, Mr. Foley, Mrs. Thurman, and Ms. Jackson-Lee of Texas) 
- introduced the following bill; which was referred to the Committee on 
-                             Ways and Means
+  Mr. Takano introduced the following bill; which was referred to the 
+                     Committee on Veterans' Affairs
 
 _______________________________________________________________________
 
@@ -36,28 +32,45 @@ _______________________________________________________________________
 
 
  
-  To amend the Internal Revenue Code of 1986 to increase the maximum 
-  annual contribution to education individual retirement accounts to 
-                 $5,000 for higher education purposes.
+ To direct the Chief Information Officer of the Department of Veterans 
+Affairs and the Deputy Under Secretary of Veterans Affairs for Economic 
+  Opportunity to submit to the Committees on Veterans' Affairs of the 
+Senate and House of Representatives a report regarding the information 
+    technology of the Department that is used in administering the 
+educational benefits administered by the Secretary of Veterans Affairs, 
+                        and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Higher Education Affordability Act 
-of 1998''.
+    This Act may be cited as the ``Student Veterans IT Upgrade Act''.
 
-SEC. 2. INCREASE IN MAXIMUM ANNUAL CONTRIBUTION TO EDUCATION INDIVIDUAL 
-              RETIREMENT ACCOUNT.
+SEC. 2. REPORT ON DEPARTMENT OF VETERANS AFFAIRS EDUCATION INFORMATION 
+              TECHNOLOGY.
 
-    (a) In General.--Section 530(b)(1)(A)(iii) of the Internal Revenue 
-Code of 1986 is amended by striking ``$500'' and inserting ``$5,000''.
-    (b) Conforming Amendments.--
-            (1) Section 530(d)(4)(C) of such Code is amended by 
-        striking ``$500'' and inserting ``$5,000''.
-            (2) Section 4973(e)(1)(A) of such Code is amended by 
-        striking ``$500'' and inserting ``$5,000''.
-    (c) Effective Date.--The amendments made by this section shall 
-apply to taxable years beginning after December 31, 1998.
+    (a) Report.--The Chief Information Officer of the Department of 
+Veterans Affairs, in coordination with the Deputy Under Secretary for 
+Economic Opportunity, shall submit to the Committees on Veterans' 
+Affairs of the Senate and the House of Representatives a report on the 
+information technology system of the Department of Veterans Affairs 
+that is used in connection with the administration of educational 
+benefits under laws administered by the Secretary of Veterans Affairs. 
+The report shall include the following:
+            (1) The status, as of the date of the report, of such 
+        system.
+            (2) The plan with respect to such system that was submitted 
+        to Congress prior to the date of the report.
+            (3) An action plan describing how the Chief Information 
+        Officer and the Deputy Under Secretary for Economic Opportunity 
+        intend to finalize such system.
+            (4) The anticipated cost of upgrading such system.
+    (b) Annual Briefing.--The Chief Information Officer and the Deputy 
+Under Secretary for Economic Opportunity shall update the committees 
+specified in subsection (a) at least annually on any progress made in 
+upgrading the information technology system of the Department of 
+Veterans Affairs that is used in connection with the administration of 
+educational benefits under laws administered by the Secretary of 
+Veterans Affairs.
                                  <all>

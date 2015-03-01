@@ -1,20 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1568 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 S. 1568
 
-To provide for the rescheduling of flunitrazepam into schedule I of the 
-           Controlled Substances Act, and for other purposes.
+ To make technical corrections to the Pay Our Military Act to include 
+    midshipmen at the United States Merchant Marine Academy who are 
+              appointed as midshipmen in the Navy Reserve.
 
 
 _______________________________________________________________________
@@ -22,10 +17,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                           November 13, 1997
+                            October 7, 2013
 
-   Mr. Biden introduced the following bill; which was read twice and 
-               referred to the Committee on the Judiciary
+ Mr. Boozman (for himself, Mr. Inhofe, and Ms. Collins) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                             Appropriations
 
 _______________________________________________________________________
 
@@ -33,17 +29,47 @@ _______________________________________________________________________
 
 
  
-To provide for the rescheduling of flunitrazepam into schedule I of the 
-           Controlled Substances Act, and for other purposes.
+ To make technical corrections to the Pay Our Military Act to include 
+    midshipmen at the United States Merchant Marine Academy who are 
+              appointed as midshipmen in the Navy Reserve.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. RESCHEDULING.
+SECTION 1. SHORT TITLE.
 
-    Notwithstanding sections 201 and 202 (a) and (b) of the Controlled 
-Substances Act (21 U.S.C. 811, 812 (a), (b)) respecting the scheduling 
-of controlled substances, the Attorney General shall, by order, 
-transfer flunitrazepam from schedule IV of such Act to schedule I of 
-such Act.
+    This Act may be cited as the ``Pay Our Military Technical 
+Corrections Act of 2013''.
+
+SEC. 2. CONTINUING APPROPRIATIONS FOR MIDSHIPMEN AT THE UNITED STATES 
+              MERCHANT MARINE ACADEMY.
+
+    (a) In General.--Section 2 of the Pay Our Military Act (Public Law 
+113-39) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by inserting ``(including 
+                those specified in section 51311(b) of title 46, United 
+                States Code)'' after ``reserve components thereof''; 
+                and
+                    (B) in paragraph (2)--
+                            (i) by striking ``(and the Department'' and 
+                        inserting ``(the Department'';
+                            (ii) by inserting ``and the Department of 
+                        Transportation in the case of the United States 
+                        Merchant Marine Academy'' after ``Coast 
+                        Guard''; and
+                            (iii) by inserting ``or those in training 
+                        for such service'' before the semicolon; and
+            (2) in subsection (b)--
+                    (A) in paragraph (1), by striking ``and'' at the 
+                end;
+                    (B) in paragraph (2), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(3) the Secretary of Transportation with respect to 
+        matters concerning the United States Merchant Marine 
+        Academy.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect as if enacted as part of the Pay Our Military Act (Public 
+Law 113-39).
                                  <all>

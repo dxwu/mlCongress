@@ -1,70 +1,100 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 1020 Referred in Senate (RFS)]
+[H.R. 1020 Introduced in House (IH)]
 
+113th CONGRESS
   1st Session
                                 H. R. 1020
 
+ To amend the Tariff Act of 1930 to increase and adjust for inflation 
+  the maximum value of articles that may be imported duty-free by one 
+               person on one day, and for other purposes.
+
 
 _______________________________________________________________________
 
 
-                   IN THE SENATE OF THE UNITED STATES
+                    IN THE HOUSE OF REPRESENTATIVES
 
-                              June 4, 1997
+                             March 6, 2013
 
-   Received; read twice and referred to the Committee on Energy and 
-                           Natural Resources
+  Mr. Schock (for himself, Mr. Crowley, and Mr. Owens) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
-To adjust the boundary of the White River National Forest in the State 
- of Colorado to include all National Forest System lands within Summit 
-    County, Colorado, which are currently part of the Dillon Ranger 
-                District of the Arapaho National Forest.
+ To amend the Tariff Act of 1930 to increase and adjust for inflation 
+  the maximum value of articles that may be imported duty-free by one 
+               person on one day, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
-United States of America in Congress assembled, 
+United States of America in Congress assembled,
 
-SECTION 1. INCLUSION OF DILLON RANGER DISTRICT IN WHITE RIVER NATIONAL 
-              FOREST, COLORADO.1
+SECTION 1. SHORT TITLE.
 
-    (a) Boundary Adjustments.--
-            (1) White river national forest.--The boundary of the White 
-        River National Forest in the State of Colorado is hereby 
-        adjusted to include all National Forest System lands located in 
-        Summit County, Colorado, such lands forming the Dillon Ranger 
-        District of the Arapaho National Forest. The Dillon Ranger 
-        District is hereby made a part of the White River National 
-        Forest.
-            (2) Arapaho national forest.--The boundary of the Arapaho 
-        National Forest is hereby adjusted to exclude the National 
-        Forest System lands included in the White River National Forest 
-        under paragraph (1).
-    (b) Reference.--Any reference to the Dillon Ranger District, 
-Arapaho National Forest, in any existing statute, regulation, manual, 
-handbook, or otherwise shall be deemed to be a reference to the Dillon 
-District, White River National Forest.
-    (c) Existing Rights.--Nothing in this section shall be construed to 
-affect valid existing rights of persons holding any authorization, 
-permit, option, or other form of contract existing on the date of the 
-enactment of this Act.
-    (d) Forest Receipts.--Notwithstanding the distribution requirements 
-of payments under the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 
-500), the distribution of receipts from the Arapaho National Forest and 
-the White River National Forest to affected county governments shall be 
-based upon the National Forest boundaries that existed on the day 
-before the date of the enactment of this Act.
+    This Act may be cited as the ``Low Value Shipment Regulatory 
+Modernization Act of 2013''.
 
-            Passed the House of Representatives June 3, 1997.
+SEC. 2. SENSE OF CONGRESS ON DE MINIMIS INFORMAL ENTRIES.
 
-            Attest:
+    (a) Findings.--Congress makes the following findings:
+            (1) Modernizing international customs is critical for 
+        United States businesses of all sizes, consumers in the United 
+        States, and the economic growth of the United States.
+            (2) Higher thresholds for the value of articles that may be 
+        entered informally and free of duty provide significant 
+        economic benefits to businesses and consumers in the United 
+        States and the economy of the United States through costs 
+        savings and reductions in trade transaction costs.
+    (b) Sense of Congress.--It is the sense of Congress that the United 
+States Trade Representative should encourage other countries, through 
+bilateral, regional, and multilateral fora, to establish commercially 
+meaningful de minimis values for express and postal shipments that are 
+exempt from customs duties and taxes and from certain entry 
+documentation requirements, as appropriate.
 
-                                                ROBIN H. CARLE,
+SEC. 3. INCREASE IN AND ADJUSTMENT FOR INFLATION OF MAXIMUM VALUE OF 
+              ARTICLES THAT MAY BE IMPORTED DUTY-FREE BY ONE PERSON ON 
+              ONE DAY.
 
-                                                                 Clerk.
+    (a) In General.--Section 321 of the Tariff Act of 1930 (19 U.S.C. 
+1321) is amended--
+            (1) in subsection (a)(2), by striking subparagraph (C) and 
+        inserting the following:
+                    ``(C) in any other case, the dollar amount 
+                specified in subsection (c).''; and
+            (2) by adding at the end the following:
+    ``(c) Annual Adjustment of Value of Articles That May Enter Duty-
+Free.--
+            ``(1) Dollar amount specified.--The dollar amount specified 
+        in this subsection is--
+                    ``(A) for calendar year 2014, $800; and
+                    ``(B) subject to paragraph (2), for any calendar 
+                year after calendar year 2014, an amount equal to $800 
+                increased by an amount equal to--
+                            ``(i) $800, multiplied by
+                            ``(ii) the percentage of the increase (if 
+                        any) in the Consumer Price Index for the 
+                        preceding calendar year compared to the 
+                        Consumer Price Index for calendar year 2013.
+            ``(2) Rounding.--Any increase under paragraph (1) of the 
+        dollar amount specified in this subsection shall be rounded to 
+        the nearest increment of $50.
+            ``(3) Consumer price index for any calendar year.--For 
+        purposes of this subsection, the Consumer Price Index for any 
+        calendar year is the average of the Consumer Price Index as of 
+        the close of the 12-month period ending on September 30 of that 
+        calendar year.
+            ``(4) Consumer price index defined.--For purposes of this 
+        subsection, the term `Consumer Price Index' means the last 
+        Consumer Price Index for All Urban Consumers published by the 
+        Bureau of Labor Statistics of the Department of Labor.''.
+    (b) Effective Date.--The amendments made by this section apply to 
+articles entered, or withdrawn from warehouse for consumption, on or 
+after January 1, 2014.
+                                 <all>

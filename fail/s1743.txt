@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 1743 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 S. 1743
 
-To amend title 38, United States Code, to authorize memorialization of 
-deceased spouses and surviving spouses of veterans and deceased members 
-   of the Armed Forces whose remains are not available for interment.
+ To amend the Mineral Leasing Act to recognize the authority of States 
+    to regulate oil and gas operations and promote American energy 
+    security, development, and job creation, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,10 +17,11 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             March 11, 1998
+                           November 20, 2013
 
-Mr. Specter (by request) introduced the following bill; which was read 
-        twice and referred to the Committee on Veterans' Affairs
+    Mr. Hatch (for himself, Mr. Enzi, Mr. Barrasso, and Mr. Risch) 
+introduced the following bill; which was read twice and referred to the 
+               Committee on Energy and Natural Resources
 
 _______________________________________________________________________
 
@@ -34,47 +29,47 @@ _______________________________________________________________________
 
 
  
-To amend title 38, United States Code, to authorize memorialization of 
-deceased spouses and surviving spouses of veterans and deceased members 
-   of the Armed Forces whose remains are not available for interment.
+ To amend the Mineral Leasing Act to recognize the authority of States 
+    to regulate oil and gas operations and promote American energy 
+    security, development, and job creation, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
-United States of America in Congress assembled, 
+United States of America in Congress assembled,
 
-SECTION 1. AUTHORIZATION TO FURNISH MEMORIAL HEADSTONES AND MARKERS FOR 
-              SPOUSES AND SURVIVING SPOUSES OF VETERANS AND DECEASED 
-              SERVICE MEMBERS.
+SECTION 1. SHORT TITLE.
 
-    Section 2306(b) of title 38, United States Code, is amended--
-            (1) by adding ``(which for purposes of this subsection 
-        includes a person who died in the active military, naval, or 
-        air service) or any spouse or surviving spouse (which for 
-        purposes of this section includes an unremarried surviving 
-        spouse who had a subsequent remarriage which was terminated by 
-        death or divorce) of a veteran'' following ``any veteran'';
-            (2) by striking out ``veteran's'' in paragraph (2) and 
-        inserting in lieu thereof ``individual's''; and
-            (3) by adding at the end thereof ``Where the Secretary has 
-        furnished a memorial headstone or marker under this subsection 
-        for the purpose of commemorating a veteran, or has furnished a 
-        headstone or marker for the unmarked grave of a veteran under 
-        subsection (a) of this section, the Secretary shall, where 
-        feasible, add a memorial inscription to the existing headstone 
-        or marker in lieu of furnishing a memorial headstone or marker 
-        under this subsection for the veteran's surviving spouse.''.
+    This Act may be cited as the ``Protecting States' Rights to Promote 
+American Energy Security Act''.
 
-SEC. 2. AMENDMENTS TO PROVISIONS GOVERNING MEMORIAL AREAS.
+SEC. 2. STATE AUTHORITY FOR HYDRAULIC FRACTURING REGULATION.
 
-    Section 2403(b) of title 38, United States Code, is amended by 
-striking all after ``appropriate'' and inserting in lieu thereof 
-``group memorials shall be erected to honor the memory of groups of 
-individuals referred to in subsection (a) of this section, and 
-appropriate memorial headstones and markers shall be erected to honor 
-the memory of individuals referred to in subsection (a) of this section 
-or subsection (b) of section 2306 of this title.''.
+    The Mineral Leasing Act is amended--
+            (1) by redesignating section 44 (30 U.S.C. 181 note) as 
+        section 45; and
+            (2) by inserting after section 43 (30 U.S.C. 226-3) the 
+        following:
 
-SEC. 3. EFFECTIVE DATE.
+``SEC. 44. STATE AUTHORITY FOR HYDRAULIC FRACTURING REGULATION.
 
-    The amendments made by this Act shall be effective with respect to 
-deaths occurring after the date of this enactment.
+    ``(a) Definition of Hydraulic Fracturing.--In this section the term 
+`hydraulic fracturing' means the process by which fracturing fluids (or 
+a fracturing fluid system) are pumped into an underground geologic 
+formation at a calculated, predetermined rate and pressure to generate 
+fractures or cracks in the target formation and, as a result, increase 
+the permeability of the rock near the wellbore and improve production 
+of natural gas or oil.
+    ``(b) Prohibition.--The Secretary of the Interior shall not enforce 
+any Federal regulation, guidance, or permit requirement regarding 
+hydraulic fracturing, or any component of hydraulic fracturing, 
+relating to oil, gas, or geothermal production activities on or under 
+any land in any State that has regulations, guidance, or permit 
+requirements for hydraulic fracturing.
+    ``(c) State Authority.--The Secretary shall recognize and defer to 
+State regulations, guidance, and permitting for all activities 
+regarding hydraulic fracturing, or any component of hydraulic 
+fracturing, relating to oil, gas, or geothermal production activities 
+on Federal land regardless of whether the regulations, guidance, and 
+permitting are duplicative, more or less restrictive, have different 
+requirements, or do not meet Federal regulations, guidance, or permit 
+requirements.''.
                                  <all>

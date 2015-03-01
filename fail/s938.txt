@@ -1,21 +1,15 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 938 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                  S. 938
 
-    To amend the Public Health Service Act to provide surveillance, 
-    research, and services aimed at the prevention and cessation of 
-        prenatal and postnatal smoking, and for other purposes.
+To amend title 38, United States Code, to allow certain veterans to use 
+ educational assistance provided by the Department of Veterans Affairs 
+            for franchise training, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,11 +17,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             June 19, 1997
+                              May 14, 2013
 
- Mr. Bond (for himself and Mr. Bumpers) introduced the following bill; 
- which was read twice and referred to the Committee on Labor and Human 
-                               Resources
+   Mr. Moran introduced the following bill; which was read twice and 
+             referred to the Committee on Veterans' Affairs
 
 _______________________________________________________________________
 
@@ -35,207 +28,155 @@ _______________________________________________________________________
 
 
  
-    To amend the Public Health Service Act to provide surveillance, 
-    research, and services aimed at the prevention and cessation of 
-        prenatal and postnatal smoking, and for other purposes.
+To amend title 38, United States Code, to allow certain veterans to use 
+ educational assistance provided by the Department of Veterans Affairs 
+            for franchise training, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Pregnant Mothers and Infants Health 
-Protection Act of 1997''.
+    This Act may be cited as the ``Franchise Education for Veterans Act 
+of 2013''.
 
-SEC. 2. FINDINGS.
+SEC. 2. USE OF EDUCATIONAL ASSISTANCE FURNISHED BY DEPARTMENT OF 
+              VETERANS AFFAIRS FOR FRANCHISE TRAINING.
 
-    Congress makes the following findings:
-            (1) According to recent figures, 14 percent of pregnant 
-        mothers admit to smoking tobacco during pregnancy.
-            (2) Smoking tobacco during pregnancy significantly 
-        increases maternal and fetal risk, and causes 20 percent to 30 
-        percent of the low birth weight rate and 10 percent of the 
-        fetal and infant death rate in the United States.
-            (3) Mothers who smoke both during and after pregnancy have 
-        nearly a 3 fold increase in the risk of Sudden Infant Death 
-        Syndrome (SIDS), as compared to mothers who do not smoke.
-            (4) Smoking during pregnancy has been associated with 
-        certain childhood cancers and birth defects, and it increases 
-        the risk of spontaneous abortion, premature rupture of 
-        membranes, and delivery of a stillborn infant.
-            (5) Smoking during pregnancy may impede the growth of the 
-        fetus and increase the likelihood of mental retardation by 50 
-        percent.
-            (6) The proportion of women who quit smoking during 
-        pregnancy but relapse at 6 months postpartum is nearly 63 
-        percent, thereby exposing their infants to passive smoke and 
-        increasing their risk for SIDS and other health related 
-        problems.
-            (7) Effective prenatal smoking cessation interventions 
-        increase the rate of smoking cessation during pregnancy.
-
-SEC. 3. PURPOSE.
-
-    It is the purpose of this Act to establish, within the Department 
-of Health and Human Services, a comprehensive program to help prevent 
-prenatal and postnatal smoking. Such program shall--
-            (1) coordinate, support, and conduct national, State and 
-        community-based public awareness, prevention, and education 
-        programs on prenatal and postnatal smoking;
-            (2) support, coordinate, and conduct basic and applied 
-        research concerning prenatal and postnatal smoking and its 
-        effects; and
-            (3) foster coordination between all Federal agencies and 
-        private voluntary organizations that conduct or support 
-        prenatal and postnatal smoking research, prevention, and 
-        surveillance programs.
-
-SEC. 4. ESTABLISHMENT OF PROGRAM.
-
-    Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) 
-is amended by adding at the end the following:
-
-      ``PART M--PRENATAL AND POSTNATAL SMOKING PREVENTION PROGRAM
-
-``SEC. 399N. ESTABLISHMENT.
-
-    ``(a) Prenatal or Postnatal Smoking Prevention Program.-- The 
-Secretary, acting through the Centers for Disease Control and 
-Prevention, shall establish a comprehensive program to be known as the 
-`Prenatal and Postnatal Smoking Prevention Program' that shall 
-include--
-            ``(1) an education and public awareness program that is 
-        designed to--
-                    ``(A) support, conduct and evaluate the 
-                effectiveness of--
-                            ``(i) educational and cessation programs 
-                        concerning the prevention, diagnosis, and 
-                        treatment of infants born with the effects of 
-                        prenatal smoking;
-                            ``(ii) prevention and education programs, 
-                        including school health and adolescent 
-                        education programs concerning prenatal and 
-                        postnatal smoking and its effects, and;
-                            ``(iii) public and community awareness and 
-                        cessation programs designed to educate about 
-                        prenatal and postnatal smoking and its effects 
-                        on fetuses and newborns;
-                    ``(B) provide technical and consultative assistance 
-                to States, local governments, scientific and academic 
-                institutions, community health centers funded under 
-                section 330, and nonprofit organizations concerning the 
-                programs referred to in subparagraph (A); and
-                    ``(C) award grants to, and enter into cooperative 
-                agreements with, States, local governments, scientific 
-                and academic institutions, community health centers, 
-                and non-profit organizations for the purpose of--
-                            ``(i) evaluating the effectiveness of 
-                        programs referred to in subparagraph (A);
-                            ``(ii) providing training in the prevention 
-                        of prenatal and postnatal smoking;
-                            ``(iii) educating school age children, 
-                        especially pregnant and high-risk youth, 
-                        concerning the effects of prenatal and 
-                        postnatal smoking on fetuses and newborns; and
-                            ``(iv) increasing public and community 
-                        awareness concerning prenatal and postnatal 
-                        smoking and its effects on fetuses and newborns 
-through projects, programs, and campaigns, and improving the 
-understanding of the general public and targeted groups concerning the 
-most effective intervention methods to prevent prenatal and postnatal 
-smoking;
-            ``(2) an applied research and prevention program that is 
-        designed to--
-                    ``(A) support and conduct research on the 
-                diagnostic methods, treatment, and prevention of 
-                prenatal and postnatal smoking and its effects on 
-                fetuses and newborns;
-                    ``(B) provide technical and consultative assistance 
-                and training to States, local governments, scientific 
-                and academic institutions, community health centers, 
-                and nonprofit organizations engaged in the conduct of--
-                            ``(i) prenatal and postnatal smoking 
-                        prevention, cessation and early intervention 
-                        programs; and
-                            ``(ii) research relating to the effects of 
-                        prenatal and postnatal smoking and the number 
-                        and demographic profile of pregnant mothers who 
-                        smoke; and
-                    ``(C) award grants to, and enter into cooperative 
-                agreements and contracts with, States, local 
-                governments, scientific and academic institutions, 
-                community health centers, and non-profit organizations 
-                for the purpose of--
-                            ``(i) conducting innovative demonstration 
-                        and evaluation projects designed to determine 
-                        effective strategies, including community-based 
-                        prevention programs and education campaigns, 
-                        for preventing and intervening in fetal 
-                        exposure to tobacco smoke;
-                            ``(ii) improving and coordinating the 
-                        surveillance and ongoing assessment methods 
-                        implemented by such entities and the Federal 
-                        Government with respect to prenatal and 
-                        postnatal smoking and its effects on fetuses 
-                        and newborns;
-                            ``(iii) developing, disseminating and 
-                        evaluating effective age-appropriate prevention 
-                        and cessation programs for adolescent and adult 
-                        mothers who smoke; and
-                            ``(iv) facilitating the coordination and 
-                        collaboration among Federal, State, local 
-                        government and community-based prenatal and 
-                        postnatal smoking prevention programs;
-            ``(3) a basic research program that is designed to support 
-        and conduct basic research on services and effective prevention 
-        treatments and interventions for pregnant mothers who smoke and 
-        children suffering the effects of intrauterine or passive 
-        exposure to tobacco smoke; and
-            ``(4) a procedure for disseminating prevention strategies 
-        and the diagnostic criteria for infants suffering the effects 
-        of exposure to intrauterine or passive tobacco smoke to health 
-        care providers, educators, social workers, and other 
-        individuals.
-    ``(b) Eligibility.--To be eligible to receive a grant, or enter 
-into a cooperative agreement or contract under this section, an entity 
-shall--
-            ``(1) be a State, local government, scientific or academic 
-        institution, community health center, or nonprofit 
-        organization; and
-            ``(2) prepare and submit to the Secretary an application at 
-        such time, in such manner, and containing such information as 
-        the Secretary may require, including a description of the 
-        activities that the entity intends to carry out using amounts 
-        received under the grant, cooperative agreement or contract.
-    ``(c) Clearinghouse.--In carrying out this section, the Secretary 
-shall establish within the Centers for Disease Control and Prevention a 
-prenatal and postnatal smoking prevention clearinghouse for the 
-collection, dissemination and storage of data concerning prenatal and 
-postnatal smoking prevention. In establishing such clearinghouse, the 
-Secretary shall ensure that the Centers for Disease Control and 
-Prevention shall serve as the coordinating agency for prenatal and 
-postnatal smoking prevention and surveillance activities.
-    ``(d) Biennial Report.--Not later than 2 years after the date of 
-enactment of this section, and every 2 years thereafter, the Secretary 
-shall prepare and submit to the Committee on Commerce of the House of 
-Representatives and the Committee on Labor and Human Resources of the 
-Senate a biennial report that--
-            ``(1) includes information concerning the incidence and 
-        prevalence of prenatal and postnatal smoking and the extent to 
-        which such smoking has contributed to infant mortality, low 
-        birth weight, sudden infant death syndrome, and other 
-        complications;
-            ``(2) includes information that is specific to various 
-        demographics;
-            ``(3) includes an assessment of the extent to which various 
-        approaches of preventing prenatal and postnatal smoking have 
-        been effective;
-            ``(4) describes the activities carried out under this 
-        section; and
-            ``(5) contains any recommendations of the Secretary 
-        regarding this section.
-    ``(e) Authorization of Appropriations.--There is authorized to be 
-appropriated to carry out this section, $10,000,000 for each of the 
-fiscal years 1998 and 1999, and such sums as may be necessary for each 
-of the fiscal years 2000 and 2001.''.
+    (a) All-Volunteer Force Educational Assistance Program.--
+            (1) Program of education.--Subparagraph (C) of section 
+        3002(3) of title 38, United States Code, is amended to read as 
+        follows:
+            ``(C) in the case of an individual who is not serving on 
+        active duty, includes--
+                    ``(i) a full-time program of apprenticeship or of 
+                other on-job training approved as provided in paragraph 
+                (1) or (2), as appropriate, of section 3687(a) of this 
+                title;
+                    ``(ii) a cooperative program (as defined in section 
+                3482(a)(2) of this title); and
+                    ``(iii) a training program at a training 
+                establishment described in section 3452(e)(2) of this 
+                title that--
+                            ``(I) is approved for purposes of chapter 
+                        32 or 34 of this title; and
+                            ``(II) is for a franchise (as defined in 
+                        section 436.1 of title 16, Code of Federal 
+                        Regulations, or successor regulation).''.
+            (2) Limitations.--Section 3032 of such title is amended by 
+        adding at the end the following:
+    ``(h)(1) Subject to paragraphs (3) and (4), the amount of 
+educational assistance payable under this chapter for a program of 
+education consisting of a training program at a training establishment 
+described in section 3452(e)(2) of this title shall be, with respect to 
+any 12-month period in which such training is pursued, the lesser of 
+the following:
+            ``(A) The sum of--
+                    ``(i) the fees assessed by the training 
+                establishment concerned for the training;
+                    ``(ii) a monthly housing stipend for each month (or 
+                pro rata amount for each partial month) of training 
+                pursued equal to the monthly amount of the basic 
+                allowance for housing payable under section 403 of 
+                title 37 for a member with dependents in pay grade E-5 
+                residing in the military housing area that encompasses 
+                all or the majority portion of the ZIP code area in 
+                which is located the training establishment; and
+                    ``(iii) a monthly stipend in an amount equal to $83 
+                for each month (or pro rata amount for each partial 
+                month) of training pursued for books, supplies, 
+                equipment, and other educational costs.
+            ``(B) $15,000.
+    ``(2) The number of months of entitlement charged in the case of 
+any individual for a training program described in paragraph (1) is 
+equal to the number (including any fraction) determined by dividing the 
+total amount of educational assistance paid such individual for such 
+program by the full-time monthly institutional rate of educational 
+assistance such individual would otherwise be paid under subsection 
+(a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the 
+case may be.
+    ``(3)(A) In no event shall payment of educational assistance under 
+this subsection for training described in paragraph (1) exceed the 
+amount of the individual's available entitlement under this chapter.
+    ``(B) With respect to an individual entitled to educational 
+assistance under this subsection who is not described in subsection 
+(a)(1) or (c)(1) of section 3015 of this title, the Secretary shall 
+adjust the amount payable under paragraph (1) by an amount determined 
+by the Secretary to reflect the difference in the rate of educational 
+assistance such individual would be paid under such section as compared 
+to the rate an individual described in subsection (a)(1) or (c)(1) of 
+such section would be paid under such section.
+    ``(4) A veteran may not receive--
+            ``(A) more than 12 months of educational assistance under 
+        this subsection; and
+            ``(B) a total amount of educational assistance under this 
+        subsection that is more than $15,000.''.
+    (b) Post-9/11 Educational Assistance.--
+            (1) Approved programs of education.--Section 3313(b) of 
+        such title is amended by striking the period at the end and 
+        inserting ``, including a training program described in section 
+        3002(3)(C)(iii) of this title.''.
+            (2) Franchise training.--Section 3313(g)(3) of such title 
+        is amended by adding at the end the following new subparagraph:
+                    ``(E) Subject to clauses (ii) and (iii), in the 
+                case of an individual pursuing a program of education 
+                consisting of a training program at a training 
+                establishment described in section 3452(e)(2) of this 
+                title, amounts, with respect to any 12-month period in 
+                which such training is pursued, as follows:
+                            ``(i) An amount equal to the lesser of--
+                                    ``(I) the sum of--
+                                            ``(aa) the fees assessed by 
+                                        the training establishment 
+                                        concerned for the training;
+                                            ``(bb) a monthly housing 
+                                        stipend for each month (or pro 
+                                        rata amount for each partial 
+                                        month) of training pursued 
+                                        equal to the monthly amount of 
+                                        the basic allowance for housing 
+                                        payable under section 403 of 
+                                        title 37 for a member with 
+                                        dependents in pay grade E-5 
+                                        residing in the military 
+                                        housing area that encompasses 
+                                        all or the majority portion of 
+                                        the ZIP code area in which is 
+                                        located the training 
+                                        establishment; and
+                                            ``(cc) a monthly stipend in 
+                                        an amount equal to $83 for each 
+                                        month (or pro rata amount for 
+                                        each partial month) of training 
+                                        pursued for books, supplies, 
+                                        equipment, and other 
+                                        educational costs; or
+                                    ``(II) $15,000.
+                            ``(ii) In the case of an individual 
+                        entitled to educational assistance by reason of 
+                        paragraphs (3) through (8) of sections 3311(b), 
+                        the amounts payable pursuant to clause (i) 
+                        shall be the amounts otherwise determined 
+                        pursuant to such clause multiplied by the same 
+                        percentage applicable to the monthly amounts 
+                        payable to the individual under paragraphs (2) 
+                        through (7) of subsection (c).
+                            ``(iii) A veteran may not receive--
+                                    ``(I) more than 12 months of 
+                                educational assistance under this 
+                                subsection; and
+                                    ``(II) a total amount of 
+                                educational assistance under this 
+                                subsection that is more than 
+                                $15,000.''.
+            (3) Payments.--Section 3313(g)(4)(C) of such title is 
+        amended by adding at the end the following:
+                            ``(iii) Payment for the amount payable 
+                        under paragraph (3)(E) for pursuit of a program 
+                        of education consisting of a training program 
+                        at a training establishment described in 
+                        section 3452(e)(2) of this title shall be paid 
+                        to the individual upon the Secretary receiving 
+                        a certification of enrollment with respect to 
+                        the individual made by such establishment.''.
                                  <all>

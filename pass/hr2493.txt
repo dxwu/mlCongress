@@ -1,402 +1,129 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
-[H.R. 2493 Reported in Senate (RS)]
+[H.R. 2493 Introduced in House (IH)]
 
-                                                       Calendar No. 589
-105th CONGRESS
-  2d Session
+113th CONGRESS
+  1st Session
                                 H. R. 2493
 
+ To amend chapter 329 of title 49, United States Code, to ensure that 
+  new vehicles enable fuel competition so as to reduce the strategic 
+                importance of oil to the United States.
+
 
 _______________________________________________________________________
 
 
-                   IN THE SENATE OF THE UNITED STATES
+                    IN THE HOUSE OF REPRESENTATIVES
 
-                            October 31, 1997
+                             June 25, 2013
 
-   Received; read twice and referred to the Committee on Energy and 
-                           Natural Resources
-
-                           September 18, 1998
-
-              Reported by Mr. Murkowski, without amendment
+  Mr. Engel (for himself, Ms. Ros-Lehtinen, Mr. Israel, Mr. Cole, Ms. 
+  Bordallo, Ms. Schwartz, and Mr. Peterson) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
 
 _______________________________________________________________________
 
-                                 AN ACT
+                                 A BILL
 
 
  
-To establish a mechanism by which the Secretary of Agriculture and the 
-    Secretary of the Interior can provide for uniform management of 
-                  livestock grazing on Federal lands.
+ To amend chapter 329 of title 49, United States Code, to ensure that 
+  new vehicles enable fuel competition so as to reduce the strategic 
+                importance of oil to the United States.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+SECTION 1. SHORT TITLE.
 
-    (a) Short Title.--This Act may be cited as the ``Forage Improvement 
-Act of 1997''.
-    (b) Table of Contents.--The table of contents of this Act is as 
-follows:
+    This Act may be cited as the ``Open Fuel Standard Act of 2013''.
 
-Sec. 1. Short title; table of contents.
-Sec. 2. Rules of construction.
-Sec. 3. Coordinated administration.
-            TITLE I--MANAGEMENT OF GRAZING ON FEDERAL LANDS
+SEC. 2. OPEN FUEL STANDARD FOR MOTOR VEHICLES.
 
-Sec. 101. Application of title.
-Sec. 102. Definitions.
-Sec. 103. Monitoring.
-Sec. 104. Subleasing.
-Sec. 105. Cooperative allotment management plans.
-Sec. 106. Fees and charges.
-                        TITLE II--MISCELLANEOUS
-
-Sec. 201. Effective date.
-Sec. 202. Issuance of new regulations.
-
-SEC. 2. RULES OF CONSTRUCTION.
-
-    (a) Limitation on Application.--Nothing in this Act shall be 
-construed to affect grazing in any unit of the National Park System, in 
-any unit of the National Wildlife Refuge System, in any unit of the 
-National Forest System managed as a National Grassland by the Secretary 
-of Agriculture under the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1010 
-et seq.), on any lands that are not Federal lands (as defined in 
-section 102), or on any lands that are held by the United States in 
-trust for the benefit of Indians.
-    (b) Multiple Use Activities Not Affected.--Nothing in this Act 
-shall be construed to limit or preclude the use of Federal lands (as 
-defined in section 102) for hunting, fishing, recreation, or other 
-multiple use activities in accordance with applicable Federal and State 
-laws and the principles of multiple use.
-    (c) Valid Existing Rights.--Nothing in this Act shall be construed 
-to affect valid existing rights, reservations, agreements, or 
-authorizations under Federal or State law.
-    (d) Access to Nonfederally Owned Lands.--Section 1323 of Public Law 
-96-487 (16 U.S.C. 3210) shall continue to apply with regard to access 
-to nonfederally owned lands.
-
-SEC. 3. COORDINATED ADMINISTRATION.
-
-    To the maximum extent practicable, the Secretary of Agriculture and 
-the Secretary of the Interior shall provide for consistent and 
-coordinated administration of livestock grazing and management of 
-Federal lands (as defined in section 102) consistent with the laws 
-governing such lands.
-
-            TITLE I--MANAGEMENT OF GRAZING ON FEDERAL LANDS
-
-SEC. 101. APPLICATION OF TITLE.
-
-    (a) Forest Service Lands.--This title applies to the management of 
-grazing on National Forest System lands, by the Secretary of 
-Agriculture under the following laws:
-            (1) The 11th undesignated paragraph under the heading 
-        ``surveying the public lands'' under the heading ``UNDER THE 
-        DEPARTMENT OF THE INTERIOR'' in the Act of June 4, 1897 
-        (commonly known as the Organic Administration Act of 1897) (30 
-        Stat. 35, second full paragraph on that page; 16 U.S.C. 551).
-            (2) Sections 11, 12, and 19 of the Act of April 24, 1950 
-        (commonly known as the Granger-Thye Act of 1950) (64 Stat. 85, 
-        88, chapter 97; 16 U.S.C. 580g, 580h, 580l).
-            (3) The Multiple-Use Sustained-Yield Act of 1960 (16 U.S.C. 
-        528 et seq.).
-            (4) The Forest and Rangeland Renewable Resources Planning 
-        Act of 1974 (16 U.S.C. 1600 et seq.).
-            (5) The National Forest Management Act of 1976 (16 U.S.C. 
-        472a et seq.).
-            (6) The Federal Land Policy and Management Act of 1976 (43 
-        U.S.C. 1701 et seq.).
-            (7) The Public Rangelands Improvement Act of 1978 (43 
-        U.S.C. 1901 et seq.).
-    (b) Bureau of Land Management Lands.--This title applies to the 
-management of grazing on Federal lands administered by the Secretary of 
-the Interior under the following laws:
-            (1) The Act of June 28, 1934 (commonly known as the Taylor 
-        Grazing Act) (48 Stat. 1269, chapter 865; 43 U.S.C. 315 et 
-        seq.).
-            (2) The Act of August 28, 1937 (commonly known as the 
-        Oregon and California Railroad and Coos Bay Wagon Road Grant 
-        Lands Act of 1937) (50 Stat. 874, chapter 876; 43 U.S.C. 1181a 
-        et seq.).
-            (3) The Federal Land Policy and Management Act of 1976 (43 
-        U.S.C. 1701 et seq.).
-            (4) The Public Rangelands Improvement Act of 1978 (43 
-        U.S.C. 1901 et seq.).
-            (5) The Bankhead-Jones Farm Tenant Act (7 U.S.C. 1010 et 
-        seq.).
-    (c) Certain Other United States Lands.--This title also applies to 
-the management of grazing by the Secretary concerned on behalf of the 
-head of another department or agency of the Federal Government under a 
-memorandum of understanding.
-
-SEC. 102. DEFINITIONS.
-
-    In this title:
-            (1) Authorized officer.--The term ``authorized officer'' 
-        means a person authorized by the Secretary concerned to 
-        administer this title, the laws specified in section 101, and 
-        regulations issued under this title and such laws.
-            (2) Federal lands.--The term ``Federal lands'' means lands 
-        outside the State of Alaska that are owned by the United States 
-        and are--
-                    (A) included in the National Forest System; or
-                    (B) administered by the Secretary of the Interior 
-                under the laws specified in section 101(b).
-            (3) Grazing permit or lease.--The term ``grazing permit or 
-        lease'' means a document authorizing use of Federal lands for 
-        the purpose of grazing livestock--
-                    (A) within a grazing district under section 3 of 
-                the Act of June 28, 1934 (commonly known as the Taylor 
-                Grazing Act) (48 Stat. 1270, chapter 865; 43 U.S.C. 
-                315b);
-                    (B) outside grazing districts under section 15 of 
-                the Act of June 28, 1934 (commonly known as the Taylor 
-                Grazing Act) (48 Stat. 1275, chapter 865; 43 U.S.C. 
-                315m); or
-                    (C) on National Forest System lands under section 
-                19 of the Act of April 24, 1950 (commonly known as the 
-                Granger-Thye Act of 1950) (64 Stat. 88, chapter 97; 16 
-                U.S.C. 580l).
-            (4) Land use plan.--The term ``land use plan'' means--
-                    (A) a land and resource management plan prepared by 
-                the Forest Service pursuant to section 6 of the Forest 
-                and Rangeland Renewable Resources Planning Act of 1974 
-                (16 U.S.C. 1604) for a unit of the National Forest 
-                System; or
-                    (B) a resource management plan (or a management 
-                framework plan that is in effect pending completion of 
-                a resource management plan) developed in accordance 
-                with the Federal Land Policy and Management Act of 1976 
-                (43 U.S.C. 1701 et seq.) for Federal lands administered 
-                by the Bureau of Land Management.
-            (5) National forest system.--The term ``National Forest 
-        System'' has the meaning given such term in section 11(a) of 
-        the Forest and Rangeland Renewable Resources Planning Act of 
-        1974 (16 U.S.C. 1609(a)), except that the term does not include 
-        any lands managed as a National Grassland under the Bankhead-
-        Jones Farm Tenant Act (7 U.S.C. 1010 et seq.).
-            (6) Secretary concerned.--The term ``Secretary concerned'' 
-        means--
-                    (A) the Secretary of Agriculture, with respect to 
-                the National Forest System; and
-                    (B) the Secretary of the Interior, with respect to 
-                Federal lands administered by the Secretary of the 
-                Interior under the laws specified in section 101(b).
-            (7) Sixteen contiguous western states.--The term ``sixteen 
-        contiguous Western States'' means the States of Arizona, 
-        California, Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, 
-        New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Utah, 
-        Washington, and Wyoming.
-
-SEC. 103. MONITORING.
-
-    (a) Monitoring.--The monitoring of resource conditions and trends 
-on Federal lands within allotments shall be performed only by qualified 
-persons from the following groups:
-            (1) Federal, State, and local government personnel.
-            (2) Grazing permittees and lessees.
-            (3) Professional consultants retained by the United States 
-        or a permittee or lessee.
-    (b) Monitoring Criteria and Protocols.--Such monitoring shall be 
-conducted according to regional or state criteria and protocols 
-selected by the Secretary concerned. The monitoring protocols shall be 
-site specific, scientifically valid, and subject to peer review. 
-Monitoring data shall be periodically verified.
-    (c) Types and Use of Data Collected.--
-            (1) Use of previously collected data and information.--In 
-        addition to using data collected from monitoring conducted 
-        under the authority of this section, the Secretary concerned 
-        shall consider data and information collected before the date 
-        of the enactment of this Act, if available, so long as the 
-        historical data and information is objective and reliable.
-            (2) Application of criteria and protocols.--The Secretary 
-        concerned shall not accept monitoring data that does not meet 
-        the requirements of subsection (a) or (b).
-            (3) Use of data.--The data and information collected from 
-        such monitoring shall be used to evaluate--
-                    (A) the effects of ecological changes and 
-                management actions on resources over time;
-                    (B) the effectiveness of actions in meeting 
-                management objectives contained in applicable land use 
-                plans; and
-                    (C) the appropriateness of resource management 
-                objectives.
-    (d) Notice.--In conducting such monitoring, the Secretary concerned 
-shall provide reasonable notice of the monitoring to affected 
-permittees or lessees, including prior notice to the extent practicable 
-of not less than 48 hours.
-
-SEC. 104. SUBLEASING.
-
-    A person issued a grazing permit or lease may not enter into an 
-agreement with another person to allow grazing on the Federal lands 
-covered by the grazing permit or lease by livestock that are neither 
-owned nor controlled by the person issued the grazing permit or lease.
-
-SEC. 105. COOPERATIVE ALLOTMENT MANAGEMENT PLANS.
-
-    (a) Written Agreements for Outcome-Based Standards.--An allotment 
-management plan or a grazing permit or lease under section 402(d) of 
-the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1752(d)) 
-may include a written agreement with a qualified grazing permittee or 
-lessee described in subsection (b) (or a group of qualified grazing 
-permittees or lessees) that provides for outcome-based standards, 
-rather than prescriptive terms and conditions, for managing grazing 
-activities in a specified geographic area. At the request of a 
-qualified grazing permittee or lessee, the Secretary concerned shall 
-consider including such a written agreement in an allotment management 
-plan or a grazing permit or lease.
-    (b) Qualified Grazing Permittee or Lessee Described.--A qualified 
-grazing permittee or lessee referred to in subsection (a) is a person 
-issued a grazing permit or lease who has demonstrated sound stewardship 
-by meeting or exceeding the forage and rangeland goals contained in 
-applicable land use plans and in that person's grazing permit or lease 
-for the previous five-year period.
-    (c) Inclusion of Performance Goals.--A written agreement authorized 
-under subsection (a) shall contain performance goals that--
-            (1) are expressed in objective, quantifiable, and 
-        measurable terms;
-            (2) establish performance indicators to be used in 
-        measuring or assessing the relevant outcomes;
-            (3) provide a basis for comparing management results with 
-        the established performance goals; and
-            (4) describe the means to be used to verify and validate 
-        measured values.
-    (d) Application of Other Laws.--All requirements of law applicable 
-to an allotment management plan and a grazing permit or lease under 
-section 402(d) of the Federal Land Policy and Management Act of 1976 
-(43 U.S.C. 1752(d)), including the prohibition against extending the 
-term of an existing grazing permit or lease, shall apply to a written 
-agreement entered into under subsection (a).
-    (e) Federal Advisory Committee Act.--Activities under this section 
-shall be exempt from the Federal Advisory Committee Act (5 U.S.C. 
-App.).
-
-SEC. 106. FEES AND CHARGES.
-
-    (a) Grazing Fees.--
-            (1) Calculation.--The fee for each animal unit month in a 
-        grazing fee year for livestock grazing on Federal lands in the 
-        sixteen contiguous western States shall be equal to the 12-year 
-        average of the total gross value of production for beef cattle 
-        for the 12 years preceding the grazing fee year, multiplied by 
-        the 12-year average of the United States Treasury Securities 
-        six-month bill ``new issue'' rate, and divided by 12. The gross 
-        value of production for beef cattle shall be determined by the 
-        Economic Research Service of the Department of Agriculture in 
-        accordance with subsection (d)(1).
-            (2) Fee for foreign-owned or controlled grazing permits or 
-        leases.--In the case of a grazing permit or lease held or 
-        otherwise controlled in whole or in part by a foreign 
-        corporation or a foreign individual, the fee shall be equal to 
-        the higher of the following:
-                    (A) The average grazing fee (weighted by animal 
-                unit months) charged by the State during the previous 
-                grazing year for grazing on State lands in the State in 
-                which the lands covered by the grazing permit or lease 
-                are located.
-                    (B) The average grazing fee (weighted by animal 
-                unit months) charged for grazing on private lands in 
-                the State in which the lands covered by the grazing 
-                permit or lease are located.
-    (b) Definition of Animal Unit Month.--For the purposes of billing 
-only, the term ``animal unit month'' means one month's use and 
-occupancy of range by--
-            (1) one cow, bull, steer, heifer, horse, burro, or mule, 
-        seven sheep, or seven goats, each of which is six months of age 
-        or older on the date on which the animal begins grazing on 
-        Federal lands;
-            (2) any such animal regardless of age if the animal is 
-        weaned on the date on which the animal begins grazing on 
-        Federal lands; and
-            (3) any such animal that will become 12 months of age 
-        during the period of use authorized under a grazing permit.
-    (c) Livestock Not Counted.--There shall not be counted as an animal 
-unit month the use of Federal lands for grazing by an animal that is 
-less than six months of age on the date on which the animal begins 
-grazing on such lands and is the progeny of an animal on which a 
-grazing fee is paid if the animal is removed from such lands before 
-becoming 12 months of age.
-    (d) Criteria for Economic Research Service.--
-            (1) Gross value of production of beef cattle.--The Economic 
-        Research Service of the Department of Agriculture shall 
-        continue to compile and report the gross value of production of 
-        beef cattle, on a dollars-per-bred-cow basis for the United 
-        States, as is currently published by the Service in: ``Economic 
-        Indicators of the Farm Sector: Cost of Production--Major Field 
-        Crops and Livestock and Dairy'' (Cow-calf production cash costs 
-        and returns).
-            (2) Availability.--For the purposes of determining the 
-        grazing fee for a given grazing fee year, the gross value of 
-        production (as described above) for the previous calendar year 
-        shall be made available to the Secretary concerned, and 
-        published in the Federal Register, on or before February 15 of 
-        each year.
-    (e) Treatment of Other Fees and Charges.--
-            (1) Amount of flpma fees and charges.--The fees and charges 
-        under section 304(a) of the Federal Land Policy and Management 
-        Act of 1976 (43 U.S.C. 1734(a)) shall reflect processing costs 
-        and shall be adjusted periodically as such costs change, but in 
-        no case shall such fees and charges exceed the actual 
-        administrative and processing costs incurred by the Secretary 
-        concerned.
-            (2) Notice of changes.--Notice of a change in a service 
-        charge shall be published in the Federal Register.
-
-                        TITLE II--MISCELLANEOUS
-
-SEC. 201. EFFECTIVE DATE.
-
-    This Act and the amendments made by this Act shall take effect on 
-the first day of the first grazing season beginning after the date of 
-the enactment of this Act.
-
-SEC. 202. ISSUANCE OF NEW REGULATIONS.
-
-    The Secretary of Agriculture and the Secretary of the Interior 
-shall--
-            (1) coordinate the promulgation of new regulations to carry 
-        out this Act; and
-            (2) publish such regulations simultaneously not later than 
-        180 days after the date of the enactment of this Act.
-
-            Passed the House of Representatives October 30, 1997.
-
-            Attest:
-
-                                                ROBIN H. CARLE,
-
-                                                                 Clerk.
-                                     
-
-
-
-
-
-                                                       Calendar No. 589
-
-105th CONGRESS
-
-  2d Session
-
-                               H. R. 2493
-
-_______________________________________________________________________
-
-                                 AN ACT
-
-To establish a mechanism by which the Secretary of Agriculture and the 
-    Secretary of the Interior can provide for uniform management of 
-                  livestock grazing on Federal lands.
-
-_______________________________________________________________________
-
-                           September 18, 1998
-
-                       Reported without amendment
+    Chapter 329 of title 49, United States Code, is amended by 
+inserting after section 32905 the following new section:
+``Sec. 32905A. Open fuel standard for motor vehicles.
+    ``(a) Requirements.--Except as provided in subsection (c), each 
+manufacturer's fleet of covered vehicles for a particular model year 
+shall be comprised of--
+            ``(1) not less than 30 percent qualified vehicles beginning 
+        in model year 2016; and
+            ``(2) not less than 50 percent qualified vehicles beginning 
+        in model year 2017 and each subsequent year.
+    ``(b) Additional Definitions.--As used in this section--
+            ``(1) the term `covered vehicle' means a passenger 
+        automobile, and includes a light-duty motor vehicle;
+            ``(2) the term `qualified vehicle' means covered vehicle 
+        that--
+                    ``(A) has been warranted by its manufacturer to 
+                operate on natural gas, hydrogen, or biodiesel;
+                    ``(B) is a flexible fuel vehicle;
+                    ``(C) is a plug-in electric drive vehicle;
+                    ``(D) is propelled solely by fuel cell that 
+                produces power without the use of petroleum or a 
+                petroleum-based fuel; or
+                    ``(E) is propelled solely by something other than 
+                an internal combustion engine, and produces power 
+                without the use of petroleum or a petroleum-based fuel;
+            ``(3) the term `flexible fuel vehicle' means a vehicle that 
+        has been warranted by its manufacturer to operate on gasoline, 
+        E85, and M85;
+            ``(4) the term `E85' means a fuel mixture containing up to 
+        85 percent ethanol and meets the standards of ASTM D5798;
+            ``(5) the term `M85' means a fuel mixture containing up to 
+        85 percent methanol and meets the standards of ASTM D5797;
+            ``(6) the term `biodiesel' means diesel fuel which has been 
+        produced from a non-petroleum feedstock and which meets the 
+        standards of ASTM D6751-03;
+            ``(7) the term `plug-in electric drive vehicle' has the 
+        meaning given such term in section 508(a)(5) of the Energy 
+        Policy Act of 1992 (42 U.S.C. 13258(a)(5)); and
+            ``(8) the term `light-duty motor vehicle' means a light-
+        duty truck or light-duty vehicle as such terms are defined in 
+        section 216(7) of the Clean Air Act (42 U.S.C. 7550(7)) of less 
+        than or equal to 8,500 pounds gross vehicle weight rating.
+    ``(c) Temporary Exemption From Requirements.--
+            ``(1) Application.--A manufacturer may request an exemption 
+        from the requirement described in subsection (a) by submitting 
+        an application to the Secretary, at such time, in such manner, 
+        and containing such information as the Secretary may require by 
+        regulation. Each such application shall specify the models, 
+        lines, and types of automobiles affected.
+            ``(2) Evaluation.--After evaluating an application received 
+        from a manufacturer, the Secretary may at any time, under such 
+        terms and conditions, and to such extent as the Secretary 
+        considers appropriate, temporarily exempt, or renew the 
+        exemption of, a light-duty motor-vehicle from the requirement 
+        described in subsection (a) if the Secretary determines that 
+        unavoidable events not under the control of the manufacturer 
+        prevent the manufacturer of such automobile from meeting its 
+        required production volume of qualified automobiles, 
+        including--
+                    ``(A) a disruption in the supply of any component 
+                required for compliance with the regulations; or
+                    ``(B) a disruption in the use and installation by 
+                the manufacturer of such component.
+            ``(3) Consolidation.--The Secretary may consolidate 
+        applications received from multiple manufacturers under 
+        subparagraph (A) if they are of a similar nature.
+            ``(4) Conditions.--Any exemption granted under paragraph 
+        (2) shall be conditioned upon the manufacturer's commitment to 
+        recall the exempted automobiles for installation of the omitted 
+        components within a reasonable time proposed by the 
+        manufacturer and approved by the Secretary after such 
+        components become available in sufficient quantities to satisfy 
+        both anticipated production and recall volume requirements.
+            ``(5) Notice.--The Secretary shall publish in the Federal 
+        Register--
+                    ``(A) notice of each application received from a 
+                manufacturer;
+                    ``(B) notice of each decision to grant or deny a 
+                temporary exemption; and
+                    ``(C) the reasons for granting or denying such 
+                exemptions.
+    ``(d) Rulemaking.--Not later than 1 year after the date of 
+enactment of this Act, the Secretary shall promulgate regulations as 
+necessary to carry out this section.''.
+                                 <all>

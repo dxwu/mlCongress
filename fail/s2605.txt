@@ -1,14 +1,13 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2605 Introduced in Senate (IS)]
 
+113th CONGRESS
   2d Session
                                 S. 2605
 
-To amend the Public Health Service Act to provide for the establishment 
-of a national program of traumatic brain injury and spinal cord injury 
-                              registries.
+  To preserve religious freedom and a woman's access to contraception.
 
 
 _______________________________________________________________________
@@ -16,11 +15,13 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-              October 9 (legislative day, October 2), 1998
+                             July 15, 2014
 
-    Mr. Torricelli (for himself and Mr. Lautenberg) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                       Labor and Human Resources
+  Ms. Ayotte (for herself, Mr. McConnell, Mrs. Fischer, Mr. Burr, Mr. 
+    Chambliss, Mr. Cornyn, Mr. Graham, Mr. Grassley, Mr. Hatch, Mr. 
+Isakson, Mr. McCain, Mr. Portman, Mr. Risch, Mr. Thune, Mr. Wicker, and 
+ Mr. Johanns) introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
 
 _______________________________________________________________________
 
@@ -28,215 +29,119 @@ _______________________________________________________________________
 
 
  
-To amend the Public Health Service Act to provide for the establishment 
-of a national program of traumatic brain injury and spinal cord injury 
-                              registries.
+  To preserve religious freedom and a woman's access to contraception.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Traumatic Brain Injury and Spinal 
-Cord Injury Registry Act''.
+    This Act may be cited as the ``Preserving Religious Freedom and a 
+Woman's Access to Contraception Act''.
 
 SEC. 2. FINDINGS.
 
-    Congress finds that--
-            (1) traumatic brain and spinal cord injury are severe and 
-        disabling, have enormous personal and societal costs;
-            (2) 51,000 people die each year from traumatic brain injury 
-        and 4,500,000 people live with lifelong and severe disability 
-        as a result of a traumatic brain injury;
-            (3) approximately 10,000 people sustain spinal cord 
-        injuries each year, and 200,000 live with life-long and severe 
-        disability; and
-            (4) a nationwide system of registries will help better 
-        define--
-                    (A) who sustains such injuries and the impact of 
-                such injuries;
-                    (B) the range of impairments and disability 
-                associated with such injuries; and
-                    (C) better mechanisms to refer persons with 
-                traumatic brain injuries or spinal cord injuries to 
-                available services.
+    Congress makes the following findings:
+            (1) Instead of restricting Americans' religious freedoms, 
+        Congress should preserve a woman's ability to make 
+        contraceptive decisions for herself.
+            (2) The freedom of religion is the first freedom listed in 
+        the First Amendment to the Constitution of the United States, 
+        and Congress has a strong interest in protecting the free 
+        exercise of religion for Americans of all faiths.
+            (3) The Religious Freedom Restoration Act of 1993 was 
+        signed by President Clinton on November 16, 1993, after passing 
+        the House of Representatives unanimously and passing the Senate 
+        with the votes of 97 Senators, including 16 currently serving 
+        Senators and the Vice President.
+            (4) Title VII of the Civil Rights Act of 1964 provides 
+        important protections against discrimination on the basis of 
+        race, color, religion, sex, or national origin.
+            (5) The Health Insurance Portability and Accountability Act 
+        and amendments made by that Act establish comprehensive 
+        protections to ensure that any medications used by or 
+        prescribed for an individual are not disclosed to an employer 
+        in its capacity as an employer.
+            (6) The Food and Drug Administration has found a number of 
+        contraceptives to be proven safe and effective at preventing 
+        pregnancies as well as in managing certain medical conditions.
+            (7) There are 5 programs, including the Medicaid program, 
+        carried out by the Department of Health and Human Services that 
+        provide access to contraception for low-income women.
+            (8) Federal and State government spending for contraceptive 
+        services totaled $2,370,000,000 in fiscal year 2010 and the 
+        Medicaid program financed 75 percent of government spending for 
+        family planning.
+            (9) More than 19,000,000 women were eligible for 
+        government-supported contraceptive services in 2010.
+            (10) Even before Obamacare mandated that employers fully 
+        subsidize employees' contraception, women had wide access to 
+        Food and Drug Administration-approved contraception and such 
+        contraception was covered by insurance at over 85 percent of 
+        large businesses.
+            (11) Now, Obamacare's various requirements cause an 
+        unprecedented intrusion of government mandates into Americans' 
+        personal health care decisions, including unprecedented Federal 
+        mandates that employers become involved in those decisions, and 
+        the individual mandate, which requires individuals to purchase 
+        health insurance or pay a penalty.
+            (12) Obamacare has created an enormous disruption in the 
+        personal health insurance options of millions of Americans 
+        whose health insurance plans were cancelled or whose preferred 
+        doctors were not included in their new health insurance plan 
+        networks.
+            (13) The Congressional Budget Office estimates that 
+        Obamacare could reduce employment by the equivalent of 
+        2,000,000 jobs over the next 10 years.
+            (14) One of Obamacare's mandates places 2,600,000 
+        Americans, nearly two-thirds of them women, at risk of having 
+        their hours and wages reduced, according to the Hoover 
+        Institution.
+            (15) Obamacare's cuts to the Medicare Advantage program and 
+        other regulatory actions could reduce the average benefit for 
+        women who rely on the program by $1,538 per year, or 13 
+        percent.
+            (16) Obamacare's payroll tax increase creates an 
+        inequitable tax penalty for married working women.
+            (17) Obamacare places limitations on health savings 
+        accounts, flexible spending accounts, and other consumer-
+        directed health savings vehicles, which help approximately 
+        17,400,000 Americans to save for their own health expenses, 
+        including contraceptives.
+            (18) The current Administration has granted discretionary 
+        compliance waivers from Obamacare to a variety of for-profit 
+        businesses, unions, and other organizations.
+            (19) To date, the Department of Health and Human Services 
+        has granted more than 1,000 individual waiver requests for 
+        employers and insurers, excusing the employers and insurers 
+        from compliance with various aspects of the law.
 
-SEC. 3. TRAUMATIC BRAIN INJURY AND SPINAL CORD INJURY REGISTRIES 
-              PROGRAM.
+SEC. 3. SENSE OF THE SENATE.
 
-    Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) 
-is amended by adding at the end the following:
+    It is the sense of the Senate that the Food and Drug Administration 
+should study whether contraceptives that are available with a 
+prescription, on the date of enactment of this Act, would be safe and 
+effective for adults if available without a prescription.
 
- ``Part O--National Program for Traumatic Brain Injury and Spinal Cord 
-                           Injury Registries
+SEC. 4. EMPLOYEE PROTECTION.
 
-``SEC. 399N. NATIONAL PROGRAM FOR TRAUMATIC BRAIN INJURY AND SPINAL 
-              CORD INJURY REGISTRIES.
+    Notwithstanding any other provision of law, an employer who is 
+engaged in interstate commerce may not prohibit an employee from 
+purchasing, pursuant to State prescribing and dispensing laws, a drug 
+or medical device, including a contraceptive, that is regulated by the 
+Food and Drug Administration.
 
-    ``(a) In General.--The Secretary, acting through the Director of 
-the Centers for Disease Control and Prevention, may make grants to 
-States or their designees to operate the State's traumatic brain injury 
-and spinal cord injury registry, and to academic institutions to 
-conduct applied research that will support the development of such 
-registries, to collect data concerning--
-            ``(1) demographic information about each traumatic brain 
-        injury or spinal cord injury;
-            ``(2) information about the circumstances surrounding the 
-        injury event associated with each traumatic brain injury and 
-        spinal cord injury;
-            ``(3) administrative information about the source of the 
-        collected information, dates of hospitalization and treatment, 
-        and the date of injury;
-            ``(4) information characterizing the clinical aspects of 
-        the traumatic brain injury or spinal cord injury, including the 
-        severity of the injury, the types of treatments received, and 
-        the types of services utilized;
-            ``(5) information on the outcomes associated with traumatic 
-        brain injuries and spinal cord injuries, such as impairments, 
-        functional limitations, and disability;
-            ``(6) information on the outcomes associated with traumatic 
-        brain injuries and spinal cord injuries which do not result in 
-        hospitalization; and
-            ``(7) other elements determined appropriate by the 
-        Secretary.
-    ``(b) Eligibility for Grants.--
-            ``(1) In general.--No grant shall be made by the Secretary 
-        under subsection (a) unless an application has been submitted 
-        to, and approved by, the Secretary. Such application shall be 
-        in such form, submitted in such a manner, and be accompanied by 
-        such information, as the Secretary may specify. No such 
-        application may be approved unless it contains assurances that 
-        the applicant will use the funds provided only for the purposes 
-        specified in the approved application and in accordance with 
-        the requirements of subsection (a), that the application will 
-        establish such fiscal control and fund accounting procedures as 
-        may be necessary to assure proper disbursement and accounting 
-        of Federal funds paid to the applicant under subsection (a) of 
-        this section, and that the applicant will comply with review 
-        requirements under sections 491 and 492.
-            ``(2) Establishment of registries.--Each applicant, prior 
-        to receiving Federal funds under subsection (a), shall provide 
-        for the establishment of a registry that will--
-                    ``(A) comply with appropriate standards of 
-                completeness, timeliness, and quality of data 
-                collection;
-                    ``(B) provide for periodic reports of traumatic 
-                brain injury and spinal cord injury registry data; and
-                    ``(C) provide for the authorization under State law 
-                of the statewide traumatic brain injury and spinal cord 
-                injury registry, including promulgation of regulations 
-                providing--
-                            ``(i) a means to assure timely and complete 
-                        reporting of brain injuries and spinal cord 
-                        injuries (as described in subsection (a)) to 
-                        the statewide traumatic brain injury and spinal 
-                        cord injury registry by hospitals or other 
-                        facilities providing diagnostic or acute care 
-                        or rehabilitative social services to patients 
-                        with respect to traumatic brain injury and 
-spinal cord injury;
-                            ``(ii) a means to assure the complete 
-                        reporting of brain injuries and spinal cord 
-                        injuries (as defined in subsection (a)) to the 
-                        statewide traumatic brain injury and spinal 
-                        cord injury registry by physicians, surgeons, 
-                        and all other health care practitioners 
-                        diagnosing or providing treatment for traumatic 
-                        brain injury and spinal cord injury patients, 
-                        except for cases directly referred to or 
-                        previously admitted to a hospital or other 
-                        facility providing diagnostic or acute care or 
-                        rehabilitative services to patients in that 
-                        State and reported by those facilities;
-                            ``(iii) a means for the statewide traumatic 
-                        brain injury and spinal cord injury registry to 
-                        access all records of physicians and surgeons, 
-                        hospitals, outpatient clinics, nursing homes, 
-                        and all other facilities, individuals, or 
-                        agencies providing such services to patients 
-                        which would identify cases of traumatic brain 
-                        injury or spinal cord injury or would establish 
-                        characteristics of the injury, treatment of the 
-                        injury, or medical status of any identified 
-                        patient; and
-                            ``(iv) for the reporting of traumatic brain 
-                        injury and spinal cord injury case data to the 
-                        statewide traumatic brain injury and spinal 
-                        cord injury registry in such a format, with 
-                        such data elements, and in accordance with such 
-                        standards of quality timeliness and 
-                        completeness, as may be established by the 
-                        Secretary.
-            ``(3) Applied research.--Applicants for applied research 
-        shall conduct applied research as determined by the Secretary, 
-        acting through the Director of the Centers for Disease Control 
-        and Prevention, to be necessary to support the development of 
-        registry activities as defined in this section.
-            ``(4) Assurances for confidentiality of registry data.--
-        Each applicant shall provide to the satisfaction of the 
-        Secretary for--
-                    ``(A) a means by which confidential case data may 
-                in accordance with State law be disclosed to traumatic 
-                brain injury and spinal cord injury researchers for the 
-                purposes of the prevention, control and research of 
-                brain injuries and spinal cord injuries;
-                    ``(B) the authorization or the conduct, by the 
-                statewide traumatic brain injury and spinal cord injury 
-                registry or other persons and organizations, of studies 
-                utilizing statewide traumatic brain injury and spinal 
-                cord injury registry data, including studies of the 
-                sources and causes of traumatic brain injury and spinal 
-                cord injury, evaluations of the cost, quality, 
-                efficacy, and appropriateness of diagnostic, 
-                rehabilitative, and preventative services and programs 
-                relating to traumatic brain injury and spinal cord 
-                injury, and any other clinical, epidemiological, or 
-                other traumatic brain injury and spinal cord injury 
-                research;
-                    ``(C) the protection of individuals complying with 
-                the law, including provisions specifying that no person 
-                shall be held liable in any civil action with respect 
-                to a traumatic brain injury and spinal cord injury case 
-                report provided to the statewide traumatic brain injury 
-                and spinal cord injury registry, or with respect to 
-                access to traumatic brain injury and spinal cord injury 
-                case information provided to the statewide traumatic 
-                brain injury and spinal cord injury registry; and
-                    ``(D) the protection of individual privacy and 
-                confidentiality consistent with Federal and State laws.
+SEC. 5. EMPOWERING EMPLOYEES TO MAKE HEALTH CHOICES.
 
-``SEC. 399O. TECHNICAL ASSISTANCE IN OPERATIONS OF STATEWIDE 
-              REGISTRIES.
-
-    ``The Secretary, acting through the Director of the Centers for 
-Disease Control and Prevention, may, directly or through grants and 
-contracts, or both, provide technical assistance to the States in the 
-establishment and operation of statewide registries, including 
-assistance in the development of model legislation for statewide 
-traumatic brain injury and spinal cord injury registries and assistance 
-in establishing a computerized reporting and data processing system. In 
-providing such assistance, the Secretary shall encourage States to 
-utilize standardized procedures where appropriate.
-
-``SEC. 399P. AUTHORIZATION OF APPROPRIATIONS.
-
-    ``For the purpose of carrying out this part, there are authorized 
-to be appropriated $10,000,000 for fiscal year 1999, and such sums as 
-may be necessary for each of the fiscal years 2000 through 2004.
-
-``SEC. 399Q. DEFINITIONS.
-
-    ``In this part:
-            ``(1) Spinal cord injury.--The term `spinal cord injury' 
-        means an acquired injury to the spinal cord. Such term does not 
-        include spinal cord dysfunction caused by congenital or 
-        degenerative disorders, vascular disease, or tumors, or spinal 
-        column fractures without a spinal cord injury.
-            ``(2) Traumatic brain injury.--The term `traumatic brain 
-        injury' means an acquired injury to the brain, including brain 
-        injuries caused by anoxia due to near-drowning. Such term does 
-        not include brain dysfunction caused by congenital or 
-        degenerative disorders, cerebral vascular disease, tumors, or 
-        birth trauma. The Secretary may revise the definition of such 
-        term as the Secretary determines appropriate.''.
+    (a) No Limitations Based on Whether a Drug Is Prescribed.--Section 
+9003 of the Patient Protection and Affordable Care Act (Public Law 111-
+148), and the amendments made by such section, are repealed, and the 
+Internal Revenue Code of 1986 shall be applied as if such section, and 
+amendments, had never been enacted.
+    (b) No Limitations on Health FSAs.--Sections 9005 and 10902 of the 
+Patient Protection and Affordable Care Act (Public Law 111-148) and 
+section 1403 of the Health Care and Education Reconciliation Act of 
+2010 (Public Law 111-152), and the amendments made by such sections, 
+are repealed, and the Internal Revenue Code of 1986 shall be applied as 
+if such section, and amendments, had never been enacted.
                                  <all>

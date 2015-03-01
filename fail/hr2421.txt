@@ -1,19 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 2421 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 2421
 
-             To repeal the Military Selective Service Act.
+ To provide biorefinery assistance eligibility to renewable chemicals 
+                   projects, and for other purposes.
 
 
 _______________________________________________________________________
@@ -21,10 +16,10 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                           September 5, 1997
+                             June 18, 2013
 
-  Mr. Stark introduced the following bill; which was referred to the 
-                     Committee on National Security
+   Mr. Peters of California introduced the following bill; which was 
+                referred to the Committee on Agriculture
 
 _______________________________________________________________________
 
@@ -32,155 +27,83 @@ _______________________________________________________________________
 
 
  
-             To repeal the Military Selective Service Act.
+ To provide biorefinery assistance eligibility to renewable chemicals 
+                   projects, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. REPEAL OF THE MILITARY SELECTIVE SERVICE ACT.
+SECTION 1. SHORT TITLE.
 
-    (a) Repeal.--The Military Selective Service Act (50 U.S.C. App. 451 
-et seq.) is repealed.
-    (b) Transfers in Connection With Repeal.--Notwithstanding the 
-proviso in section 10(a)(4) of the Military Selective Service Act (50 
-U.S.C. App. 460(a)(4)), the Office of Selective Service Records shall 
-not be reestablished upon the repeal of such Act. The assets, 
-contracts, property, and records held by the Selective Service System, 
-and the unexpended balances of any appropriations available to the 
-Selective Service System, shall be transferred to the Administrator of 
-General Services upon the repeal of such Act. The Director of the 
-Office of Personnel Management shall assist officers and employees of 
-the Selective Service System to transfer to other positions in the 
-executive branch.
-    (c) Conforming Amendments.--
-            (1) Title 5.--Title 5, United States Code, is amended as 
-        follows:
-                    (A) By striking out section 3328.
-                    (B) In the table of sections at the beginning of 
-                chapter 33, by striking out the item relating to 
-                section 3328.
-                    (C) In section 5102(b), by striking out ``, 
-                including positions'' and all that follows through 
-                ``those positions''.
-            (2) Title 8.--The Immigration and Nationality Act (8 U.S.C. 
-        1101 et seq.) is amended as follows:
-                    (A) In section 101(a)(19) (8 U.S.C. 1101(a)(19))--
-                            (i) by striking out ``section 3(a) of the 
-                        Selective Training and Service Act of 1940, as 
-                        amended (54 Stat. 885; 55 Stat. 844), or under 
-                        section 4(a) of the Selective Service Act of 
-                        1948, as amended (62 Stat. 605; 65 Stat. 76) or 
-                        under''; and
-                            (ii) by striking ``sections or''.
-                    (B) In section 245A(a)(4) (8 U.S.C. 1255a(a)(4))--
-                            (i) by adding ``and'' at the end of 
-                        subparagraph (B);
-                            (ii) by striking out ``, and'' at the end 
-                        of subparagraph (C) and inserting in lieu 
-                        thereof a period; and
-                            (iii) by striking out subparagraph (D).
-                    (C) In section 315(b) (8 U.S.C. 1426(b)), by 
-                inserting ``former'' before ``Selective Service 
-                System''.
-            (3) Title 10.--Title 10, United States Code, is amended as 
-        follows:
-                    (A) In section 513--
-                            (i) in subsection (a), by striking out 
-                        ``(except as provided in subsection (c))'';
-                            (ii) by striking out subsection (c); and
-                            (iii) by redesignating subsection (d) as 
-                        subsection (c).
-                    (B) In section 523(b), by striking out paragraph 
-                (7).
-                    (C) In section 641(1)--
-                            (i) by inserting ``or'' at the end of 
-                        subparagraph (E);
-                            (ii) by striking out subparagraph (F); and
-                            (iii) by redesignating subparagraph (G) as 
-                        subparagraph (F).
-                    (D) In section 651(a), by striking out ``, other 
-                than a person deferred under the next to the last 
-                sentence of section 6(d)(1) of the Military Selective 
-                Service Act (50 U.S.C App. 456(d)(1))''.
-                    (E) In section 1475(a)(5), by striking out ``who--
-                '' and all that follows through the period and 
-                inserting in lieu thereof ``who has been provisionally 
-                accepted for that duty.''.
-                    (F) In section 12103(b), by striking out ``, and 
-                who is not under orders to report for induction into an 
-                armed force under the Military Selective Service Act 
-                (50 U.S.C. App. 451 et seq.),''.
-                    (G) In section 12103(d), by striking out ``and who 
-                is not under orders to report for induction into an 
-                armed force under the Military Selective Service Act 
-                (50 U.S.C. App. 451 et seq.), except as provided in 
-                section 6(c)(2)(A) (ii) and (iii) of such Act,''.
-                    (H) In section 12104(a)--
-                            (i) by striking out ``or under the Military 
-                        Selective Service Act (50 U.S.C. App. 451 et 
-                        seq.),'' in the first sentence; and
-                            (ii) by striking out ``or under the 
-                        Military Selective Service Act (50 U.S.C. App. 
-                        451 et seq.)'' in the third sentence.
-                    (I) In section 12208(a)--
-                            (i) by striking out ``or under the Military 
-                        Selective Service Act (50 U.S.C. App. 451 et 
-                        seq.),'' in the first sentence; and
-                            (ii) by striking out ``or under the 
-                        Military Selective Service Act (50 U.S.C. App. 
-                        451 et seq.)'' in the third sentence.
-                    (J) In section 12647--
-                            (i) by striking out ``who is assigned to 
-                        the Selective Service System or'';
-                            (ii) by striking out ``assignment or''; and
-                            (iii) in the section heading, by striking 
-                        out ``assigned to the Selective Service System 
-                        or''.
-                    (K) In the table of sections at the beginning of 
-                chapter 1219, by striking out the item relating to 
-                section 12647 and inserting in lieu thereof the 
-                following new item:
+    This Act may be cited as the ``Renewable Chemicals Parity Act of 
+2013''.
 
-``12647. Commissioned officers: retention in active status while 
-                            serving as United States property and 
-                            fiscal officers.''.
-            (4) Title 22.--Section 23 of the Peace Corps Act (22 U.S.C. 
-        2520) is repealed.
-            (5) Title 26.--Section 3121(n)(5) of the Internal Revenue 
-        Act of 1986 (26 U.S.C. 3121(n)(5)) is amended by striking out 
-        ``service--'' and all that follows through ``or air service;'' 
-        and inserting in lieu thereof ``service who has been 
-        provisionally accepted for such duty;''.
-            (6) Title 29.--The Job Training Partnership Act (29 U.S.C. 
-        1501 et seq.) is amended as follows:
-                    (A) In section 426 (29 U.S.C. 1696)--
-                            (i) by striking out subsection (b); and
-                            (ii) by redesignating subsections (c) and 
-                        (d) as subsections (b) and (c), respectively.
-                    (A) By striking out section 604 (29 U.S.C. 1504).
-            (7) Title 37.--Title 37, United States Code, is amended as 
-        follows:
-                    (A) In section 209(a), by striking out the last 
-                sentence.
-                    (B) In section 308e(1)--
-                            (i) in subparagraph (A), by striking out 
-                        ``or under section 6(d)(1) of the Military 
-                        Selective Service Act (50 U.S.C. App. 
-                        456(d)(1))''; and
-                            (ii) in subparagraph (B), by striking out 
-                        ``or section 6(d)(1) of the Military Selective 
-                        Service Act (50 U.S.C. App. 456(d)(1))''.
-            (8) Title 42.--(A) Section 210(m)(5) of the Social Security 
-        Act (42 U.S.C. 410(m)(5)) is amended by striking out 
-        ``service--'' and all that follows through ``or air service;'' 
-        and inserting in lieu thereof ``service who has been 
-        provisionally accepted for such duty;''.
-            (B) Section 1007(b) of the Legal Services Corporation Act 
-        (42 U.S.C. 2996f(b)) is amended by striking out paragraph (10) 
-        and inserting in lieu thereof the following new paragraph:
-            ``(10) to provide legal assistance with respect to any 
-        proceeding or litigation arising out of desertion from the 
-        Armed Forces.''.
-    (d) Effective Date.--This Act, and the amendments made by this Act, 
-shall take effect 180 days after the date of the enactment of this Act.
+SEC. 2. INCLUSION OF RENEWABLE CHEMICAL PROJECTS IN BIOREFINERY 
+              ASSISTANCE.
+
+    (a) Definitions.--Section 9001 of the Farm Security and Rural 
+Investment Act of 2002 (7 U.S.C. 8101) is amended--
+            (1) in paragraph (6)--
+                    (A) in subparagraph (C), by striking ``; or'' and 
+                inserting a semicolon;
+                    (B) in subparagraph (D), by striking the period and 
+                inserting ``; or''; and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(E) renewable chemicals.'';
+            (2) in paragraph (7)(A), by striking ``biofuels and 
+        biobased products'' and inserting ``biofuels, biobased 
+        products, or renewable chemicals'';
+            (3) in paragraph (11), by inserting ``(including a 
+        renewable chemical)'' after ``material or compound'';
+            (4) by redesignating paragraphs (13) and (14) as paragraphs 
+        (14) and (15), respectively; and
+            (5) by inserting after paragraph (12) the following new 
+        paragraph:
+            ``(14) Renewable chemical.--The term `renewable chemical' 
+        means a monomer, polymer, plastic, formulated product, or 
+        chemical substance produced from renewable biomass.''.
+    (b) Biorefinery Assistance.--
+            (1) Renewable chemicals.--Section 9003 of the Farm Security 
+        and Rural Investment Act of 2002 (7 U.S.C. 8103) is amended--
+                    (A) in subsection (a) in the matter preceding 
+                paragraph (1), by striking ``advanced biofuels'' and 
+                inserting ``advanced biofuels, renewable chemicals, or 
+                biobased products'';
+                    (B) in subsection (b)(2)--
+                            (i) in subparagraph (A), by striking 
+                        ``advanced biofuel'' and inserting ``advanced 
+                        biofuel, a renewable chemical, or a biobased 
+                        product''; and
+                            (ii) in subparagraph (B), by striking 
+                        ``advanced biofuel'' and inserting ``advanced 
+                        biofuel, a renewable chemical, or a biobased 
+                        product'';
+                    (C) in subsection (c)(1), by striking ``advanced 
+                biofuels'' and inserting ``advanced biofuels, renewable 
+                chemicals, or biobased products'';
+                    (D) in subsection (d)(2)(C)--
+                            (i) in clause (i), by striking ``advanced 
+                        biofuel'' and inserting ``advanced biofuel, a 
+                        renewable chemical, or a biobased product''; 
+                        and
+                            (ii) in clause (iii), by striking 
+                        ``advanced biofuels'' and inserting ``advanced 
+                        biofuels, renewable chemicals, or biobased 
+                        products''; and
+                    (E) in subsection (e)(1)(C)--
+                            (i) in clause (i), by striking ``advanced 
+                        biofuel'' and inserting ``advanced biofuel or 
+                        renewable chemical''; and
+                            (ii) in clause (iii), striking ``advanced 
+                        biofuels'' and inserting ``advanced biofuels, 
+                        renewable chemicals, or biobased products''.
+            (2) Funding.--Subsection (h) of such section is amended--
+                    (A) in paragraph (1), by striking ``to remain 
+                available until expended'' and all that follows and 
+                inserting ``to remain available until expended, 
+                $75,000,000 for each of fiscal years 2014 through 
+                2018.''; and
+                    (B) in paragraph (2), by striking ``2013'' and 
+                inserting ``2018''.
                                  <all>

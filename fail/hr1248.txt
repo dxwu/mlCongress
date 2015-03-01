@@ -1,23 +1,14 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [H.R. 1248 Introduced in House (IH)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   1st Session
                                 H. R. 1248
 
-       To amend title XVIII of the Social Security Act to permit 
-   classification of certain hospitals as rural referral centers, to 
-permit reclassification of certain hospitals for disproportionate share 
-  payments, and to permit sole community hospitals to rebase Medicare 
-          payments based upon fiscal year 1994 and 1995 costs.
+   To amend the Patient Protection and Affordable Care Act to repeal 
+              certain limitations on health care benefits.
 
 
 _______________________________________________________________________
@@ -25,14 +16,17 @@ _______________________________________________________________________
 
                     IN THE HOUSE OF REPRESENTATIVES
 
-                             April 8, 1997
+                             March 19, 2013
 
-  Mr. Ney (for himself, Mr. Wicker, Mr. Hostettler, Mr. Norwood, Mr. 
- Dickey, Mr. Rahall, Mr. McHugh, Mr. Stupak, Mr. Roemer, Mr. Wise, Mr. 
- Solomon, Mr. Thompson, Mr. Faleomavaega, Mr. Clyburn, Mr. Spratt, Mr. 
- Barrett of Nebraska, Mr. Inglis of South Carolina, and Mr. English of 
-Pennsylvania) introduced the following bill; which was referred to the 
-                      Committee on Ways and Means
+  Mr. Paulsen (for himself, Mr. Tiberi, Mr. Boustany, Mr. Pitts, Mr. 
+ Chabot, Mr. Duncan of Tennessee, Mr. Roe of Tennessee, Mr. Alexander, 
+Mrs. Blackburn, Mr. Harper, Mr. Westmoreland, Mr. Ross, Mr. Latham, Mr. 
+McKinley, Mr. Conaway, Mr. Jones, Mr. Gibbs, Mr. Nunnelee, Mr. Womack, 
+ Mr. Schock, Mr. Sessions, Mr. Broun of Georgia, Mr. Latta, Mr. Yoder, 
+   Mr. Barr, Mr. Collins of New York, Mr. Burgess, Mr. Gerlach, Mr. 
+ Griffith of Virginia, Mr. Johnson of Ohio, Mr. Long, Mr. McCaul, Mr. 
+  Stutzman, Mr. Lamborn, Mr. Bucshon, and Mr. Harris) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
 
 _______________________________________________________________________
 
@@ -40,131 +34,30 @@ _______________________________________________________________________
 
 
  
-       To amend title XVIII of the Social Security Act to permit 
-   classification of certain hospitals as rural referral centers, to 
-permit reclassification of certain hospitals for disproportionate share 
-  payments, and to permit sole community hospitals to rebase Medicare 
-          payments based upon fiscal year 1994 and 1995 costs.
+   To amend the Patient Protection and Affordable Care Act to repeal 
+              certain limitations on health care benefits.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
 SECTION 1. SHORT TITLE.
 
-    This Act may be cited as the ``Rural Health Care Protection Act of 
-1997''.
+    This Act may be cited as the ``Family Health Care Flexibility 
+Act''.
 
-SEC. 2. CLASSIFICATION AS RURAL REFERRAL CENTERS.
+SEC. 2. REPEAL OF DISTRIBUTIONS FOR MEDICINE QUALIFIED ONLY IF FOR 
+              PRESCRIBED DRUG OR INSULIN.
 
-    (a) Prohibiting Denial of Request for Reclassification on Basis of 
-Comparability of Wages.--
-            (1) In general.--Section 1886(d)(10)(D) of the Social 
-        Security Act (42 U.S.C. 1395ww(d)(10)(D)) is amended--
-                    (A) by redesignating clause (iii) as clause (iv); 
-                and
-                    (B) by inserting after clause (ii) the following 
-                new clause:
-    ``(iii) Under the guidelines published by the Secretary under 
-clause (i), in the case of a hospital which has ever been classified by 
-the Secretary as a rural referral center under paragraph (5)(C), the 
-Board may not reject the application of the hospital under this 
-paragraph on the basis of any comparison between the average hourly 
-wage of the hospital and the average hourly wage of hospitals in the 
-area in which it is located.''.
-            (2) Effective date.--Notwithstanding section 
-        1886(d)(10)(C)(ii) of the Social Security Act, a hospital may 
-        submit an application to the Medicare Geographic Classification 
-        Review Board during the 60-day period beginning on the date of 
-        the enactment of this Act requesting a change in its 
-        classification for purposes of determining the area wage index 
-        applicable to the hospital under section 1886(d)(3)(D) of such 
-        Act for fiscal year 1998 if the hospital would be eligible for 
-        such a change in its classification under the standards 
-        described in section 1886(d)(10)(D) (as amended by paragraph 
-        (1)) but for its failure to meet the deadline for applications 
-        under section 1886(d)(10)(C)(ii).
-            (3) Reference to budget neutrality provision.--For a 
-        requirement that the Secretary of Health and Human Services 
-        make a proportional adjustment in the Medicare standardized 
-        payment amounts for inpatient hospital services to assure that 
-        geographic reclassifications of hospitals resulting from this 
-        subsection do not result in an increase in aggregate payments 
-        under section 1886 of the Social Security Act, see subsection 
-        (d)(8)(D) of such section.
-    (b) Continuing Treatment of Previously Designated Centers.--
-            (1) In general.--Any hospital classified as a rural 
-        referral center by the Secretary of Health and Human Services 
-        under section 1886(d)(5)(C) of the Social Security Act for 
-        fiscal year 1991 shall be classified as such a rural referral 
-        center for fiscal year 1998 and each subsequent fiscal year.
-            (2) Budget neutrality.--The provisions of section 
-        1886(d)(8)(D) of the Social Security Act shall apply to 
-        reclassifications made pursuant to paragraph (1) in the same 
-        manner as such provisions apply to a reclassification under 
-        section 1886(d)(10) of such Act.
+    Section 9003 of the Patient Protection and Affordable Care Act 
+(Public Law 111-148) and the amendments made by such section are 
+repealed; and the Internal Revenue Code of 1986 shall be applied as if 
+such section, and amendments, had never been enacted.
 
-SEC. 3. HOSPITAL GEOGRAPHIC RECLASSIFICATION PERMITTED FOR PURPOSES OF 
-              DISPROPORTIONATE SHARE PAYMENT ADJUSTMENTS.
+SEC. 3. REPEAL OF LIMITATION ON HEALTH FLEXIBLE SPENDING ARRANGEMENTS 
+              UNDER CAFETERIA PLANS.
 
-    (a) In General.--Section 1886(d)(10)(C)(i) of the Social Security 
-Act (42 U.S.C. 1395ww(d)(10)(C)(i)) is amended--
-            (1) by striking ``or'' at the end of subclause (I);
-            (2) by striking the period at the end of subclause (II) and 
-        inserting ``, or'';
-            (3) by inserting after subclause (II) the following:
-            ``(III) eligibility for and amount of additional payment 
-        amounts under paragraph (5)(F).''; and
-            (4) by adding at the end the following:
-``Any application approved for purposes of subclause (I) for a fiscal 
-year is deemed to be approved for purposes of subclause (III) for that 
-fiscal year.''.
-    (b) Effective Date.--Notwithstanding section 1886(d)(10)(C)(ii) of 
-the Social Security Act, a hospital may submit an application to the 
-Medicare Geographic Classification Review Board during the 60-day 
-period beginning on the date of the enactment of this Act requesting a 
-change in its classification for purposes of determining the 
-disproportionate share hospital payment applicable to the hospital 
-under section 1886(d)(5)(F) of such Act for fiscal year 1998 if the 
-hospital would be eligible for such a change in its classification 
-under the guidelines described in subsection (c) of this section but 
-for its failure to meet the deadline for applications under section 
-1886(d)(10(C)(ii).
-    (c) Applicable Guidelines.--Such Board shall apply the guidelines 
-established for reclassification under subclause (I) of section 
-1886(d)(10)(C)(i) of such Act to reclassification under subclause (III) 
-of such section until the Secretary of Health and Human Services 
-promulgates separate guidelines for reclassification under such 
-subclause (III).
-    (d) Reference to Budget Neutrality Provision.--For a requirement 
-that the Secretary of Health and Human Services make a proportional 
-adjustment in the medicare standardized payment amounts for inpatient 
-hospital services to assure that geographic reclassifications of 
-hospitals resulting from this section do not result in an increase in 
-aggregate payments under section 1886 of the Social Security Act, see 
-subsection (d)(8)(D) of such section.
-
-SEC. 4. PERMITTING REBASING OF PAYMENT FOR SOLE COMMUNITY HOSPITALS 
-              USING FISCAL YEARS 1994 AND 1995 COSTS.
-
-    Section 1886(b)(3) of the Social Security Act (42 U.S.C. 
-1395ww(b)(3)) is amended--
-            (1) in subparagraph (C), by inserting ``subject to 
-        subparagraph (F),'' after ``subsection (d)(5)(D)(iii)),''; and
-            (2) by adding at the end the following new subparagraph:
-    ``(F) In applying subparagraph (C) with respect to discharges 
-occurring in fiscal year 1998 and each subsequent fiscal year, in no 
-case shall the target amount for a hospital for fiscal year 1998 be 
-less than the average of--
-            ``(i) the allowable operating costs of inpatient hospital 
-        services recognized under this title for the hospital's 12-
-        month cost reporting period (if any) beginning during fiscal 
-        year 1994 increased (in a compounded manner) by the applicable 
-        percentage increase under subparagraph (B)(iv) for each of 
-        fiscal years 1995, 1996, 1997, and 1998, and
-            ``(ii) the allowable operating costs of inpatient hospital 
-        services recognized under this title for the hospital's 12-
-        month cost reporting period (if any) beginning during fiscal 
-        year 1995 increased (in a compounded manner) by the applicable 
-        percentage increase under subparagraph (B)(iv) for each of 
-        fiscal years 1996, 1997, and 1998.''.
+    Sections 9005 and 10902 of the Patient Protection and Affordable 
+Care Act (Public Law 111-148) and section 1403 of the Health Care and 
+Education Reconciliation Act of 2010 (Public Law 111-152) and the 
+amendments made by such sections are repealed.
                                  <all>

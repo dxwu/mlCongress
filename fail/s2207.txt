@@ -1,21 +1,16 @@
 
-[Congressional Bills 105th Congress]
+[Congressional Bills 113th Congress]
 [From the U.S. Government Printing Office]
 [S. 2207 Introduced in Senate (IS)]
 
-
-
-
-
-
-
-105th CONGRESS
+113th CONGRESS
   2d Session
                                 S. 2207
 
-   To amend the Clayton Act to enhance the authority of the Attorney 
-    General to prevent certain mergers and acquisitions that would 
-                    unreasonably limit competition.
+   To amend the Federal Election Campaign Act of 1971 to require all 
+ political committees to notify the Federal Election Commission within 
+ 48 hours of receiving cumulative contributions of $1,000 or more from 
+    any contributor during a calendar year, and for other purposes.
 
 
 _______________________________________________________________________
@@ -23,10 +18,10 @@ _______________________________________________________________________
 
                    IN THE SENATE OF THE UNITED STATES
 
-                             June 23, 1998
+                             April 3, 2014
 
-   Mr. Leahy introduced the following bill; which was read twice and 
-               referred to the Committee on the Judiciary
+   Mr. King introduced the following bill; which was read twice and 
+         referred to the Committee on Rules and Administration
 
 _______________________________________________________________________
 
@@ -34,109 +29,74 @@ _______________________________________________________________________
 
 
  
-   To amend the Clayton Act to enhance the authority of the Attorney 
-    General to prevent certain mergers and acquisitions that would 
-                    unreasonably limit competition.
+   To amend the Federal Election Campaign Act of 1971 to require all 
+ political committees to notify the Federal Election Commission within 
+ 48 hours of receiving cumulative contributions of $1,000 or more from 
+    any contributor during a calendar year, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
 
-SECTION 1. SHORT TITLE.
+SECTION 1. 48-HOUR NOTIFICATION REQUIRED FOR ALL POLITICAL COMMITTEES 
+              RECEIVING CUMULATIVE CONTRIBUTIONS OF $1,000 OR MORE 
+              DURING A YEAR FROM ANY CONTRIBUTOR.
 
-    This Act may be cited as the ``Antitrust Improvements Act of 
-1998''.
+    (a) Notification.--Section 304(a)(6)(A) of the Federal Election 
+Campaign Act of 1971 (2 U.S.C. 434(a)(6)(A)) is amended to read as 
+follows:
+    ``(A)(i) If a political committee receives an aggregate amount of 
+contributions equal to or greater than $1,000 from any contributor 
+during a calendar year, the committee shall submit a notification to 
+the Commission containing the name of the committee (and, in the case 
+of an authorized committee of a candidate, the name of the candidate 
+and the office sought by the candidate), the identification of the 
+contributor, and the date of receipt and amount of the contributions 
+involved.
+    ``(ii) If, at any time after a political committee is required to 
+submit a notification under this subparagraph with respect to a 
+contributor during a calendar year, the political committee receives 
+additional contributions from that contributor during that year, the 
+committee shall submit an additional notification under clause (i) with 
+respect to such contributor each time the aggregate amount of the 
+additional contributions received from the contributor during the year 
+equals or exceeds $1,000 (excluding the amount of any contribution for 
+which information is required to be included in a previous notification 
+under this subparagraph).
+    ``(iii) The political committee shall submit the notification 
+required under this subparagraph with respect to a contributor--
+            ``(I) in the case of a notification described in clause 
+        (i), not later than 48 hours after the date on which the 
+        aggregate amount of contributions received from the contributor 
+        during the calendar year first equals or exceeds $1,000; or
+            ``(II) in the case of an additional notification described 
+        in clause (ii), not later than 48 hours after the date on which 
+        the aggregate amount of contributions received from the 
+        contributor during the calendar year for which information was 
+        not already included in a notification under this subparagraph 
+        first equals or exceeds $1,000.
+    ``(iv) For purposes of this subparagraph, any amount transferred by 
+a joint fundraising committee which is established by an authorized 
+committee of a candidate to any other authorized committee of that 
+candidate shall be treated as a contribution by the joint fundraising 
+committee to such authorized committee.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply with respect to contributions received by a political committee 
+under the Federal Election Campaign Act of 1971 during 2014 or any 
+succeeding year, except that nothing in such amendment may be construed 
+to require a political committee which does not receive contributions 
+during the portion of 2014 which occurs after the date of the enactment 
+of this Act to meet the requirements of section 304(a)(6)(A) of the 
+Federal Election Campaign Act of 1971, as amended by subsection (a).
 
-SEC. 2. PURPOSE.
+SEC. 2. FILING BY SENATE CANDIDATES WITH FEDERAL ELECTION COMMISSION.
 
-    The purpose of this Act is to enhance the authority of the Attorney 
-General to prevent certain mergers and acquisitions that would 
-unreasonably limit competition in the telecommunications industry in 
-any case in which certain Federal requirements that would enhance 
-competition are not met.
-
-SEC. 3. RESTRAINT OF TRADE.
-
-    The Clayton Act (15 U.S.C. 12 et seq.) is amended by adding at the 
-end the following new section:
-
-``SEC. 27. RESTRAINT OF TRADE REGARDING TELECOMMUNICATIONS.
-
-    ``(a) Large Local Telephone Company Defined.--In this section, the 
-term `large local telephone company' means a local telephone company 
-that, as of the date of a proposed merger or acquisition covered by 
-this section, serves more than 5 percent of the telephone access lines 
-in the United States.
-    ``(b) Restraint of Trade Regarding Telecommunications.--
-Notwithstanding any other provision of law, a large local telephone 
-company, including any affiliate of such a company, shall not merge 
-with or acquire a controlling interest in another large local telephone 
-company unless--
-            ``(1) the Attorney General finds that the proposed merger 
-        or acquisition will promote competition for telephone exchange 
-        services and exchange access services; and
-            ``(2) the Federal Communications Commission finds that each 
-        large local telephone company that is a party to the proposed 
-        merger or acquisition, with respect to at least \1/2\ of the 
-        access lines in each State served by that company, of which at 
-        least \1/2\ are residential access lines, has fully implemented 
-        the requirements of sections 251 and 252 of the Communications 
-        Act of 1934 (47 U.S.C. 251, 252), including the regulations of 
-        the Commission and of the States that implement those 
-        requirements.
-    ``(c) Report of the Attorney General.--Not later than 10 days after 
-the Attorney General makes a finding described in subsection (b)(1), 
-the Attorney General shall submit to the Committee on the Judiciary of 
-the Senate and the Committee on the Judiciary of the House of 
-Representatives a report on the finding, including an analysis of the 
-effect of the merger or acquisition on competition in the United States 
-telecommunications industry.
-    ``(d) Application Process.--
-            ``(1) In general.--Each large local telephone company or 
-        affiliate of a large local telephone company proposing to merge 
-        with or acquire a controlling interest in another large local 
-        telephone company shall file an application with both the 
-        Attorney General and the Federal Communications Commission, on 
-        the same day.
-            ``(2) Decisions.--The Attorney General and the Federal 
-        Communications Commission shall issue a decision regarding the 
-        application within the time period applicable to review of 
-        mergers under section 7A of this Act.
-    ``(e) Jurisdiction of the United States Courts.--
-            ``(1) In general.--The district courts of the United States 
-        are vested with jurisdiction to prevent and restrain any 
-        mergers or acquisitions described in subsection (d) that are 
-        inconsistent with a finding under subsection (b) (1) or (2).
-            ``(2) Actions.--The Attorney General may institute 
-        proceedings in any district court of the United States in the 
-        district in which the defendant resides or is found or has an 
-        agent and that court shall order such injunctive, and other 
-        relief, as may be appropriate if--
-                    ``(A) the Attorney General makes a finding that a 
-                proposed merger or acquisition described in subsection 
-                (d) does not meet the applicable condition under 
-                subsection (b)(1); or
-                    ``(B) the Federal Communications Commission makes a 
-                finding that 1 or more of the parties to the merger or 
-                acquisition referred to in subsection (b)(2) do not 
-                meet the requirements specified in that subsection.''.
-
-SEC. 4. PRESERVATION OF EXISTING AUTHORITIES.
-
-    (a) In General.--Nothing in this Act or the amendments made by this 
-Act shall be construed to modify, impair, or supersede the 
-applicability of the antitrust laws, or any authority of the Federal 
-Communications Commission under the Communications Act of 1934 (47 
-U.S.C. 151 et seq.), with respect to mergers, acquisitions, and 
-affiliations of large incumbent local exchange carriers.
-    (b) Antitrust Laws Defined.--In this section, the term ``antitrust 
-laws'' has the meaning given that term in the first section of the 
-Clayton Act (15 U.S.C. 12).
-
-SEC. 5. APPLICABILITY.
-
-    This Act and the amendments made by this Act shall apply to a 
-merger or acquisition of a controlling interest of a large local 
-telephone company (as that term is defined in section 27 of the Clayton 
-Act, as added by section 3 of this Act), occurring on or after the date 
-of enactment of this Act.
+    (a) Mandatory Filing With FEC.--Section 302(g) of the Federal 
+Election Campaign Act of 1971 (2 U.S.C. 432(g)) is amended to read as 
+follows:
+    ``(g) Filing With the Commission.--All designations, statements, 
+and reports required to be filed under this Act shall be filed with the 
+Commission.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply with respect to materials filed on or after the date of the 
+enactment of this Act.
                                  <all>
