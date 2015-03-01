@@ -23,7 +23,7 @@ function get_text
     while read line
     do
         # reset most recent date
-        newest=`date -d"1900-01-01" +%y%m%d`
+        newest=`gdate -d"1900-01-01" +%y%m%d`
 
         # parse url into array containing bill information
         substr=`grep -o 'bills/.*' <<< $line`
