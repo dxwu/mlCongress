@@ -1,0 +1,137 @@
+Decision Tree PseudoCode
+
+function entropy = entropy(noPass, noFail)
+
+	total = noPass + noFail;
+	entropy = (noPass / total) * log(noPass / total) + (noFail / total) * log(noFail / total);
+
+end
+
+function gain = infoGain(feature, threshold, pass, fail)
+
+	total = size(pass) + size(fail);
+	highPass = 0;
+	highFail = 0;
+	lowPass = 0;
+	lowFail = 0;
+
+	for all pass
+
+		if > bestThresh
+
+			highPass++
+		else
+
+			lowPass++
+		end
+	end
+	
+	for all fail
+
+		if > bestThresh
+
+			highFail++
+		else
+
+			lowFail++
+		end
+	end
+
+	entHigh = entropy(highPass, highFail) * (highPass + highFail / total);
+	entLow = entropy(lowPass, lowFail) * (lowPass + lowFail / total);
+	entWhole = entropy(size(pass), size(fail));
+
+	gain = entWhole - entHigh - entLow;
+end
+
+function [feature, bestThresh] = splitBinary(features, pass, fail)
+
+	n = size(features, 2);
+	maxGain = zeros(2, n);
+
+	for f = 1 : n 	// for all features
+
+		entropS = -p(pass)*log2( p(pass) ) - p(fail)*log2( p(fail) );
+		sort all samples by f
+
+		for s = 1 : m 	// for all samples
+
+			if (sample[s] != sample[s + 1])		// labels don't match
+
+				thresh = (sample[s] + sample[s + 1]) / 2;
+				gain = infoGain(f, thresh, pass, fail);
+
+				if (gain > maxGain[f][1])
+
+					maxGain[f][1] = gain;
+					maxGain[f][2] = thresh;
+
+				end
+			end
+		end
+	end
+
+	feature = index of highest maxGain;
+	bestThresh = maxGain[feature][2];
+
+end
+
+function tree = buildDTree(features, pass, fail)
+
+	if (size(pass) == 0 || size(fail) == 0 || size(features) == 0)
+
+		return new Tree(null, pass.length, fail.length, null);
+
+	else
+
+		[f, bestThresh] = splitBinary(features, pass, fail);
+		features.remove(f);
+
+		for all pass
+
+			if > bestThresh
+
+				highPass.add
+			else
+
+				lowPass.add
+			end
+		end
+		
+		for all fail
+
+			if > bestThresh
+
+				highFail.add
+			else
+
+				lowFail.add
+			end
+		end
+
+		above = buildDTree(features, highPass, highFail);
+		below = buildDtree(features, lowPass, lowFail);
+
+		parent = new Tree(bestThresh, size(pass), size(fail), f);
+		parent.addChildren(below, above);
+
+		return parent;
+	end	
+
+end
+
+Questions
+
+ - multi-class: pass, fail, refer --- weighting for balanced training sets?
+ 	- associated issues: thresholds
+ - choosing random subset for every tree vs for split of every tree (and constrain depth)
+ - cross validation
+ 	- # topics based on error of random forest v. depth of trees
+ - size of random subset = sqrt(p) for p features?
+ - better way to split/find splitting threshold?
+ - completely uniformly at random vs. some weighting of words more likely to help classify
+ - what language?
+
+
+
+
