@@ -16,11 +16,16 @@ function q2a()
 %Y = S.trainsetY;
 %disp(size(X));
 %disp(size(Y));
+
+labels = dlmread('./labels.txt', ',');
 X = dlmread('./topic_dist.txt', ','); %X is m x K, where X(m, k) = P(topic k | document m)
-Y = [ones(54, 1); zeros(202, 1)];
+disp(size(X));
+Y = [ones(labels(1), 1); zeros(labels(2), 1)];
+
 Xtest = dlmread('./topic_dist_test.txt', ',');
-Ytest = [ones(37, 1); zeros(207, 1)];
-    
+disp(size(Xtest));
+Ytest = [ones(labels(3), 1); zeros(labels(4), 1)];
+disp('---');
 %   146    22
 
 %   146     1
