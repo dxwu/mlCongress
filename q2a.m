@@ -19,13 +19,11 @@ function q2a()
 
 labels = dlmread('./labels.txt', ',');
 X = dlmread('./topic_dist.txt', ','); %X is m x K, where X(m, k) = P(topic k | document m)
-disp(size(X));
 Y = [ones(labels(1), 1); zeros(labels(2), 1)];
 
 Xtest = dlmread('./topic_dist_test.txt', ',');
-disp(size(Xtest));
 Ytest = [ones(labels(3), 1); zeros(labels(4), 1)];
-disp('---');
+
 %   146    22
 
 %   146     1

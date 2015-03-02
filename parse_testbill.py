@@ -45,7 +45,7 @@ def process_bills(bill_dir, target_dir):
 """
 
 class Vocabulary:
-    def __init__(self, excluds_stopwords=False, pass_test, fail_test):
+    def __init__(self, pass_test, fail_test, excluds_stopwords=False):
         self.vocas = []        # id to word
         self.vocas_id = dict() # word to id
         self.populate_vocab('./vocab.txt')
@@ -101,10 +101,10 @@ if __name__=='__main__':
     os.makedirs('./fail_test_clean')
     
     r = open('./labels.txt', 'a')
-    r.write(str(len([name for name in os.listdir(sys.argv[1]) if os.path.isfile(name)])))
-    r.write(str(len([name for name in os.listdir(sys.argv[2]) if os.path.isfile(name)])))
+    r.write(str(len([name for name in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1] + name)])) + ',')
+    r.write(str(len([name for name in os.listdir(sys.argv[2]) if os.path.isfile(sys.argv[2] + name)])))
 
-    vocab = Vocabulary(True)
+    vocab = Vocabulary(sys.argv[1], sys.argv[2], True)
 """
     #test directory: '/Users/barrychen/Desktop/CS74Project/bills_old/sres/sres596/'
     maxCountP = process_bills(sys.argv[1], './pass_clean/') 

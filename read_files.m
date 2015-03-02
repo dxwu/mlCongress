@@ -25,22 +25,16 @@ end
 
 function [docs] = read_files_in_one_dir( dir_name )
 maxCount = dlmread('./maxCount.txt');
-%dir_name = './pass_clean/';
 filePattern = fullfile(dir_name, '*');
 processed_bills = dir(filePattern);
 docs = zeros(length(processed_bills) - 2, maxCount);
-%disp(length(processed_bills) - 2);
 i = 1;
 for k = 1:length(processed_bills)
-    if strcmp(processed_bills(k).name, '.') == 0 && strcmp(processed_bills(k).name, '..') == 0 %&& strcmp(lower(processed_bills(k).name), '.ds_store') == 0
-        %disp(size(docs(i,:)));
-        %disp(size(dlmread(strcat(dir_name, processed_bills(k).name), ',')));
+    if strcmp(processed_bills(k).name, '.') == 0 && strcmp(processed_bills(k).name, '..') == 0
         A = dlmread(strcat(dir_name, processed_bills(k).name), ',');
         docs(i, 1:length(A)) = A;
         i = i+1;
     end
 end
-%disp(i);
-disp(size(docs));
 end
 
