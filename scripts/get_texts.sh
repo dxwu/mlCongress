@@ -20,7 +20,7 @@ function get_text
 {
     # make directory from file name
     dirName=`echo $1 | cut -d'.' -f1 | sed 's/[0-9]*//g'`
-    mkdir ${loc}/${dirName}
+    mkdir ${loc}/../${dirName}
 
     # read each line of text file
     while read line
@@ -56,7 +56,7 @@ function get_text
         done
 
         # create bill text document in appropriate directory
-        cat ${docType}/document.txt > ${loc}/${dirName}/${bill}.txt
+        cat ${docType}/document.txt > ${loc}/../${dirName}/${bill}.txt
 
     done < $1   
 }
