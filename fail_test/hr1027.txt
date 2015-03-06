@@ -1,0 +1,90 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1027 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1027
+
+ To amend title 28, United States Code, to provide for a 3-judge court 
+  to hear and determine any application for an injunction against the 
+        enforcement of a State or Federal law on the ground of 
+              unconstitutionality, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 11, 1997
+
+  Mr. Paxon introduced the following bill; which was referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title 28, United States Code, to provide for a 3-judge court 
+  to hear and determine any application for an injunction against the 
+        enforcement of a State or Federal law on the ground of 
+              unconstitutionality, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. THREE-JUDGE COURT.
+
+    (a) In General.--Chapter 155 of title 28, United States Code, is 
+amended by inserting before section 2283 the following:
+``Sec. 2281. Injunction against enforcement of State statute; three-
+              judge court required
+    ``An interlocutory or permanent injunction restraining the 
+enforcement, operation, or execution of any State statute by 
+restraining the action of any officer of such State in the enforcement 
+or execution of such statute or of an order made by an administrative 
+board or commission acting under State statutes, shall not be granted 
+by any district court upon the ground of the unconstitutionality of 
+such statute unless the application therefor is heard and determined by 
+a district court of three judges under section 2284 of this title.
+``Sec. 2282. Injunction against enforcement of Federal statute; three-
+              judge court required
+    ``An interlocutory or permanent injunction restraining the 
+enforcement, operation, or execution of any Act of Congress for 
+repugnance to the Constitution of the United States shall not be 
+granted by any district court unless the application therefor is heard 
+and determined by a district court of three judges under section 2284 
+of this title.''.
+    (b) Conforming Amendments.--(1) Section 2284(a) of title 28, United 
+States Code, is amended by inserting ``pursuant to section 2281 or 2282 
+or'' after ``shall be convened''.
+    (2) The table of contents for chapter 155 of title 28, United 
+States Code, is amended by inserting before the item relating to 
+section 2283 the following:
+
+``2281. Injunction against enforcement of State statute; three-judge 
+                            court required.
+``2282. Injunction against enforcement of Federal statute; three-judge 
+                            court required.''.
+
+SEC. 2. AUTHORITY OF SUPREME COURT TO DENY CERTIORARI.
+
+    Section 1253 of title 28, United States Code, is amended by 
+inserting before the period at the end the following: ``, except for 
+proceedings under section 2281 or 2282''.
+
+SEC. 3. EFFECTIVE DATE.
+
+    The amendments made by this Act shall not apply to any action 
+commenced before the date of the enactment of this Act.
+                                 <all>

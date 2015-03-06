@@ -1,0 +1,157 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1164 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 1164
+
+To amend the Internal Revenue Code of 1986 to provide taxpayers engaged 
+ in certain agriculture-related activities a credit against income tax 
+ for property used to control environmental pollution and for soil and 
+                    water conservation expenditures.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 20, 1997
+
+  Mr. Herger (for himself, Mr. Barrett of Nebraska, Mr. Houghton, Mr. 
+Watkins, Mr. Camp, Mr. Frost, Mr. Latham, Mr. Minge, Mr. Kingston, Mr. 
+ McHugh, Mr. Gilchrest, Mr. Walsh, and Mr. Nethercutt) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to provide taxpayers engaged 
+ in certain agriculture-related activities a credit against income tax 
+ for property used to control environmental pollution and for soil and 
+                    water conservation expenditures.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Rural Environment Tax Credit Act''.
+
+SEC. 2. CREDIT FOR PROPERTY USED IN CERTAIN AGRICULTURE-RELATED 
+              ACTIVITIES TO CONTROL ENVIRONMENTAL POLLUTION AND FOR 
+              SOIL AND WATER CONSERVATION EXPENDITURES.
+
+    (a) In General.--Section 46 of the Internal Revenue Code of 1986 
+(relating to amount of investment credit) is amended by striking 
+``and'' at the end of paragraph (2), by striking the period at the end 
+of paragraph (3) and inserting ``, and'', and by adding at the end 
+thereof the following paragraph:
+            ``(4) in the case of an eligible taxpayer (as defined in 
+        section 48(c)), the agricultural environmental credit.''
+    (b) Agricultural Environmental Credit.--Section 48 of such Code is 
+amended by adding at the end thereof the following new subsection:
+    ``(c) Agricultural Environmental Credit.--
+            ``(1) In general.--For purposes of section 46, in the case 
+        of an eligible taxpayer, the agricultural environmental credit 
+        for any taxable year is--
+                    ``(A) 15 percent of the portion of the basis of 
+                each agricultural environmental property placed in 
+                service by the taxpayer during such taxable year, and
+                    ``(B) 15 percent of the amount allowed as a 
+                deduction under section 175 (determined without regard 
+                to paragraph (4)(B)) for such taxable year.
+            ``(2) Eligible taxpayer.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `eligible taxpayer' means any taxpayer 
+                primarily engaged in a farming-related business.
+                    ``(B) Farming-related business.--For purposes of 
+                this subsection, the term `farming-related business' 
+                means--
+                            ``(i) a farming business (as defined in 
+                        section 263A(e)(4)),
+                            ``(ii) a trade or business of mixing 
+                        fertilizers from purchased fertilizer 
+                        materials, and
+                            ``(iii) a trade or business of the 
+                        wholesale distribution of animal feeds, 
+                        fertilizers, agricultural chemicals, 
+                        pesticides, seeds, or other farm supplies 
+                        (other than grains).
+            ``(3) Agricultural environmental property.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `agricultural environmental property' means 
+                any new identifiable treatment facility--
+                            ``(i) which is used in a farming-related 
+                        business for the primary purpose of complying 
+                        with Federal, State, and local environmental 
+                        laws dealing with the abatement or control of 
+                        water, soil, or atmospheric pollution or 
+                        contamination by removing, altering, disposing, 
+                        storing, or preventing the creation or emission 
+                        of pollutants, contaminants, wastes, or heat, 
+                        and
+                            ``(ii) which does not significantly--
+                                    ``(I) increase the output or 
+                                capacity, extend the useful life, or 
+                                reduce the total operating costs of 
+                                plant or property to which such 
+                                facility relates, or
+                                    ``(II) alter the nature of any 
+                                manufacturing or production process or 
+                                facility.
+                    ``(B) New identifiable treatment facility.--The 
+                term `new identifiable treatment facility' has the 
+                meaning given such term by section 169(d)(4)(A), 
+                determined by substituting `December 31, 1996' for 
+                `December 31, 1968'.
+            ``(4) Special rules.--
+                    ``(A) Coordination with energy and rehabilitation 
+                credits.--This subsection shall not apply to--
+                            ``(i) any property to the extent the basis 
+                        of such property is attributable to qualified 
+                        rehabilitation expenditures (as defined in 
+                        section 47(c)(2)), or
+                            ``(ii) energy property.
+                    ``(B) Coordination with deduction for soil and 
+                water conservation expenditures.--The amount which 
+                would (but for this subparagraph) be allowed as a 
+                deduction under section 174 for any taxable year shall 
+                be reduced by the amount of the credit allowed by 
+                paragraph (1)(B) for such year.
+                    ``(C) Coordination with amortization of pollution 
+                control facilities.--This subsection shall not apply to 
+                any property to the extent an election is made under 
+                section 169 with respect to the basis of such 
+                property.''
+    (c) Clerical Amendments.--
+            (1) The section heading for section 48 of such Code is 
+        amended to read as follows:
+
+``SEC. 48. ENERGY CREDIT; REFORESTATION CREDIT; AGRICULTURAL 
+              ENVIRONMENTAL CREDIT.''
+
+            (2) The item relating to section 48 in the table of 
+        sections for subpart E of part IV of subchapter A of chapter 1 
+        of such Code is amended to read as follows:
+
+                              ``Sec. 48. Energy credit; reforestation 
+                                        credit; agricultural 
+                                        environmental credit.''
+    (d) Effective Date.--The amendments made by this section shall 
+apply to periods after December 31, 1996, under rules similar to the 
+rules of section 48(m) of the Internal Revenue Code of 1986 (as in 
+effect on the day before the date of the enactment of the Revenue 
+Reconciliation Act of 1990).
+                                 <all>

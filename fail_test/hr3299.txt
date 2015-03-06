@@ -1,0 +1,504 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3299 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 3299
+
+  To establish limitations with respect to the disclosure and use of 
+ genetic information in connection with group health plans and health 
+ insurance coverage, to provide for consistent standards applicable in 
+connection with hospital care and medical services provided under title 
+38 of the United States Code, to prohibit employment discrimination on 
+  the basis of genetic information and genetic testing, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 26, 1998
+
+Mrs. Linda Smith of Washington introduced the following bill; which was 
+     referred to the Committee on Commerce, and in addition to the 
+Committees on Education and the Workforce, and Veterans' Affairs, for a 
+ period to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To establish limitations with respect to the disclosure and use of 
+ genetic information in connection with group health plans and health 
+ insurance coverage, to provide for consistent standards applicable in 
+connection with hospital care and medical services provided under title 
+38 of the United States Code, to prohibit employment discrimination on 
+  the basis of genetic information and genetic testing, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled, 
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Family Genetic Privacy and 
+Protection Act''.
+
+SEC. 2. PROHIBITION OF HEALTH INSURANCE DISCRIMINATION ON THE BASIS OF 
+              GENETIC INFORMATION.
+
+    (a) Group Coverage.--
+            (1) Amendments to public health service act.--
+                    (A) Inclusion of genetic testing in 
+                nondiscrimination requirements.--Section 2702(a)(1)(F) 
+                of the Public Health Service Act (42 U.S.C. 300gg-
+                1(a)(1)(F)), as added by section 102(a) of Health 
+                Insurance Portability and Accountability Act of 1996, 
+                is amended by inserting ``(or a request for, or receipt 
+                of, genetic information or a genetic test)'' after 
+                ``genetic information''.
+                    (B) Prohibitions against use and disclosure of 
+                genetic information.--Subpart 2 of part A of title 
+                XXVII of the Public Health Service Act, as amended by 
+                section 703(a) of Public Law 104-204, is amended by 
+                adding at the end the following new section:
+
+``SEC. 2706. PROHIBITIONS AGAINST USE AND DISCLOSURE OF GENETIC 
+              INFORMATION.
+
+    ``(a) Prohibition of Use of Genetic Information.--A group health 
+plan, and a health insurance issuer offering health insurance coverage 
+in connection with a group health plan, may not use genetic information 
+to reject, deny, limit, cancel, refuse to renew, establish differential 
+rates or premium payments for, or otherwise affect benefits provided 
+under the plan or health insurance coverage offered in connection with 
+the plan.
+    ``(b) Prohibition of Disclosure of Genetic Information.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        regardless of the manner in which genetic information was 
+        received, or of the source of such information, including 
+        information received from an individual, a health insurance 
+        issuer in connection with health insurance coverage offered in 
+        connection with a group health plan and a group health plan may 
+        not disclose or be compelled (by subpoena or any other means) 
+        to disclose genetic information about an individual unless such 
+        disclosure is specifically authorized by the individual 
+        involved or the legal representative of the individual through 
+        a written authorization which includes a description of the 
+        information being disclosed, the name of the individual or 
+        entity to whom the disclosure is being made, and the purpose of 
+        the disclosure.
+            ``(2) Exceptions.--Notwithstanding paragraph (1), genetic 
+        information concerning an individual may be disclosed if such 
+        disclosure--
+                    ``(A) is authorized under Federal or State criminal 
+                laws relating to the identification of individuals, or 
+                as is necessary for the purpose of a criminal or death 
+                investigation, a criminal or juvenile proceeding, an 
+                inquest, or a child fatality review by a 
+                multidisciplinary child abuse team;
+                    ``(B) is required under the specific order of a 
+                Federal or State court;
+                    ``(C) is authorized under Federal or State law for 
+                the purpose of establishing paternity; or
+                    ``(D) is for the purpose of identifying bodies.
+            ``(3) Application of subsection.--The prohibitions of this 
+        subsection shall apply to any redisclosure by any entity after 
+        another entity has disclosed the genetic information.''.
+                    (C) Definitions.--Section 2791(d) of the Public 
+                Health Service Act (42 U.S.C. 300gg-91(d)) is amended 
+                by adding at the end the following new paragraph:
+            ``(15) Genetic information; genetic test.--
+                    ``(A) Genetic information.--The term `genetic 
+                information' with respect to an individual means 
+                information about the genes of the individual or a 
+                member of the individual's family or about any gene 
+                products or inherited characteristics that may derive 
+                from the individual or a member of the individual's 
+                family.
+                    ``(B) Genetic test.--The term `genetic test' means 
+                a test for determining the presence or absence of 
+                genetic characteristics in an individual, including 
+                tests of nucleic acids such as DNA, RNA, and 
+                mitochondrial DNA, chromosomes, or proteins in order to 
+                diagnose a genetic characteristic.''.
+            (D) Conforming amendment.--Section 2723(c) of such Act (42 
+        U.S.C. 300gg-23(c)), as amended by section 604(b)(2) of Public 
+        Law 104-204, is amended by striking ``section 2704'' and 
+        inserting ``sections 2704 and 2706''.
+            (2) ERISA amendments.--
+                    (A) Inclusion of genetic testing in 
+                nondiscrimination requirements.--Section 702(a)(1)(F) 
+                of the Employee Retirement Income Security Act of 1974 
+                (29 U.S.C. 1182(a)(1)(F)), as added by section 101(a) 
+                of Health Insurance Portability and Accountability Act 
+                of 1996, is amended by inserting ``(or a request for, 
+                or receipt of, genetic information or a genetic test)'' 
+                after ``genetic information''.
+                    (B) Prohibition against use and disclosure of 
+                genetic information.--Subpart B of part 7 of subtitle B 
+                of title I of the Employee Retirement Income Security 
+                Act of 1974, as amended by section 702(a) of Public Law 
+                104-204, is amended by adding at the end the following 
+                new section:
+
+``SEC. 713. PROHIBITION AGAINST USE AND DISCLOSURE OF GENETIC 
+              INFORMATION.
+
+    ``(a) Prohibition of Use of Genetic Information.--A group health 
+plan, and a health insurance insurer offering health insurance coverage 
+in connection with a group health plan, may not use genetic information 
+to reject, deny, limit, cancel, refuse to renew, increase the rates of, 
+or otherwise affect benefits provided under the plan or health 
+insurance coverage offered in connection with the plan.
+    ``(b) Prohibition of Disclosure of Genetic Information.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        regardless of the manner in which genetic information was 
+        received, or of the source of such information, including 
+        information received from an individual, a health insurance 
+        issuer in connection with health insurance coverage offered in 
+        connection with a group health plan and a group health plan may 
+        not disclose or be compelled (by subpoena or any other means) 
+        to disclose genetic information about an individual unless such 
+        disclosure is specifically authorized by the individual 
+        involved or the legal representative of the individual through 
+        a written authorization which includes a description of the 
+        information being disclosed, the name of the individual or 
+        entity to whom the disclosure is being made, and the purpose of 
+        the disclosure.
+            ``(2) Exceptions.--Notwithstanding paragraph (1), genetic 
+        information concerning an individual may be disclosed if such 
+        disclosure--
+                    ``(A) is authorized under Federal or State criminal 
+                laws relating to the identification of individuals, or 
+                as is necessary for the purpose of a criminal or death 
+                investigation, a criminal or juvenile proceeding, an 
+                inquest, or a child fatality review by a 
+                multidisciplinary child abuse team;
+                    ``(B) is required under the specific order of a 
+                Federal or State court;
+                    ``(C) is authorized under Federal or State law for 
+                the purpose of establishing paternity; or
+                    ``(D) is for the purpose of identifying bodies.
+            ``(3) Application of subsection.--The prohibitions of this 
+        subsection shall apply to any redisclosure by any entity after 
+        another entity has disclosed the genetic information.''.
+                    (C) Definitions.--Section 733(d) of the Employee 
+                Retirement Income Security Act of 1974 (29 U.S.C. 
+                1186(d)) is amended by adding at the end the following 
+                new paragraph:
+            ``(5) Genetic information; genetic test.--
+                    ``(A) The term `genetic information' with respect 
+                to an individual means information about the genes of 
+                the individual or a member of the individual's family 
+                or about any gene products or inherited characteristics 
+                that may derive from the individual or a member of the 
+                individual's family.
+                    ``(B) The term `genetic test' means a test for 
+                determining the presence or absence of genetic 
+                characteristics in an individual, including tests of 
+                nucleic acids such as DNA, RNA, and mitochondrial DNA, 
+                chromosomes, or proteins in order to diagnose a genetic 
+                characteristic.''.
+                    (D) Conforming amendments.--(i) Section 731(c) of 
+                such Act (29 U.S.C. 1191(c)), as amended by section 
+                603(b)(1) of Public Law 104-204, is amended by striking 
+                ``section 711'' and inserting ``sections 711 and 713''.
+                    (ii) Section 732(a) of such Act (29 U.S.C. 
+                1191a(a)), as amended by section 603(b)(2) of Public 
+                Law 104-204, is amended by striking ``section 711'' and 
+                inserting ``sections 711 and 713''.
+                    (iii) The table of contents in section 1 of such 
+                Act is amended by inserting after the item relating to 
+                section 712 the following new item:
+
+``Sec. 713. Prohibition against use and disclosure of genetic 
+                            information.''.
+    (b) Individual Health Insurance.--Part B of title XXVII of the 
+Public Health Service Act, as amended by section 605(a) of Public Law 
+104-204, is amended by inserting after section 2751 the following new 
+section:
+
+``SEC. 2752. PROHIBITION AGAINST USE AND DISCLOSURE OF GENETIC 
+              INFORMATION.
+
+    ``The provisions of section 2706 shall apply to health insurance 
+coverage offered by a health insurance issuer in the individual market 
+in the same manner as it applies to health insurance coverage offered 
+by a health insurance issuer in connection with a group health plan in 
+the small or large group market.''.
+    (c) Treatment of Genetic Information Under Programs Administered by 
+the Department of Veterans' Affairs.--
+            (1) In general.--Subchapter III of chapter 73 of title 38, 
+        United States Code, is amended by inserting after section 7334 
+        the following new section:
+``Sec. 7335. Treatment of genetic information
+    ``The Secretary shall prescribe standards, relating to the use and 
+disclosure of genetic information in connection with hospital care and 
+medical services provided under chapter 17 of this title, which are 
+consistent with the standards applicable under section 2706 of the 
+Public Health Service Act (relating to prohibitions against use and 
+disclosure of genetic information) in connection with benefits provided 
+by group health plans and health insurance coverage offered by health 
+insurance issuers.''.
+            (2) Conforming amendment.--The table of sections for 
+        chapter 73 of title 38, United States Code is amended by 
+        inserting after the item relating to section 7334 the following 
+        new item:
+
+``7335. Treatment of genetic information.''.
+    (d) Effective Dates.--(1) The amendments made by subsection (a) 
+shall apply with respect to group health plans for plan years beginning 
+on or after January 1, 1998.
+    (2) The amendments made by subsection (b) shall apply with respect 
+to health insurance coverage offered, sold, issued, renewed, in effect, 
+or operated in the individual market on or after such date.
+    (3) The amendments made by subsection (c) shall apply with respect 
+to hospital care and medical services provided on or after such date.
+
+SEC. 3. PROHIBITION OF EMPLOYMENT PRACTICES INVOLVING GENETIC 
+              INFORMATION.
+
+    (a) Acquisition and Use of Genetic Information and Genetic 
+Testing.--
+            (1) In general.--Subject to paragraph (2), it shall be an 
+        unlawful employment practice for an employer--
+                    (A) to attempt to acquire, to acquire, or to use 
+                the genetic information of an employee or applicant for 
+                employment, or
+                    (B) to require a genetic test of an employee or 
+                applicant for employment,
+        for the purpose of distinguishing among employees or applicants 
+        for employment or for the purpose of discriminating against or 
+        restricting any right or benefit otherwise due or available to 
+        an employee or applicant for employment, in connection with any 
+        matter relating to employment or employment opportunities, 
+        including terms and conditions of employment, privileges and 
+        benefits for employees, and termination of employment.
+            (2) Exception.--Paragraph (1) shall not apply with respect 
+        to any act described in paragraph (1) with respect to genetic 
+        information or any requirement described in paragraph (1) for a 
+        genetic test if such act or requirement--
+                    (A) is job-related and consistent with business 
+                necessity, or
+                    (B) is required under Federal or State law.
+    (b) Nondisclosure and Confidentiality of Genetic Information.--It 
+shall be an unlawful employment practice for an employer--
+            (1) to allow access to genetic information of employees to 
+        any person other than persons whose duties or responsibilities 
+        in connection with the employer require access to such 
+        information for purposes consistent with subsection (a), or
+            (2) to establish or maintain access by the employer to an 
+        employee's genetic information which has been acquired--
+                    (A) by any employee welfare benefit plan 
+                established or maintained by the employer in which such 
+                employee is a participant (or by any other fiduciary of 
+                such a plan), or
+                    (B) by any health insurance issuer offering health 
+                insurance coverage in connection with a group health 
+                plan in which such employee is a participant,
+without the prior, written, and informed consent of the employee, 
+signed by the employee, setting forth the person or persons to whom 
+access to such information is to be allowed.
+    (c) Enforcement.--The powers, remedies, and procedures set forth in 
+sections 705 through 709 of the Civil Rights Act of 1964 shall be the 
+powers, remedies, and procedures this section provides to any person 
+alleging a violation of this section.
+    (d) Definitions.--As used in this section:
+            (1) Employer; employee.--The terms ``employer'' and 
+        ``employee'' have the meanings given such terms, respectively, 
+in section 701 of the Civil Rights Act of 1964 (42 U.S.C. 2000e).
+            (2) Employment or employment opportunities.--The term 
+        ``employment or employment opportunities'' includes job 
+        application procedures, hiring, advancement, discharge, 
+        compensation, job training, or any other term, condition, or 
+        privilege of employment.
+            (3) Genetic information.--The term ``genetic information'' 
+        with respect to an individual means information about the genes 
+        of the individual or a member of the individual's family or 
+        about any gene products or inherited characteristics that may 
+        derive from the individual or a member of the individual's 
+        family.
+            (4) Genetic test.--The term ``genetic test'' means a test 
+        for determining the presence or absence of genetic 
+        characteristics in an individual, including tests of nucleic 
+        acids such as DNA, RNA, and mitochondrial DNA, chromosomes, or 
+        proteins in order to diagnose a genetic characteristic.
+            (5) Other terms.--
+                    (A) Group health plan; health insurance issuer; 
+                health insurance coverage.--The terms ``group health 
+                plan'', ``health insurance issuer'', and ``health 
+insurance coverage'' have the meanings given such terms, respectively, 
+in section 733 of the Employee Retirement Income Security Act of 1974 
+(29 U.S.C. 1191b(a)).
+                    (B) Employee welfare benefit plan; participant.--
+                The terms ``employee welfare benefit plan'' and 
+                ``participant'' have the meanings given such terms, 
+                respectively, in section 3 of the Employee Retirement 
+                Income Security Act of 1974 (29 U.S.C. 1002).
+
+SEC. 4. NATIONAL BIPARTISAN COMMISSION ON THE USE OF GENETIC 
+              INFORMATION.
+
+    (a) Establishment.--There is established a commission to be known 
+as the National Bipartisan Commission on the Use of Genetic Information 
+(in this section referred to as the ``Commission'').
+    (b) Duties of the Commission.--The Commission shall make 
+recommendations with respect to the following:
+            (1) The development and implementation of standards to 
+        provide increased protection for the collection, storage, and 
+        use of identifiable DNA samples and genetic information 
+        obtained from those samples.
+            (2) The development and implementation of appropriate 
+        standards for the acquisition and retention of genetic 
+        information in all settings, but particularly in clinical 
+        settings, including appropriate exceptions.
+    (c) Membership.--
+            (1) Number and appointment.--The Commission shall be 
+        composed of 17 members, of whom--
+                    (A) four shall be appointed by the President;
+                    (B) six shall be appointed by the Majority Leader 
+                of the Senate, in consultation with the Minority Leader 
+                of the Senate, of whom not more than 4 shall be of the 
+                same political party;
+                    (C) six shall be appointed by the Speaker of the 
+                House of Representatives, in consultation with the 
+                Minority Leader of the House of Representatives, of 
+                whom not more than 4 shall be of the same political 
+                party; and
+                    (D) one, who shall serve as Chairman of the 
+                Commission, appointed jointly by the President, 
+                Majority Leader of the Senate, and the Speaker of the 
+                House of Representatives.
+            (2) Expertise.--It is the sense of the Congress that the 
+        Commission should include Members with expertise in the 
+        following areas:
+                    (A) Science and clinical research.
+                    (B) Religion.
+                    (C) Genetic counseling, and patient advocacy and 
+                support.
+                    (D) Ethics.
+                    (E) Law.
+            (3) Deadline for appointment.--Members of the Commission 
+        shall be appointed by not later than January 1, 1999.
+            (4) Terms of appointment.--The term of any appointment 
+        under paragraph (1) to the Commission shall be for the life of 
+        the Commission.
+            (5) Meetings.--The Commission shall meet at the call of its 
+        Chairman or a majority of its members.
+            (6) Quorum.--A quorum shall consist of 8 members of the 
+        Commission, except that 4 members may conduct a hearing under 
+        subsection (e).
+            (7) Vacancies.--A vacancy on the Commission shall be filled 
+        in the same manner in which the original appointment was made 
+        not later than 30 days after the Commission is given notice of 
+        the vacancy and shall not affect the power of the remaining 
+        members to execute the duties of the Commission.
+            (8) Compensation.--Members of the Commission shall receive 
+        no additional pay, allowances, or benefits by reason of their 
+        service on the Commission.
+            (9) Expenses.--Each member of the Commission shall receive 
+        travel expenses and per diem in lieu of subsistence in 
+        accordance with sections 5702 and 5703 of title 5, United 
+        States Code.
+    (d) Staff and Support Services.--
+            (1) Executive director.--
+                    (A) Appointment.--The Chairman shall appoint an 
+                executive director of the Commission.
+                    (B) Compensation.--The executive director shall be 
+                paid the rate of basic pay for level V of the Executive 
+                Schedule.
+            (2) Staff.--With the approval of the Commission, the 
+        executive director may appoint such personnel as the executive 
+        director considers appropriate.
+            (3) Applicability of civil service laws.--The staff of the 
+        Commission shall be appointed without regard to the provisions 
+        of title 5, United States Code, governing appointments in the 
+competitive service, and shall be paid without regard to the provisions 
+of chapter 51 and subchapter III of chapter 53 of such title (relating 
+to classification and General Schedule pay rates).
+            (4) Experts and consultants.--With the approval of the 
+        Commission, the executive director may procure temporary and 
+        intermittent services under section 3109(b) of title 5, United 
+        States Code.
+            (5) Physical facilities.--The Administrator of the General 
+        Services Administration shall locate suitable office space for 
+        the operation of the Commission. The facilities shall serve as 
+        the headquarters of the Commission and shall include all 
+        necessary equipment and incidentals required for the proper 
+        functioning of the Commission.
+    (e) Powers of Commission.--
+            (1) Hearings and other activities.--For the purpose of 
+        carrying out its duties, the Commission may hold such hearings 
+        and undertake such other activities as the Commission 
+        determines to be necessary to carry out its duties.
+            (2) Studies by gao.--Upon the request of the Commission, 
+        the Comptroller General shall conduct such studies or 
+        investigations as the Commission determines to be necessary to 
+        carry out its duties.
+            (3) Cost estimates by congressional budget office and 
+        office of the chief actuary of hcfa.--
+                    (A) The Director of the Congressional Budget Office 
+                or the Chief Actuary of the Health Care Financing 
+                Administration, or both, shall provide to the 
+                Commission, upon the request of the Commission, such 
+                cost estimates as the Commission determines to be 
+                necessary to carry out its duties.
+                    (B) The Commission shall reimburse the Director of 
+                the Congressional Budget Office for expenses relating 
+                to the employment in the office of the Director of such 
+                additional staff as may be necessary for the Director 
+                to comply with requests by the Commission under 
+                subparagraph (A).
+            (4) Detail of federal employees.--Upon the request of the 
+        Commission, the head of any Federal agency is authorized to 
+        detail, without reimbursement, any of the personnel of such 
+        agency to the Commission to assist the Commission in carrying 
+        out its duties. Any such detail shall not interrupt or 
+        otherwise affect the civil service status or privileges of the 
+        Federal employee.
+            (5) Technical assistance.--Upon the request of the 
+        Commission, the head of a Federal agency shall provide such 
+        technical assistance to the Commission as the Commission 
+        determines to be necessary to carry out its duties.
+            (6) Use of mails.--The Commission may use the United States 
+        mails in the same manner and under the same conditions as 
+        Federal agencies and shall, for purposes of the frank, be 
+        considered a commission of Congress as described in section 
+        3215 of title 39, United States Code.
+            (7) Obtaining information.--The Commission may secure 
+        directly from any Federal agency information necessary to 
+        enable it to carry out its duties, if the information may be 
+        disclosed under section 552 of title 5, United States Code. 
+        Upon request of the Chairman of the Commission, the head of 
+        such agency shall furnish such information to the Commission.
+            (8) Administrative support services.--Upon the request of 
+        the Commission, the Administrator of General Services shall 
+        provide to the Commission on a reimbursable basis such 
+        administrative support services as the Commission may request.
+            (9) Printing.--For purposes of costs relating to printing 
+        and binding, including the cost of personnel detailed from the 
+        Government Printing Office, the Commission shall be deemed to 
+        be a committee of the Congress.
+    (f) Report.--Not later than 18 months after the date of the 
+enactment of this Act, the Commission shall submit a report to the 
+President and the Congress which shall contain a detailed statement of 
+only those recommendations, findings, and conclusions of the Commission 
+that receive the approval of at least 11 members of the Commission.
+    (g) Termination.--The Commission shall terminate 30 days after the 
+date of submission of the report required in subsection (f).
+                                 <all>

@@ -1,0 +1,100 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4395 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  2d Session
+                                H. R. 4395
+
+To amend the Real Estate Settlement Procedures Act of 1974 to prohibit 
+     a lender from requiring a borrower in a residential mortgage 
+    transaction to provide the lender with unlimited access to the 
+                   borrower's tax return information.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             August 4, 1998
+
+  Ms. Rivers introduced the following bill; which was referred to the 
+              Committee on Banking and Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Real Estate Settlement Procedures Act of 1974 to prohibit 
+     a lender from requiring a borrower in a residential mortgage 
+    transaction to provide the lender with unlimited access to the 
+                   borrower's tax return information.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Real Estate Transaction Privacy 
+Promotion Act''.
+
+SEC. 2. PROHIBITION.
+
+    The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 
+et seq.) is amended by inserting after section 12 the following new 
+section:
+
+``SEC. 13. PROHIBITION OF REQUIRING OPEN-ENDED ACCESS TO BORROWER'S TAX 
+              RECORDS.
+
+    ``No person may require, as a condition of making a federally 
+related mortgage loan, that the borrower or prospective borrower 
+provide to any person a copy of Form 4506 of the Internal Revenue 
+Service (relating to a request for copy or transcript of tax form), or 
+any successor to such form, that is signed by the borrower or 
+prospective borrower, unless the form--
+            ``(1) is fully completed before signing by the borrower;
+            ``(2) specifically requests tax information for not more 
+        than the 2 tax periods most recently completed as of the date 
+        that the form is signed; and
+            ``(3) is completed, signed, and dated not later than the 
+        date of settlement involving such loan.''.
+
+SEC. 3. PENALTIES.
+
+    Section 8(d) of the Real Estate Settlement Procedures Act of 1974 
+(12 U.S.C. 2607(d)) is amended--
+            (1) in paragraph (1), by inserting ``or section 13'' after 
+        ``this section''; and
+            (2) in paragraph (4), by inserting ``or section 13'' before 
+        the period at the end.
+
+SEC. 4. JURISDICTION OF COURTS.
+
+    Section 16 of the Real Estate Settlement Procedures Act of 1974 (12 
+U.S.C. 2614) is amended--
+            (1) by striking ``or 9'' the first place it appears and 
+        inserting ``9, or 13''; and
+            (2) by striking ``or 9'' the second place it appears and 
+        inserting ``, 9, or 13''.
+
+SEC. 5. SPECIAL INFORMATION BOOKLETS.
+
+    Not later than 60 days after the date of the enactment of this Act, 
+the Secretary of Housing and Urban Development shall, by notice in the 
+Federal Register, revise the special information booklet prepared by 
+the Secretary pursuant to section 5 of the Real Estate Settlement 
+Procedures Act of 1974 to include in such booklet information 
+explaining the prohibition and penalties under the amendments made by 
+this Act.
+                                 <all>

@@ -21,7 +21,7 @@ if strcmp(opt,'random')
     % random initialization
     rand('seed', 0);
     theta = rand(n,1); % generate initial value
-    disp(theta);
+    
 else
     
     % "heuristic" initialization
@@ -38,7 +38,7 @@ else
     end
     
     theta = Xtrain\b;
-    disp(theta);
+    
 end
 
 

@@ -1,0 +1,109 @@
+
+[Congressional Bills 105th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2335 Introduced in House (IH)]
+
+
+
+
+
+
+
+105th CONGRESS
+  1st Session
+                                H. R. 2335
+
+ To amend the Internal Revenue Code of 1986 to repeal the 1993 Federal 
+  income tax rate increases on trusts established for the benefit of 
+                     individuals with disabilities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 31, 1997
+
+ Mr. Goode (for himself, Mr. Goodlatte, Mr. Boucher, Mr. Pickett, and 
+    Mr. Davis of Virginia) introduced the following bill; which was 
+              referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to repeal the 1993 Federal 
+  income tax rate increases on trusts established for the benefit of 
+                     individuals with disabilities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Persons With Disabilities Trusts Tax 
+Rate Restoration Act''.
+
+SEC. 2. REPEAL OF 1993 RATE INCREASES ON TRUSTS FOR INDIVIDUALS WHO ARE 
+              DISABLED OR FOR COLLEGE EDUCATIONS.
+
+    (a) In General.--Section 1(e) of the Internal Revenue Code of 1986 
+(relating to tax imposed on estates and trusts) is amended to read as 
+follows:
+    ``(e) Estates and Trusts.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        there is hereby imposed on the taxable income of--
+                    ``(A) every estate, and
+                    ``(B) every trust,
+        taxable under this subsection a tax determined in accordance 
+        with the following table:
+
+``If taxable income is:             The tax is:
+    Not over $1,500................
+                                        15% of taxable income.
+    Over $1,500 but not over $3,500
+                                        $225, plus 28% of the excess 
+                                                over $1,500.
+    Over $3,500 but not over $5,500
+                                        $785, plus 31% of the excess 
+                                                over $3,500.
+    Over $5,500 but not over $7,500
+                                        $1,405, plus 36% of the excess 
+                                                over $5,500.
+    Over $7,500....................
+                                        $2,125, plus 39.6% of the 
+                                                excess over $7,500.
+            ``(2) Special rule for certain trusts.--
+                    ``(A) In general.--There is hereby imposed on the 
+                taxable income of an eligible trust taxable under this 
+                subsection a tax determined in accordance with the 
+                following table:
+
+``If taxable income is:             The tax is:
+    Not over $3,300................
+                                        15% of taxable income.
+    Over $3,300 but not over $9,900
+                                        $495, plus 28% of the excess 
+                                                over $3,300.
+    Over $9,900....................
+                                        $2,343, plus 31% of the excess 
+                                                over $9,900.
+                    ``(B) Eligible trust.--For purposes of subparagraph 
+                (A), the term `eligible trust' means a trust which is 
+                established exclusively for the purpose of providing 
+                reasonable amounts for the support and maintenance of 1 
+                or more beneficiaries each of whom is an individual who 
+                is mentally ill or has a disability (within the meaning 
+                of section 3(2) of the Americans With Disabilities Act 
+                of 1990 (42 U.S.C. 12102(2)) at the time the trust is 
+                established. A trust shall not fail to meet the 
+                requirements of this subparagraph merely because the 
+                corpus of the trust may revert to the grantor or a 
+                member of the grantor's family upon the death of the 
+                beneficiary.''
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after the date of the enactment of this Act.
+                                 <all>

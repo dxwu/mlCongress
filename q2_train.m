@@ -44,7 +44,7 @@ while (norm(grad)>tol) && (n_iter < 100000)
         %disp('end');
     end
     loglik = [loglik q2_loglik(Xtrain, Ytrain, theta2)];
-    disp(q2_loglik(Xtrain, Ytrain, theta2));
+    
     theta1 = theta2;
     n_iter = n_iter + 1;
 end
