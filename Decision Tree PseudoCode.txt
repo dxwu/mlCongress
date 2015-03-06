@@ -3,7 +3,7 @@ Decision Tree PseudoCode
 function entropy = entropy(noPass, noFail)
 
 	total = noPass + noFail;
-	entropy = (noPass / total) * log(noPass / total) + (noFail / total) * log(noFail / total);
+	entropy = -(noPass / total) * log(noPass / total) - (noFail / total) * log(noFail / total);
 
 end
 
