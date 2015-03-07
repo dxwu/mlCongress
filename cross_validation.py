@@ -7,6 +7,7 @@ import shutil
 import os.path
 import random
 import format_lda_to_python as format
+import math
 
 def features(k):
 	#f_name = f_doc + '_k' + k + '.txt'
@@ -43,15 +44,44 @@ class HyperParams:
     def __ne__ (self, other):
         return not self.__eq__(other)
 
-def pick_best_combo(k1,k2,d1,d2,s1,s2):
+def pick_best_combo(k_arr,d_arr,s_arr):
 
 	hyperparams = []
-	for k in range(k1,k2):
-		for depth in range(d1,d2):
-			for split in range(s1,min(k,s2)):
+	for k in k_arr:
+		for depth in d_arr:
+			for split in s_arr:
+				if split > k:
+					continue
 				[train_pass, train_fail] = format.getTopicDistributions(k, True)
-				[test_pass, test_fail] = format.getTopicDistributions(k, False) #call David's function to get the four matrices
-				error = rf(train_pass,train_fail,test_pass,test_fail,depth,split)
+				#[test_pass, test_fail] = format.getTopicDistributions(k, False) #call David's function to get the four matrices
+				N=5
+				mP=len(train_pass)
+				mF=len(train_fail)
+
+				error = 0
+
+				for j in range(0, N):
+					#print str(len(train_pass))
+					#print str(len(train_fail))
+
+					train_pass_cv = numpy.concatenate((train_pass[0:math.floor(mP / N * j), :], \
+					train_pass[math.floor(mP / N * (j + 1)):mP, :]),axis=0)
+
+					train_fail_cv = numpy.concatenate((train_fail[0:math.floor(mF / N * j), :], \
+					train_fail[math.floor(mF / N * (j + 1)):mF, :]),axis=0)
+
+					valid_pass_cv = train_pass[math.floor(mP / N * j) : math.floor(mP / N * (j + 1)), :];
+
+					valid_fail_cv = train_fail[math.floor(mF / N * j) : math.floor(mF / N * (j + 1)), :];
+
+					error = error + rf(train_pass_cv,train_fail_cv,valid_pass_cv,valid_fail_cv,depth,split)
+
+					#print str(len(train_pass_cv)+len(valid_pass_cv))
+					#print str(len(train_fail_cv)+len(valid_fail_cv))
+					#print '----'
+
+				error = error/N
+				#print str(error) #number between 0 and 1
 				hyperparams.append(HyperParams(k, depth, split, error))
 	hyperparams.sort()
 	return hyperparams
@@ -61,8 +91,12 @@ if __name__=='__main__':
 	#features('doc_topic_word_count',k)
 	#[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
 	random.seed(0)
+
+	k_range = range(5,10)
+	d_range = range(5,30)
+	s_range = range(1,30)
 	
-	best_combo = pick_best_combo(5,10,5,30,1,30)
+	best_combo = pick_best_combo(k_range,d_range,s_range)
 	curr_depth = prev_depth = best_combo[0].depth
 	curr_k = prev_k = best_combo[0].K
 	curr_split = prev_split = best_combo[0].split
@@ -72,11 +106,11 @@ if __name__=='__main__':
 		prev_k = curr_k
 		prev_depth = curr_depth
 		prev_split = curr_split
-		hyperparams = pick_best_combo(curr_k,curr_k+1,curr_depth,curr_depth+1,1,30)
+		hyperparams = pick_best_combo([curr_k],[curr_depth],s_range)
 		curr_split = hyperparams[0].split
-		hyperparams = pick_best_combo(5,10,curr_depth,curr_depth+1,curr_split,curr_split+1)
+		hyperparams = pick_best_combo(k_range,[curr_depth],[curr_split])
 		curr_k = hyperparams[0].K
-		hyperparams = pick_best_combo(curr_k,curr_k+1,5,30,curr_split,curr_split+1)
+		hyperparams = pick_best_combo([curr_k],d_range,[curr_split])
 		curr_depth = hyperparams[0].depth
 		start = False
 
