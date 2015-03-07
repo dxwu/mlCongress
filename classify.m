@@ -30,6 +30,6 @@ for d = 1:m                 % for each document
     probDist(d,:) = probDist(d,:) / sum(probDist(d,:));
 end
 
-dlmwrite('./topic_dist_test.txt', probDist);
+dlmwrite(strcat('./test_features/topic_dist_test_k',int2str(K),'.txt'),probDist);
 
 

@@ -100,7 +100,7 @@ if __name__=='__main__':
     os.makedirs('./pass_test_clean')
     os.makedirs('./fail_test_clean')
     
-    r = open('./labels.txt', 'a')
+    r = open('./labels/labels_k' + sys.argv[3] + '.txt', 'a')
     r.write(str(len([name for name in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1] + name)])) + ',')
     r.write(str(len([name for name in os.listdir(sys.argv[2]) if os.path.isfile(sys.argv[2] + name)])))
 
