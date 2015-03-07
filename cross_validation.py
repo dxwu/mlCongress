@@ -6,7 +6,7 @@ import nltk
 import shutil
 import os.path
 import random
-
+import format_lda_to_python as format
 
 def features(k):
 	#f_name = f_doc + '_k' + k + '.txt'
@@ -49,7 +49,8 @@ def pick_best_combo(k1,k2,d1,d2,s1,s2):
 	for k in range(k1,k2):
 		for depth in range(d1,d2):
 			for split in range(s1,min(k,s2)):
-				[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
+				[train_pass, train_fail] = format.getTopicDistributions(k, True)
+				[test_pass, test_fail] = format.getTopicDistributions(k, False) #call David's function to get the four matrices
 				error = rf(train_pass,train_fail,test_pass,test_fail,depth,split)
 				hyperparams.append(HyperParams(k, depth, split, error))
 	hyperparams.sort()
@@ -83,8 +84,3 @@ if __name__=='__main__':
 	print 'depth: ' + str(curr_depth)
 	print 'K: ' + str(curr_k)
 	print 'split: ' + str(curr_split)
-
-	"""for depth in range(3,30):
-		#make sure to import
-		for split in range(1,min(k,30)):
-			error = rf(train_pass,train_fail,test_pass,test_fail,depth,split)"""

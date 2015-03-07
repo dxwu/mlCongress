@@ -21,7 +21,7 @@ import numpy as np
 #		topic_dist.txt for testing data is located in  	mlCongress/test_features
 #
 def getTopicDistributions(k, isTraining):
-	labelsFile = "../labels/labels_k" + str(k) + ".txt"
+	labelsFile = "./labels/labels_k" + str(k) + ".txt"
 
 	for line in open(labelsFile, 'r'):
 		# training pass \ training fail \ test pass \ test fail
@@ -40,11 +40,11 @@ def getTopicDistributions(k, isTraining):
 	if isTraining:
 		numPass = numTrainingPass
 		numFail = numTrainingFail
-		topicDistributionFile = "../train_features/topic_dist_k" + str(k) + ".txt"
+		topicDistributionFile = "./train_features/topic_dist_k" + str(k) + ".txt"
 	else:
 		numPass = numTestingPass
 		numFail = numTestingFail
-		topicDistributionFile = "../test_features/topic_dist_test_k" + str(k) + ".txt"
+		topicDistributionFile = "./test_features/topic_dist_test_k" + str(k) + ".txt"
 
 	topicDistributionPass = np.zeros(shape=(numPass, k))
 	topicDistributionFail = np.zeros(shape=(numFail, k))
