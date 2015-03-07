@@ -2,7 +2,7 @@ import os
 import parse_testbill
 import subprocess
 
-for k in range(6,7):
+for k in range(7,10):
 	subprocess.call(["python extract_words.py ./pass_training/ ./fail_training/ " + str(k)], shell=True);
 	subprocess.call(["/Applications/MATLAB_R2014a.app/bin/matlab -nosplash -nodisplay -r \"lda("+str(k)+",0.1,0.1,30,15);quit()\""],shell=True)
 	subprocess.call(["python parse_testbill.py ./pass_test/ ./fail_test/ " + str(k)], shell=True)
