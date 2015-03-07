@@ -4,21 +4,26 @@ import sys
 from array import *
 import numpy as np
 
-# arguments: generate_labels.py labels.txt topic_dist.txt
-
-# for topic distribution:
-# one matrix that has p(topic | document) for all pass documents (training)
-# one matrix that has p(topic | document) for all fail documents (training)
-# one matrix that has p(topic | document) for all pass documents (testing)
-# one matrix that has p(topic | document) for all fail documents (testing)
-
-# todo : OO classes for python
-# auto finds text files instead of getting passed command line (based on k)
-
+# 
+# getTopicDistributions(k, isTraining)
+#	params: 
+#		k - int number of topics
+#		isTraining - boolean flag determines which topic distribution matrix to return
+#	return: (pass, fail)
+#		pass - (mp x k) matrix where mp is the number of pass documents.
+#			Each row contains the topic distributions for each of k topics
+#		fail - (mf x k) matrix where mf is the number of fail documents. 		
+#			Each row contains the topic distributions for each of k topics
+#   assumes: 
+#		this file is located in 						mlCongress/RF
+# 		labels.txt is located in 					   	mlCongress/labels
+# 		topic_dist.txt for training data is located in 	mlCongress/train_features
+#		topic_dist.txt for testing data is located in  	mlCongress/test_features
+#
 def getTopicDistributions(k, isTraining):
-	# find labels file
+	labelsFile = "../labels/labels_k" + str(k) + ".txt"
 
-	for line in open(sys.argv[1], 'r'):
+	for line in open(labelsFile, 'r'):
 		# training pass \ training fail \ test pass \ test fail
 		numbers = line.split(',')
 		if (len(numbers) != 4):
@@ -35,18 +40,18 @@ def getTopicDistributions(k, isTraining):
 	if isTraining:
 		numPass = numTrainingPass
 		numFail = numTrainingFail
-		topicDistributionFile = 
+		topicDistributionFile = "../train_features/topic_dist_k" + str(k) + ".txt"
 	else:
 		numPass = numTestingPass
 		numFail = numTestingFail
-		topicDistributionFile = 
+		topicDistributionFile = "../test_features/topic_dist_test_k" + str(k) + ".txt"
 
 	topicDistributionPass = np.zeros(shape=(numPass, k))
 	topicDistributionFail = np.zeros(shape=(numFail, k))
 	documentNumber = 0
 	lookingAtFail = False
 
-	for topicDist_i in open(sys.argv[2], 'r'):
+	for topicDist_i in open(topicDistributionFile, 'r'):
 		if ((documentNumber >= numPass) and (lookingAtFail == False)):
 			documentNumber = 0 
 			lookingAtFail = True
@@ -71,18 +76,24 @@ def getTopicDistributions(k, isTraining):
 			print "Error: topic_dist.txt file is longer than labels.txt says it is!"
 			exit(1)
 
-	
+	return topicDistributionPass, topicDistributionFail
+
+
+if __name__=='__main__':
+	k = 6
+	topicDistributionPass , topicDistributionFail = getTopicDistributions(k, False) 
+
+	for i in topicDistributionPass:
+		for t in range(0,k):
+			print i[t],
+		print
+	"""
+	print "----"
 	for i in topicDistributionFail:
 		for t in range(0,k):
 			print i[t],
 		print
-
-
-if __name__=='__main__':
-	getTopicDistributions(5, true) 
-
-
-
+	"""
 
 
 
