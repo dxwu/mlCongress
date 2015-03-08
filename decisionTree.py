@@ -84,12 +84,12 @@ class DecisionTree:
     def __init__(self, numPass, numFail, depth):
 
         self.left = None            # child node below threshold
-        self.right = None            # child node above threshold
-        self.numPass = numPass        # number passed
-        self.numFail = numFail        # number failed
+        self.right = None           # child node above threshold
+        self.numPass = numPass      # number passed
+        self.numFail = numFail      # number failed
         self.depth = depth
-        self.thresh = None             # splitting threshold
-        self.feat = None             # splitting feature index
+        self.thresh = None          # splitting threshold
+        self.feat = None            # splitting feature index
         self.decision = None
         self.postProb = None        # posterior probability = pass / total
 
@@ -123,6 +123,8 @@ class DecisionTree:
 
         node = self
 
+        # traverse tree from current node until 
+        # a leaf/decision node is found
         while (node.decision == None):
 
             if (test[node.feat] > node.thresh):
@@ -208,6 +210,8 @@ class DecisionTree:
             fArray[self.numPass:, [0]] = failed[:,[f]]
             fArray[0:self.numPass,[1]] = numpy.ones((self.numPass, 1))
             fArray = fArray[numpy.lexsort((fArray[:,0], ))]
+
+            # print fArray[:,[1]]
 
             # print "-----farray"
             # print fArray
