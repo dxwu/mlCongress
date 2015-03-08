@@ -1,13 +1,13 @@
+import os
 import re
 import numpy
-import os
 import sys
-import nltk
 import shutil
 import os.path
 import random
 import format_lda_to_python as format
 import math
+from decisionTree import *
 
 class HyperParams:
     def __init__(self, K, depth, split, err):
@@ -28,9 +28,6 @@ class HyperParams:
     def __ne__ (self, other):
         return not self.__eq__(other)
 
-def rf(train_pass,train_fail,test_pass,test_fail,depth,split):
-	return random.random()
-
 def pick_best_combo(k_arr,d_arr,s_arr):
 
 	hyperparams = []
@@ -42,10 +39,15 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 				[train_pass, train_fail] = format.getTopicDistributions(k, True)
 				[test_pass, test_fail] = format.getTopicDistributions(k, False) #call David's function to get the four matrices
 				
-				error = rf(train_pass,train_fail,test_pass,test_fail,depth,split)
-				print str(error)
+				testForest = RandomForest(100, split, depth)
+				testForest.buildForest(train_pass, train_fail)
+				trainerror = testForest.classError(train_pass, train_fail)
+				testerror = testForest.classError(test_pass, test_fail)
+
+				print "trainerror", trainerror
+				print "testerror", testerror
 				#print str(error) #number between 0 and 1
-				hyperparams.append(HyperParams(k, depth, split, error))
+				hyperparams.append(HyperParams(k, depth, split, testerror))
 	hyperparams.sort()
 	return hyperparams
 
@@ -56,7 +58,7 @@ if __name__=='__main__':
 	random.seed(0)
 
 	k_range = range(5,6)
-	d_range = range(7,8)
+	d_range = range(4,5)
 	s_range = range(3,4)
 	
 	best_combo = pick_best_combo(k_range,d_range,s_range)

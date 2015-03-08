@@ -1,239 +1,286 @@
+from __future__ import division
+import numpy
+import random
+
 class RandomForest:
 
-	def __init__(self, size, kSubset, maxD):
+    def __init__(self, size, kSubset, maxD):
 
-		self.size = size
-		self.k = kSubset
-		self.maxD = maxD
-		self.forest = []
+        self.size = size
+        self.k = kSubset
+        self.maxD = maxD
+        self.forest = []
 
-	def buildForest(self, passed, failed):
+    def buildForest(self, passed, failed):
 
-		numPass = passed.shape[0]
-		numFail = failed.shape[0]
+        numPass = passed.shape[0]
+        numFail = failed.shape[0]
 
-		for i in range(self.size):
+        for i in range(self.size):
 
-			self.forest.append(DecisionTree(numPass, numFail, 1)) ### or 0?
-			self.forest[i].buildDTree(self.k, self.maxD, passed, failed)
+            self.forest.append(DecisionTree(numPass, numFail, 0)) ### or 1?
+            self.forest[i].buildDTree(self.k, self.maxD, passed, failed)
 
-	def classError(self, pTest, fTest):
+    def classError(self, pTest, fTest):
 
-		pSize = pTest.shape[0]
-		fSize = fTest.shape[0]
+        pSize = pTest.shape[0]
+        fSize = fTest.shape[0]
 
-		good = 0
+        correct = 0
 
-		for s in range(pSize):
+        for s in range(pSize):
 
-			for tree in self.forest:
+            passed = 0
 
-				if (tree.classify(pTest[s]) == 1):
+            for tree in self.forest:
 
-					good +=1
+                if (tree.classify(pTest[s]) == 1):
 
-		for s in range(fSize):
+                    passed += 1
 
-			for tree in self.forest:
+            if (passed > self.size - passed):
 
-				if (tree.classify(fTest[s]) == 0):
+                correct += 1
 
-					good += 1
+        for s in range(fSize):
+
+            failed = 0
+
+            for tree in self.forest:
+
+                if (tree.classify(fTest[s]) == 0):
+
+                    failed += 1
+
+            if (failed > self.size - failed):
+
+                correct += 1
 
 
-		return good / (self.size * (pSize + fSize))
+        return 1 - (correct / (pSize + fSize))
 
-	def predict(self, testDocs):
+    def predict(self, testDocs):
 
-		m = testDocs.shape[0]
-		predictions = zeros((m, 1))
+        m = testDocs.shape[0]
+        predictions = zeros((m, 1))
 
-		for s in range(m):
+        for s in range(m):
 
-			passes = 0
+            passes = 0
 
-			for tree in self.forest:
+            for tree in self.forest:
 
-				passes += tree.classify(testDocs[s]))
+                passes += tree.classify(testDocs[s])
 
-			if ((passes / self.size) > 0.5):
+            if ((passes / self.size) > 0.5):
 
-				predictions[s] = 1
+                predictions[s] = 1
 
 
 
 
 class DecisionTree:
 
-	def __init__(self, numPass, numFail, depth):
+    def __init__(self, numPass, numFail, depth):
 
-		self.left = null			# child node below threshold
-		self.right = null			# child node above threshold
-		self.numPass = numPass		# number passed
-		self.numFail = numFail		# number failed
-		self.depth = depth
-		self.thresh = null 			# splitting threshold
-		self.feat = null 			# splitting feature index
-		self.decision = null
-		self.postProb = null		# posterior probability = pass / total
+        self.left = None            # child node below threshold
+        self.right = None           # child node above threshold
+        self.numPass = numPass      # number passed
+        self.numFail = numFail      # number failed
+        self.depth = depth
+        self.thresh = None          # splitting threshold
+        self.feat = None            # splitting feature index
+        self.decision = None
+        self.postProb = None        # posterior probability = pass / total
 
-	def addChildren(self, above, below):
+    def addChildren(self, above, below):
 
-		self.left = below
-		self.right = above
+        self.left = below
+        self.right = above
 
-	def calculatePostProb(self):
+    def calculatePostProb(self):
 
-		self.postProb = self.numPass / (self.numPass + self.numFail)
+        self.postProb = self.numPass / (self.numPass + self.numFail)
 
-	def makeDecision(self):
+    def makeDecision(self):
 
-		if (self.numPass != 0 and self.numFail != 0):
+        if (self.numPass + self.numFail != 0):
 
-			# choose class with higher posterior probability
-			self.calculatePostProb()
+            # choose class with higher posterior probability
+            self.calculatePostProb()
 
-			if (self.postProb > 1 - self.postProb):
+            if (self.postProb > 1 - self.postProb):
 
-				self.decision = 1
+                self.decision = 1
 
-			else:
+            else:
 
-				self.decision = 0
+                self.decision = 0
 
-		##### if both are 0---disregard?
+        ##### if both are 0---disregard?
 
-	def classify(self, test):
+    def classify(self, test):
 
-		node = self
+        node = self
 
-		while (node.decision == null):
+        # traverse tree from current node until 
+        # a leaf/decision node is found
+        while (node.decision == None):
 
-			if (test[node.feat] > node.thresh)
+            if (test[node.feat] > node.thresh):
 
-				node = node.right
+                node = node.right
 
-			else:
+            else:
 
-				node = node.left
+                node = node.left
 
-		return node.decision
+        return node.decision
 
 
 
-	def highLowTally(self, samples, f, split):
+    def highLowTally(self, samples, f, split):
 
-		# tally number of samples above and below the 
-		# given threshold for the given feature
-		above = (samples[:,f] > split).sum()
-		below = samples.shape[0] - high
+        # tally number of samples above and below the 
+        # given threshold for the given feature
+        above = (samples[:,f] > split).sum()
+        below = samples.shape[0] - above
 
-		return (above, below)
+        return (above, below)
 
-	def makePassFail(self, samples):
+    def makePassFail(self, samples):
 
-		high = samples[:,self.feat] > self.thresh
+        high = samples[:,self.feat] > self.thresh
+        # print "----sum"
+        # print high.sum()
 
-		# generate new lists for samples above and 
-		# below the threshold
-		above = samples[high]
-		below = samples[~high]
+        # generate new lists for samples above and 
+        # below the threshold
+        above = samples[high]
+        below = samples[~high]
 
-		return (above, below)
+        return (above, below)
 
-	def entropy(self, c1, c2):
+    def entropy(self, c1, c2):
 
-		total = c1 + c2
-		return (c1 / total) * numpy.log2(c1 / total) + \
-			   (c2 / total) * numpy.log2(c2 / total)
+        total = c1 + c2
+        # print(c2 / total)
+        # print(c1 / total)
+        return -1 * ((c1 / total) * numpy.log2((c1 / total) + numpy.spacing(1)) + \
+               (c2 / total) * numpy.log2((c2 / total) + numpy.spacing(1)))
 
-	def infoGain(self, f, split, passed, failed):
+    def infoGain(self, f, split, passed, failed):
 
-		total = self.numPass + self.numFail
+        total = self.numPass + self.numFail
 
-		# tally new pass fail partitions
-		(highPass, lowPass) = self.highLowTally(passed, f, split)
-		(highFail, lowFail) = self.highLowTally(failed, f, split)
+        # tally new pass fail partitions
+        (highPass, lowPass) = self.highLowTally(passed, f, split)
+        (highFail, lowFail) = self.highLowTally(failed, f, split)
 
-		# calculate entropies
-		entWhole = entropy(self.numPass, self.numFail)
-		entHigh = entropy(highPass, highFail) * ((highPass + highFail) / total)
-		entLow = entropy(lowPass, lowFail) * ((lowPass + lowFail) / total)
+        # print "----total", self.entropy(self.numPass, self.numFail)
+        # print "----high", self.entropy(highPass, highFail)
+        # print "----low", self.entropy(lowPass, lowFail)
 
-		gain = entWhole - entHigh - entLow
+        # calculate entropies
+        entWhole = self.entropy(self.numPass, self.numFail)
+        entHigh = self.entropy(highPass, highFail) * ((highPass + highFail) / total)
+        entLow = self.entropy(lowPass, lowFail) * ((lowPass + lowFail) / total)
 
-		return gain
+        gain = entWhole - entHigh - entLow
 
-	def splitBinary(self, fsubset, passed, failed):
+        return gain
 
-		m = self.numPass + self.numFail
-		n = len(fsubset)
+    def splitBinary(self, fsubset, passed, failed):
 
-		maxGain = numpy.zeros((n, 2))	# [max feature gain][thresh]
-		fArray = numpy.zeros((m, 2))	# [sample feature value][sample label]
+        m = self.numPass + self.numFail
+        n = len(fsubset)
 
-		# for each feature
-		# find threshold that yields max gain for each feature
-		for i in range(n):
+        maxGain = numpy.zeros((n, 2))    # [max feature gain][thresh]
+        fArray = numpy.zeros((m, 2))    # [sample feature value][sample label]
 
-			# index of feature
-			f = fsubset[i];
+        # for each feature
+        # find threshold that yields max gain for each feature
+        for i in range(n):
 
-			# sort by feature value
-			fArray[0:self.numPass,[0]] = passed[:,[f]]
-			fArray[self.numPass + 1:self.numFail, [0]] = failed[:,[f]]
-			fArray[0:self.numPass,[1]] = numpy.ones((self.numPass, 1))
-			fArray = fArray[numpy.lexsort((fArray[:,0], ))]
+            # index of feature
+            f = fsubset[i];
 
-			# look through entire feature specific matrix
-			for s in range(m - 1):
+            # sort by feature value
+            fArray[0:self.numPass,[0]] = passed[:,[f]]
+            fArray[self.numPass:, [0]] = failed[:,[f]]
+            fArray[0:self.numPass,[1]] = numpy.ones((self.numPass, 1))
+            fArray = fArray[numpy.lexsort((fArray[:,0], ))]
 
-				# if neighboring feature values have differing class labels
-				if (fArray[s][1] != fArray[s + 1][1]):
+            # print fArray[:,[1]]
 
-					# choose threshold to be midpoint
-					# calculate information gain for that threshold
-					split = (fArray[s][0] + fArray[s + 1][0]) / 2
-					gain = infoGain(f, split, passed, failed)
+            # print "-----farray"
+            # print fArray
+            # print "----end farray"
 
-					if (gain > maxGain[i][0]):
+            # look through entire feature specific matrix
+            for s in range(m - 1):
 
-						maxGain[i][0] = gain
-						maxGain[i][1] = thresh
+                # if neighboring feature values have differing class labels
+                if (fArray[s][1] != fArray[s + 1][1]):
 
-		idx = numpy.argmax(maxGain[:,0])	# index of highest gain
+                    # choose threshold to be midpoint
+                    # calculate information gain for that threshold
+                    split = (fArray[s][0] + fArray[s + 1][0]) / 2
+                    # print "----split: ", split
+                    gain = self.infoGain(f, split, passed, failed)
 
-		self.feat = fsubset[idx]		# feature index of highest gain
-		self.thresh = maxGain[idx][1]	# corresponding threshold yielding highest gain
+                    # print "----gain: ", gain
 
-	def buildDTree(self, k, maxD, passed, failed):
+                    if (gain > maxGain[i][0]):
 
-		###### EDIT HERE ######
-		if (self.numPass == 0 || self.numFail == 0 || self.depth >= maxD):
+                        maxGain[i][0] = gain
+                        maxGain[i][1] = split
 
-			self.makeDecision()
+        idx = numpy.argmax(maxGain[:,0])    # index of highest gain
 
-		else:
+        self.feat = fsubset[idx]        # feature index of highest gain
+        self.thresh = maxGain[idx][1]    # corresponding threshold yielding highest gain
 
-			n = passed.shape[1]
+    def buildDTree(self, k, maxD, passed, failed):
 
-			# generate random subset of features to split on
-			# get threshold with highest information gain and the feature
-			# to split on
-			fsubset = random.sample(numpy.arange(n), k)
-			self.splitBinary(fsubset, passed, failed)
+        ###### EDIT HERE ######
+        # print "numPass: ", self.numPass
+        # print "numFail: ", self.numFail
+        # print "depth: ", self.depth
+        if (self.numPass == 0 or self.numFail == 0 or self.depth >= maxD):
 
-			# generate new set of pass and fail lists
-			(highPass, lowPass) = self.makePassFail(passed)
-			(highFail, lowFail) = self.makePassFail(failed)
+            self.makeDecision()
+            # print "----"
+            # print "made decision: ", self.decision
+            # print "at depth: ", self.depth
+            # print "----"
 
-			# create children nodes at next depth
-			above = DecisionTree(highPass.shape[0], highFail.shape[0], self.depth - 1)
-			below = DecisionTree(lowPass.shape[0], lowFail.shape[0], self.depth - 1)
+        else:
 
-			self.addChildren(above, below)
+            n = passed.shape[1]
 
-			# build trees at children
-			above.buildDTree(kSubset, highPass, highFail)
-			below.buildDTree(kSubset, lowPass, lowFail)
+            # generate random subset of features to split on
+            # get threshold with highest information gain and the feature
+            # to split on
+            fsubset = random.sample(numpy.arange(n), k)
+            self.splitBinary(fsubset, passed, failed)
 
+            # print "-----thresh/feature"
+            # print self.thresh, self.feat
+            # generate new set of pass and fail lists
+            (highPass, lowPass) = self.makePassFail(passed)
+            (highFail, lowFail) = self.makePassFail(failed)
+
+            # create children nodes at next depth
+            above = DecisionTree(highPass.shape[0], highFail.shape[0], self.depth + 1)
+            below = DecisionTree(lowPass.shape[0], lowFail.shape[0], self.depth + 1)
+
+            # print "----children----"
+            # print "above", above.numPass, above.numFail, above.depth
+            # print "below", below.numPass, below.numFail, above.depth
+
+            self.addChildren(above, below)
+
+            # build trees at children
+            above.buildDTree(k, maxD, highPass, highFail)
+            below.buildDTree(k, maxD, lowPass, lowFail)
