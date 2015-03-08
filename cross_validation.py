@@ -8,6 +8,7 @@ import os.path
 import random
 import format_lda_to_python as format
 import math
+from decisionTree import RandomForest
 
 def features(k):
 	#f_name = f_doc + '_k' + k + '.txt'
@@ -74,7 +75,11 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 
 					valid_fail_cv = train_fail[math.floor(mF / N * j) : math.floor(mF / N * (j + 1)), :];
 
-					error = error + rf(train_pass_cv,train_fail_cv,valid_pass_cv,valid_fail_cv,depth,split)
+					forest = RandomForest(100, split, depth)
+					forest.buildForest(train_pass_cv, train_fail_cv)
+					error = error + forest.classError(valid_pass_cv, valid_fail_cv)
+
+					#error = error + rf(train_pass_cv,train_fail_cv,valid_pass_cv,valid_fail_cv,depth,split)
 
 					#print str(len(train_pass_cv)+len(valid_pass_cv))
 					#print str(len(train_fail_cv)+len(valid_fail_cv))
@@ -92,11 +97,15 @@ if __name__=='__main__':
 	#[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
 	random.seed(0)
 
-	k_range = range(5,10)
-	d_range = range(5,30)
-	s_range = range(1,30)
+	k_range = range(5,6)
+	d_range = range(7,8)
+	s_range = range(3,4)
 	
-	best_combo = pick_best_combo(k_range,d_range,s_range)
+	hyperparams = pick_best_combo(k_range,d_range,s_range)
+	for obj in hyperparams:
+		print 'Error: ' + str(hyperparams.err) + ' k: ' + str(hyperparams.K) + ' depth: ' + str(hyperparams.depth) + ' split: ' + str(hyperparams.split)
+
+	"""best_combo = pick_best_combo(k_range,d_range,s_range)
 	curr_depth = prev_depth = best_combo[0].depth
 	curr_k = prev_k = best_combo[0].K
 	curr_split = prev_split = best_combo[0].split
@@ -112,9 +121,9 @@ if __name__=='__main__':
 		curr_k = hyperparams[0].K
 		hyperparams = pick_best_combo([curr_k],d_range,[curr_split])
 		curr_depth = hyperparams[0].depth
-		start = False
+		start = False"""
 
-	print 'Best set of parameters:'
+	"""print 'Best set of parameters:'
 	print 'depth: ' + str(curr_depth)
 	print 'K: ' + str(curr_k)
-	print 'split: ' + str(curr_split)
+	print 'split: ' + str(curr_split)"""
