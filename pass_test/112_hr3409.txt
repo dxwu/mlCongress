@@ -1,0 +1,2238 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3409 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 3409
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 13, 2012
+
+ Received; read twice and referred to the Committee on Environment and 
+                              Public Works
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To limit the authority of the Secretary of the Interior to issue 
+regulations before December 31, 2013, under the Surface Mining Control 
+                      and Reclamation Act of 1977.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Stop the War on 
+Coal Act of 2012''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; Table of contents.
+TITLE I--LIMITATION ON AUTHORITY TO ISSUE REGULATIONS UNDER THE SURFACE 
+               MINING CONTROL AND RECLAMATION ACT OF 1977
+
+Sec. 101. Limitation on authority to issue regulations under the 
+                            Surface Mining Control and Reclamation Act 
+                            of 1977.
+Sec. 102. Publication of scientific studies for proposed rules.
+     TITLE II--NO GREENHOUSE GAS REGULATION UNDER THE CLEAN AIR ACT
+
+Sec. 201. No regulation of emissions of greenhouse gases.
+Sec. 202. Preserving one national standard for automobiles.
+  TITLE III--TRANSPARENCY IN REGULATORY ANALYSIS OF IMPACTS ON NATION
+
+Sec. 301. Committee for the Cumulative Analysis of Regulations that 
+                            Impact Energy and Manufacturing in the 
+                            United States.
+Sec. 302. Analyses.
+Sec. 303. Reports; public comment.
+Sec. 304. Additional provisions relating to certain rules.
+Sec. 305. Consideration of feasibility and cost in establishing 
+                            national ambient air quality standards.
+     TITLE IV--MANAGEMENT AND DISPOSAL OF COAL COMBUSTION RESIDUALS
+
+Sec. 401. Management and disposal of coal combustion residuals.
+Sec. 402. 2000 Regulatory determination.
+Sec. 403. Technical assistance.
+Sec. 404. Federal Power Act.
+TITLE V--PRESERVING STATE AUTHORITY TO MAKE DETERMINATIONS RELATING TO 
+                        WATER QUALITY STANDARDS
+
+Sec. 501. State water quality standards.
+Sec. 502. Permits for dredged or fill material.
+Sec. 503. Deadlines for agency comments.
+Sec. 504. Applicability of amendments.
+Sec. 505. Reporting on harmful pollutants.
+Sec. 506. Pipelines crossing streambeds.
+Sec. 507. Impacts of EPA regulatory activity on employment and economic 
+                            activity.
+               TITLE VI--REGIONAL HAZE REGULATORY RELIEF
+
+Sec. 601. Implementation plans.
+Sec. 602. Visibility protection for Federal Class I areas.
+   TITLE VII--NO REGIONAL HAZE REGULATION ON THE COAL-POWERED NAVAJO 
+                           GENERATING STATION
+
+Sec. 701. Limitation on authority to issue regulations.
+
+TITLE I--LIMITATION ON AUTHORITY TO ISSUE REGULATIONS UNDER THE SURFACE 
+               MINING CONTROL AND RECLAMATION ACT OF 1977
+
+SEC. 101. LIMITATION ON AUTHORITY TO ISSUE REGULATIONS UNDER THE 
+              SURFACE MINING CONTROL AND RECLAMATION ACT OF 1977.
+
+    The Secretary of the Interior may not, before December 31, 2013, 
+issue or approve any proposed or final regulation under the Surface 
+Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 et seq.) 
+that would--
+            (1) adversely impact employment in coal mines in the United 
+        States;
+            (2) cause a reduction in revenue received by the Federal 
+        Government or any State, tribal, or local government, by 
+        reducing through regulation the amount of coal in the United 
+        States that is available for mining;
+            (3) reduce the amount of coal available for domestic 
+        consumption or for export;
+            (4) designate any area as unsuitable for surface coal 
+        mining and reclamation operations; or
+            (5) expose the United States to liability for taking the 
+        value of privately owned coal through regulation.
+
+SEC. 102. PUBLICATION OF SCIENTIFIC STUDIES FOR PROPOSED RULES.
+
+    (a) Requirement.--Title VI of the Surface Mining Control and 
+Reclamation Act of 1977 (16 U.S.C. 1291 et seq.) is amended by adding 
+at the end the following:
+
+         ``publication of scientific studies for proposed rules
+
+    ``Sec. 722.  (a) Requirement.--The Secretary, or any other Federal 
+official proposing a rule under this Act, shall publish with each rule 
+proposed under this Act each scientific study the Secretary or other 
+official, respectively, relied on in developing the rule.
+    ``(b) Scientific Study Defined.--In this section the term 
+`scientific study' means a study that--
+            ``(1) applies rigorous, systematic, and objective 
+        methodology to obtain reliable and valid knowledge relevant to 
+        the subject matter involved;
+            ``(2) presents findings and makes claims that are 
+        appropriate to, and supported by, the methods that have been 
+        employed; and
+            ``(3) includes, appropriate to the rule being proposed--
+                    ``(A) use of systematic, empirical methods that 
+                draw on observation or experiment;
+                    ``(B) use of data analyses that are adequate to 
+                support the general findings;
+                    ``(C) reliance on measurements or observational 
+                methods that provide reliable and generalizable 
+                findings;
+                    ``(D) strong claims of causal relationships, only 
+                with research designs that eliminate plausible 
+                competing explanations for observed results, such as, 
+                but not limited to, random-assignment experiments;
+                    ``(E) presentation of studies and methods in 
+                sufficient detail and clarity to allow for replication 
+                or, at a minimum, to offer the opportunity to build 
+                systematically on the findings of the research;
+                    ``(F) acceptance by a peer-reviewed journal or 
+                critique by a panel of independent experts through a 
+                comparably rigorous, objective, and scientific review; 
+                and
+                    ``(G) consistency of findings across multiple 
+                studies or sites to support the generality of results 
+                and conclusions.''.
+    (b) Clerical Amendment.--The table of contents at the end of the 
+first section of such Act is amended by adding at the end of the items 
+relating to such title the following:
+
+``Sec. 722. Publication of scientific studies for proposed rules.''.
+
+     TITLE II--NO GREENHOUSE GAS REGULATION UNDER THE CLEAN AIR ACT
+
+SEC. 201. NO REGULATION OF EMISSIONS OF GREENHOUSE GASES.
+
+    Title III of the Clean Air Act (42 U.S.C. 7601 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 330. NO REGULATION OF EMISSIONS OF GREENHOUSE GASES.
+
+    ``(a) Definition.--In this section, the term `greenhouse gas' means 
+any of the following:
+            ``(1) Water vapor.
+            ``(2) Carbon dioxide.
+            ``(3) Methane.
+            ``(4) Nitrous oxide.
+            ``(5) Sulfur hexafluoride.
+            ``(6) Hydrofluorocarbons.
+            ``(7) Perfluorocarbons.
+            ``(8) Any other substance subject to, or proposed to be 
+        subject to, regulation, action, or consideration under this Act 
+        to address climate change.
+    ``(b) Limitation on Agency Action.--
+            ``(1) Limitation.--
+                    ``(A) In general.--The Administrator may not, under 
+                this Act, promulgate any regulation concerning, take 
+                action relating to, or take into consideration the 
+                emission of a greenhouse gas to address climate change.
+                    ``(B) Air pollutant definition.--The definition of 
+                the term `air pollutant' in section 302(g) does not 
+                include a greenhouse gas. Notwithstanding the previous 
+                sentence, such definition may include a greenhouse gas 
+                for purposes of addressing concerns other than climate 
+                change.
+            ``(2) Exceptions.--Paragraph (1) does not prohibit the 
+        following:
+                    ``(A) Notwithstanding paragraph (4)(B), 
+                implementation and enforcement of the rule entitled 
+                `Light-Duty Vehicle Greenhouse Gas Emission Standards 
+                and Corporate Average Fuel Economy Standards' (as 
+                published at 75 Fed. Reg. 25324 (May 7, 2010) and 
+                without further revision) and implementation and 
+                enforcement of the rule entitled `Greenhouse Gas 
+                Emissions Standards and Fuel Efficiency Standards for 
+                Medium- and Heavy-Duty Engines and Vehicles' (as 
+                published at 76 Fed. Reg. 57106 (September 15, 2011) 
+                and without further revision).
+                    ``(B) Implementation and enforcement of section 
+                211(o).
+                    ``(C) Statutorily authorized Federal research, 
+                development, demonstration programs and voluntary 
+                programs addressing climate change.
+                    ``(D) Implementation and enforcement of title VI to 
+                the extent such implementation or enforcement only 
+                involves one or more class I substances or class II 
+                substances (as such terms are defined in section 601).
+                    ``(E) Implementation and enforcement of section 821 
+                (42 U.S.C. 7651k note) of Public Law 101-549 (commonly 
+                referred to as the `Clean Air Act Amendments of 1990').
+            ``(3) Inapplicability of provisions.--Nothing listed in 
+        paragraph (2) shall cause a greenhouse gas to be subject to 
+        part C of title I (relating to prevention of significant 
+        deterioration of air quality) or considered an air pollutant 
+        for purposes of title V (relating to permits).
+            ``(4) Certain prior agency actions.--The following rules 
+        and actions (including any supplement or revision to such rules 
+        and actions) are repealed and shall have no legal effect:
+                    ``(A) `Mandatory Reporting of Greenhouse Gases', 
+                published at 74 Fed. Reg. 56260 (October 30, 2009).
+                    ``(B) `Endangerment and Cause or Contribute 
+                Findings for Greenhouse Gases Under Section 202(a) of 
+                the Clean Air Act', published at 74 Fed. Reg. 66496 
+                (December 15, 2009).
+                    ``(C) `Reconsideration of Interpretation of 
+                Regulations That Determine Pollutants Covered by Clean 
+                Air Act Permitting Programs', published at 75 Fed. Reg. 
+                17004 (April 2, 2010) and the memorandum from Stephen 
+                L. Johnson, Environmental Protection Agency (EPA) 
+                Administrator, to EPA Regional Administrators, 
+                concerning `EPA's Interpretation of Regulations that 
+                Determine Pollutants Covered by Federal Prevention of 
+                Significant Deterioration (PSD) Permit Program' 
+                (December 18, 2008).
+                    ``(D) `Prevention of Significant Deterioration and 
+                Title V Greenhouse Gas Tailoring Rule', published at 75 
+                Fed. Reg. 31514 (June 3, 2010).
+                    ``(E) `Action To Ensure Authority To Issue Permits 
+                Under the Prevention of Significant Deterioration 
+                Program to Sources of Greenhouse Gas Emissions: Finding 
+                of Substantial Inadequacy and SIP Call', published at 
+                75 Fed. Reg. 77698 (December 13, 2010).
+                    ``(F) `Action To Ensure Authority To Issue Permits 
+                Under the Prevention of Significant Deterioration 
+                Program to Sources of Greenhouse Gas Emissions: Finding 
+                of Failure To Submit State Implementation Plan 
+                Revisions Required for Greenhouse Gases', published at 
+                75 Fed. Reg. 81874 (December 29, 2010).
+                    ``(G) `Action to Ensure Authority To Issue Permits 
+                Under the Prevention of Significant Deterioration 
+                Program to Sources of Greenhouse Gas Emissions: Federal 
+                Implementation Plan', published at 75 Fed. Reg. 82246 
+                (December 30, 2010).
+                    ``(H) `Action to Ensure Authority to Implement 
+                Title V Permitting Programs Under the Greenhouse Gas 
+                Tailoring Rule', published at 75 Fed. Reg. 82254 
+                (December 30, 2010).
+                    ``(I) `Determinations Concerning Need for Error 
+                Correction, Partial Approval and Partial Disapproval, 
+                and Federal Implementation Plan Regarding Texas 
+                Prevention of Significant Deterioration Program', 
+                published at 75 Fed. Reg. 82430 (December 30, 2010).
+                    ``(J) `Limitation of Approval of Prevention of 
+                Significant Deterioration Provisions Concerning 
+                Greenhouse Gas Emitting-Sources in State Implementation 
+                Plans', published at 75 Fed. Reg. 82536 (December 30, 
+                2010).
+                    ``(K) `Determinations Concerning Need for Error 
+                Correction, Partial Approval and Partial Disapproval, 
+                and Federal Implementation Plan Regarding Texas 
+                Prevention of Significant Deterioration Program; 
+                Proposed Rule', published at 75 Fed. Reg. 82365 
+                (December 30, 2010).
+                    ``(L) Except for actions listed in paragraph (2), 
+                any other Federal action under this Act occurring 
+                before the date of enactment of this section that 
+                constitutes a stationary source permitting requirement 
+                or an emissions standard for a greenhouse gas to 
+                address climate change.
+            ``(5) State action.--
+                    ``(A) No limitation.--This section does not limit 
+                or otherwise affect the authority of a State to adopt, 
+                amend, enforce, or repeal State laws and regulations 
+                pertaining to the emission of a greenhouse gas.
+                    ``(B) Exception.--
+                            ``(i) Rule.--Notwithstanding subparagraph 
+                        (A), any provision described in clause (ii)--
+                                    ``(I) is not federally enforceable;
+                                    ``(II) is not deemed to be a part 
+                                of Federal law; and
+                                    ``(III) is deemed to be stricken 
+                                from the plan described in clause 
+                                (ii)(I) or the program or permit 
+                                described in clause (ii)(II), as 
+                                applicable.
+                            ``(ii) Provision defined.--For purposes of 
+                        clause (i), the term `provision' means any 
+                        provision that--
+                                    ``(I) is contained in a State 
+                                implementation plan under section 110 
+                                and authorizes or requires a limitation 
+                                on, or imposes a permit requirement 
+                                for, the emission of a greenhouse gas 
+                                to address climate change; or
+                                    ``(II) is part of an operating 
+                                permit program under title V, or a 
+                                permit issued pursuant to title V, and 
+                                authorizes or requires a limitation on 
+                                the emission of a greenhouse gas to 
+                                address climate change.
+                    ``(C) Action by administrator.--The Administrator 
+                may not approve or make federally enforceable any 
+                provision described in subparagraph (B)(ii).''.
+
+SEC. 202. PRESERVING ONE NATIONAL STANDARD FOR AUTOMOBILES.
+
+    (a) Finding.--Congress finds that the emissions of greenhouse gases 
+from a motor vehicle tailpipe are related to fuel economy.
+    (b) Report Required.--Not later than 60 days after the date of 
+enactment of this Act, the Secretary of Transportation shall submit a 
+report to the Congress that, notwithstanding section 201, assumes the 
+implementation and enforcement of the final rule entitled ``2017 and 
+Later Model Year Light-Duty Vehicle Greenhouse Gas Emissions and 
+Corporate Average Fuel Economy Standards'' (issued on August 28, 2012) 
+and estimates--
+            (1) the total number of jobs that will be lost due to 
+        decreased demand by year caused by the rule;
+            (2) the number of additional fatalities and injuries that 
+        will be caused by the rule; and
+            (3) the additional cost to the economy of the redundant 
+        regulation of fuel economy and greenhouse gas emissions by the 
+        Environmental Protection Agency and State agencies for model 
+        years 2011 through 2025.
+    (c) Consultation.--Other than to gather basic factual information, 
+the Secretary of Transportation shall not consult with the 
+Administrator of the Environmental Protection Agency or any official 
+from the California Air Resources Board in fulfilling the requirement 
+described in subsection (b).
+    (d) Amendment to the Clean Air Act.--Section 209(b) of the Clean 
+Air Act (42 U.S.C. 7543) is amended by adding at the end the following:
+    ``(4) With respect to standards for emissions of greenhouse gases 
+(as defined in section 330) for model year 2017 or any subsequent model 
+year new motor vehicles and new motor vehicle engines--
+            ``(A) the Administrator may not waive application of 
+        subsection (a); and
+            ``(B) no waiver granted prior to the date of enactment of 
+        this paragraph may be construed to waive the application of 
+        subsection (a).''.
+
+  TITLE III--TRANSPARENCY IN REGULATORY ANALYSIS OF IMPACTS ON NATION
+
+SEC. 301. COMMITTEE FOR THE CUMULATIVE ANALYSIS OF REGULATIONS THAT 
+              IMPACT ENERGY AND MANUFACTURING IN THE UNITED STATES.
+
+    (a) Establishment.--The President shall establish a committee to be 
+known as the Committee for the Cumulative Analysis of Regulations that 
+Impact Energy and Manufacturing in the United States (in this Act 
+referred to as the ``Committee'') to analyze and report on the 
+cumulative and incremental impacts of certain rules and actions of the 
+Environmental Protection Agency, in accordance with sections 302 and 
+303.
+    (b) Members.--The Committee shall be composed of the following 
+officials (or their designees):
+            (1) The Secretary of Agriculture, acting through the Chief 
+        Economist.
+            (2) The Secretary of Commerce, acting through the Chief 
+        Economist and the Under Secretary for International Trade.
+            (3) The Secretary of Labor, acting through the Commissioner 
+        of the Bureau of Labor Statistics.
+            (4) The Secretary of Energy, acting through the 
+        Administrator of the Energy Information Administration.
+            (5) The Secretary of the Treasury, acting through the 
+        Deputy Assistant Secretary for Environment and Energy of the 
+        Department of the Treasury.
+            (6) The Administrator of the Environmental Protection 
+        Agency.
+            (7) The Chairman of the Council of Economic Advisors.
+            (8) The Chairman of the Federal Energy Regulatory 
+        Commission.
+            (9) The Administrator of the Office of Information and 
+        Regulatory Affairs.
+            (10) The Chief Counsel for Advocacy of the Small Business 
+        Administration.
+            (11) The Chairman of the United States International Trade 
+        Commission, acting through the Office of Economics.
+    (c) Chair.--The Secretary of Commerce shall serve as Chair of the 
+Committee. In carrying out the functions of the Chair, the Secretary of 
+Commerce shall consult with the members serving on the Committee 
+pursuant to paragraphs (5) and (11) of subsection (b).
+    (d) Consultation.--In conducting analyses under section 302 and 
+preparing reports under section 303, the Committee shall consult with, 
+and consider pertinent reports issued by, the Electric Reliability 
+Organization certified under section 215(c) of the Federal Power Act 
+(16 U.S.C. 824o(c)).
+    (e) Termination.--The Committee shall terminate 60 days after 
+submitting its final report pursuant to section 303(c).
+
+SEC. 302. ANALYSES.
+
+    (a) Scope.--The Committee shall conduct analyses, for each of the 
+calendar years 2016, 2020, and 2030, of the following:
+            (1) The cumulative impact of covered rules that are 
+        promulgated as final regulations on or before January 1, 2013, 
+        in combination with covered actions.
+            (2) The cumulative impact of all covered rules (including 
+        covered rules that have not been promulgated as final 
+        regulations on or before January 1, 2013), in combination with 
+        covered actions.
+            (3) The incremental impact of each covered rule not 
+        promulgated as a final regulation on or before January 1, 2013, 
+        relative to an analytic baseline representing the results of 
+        the analysis conducted under paragraph (1).
+    (b) Contents.--The Committee shall include in each analysis 
+conducted under this section the following:
+            (1) Estimates of the impacts of the covered rules and 
+        covered actions with regard to--
+                    (A) the global economic competitiveness of the 
+                United States, particularly with respect to energy 
+                intensive and trade sensitive industries;
+                    (B) other cumulative costs and cumulative benefits, 
+                including evaluation through a general equilibrium 
+                model approach;
+                    (C) any resulting change in national, State, and 
+                regional electricity prices;
+                    (D) any resulting change in national, State, and 
+                regional fuel prices;
+                    (E) the impact on national, State, and regional 
+                employment during the 5-year period beginning on the 
+                date of enactment of this Act, and also in the long 
+                term, including secondary impacts associated with 
+                increased energy prices and facility closures; and
+                    (F) the reliability and adequacy of bulk power 
+                supply in the United States.
+            (2) Discussion of key uncertainties and assumptions 
+        associated with each estimate.
+            (3) A sensitivity analysis.
+            (4) Discussion, and where feasible an assessment, of the 
+        cumulative impact of the covered rules and covered actions on--
+                    (A) consumers;
+                    (B) small businesses;
+                    (C) regional economies;
+                    (D) State, local, and tribal governments;
+                    (E) low-income communities;
+                    (F) public health, including health effects 
+                associated with regulatory costs;
+                    (G) local and industry-specific labor markets; and
+                    (H) agriculture,
+        as well as key uncertainties associated with each topic.
+    (c) Methods.--In conducting analyses under this section, the 
+Committee shall use the best available methods, consistent with 
+guidance from the Office of Information and Regulatory Affairs and the 
+Office of Management and Budget Circular A-4.
+    (d) Data.--In conducting analyses under this section, the 
+Committee--
+            (1) shall use the best data that are available to the 
+        public or supplied to the Committee by its members, including 
+        the most recent such data appropriate for this analysis 
+        representing air quality, facility emissions, and installed 
+        controls; and
+            (2) is not required to create data or to use data that are 
+        not readily accessible.
+    (e) Covered Rules.--In this section, the term ``covered rule'' 
+means the following:
+            (1) The following published rules (including any successor 
+        or substantially similar rule):
+                    (A) The Clean Air Interstate Rule (as defined in 
+                section 304(a)(4)).
+                    (B) ``National Ambient Air Quality Standards for 
+                Ozone'', published at 73 Fed. Reg. 16436 (March 27, 
+                2008).
+                    (C) ``National Emission Standards for Hazardous Air 
+                Pollutants for Major Sources: Industrial, Commercial, 
+                and Institutional Boilers and Process Heaters'', 
+                published at 76 Fed. Reg. 15608 (March 21, 2011).
+                    (D) ``National Emission Standards for Hazardous Air 
+                Pollutants for Area Sources: Industrial, Commercial, 
+                and Institutional Boilers'', published at 76 Fed. Reg. 
+                15554 (March 21, 2011).
+                    (E) ``National Emission Standards for Hazardous Air 
+                Pollutants from Coal- and Oil-fired Electric Utility 
+                Steam Generating Units and Standards of Performance for 
+                Fossil-Fuel-Fired Electric Utility, Industrial-
+                Commercial-Institutional, and Small Industrial-
+                Commercial-Institutional Steam Generating Units'', 
+                published at 77 Fed. Reg. 9304 (February 16, 2012).
+                    (F) ``Hazardous and Solid Waste Management System; 
+                Identification and Listing of Special Wastes; Disposal 
+                of Coal Combustion Residuals From Electric Utilities'', 
+                published at 75 Fed. Reg. 35127 (June 21, 2010).
+                    (G) ``Primary National Ambient Air Quality Standard 
+                for Sulfur Dioxide'', published at 75 Fed. Reg. 35520 
+                (June 22, 2010).
+                    (H) ``Primary National Ambient Air Quality 
+                Standards for Nitrogen Dioxide'', published at 75 Fed. 
+                Reg. 6474 (February 9, 2010).
+                    (I) ``National Emission Standards for Hazardous Air 
+                Pollutants from the Portland Cement Manufacturing 
+                Industry and Standards of Performance for Portland 
+                Cement Plants'', published at 75 Fed. Reg. 54970 
+                (September 9, 2010).
+            (2) The following additional rules or guidelines 
+        promulgated on or after January 1, 2009:
+                    (A) Any rule or guideline promulgated under section 
+                111(b) or 111(d) of the Clean Air Act (42 U.S.C. 
+                7411(b), 7411(d)) to address climate change.
+                    (B) Any rule or guideline promulgated by the 
+                Administrator of the Environmental Protection Agency, a 
+                State, a local government, or a permitting agency under 
+                or as the result of section 169A or 169B of the Clean 
+                Air Act (42 U.S.C. 7491, 7492).
+                    (C) Any rule establishing or modifying a national 
+                ambient air quality standard under section 109 of the 
+                Clean Air Act (42 U.S.C. 7409).
+                    (D) Any rule addressing fuels under title II of the 
+                Clean Air Act (42 U.S.C. 7521 et seq.) as described in 
+                the Unified Agenda of Federal Regulatory and 
+                Deregulatory Actions under Regulatory Identification 
+                Number 2060-AQ86, or any substantially similar rule, 
+                including any rule under section 211(v) of the Clean 
+                Air Act (42 U.S.C. 7545(v)).
+    (f) Covered Actions.--In this section, the term ``covered action'' 
+means any action on or after January 1, 2009, by the Administrator of 
+the Environmental Protection Agency, a State, a local government, or a 
+permitting agency as a result of the application of part C of title I 
+(relating to prevention of significant deterioration of air quality) or 
+title V (relating to permitting) of the Clean Air Act (42 U.S.C. 7401 
+et seq.), if such application occurs with respect to an air pollutant 
+that is identified as a greenhouse gas in ``Endangerment and Cause or 
+Contribute Findings for Greenhouse Gases Under Section 202(a) of the 
+Clean Air Act'', published at 74 Fed. Reg. 66496 (December 15, 2009).
+
+SEC. 303. REPORTS; PUBLIC COMMENT.
+
+    (a) Preliminary Report.--Not later than March 31, 2013, the 
+Committee shall make public and submit to the Committee on Energy and 
+Commerce of the House of Representatives and the Committee on 
+Environment and Public Works of the Senate a preliminary report 
+containing the results of the analyses conducted under section 302.
+    (b) Public Comment Period.--The Committee shall accept public 
+comments regarding the preliminary report submitted under subsection 
+(a) for a period of 120 days after such submission.
+    (c) Final Report.--Not later than September 30, 2013, the Committee 
+shall submit to Congress a final report containing the analyses 
+conducted under section 302, including any revisions to such analyses 
+made as a result of public comments, and a response to such comments.
+
+SEC. 304. ADDITIONAL PROVISIONS RELATING TO CERTAIN RULES.
+
+    (a) Cross-State Air Pollution Rule/Transport Rule.--
+            (1) Earlier rules.--The rule entitled ``Federal 
+        Implementation Plans: Interstate Transport of Fine Particulate 
+        Matter and Ozone and Correction of SIP Approvals'', published 
+        at 76 Fed. Reg. 48208 (August 8, 2011), and any successor or 
+        substantially similar rule, shall be of no force or effect, and 
+        shall be treated as though such rule had never taken effect.
+            (2) Continued applicability of clean air interstate rule.--
+        In place of any rule described in paragraph (1), the 
+        Administrator of the Environmental Protection Agency (in this 
+        section referred to as the ``Administrator'') shall continue to 
+        implement the Clean Air Interstate Rule.
+            (3) Additional rulemakings.--
+                    (A) Issuance of new rules.--The Administrator--
+                            (i) shall not issue any proposed or final 
+                        rule under section 110(a)(2)(D)(i)(I) or 
+                        section 126 of the Clean Air Act (42 U.S.C. 
+                        7410(a)(2)(D)(i)(I), 7426) relating to national 
+                        ambient air quality standards for ozone or 
+                        particulate matter (including any modification 
+                        of the Clean Air Interstate Rule) before the 
+                        date that is 3 years after the date on which 
+                        the Committee submits the final report under 
+                        section 303(c);
+                            (ii) in issuing any rule described in 
+                        clause (i), shall base the rule on actual 
+                        monitored (and not modeled) data and shall, 
+                        notwithstanding section 110(a)(2)(D)(i)(I), 
+                        allow the trading of emissions allowances among 
+                        entities covered by the rule irrespective of 
+                        the States in which such entities are located;
+                            (iii) shall not issue any proposed or final 
+                        rule under section 109 of the Clean Air Act (42 
+                        U.S.C. 7409) that relies upon scientific or 
+                        technical data that have not been made 
+                        available to the public; and
+                            (iv) shall not issue any proposed or final 
+                        rule under section 109 of the Clean Air Act (42 
+                        U.S.C. 7409), unless the accompanying 
+                        regulatory impact analysis, as required under 
+                        Executive Order No. 12866, is peer reviewed in 
+                        a manner consistent with the Office of 
+                        Management and Budget's ``Final Information 
+                        Quality Bulletin for Peer Review'' and the 
+                        third edition of the Environmental Protection 
+                        Agency's ``Peer Review Handbook''.
+                    (B) Implementation schedule.--In promulgating any 
+                final rule described in subparagraph (A)(i), the 
+                Administrator shall establish a date for State 
+                implementation of the standards established by such 
+                final rule that is not earlier than 3 years after the 
+                date of publication of such final rule.
+            (4) Definition of clean air interstate rule.--For purposes 
+        of this section, the term ``Clean Air Interstate Rule'' means 
+        the Clean Air Interstate Rule and the rule establishing Federal 
+        Implementation Plans for the Clean Air Interstate Rule as 
+        promulgated and modified by the Administrator (70 Fed. Reg. 
+        25162 (May 12, 2005), 71 Fed. Reg. 25288 (April 28, 2006), 72 
+        Fed. Reg. 55657 (October 1, 2007), 72 Fed. Reg. 59190 (October 
+        19, 2007), 72 Fed. Reg. 62338 (November 2, 2007), 74 Fed. Reg. 
+        56721 (November 3, 2009)).
+    (b) Steam Generating Unit Rules.--
+            (1) Earlier rules.--The proposed rule entitled ``National 
+        Emission Standards for Hazardous Air Pollutants From Coal- and 
+        Oil-Fired Electric Utility Steam Generating Units and Standards 
+        of Performance for Fossil-Fuel-Fired Electric Utility, 
+        Industrial-Commercial- Institutional, and Small Industrial-
+        Commercial-Institutional Steam Generating Units'' published at 
+        76 Fed. Reg. 24976 (May 3, 2011), and any final rule that is 
+        based on such proposed rule and is issued prior to the date of 
+        the enactment of this Act, shall be of no force and effect, and 
+        shall be treated as though such proposed or final rule had 
+        never been issued. In conducting analyses under section 302(a), 
+        the Committee shall analyze the rule described in section 
+        302(e)(1)(E) (including any successor or substantially similar 
+        rule) as if the preceding sentence did not apply to such rule.
+            (2) Promulgation of final rules.--In place of the rules 
+        described in paragraph (1), the Administrator shall--
+                    (A) issue regulations establishing national 
+                emission standards for coal-and oil-fired electric 
+                utility steam generating units under section 112 of the 
+                Clean Air Act (42 U.S.C. 7412) with respect to each 
+                hazardous air pollutant for which the Administrator 
+                finds such regulations are appropriate and necessary 
+                pursuant to subsection (n)(1)(A) of such section;
+                    (B) issue regulations establishing standards of 
+                performance for fossil-fuel-fired electric utility, 
+                industrial-commercial-institutional, and small 
+                industrial-commercial-institutional steam generating 
+                units under section 111 of the Clean Air Act (42 U.S.C. 
+                111); and
+                    (C) issue the final regulations required by 
+                subparagraphs (A) and (B)--
+                            (i) after issuing proposed regulations 
+                        under such subparagraphs;
+                            (ii) after consideration of the final 
+                        report submitted under section 303(c); and
+                            (iii) not earlier than the date that is 12 
+                        months after the date on which the Committee 
+                        submits such report to the Congress, or such 
+                        later date as may be determined by the 
+                        Administrator.
+            (3) Compliance provisions.--
+                    (A) Establishment of compliance dates.--In 
+                promulgating the regulations under paragraph (2), the 
+                Administrator--
+                            (i) shall establish a date for compliance 
+                        with the standards and requirements under such 
+                        regulations that is not earlier than 5 years 
+                        after the effective date of the regulations; 
+                        and
+                            (ii) in establishing a date for such 
+                        compliance, shall take into consideration--
+                                    (I) the costs of achieving 
+                                emissions reductions;
+                                    (II) any non-air quality health and 
+                                environmental impact and energy 
+                                requirements of the standards and 
+                                requirements;
+                                    (III) the feasibility of 
+                                implementing the standards and 
+                                requirements, including the time needed 
+                                to--
+                                            (aa) obtain necessary 
+                                        permit approvals; and
+                                            (bb) procure, install, and 
+                                        test control equipment;
+                                    (IV) the availability of equipment, 
+                                suppliers, and labor, given the 
+                                requirements of the regulations and 
+                                other proposed or finalized 
+                                regulations; and
+                                    (V) potential net employment 
+                                impacts.
+                    (B) New sources.--With respect to the regulations 
+                promulgated pursuant to paragraph (2)--
+                            (i) the date on which the Administrator 
+                        proposes a regulation pursuant to paragraph 
+                        (2)(A) establishing an emission standard under 
+                        section 112 of the Clean Air Act (42 U.S.C. 
+                        7412) shall be treated as the date on which the 
+                        Administrator first proposes such a regulation 
+                        for purposes of applying the definition of a 
+                        new source under section 112(a)(4) of such Act 
+                        (42 U.S.C. 7412(a)(4));
+                            (ii) the date on which the Administrator 
+                        proposes a regulation pursuant to paragraph 
+                        (2)(B) establishing a standard of performance 
+                        under section 111 of the Clean Air Act (42 
+                        U.S.C. 7411) shall be treated as the date on 
+                        which the Administrator proposes such a 
+                        regulation for purposes of applying the 
+                        definition of a new source under section 
+                        111(a)(2) of such Act (42 U.S.C. 7411(a)(2));
+                            (iii) for purposes of any emission standard 
+                        or limitation applicable to electric utility 
+                        steam generating units, the term ``new source'' 
+                        means a stationary source for which a 
+                        preconstruction permit or other preconstruction 
+                        approval required under the Clean Air Act (42 
+                        U.S.C. 7401 et seq.) has been issued after the 
+                        effective date of such emissions standard or 
+                        limitation; and
+                            (iv) for purposes of clause (iii), the date 
+                        of issuance of a preconstruction permit or 
+                        other preconstruction approval is deemed to be 
+                        the date on which such permit or approval is 
+                        issued to the applicant irrespective of any 
+                        administrative or judicial review occurring 
+                        after such date.
+                    (C) Rule of construction.--Nothing in this 
+                subsection shall be construed to restrict or otherwise 
+                affect the provisions of paragraphs (3)(B) and (4) of 
+                section 112(i) of the Clean Air Act (42 U.S.C. 
+                7412(i)).
+            (4) Other provisions.--
+                    (A) Establishment of standards achievable in 
+                practice.--The regulations promulgated pursuant to 
+                paragraph (2)(A) of this section shall apply section 
+                112(d)(3) of the Clean Air Act (42 U.S.C. 7412(d)(3)) 
+                in accordance with the following:
+                            (i) New sources.--With respect to new 
+                        sources:
+                                    (I) The Administrator shall 
+                                identify the best controlled similar 
+                                source for each source category or 
+                                subcategory.
+                                    (II) The best controlled similar 
+                                source for a category or subcategory 
+                                shall be the single source that is 
+                                determined by the Administrator to be 
+                                the best controlled, in the aggregate, 
+                                for all of the hazardous air pollutants 
+                                for which the Administrator intends to 
+                                issue standards for such source 
+                                category or subcategory, under actual 
+                                operating conditions, taking into 
+                                account the variability in actual 
+                                source performance, source design, 
+                                fuels, controls, ability to measure 
+                                pollutant emissions, and operating 
+                                conditions.
+                            (ii) Existing sources.--With respect to 
+                        existing sources:
+                                    (I) The Administrator shall 
+                                identify one group of sources that 
+                                constitutes the best performing 12 
+                                percent of existing sources for each 
+                                source category or subcategory.
+                                    (II) The group constituting the 
+                                best performing 12 percent of existing 
+                                sources for a category or subcategory 
+                                shall be the single group that is 
+                                determined by the Administrator to be 
+                                the best performing, in the aggregate, 
+                                for all of the hazardous air pollutants 
+                                for which the Administrator intends to 
+                                issue standards for such source 
+                                category or subcategory, under actual 
+                                operating conditions, taking into 
+                                account the variability in actual 
+                                source performance, source design, 
+                                fuels, controls, ability to measure 
+                                pollutant emissions, and operating 
+                                conditions.
+                    (B) Regulatory alternatives.--For the regulations 
+                promulgated pursuant to paragraph (2) of this section, 
+                from among the range of regulatory alternatives 
+                authorized under the Clean Air Act (42 U.S.C. 7401 et 
+                seq.), including work practice standards under section 
+                112(h) of such Act (42 U.S.C. 7412(h)), the 
+                Administrator shall impose the least burdensome, 
+                consistent with the purposes of such Act and Executive 
+                Order No. 13563 published at 76 Fed. Reg. 3821 (January 
+                21, 2011).
+
+SEC. 305. CONSIDERATION OF FEASIBILITY AND COST IN ESTABLISHING 
+              NATIONAL AMBIENT AIR QUALITY STANDARDS.
+
+    In establishing any national primary or secondary ambient air 
+quality standard under section 109 of the Clean Air Act (42 U.S.C. 
+7409), the Administrator of the Environmental Protection Agency shall 
+take into consideration feasibility and cost.
+
+     TITLE IV--MANAGEMENT AND DISPOSAL OF COAL COMBUSTION RESIDUALS
+
+SEC. 401. MANAGEMENT AND DISPOSAL OF COAL COMBUSTION RESIDUALS.
+
+    (a) In General.--Subtitle D of the Solid Waste Disposal Act (42 
+U.S.C. 6941 et seq.) is amended by adding at the end the following:
+
+``SEC. 4011. MANAGEMENT AND DISPOSAL OF COAL COMBUSTION RESIDUALS.
+
+    ``(a) State Permit Programs for Coal Combustion Residuals.--Each 
+State may adopt and implement a coal combustion residuals permit 
+program.
+    ``(b) State Actions.--
+            ``(1) Notification.--Not later than 6 months after the date 
+        of enactment of this section (except as provided by the 
+        deadline identified under subsection (d)(3)(B)), the Governor 
+        of each State shall notify the Administrator, in writing, 
+        whether such State will adopt and implement a coal combustion 
+        residuals permit program.
+            ``(2) Certification.--
+                    ``(A) In general.--Not later than 36 months after 
+                the date of enactment of this section (except as 
+                provided in subsections (f)(1)(A) and (f)(1)(C)), in 
+                the case of a State that has notified the Administrator 
+                that it will implement a coal combustion residuals 
+                permit program, the head of the lead State agency 
+                responsible for implementing the coal combustion 
+                residuals permit program shall submit to the 
+                Administrator a certification that such coal combustion 
+                residuals permit program meets the specifications 
+                described in subsection (c).
+                    ``(B) Contents.--A certification submitted under 
+                this paragraph shall include--
+                            ``(i) a letter identifying the lead State 
+                        agency responsible for implementing the coal 
+                        combustion residuals permit program, signed by 
+                        the head of such agency;
+                            ``(ii) identification of any other State 
+                        agencies involved with the implementation of 
+                        the coal combustion residuals permit program;
+                            ``(iii) a narrative description that 
+                        provides an explanation of how the State will 
+                        ensure that the coal combustion residuals 
+                        permit program meets the requirements of this 
+                        section, including a description of the 
+                        State's--
+                                    ``(I) process to inspect or 
+                                otherwise determine compliance with 
+                                such permit program;
+                                    ``(II) process to enforce the 
+                                requirements of such permit program;
+                                    ``(III) public participation 
+                                process for the promulgation, 
+                                amendment, or repeal of regulations 
+                                for, and the issuance of permits under, 
+                                such permit program; and
+                                    ``(IV) statutes, regulations, or 
+                                policies pertaining to public access to 
+                                information, such as groundwater 
+                                monitoring data;
+                            ``(iv) a legal certification that the State 
+                        has, at the time of certification, fully 
+                        effective statutes or regulations necessary to 
+                        implement a coal combustion residuals permit 
+                        program that meets the specifications described 
+                        in subsection (c); and
+                            ``(v) copies of State statutes and 
+                        regulations described in clause (iv).
+                    ``(C) Updates.--A State may update the 
+                certification as needed to reflect changes to the coal 
+                combustion residuals permit program.
+            ``(3) Maintenance of 4005(c) or 3006 program.--In order to 
+        adopt or implement a coal combustion residuals permit program 
+        under this section (including pursuant to subsection (f)), the 
+        State agency responsible for implementing a coal combustion 
+        residuals permit program in a State shall maintain an approved 
+        program under section 4005(c) or an authorized program under 
+        section 3006.
+    ``(c) Permit Program Specifications.--
+            ``(1) Minimum requirements.--
+                    ``(A) In general.--A coal combustion residuals 
+                permit program shall apply the revised criteria 
+                described in paragraph (2) to owners or operators of 
+                structures, including surface impoundments, that 
+                receive coal combustion residuals.
+                    ``(B) Structural integrity.--
+                            ``(i) Engineering certification.--A coal 
+                        combustion residuals permit program shall 
+                        require that an independent registered 
+                        professional engineer certify that--
+                                    ``(I) the design of structures is 
+                                in accordance with recognized and 
+                                generally accepted good engineering 
+                                practices for containment of the 
+                                maximum volume of coal combustion 
+                                residuals and liquids appropriate for 
+                                the structure; and
+                                    ``(II) the construction and 
+                                maintenance of the structure will 
+                                ensure dam stability.
+                            ``(ii) Inspection.--A coal combustion 
+                        residuals permit program shall require that 
+                        structures that are surface impoundments be 
+                        inspected not less than annually by an 
+                        independent registered professional engineer to 
+                        assure that the design, operation, and 
+                        maintenance of the surface impoundment is in 
+                        accordance with recognized and generally 
+                        accepted good engineering practices for 
+                        containment of the maximum volume of coal 
+                        combustion residuals and liquids which can be 
+                        impounded, so as to ensure dam stability.
+                            ``(iii) Deficiency.--
+                                    ``(I) In general.--If the head of 
+                                the agency responsible for implementing 
+                                the coal combustion residuals permit 
+                                program determines that a structure is 
+                                deficient with respect to the 
+                                requirements in clauses (i) and (ii), 
+                                the head of the agency has the 
+                                authority to require action to correct 
+                                the deficiency according to a schedule 
+                                determined by the agency.
+                                    ``(II) Uncorrected deficiencies.--
+                                If a deficiency is not corrected 
+                                according to the schedule, the head of 
+                                the agency has the authority to require 
+                                that the structure close in accordance 
+                                with subsection (h).
+                    ``(C) Location.--Each structure that first receives 
+                coal combustion residuals after the date of enactment 
+                of this section shall be constructed with a base 
+                located a minimum of 2 feet above the upper limit of 
+                the water table, unless it is demonstrated to the 
+                satisfaction of the agency responsible for implementing 
+                the coal combustion residuals permit program that--
+                            ``(i) the hydrogeologic characteristics of 
+                        the structure and surrounding land would 
+                        preclude such a requirement; and
+                            ``(ii) the function and integrity of the 
+                        liner system will not be adversely impacted by 
+                        contact with the water table.
+                    ``(D) Wind dispersal.--
+                            ``(i) In general.--The agency responsible 
+                        for implementing the coal combustion residuals 
+                        permit program shall require that owners or 
+                        operators of structures address wind dispersal 
+                        of dust by requiring cover, or by wetting coal 
+                        combustion residuals with water to a moisture 
+                        content that prevents wind dispersal, 
+                        facilitates compaction, and does not result in 
+                        free liquids.
+                            ``(ii) Alternative methods.--Subject to the 
+                        review and approval by the agency, owners or 
+                        operators of structures may propose alternative 
+                        methods to address wind dispersal of dust that 
+                        will provide comparable or more effective 
+                        control of dust.
+                    ``(E) Permits.--The agency responsible for 
+                implementing the coal combustion residuals permit 
+                program shall require that the owner or operator of 
+                each structure that receives coal combustion residuals 
+                after the date of enactment of this section apply for 
+                and obtain a permit incorporating the requirements of 
+                the coal combustion residuals permit program.
+                    ``(F) State notification and groundwater 
+                monitoring.--
+                            ``(i) Notification.--Not later than the 
+                        date on which a State submits a certification 
+                        under subsection (b)(2), the State shall notify 
+                        owners or operators of structures within the 
+                        State of--
+                                    ``(I) the obligation to apply for 
+                                and obtain a permit under subparagraph 
+                                (E); and
+                                    ``(II) the groundwater monitoring 
+                                requirements applicable to structures 
+                                under paragraph (2)(A)(ii).
+                            ``(ii) Groundwater monitoring.--Not later 
+                        than 1 year after the date on which a State 
+                        submits a certification under subsection 
+                        (b)(2), the State shall require the owner or 
+                        operator of each structure to comply with the 
+                        groundwater monitoring requirements under 
+                        paragraph (2)(A)(ii).
+                    ``(G) Agency requirements.--Except for information 
+                described in section 1905 of title 18, United States 
+                Code, the agency responsible for implementing the coal 
+                combustion residuals permit program shall ensure that--
+                            ``(i) documents for permit determinations 
+                        are made available for public review and 
+                        comment under the public participation process 
+                        described in subsection (b)(2)(B)(iii)(III);
+                            ``(ii) final determinations on permit 
+                        applications are made known to the public; and
+                            ``(iii) groundwater monitoring data 
+                        collected under paragraph (2) is publicly 
+                        available.
+                    ``(H) Agency authority.--
+                            ``(i) In general.--The agency responsible 
+                        for implementing the coal combustion residuals 
+                        permit program has the authority to--
+                                    ``(I) obtain information necessary 
+                                to determine whether the owner or 
+                                operator of a structure is in 
+                                compliance with the coal combustion 
+                                residuals permit program requirements 
+                                of this section;
+                                    ``(II) conduct or require 
+                                monitoring and testing to ensure that 
+                                structures are in compliance with the 
+                                coal combustion residuals permit 
+                                program requirements of this section; 
+                                and
+                                    ``(III) enter, at reasonable times, 
+                                any site or premise subject to the coal 
+                                combustion residuals permit program for 
+                                the purpose of inspecting structures 
+                                and reviewing records relevant to the 
+                                operation and maintenance of 
+                                structures.
+                            ``(ii) Monitoring and testing.--If 
+                        monitoring or testing is conducted under clause 
+                        (i)(II) by or for the agency responsible for 
+                        implementing the coal combustion residuals 
+                        permit program, the agency shall, if requested, 
+                        provide to the owner or operator--
+                                    ``(I) a written description of the 
+                                monitoring or testing completed;
+                                    ``(II) at the time of sampling, a 
+                                portion of each sample equal in volume 
+                                or weight to the portion retained by or 
+                                for the agency; and
+                                    ``(III) a copy of the results of 
+                                any analysis of samples collected by or 
+                                for the agency.
+                    ``(I) State authority.--A State implementing a coal 
+                combustion residuals permit program has the authority 
+                to--
+                            ``(i) inspect structures; and
+                            ``(ii) implement and enforce the coal 
+                        combustion residuals permit program.
+                    ``(J) Requirements for surface impoundments that do 
+                not meet certain criteria.--
+                            ``(i) In general.--In addition to the 
+                        groundwater monitoring and corrective action 
+                        requirements described in paragraph (2)(A)(ii), 
+                        a coal combustion residuals permit program 
+                        shall require a surface impoundment that 
+                        receives coal combustion residuals after the 
+                        date of enactment of this section to--
+                                    ``(I) comply with the requirements 
+                                in clause (ii)(I)(aa) and subclauses 
+                                (II) through (IV) of clause (ii) if the 
+                                surface impoundment--
+                                            ``(aa) does not--
+
+                                                    ``(AA) have a liner 
+                                                system described in 
+                                                section 258.40(b) of 
+                                                title 40, Code of 
+                                                Federal Regulations; 
+                                                and
+
+                                                    ``(BB) meet the 
+                                                design criteria 
+                                                described in section 
+                                                258.40(a)(1) of title 
+                                                40, Code of Federal 
+                                                Regulations; and
+
+                                            ``(bb) within 10 years 
+                                        after the date of enactment of 
+                                        this section, is required under 
+                                        section 258.56(a) of title 40, 
+                                        Code of Federal Regulations, to 
+                                        undergo an assessment of 
+                                        corrective measures for any 
+                                        constituent identified in 
+                                        paragraph (2)(A)(ii) for which 
+                                        assessment groundwater 
+                                        monitoring is required; and
+                                    ``(II) comply with the requirements 
+                                in clause (ii)(I)(bb) and subclauses 
+                                (II) through (IV) of clause (ii) if the 
+                                surface impoundment--
+                                            ``(aa) does not--
+
+                                                    ``(AA) have a liner 
+                                                system described in 
+                                                section 258.40(b) of 
+                                                title 40, Code of 
+                                                Federal Regulations; 
+                                                and
+
+                                                    ``(BB) meet the 
+                                                design criteria 
+                                                described in section 
+                                                258.40(a)(1) of title 
+                                                40, Code of Federal 
+                                                Regulations; and
+
+                                            ``(bb) as of the date of 
+                                        enactment of this section, is 
+                                        subject to a State corrective 
+                                        action requirement.
+                            ``(ii) Requirements.--
+                                    ``(I) Deadlines.--
+                                            ``(aa) In general.--Except 
+                                        as provided in item (bb), 
+                                        subclause (IV), and clause 
+                                        (iii), the groundwater 
+                                        protection standard for 
+                                        structures identified in clause 
+                                        (i)(I) established by the 
+                                        agency responsible for 
+                                        implementing the coal 
+                                        combustion residuals permit 
+                                        program under section 258.55(h) 
+                                        or 258.55(i) of title 40, Code 
+                                        of Federal Regulations, for any 
+                                        constituent for which 
+                                        corrective measures are 
+                                        required shall be met--
+
+                                                    ``(AA) as soon as 
+                                                practicable at the 
+                                                relevant point of 
+                                                compliance, as 
+                                                described in section 
+                                                258.40(d) of title 40, 
+                                                Code of Federal 
+                                                Regulations; and
+
+                                                    ``(BB) not later 
+                                                than 10 years after the 
+                                                date of enactment of 
+                                                this section.
+
+                                            ``(bb) Impoundments subject 
+                                        to state corrective action 
+                                        requirements.--Except as 
+                                        provided in subclause (IV), the 
+                                        groundwater protection standard 
+                                        for structures identified in 
+                                        clause (i)(II) established by 
+                                        the agency responsible for 
+                                        implementing the coal 
+                                        combustion residuals permit 
+                                        program under section 258.55(h) 
+                                        or 258.55(i) of title 40, Code 
+                                        of Federal Regulations, for any 
+                                        constituent for which 
+                                        corrective measures are 
+                                        required shall be met--
+
+                                                    ``(AA) as soon as 
+                                                practicable at the 
+                                                relevant point of 
+                                                compliance, as 
+                                                described in section 
+                                                258.40(d) of title 40, 
+                                                Code of Federal 
+                                                Regulations; and
+
+                                                    ``(BB) not later 
+                                                than 8 years after the 
+                                                date of enactment of 
+                                                this section.
+
+                                    ``(II) Closure.--If the deadlines 
+                                under clause (I) are not satisfied, the 
+                                structure shall cease receiving coal 
+                                combustion residuals and initiate 
+                                closure under subsection (h).
+                                    ``(III) Interim measures.--
+                                            ``(aa) In general.--Except 
+                                        as provided in item (bb), not 
+                                        later than 90 days after the 
+                                        date on which the assessment of 
+                                        corrective measures is 
+                                        initiated, the owner or 
+                                        operator shall implement 
+                                        interim measures, as necessary, 
+                                        under the factors in section 
+                                        258.58(a)(3) of title 40, Code 
+                                        of Federal Regulations.
+                                            ``(bb) Impoundments subject 
+                                        to state corrective action 
+                                        requirements.--Item (aa) shall 
+                                        only apply to surface 
+                                        impoundments subject to a State 
+                                        corrective action requirement 
+                                        as of the date of enactment of 
+                                        this section if the owner or 
+                                        operator has not implemented 
+                                        interim measures, as necessary, 
+                                        under the factors in section 
+                                        258.58(a)(3) of title 40, Code 
+                                        of Federal Regulations.
+                                    ``(IV) Extension of deadline.--
+                                            ``(aa) In general.--Except 
+                                        as provided in item (bb), the 
+                                        deadline for meeting a 
+                                        groundwater protection standard 
+                                        under subclause (I) may be 
+                                        extended by the agency 
+                                        responsible for implementing 
+                                        the coal combustion residuals 
+                                        permit program, after 
+                                        opportunity for public notice 
+                                        and comment under the public 
+                                        participation process described 
+                                        in subsection 
+                                        (b)(2)(B)(iii)(III), based on--
+
+                                                    ``(AA) the 
+                                                effectiveness of any 
+                                                interim measures 
+                                                implemented by the 
+                                                owner or operator of 
+                                                the facility under 
+                                                section 258.58(a)(3) of 
+                                                title 40, Code of 
+                                                Federal Regulations;
+
+                                                    ``(BB) the level of 
+                                                progress demonstrated 
+                                                in meeting the 
+                                                groundwater protection 
+                                                standard;
+
+                                                    ``(CC) the 
+                                                potential for other 
+                                                adverse human health or 
+                                                environmental exposures 
+                                                attributable to the 
+                                                contamination from the 
+                                                surface impoundment 
+                                                undergoing corrective 
+                                                action; and
+
+                                                    ``(DD) the lack of 
+                                                available alternative 
+                                                management capacity for 
+                                                the coal combustion 
+                                                residuals and related 
+                                                materials managed in 
+                                                the impoundment at the 
+                                                facility at which the 
+                                                impoundment is located 
+                                                if the owner or 
+                                                operator has used best 
+                                                efforts, as necessary, 
+                                                to design, obtain any 
+                                                necessary permits, 
+                                                finance, construct, and 
+                                                render operational the 
+                                                alternative management 
+                                                capacity during the 
+                                                time period for meeting 
+                                                a groundwater 
+                                                protection standard in 
+                                                subclause (I).
+
+                                            ``(bb) Exception.--The 
+                                        deadlines under subclause (I) 
+                                        shall not be extended if there 
+                                        has been contamination of 
+                                        public or private drinking 
+                                        water systems attributable to a 
+                                        surface impoundment undergoing 
+                                        corrective action, unless the 
+                                        contamination has been 
+                                        addressed by providing a 
+                                        permanent replacement water 
+                                        system.
+                            ``(iii) Subsequent closure.--
+                                    ``(I) In general.--In addition to 
+                                the groundwater monitoring and 
+                                corrective action requirements 
+                                described in paragraph (2)(A)(ii), a 
+                                coal combustion residuals permit 
+                                program shall require a surface 
+                                impoundment that receives coal 
+                                combustion residuals after the date of 
+                                enactment of this section to comply 
+                                with the requirements in subclause (II) 
+                                if the surface impoundment--
+                                            ``(aa) does not--
+
+                                                    ``(AA) have a liner 
+                                                system described in 
+                                                section 258.40(b) of 
+                                                title 40, Code of 
+                                                Federal Regulations; 
+                                                and
+
+                                                    ``(BB) meet the 
+                                                design criteria 
+                                                described in section 
+                                                258.40(a)(1) of title 
+                                                40, Code of Federal 
+                                                Regulations;
+
+                                            ``(bb) more than 10 years 
+                                        after the date of enactment of 
+                                        this section, is required under 
+                                        section 258.56(a) of title 40, 
+                                        Code of Federal Regulations, to 
+                                        undergo an assessment of 
+                                        corrective measures for any 
+                                        constituent identified in 
+                                        paragraph (2)(A)(ii) for which 
+                                        assessment groundwater 
+                                        monitoring is required; and
+                                            ``(cc) is not subject to 
+                                        the requirements in clause 
+                                        (ii).
+                                    ``(II) Requirements.--
+                                            ``(aa) Closure.--The 
+                                        structures identified in 
+                                        subclause (I) shall cease 
+                                        receiving coal combustion 
+                                        residuals and initiate closure 
+                                        in accordance with subsection 
+                                        (h) after alternative 
+                                        management capacity for the 
+                                        coal combustion residuals and 
+                                        related materials managed in 
+                                        the impoundment at the facility 
+                                        is available.
+                                            ``(bb) Best efforts.--The 
+                                        alternative management capacity 
+                                        shall be developed as soon as 
+                                        practicable with the owner or 
+                                        operator using best efforts to 
+                                        design, obtain necessary 
+                                        permits, finance, construct, 
+                                        and render operational the 
+                                        alternative management 
+                                        capacity.
+                                            ``(cc) Alternative 
+                                        management capacity plan.--The 
+                                        owner or operator shall, in 
+                                        collaboration with the agency 
+                                        responsible for implementing 
+                                        the coal combustion residuals 
+                                        permit program, prepare a 
+                                        written plan that describes the 
+                                        steps necessary to develop the 
+                                        alternative management capacity 
+                                        and includes a schedule for 
+                                        completion.
+                                            ``(dd) Public 
+                                        participation.--The plan 
+                                        described in item (cc) shall be 
+                                        subject to public notice and 
+                                        comment under the public 
+                                        participation process described 
+                                        in subsection 
+                                        (b)(2)(B)(iii)(III).
+            ``(2) Revised criteria.--The revised criteria described in 
+        this paragraph are--
+                    ``(A) the revised criteria for design, groundwater 
+                monitoring, corrective action, closure, and post-
+                closure, for structures, including--
+                            ``(i) for new structures, and lateral 
+                        expansions of existing structures, that first 
+                        receive coal combustion residuals after the 
+                        date of enactment of this section, the revised 
+                        criteria regarding design requirements 
+                        described in section 258.40 of title 40, Code 
+                        of Federal Regulations, except that the 
+                        leachate collection system requirements 
+                        described in section 258.40(a)(2) of title 40, 
+                        Code of Federal Regulations do not apply to 
+                        structures that are surface impoundments;
+                            ``(ii) for all structures that receive coal 
+                        combustion residuals after the date of 
+                        enactment of this section, the revised criteria 
+                        regarding groundwater monitoring and corrective 
+                        action requirements described in subpart E of 
+                        part 258 of title 40, Code of Federal 
+                        Regulations, except that, for the purposes of 
+                        this paragraph, the revised criteria shall also 
+                        include--
+                                    ``(I) for the purposes of detection 
+                                monitoring, the constituents boron, 
+                                chloride, conductivity, fluoride, 
+                                mercury, pH, sulfate, sulfide, and 
+                                total dissolved solids; and
+                                    ``(II) for the purposes of 
+                                assessment monitoring, establishing a 
+                                groundwater protection standard, and 
+                                assessment of corrective measures, the 
+                                constituents aluminum, boron, chloride, 
+                                fluoride, iron, manganese, molybdenum, 
+                                pH, sulfate, and total dissolved 
+                                solids;
+                            ``(iii) for all structures that receive 
+                        coal combustion residuals after the date of 
+                        enactment of this section, in a manner 
+                        consistent with subsection (h), the revised 
+                        criteria for closure described in subsections 
+                        (a) through (c) and (h) through (j) of section 
+                        258.60 of title 40, Code of Federal 
+                        Regulations; and
+                            ``(iv) for all structures that receive coal 
+                        combustion residuals after the date of 
+                        enactment of this section, the revised criteria 
+                        for post-closure care described in section 
+                        258.61 of title 40, Code of Federal 
+                        Regulations, except for the requirement 
+                        described in subsection (a)(4) of that section;
+                    ``(B) the revised criteria for location 
+                restrictions described in--
+                            ``(i) for new structures, and lateral 
+                        expansions of existing structures, that first 
+                        receive coal combustion residuals after the 
+                        date of enactment of this section, sections 
+                        258.11 through 258.15 of title 40, Code of 
+                        Federal Regulations; and
+                            ``(ii) for existing structures that receive 
+                        coal combustion residuals after the date of 
+                        enactment of this section, sections 258.11 and 
+                        258.15 of title 40, Code of Federal 
+                        Regulations;
+                    ``(C) for all structures that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for air quality 
+                described in section 258.24 of title 40, Code of 
+                Federal Regulations;
+                    ``(D) for all structures that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for financial 
+                assurance described in subpart G of part 258 of title 
+                40, Code of Federal Regulations;
+                    ``(E) for all structures that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for surface water 
+                described in section 258.27 of title 40, Code of 
+                Federal Regulations;
+                    ``(F) for all structures that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for recordkeeping 
+                described in section 258.29 of title 40, Code of 
+                Federal Regulations;
+                    ``(G) for landfills and other land-based units, 
+                other than surface impoundments, that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for run-on and run-
+                off control systems described in section 258.26 of 
+                title 40, Code of Federal Regulations; and
+                    ``(H) for surface impoundments that receive coal 
+                combustion residuals after the date of enactment of 
+                this section, the revised criteria for run-off control 
+                systems described in section 258.26(a)(2) of title 40, 
+                Code of Federal Regulations.
+    ``(d) Written Notice and Opportunity to Remedy.--
+            ``(1) In general.--The Administrator shall provide to a 
+        State written notice and an opportunity to remedy deficiencies 
+        in accordance with paragraph (2) if at any time the State--
+                    ``(A) does not satisfy the notification requirement 
+                under subsection (b)(1);
+                    ``(B) has not submitted a certification under 
+                subsection (b)(2);
+                    ``(C) does not satisfy the maintenance requirement 
+                under subsection (b)(3);
+                    ``(D) is not implementing a coal combustion 
+                residuals permit program that--
+                            ``(i) meets the specifications described in 
+                        subsection (c); or
+                            ``(ii)(I) is consistent with the 
+                        certification under subsection (b)(2)(B)(iii); 
+                        and
+                                    ``(II) maintains fully effective 
+                                statutes or regulations necessary to 
+                                implement a coal combustion residuals 
+                                permit program; or
+                    ``(E) does not make available to the Administrator, 
+                within 90 days of a written request, specific 
+                information necessary for the Administrator to 
+                ascertain whether the State has complied with 
+                subparagraphs (A) through (D).
+            ``(2) Request.--If the request described in paragraph 
+        (1)(E) is made pursuant to a petition of the Administrator, the 
+        Administrator shall only make the request if the Administrator 
+        does not possess the information necessary to ascertain whether 
+        the State has complied with subparagraphs (A) through (D) of 
+        paragraph (1).
+            ``(3) Contents of notice; deadline for response.--A notice 
+        provided under this subsection shall--
+                    ``(A) include findings of the Administrator 
+                detailing any applicable deficiencies in--
+                            ``(i) compliance by the State with the 
+                        notification requirement under subsection 
+                        (b)(1);
+                            ``(ii) compliance by the State with the 
+                        certification requirement under subsection 
+                        (b)(2);
+                            ``(iii) compliance by the State with the 
+                        maintenance requirement under subsection 
+                        (b)(3);
+                            ``(iv) the State coal combustion residuals 
+                        permit program in meeting the specifications 
+                        described in subsection (c); and
+                            ``(v) compliance by the State with the 
+                        request under paragraph (1)(E); and
+                    ``(B) identify, in collaboration with the State, a 
+                reasonable deadline, by which the State shall remedy 
+                the deficiencies detailed under subparagraph (A), which 
+                shall be--
+                            ``(i) in the case of a deficiency described 
+                        in clauses (i) through (iv) of subparagraph 
+                        (A), not earlier than 180 days after the date 
+                        on which the State receives the notice; and
+                            ``(ii) in the case of a deficiency 
+                        described in subparagraph (A)(v), not later 
+                        than 90 days after the date on which the State 
+                        receives the notice.
+    ``(e) Implementation by Administrator.--
+            ``(1) In general.--The Administrator shall implement a coal 
+        combustion residuals permit program for a State only if--
+                    ``(A) the Governor of the State notifies the 
+                Administrator under subsection (b)(1) that the State 
+                will not adopt and implement a permit program;
+                    ``(B) the State has received a notice under 
+                subsection (d) and the Administrator determines, after 
+                providing a 30-day period for notice and public 
+                comment, that the State has failed, by the deadline 
+                identified in the notice under subsection (d)(3)(B), to 
+                remedy the deficiencies detailed in the notice under 
+                subsection (d)(3)(A); or
+                    ``(C) the State informs the Administrator, in 
+                writing, that such State will no longer implement such 
+                a permit program.
+            ``(2) Review.--A State may obtain a review of a 
+        determination by the Administrator under this subsection as if 
+        the determination was a final regulation for purposes of 
+        section 7006.
+            ``(3) Other structures.--For structures located on property 
+        within the exterior boundaries of a State for which the State 
+        does not have authority or jurisdiction to regulate, the 
+        Administrator shall implement a coal combustion residuals 
+        permit program only for those structures.
+            ``(4) Requirements.--If the Administrator implements a coal 
+        combustion residuals permit program for a State under paragraph 
+        (1) or (3), the permit program shall consist of the 
+        specifications described in subsection (c).
+            ``(5) Enforcement.--
+                    ``(A) In general.--If the Administrator implements 
+                a coal combustion residuals permit program for a State 
+                under paragraph (1)--
+                            ``(i) the authorities referred to in 
+                        section 4005(c)(2)(A) shall apply with respect 
+                        to coal combustion residuals and structures for 
+                        which the Administrator is implementing the 
+                        coal combustion residuals permit program; and
+                            ``(ii) the Administrator may use those 
+                        authorities to inspect, gather information, and 
+                        enforce the requirements of this section in the 
+                        State.
+                    ``(B) Other structures.--If the Administrator 
+                implements a coal combustion residuals permit program 
+                for a State under paragraph (3)--
+                            ``(i) the authorities referred to in 
+                        section 4005(c)(2)(A) shall apply with respect 
+                        to coal combustion residuals and structures for 
+                        which the Administrator is implementing the 
+                        coal combustion residuals permit program; and
+                            ``(ii) the Administrator may use those 
+                        authorities to inspect, gather information, and 
+                        enforce the requirements of this section for 
+                        the structures for which the Administrator is 
+                        implementing the coal combustion residuals 
+                        permit program.
+    ``(f) State Control After Implementation by Administrator.--
+            ``(1) State control.--
+                    ``(A) New adoption and implementation by state.--
+                For a State for which the Administrator is implementing 
+                a coal combustion residuals permit program under 
+                subsection (e)(1)(A), the State may adopt and implement 
+                such a permit program by--
+                            ``(i) notifying the Administrator that the 
+                        State will adopt and implement such a permit 
+                        program;
+                            ``(ii) not later than 6 months after the 
+                        date of such notification, submitting to the 
+                        Administrator a certification under subsection 
+                        (b)(2); and
+                            ``(iii) receiving from the Administrator--
+                                    ``(I) a determination, after 
+                                providing a 30-day period for notice 
+                                and public comment that the State coal 
+                                combustion residuals permit program 
+                                meets the specifications described in 
+                                subsection (c); and
+                                    ``(II) a timeline for transition of 
+                                control of the coal combustion 
+                                residuals permit program.
+                    ``(B) Remedying deficient permit program.--For a 
+                State for which the Administrator is implementing a 
+                coal combustion residuals permit program under 
+                subsection (e)(1)(B), the State may adopt and implement 
+                such a permit program by--
+                            ``(i) remedying only the deficiencies 
+                        detailed in the notice provided under 
+                        subsection (d)(3)(A); and
+                            ``(ii) receiving from the Administrator--
+                                    ``(I) a determination, after 
+                                providing a 30-day period for notice 
+                                and public comment, that the 
+                                deficiencies detailed in such notice 
+                                have been remedied; and
+                                    ``(II) a timeline for transition of 
+                                control of the coal combustion 
+                                residuals permit program.
+                    ``(C) Resumption of implementation by state.--For a 
+                State for which the Administrator is implementing a 
+                coal combustion residuals permit program under 
+                subsection (e)(1)(C), the State may adopt and implement 
+                such a permit program by--
+                            ``(i) notifying the Administrator that the 
+                        State will adopt and implement such a permit 
+                        program;
+                            ``(ii) not later than 6 months after the 
+                        date of such notification, submitting to the 
+                        Administrator a certification under subsection 
+                        (b)(2); and
+                            ``(iii) receiving from the Administrator--
+                                    ``(I) a determination, after 
+                                providing a 30-day period for notice 
+                                and public comment, that the State coal 
+                                combustion residuals permit program 
+                                meets the specifications described in 
+                                subsection (c); and
+                                    ``(II) a timeline for transition of 
+                                control of the coal combustion 
+                                residuals permit program.
+            ``(2) Review of determination.--
+                    ``(A) Determination required.--The Administrator 
+                shall make a determination under paragraph (1) not 
+                later than 90 days after the date on which the State 
+                submits a certification under paragraph (1)(A)(ii) or 
+                (1)(C)(ii), or notifies the Administrator that the 
+                deficiencies have been remedied pursuant to paragraph 
+                (1)(B)(i), as applicable.
+                    ``(B) Review.--A State may obtain a review of a 
+                determination by the Administrator under paragraph (1) 
+                as if such determination was a final regulation for 
+                purposes of section 7006.
+            ``(3) Implementation during transition.--
+                    ``(A) Effect on actions and orders.--Actions taken 
+                or orders issued pursuant to a coal combustion 
+                residuals permit program shall remain in effect if--
+                            ``(i) a State takes control of its coal 
+                        combustion residuals permit program from the 
+                        Administrator under paragraph (1); or
+                            ``(ii) the Administrator takes control of a 
+                        coal combustion residuals permit program from a 
+                        State under subsection (e).
+                    ``(B) Change in requirements.--Subparagraph (A) 
+                shall apply to such actions and orders until such time 
+                as the Administrator or the head of the lead State 
+                agency responsible for implementing the coal combustion 
+                residuals permit program, as applicable--
+                            ``(i) implements changes to the 
+                        requirements of the coal combustion residuals 
+                        permit program with respect to the basis for 
+                        the action or order; or
+                            ``(ii) certifies the completion of a 
+                        corrective action that is the subject of the 
+                        action or order.
+            ``(4) Single permit program.--If a State adopts and 
+        implements a coal combustion residuals permit program under 
+        this subsection, the Administrator shall cease to implement the 
+        permit program implemented under subsection (e)(1) for such 
+        State.
+    ``(g) Effect on Determination Under 4005(c) or 3006.--The 
+Administrator shall not consider the implementation of a coal 
+combustion residuals permit program by the Administrator under 
+subsection (e) in making a determination of approval for a permit 
+program or other system of prior approval and conditions under section 
+4005(c) or of authorization for a program under section 3006.
+    ``(h) Closure.--
+            ``(1) In general.--If it is determined, pursuant to a coal 
+        combustion residuals permit program, that a structure should 
+        close, the time period and method for the closure of such 
+        structure shall be set forth in a closure plan that establishes 
+        a deadline for completion and that takes into account the 
+        nature and the site-specific characteristics of the structure 
+        to be closed.
+            ``(2) Surface impoundment.--In the case of a surface 
+        impoundment, the closure plan under paragraph (1) shall 
+        require, at a minimum, the removal of liquid and the 
+        stabilization of remaining waste, as necessary to support the 
+        final cover.
+    ``(i) Authority.--
+            ``(1) State authority.--Nothing in this section shall 
+        preclude or deny any right of any State to adopt or enforce any 
+        regulation or requirement respecting coal combustion residuals 
+        that is more stringent or broader in scope than a regulation or 
+        requirement under this section.
+            ``(2) Authority of the administrator.--
+                    ``(A) In general.--Except as provided in 
+                subsections (d) and (e) and section 6005, the 
+                Administrator shall, with respect to the regulation of 
+                coal combustion residuals, defer to the States pursuant 
+                to this section.
+                    ``(B) Imminent hazard.--Nothing in this section 
+                shall be construed as affecting the authority of the 
+                Administrator under section 7003 with respect to coal 
+                combustion residuals.
+                    ``(C) Enforcement assistance only upon request.--
+                Upon request from the head of a lead State agency that 
+                is implementing a coal combustion residuals permit 
+                program, the Administrator may provide to such State 
+                agency only the enforcement assistance requested.
+                    ``(D) Concurrent enforcement.--Except as provided 
+                in subparagraph (C), the Administrator shall not have 
+                concurrent enforcement authority when a State is 
+                implementing a coal combustion residuals permit 
+                program.
+                    ``(E) Other authority.--The Administrator shall not 
+                have authority to finalize the proposed rule published 
+                at pages 35128 through 35264 of volume 75 of the 
+                Federal Register (June 21, 2010).
+            ``(3) Citizen suits.--Nothing in this section shall be 
+        construed to affect the authority of a person to commence a 
+        civil action in accordance with section 7002.
+    ``(j) Mine Reclamation Activities.--A coal combustion residuals 
+permit program implemented by the Administrator under subsection (e) 
+shall not apply to the utilization, placement, and storage of coal 
+combustion residuals at surface mining and reclamation operations.
+    ``(k) Definitions.--In this section:
+            ``(1) Coal combustion residuals.--The term `coal combustion 
+        residuals' means--
+                    ``(A) the solid wastes listed in section 
+                3001(b)(3)(A)(i), including recoverable materials from 
+                such wastes;
+                    ``(B) coal combustion wastes that are co-managed 
+                with wastes produced in conjunction with the combustion 
+                of coal, provided that such wastes are not segregated 
+                and disposed of separately from the coal combustion 
+                wastes and comprise a relatively small proportion of 
+                the total wastes being disposed in the structure;
+                    ``(C) fluidized bed combustion wastes;
+                    ``(D) wastes from the co-burning of coal with non-
+                hazardous secondary materials, provided that coal makes 
+                up at least 50 percent of the total fuel burned; and
+                    ``(E) wastes from the co-burning of coal with 
+                materials described in subparagraph (A) that are 
+                recovered from monofills.
+            ``(2) Coal combustion residuals permit program.--The term 
+        `coal combustion residuals permit program' means all of the 
+        authorities, activities, and procedures that comprise the 
+        system of prior approval and conditions implemented by or for a 
+        State to regulate the management and disposal of coal 
+        combustion residuals.
+            ``(3) Code of federal regulations.--The term `Code of 
+        Federal Regulations' means the Code of Federal Regulations (as 
+        in effect on the date of enactment of this section) or any 
+        successor regulations.
+            ``(4) Permit; prior approval and conditions.--The terms 
+        `permit' and `prior approval and conditions' mean any 
+        authorization, license, or equivalent control document that 
+        incorporates the requirements and revised criteria described in 
+        paragraphs (1) and (2) of subsection (c), respectively.
+            ``(5) Revised criteria.--The term `revised criteria' means 
+        the criteria promulgated for municipal solid waste landfill 
+        units under section 4004(a) and under section 1008(a)(3), as 
+        revised under section 4010(c).
+            ``(6) Structure.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), the term `structure' means a 
+                landfill, surface impoundment, or other land-based unit 
+                which may receive coal combustion residuals.
+                    ``(B) De minimis receipt.--The term `structure' 
+                does not include any land-based unit that receives only 
+                de minimis quantities of coal combustion residuals if 
+                the presence of coal combustion residuals is incidental 
+                to the material managed in the unit.''.
+    (b) Conforming Amendment.--The table of contents contained in 
+section 1001 of the Solid Waste Disposal Act is amended by inserting 
+after the item relating to section 4010 the following:
+
+``Sec. 4011. Management and disposal of coal combustion residuals.''.
+
+SEC. 402. 2000 REGULATORY DETERMINATION.
+
+    Nothing in this title, or the amendments made by this title, shall 
+be construed to alter in any manner the Environmental Protection 
+Agency's regulatory determination entitled ``Notice of Regulatory 
+Determination on Wastes from the Combustion of Fossil Fuels'', 
+published at 65 Fed. Reg. 32214 (May 22, 2000), that the fossil fuel 
+combustion wastes addressed in that determination do not warrant 
+regulation under subtitle C of the Solid Waste Disposal Act (42 U.S.C. 
+6921 et seq.).
+
+SEC. 403. TECHNICAL ASSISTANCE.
+
+    Nothing in this title, or the amendments made by this title, shall 
+be construed to affect the authority of a State to request, or the 
+Administrator of the Environmental Protection Agency to provide, 
+technical assistance under the Solid Waste Disposal Act (42 U.S.C. 6901 
+et seq.).
+
+SEC. 404. FEDERAL POWER ACT.
+
+    Nothing in this title, or the amendments made by this title, shall 
+be construed to affect the obligations of the owner or operator of a 
+structure (as defined in section 4011 of the Solid Waste Disposal Act, 
+as added by this title) under section 215(b)(1) of the Federal Power 
+Act (16 U.S.C. 824o(b)(1)).
+
+TITLE V--PRESERVING STATE AUTHORITY TO MAKE DETERMINATIONS RELATING TO 
+                        WATER QUALITY STANDARDS
+
+SEC. 501. STATE WATER QUALITY STANDARDS.
+
+    (a) State Water Quality Standards.--Section 303(c)(4) of the 
+Federal Water Pollution Control Act (33 U.S.C. 1313(c)(4)) is amended--
+            (1) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively;
+            (2) by striking ``(4)'' and inserting ``(4)(A)'';
+            (3) by striking ``The Administrator shall promulgate'' and 
+        inserting the following:
+    ``(B) The Administrator shall promulgate''; and
+            (4) by adding at the end the following:
+    ``(C) Notwithstanding subparagraph (A)(ii), the Administrator may 
+not promulgate a revised or new standard for a pollutant in any case in 
+which the State has submitted to the Administrator and the 
+Administrator has approved a water quality standard for that pollutant, 
+unless the State concurs with the Administrator's determination that 
+the revised or new standard is necessary to meet the requirements of 
+this Act.''.
+    (b) Federal Licenses and Permits.--Section 401(a) of such Act (33 
+U.S.C. 1341(a)) is amended by adding at the end the following:
+    ``(7) With respect to any discharge, if a State or interstate 
+agency having jurisdiction over the navigable waters at the point where 
+the discharge originates or will originate determines under paragraph 
+(1) that the discharge will comply with the applicable provisions of 
+sections 301, 302, 303, 306, and 307, the Administrator may not take 
+any action to supersede the determination.''.
+    (c) State NPDES Permit Programs.--Section 402(c) of such Act (42 
+U.S.C. 1342(c)) is amended by adding at the end the following:
+            ``(5) Limitation on authority of administrator to withdraw 
+        approval of state programs.--The Administrator may not withdraw 
+        approval of a State program under paragraph (3) or (4), or 
+        limit Federal financial assistance for the State program, on 
+        the basis that the Administrator disagrees with the State 
+        regarding--
+                    ``(A) the implementation of any water quality 
+                standard that has been adopted by the State and 
+                approved by the Administrator under section 303(c); or
+                    ``(B) the implementation of any Federal guidance 
+                that directs the interpretation of the State's water 
+                quality standards.''.
+    (d) Limitation on Authority of Administrator To Object to 
+Individual Permits.--Section 402(d) of such Act (33 U.S.C. 1342(d)) is 
+amended by adding at the end the following:
+    ``(5) The Administrator may not object under paragraph (2) to the 
+issuance of a permit by a State on the basis of--
+            ``(A) the Administrator's interpretation of a water quality 
+        standard that has been adopted by the State and approved by the 
+        Administrator under section 303(c); or
+            ``(B) the implementation of any Federal guidance that 
+        directs the interpretation of the State's water quality 
+        standards.''.
+
+SEC. 502. PERMITS FOR DREDGED OR FILL MATERIAL.
+
+    (a) Authority of EPA Administrator.--Section 404(c) of the Federal 
+Water Pollution Control Act (33 U.S.C. 1344(c)) is amended--
+            (1) by striking ``(c)'' and inserting ``(c)(1)''; and
+            (2) by adding at the end the following:
+    ``(2) Paragraph (1) shall not apply to any permit if the State in 
+which the discharge originates or will originate does not concur with 
+the Administrator's determination that the discharge will result in an 
+unacceptable adverse effect as described in paragraph (1).
+    ``(3) Following the date of issuance of a permit by the Secretary 
+in accordance with this section, the Administrator may not take any 
+action under paragraph (1) to retroactively invalidate the permit.''.
+    (b) State Permit Programs.--The first sentence of section 404(g)(1) 
+of such Act (33 U.S.C. 1344(g)(1)) is amended by striking ``The 
+Governor of any State desiring to administer its own individual and 
+general permit program for the discharge'' and inserting ``The Governor 
+of any State desiring to administer its own individual and general 
+permit program for some or all of the discharges''.
+
+SEC. 503. DEADLINES FOR AGENCY COMMENTS.
+
+    Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 
+1344) is amended--
+            (1) in subsection (m) by striking ``ninetieth day'' and 
+        inserting ``30th day (or the 60th day if additional time is 
+        requested)''; and
+            (2) in subsection (q)--
+                    (A) by striking ``(q)'' and inserting ``(q)(1)''; 
+                and
+                    (B) by adding at the end the following:
+    ``(2) The Administrator and the head of a department or agency 
+referred to in paragraph (1) shall each submit any comments with 
+respect to an application for a permit under subsection (a) or (e) not 
+later than the 30th day (or the 60th day if additional time is 
+requested) after the date of receipt of an application for a permit 
+under that subsection.''.
+
+SEC. 504. APPLICABILITY OF AMENDMENTS.
+
+    The amendments made by this title shall apply to actions taken on 
+or after the date of enactment of this Act, including actions taken 
+with respect to permit applications that are pending or revised or new 
+standards that are being promulgated as of such date of enactment.
+
+SEC. 505. REPORTING ON HARMFUL POLLUTANTS.
+
+    Not later than 1 year after the date of enactment of this Act, and 
+annually thereafter, the Administrator of the Environmental Protection 
+Agency shall submit to Congress a report on any increase or reduction 
+in waterborne pathogenic microorganisms (including protozoa, viruses, 
+bacteria, and parasites), toxic chemicals, or toxic metals (such as 
+lead and mercury) in waters regulated by a State under the provisions 
+of this title, including the amendments made by this title.
+
+SEC. 506. PIPELINES CROSSING STREAMBEDS.
+
+    None of the provisions of this title, including the amendments made 
+by this title, shall be construed to limit the authority of the 
+Administrator of the Environmental Protection Agency, as in effect on 
+the day before the date of enactment of this Act, to regulate a 
+pipeline that crosses a streambed.
+
+SEC. 507. IMPACTS OF EPA REGULATORY ACTIVITY ON EMPLOYMENT AND ECONOMIC 
+              ACTIVITY.
+
+    (a) Analysis of Impacts of Actions on Employment and Economic 
+Activity.--
+            (1) Analysis.--Before taking a covered action, the 
+        Administrator shall analyze the impact, disaggregated by State, 
+        of the covered action on employment levels and economic 
+        activity, including estimated job losses and decreased economic 
+        activity.
+            (2) Economic models.--
+                    (A) In general.--In carrying out paragraph (1), the 
+                Administrator shall utilize the best available economic 
+                models.
+                    (B) Annual gao report.--Not later than December 
+                31st of each year, the Comptroller General of the 
+                United States shall submit to Congress a report on the 
+                economic models used by the Administrator to carry out 
+                this subsection.
+            (3) Availability of information.--With respect to any 
+        covered action, the Administrator shall--
+                    (A) post the analysis under paragraph (1) as a link 
+                on the main page of the public Internet Web site of the 
+                Environmental Protection Agency; and
+                    (B) request that the Governor of any State 
+                experiencing more than a de minimis negative impact 
+                post such analysis in the Capitol of such State.
+    (b) Public Hearings.--
+            (1) In general.--If the Administrator concludes under 
+        subsection (a)(1) that a covered action will have more than a 
+        de minimis negative impact on employment levels or economic 
+        activity in a State, the Administrator shall hold a public 
+        hearing in each such State at least 30 days prior to the 
+        effective date of the covered action.
+            (2) Time, location, and selection.--A public hearing 
+        required under paragraph (1) shall be held at a convenient time 
+        and location for impacted residents. In selecting a location 
+        for such a public hearing, the Administrator shall give 
+        priority to locations in the State that will experience the 
+        greatest number of job losses.
+    (c) Notification.--If the Administrator concludes under subsection 
+(a)(1) that a covered action will have more than a de minimis negative 
+impact on employment levels or economic activity in any State, the 
+Administrator shall give notice of such impact to the State's 
+Congressional delegation, Governor, and Legislature at least 45 days 
+before the effective date of the covered action.
+    (d) Definitions.--In this section, the following definitions apply:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Environmental Protection Agency.
+            (2) Covered action.--The term ``covered action'' means any 
+        of the following actions taken by the Administrator under the 
+        Federal Water Pollution Control Act (33 U.S.C. 1201 et seq.):
+                    (A) Issuing a regulation, policy statement, 
+                guidance, response to a petition, or other requirement.
+                    (B) Implementing a new or substantially altered 
+                program.
+            (3) More than a de minimis negative impact.--The term 
+        ``more than a de minimis negative impact'' means the following:
+                    (A) With respect to employment levels, a loss of 
+                more than 100 jobs. Any offsetting job gains that 
+                result from the hypothetical creation of new jobs 
+                through new technologies or government employment may 
+                not be used in the job loss calculation.
+                    (B) With respect to economic activity, a decrease 
+                in economic activity of more than $1,000,000 over any 
+                calendar year. Any offsetting economic activity that 
+                results from the hypothetical creation of new economic 
+                activity through new technologies or government 
+                employment may not be used in the economic activity 
+                calculation.
+
+               TITLE VI--REGIONAL HAZE REGULATORY RELIEF
+
+SEC. 601. IMPLEMENTATION PLANS.
+
+    Section 110 of the Clean Air Act (42 U.S.C. 7410) is amended--
+            (1) in subsection (c), by striking ``(c)(1) The 
+        Administrator'' and all that follows through the end of 
+        paragraph (1) and inserting the following:
+    ``(c) Federal Plans.--
+            ``(1) Plans.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (C), unless the conditions described in 
+                subparagraph (B) are met, the Administrator shall 
+                promulgate a Federal implementation plan at any time 
+                after the date that is 2 years after the date on which 
+                the Administrator--
+                            ``(i) finds that a State has failed to make 
+                        a required submission or finds that the plan or 
+                        plan revision submitted by the State does not 
+                        satisfy the minimum criteria established under 
+                        subsection (k)(1)(A); or
+                            ``(ii) disapproves a State implementation 
+                        plan submission.
+                    ``(B) Conditions.--The conditions described in this 
+                subparagraph are that, before the date on which the 
+                Administrator promulgates a Federal implementation 
+                plan--
+                            ``(i) a State corrects a deficiency in a 
+                        State implementation plan or plan revision 
+                        submitted by the State; and
+                            ``(ii) the Administrator approves the plan 
+                        or plan revision.
+                    ``(C) Visibility protection plans.--In the case of 
+                a Federal implementation plan promulgated after the 
+                date of enactment of this subparagraph in place of a 
+                State implementation plan under section 169A--
+                            ``(i) the Administrator shall promulgate 
+                        such Federal implementation plan only if the 
+                        Administrator makes a finding that the State 
+                        submitting the State implementation plan failed 
+                        to consider the factors described in paragraphs 
+                        (1) and (2) of section 169A(g) in preparing and 
+                        submitting the plan; and
+                            ``(ii) compliance with the requirements of 
+                        such Federal implementation plan shall not be 
+                        required earlier than 5 years after the date of 
+                        promulgation.''; and
+            (2) in subsection (k)--
+                    (A) by striking paragraph (3) and inserting the 
+                following:
+            ``(3) Full approval and disapproval.--
+                    ``(A) In general.--Except as provided in 
+                subparagraphs (B) and (C), in the case of any 
+                submission for which the Administrator is required to 
+                act under paragraph (2), the Administrator shall 
+                approve the submission as a whole if the submission 
+                meets all of the applicable requirements of this Act.
+                    ``(B) Review.--In reviewing any State 
+                implementation plan submitted pursuant to section 169A, 
+                the Administrator shall limit the review only to a 
+                determination of whether the State submitting the State 
+                implementation plan considered the factors described in 
+                paragraphs (1) and (2) of section 169A(g) in preparing 
+                and submitting the plan.
+                    ``(C) Visibility plans.--The Administrator shall 
+                approve as a whole any implementation plan submitted 
+                pursuant to section 169A that was prepared and 
+                submitted after consideration of the factors described 
+                in paragraphs (1) and (2) of section 169A(g).''; and
+                    (B) in paragraph (5)--
+                            (i) in the first sentence, by striking 
+                        ``Whenever'' and inserting the following:
+                    ``(A) In general.--Whenever''; and
+                            (ii) by adding at the end the following:
+                    ``(B) Visibility plans.--Notwithstanding 
+                subparagraph (A), with respect to an implementation 
+                plan approved pursuant to section 169A, the 
+                Administrator shall only find that such a plan is 
+                substantially inadequate to meet standards for air 
+                pollutants that cause or contribute to the impairment 
+                of visibility, or any other applicable standard or 
+                requirement, under that section if the Administrator 
+                makes a finding that, in preparing the plan, the 
+                submitting State failed to consider the factors 
+                described in paragraphs (1) and (2) of section 169A(g).
+                    ``(C) Existing visibility plans.--
+                            ``(i) Request for revocation.--At any time 
+                        after the date of enactment of this 
+                        subparagraph--
+                                    ``(I) a State may request that the 
+                                existing Federal or State 
+                                implementation plan for the State 
+                                regarding visibility, or any 
+                                determination made in calendar year 
+                                2012 or 2013 of best available retrofit 
+                                technology pursuant to section 169A, be 
+                                revoked; and
+                                    ``(II) upon receipt of such a 
+                                request, the Administrator shall revoke 
+                                the implementation plan.
+                            ``(ii) Submission of new or revised plan.--
+                        Upon a revocation under clause (i)(II), the 
+                        State that requested the revocation shall, not 
+                        later than 2 years after such revocation, 
+                        submit to the Administrator a new or revised 
+                        visibility plan in accordance with this Act.''.
+
+SEC. 602. VISIBILITY PROTECTION FOR FEDERAL CLASS I AREAS.
+
+    Section 169A of the Clean Air Act (42 U.S.C. 7491) is amended--
+            (1) in subsection (b)(2), in the matter preceding 
+        subparagraph (A), by striking ``as may be necessary'' and 
+        inserting ``as the State determines, at the sole discretion of 
+        the State after considering factors described in this section 
+        and providing adequate opportunity for public comment, may be 
+        necessary''; and
+            (2) in subsection (g)--
+                    (A) by striking paragraph (1) and inserting the 
+                following:
+            ``(1)(A) in determining reasonable progress, there shall be 
+        taken into consideration--
+                            ``(i) the costs of compliance;
+                            ``(ii) the time necessary for compliance;
+                            ``(iii) the energy and nonair quality 
+                        environmental impacts of compliance;
+                            ``(iv) the remaining useful life of any 
+                        existing source subject to requirements under 
+                        this section;
+                            ``(v) the degree of improvement in 
+                        visibility that may reasonably be anticipated 
+                        to result from measures described in the 
+                        applicable implementation plan; and
+                            ``(vi) the economic impacts to the State 
+                        (including people of the State);
+                    ``(B) in consideration of costs of compliance 
+                pursuant to subparagraph (A)(i), the State may use 
+                source-specific cost estimations developed by a 
+                licensed professional engineer as an alternate to other 
+                methods of estimation approved by the Administrator; 
+                and
+                    ``(C) in consideration of the degree of improvement 
+                in visibility pursuant to subparagraph (A)(v), the 
+                State may use alternate modeling techniques or methods 
+                than those prescribed by the Administrator in the 
+                Agency's `Guideline on Air Quality Models' under 
+                appendix W to part 51 of title 40, Code of Federal 
+                Regulations, and, where available, measured emissions 
+                and monitoring data shall be used;'';
+                    (B) in paragraph (2)--
+                            (i) by striking ``(2) in determining best 
+                        available retrofit technology the State'' and 
+                        inserting the following:
+            ``(2) in determining the best available retrofit 
+        technology--
+                    ``(A) the State'';
+                            (ii) in subparagraph (A) (as designated by 
+                        clause (i)), by inserting ``the economic 
+                        impacts to the State (including people of the 
+                        State),'' after ``life of the source,'';
+                            (iii) by striking ``technology;'' and 
+                        inserting ``technology; and''; and
+                            (iv) by adding at the end the following:
+                    ``(B) in consideration of the costs of compliance 
+                pursuant to subparagraph (A), the State may use source-
+                specific cost estimations developed by a licensed 
+                professional engineer as an alternate to other methods 
+                of estimation approved by the Administrator;
+                    ``(C) with respect to consideration of the degree 
+                of improvement in visibility pursuant to subparagraph 
+                (A)--
+                            ``(i) the State may use alternate modeling 
+                        techniques or methods than those prescribed by 
+                        the Administrator in the Agency's `Guideline on 
+                        Air Quality Models' under appendix W to part 51 
+                        of title 40, Code of Federal Regulations;
+                            ``(ii) the State may consider the degree of 
+                        improvement in visibility in the mandatory 
+                        class I Federal area that is most affected by 
+                        emissions from the source without considering 
+                        the degree of improvement in visibility in any 
+                        other such area; and
+                            ``(iii) the Administrator (in any case in 
+                        which the Administrator has authority to 
+                        determine emission limitations which reflect 
+                        such technology) may not consider the degree of 
+                        improvement in visibility in any area other 
+                        than the mandatory class I Federal area that is 
+                        most affected by emissions from the source; and
+                    ``(D) the determination of best available retrofit 
+                technology by the State for any source shall be subject 
+                to review by the Administrator, an administrative 
+                entity, or a Federal or State court only pursuant to a 
+                clearly erroneous standard of review;''; and
+                    (C) in paragraph (4), by striking ``(or the date of 
+                promulgation of such a plan revision in the case of 
+                action by the Administrator under section 110(c) for 
+                purposes of this section)''.
+
+   TITLE VII--NO REGIONAL HAZE REGULATION ON THE COAL-POWERED NAVAJO 
+                           GENERATING STATION
+
+SEC. 701. LIMITATION ON AUTHORITY TO ISSUE REGULATIONS.
+
+    The Administrator of the Environmental Protection Agency shall not 
+promulgate any Federal implementation plan pursuant to section 169A or 
+169B of the Clean Air Act (42 U.S.C. 7491, 7492; relating to visibility 
+protection) that would--
+            (1) adversely impact employment at the coal-powered Navajo 
+        Generating Station or other coal-fired power plants and coal 
+        mines on tribal lands in northern Arizona;
+            (2) directly or indirectly diminish the revenue received by 
+        the Federal Government or any State, tribal or local government 
+        by reducing through regulation the amount of coal that is 
+        available for mining on Navajo and Hopi Reservation lands;
+            (3) cause a reduction in coal-based revenue to meet 
+        financial obligations required by federally authorized Indian 
+        water rights settlements, pursuant to section 403(f) of the 
+        Colorado River Basin Project Act (43 U.S.C. 1543(f)):
+            (4) reduce the amount of coal, or increase the cost of 
+        coal, available for the Navajo Generating Station's Federal 
+        responsibility to deliver water and power, as authorized by the 
+        Colorado River Basin Project Act (43 U.S.C. 1501 et seq.); or
+            (5) expose the United States to liability for taking the 
+        value of tribally-owned coal in northern Arizona through 
+        regulation.
+
+            Passed the House of Representatives September 21, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

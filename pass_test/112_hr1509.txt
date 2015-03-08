@@ -1,0 +1,185 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1509 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 1509
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           December 21, 2012
+
+     Received; read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To amend title II of the Social Security Act to prohibit the inclusion 
+         of Social Security account numbers on Medicare cards.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Medicare Identity Theft Prevention 
+Act of 2012''.
+
+SEC. 2. PROHIBITION OF INCLUSION OF SOCIAL SECURITY ACCOUNT NUMBERS ON 
+              MEDICARE CARDS.
+
+    (a) In General.--Section 205(c)(2)(C) of the Social Security Act 
+(42 U.S.C. 405(c)(2)(C)) is amended--
+            (1) by moving clause (x), as added by section 1414(a)(2) of 
+        the Patient Protection and Affordable Care Act, 2 ems to the 
+        left;
+            (2) by redesignating clause (x), as added by section 
+        2(a)(1) of the Social Security Number Protection Act of 2010, 
+        and clause (xi) as clauses (xi) and (xii), respectively; and
+            (3) by adding at the end the following new clause:
+    ``(xiii) The Secretary of Health and Human Services, in 
+consultation with the Commissioner of Social Security, shall establish 
+cost-effective procedures to ensure that a Social Security account 
+number (or derivative thereof) is not displayed, coded, or embedded on 
+the Medicare card issued to an individual who is entitled to benefits 
+under part A of title XVIII or enrolled under part B of title XVIII and 
+that any other identifier displayed on such card is not identifiable as 
+a Social Security account number (or derivative thereof).''.
+    (b) Implementation.--In implementing clause (xiii) of section 
+205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)), as 
+added by subsection (a)(3), the Secretary of Health and Human Services 
+shall establish a cost-effective process that involves the least amount 
+of disruption to Medicare beneficiaries and health care providers. The 
+Secretary shall consider implementing a process, similar to the process 
+involving Railroad Retirement Board beneficiaries, under which a 
+Medicare beneficiary identifier which is not a Social Security account 
+number (or derivative thereof) is used external to the Department of 
+Health and Human Services and is convertible over to a Social Security 
+account number (or derivative thereof) for use internal to such 
+Department and the Social Security Administration.
+    (c) Effective Date.--
+            (1) In general.--Clause (xiii) of section 205(c)(2)(C) of 
+        the Social Security Act (42 U.S.C. 405(c)(2)(C)), as added by 
+        subsection (a)(3), shall apply with respect to Medicare cards 
+        issued on and after an effective date specified by the 
+        Secretary of Health and Human Services, but in no case shall 
+        such effective date be later than the date that is 3 years 
+        after the date of the enactment of this Act.
+            (2) Reissuance.--The Secretary--
+                    (A) shall provide for the reissuance of Medicare 
+                cards that comply with the requirements of such clause 
+                not later than 3 years after the effective date 
+                specified by the Secretary under paragraph (1); and
+                    (B) may permit an individual to apply for the 
+                reissuance of a Medicare card that complies with such 
+                requirements before the date of reissuance otherwise 
+                provided under subparagraph (A) in such exceptional 
+                circumstances as the Secretary may specify.
+    (d) Funding.--
+            (1) Offset from mif.--Amounts in the Medicare Improvement 
+        Fund under section 1898 of the Social Security Act (42 U.S.C. 
+        1395iii) that are available for expenditures from the Fund for 
+        services furnished in a fiscal year (through fiscal year 2020) 
+        shall be available for transfer to the Centers for Medicare & 
+        Medicaid Services Program Management Account as the Secretary 
+        of Health and Human Services determines necessary to offset the 
+        costs incurred by the Secretary (including costs under the 
+        agreement described in paragraph (2)(A)) in such fiscal year 
+        (or a previous fiscal year) in implementing clause (xiii) of 
+        section 205(c)(2)(C) of such Act (42 U.S.C. 405(c)(2)(C)), as 
+        added by subsection (a)(3), and this section.
+            (2) Availability of funding for the social security 
+        administration.--
+                    (A) Funding under agreement.--The Commissioner of 
+                Social Security and the Secretary of Health and Human 
+                Services shall enter into and maintain an agreement 
+                which shall--
+                            (i) provide funds to the Commissioner, at 
+                        scheduled intervals as specified in the 
+                        agreement, for the full costs of the 
+                        responsibilities of the Commissioner under this 
+                        section; and
+                            (ii) require an annual accounting and 
+                        reconciliation of the actual costs incurred and 
+                        the funds provided under the agreement.
+                    (B) Availability of funds.--Amounts transferred to 
+                the Centers for Medicare & Medicaid Services Program 
+                Management Account under paragraph (1) shall be 
+                available to the Secretary of Health and Human Services 
+                to carry out the agreement under subparagraph (A) and 
+                the Secretary shall provide funds to the Commissioner 
+                as required under such agreement.
+    (e) Accountability.--
+            (1) Accounting of expenditures.--The Secretary of Health 
+        and Human Services and the Commissioner of Social Security 
+        shall--
+                    (A) keep a detailed accounting of expenditures 
+                associated with the implementation of such clause and 
+                this section; and
+                    (B) submit a report on such expenditures to the 
+                Committee on Ways and Means of the House of 
+                Representatives, the Committee on Finance of the 
+                Senate, and the Comptroller General of the United 
+                States, on a semi-annual basis, in each of fiscal years 
+                2013 through 2021.
+            (2) Audit.--The Comptroller General shall conduct a semi-
+        annual financial audit of the expenditures of the Department of 
+        Health and Human Services and of the Social Security 
+        Administration during such fiscal years in implementing such 
+        clause and this section. Each such audit shall include an 
+        examination of whether funds made available under subsection 
+        (d) are used solely for the purpose described in such 
+        subsection.
+
+SEC. 3. MEDICARE SMART CARD TECHNOLOGY STUDY AND REPORT.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study that examines whether the Medicare program should use 
+smart card technology for Medicare beneficiary cards and for provider 
+membership cards.
+    (b) Details of Study.--Such study shall include an examination of 
+the following:
+            (1) Potential levels of provider investment required to use 
+        cards with such technology in various care settings.
+            (2) Systems-related and implementation-related costs to the 
+        Medicare program to use such technology.
+            (3) The extent to which private insurance companies have 
+        adopted or considered such technology and their reasons for 
+        adoption or non-adoption of such technology.
+            (4) The extent to which use of cards with such technology 
+        would--
+                    (A) reduce the potential for identity theft and 
+                other unlawful use of Medicare beneficiary and provider 
+                identifying information;
+                    (B) increase the quality of care furnished to 
+                Medicare beneficiaries;
+                    (C) improve the accuracy and efficiency in the 
+                billing for Medicare items and services furnished by 
+                Medicare providers;
+                    (D) reduce waste, fraud, and abuse in the Medicare 
+                program; and
+                    (E) impact the ability of Medicare beneficiaries to 
+                access services.
+    (c) Report.--Not later than 2 years after the date of the enactment 
+of this Act, the Comptroller General shall submit to the Committees on 
+Ways and Means and Energy and Commerce of the House of Representatives 
+and the Committee on Finance of the Senate a report on the study 
+conducted under this section. Such report may include recommendations 
+regarding the use of smart card technology under the Medicare program.
+
+            Passed the House of Representatives December 20, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

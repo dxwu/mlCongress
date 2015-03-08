@@ -1,0 +1,925 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4251 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 4251
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 29, 2012
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To authorize, enhance, and reform certain port security programs 
+  through increased efficiency and risk-based coordination within the 
+        Department of Homeland Security, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securing Maritime Activities through 
+Risk-based Targeting for Port Security Act'' or the ``SMART Port 
+Security Act''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is the following:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Definitions.
+    TITLE I--DEPARTMENT OF HOMELAND SECURITY PORT SECURITY PROGRAMS
+
+Sec. 101. Updates of maritime operations coordination plan.
+Sec. 102. U.S. Customs and Border Protection Office of Air and Marine 
+                            Asset Deployment.
+Sec. 103. Cost-benefit analysis of co-locating operational entities.
+Sec. 104. Study of maritime security redundancies.
+Sec. 105. Acquisition and strategic sourcing of marine and aviation 
+                            assets.
+Sec. 106. Port security grant program management.
+Sec. 107. Port security grant funding for mandated security personnel.
+Sec. 108. Interagency operational centers for port security.
+Sec. 109. Report on DHS aviation assets.
+Sec. 110. Small vessel threat analysis.
+Sec. 111. U.S. Customs and Border Protection workforce plan.
+Sec. 112. Integrated cross-border maritime operations between the 
+                            United States and Canada.
+Sec. 113. Training and certification of training for port security.
+Sec. 114. Northern border unmanned aerial vehicle pilot project.
+Sec. 115. Recognition of port security assessments conducted by other 
+                            entities.
+Sec. 116. Use of port security grant funds for replacement of security 
+                            equipment or facilities.
+                TITLE II--MARITIME SUPPLY CHAIN SECURITY
+
+Sec. 201. Strategic plan to enhance the security of the international 
+                            supply chain.
+Sec. 202. Customs-Trade Partnership Against Terrorism.
+Sec. 203. Recognition of other countries' trusted shipper programs.
+Sec. 204. Pilot program for inclusion of non-asset based third party 
+                            logistics providers in the Customs-Trade 
+                            Partnership Against Terrorism.
+Sec. 205. Transportation Worker Identification Credential process 
+                            reform.
+Sec. 206. Expiration of certain transportation worker identification 
+                            credentials.
+Sec. 207. Securing the Transportation Worker Identification Credential 
+                            against use by unauthorized aliens.
+Sec. 208. Report on Federal transportation security credentialing 
+                            programs.
+
+SEC. 3. DEFINITIONS.
+
+    In this Act:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' has the meaning given 
+        such term in section 2 of the Homeland Security Act of 2002 (6 
+        U.S.C. 101).
+            (2) Department.--The term ``Department'' means the 
+        Department of Homeland Security.
+            (3) Function.--The term ``function'' includes authorities, 
+        powers, rights, privileges, immunities, programs, projects, 
+        activities, duties, and responsibilities.
+            (4) Local government.--The term ``local government'' 
+        means--
+                    (A) a county, municipality, city, town, township, 
+                local public authority, school district, special 
+                district, intrastate district, council of governments 
+                (regardless of whether the council of governments is 
+                incorporated as a nonprofit corporation under State 
+                law), regional or interstate government entity, or 
+                agency or instrumentality of a local government;
+                    (B) an Indian tribe or authorized tribal 
+                organization, or in Alaska a Native village or Alaska 
+                Regional Native Corporation; and
+                    (C) a rural community, unincorporated town or 
+                village, or other public entity.
+            (5) Personnel.--The term ``personnel'' means officers and 
+        employees.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of Homeland Security.
+            (7) State.--The term ``State'' means any State of the 
+        United States, the District of Columbia, the Commonwealth of 
+        Puerto Rico, the United States Virgin Islands, Guam, American 
+        Samoa, the Commonwealth of the Northern Mariana Islands, and 
+        any possession of the United States.
+            (8) Terrorism.--The term ``terrorism'' has the meaning 
+        given such term in section 2 of the Homeland Security Act of 
+        2002 (6 U.S.C. 101).
+            (9) United states.--The term ``United States'', when used 
+        in a geographic sense, means any State of the United States, 
+        the District of Columbia, the Commonwealth of Puerto Rico, the 
+        Virgin Islands, Guam, American Samoa, the Commonwealth of the 
+        Northern Mariana Islands, any possession of the United States, 
+        and any waters within the jurisdiction of the United States.
+
+    TITLE I--DEPARTMENT OF HOMELAND SECURITY PORT SECURITY PROGRAMS
+
+SEC. 101. UPDATES OF MARITIME OPERATIONS COORDINATION PLAN.
+
+    (a) In General.--Not later than July 1, 2014, the Secretary shall 
+submit to the appropriate congressional committees a maritime 
+operations coordination plan for the coordination and cooperation of 
+maritime operations undertaken by the agencies within the Department. 
+Such plan shall update the maritime operations coordination plan 
+released by the Department in July 2011, and shall address the 
+following:
+            (1) Coordination of planning, integration of maritime 
+        operations, and development of joint situational awareness of 
+        any office or agency of the Department with responsibility for 
+        maritime homeland security missions.
+            (2) Maintaining effective information sharing and, as 
+        appropriate, intelligence integration, with Federal, State, and 
+        local officials and the private sector, regarding threats to 
+        maritime security.
+            (3) Leveraging existing departmental coordination 
+        mechanisms, including the Interagency Operational Centers, as 
+        authorized under section 70107A of title 46, United States 
+        Code, the U.S. Customs and Border Protection Air and Marine 
+        Operations Center, the U.S. Customs and Border Protection 
+        Operational Integration Center, and other regional maritime 
+        operational command centers.
+            (4) Cooperation and coordination with other agencies of the 
+        Federal Government, and State and local agencies, in the 
+        maritime environment, in support of maritime homeland security 
+        missions.
+            (5) Work conducted within the context of other national and 
+        Department maritime security strategic guidance.
+    (b) Additional Updates.--Not later than July 1, 2019, the 
+Secretary, acting through the Department's Office of Operations 
+Coordination and Planning, shall submit to the appropriate 
+congressional committees an additional update to the maritime 
+operations coordination plan.
+
+SEC. 102. U.S. CUSTOMS AND BORDER PROTECTION OFFICE OF AIR AND MARINE 
+              ASSET DEPLOYMENT.
+
+    (a) In General.--Any new asset deployment by the U.S. Customs and 
+Border Protection's Office of Air and Marine, following the date of the 
+enactment of this Act, shall, to the greatest extent practicable, occur 
+in accordance with a risk-based assessment that considers mission 
+needs, performance results, threats, costs, and any other relevant 
+factors identified by the Secretary. Specific factors to be included in 
+such assessment shall include, at a minimum, the following:
+            (1) Mission requirements that prioritize the operational 
+        needs of field commanders to secure the United States border 
+        and ports.
+            (2) Other Department assets available to help address any 
+        unmet border and port security mission needs.
+            (3) Risk analysis showing positioning of the asset at issue 
+        to respond to intelligence on emerging terrorist and other 
+        threats.
+            (4) Cost-benefit analysis showing the relative ability to 
+        use the asset at issue in the most cost-effective way to reduce 
+        risk and achieve mission success.
+    (b) Considerations.--An assessment required under subsection (a) 
+shall consider applicable Federal guidance, standards, and agency 
+strategic and performance plans, including the following:
+            (1) The most recent Departmental Quadrennial Homeland 
+        Security Review, and any follow-up guidance related to such 
+        Review.
+            (2) The Department's Annual Performance Plans.
+            (3) Department policy guiding use of integrated risk 
+        management in resource allocation decisions.
+            (4) Department and U.S. Customs and Border Protection 
+        Strategic Plans and Resource Deployment Plans.
+            (5) Applicable aviation guidance from the Department, 
+        including the DHS Aviation Concept of Operations.
+            (6) Other strategic and acquisition guidance promulgated by 
+        the Federal Government as the Secretary determines appropriate.
+    (c) Audit and Report.--The Inspector General of the Department 
+shall biennially audit the deployment of new assets within U.S. Customs 
+and Border Protection's Office of Air and Marine and submit to the 
+appropriate congressional committees a report on the compliance of the 
+Department with the requirements of this section.
+
+SEC. 103. COST-BENEFIT ANALYSIS OF CO-LOCATING OPERATIONAL ENTITIES.
+
+    (a) In General.--For all locations in which U.S. Customs and Border 
+Protection's Office of Air and Marine operates that are within 25 miles 
+of locations where any other Department agency also operates air and 
+marine assets, the Secretary shall conduct a cost-benefit analysis to 
+consider the potential cost of and savings derived from co-locating 
+aviation and maritime operational assets of the different agencies of 
+the Department. In analyzing the potential cost savings achieved by 
+sharing aviation and maritime facilities, the study shall consider at a 
+minimum the following factors:
+            (1) Potential enhanced cooperation derived from Department 
+        personnel being co-located.
+            (2) Potential cost of, and savings derived through, shared 
+        maintenance and logistics facilities and activities.
+            (3) Joint use of base and facility infrastructure, such as 
+        runways, hangars, control towers, operations centers, piers and 
+        docks, boathouses, and fuel depots.
+            (4) Short term moving costs required in order to co-locate 
+        facilities.
+            (5) Acquisition and infrastructure costs for enlarging 
+        current facilities as needed.
+    (b) Report.--Not later than one year after the date of the 
+enactment of this Act, the Secretary shall submit to the appropriate 
+congressional committees a report summarizing the results of the cost-
+benefit analysis required under subsection (a) and any planned actions 
+based upon such results.
+
+SEC. 104. STUDY OF MARITIME SECURITY REDUNDANCIES.
+
+    The Comptroller General of the United States shall by not later 
+than 1 year after the date of enactment of this Act--
+            (1) conduct a review of port security and maritime law 
+        enforcement operations within the Department to identify 
+        initiatives and programs with duplicative, overlapping, or 
+        redundant goals and activities, including the cost of such 
+        duplication; and
+            (2) submit to the appropriate congressional committees a 
+        report on the findings of the study, including--
+                    (A) recommendations for consolidation, elimination, 
+                or increased cooperation to reduce unnecessary 
+                duplication found in the study; and
+                    (B) an analysis of personnel, maintenance, and 
+                operational costs related to unnecessarily duplicative, 
+                overlapping, or redundant goals and activities found in 
+                the study.
+
+SEC. 105. ACQUISITION AND STRATEGIC SOURCING OF MARINE AND AVIATION 
+              ASSETS.
+
+    (a) In General.--Before initiating the acquisition of any new boat 
+or aviation asset, the Secretary shall coordinate across the agencies 
+of the Department, as appropriate, to--
+            (1) identify common mission requirements before initiating 
+        a new acquisition program; and
+            (2) standardize, to the extent practicable, equipment 
+        purchases, streamline the acquisition process, and conduct best 
+        practices for strategic sourcing to improve control, reduce 
+        cost, and facilitate oversight of asset purchases prior to 
+        issuing a Request for Proposal.
+    (b) Establishment of Aviation and Maritime Coordination 
+Mechanism.--Not later than 180 days after the date of the enactment of 
+this Act, the Secretary shall establish a coordinating mechanism for 
+aviation and maritime issues, including issues related to the 
+acquisition, administration, operations, maintenance, and joint 
+management across the Department, in order to decrease procurement and 
+operational costs and increase efficiencies.
+    (c) Special Rule.--For the purposes of this section, a boat shall 
+be considered any vessel less than 65 feet in length.
+
+SEC. 106. PORT SECURITY GRANT PROGRAM MANAGEMENT.
+
+    (a) Determination of Applications.--Section 70107(g) of title 46, 
+United States Code, is amended--
+            (1) by striking ``Any entity'' and inserting the following:
+            ``(1) In general.--Any entity''; and
+            (2) by adding at the end the following:
+            ``(2) Determination.--Notwithstanding any other provision 
+        of law, the Secretary shall, not later than 60 days after the 
+        date on which an applicant submits a complete application for a 
+        grant under this section, either approve or disapprove the 
+        application.''.
+    (b) Administration of Cost Share Determinations.--Section 
+70107(c)(2) of title 46, United States Code, is amended--
+            (1) by striking subparagraph (B) and inserting the 
+        following:
+                    ``(B) Higher level of support required.--If the 
+                Secretary or the Secretary's designee determines that a 
+                proposed project merits support and cannot be 
+                undertaken without a higher rate of Federal support, 
+                then the Secretary or the Secretary's designee may 
+                approve grants under this section for that project with 
+                a matching requirement other than that specified in 
+                paragraph (1).''; and
+            (2) by inserting after subparagraph (C) the following:
+                    ``(D) Cost share determinations.--Notwithstanding 
+                any other provision of law, not later than 60 days 
+                after the date on which an applicant submits a complete 
+                application for a matching requirement waiver under 
+                this paragraph the Secretary shall either approve or 
+                disapprove the application.''.
+    (c) Administration.--Section 70107(i) of title 46, United States 
+Code, is amended by adding after paragraph (4) the following:
+            ``(5) Release of funds.--To the maximum extent practicable, 
+        the Secretary shall complete all necessary programmatic reviews 
+        and release grant funds awarded under this section to the 
+        appropriate entity not later than 180 days after the date on 
+        which an applicant submits a complete application.
+            ``(6) Performance period.--The Secretary shall utilize a 
+        period of performance of not less than 3 years for expenditure 
+        of grant funds awarded under this section.
+            ``(7) Extension determinations.--Notwithstanding any other 
+        provision of law, not later than 60 days after the date on 
+        which an applicant submits a complete application for an 
+        extension of the period of performance for a grant, the 
+        Secretary shall either approve or disapprove the 
+        application.''.
+
+SEC. 107. PORT SECURITY GRANT FUNDING FOR MANDATED SECURITY PERSONNEL.
+
+    Section 70107(b)(1) of title 46, United States Code, is amended by 
+striking the period and inserting the following: ``, including overtime 
+and backfill costs incurred in support of other expenditures authorized 
+under this subsection, except that not more than 50 percent of amounts 
+received by a grantee under this section for a fiscal year may be used 
+under this paragraph.''.
+
+SEC. 108. INTERAGENCY OPERATIONAL CENTERS FOR PORT SECURITY.
+
+    (a) Participating Personnel.--Section 70107A(b)(1)(B) of title 46, 
+United States Code, is amended--
+            (1) by inserting ``, not less than part-time representation 
+        from U. S. Customs and Border Protection and U.S. Immigration 
+        and Customs Enforcement,''after ``the Coast Guard''; and
+            (2) by striking ``the United States Customs and Border 
+        Protection, the United States Immigration and Customs 
+        Enforcement,''.
+    (b) Assessment.--Not later than one year after the date of 
+enactment of this Act the Secretary (as that term is used in that 
+section) shall transmit to the appropriate congressional committees an 
+assessment of--
+            (1) interagency operational centers under such section and 
+        the implementation of the amendments made by this section;
+            (2) participation in such centers and by Federal agencies, 
+        State and local law enforcement agencies, port security 
+        agencies, and other public and private sector entities, 
+        including joint daily operational coordination, training and 
+        certifying of non-Federal law enforcement personnel, and joint 
+        training exercises;
+            (3) deployment of interoperable communications equipment 
+        under subsection (e) of such section, including--
+                    (A) an assessment of the cost-effectiveness and 
+                utility of such equipment for Federal agencies, State 
+                and local law enforcement agencies, port security 
+                agencies, and other public and private sector entities;
+                    (B) data showing which Federal agencies, State and 
+                local law enforcement agencies, port security agencies, 
+                and other public and private sector entities are 
+                utilizing such equipment;
+                    (C) an explanation of the process in place to 
+                obtain and incorporate feedback from Federal agencies, 
+                State and local law enforcement agencies, port security 
+                agencies, and other public and private sector entities 
+                that are utilizing such equipment in order to better 
+                meet their needs; and
+                    (D) an updated deployment schedule and life cycle 
+                cost estimate for the deployment of such equipment; and
+            (4) mission execution and mission support activities of 
+        such centers, including daily coordination activities, 
+        information sharing, intelligence integration, and operational 
+        planning.
+
+SEC. 109. REPORT ON DHS AVIATION ASSETS.
+
+    (a) In General.--Not later than one year after the date of the 
+enactment of this Act, the Comptroller General of the United States 
+shall submit to the appropriate congressional committees a report that 
+analyzes and compares the costs, capabilities, and missions of 
+different aviation assets, including unmanned aerial vehicles, utilized 
+by the Department to assess the relative costs of unmanned aerial 
+vehicles as compared to manned aerial vehicles, and any increased 
+operational benefits offered by unmanned aerial vehicles as compared to 
+manned aviation assets.
+    (b) Required Data.--The report required under subsection (a) shall 
+include a detailed assessment of costs for operating each type of asset 
+described in such report, including--
+            (1) fuel costs;
+            (2) crew and staffing costs;
+            (3) maintenance costs;
+            (4) communication and satellite bandwidth costs;
+            (5) costs associated with the acquisition of each type of 
+        such asset; and
+            (6) any other relevant costs necessary to provide a 
+        holistic analysis and to identify potential cost savings.
+
+SEC. 110. SMALL VESSEL THREAT ANALYSIS.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Secretary shall submit to the appropriate congressional committees a 
+report analyzing the threat of, vulnerability to, and consequence of an 
+act of terrorism using a small vessel to attack United States vessels, 
+ports, or maritime interests.
+
+SEC. 111. U.S. CUSTOMS AND BORDER PROTECTION WORKFORCE PLAN.
+
+    (a) In General.--Not later than one year after the date of the 
+enactment of this Act, the Secretary shall submit to the appropriate 
+congressional committees a plan for optimizing staffing levels for U.S. 
+Customs and Border Protection personnel to carry out the mission of the 
+Department, including optimal levels of U.S. Customs and Border 
+Protection staffing required to conduct all border security functions.
+    (b) Consideration of Prior Staffing Resources.--The staffing plan 
+required under subsection (a) shall consider previous staffing models 
+prepared by the Department and assessments of threat and 
+vulnerabilities.
+
+SEC. 112. INTEGRATED CROSS-BORDER MARITIME OPERATIONS BETWEEN THE 
+              UNITED STATES AND CANADA.
+
+    (a) In General.--Subtitle C of title IV of the Homeland Security 
+Act of 2002 (6 U.S.C. 201 et seq.) is amended by adding at the end the 
+following:
+
+``SEC. 432. INTEGRATED CROSS-BORDER MARITIME OPERATIONS BETWEEN THE 
+              UNITED STATES AND CANADA.
+
+    ``(a) Authorization.--The Secretary is authorized to establish an 
+Integrated Cross-Border Maritime Operations Program to coordinate 
+maritime security operations between the United States and Canada (in 
+this section referred to as the `Program').
+    ``(b) Purpose.--The Secretary, acting through the Commandant of the 
+Coast Guard, shall administer the Program in a manner that results in a 
+cooperative approach between the United States and Canada to strengthen 
+border security and detect, prevent, suppress, investigate, and respond 
+to terrorism and violations of law related to border security.
+    ``(c) Training.--The Secretary, acting through the Commandant of 
+the Coast Guard, in consultation with the Secretary of State, may--
+            ``(1) establish, as an element of the Program, a training 
+        program to create designated maritime law enforcement officers;
+            ``(2) conduct training jointly with Canada, including 
+        training--
+                    ``(A) on the detection and apprehension of 
+                suspected terrorists and individuals attempting to 
+                unlawfully cross or unlawfully use the international 
+                maritime border between the United States and Canada, 
+                to enhance border security;
+                    ``(B) on the integration, analysis, and 
+                dissemination of port security information between the 
+                United States and Canada;
+                    ``(C) on the respective policy, regulatory, and 
+                legal considerations related to the Program;
+                    ``(D) on the use of force and maritime security;
+                    ``(E) in operational procedures and protection of 
+                information and other sensitive information; and
+                    ``(F) on preparedness and response to maritime 
+                terrorist incidents.
+    ``(d) Coordination.--The Secretary, acting through the Commandant 
+of the Coast Guard, shall coordinate the Program with other similar 
+border security and antiterrorism programs within the Department.
+    ``(e) Memoranda of Agreement.--The Secretary may enter into any 
+memorandum of agreement necessary to carry out the Program.
+    ``(f) Authorization of Appropriations.--To carry out this section 
+there is authorized to be appropriated to the Secretary $2,000,000 for 
+each of fiscal years 2013 and 2014.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+such Act is amended by adding at the end of the items relating to such 
+subtitle the following new item:
+
+``Sec. 432. Integrated cross-border maritime operations between the 
+                            United States and Canada.''.
+
+SEC. 113. TRAINING AND CERTIFICATION OF TRAINING FOR PORT SECURITY.
+
+    (a) Use of Port Security Grant Funds.--Section 70107(b)(8) of title 
+46, United States Code, is amended to read as follows:
+            ``(8) The cost of training and certifying a law enforcement 
+        officer employed by a law enforcement agency under section 
+        70132 of this title.''.
+    (b) Matching Requirement.--Section 70107(c)(2)(C) of such title is 
+amended to read as follows:
+                    ``(C) Training and certification.--There are no 
+                matching requirements for grants under subsection (a) 
+                to train and certify law enforcement personnel under 
+                section 70132 of this title.''.
+    (c) Credentialing Standards, Training, and Certification.--Section 
+70132 of such title is amended as follows:
+            (1) In the section heading, by striking ``for State and 
+        local support for the enforcement of security zones for the 
+        transportation of especially hazardous cargo'' and inserting 
+        ``of maritime law enforcement personnel''.
+            (2) By amending subsection (a) to read as follows:
+    ``(a) Standards.--The Commandant of the Coast Guard shall establish 
+standards for training, qualification, and certification of a law 
+enforcement officer employed by a law enforcement agency, to conduct or 
+execute, pursuant to a cooperative enforcement agreement, maritime 
+security, maritime law enforcement, and maritime surge capacity 
+activities.''.
+            (3) In subsection (b)(1), by amending subparagraphs (A) and 
+        (B) to read as follows:
+                    ``(A) after notice and opportunity for public 
+                comment, may develop and publish training curricula for 
+                the standards established under subsection (a); and
+                    ``(B) may--
+                            ``(i) test and deliver training for which 
+                        the curriculum is developed under subparagraph 
+                        (A);
+                            ``(ii) enter into an agreement under which 
+                        any Federal, State, local, tribal, or private 
+                        sector entity may test and deliver such 
+                        training; and
+                            ``(iii) accept the results of training 
+                        conducted by any Federal, State, local, tribal, 
+                        or private sector entity under such an 
+                        agreement.''.
+            (4) By striking subsection (b)(2) and inserting the 
+        following:
+            ``(2) Any training developed under paragraph (1) after the 
+        date of enactment of the SMART Port Security Act shall be 
+        developed in consultation with the Federal Law Enforcement 
+        Training Center.''.
+            (5) In subsection (b)(4)--
+                    (A) by inserting after ``any moneys,'' the 
+                following: ``other than an allocation made under the 
+                Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 
+                777 et seq.),''; and
+                    (B) by striking ``training of personnel to assist 
+                in the enforcement of security zones and limited access 
+                areas'' and inserting ``training and certifying 
+                personnel under this section''.
+            (6) By striking subsection (c) and inserting the following:
+    ``(c) Certification of Personnel.--The Commandant of the Coast 
+Guard may issue a certificate to law enforcement officer employed by a 
+law enforcement agency, who has successfully completed training that 
+the Commandant has developed under this section.''.
+            (7) By adding at the end the following:
+    ``(d) Tactical Training for Law Enforcement Personnel.--The 
+Commandant of the Coast Guard may make such training developed under 
+this section available to law enforcement officers employed by a law 
+enforcement agency, on either a reimbursable or a non-reimbursable 
+basis, if the Commandant determines that--
+            ``(1) a member of the Coast Guard is unable or unavailable 
+        to undertake tactical training the authorization of which had 
+        been previously approved, and no other member of the Coast 
+        Guard is reasonably available to undertake such training;
+            ``(2) the inability or unavailability of Coast Guard 
+        personnel to undertake such training creates training capacity 
+        within the training program; and
+            ``(3) such training, if made available to such law 
+        enforcement officers, would contribute to achievement of the 
+        purposes of this section.''.
+    (d) Conforming Amendment.--Chapter 701 of such title is amended--
+            (1) by striking the heading for subchapter II and inserting 
+        the following:
+
+      ``Subchapter II--Port Security Training and Certification'';
+
+                    
+        and
+            (2) in the table of sections at the beginning of the 
+        chapter--
+                    (A) by striking the item relating to the heading 
+                for subchapter II and inserting the following:
+
+      ``subchapter ii--port security training and certification'';
+
+                and
+                    (B) by striking the item relating to section 70132 
+                and inserting the following:
+
+``70132. Credentialing standards, training, and certification of 
+                            maritime law enforcement personnel.''.
+    (e) Technical Corrections.--Chapter 701 of such title is amended--
+            (1) by moving sections 70122, 70123, 70124, and 70125 so as 
+        to appear at the end of subchapter I of such chapter;
+            (2) in the table of sections at the beginning of the 
+        chapter, in the item relating to section 70107A, by adding at 
+        the end a period; and
+            (3) by striking the heading for section 70124 and inserting 
+        the following:
+``Sec. 70124. Regulations''.
+
+SEC. 114. NORTHERN BORDER UNMANNED AERIAL VEHICLE PILOT PROJECT.
+
+    (a) Research and Development.--The Secretary shall research and 
+develop technologies to allow routine operation of medium-sized 
+unmanned aerial vehicles, including autonomously piloted drones, within 
+the national airspace for border and maritime security missions without 
+any degradation of existing levels of security-related surveillance or 
+of safety for all national airspace system users.
+    (b) Pilot Project.--No later than 180 days after the date of 
+enactment of this Act, the Secretary shall commence a pilot project in 
+segregated airspace along the northern border to conduct experiments 
+and collect data in order to accelerate the safe integration of medium-
+sized unmanned aircraft systems into the national airspace system.
+
+SEC. 115. RECOGNITION OF PORT SECURITY ASSESSMENTS CONDUCTED BY OTHER 
+              ENTITIES.
+
+    Section 70108 of title 46, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(f) Recognition of Assessment Conducted by Other Entities.--
+            ``(1) Certification and treatment of assessments.--For the 
+        purposes of this section and section 70109, the Secretary may 
+        treat an assessment conducted by a foreign government or 
+        international organization as an assessment by the Secretary 
+        required by subsection (a), if the Secretary certifies that the 
+        assessment was conducted in accordance with subsection (b).
+            ``(2) Authorization to enter into agreements or 
+        arrangements.--The Secretary may enter into an agreement or 
+        arrangement with a foreign government or international 
+        organization, under which--
+                    ``(A) such government or organization may, on 
+                behalf of the Secretary, conduct an assessment required 
+                under subsection (a), or share with the Secretary 
+                information pertaining to such assessments; and
+                    ``(B) the Secretary may, on behalf of such foreign 
+                government or organization, conduct an assessment 
+                described in subsection (a), or share with such foreign 
+                government or organization information pertaining to 
+                such assessments.
+            ``(3) Limitations.--Nothing in this subsection--
+                    ``(A) requires the Secretary to recognize an 
+                assessment that a foreign government or an 
+                international organization conducts pursuant to this 
+                subsection; or
+                    ``(B) limits the discretion or ability of the 
+                Secretary to conduct an assessment under this section.
+            ``(4) Notification.--Not later than 30 days before entering 
+        into an agreement or arrangement with a foreign government 
+        under paragraph (2), the Secretary shall notify the appropriate 
+        congressional committees of the proposed terms of such 
+        agreement or arrangement.''.
+
+SEC. 116. USE OF PORT SECURITY GRANT FUNDS FOR REPLACEMENT OF SECURITY 
+              EQUIPMENT OR FACILITIES.
+
+    Section 70107(b)(2) of title 46, United States Code, is amended by 
+inserting ``(including replacement)'' after ``acquisition''.
+
+                TITLE II--MARITIME SUPPLY CHAIN SECURITY
+
+SEC. 201. STRATEGIC PLAN TO ENHANCE THE SECURITY OF THE INTERNATIONAL 
+              SUPPLY CHAIN.
+
+    Section 201 of the SAFE Port Act (6 U.S.C. 941) is amended--
+            (1) by amending subsection (b) to read as follows:
+    ``(b) Requirements.--The strategic plan required under subsection 
+(a), and any updates to the strategic plan required under subsection 
+(g), shall--
+            ``(1) identify and address gaps and unnecessary 
+        redundancies or overlaps in the roles, responsibilities, or 
+        authorities of the agencies responsible for securing the supply 
+        chain, including--
+                    ``(A) any unnecessary redundancies or overlaps in 
+                Federal transportation security credentialing programs; 
+                and
+                    ``(B) any unnecessary redundancies or overlaps in 
+                Federal trusted shipper or trusted trader programs;
+            ``(2) review ongoing efforts to align activities throughout 
+        the Federal Government to--
+                    ``(A) improve coordination among the agencies 
+                referred to in paragraph (1);
+                    ``(B) facilitate the efficient flow of legitimate 
+                commerce;
+                    ``(C) enhance the security of the international 
+                supply chain; or
+                    ``(D) address any gaps or overlaps described in 
+                paragraph (1);
+            ``(3) identify further regulatory or organizational changes 
+        necessary to--
+                    ``(A) improve coordination among the agencies 
+                referred to in paragraph (1);
+                    ``(B) facilitate the efficient flow of legitimate 
+                commerce;
+                    ``(C) enhance the security of the international 
+                supply chain; or
+                    ``(D) address any gaps or overlaps described in 
+                paragraph (1);
+            ``(4) provide measurable goals, including objectives, 
+        mechanisms, and a schedule, for furthering the security of 
+        commercial operations from point of origin to point of 
+        destination;
+            ``(5) build on available resources and consider costs and 
+        benefits;
+            ``(6) recommend additional incentives for voluntary 
+        measures taken by private sector entities to enhance supply 
+        chain security, including additional incentives for such 
+        entities participating in the Customs-Trade Partnership Against 
+        Terrorism in accordance with sections 214, 215, and 216;
+            ``(7) consider the impact of supply chain security 
+        requirements on small- and medium- sized companies;
+            ``(8) identify a framework for prudent and measured 
+        response in the event of a transportation security incident 
+        involving the international supply chain;
+            ``(9) provide updated protocols for the expeditious 
+        resumption of the flow of trade in accordance with section 202;
+            ``(10) review and address implementation of lessons learned 
+        from recent exercises conducted under sections 114 and 115, and 
+        other international supply chain security, response, or 
+        recovery exercises that the Department participates in, as 
+        appropriate;
+            ``(11) consider the linkages between supply chain security 
+        and security programs within other systems of movement, 
+        including travel security and terrorism finance programs;
+            ``(12) be informed by technologies undergoing research, 
+        development, testing, and evaluation by the Department; and
+            ``(13) expand upon and relate to existing strategies and 
+        plans for securing supply chains, including the National 
+        Response Plan, the National Maritime Transportation Security 
+        Plan, the National Strategy for Maritime Security, and the 
+        eight supporting plans of such National Strategy for Maritime 
+        Security, as required by Homeland Security Presidential 
+        Directive 13.'';
+            (2) in subsection (g)--
+                    (A) in the heading for paragraph (2), by striking 
+                ``Final'' and inserting ``Updated''; and
+                    (B) by adding at the end the following new 
+                paragraphs:
+            ``(3) Final report.--Not later than two years after the 
+        date on which the update of the strategic plan is submitted 
+        under paragraph (2), the Secretary shall submit to the 
+        appropriate congressional committees a report that contains a 
+        further update of the strategic plan.
+            ``(4) Implementation plan.--Not later than one year after 
+        the date on which the final update of the strategic plan is 
+        submitted under paragraph (3), the Secretary shall submit to 
+        the appropriate congressional committees an implementation plan 
+        for carrying out the strategic plan.''; and
+            (3) by adding at the end the following new subsection:
+    ``(h) Threat Assessment.--In developing the reports and 
+implementation plan required under subsection (g), the Secretary shall 
+take into account an assessment of the current threats to the global 
+supply chain.''.
+
+SEC. 202. CUSTOMS-TRADE PARTNERSHIP AGAINST TERRORISM.
+
+    (a) Unannounced Inspections.--Section 217(a) of the SAFE Port Act 
+(6 U.S.C. 967(a)) is amended--
+            (1) by striking ``If at any time'' and inserting the 
+        following:
+            ``(1) Failure to meet requirements.--If at any time''; and
+            (2) by inserting after paragraph (1), as redesignated, the 
+        following new paragraph:
+            ``(2) Unannounced inspections.--The Secretary, acting 
+        through the Commissioner, may conduct an unannounced inspection 
+        of a C-TPAT participant's security measures and supply chain 
+        security practices if the Commissioner determines, based on 
+        previously identified deficiencies in security measures and 
+        supply chain security practices of the C-TPAT participant, that 
+        there is a likelihood that such an inspection would assist in 
+        confirming the security measures in place and further the 
+        validation process.''.
+    (b) Private Sector Information Sharing on Security and Terrorism 
+Threats.--Subsection (d) of section 216 of the SAFE Port Act (6 U.S.C. 
+966) is amended to read as follows:
+    ``(d) Private Sector Information Sharing on Security and Terrorism 
+Threats.--
+            ``(1) In general.--The Secretary shall promote information 
+        sharing, as appropriate, between and among the Department and 
+        C-TPAT participants and other private entities regarding--
+                    ``(A) potential vulnerabilities, attacks, and 
+                exploitations of the international supply chain; and
+                    ``(B) means and methods of preventing, responding 
+                to, and mitigating consequences from the 
+                vulnerabilities, attacks, and exploitations described 
+                in subparagraph (A).
+            ``(2) Contents.--The information sharing required under 
+        paragraph (1) may include--
+                    ``(A) the creation of classified and unclassified 
+                means of accessing information that may be used by 
+                appropriately cleared personnel and that will provide, 
+                as appropriate, ongoing situational awareness of the 
+                security of the international supply chain; and
+                    ``(B) the creation of guidelines to establish a 
+                mechanism by which owners and operators of 
+                international supply chain infrastructure may report 
+                actual or potential security breaches.''.
+
+SEC. 203. RECOGNITION OF OTHER COUNTRIES' TRUSTED SHIPPER PROGRAMS.
+
+    Section 218 of the SAFE Port Act (6 U.S.C. 968) is amended by 
+adding at the end the following new subsection:
+    ``(j) Recognition of Other Countries' Trusted Shipper Programs.--
+Not later than 30 days before signing an arrangement between the United 
+States and a foreign government providing for mutual recognition of 
+supply chain security practices which might result in the utilization 
+of benefits described in section 214, 215, or 216, the Secretary 
+shall--
+            ``(1) notify the appropriate congressional committees of 
+        the proposed terms of such arrangement; and
+            ``(2) determine, in consultation with the Commissioner, 
+        that the foreign government's supply chain security program 
+        provides comparable security as that provided by C-TPAT.''.
+
+SEC. 204. PILOT PROGRAM FOR INCLUSION OF NON-ASSET BASED THIRD PARTY 
+              LOGISTICS PROVIDERS IN THE CUSTOMS-TRADE PARTNERSHIP 
+              AGAINST TERRORISM.
+
+    (a) In General.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary shall develop a pilot program to 
+determine whether allowing non-asset based third party logistics 
+providers that arrange international transportation of freight to 
+participate in the Customs-Trade Partnership Against Terrorism program, 
+as described in section 211 of the SAFE Port Act (6 U.S.C. 961), would 
+enhance port security, combat terrorism, prevent supply chain security 
+breaches, or meet the goals of the Customs-Trade Partnership Against 
+Terrorism established pursuant to section 211 of the SAFE Port Act (6 
+U.S.C. 961).
+    (b) Requirements.--
+            (1) Voluntary participation.--Participation by non-asset 
+        based third party logistics providers that arrange 
+        international transportation of freight taking part in the 
+        pilot program shall be voluntary.
+            (2) Minimum number.--The Secretary shall ensure that not 
+        fewer than five non-asset based third party logistics providers 
+        that arrange international transportation of freight take part 
+        in the pilot program.
+            (3) Duration.--The pilot program shall be conducted for a 
+        minimum duration of one year.
+    (c) Report.--Not later than 180 days after the conclusion of the 
+pilot program, the Secretary shall submit to the appropriate 
+congressional committees a report on the findings and any 
+recommendations of the pilot program concerning the participation in 
+the Customs-Trade Partnership Against Terrorism of non-asset based 
+third party logistics providers that arrange international 
+transportation of freight to combat terrorism and prevent supply chain 
+security breaches.
+
+SEC. 205. TRANSPORTATION WORKER IDENTIFICATION CREDENTIAL PROCESS 
+              REFORM.
+
+    (a) Sense of Congress.--To avoid further imposing unnecessary and 
+costly regulatory burdens on United States workers and businesses, it 
+is the sense of Congress that it is urgent that the Transportation 
+Worker Identification Credential (in this section referred to as the 
+``TWIC'') application process be reformed by not later than the end of 
+2012, when hundreds of thousands of current TWIC holders will begin to 
+face the requirement to renew their TWICs.
+    (b) TWIC Application Reform.--Not later than 270 days after the 
+date of the enactment of this Act, the Secretary shall reform the 
+process for the enrollment, activation, issuance, and renewal of a TWIC 
+to require, in total, not more than one in-person visit to a designated 
+enrollment center except in cases in which there are extenuating 
+circumstances, as determined by the Secretary, requiring more than one 
+such in-person visit.
+
+SEC. 206. EXPIRATION OF CERTAIN TRANSPORTATION WORKER IDENTIFICATION 
+              CREDENTIALS.
+
+    (a) In General.--A valid Transportation Worker Identification 
+Credential required under part 101.514 of title 33, Code of Federal 
+Regulations, that was issued before the date of enactment of this Act 
+shall not expire before the earlier of--
+            (1) the deadline for full implementation of a final rule 
+        issued by the Secretary for electronic readers designed to work 
+        with Transportation Worker Identification Credentials as an 
+        access control and security measure issued pursuant to the 
+        advanced notice of proposed rulemaking published March 27, 2009 
+        (74 Fed. Reg. 58), as established by the final rule; or
+            (2) June 30, 2014.
+    (b) Revocation Authority Not Affected.--This section shall not be 
+construed to affect the authority of the Secretary to revoke a 
+Transportation Worker Identification Credential--
+            (1) based on information that the holder is not qualified 
+        to hold such credential; or
+            (2) if the credential is lost, damaged, or stolen.
+
+SEC. 207. SECURING THE TRANSPORTATION WORKER IDENTIFICATION CREDENTIAL 
+              AGAINST USE BY UNAUTHORIZED ALIENS.
+
+    (a) Process.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Secretary shall establish a process 
+        to ensure, to the maximum extent practicable, that an 
+        individual who is not lawfully present in the United States 
+        cannot obtain or continue to use a Transportation Worker 
+        Identification Credential (in this section referred to as the 
+        ``TWIC'').
+            (2) Components.--In establishing the process under 
+        subsection (a), the Secretary shall--
+                    (A) publish a list of documents that will identify 
+                non-United States citizen TWIC applicants and verify 
+                their immigration statuses by requiring each such 
+                applicants to produce a document or documents that 
+                demonstrate--
+                            (i) identity; and
+                            (ii) proof of lawful presence in the United 
+                        States; and
+                    (B) establish training requirements to ensure that 
+                trusted agents at TWIC enrollment centers receive 
+                training to identify fraudulent documents.
+    (b) Expiration of TWICs.--A TWIC expires on the date of its 
+expiration, or in the date on which the individual to whom such a TWIC 
+is issued is no longer lawfully present in the United States, whichever 
+is earlier.
+
+SEC. 208. REPORT ON FEDERAL TRANSPORTATION SECURITY CREDENTIALING 
+              PROGRAMS.
+
+    Not later than 180 days after the date of the enactment of this 
+Act, the Secretary shall submit to the appropriate congressional 
+committees a report that identifies unnecessary redundancies or 
+overlaps in Federal transportation security credentialing programs, 
+including recommendations to reduce or eliminate such redundancies or 
+overlaps.
+
+            Passed the House of Representatives June 28, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

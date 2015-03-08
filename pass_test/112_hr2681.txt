@@ -1,0 +1,196 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2681 Placed on Calendar Senate (PCS)]
+
+                                                       Calendar No. 192
+112th CONGRESS
+  1st Session
+                                H. R. 2681
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 11, 2011
+
+                     Received; read the first time
+
+                            October 12, 2011
+
+            Read the second time and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To provide additional time for the Administrator of the Environmental 
+      Protection Agency to issue achievable standards for cement 
+           manufacturing facilities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Cement Sector Regulatory Relief Act 
+of 2011''.
+
+SEC. 2. LEGISLATIVE STAY.
+
+    (a) Establishment of Standards.--In place of the rules specified in 
+subsection (b), and notwithstanding the date by which such rules would 
+otherwise be required to be promulgated, the Administrator of the 
+Environmental Protection Agency (in this Act referred to as the 
+``Administrator'') shall--
+            (1) propose regulations for the Portland cement 
+        manufacturing industry and Portland cement plants subject to 
+        any of the rules specified in subsection (b)--
+                    (A) establishing maximum achievable control 
+                technology standards, performance standards, and other 
+                requirements under sections 112 and 129, as applicable, 
+                of the Clean Air Act (42 U.S.C. 7412, 7429); and
+                    (B) identifying non-hazardous secondary materials 
+                that, when used as fuels or ingredients in combustion 
+                units of such industry and plants are solid waste under 
+                the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.; 
+                commonly referred to as the ``Resource Conservation and 
+                Recovery Act'') for purposes of determining the extent 
+                to which such combustion units are required to meet the 
+                emissions standards under section 112 of the Clean Air 
+                Act (42 U.S.C. 7412) or the emission standards under 
+                section 129 of such Act (42 U.S.C. 7429); and
+            (2) finalize the regulations on the date that is 15 months 
+        after the date of the enactment of this Act.
+    (b) Stay of Earlier Rules.--
+            (1) The following rule is of no force or effect, shall be 
+        treated as though such rule had never taken effect, and shall 
+        be replaced as described in subsection (a): ``National Emission 
+        Standards for Hazardous Air Pollutants from the Portland Cement 
+        Manufacturing Industry and Standards of Performance for 
+        Portland Cement Plants'', published at 75 Fed. Reg. 54970 
+        (September 9, 2010).
+            (2) The following rules are of no force or effect, shall be 
+        treated as though such rules had never taken effect, and shall 
+        be replaced as described in subsection (a), insofar as such 
+        rules are applicable to the Portland cement manufacturing 
+        industry and Portland cement plants:
+                    (A) ``Standards of Performance for New Stationary 
+                Sources and Emission Guidelines for Existing Sources: 
+                Commercial and Industrial Solid Waste Incineration 
+                Units'', published at 76 Fed. Reg. 15704 (March 21, 
+                2011).
+                    (B) ``Identification of Non-Hazardous Secondary 
+                Materials That Are Solid Waste'', published at 76 Fed. 
+                Reg. 15456 (March 21, 2011).
+
+SEC. 3. COMPLIANCE DATES.
+
+    (a) Establishment of Compliance Dates.--For each regulation 
+promulgated pursuant to section 2, the Administrator--
+            (1) shall establish a date for compliance with standards 
+        and requirements under such regulation that is, notwithstanding 
+        any other provision of law, not earlier than 5 years after the 
+        effective date of the regulation; and
+            (2) in proposing a date for such compliance, shall take 
+        into consideration--
+                    (A) the costs of achieving emissions reductions;
+                    (B) any non-air quality health and environmental 
+                impact and energy requirements of the standards and 
+                requirements;
+                    (C) the feasibility of implementing the standards 
+                and requirements, including the time needed to--
+                            (i) obtain necessary permit approvals; and
+                            (ii) procure, install, and test control 
+                        equipment;
+                    (D) the availability of equipment, suppliers, and 
+                labor, given the requirements of the regulation and 
+                other proposed or finalized regulations of the 
+                Environmental Protection Agency; and
+                    (E) potential net employment impacts.
+    (b) New Sources.--The date on which the Administrator proposes a 
+regulation pursuant to section 2(a)(1) establishing an emission 
+standard under section 112 or 129 of the Clean Air Act (42 U.S.C. 7412, 
+7429) shall be treated as the date on which the Administrator first 
+proposes such a regulation for purposes of applying the definition of a 
+new source under section 112(a)(4) of such Act (42 U.S.C. 7412(a)(4)) 
+or the definition of a new solid waste incineration unit under section 
+129(g)(2) of such Act (42 U.S.C. 7429(g)(2)).
+    (c) Rule of Construction.--Nothing in this Act shall be construed 
+to restrict or otherwise affect the provisions of paragraphs (3)(B) and 
+(4) of section 112(i) of the Clean Air Act (42 U.S.C. 7412(i)).
+
+SEC. 4. ENERGY RECOVERY AND CONSERVATION.
+
+    Notwithstanding any other provision of law, and to ensure the 
+recovery and conservation of energy consistent with the Solid Waste 
+Disposal Act (42 U.S.C. 6901 et seq.; commonly referred to as the 
+``Resource Conservation and Recovery Act''), in promulgating rules 
+under section 2(a) addressing the subject matter of the rules specified 
+in section 2(b)(2), the Administrator--
+            (1) shall adopt the definitions of the terms ``commercial 
+        and industrial solid waste incineration unit'', ``commercial 
+        and industrial waste'', and ``contained gaseous material'' in 
+        the rule entitled ``Standards of Performance for New Stationary 
+        Sources and Emission Guidelines for Existing Sources: 
+        Commercial and Industrial Solid Waste Incineration Units'', 
+        published at 65 Fed. Reg. 75338 (December 1, 2000); and
+            (2) shall identify non-hazardous secondary material to be 
+        solid waste only if--
+                    (A) the material meets such definition of 
+                commercial and industrial waste; or
+                    (B) if the material is a gas, it meets such 
+                definition of contained gaseous material.
+
+SEC. 5. OTHER PROVISIONS.
+
+    (a) Establishment of Standards Achievable in Practice.--In 
+promulgating rules under section 2(a), the Administrator shall ensure 
+that emissions standards for existing and new sources established under 
+section 112 or 129 of the Clean Air Act (42 U.S.C. 7412, 7429), as 
+applicable, can be met under actual operating conditions consistently 
+and concurrently with emission standards for all other air pollutants 
+regulated by the rule for the source category, taking into account 
+variability in actual source performance, source design, fuels, inputs, 
+controls, ability to measure the pollutant emissions, and operating 
+conditions.
+    (b) Regulatory Alternatives.--For each regulation promulgated 
+pursuant to section 2(a), from among the range of regulatory 
+alternatives authorized under the Clean Air Act (42 U.S.C. 7401 et 
+seq.) including work practice standards under section 112(h) of such 
+Act (42 U.S.C. 7412(h)), the Administrator shall impose the least 
+burdensome, consistent with the purposes of such Act and Executive 
+Order No. 13563 published at 76 Fed. Reg. 3821 (January 21, 2011).
+
+            Passed the House of Representatives October 6, 2011.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+                                                       Calendar No. 192
+
+112th CONGRESS
+
+  1st Session
+
+                               H. R. 2681
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To provide additional time for the Administrator of the Environmental 
+      Protection Agency to issue achievable standards for cement 
+           manufacturing facilities, and for other purposes.
+
+_______________________________________________________________________
+
+                            October 12, 2011
+
+            Read the second time and placed on the calendar

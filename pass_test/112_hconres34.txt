@@ -1,0 +1,1478 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H. Con. Res. 34 Placed on Calendar Senate (PCS)]
+
+                                                        Calendar No. 36
+112th CONGRESS
+  1st Session
+H. CON. RES. 34
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 2, 2011
+
+    Received and referred to the Committee on the Budget; committee 
+  discharged pursuant to Section 300 of the Congressional Budget Act; 
+                         placed on the calendar
+
+_______________________________________________________________________
+
+                         CONCURRENT RESOLUTION
+
+
+ 
+  Establishing the budget for the United States Government for fiscal 
+  year 2012 and setting forth appropriate budgetary levels for fiscal 
+                        years 2013 through 2021.
+
+    Resolved by the House of Representatives (the Senate concurring),
+
+SECTION 1. CONCURRENT RESOLUTION ON THE BUDGET FOR FISCAL YEAR 2012.
+
+    (a) Declaration.--The Congress determines and declares that this 
+concurrent resolution establishes the budget for fiscal year 2012 and 
+sets forth appropriate budgetary levels for fiscal years 2013 through 
+2021.
+    (b) Table of Contents.--The table of contents for this resolution 
+is as follows:
+
+Sec. 1. Concurrent resolution on the budget for fiscal year 2012.
+                TITLE I--RECOMMENDED LEVELS AND AMOUNTS
+
+Sec. 101. Recommended levels and amounts.
+Sec. 102. Major functional categories.
+ TITLE II--RECOMMENDED LEVELS AND AMOUNTS FOR FISCAL YEARS 2030, 2040, 
+                                AND 2050
+
+Sec. 201. Policy statement on long-term budgeting.
+                 TITLE III--RESERVES AND CONTINGENCIES
+
+Sec. 301. Costs of the global war on terrorism.
+Sec. 302. Effective date.
+Sec. 303. Reserve fund for health care reform.
+Sec. 304. Reserve fund for the sustainable growth rate of the Medicare 
+                            program.
+Sec. 305. Reserve fund for deficit-neutral revenue measures.
+Sec. 306. Deficit-neutral reserve fund for rural counties and schools.
+                      TITLE IV--BUDGET ENFORCEMENT
+
+Sec. 401. Discretionary spending limits.
+Sec. 402. Limitation on advance appropriations.
+Sec. 403. Concepts and definitions.
+Sec. 404. Adjustments of aggregates and allocations for legislation.
+Sec. 405. Limitation on long-term spending.
+Sec. 406. Budgetary treatment of certain transactions.
+Sec. 407. Application and effect of changes in allocations and 
+                            aggregates.
+Sec. 408. Fair value estimates.
+Sec. 409. Exercise of rulemaking powers.
+                            TITLE V--POLICY
+
+Sec. 501. Policy Statement on Medicare.
+Sec. 502. Policy Statement on Social Security.
+Sec. 503. Policy statement on budget enforcement.
+                TITLE VI--SENSE OF THE HOUSE PROVISIONS
+
+Sec. 601. Sense of the House on a responsible deficit reduction plan 
+                            must consider all programs, including those 
+                            at the Pentagon and the other national 
+                            security agencies.
+Sec. 602. Sense of the House regarding the importance of child support 
+                            enforcement.
+
+                TITLE I--RECOMMENDED LEVELS AND AMOUNTS
+
+SEC. 101. RECOMMENDED LEVELS AND AMOUNTS.
+
+    The following budgetary levels are appropriate for each of fiscal 
+years 2012 through 2021:
+            (1) Federal revenues.--For purposes of the enforcement of 
+        this resolution:
+                    (A) The recommended levels of Federal revenues are 
+                as follows:
+    Fiscal year 2012: $1,866,454,000,000.
+    Fiscal year 2013: $2,127,981,000,000.
+    Fiscal year 2014: $2,324,503,000,000.
+    Fiscal year 2015: $2,425,363,000,000.
+    Fiscal year 2016: $2,522,695,000,000.
+    Fiscal year 2017: $2,693,493,000,000.
+    Fiscal year 2018: $2,807,893,000,000.
+    Fiscal year 2019: $2,958,678,000,000.
+    Fiscal year 2020: $3,119,794,000,000.
+    Fiscal year 2021: $3,286,942,000,000.
+                    (B) The amounts by which the aggregate levels of 
+                Federal revenues should be changed are as follows:
+    Fiscal year 2012: -$25,000,000,000.
+    Fiscal year 2013: -$227,000,000,000.
+    Fiscal year 2014: -$346,000,000,000.
+    Fiscal year 2015: -$406,000,000,000.
+    Fiscal year 2016: -$448,000,000,000.
+    Fiscal year 2017: -$482,000,000,000.
+    Fiscal year 2018: -$527,000,000,000.
+    Fiscal year 2019: -$544,000,000,000.
+    Fiscal year 2020: -$561,000,000,000.
+    Fiscal year 2021: -$597,000,000,000.
+            (2) New budget authority.--For purposes of the enforcement 
+        of this resolution, the appropriate levels of total new budget 
+        authority are as follows:
+    Fiscal year 2012: $2,858,545,000,000.
+    Fiscal year 2013: $2,835,737,000,000.
+    Fiscal year 2014: $2,905,952,000,000.
+    Fiscal year 2015: $2,970,061,000,000.
+    Fiscal year 2016: $3,114,578,000,000.
+    Fiscal year 2017: $3,224,937,000,000.
+    Fiscal year 2018: $3,330,942,000,000.
+    Fiscal year 2019: $3,490,088,000,000.
+    Fiscal year 2020: $3,639,728,000,000.
+    Fiscal year 2021: $3,767,274,000,000.
+            (3) Budget outlays.--For purposes of the enforcement of 
+        this resolution, the appropriate levels of total budget outlays 
+        are as follows:
+    Fiscal year 2012: $2,947,916,000,000.
+    Fiscal year 2013: $2,915,241,000,000.
+    Fiscal year 2014: $2,902,944,000,000.
+    Fiscal year 2015: $2,949,301,000,000.
+    Fiscal year 2016: $3,097,060,000,000.
+    Fiscal year 2017: $3,193,477,000,000.
+    Fiscal year 2018: $3,271,881,000,000.
+    Fiscal year 2019: $3,450,742,000,000.
+    Fiscal year 2020: $3,587,701,000,000.
+    Fiscal year 2021: $3,726,564,000,000.
+            (4) Deficits (on-budget).--For purposes of the enforcement 
+        of this resolution, the amounts of the deficits (on-budget) are 
+        as follows:
+    Fiscal year 2012: $1,081,462,000,000.
+    Fiscal year 2013: $787,260,000,000.
+    Fiscal year 2014: $578,441,000,000.
+    Fiscal year 2015: $523,938,000,000.
+    Fiscal year 2016: $574,365,000,000.
+    Fiscal year 2017: $499,984,000,000.
+    Fiscal year 2018: $463,988,000,000.
+    Fiscal year 2019: $492,064,000,000.
+    Fiscal year 2020: $467,907,000,000.
+    Fiscal year 2021: $439,622,000,000.
+            (5) Debt subject to limit.--Pursuant to section 301(a)(5) 
+        of the Congressional Budget Act of 1974, the appropriate levels 
+        of the public debt are as follows:
+    Fiscal year 2012: $16,204,000,000,000.
+    Fiscal year 2013: $17,177,000,000,000.
+    Fiscal year 2014: $17,951,000,000,000.
+    Fiscal year 2015: $18,697,000,000,000.
+    Fiscal year 2016: $19,503,000,000,000.
+    Fiscal year 2017: $20,245,000,000,000.
+    Fiscal year 2018: $20,968,000,000,000.
+    Fiscal year 2019: $21,699,000,000,000.
+    Fiscal year 2020: $22,408,000,000,000.
+    Fiscal year 2021: $23,102,000,000,000.
+            (6) Debt held by the public.--The appropriate levels of 
+        debt held by the public are as follows:
+    Fiscal year 2012: $11,418,000,000,000.
+    Fiscal year 2013: $12,216,000,000,000.
+    Fiscal year 2014: $12,797,000,000,000.
+    Fiscal year 2015: $13,319,000,000,000.
+    Fiscal year 2016: $13,876,000,000,000.
+    Fiscal year 2017: $14,351,000,000,000.
+    Fiscal year 2018: $14,787,000,000,000.
+    Fiscal year 2019: $15,242,000,000,000.
+    Fiscal year 2020: $15,673,000,000,000.
+    Fiscal year 2021; $16,068,000,000,000.
+
+SEC. 102. MAJOR FUNCTIONAL CATEGORIES.
+
+    The Congress determines and declares that the appropriate levels of 
+new budget authority and outlays for fiscal years 2011 through 2021 for 
+each major functional category are:
+            (1) National Defense (050):
+                    Fiscal year 2012:
+                            (A) New budget authority, $582,626,000,000.
+                            (B) Outlays, $593,580,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $600,283,000,000.
+                            (B) Outlays, $597,211,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $616,451,000,000.
+                            (B) Outlays, $606,903,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $628,847,000,000.
+                            (B) Outlays, $618,837,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $641,976,000,000.
+                            (B) Outlays, $635,475,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $653,695,000,000.
+                            (B) Outlays, $643,275,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $665,679,000,000.
+                            (B) Outlays, $650,246,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $677,884,000,000.
+                            (B) Outlays, $666,959,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $690,273,000,000.
+                            (B) Outlays, $679,088,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $702,903,000,000.
+                            (B) Outlays, $691,494,000,000.
+            (2) International Affairs (150):
+                    Fiscal year 2012:
+                            (A) New budget authority, $36,575,000,000.
+                            (B) Outlays, $36,102,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $35,653,000,000.
+                            (B) Outlays, $34,545,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $31,694,000,000.
+                            (B) Outlays, $34,178,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $30,316,000,000.
+                            (B) Outlays, $32,613,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $29,356,000,000.
+                            (B) Outlays, $32,161,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $30,729,000,000.
+                            (B) Outlays, $31,926,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $31,978,000,000.
+                            (B) Outlays, $31,594,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $32,824,000,000.
+                            (B) Outlays, $30,487,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $33,698,000,000.
+                            (B) Outlays, $30,123,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $34,572,000,000.
+                            (B) Outlays, $30,740,000,000.
+            (3) General Science, Space, and Technology (250):
+                    Fiscal year 2012:
+                            (A) New budget authority, $27,452,000,000.
+                            (B) Outlays, $29,798,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $27,316,000,000.
+                            (B) Outlays, $28,242,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $27,312,000,000.
+                            (B) Outlays, $27,763,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $27,312,000,000.
+                            (B) Outlays, $27,469,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $27,311,000,000.
+                            (B) Outlays, $27,506,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $27,652,000,000.
+                            (B) Outlays, $27,646,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $28,341,000,000.
+                            (B) Outlays, $28,114,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $29,049,000,000.
+                            (B) Outlays, $28,684,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $29,758,000,000.
+                            (B) Outlays, $29,344,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $30,472,000,000.
+                            (B) Outlays, $29,946,000,000.
+            (4) Energy (270):
+                    Fiscal year 2012:
+                            (A) New budget authority, $6,996,000,000.
+                            (B) Outlays, $16,174,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $3,850,000,000.
+                            (B) Outlays, $10,053,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $1,215,000,000.
+                            (B) Outlays, $4,547,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $1,101,000,000.
+                            (B) Outlays, $1,360,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $1,021,000,000.
+                            (B) Outlays, $340,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $1,010,000,000.
+                            (B) Outlays, $460,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $1,075,000,000.
+                            (B) Outlays, $539,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $1,211,000,000.
+                            (B) Outlays, $497,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $1,179,000,000.
+                            (B) Outlays, $470,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $1,195,000,000.
+                            (B) Outlays, $476,000,000.
+            (5) Natural Resources and Environment (300):
+                    Fiscal year 2012:
+                            (A) New budget authority, $31,921,000,000.
+                            (B) Outlays, $36,818,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $29,414,000,000.
+                            (B) Outlays, $33,386,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $25,296,000,000.
+                            (B) Outlays, $28,943,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $26,893,000,000.
+                            (B) Outlays, $29,271,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $25,231,000,000.
+                            (B) Outlays, $26,070,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $26,156,000,000.
+                            (B) Outlays, $26,307,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $26,618,000,000.
+                            (B) Outlays, $25,308,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $26,956,000,000.
+                            (B) Outlays, $25,439,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $27,787,000,000.
+                            (B) Outlays, $25,990,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $27,756,000,000.
+                            (B) Outlays, $25,992,000,000.
+            (6) Agriculture (350):
+                    Fiscal year 2012:
+                            (A) New budget authority, $19,819,000,000.
+                            (B) Outlays, $19,559,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $18,396,000,000.
+                            (B) Outlays, $21,989,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $16,717,000,000.
+                            (B) Outlays, $16,469,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $17,355,000,000.
+                            (B) Outlays, $16,688,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $17,235,000,000.
+                            (B) Outlays, $16,505,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $16,859,000,000.
+                            (B) Outlays, $16,069,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $17,025,000,000.
+                            (B) Outlays, $16,180,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $17,159,000,000.
+                            (B) Outlays, $16,283,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $17,469,000,000.
+                            (B) Outlays, $16,579,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $17,755,000,000.
+                            (B) Outlays, $16,873,000,000.
+            (7) Commerce and Housing Credit (370):
+                    Fiscal year 2012:
+                            (A) New budget authority, $14,317,000,000.
+                            (B) Outlays, $16,275,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $4,040,000,000.
+                            (B) Outlays, $2,611,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $508,000,000.
+                            (B) Outlays, -$13,986,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, -$2,609,000,000.
+                            (B) Outlays, -$19,417,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, -$3,260,000,000.
+                            (B) Outlays, -$23,459,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, -$293,000,000.
+                            (B) Outlays, -$23,592,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, -$261,000,000.
+                            (B) Outlays, -$25,981,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, -$222,000,000.
+                            (B) Outlays, -$17,547,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, -$128,000,000.
+                            (B) Outlays, -$17,992,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, -$196,000,000.
+                            (B) Outlays, -$19,650,000,000.
+            (8) Transportation (400):
+                    Fiscal year 2012:
+                            (A) New budget authority, $64,316,000,000.
+                            (B) Outlays, $80,431,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $64,515,000,000.
+                            (B) Outlays, $71,264,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $64,265,000,000.
+                            (B) Outlays, $67,722,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $60,377,000,000.
+                            (B) Outlays, $66,084,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $68,563,000,000.
+                            (B) Outlays, $65,957,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $65,916,000,000.
+                            (B) Outlays, $67,036,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $70,578,000,000.
+                            (B) Outlays, $67,451,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $66,719,000,000.
+                            (B) Outlays, $69,869,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $67,472,000,000.
+                            (B) Outlays, $71,551,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $68,936,000,000.
+                            (B) Outlays, $76,853,000,000.
+            (9) Community and Regional Development (450):
+                    Fiscal year 2012:
+                            (A) New budget authority, $11,572,000,000.
+                            (B) Outlays, $23,559,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $11,344,000,000.
+                            (B) Outlays, $20,609,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $11,280,000,000.
+                            (B) Outlays, $18,127,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $11,206,000,000.
+                            (B) Outlays, $14,176,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $11,117,000,000.
+                            (B) Outlays, $12,257,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $11,219,000,000.
+                            (B) Outlays, $11,231,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $11,497,000,000.
+                            (B) Outlays, $10,860,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $11,779,000,000.
+                            (B) Outlays, $11,028,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $12,065,000,000.
+                            (B) Outlays, $11,294,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $12,354,000,000.
+                            (B) Outlays, $11,524,000,000.
+            (10) Education, Training, Employment, and Social Services 
+        (500):
+                    Fiscal year 2012:
+                            (A) New budget authority, $67,122,000,000.
+                            (B) Outlays, $100,012,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $63,887,000,000.
+                            (B) Outlays, $73,071,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $66,076,000,000.
+                            (B) Outlays, $68,044,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $69,446,000,000.
+                            (B) Outlays, $70,450,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $73,314,000,000.
+                            (B) Outlays, $73,310,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $75,371,000,000.
+                            (B) Outlays, $75,665,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $76,798,000,000.
+                            (B) Outlays, $77,013,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $78,314,000,000.
+                            (B) Outlays, $78,385,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $79,629,000,000.
+                            (B) Outlays, $79,806,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $80,952,000,000.
+                            (B) Outlays, $81,047,000,000.
+            (11) Health (550):
+                    Fiscal year 2012:
+                            (A) New budget authority, $341,873,000,000.
+                            (B) Outlays, $346,636,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $343,733,000,000.
+                            (B) Outlays, $340,608,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $338,064,000,000.
+                            (B) Outlays, $320,444,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $327,012,000,000.
+                            (B) Outlays, $315,117,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $320,409,000,000.
+                            (B) Outlays, $325,200,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $339,663,000,000.
+                            (B) Outlays, $342,703,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $349,840,000,000.
+                            (B) Outlays, $347,303,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $371,826,000,000.
+                            (B) Outlays, $368,558,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $395,908,000,000.
+                            (B) Outlays, $382,056,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $404,674,000,000.
+                            (B) Outlays, $400,682,000,000.
+            (12) Medicare (570):
+                    Fiscal year 2012:
+                            (A) New budget authority, $481,521,000,000.
+                            (B) Outlays, $481,816,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $519,903,000,000.
+                            (B) Outlays, $520,406,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $550,105,000,000.
+                            (B) Outlays, $550,248,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $573,252,000,000.
+                            (B) Outlays, $573,333,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $618,945,000,000.
+                            (B) Outlays, $619,385,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $637,938,000,000.
+                            (B) Outlays, $638,059,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $657,067,000,000.
+                            (B) Outlays, $657,111,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $711,486,000,000.
+                            (B) Outlays, $711,897,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $758,271,000,000.
+                            (B) Outlays, $758,376,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $809,106,000,000.
+                            (B) Outlays, $809,201,000,000.
+            (13) Income Security (600):
+                    Fiscal year 2012:
+                            (A) New budget authority, $501,664,000,000.
+                            (B) Outlays, $501,006,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $487,498,000,000.
+                            (B) Outlays, $487,248,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $457,308,000,000.
+                            (B) Outlays, $456,072,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $431,150,000,000.
+                            (B) Outlays, $429,143,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $436,659,000,000.
+                            (B) Outlays, $438,896,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $436,985,000,000.
+                            (B) Outlays, $434,795,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $441,467,000,000.
+                            (B) Outlays, $434,302,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $457,183,000,000.
+                            (B) Outlays, $454,448,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $468,308,000,000.
+                            (B) Outlays, $465,565,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $480,687,000,000.
+                            (B) Outlays, $477,942,000,000.
+            (14) Social Security (650):
+                    Fiscal year 2012:
+                            (A) New budget authority, $54,439,000,000.
+                            (B) Outlays, $54,624,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $29,096,000,000.
+                            (B) Outlays, $29,256,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $32,701,000,000.
+                            (B) Outlays, $32,776,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $36,261,000,000.
+                            (B) Outlays, $36,311,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $40,171,000,000.
+                            (B) Outlays, $40,171,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $44,263,000,000.
+                            (B) Outlays, $44,263,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $48,717,000,000.
+                            (B) Outlays, $48,717,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $53,508,000,000.
+                            (B) Outlays, $53,508,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $58,552,000,000.
+                            (B) Outlays, $58,552,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $64,053,000,000.
+                            (B) Outlays, $64,053,000,000.
+            (15) Veterans Benefits and Services (700):
+                    Fiscal year 2012:
+                            (A) New budget authority, $128,339,000,000.
+                            (B) Outlays, $127,140,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $130,024,000,000.
+                            (B) Outlays, $130,025,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $134,143,000,000.
+                            (B) Outlays, $134,055,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $138,167,000,000.
+                            (B) Outlays, $137,851,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $147,410,000,000.
+                            (B) Outlays, $146,868,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $146,323,000,000.
+                            (B) Outlays, $145,704,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $145,412,000,000.
+                            (B) Outlays, $144,751,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $155,091,000,000.
+                            (B) Outlays, $154,407,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $159,680,000,000.
+                            (B) Outlays, $158,979,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $164,381,000,000.
+                            (B) Outlays, $163,622,000,000.
+            (16) Administration of Justice (750):
+                    Fiscal year 2012:
+                            (A) New budget authority, $56,946,000,000.
+                            (B) Outlays, $53,931,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $45,326,000,000.
+                            (B) Outlays, $50,482,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $45,093,000,000.
+                            (B) Outlays, $48,664,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $44,928,000,000.
+                            (B) Outlays, $47,337,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $47,009,000,000.
+                            (B) Outlays, $48,519,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $45,731,000,000.
+                            (B) Outlays, $46,650,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $46,669,000,000.
+                            (B) Outlays, $46,957,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $47,768,000,000.
+                            (B) Outlays, $47,649,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $50,848,000,000.
+                            (B) Outlays, $50,415,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $52,863,000,000.
+                            (B) Outlays, $52,407,000,000.
+            (17) General Government (800):
+                    Fiscal year 2012:
+                            (A) New budget authority, $22,762,000,000.
+                            (B) Outlays, $27,205,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $22,185,000,000.
+                            (B) Outlays, $23,460,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $22,232,000,000.
+                            (B) Outlays, $22,619,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $22,183,000,000.
+                            (B) Outlays, $22,021,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $22,217,000,000.
+                            (B) Outlays, $21,643,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $22,453,000,000.
+                            (B) Outlays, $21,718,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $22,979,000,000.
+                            (B) Outlays, $22,016,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $23,559,000,000.
+                            (B) Outlays, $22,295,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $23,915,000,000.
+                            (B) Outlays, $22,606,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $24,356,000,000.
+                            (B) Outlays, $23,024,000,000.
+            (18) Net Interest (900):
+                    Fiscal year 2012:
+                            (A) New budget authority, $372,558,000,000.
+                            (B) Outlays, $372,558,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $435,109,000,000.
+                            (B) Outlays, $435,109,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $508,435,000,000.
+                            (B) Outlays, $508,435,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $578,063,000,000.
+                            (B) Outlays, $578,063,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $648,083,000,000.
+                            (B) Outlays, $648,083,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $712,300,000,000.
+                            (B) Outlays, $712,300,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $769,605,000,000.
+                            (B) Outlays, $769,605,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $818,115,000,000.
+                            (B) Outlays, $818,115,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $864,371,000,000.
+                            (B) Outlays, $864,371,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $899,690,000,000.
+                            (B) Outlays, $899,690,000,000.
+            (19) Allowances (920):
+                    Fiscal year 2012:
+                            (A) New budget authority, -$6,299,000,000.
+                            (B) Outlays, -$2,626,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, -$4,386,000,000.
+                            (B) Outlays, -$5,545,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, -$10,247,000,000.
+                            (B) Outlays, -$11,263,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, -$16,340,000,000.
+                            (B) Outlays, -$16,946,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, -$22,243,000,000.
+                            (B) Outlays, -$22,809,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, -$27,786,000,000.
+                            (B) Outlays, -$27,637,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, -$33,072,000,000.
+                            (B) Outlays, -$32,959,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, -$38,404,000,000.
+                            (B) Outlays, -$38,286,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, -$43,684,000,000.
+                            (B) Outlays, -$43,594,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, -$49,060,000,000.
+                            (B) Outlays, -$48,947,000,000.
+            (20) Undistributed Offsetting Receipts (950):
+                    Fiscal year 2012:
+                            (A) New budget authority, -$84,517,000,000.
+                            (B) Outlays, -$84,517,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, -$81,449,000,000.
+                            (B) Outlays, -$81,449,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, -$82,695,000,000.
+                            (B) Outlays, -$82,695,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, -$84,857,000,000.
+                            (B) Outlays, -$84,857,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, -$85,946,000,000.
+                            (B) Outlays, -$85,946,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, -$91,248,000,000.
+                            (B) Outlays, -$91,248,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, -$97,099,000,000.
+                            (B) Outlays, -$97,099,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, -
+                        $101,718,000,000.
+                            (B) Outlays, -$101,718,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, -
+                        $105,645,000,000.
+                            (B) Outlays, -$105,645,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, -
+                        $110,174,000,000.
+                            (B) Outlays, -$110,174,000,000.
+            (21) Global War on Terrorism and related activities (970):
+                    Fiscal year 2012:
+                            (A) New budget authority, $126,544,000,000.
+                            (B) Outlays, $117,835,000,000.
+                    Fiscal year 2013:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $92,661,000,000.
+                    Fiscal year 2014:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $64,878,000,000.
+                    Fiscal year 2015:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $54,401,000,000.
+                    Fiscal year 2016:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $50,929,000,000.
+                    Fiscal year 2017:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $50,147,000,000.
+                    Fiscal year 2018:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $49,851,000,000.
+                    Fiscal year 2019:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $49,784,000,000.
+                    Fiscal year 2020:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $49,769,000,000.
+                    Fiscal year 2021:
+                            (A) New budget authority, $50,000,000,000.
+                            (B) Outlays, $49,769,000,000.
+
+ TITLE II--RECOMMENDED LEVELS AND AMOUNTS FOR FISCAL YEARS 2030, 2040, 
+                                AND 2050
+
+SEC. 201. POLICY STATEMENT ON LONG-TERM BUDGETING.
+
+    The following are the recommended budget levels for each of fiscal 
+years 2030, 2040, and 2050 as a percent of the gross domestic product 
+of the United States:
+            (1) Federal revenues.--The appropriate levels of Federal 
+        revenues are as follows:
+    Fiscal year 2030: 19 percent.
+    Fiscal year 2040: 19 percent.
+    Fiscal year 2050: 19 percent.
+            (2) Budget outlays.--The appropriate levels of total budget 
+        outlays are as follows:
+    Fiscal year 2030: 20.75 percent.
+    Fiscal year 2040: 18.75 percent.
+    Fiscal year 2050: 14.75 percent.
+            (3) Deficits.--The appropriate amounts of deficits are as 
+        follows:
+    Fiscal year 2030: -1.75 percent.
+    Fiscal year 2040: 0.25 percent.
+    Fiscal year 2050: 4.25 percent.
+            (4) Debt held by the public.--The appropriate levels of 
+        debt held by the public are as follows:
+    Fiscal year 2030: 64 percent.
+    Fiscal year 2040: 48 percent.
+    Fiscal year 2050: 10 percent.
+
+                 TITLE III--RESERVES AND CONTINGENCIES
+
+SEC. 301. COSTS OF THE GLOBAL WAR ON TERRORISM.
+
+    In the House, if any bill, joint resolution, amendment, or 
+conference report makes appropriations for fiscal year 2012 for the 
+global war on terrorism and other activities and such amounts are so 
+designated pursuant to this paragraph, then the allocation to the House 
+Committee on Appropriations and the discretionary spending limits set 
+forth in section 401 may be adjusted by the amounts provided in such 
+legislation for that purpose up to the amounts of budget authority 
+specified in section 102(21) for fiscal year 2012 and the new outlays 
+resulting therefrom.
+
+SEC. 302. EFFECTIVE DATE.
+
+    Section 3(c) of House Resolution 5 (112th Congress) shall have 
+force and effect through May 31, 2011.
+
+SEC. 303. RESERVE FUND FOR HEALTH CARE REFORM.
+
+    In the House, the chairman of the Committee on the Budget may 
+revise the allocations, aggregates, and other appropriate levels in 
+this resolution for the budgetary effects of any bill, joint 
+resolution, amendment, or conference report that repeals the Patient 
+Protection and Affordable Care Act or the Health Care and Education 
+Reconciliation Act of 2010.
+
+SEC. 304. RESERVE FUND FOR THE SUSTAINABLE GROWTH RATE OF THE MEDICARE 
+              PROGRAM.
+
+    In the House, the chairman of the Committee on the Budget may 
+revise the allocations, aggregates, and other appropriate levels in 
+this resolution for the budgetary effects of any bill, joint 
+resolution, amendment, or conference report that includes provisions 
+amending or superseding the system for updating payments under section 
+1848 of the Social Security Act, if such measure does not increase the 
+deficit in the period of fiscal years 2012 through 2021.
+
+SEC. 305. RESERVE FUND FOR DEFICIT-NEUTRAL REVENUE MEASURES.
+
+    If any bill reported by the Committee on Ways and Means, or 
+amendment thereto or conference report thereon, decreases revenue, the 
+chair of the Committee on the Budget may adjust the allocations and 
+aggregates of this concurrent resolution, if such measure would not 
+increase the deficit over the period of fiscal years 2012 through 2021.
+
+SEC. 306. DEFICIT-NEUTRAL RESERVE FUND FOR RURAL COUNTIES AND SCHOOLS.
+
+    In the House, the chairman of the Committee on the Budget may 
+revise the allocations of a committee or committees, aggregates, and 
+other appropriate levels and limits in this resolution for one or more 
+bills, joint resolutions, amendments, motions, or conference reports 
+that make changes to or provide for the reauthorization of the Secure 
+Rural Schools and Community Self Determination Act of 2000 (Public Law 
+106-393) or make changes to the Payments in Lieu of Taxes Act of 1976 
+(Public Law 94-565), or both, by the amounts provided by that 
+legislation for those purposes, provided that such legislation would 
+not increase the deficit or direct spending over either the period of 
+the total of fiscal years 2012 through 2021 or the period of the total 
+of fiscal years 2012 through 2016, or for fiscal year 2012.
+
+                      TITLE IV--BUDGET ENFORCEMENT
+
+SEC. 401. DISCRETIONARY SPENDING LIMITS.
+
+    (a) Discretionary Spending Limits.--Spending limits for total 
+discretionary Federal spending are--
+            fiscal year 2012--
+                    (1) new budget authority, $1,019,402,000,000; and
+                    (2) outlays, $1,170,384,000,000;
+            fiscal year 2013--
+                    (1) new budget authority, $1,027,896,000,000; and
+                    (2) outlays, $1,113,298,000,000;
+            fiscal year 2014--
+                    (1) new budget authority, $1,038,537,000,000; and
+                    (2) outlays, $1,094,740,000,000;
+            fiscal year 2015--
+                    (1) new budget authority, $1,046,680,000,000; and
+                    (2) outlays, $1,089,081,000,000;
+            fiscal year 2016--
+                    (1) new budget authority, $1,055,779,000,000; and
+                    (2) outlays, $1,093,043,000,000;
+            fiscal year 2017--
+                    (1) new budget authority, $1,067,794,000,000; and
+                    (2) outlays, $1,098,357,000,000;
+            fiscal year 2018--
+                    (1) new budget authority, $1,085,259,000,000; and
+                    (2) outlays, $1,105,668,000,000;
+            fiscal year 2019--
+                    (1) new budget authority, $1,103,802,000,000; and
+                    (2) outlays, $1,126,521,000,000;
+            fiscal year 2020--
+                    (1) new budget authority, $1,122,611,000,000; and
+                    (2) outlays, $1,145,102,000,000; and
+            fiscal year 2021--
+                    (1) new budget authority, $1,141,640,000,000; and
+                    (2) outlays, $1,167,939,000,000.
+    (b) Enforcement.--In the House, it shall not be in order to 
+consider any bill or joint resolution, or amendment thereto or 
+conference report thereon, that causes discretionary budget authority 
+to exceed any level set forth in subsection (a).
+
+SEC. 402. LIMITATION ON ADVANCE APPROPRIATIONS.
+
+    (a) In General.--In the House, except as provided in subsection 
+(b), any bill, joint resolution, an amendment thereto or conference 
+report thereon, making a general appropriation or continuing 
+appropriation may not provide for advance appropriations.
+    (b) Exceptions.--An advance appropriation may be provided for 
+programs, projects, activities, or accounts referred to in subsection 
+(c)(1) or identified in the report to accompany this resolution or the 
+joint explanatory statement of managers to accompany this resolution 
+under the heading ``Accounts Identified for Advance Appropriations''.
+    (c) Limitations.--For fiscal year 2013, the aggregate amount of 
+advance appropriation shall not exceed--
+            (1) $52,541,000,000 for the following programs in the 
+        Department of Veterans Affairs--
+                    (A) Medical Services;
+                    (B) Medical Support and Compliance; and
+                    (C) Medical Facilities accounts of the Veterans 
+                Health Administration; and
+            (2) $28,852,000,000 in new budget authority for all other 
+        programs.
+    (d) Definition.--In this section, the term ``advance 
+appropriation'' means any new discretionary budget authority provided 
+in a bill or joint resolution making general appropriations or any new 
+discretionary budget authority provided in a bill or joint resolution 
+making continuing appropriations for fiscal year 2013.
+    (e) Adjustments.--The chairman of the Committee on the Budget may 
+adjust the list referred to in subsection (b) or the amount set forth 
+in subsection (c)(2) to accommodate the enactment of general or 
+continuing appropriation Acts for fiscal year 2011.
+
+SEC. 403. CONCEPTS AND DEFINITIONS.
+
+    Upon the enactment of any bill or joint resolution providing for a 
+change in budgetary concepts or definitions, the chairman of the 
+Committee on the Budget may adjust any appropriate levels and 
+allocations in this resolution accordingly.
+
+SEC. 404. ADJUSTMENTS OF AGGREGATES AND ALLOCATIONS FOR LEGISLATION.
+
+    (a) Enforcement.--For purposes of enforcing this resolution, the 
+revenue levels shall be those set forth in the March 2011 Congressional 
+Budget Office baseline. The total amount of adjustments made under 
+subsection (b) may not cause revenue levels to be below the levels set 
+forth in paragraph (1)(A) of section 101 for fiscal year 2012 and the 
+period comprising fiscal years 2012 to 2021.
+    (b) Adjustments.--(1) The chairman of the Committee on the Budget 
+may adjust the allocations and aggregates of this concurrent resolution 
+for--
+            (A) the budgetary effects of measures extending the 
+        Economic Growth and Tax Relief Reconciliation Act of 2001;
+            (B) the budgetary effects of measures extending the Jobs 
+        and Growth Tax Relief Reconciliation Act of 2003;
+            (C) the budgetary effects of measures that adjust the 
+        Alternative Minimum Tax exemption amounts to prevent a larger 
+        number of taxpayers as compared with tax year 2008 from being 
+        subject to the Alternative Minimum Tax or of allowing the use 
+        of nonrefundable personal credits against the Alternative 
+        Minimum Tax, or both as applicable;
+            (D) the budgetary effects of extending the estate, gift, 
+        and generation-skipping transfer tax provisions of title III of 
+        the Tax Relief, Unemployment Insurance Reauthorization, and Job 
+        Creation Act of 2010;
+            (E) the budgetary effects of measures providing a 20 
+        percent deduction in income to small businesses;
+            (F) the budgetary effects of measures implementing trade 
+        agreements;
+            (G) the budgetary effects of measures repealing the tax 
+        increases set forth in the Patient Protection and Affordable 
+        Care Act and the Health Care and Education Affordability 
+        Reconciliation Act of 2010;
+            (H) the budgetary effects of measures reforming the Patient 
+        Protection and Affordable Care Act and the Health Care and 
+        Education Affordability Reconciliation Act of 2010; and
+            (I) the budgetary effects of measures reforming the tax 
+        code and lowering tax rates.
+    (2) A measure does not qualify for adjustments under paragraph 
+(1)(H) if it--
+            (A) increases the deficit over the period of fiscal years 
+        2012 through 2021; or
+            (B) increases revenues over the period of fiscal years 2012 
+        through 2021, other than by--
+                    (i) repealing or modifying the individual mandate 
+                (codified as section 5000A of the Internal Revenue Code 
+                of 1986); or
+                    (ii) modifying the subsidies to purchase health 
+                insurance (codified as section 36B of the Internal 
+                Revenue Code of 1986).
+    (c) Other Adjustments.--If a committee other than the Committee on 
+Appropriations reports a bill or joint resolution, or an amendment 
+thereto or a conference report thereon, providing for a decrease in 
+direct spending (budget authority and outlays flowing therefrom) for 
+any fiscal year and also provides for an authorization of 
+appropriations for the same purpose, upon the enactment of such 
+measure, the chairman of the Committee on the Budget may decrease the 
+allocation to such committee and increase the allocation of 
+discretionary spending (budget authority and outlays flowing therefrom) 
+to the Committee on Appropriations for fiscal year 2012 and the 
+applicable discretionary spending limits by an amount equal to the new 
+budget authority (and the outlays flowing therefrom) provided for in a 
+bill or joint resolution making appropriations for the same purpose.
+
+SEC. 405. LIMITATION ON LONG-TERM SPENDING.
+
+    (a) In General.--In the House, it shall not be in order to consider 
+a bill or joint resolution reported by a committee (other than the 
+Committee on Appropriations), or an amendment thereto or a conference 
+report thereon, if the provisions of such measure have the net effect 
+of increasing mandatory spending in excess of $5,000,000,000 for any 
+period described in subsection (b).
+    (b) Time Periods.--(1) The applicable periods for purposes of this 
+section are any of the first four consecutive 10-fiscal-year periods 
+beginning with the first fiscal year following the last fiscal year for 
+which the applicable concurrent resolution on the budget sets forth 
+appropriate budgetary levels.
+    (2) In this paragraph, the applicable concurrent resolution on the 
+budget is the one most recently adopted before the date on which a 
+committee first reported the bill or joint resolution described in 
+paragraph (1).
+
+SEC. 406. BUDGETARY TREATMENT OF CERTAIN TRANSACTIONS.
+
+    (a) In General.--Notwithstanding section 302(a)(1) of the 
+Congressional Budget Act of 1974, section 13301 of the Budget 
+Enforcement Act of 1990, and section 4001 of the Omnibus Budget 
+Reconciliation Act of 1989, the joint explanatory statement 
+accompanying the conference report on any concurrent resolution on the 
+budget shall include in its allocation under section 302(a) of the 
+Congressional Budget Act of 1974 to the Committee on Appropriations 
+amounts for the discretionary administrative expenses of the Social 
+Security Administration and the United States Postal Service.
+    (b) Special Rule.--For purposes of applying section 302(f) of the 
+Congressional Budget Act of 1974, estimates of the level of total new 
+budget authority and total outlays provided by a measure shall include 
+any off-budget discretionary amounts.
+    (c) Adjustments.--The chairman of the Committee on the Budget may 
+adjust allocations and aggregates for legislation reported by the 
+Committee on Oversight and Government Reform that reforms the Federal 
+retirement system, but does not cause a net increase in the deficit for 
+fiscal year 2012 and the period comprising fiscal years 2012 to 2021.
+
+SEC. 407. APPLICATION AND EFFECT OF CHANGES IN ALLOCATIONS AND 
+              AGGREGATES.
+
+    (a) Application.--Any adjustments of allocations and aggregates 
+made pursuant to this resolution shall--
+            (1) apply while that measure is under consideration;
+            (2) take effect upon the enactment of that measure; and
+            (3) be published in the Congressional Record as soon as 
+        practicable.
+    (b) Effect of Changed Allocations and Aggregates.--Revised 
+allocations and aggregates resulting from these adjustments shall be 
+considered for the purposes of the Congressional Budget Act of 1974 as 
+allocations and aggregates included in this resolution.
+    (c) Budget Committee Determinations.--For purposes of this 
+resolution, the levels of new budget authority, outlays, direct 
+spending, new entitlement authority, revenues, deficits, and surpluses 
+for a fiscal year or period of fiscal years shall be determined on the 
+basis of estimates made by the Committee on the Budget.
+    (d) Exemptions.--Any legislation for which the chairman of the 
+Committee on the Budget makes adjustments in the allocations and 
+aggregates of this concurrent resolution on the budget and complies 
+with the Congressional Budget Act of 1974 shall not be subject to the 
+points of order set forth in clause 10 of rule XXI of the Rules of the 
+House of Representatives or section 405.
+
+SEC. 408. FAIR VALUE ESTIMATES.
+
+    (a) Request for Supplemental Estimates.--Upon the request of the 
+chairman or ranking member of the Committee on the Budget, any estimate 
+prepared for a measure under the terms of title V of the Congressional 
+Budget Act of 1974, ``credit reform'', as a supplement to such estimate 
+of the Congressional Budget Office shall, to the extent practicable, 
+also provide an estimate of the current actual or estimated market 
+values representing the ``fair value'' of assets and liabilities 
+affected by such measure.
+    (b) Enforcement.--If the Congressional Budget Office provides an 
+estimate pursuant to subsection (a), the chairman of the Committee on 
+the Budget may use such estimate to determine compliance with the 
+Congressional Budget Act of 1974 and other budgetary enforcement 
+controls.
+
+SEC. 409. EXERCISE OF RULEMAKING POWERS.
+
+    (a) In General.--The House adopts the provisions of this title--
+            (1) as an exercise of the rulemaking power of the House of 
+        Representatives and as such they shall be considered as part of 
+        the rules of the House, and these rules shall supersede other 
+        rules only to the extent that they are inconsistent with other 
+        such rules; and
+            (2) with full recognition of the constitutional right of 
+        the House of Representatives to change those rules at any time, 
+        in the same manner, and to the same extent as in the case of 
+        any other rule of the House of Representatives.
+    (b) Limitation on Application.--The following provisions of H. Res. 
+5 (112th Congress) shall no longer have force or effect:
+            (1) Section 3(e) relating to advance appropriations.
+            (2) Section 3(f) relating to the treatment of off-budget 
+        administrative expenses.
+            (3) Section 3(g) relating to a long-term spending point of 
+        order.
+
+                            TITLE V--POLICY
+
+SEC. 501. POLICY STATEMENT ON MEDICARE.
+
+    (a) Findings.--The House finds the following:
+            (1) More than 46 million Americans depend on Medicare for 
+        their health security.
+            (2) The Medicare Trustees report has repeatedly recommended 
+        that Medicare's long-term financial challenges be addressed 
+        soon. Each year without reform, the financial condition of 
+        Medicare becomes more precarious and the threat to those in and 
+        near retirement becomes more pronounced. According to the 
+        Congressional Budget Office--
+                    (A) the Hospital Insurance Trust Fund will be 
+                exhausted in 2020 and unable to pay scheduled benefits; 
+                and
+                    (B) Medicare spending is growing faster than the 
+                economy. Medicare outlays are currently rising at a 
+                rate of 7.2 percent per year, and under CBO's 
+                alternative fiscal scenario, mandatory spending on 
+                Medicare is projected to reach 7 percent of GDP by 2035 
+                and 14 percent of GDP by 2080.
+            (3) Failing to address this problem will leave millions of 
+        American seniors without adequate health security and younger 
+        generations burdened with enormous debt to pay for spending 
+        levels that cannot be sustained.
+    (b) Policy on Medicare Reform.--It is the policy of this resolution 
+to protect those in and near retirement from any disruptions to their 
+Medicare benefits and offer future beneficiaries the same health care 
+options available to Members of Congress.
+    (c) Assumptions.--This resolution assumes reform of the Medicare 
+program such that:
+            (1) Current Medicare benefits are preserved for those in 
+        and near retirement, without changes.
+            (2) For future generations, when they reach eligibility, 
+        Medicare is reformed to provide a premium support payment and a 
+        selection of guaranteed health coverage options from which 
+        recipients can choose a plan that best suits their needs.
+            (3) Medicare will provide additional assistance for lower-
+        income beneficiaries and those with greater health risks.
+            (4) Medicare spending is put on a sustainable path and the 
+        Medicare program becomes solvent over the long-term.
+
+SEC. 502. POLICY STATEMENT ON SOCIAL SECURITY.
+
+    (a) Findings.--The House finds the following:
+            (1) More than 50 million retirees and individuals with a 
+        disability depend on Social Security for a key part of their 
+        income. Since enactment, Social Security has served as a vital 
+        leg on the ``three-legged stool'' of retirement security, which 
+        includes employer provided pensions as well as personal 
+        savings.
+            (2) The Social Security Trustees report has repeatedly 
+        recommended that Social Security's long-term financial 
+        challenges be addressed soon. Each year without reform, the 
+        financial condition of Social Security becomes more precarious 
+        and the threat to seniors and those receiving Social Security 
+        disability benefits becomes more pronounced:
+                    (A) In 2018, the Federal Disability Insurance Trust 
+                Fund will be exhausted and will be unable to pay 
+                scheduled benefits.
+                    (B) In 2037, the combined Federal Old-Age and 
+                Survivors Insurance Trust Fund and Federal Disability 
+                Insurance Trust Fund will be exhausted, and will be 
+                unable to pay scheduled benefits.
+                    (C) With the exhaustion of the Trust Funds in 2037, 
+                benefits will be cut 22 percent across the board, 
+                devastating those currently in or near retirement and 
+                those who rely on Social Security the most.
+            (3) The current recession has exacerbated the crisis to 
+        Social Security. The most recent CBO projections find that 
+        Social Security has entered into permanent cash deficits.
+            (4) Lower-income Americans rely on Social Security for a 
+        larger proportion of their retirement income. Therefore, 
+        reforms should take into consideration the need to protect 
+        lower-income Americans' retirement security.
+            (5) Americans deserve action by their elected officials on 
+        Social Security reform. It is critical that the Congress and 
+        the administration work together in a bipartisan fashion to 
+        address the looming insolvency of Social Security. In this 
+        spirit, this resolution creates a bipartisan opportunity to 
+        find solutions by requiring policymakers to ensure that Social 
+        Security remains a critical part fo the safety net.
+    (b) Policy on Social Security.--It is the policy of this resolution 
+that Congress should work on a bipartisan basis to make Social Security 
+permanently solvent. This resolution assumes reform of a current law 
+trigger, such that--
+            (1)(A) if in any year the Board of Trustees of the Federal 
+        Old-Age and Survivors Insurance Trust Fund and the Federal 
+        Disability Insurance Trust Fund in its annual Trustees' Report 
+        determines that the 75-year actuarial balance of the Social 
+        Security Trust Funds is in deficit, and the annual balance of 
+        the Social Security Trust Funds in the 75th year is in deficit, 
+        the Board of Trustees should, not later than September 30 of 
+        the same calendar year, submit to the President recommendations 
+        for statutory reforms necessary to achieve a positive 75-year 
+        actuarial balance and a positive annual balance in the 75th 
+        year; and
+            (B) such recommendations provided to the President should 
+        be agreed upon by both Public Trustees of the Board of 
+        Trustees;
+            (2)(A) not later than December 1 of the same calendar year 
+        in which the Board of Trustees submits its recommendations, the 
+        President shall promptly submit implementing legislation to 
+        both Houses of Congress, including recommendations necessary to 
+        achieve a positive 75-year actuarial balance and a positive 
+        annual balance in the 75th year; and
+            (B) the Majority Leader of the Senate and the Majority 
+        Leader of the House should introduce such legislation upon 
+        receipt;
+            (3) within 60 days of the President submitting legislation, 
+        the committees of jurisdiction to which the legislation has 
+        been referred should report such legislation, which should be 
+        considered by the full House or Senate under expedited 
+        procedures; and
+            (4) legislation submitted by the President should--
+                    (A) protect those in and near retirement;
+                    (B) preserve the safety net for those who rely on 
+                Social Security, including survivors and those with 
+                disabilities;
+                    (C) improve fairness for participants; and
+                    (D) reduce the burden on, and provide certainty 
+                for, future generations.
+
+SEC. 503. POLICY STATEMENT ON BUDGET ENFORCEMENT.
+
+    (a) Findings.--The House finds the following:
+            (1) The President's fiscal year 2012 budget requests a $13 
+        trillion increase in the debt subject to limit over the period 
+        of years covered by the budget.
+            (2) Under the President's fiscal year 2012 budget, 
+        according to the Congressional Budget Office, debt held by the 
+        public will rise to 69 percent of gross domestic product in 
+        2011 and will reach 87.4 percent of gross domestic product by 
+        2021.
+            (3) The Congressional Budget Office, the Federal Reserve, 
+        the General Accountability Office, the President's National 
+        Commission on Fiscal Responsibility and Reform, and ten former 
+        Chairmen of the Council of Economic Advisors all concluded that 
+        debt is growing at unsustainable rates and must be brought 
+        under control.
+            (4) Admiral Mike Mullen, Chairman of the Joint Chiefs of 
+        Staff, stated, ``Our national debt is our biggest national 
+        security threat.''.
+            (5) According to the Congressional Budget Office, if 
+        entitlements are not reformed, entitlement spending on Social 
+        Security, Medicare, and Medicaid will exceed the historical 
+        average of revenue collections as a share of the economy within 
+        forty years.
+            (6) According to the Congressional Budget Office, under 
+        current policies, debt would reach levels that the economy 
+        could no longer sustain in 2037 and a fiscal crisis is likely 
+        to occur well before that date.
+            (7) To avoid a fiscal crisis, Congress must enact 
+        legislation that makes structural reforms to entitlement 
+        programs.
+            (8) Instead of automatic debt increases (the ``Gephardt 
+        rule'' was repealed by the House in House Resolution 5) and 
+        automatic spending increases, Congress needs to put limits on 
+        spending with automatic reductions if spending limits are not 
+        met.
+            (9) The adoption of a conference report on this concurrent 
+        resolution will not cause the automatic passage of an increase 
+        in the debt limit by the House of Representatives.
+            (10) Changes in debt levels assumed in this resolution are 
+        contingent upon its proposed spending reductions being 
+        achieved.
+            (11) From 1990 to 2002, there were statutory enforceable 
+        limits on discretionary spending.
+            (12) The budget lacks controls over spending in the short-
+        term and the long-term. Greater transparency and controls, 
+        particularly for entitlement spending in the long-term, are 
+        needed to provide Congress with tools to tackle this growing 
+        threat of a fiscal crisis.
+    (b) Policy on Debt Controls.--It is the policy of this concurrent 
+resolution on the budget that in order to begin to bring debt under 
+control the following statutory spending and debt controls are needed:
+            (1) Enforceable statutory caps on discretionary spending at 
+        levels set forth in this fiscal year 2012 concurrent resolution 
+        on the budget for the period of fiscal years 2012 through 2021.
+            (2) Any increase in the statutory debt limit be accompanied 
+        by the enactment of a budget enforcement mechanism to ensure 
+        that if spending reductions are not achieved there would be--
+                    (A) an across-the-board reduction in spending at 
+                the end of the year;
+                    (B) a fast-track process or failsafe mechanism to 
+                give Congress the ability to expedite consideration of 
+                legislation to reduce spending and avoid the automatic 
+                across-the-board spending reductions; and
+                    (C) an exemption of Social Security from these 
+                enforcement mechanisms, with Social Security solvency 
+                ensured as provide in section 502.
+            (3) Limits on total spending with long-term structural 
+        reforms that--
+                    (A) require--
+                            (i) the Office of Management and Budget and 
+                        the Congressional Budget Office to make long-
+                        term budget projections (similar to the 
+                        timeframes of projections made by the Social 
+                        Security and Medicare trustees);
+                            (ii) the inclusion of the estimated long-
+                        term fiscal impact of the President's budget in 
+                        the President's annual budget submission;
+                            (iii) in the Congressional Budget Office's 
+                        reestimate of the President's budget, an 
+                        estimate of the long-term impact of the 
+                        President's budget; and
+                            (iv) in Congressional Budget Office 
+                        estimates on legislation, an estimate of the 
+                        long-term impact of legislation that has a 
+                        significant impact on the long-term budget;
+                    (B) require enactment of enforceable caps on total 
+                spending as a share of gross domestic product as set 
+                forth in this resolution;
+                    (C) require the review by Congress of Congressional 
+                Budget Office projections relative to the statutory 
+                caps and enactment of legislation to reduce spending to 
+                meet those caps;
+                    (D) require enactment of an enforcement mechanism 
+                to ensure that if these spending reductions are not 
+                achieved, there would be an across-the-board reduction 
+                in spending at the end of the year;
+                    (E) require enactment of a fast-track process or 
+                failsafe mechanism to provide Congress with the ability 
+                to expedite consideration of legislation to reduce 
+                spending and avoid the automatic across-the-board 
+                spending reductions; and
+                    (F) exempt Social Security from these enforcement 
+                mechanisms, with Social Security solvency ensured as 
+                provided in section 501.
+
+                TITLE VI--SENSE OF THE HOUSE PROVISIONS
+
+SEC. 601. SENSE OF THE HOUSE ON A RESPONSIBLE DEFICIT REDUCTION PLAN 
+              MUST CONSIDER ALL PROGRAMS, INCLUDING THOSE AT THE 
+              PENTAGON AND THE OTHER NATIONAL SECURITY AGENCIES.
+
+    It is the sense of the House that the Nation's debt is an immense 
+security threat to our country, just as Admiral Mullen, Chairman of the 
+Joint Chiefs of Staff, has stated; the Government Accountability Office 
+has recently issued a report documenting billions of dollars of waste 
+and duplication at Government agencies, including the Department of 
+Defense, and the Department of Defense has never passed a clean audit; 
+the bipartisan National Commission on Fiscal Responsibility and Reform 
+and the bipartisan Rivlin-Domenici Debt Reduction Task Force were 
+correct in concluding that all programs, including national security, 
+should be ``on the table'' as part of a deficit reduction plan; and any 
+budget plan serious about reducing the deficit must follow this precept 
+to consider all programs, including national security programs, the 
+largest segment of discretionary spending.
+
+SEC. 602. SENSE OF THE HOUSE REGARDING THE IMPORTANCE OF CHILD SUPPORT 
+              ENFORCEMENT.
+
+    It is the sense of the House that--
+            (1) additional legislative action is needed to ensure that 
+        States have the necessary resources to collect all child 
+        support that is owed to families and allow them to pass 100 
+        percent of support on to families without financial penalty; 
+        and
+            (2) when 100 percent of child support payments are passed 
+        to the child, rather than administrative expenses, program 
+        integrity is improved and child support participation 
+        increases.
+
+            Passed the House of Representatives April 15, 2011.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+
+
+
+
+                                                        Calendar No. 36
+
+112th CONGRESS
+
+  1st Session
+
+                            H. CON. RES. 34
+
+_______________________________________________________________________
+
+                         CONCURRENT RESOLUTION
+
+  Establishing the budget for the United States Government for fiscal 
+  year 2012 and setting forth appropriate budgetary levels for fiscal 
+                        years 2013 through 2021.
+
+_______________________________________________________________________
+
+                              May 2, 2011
+
+    Received and referred to the Committee on the Budget; committee 
+  discharged pursuant to Section 300 of the Congressional Budget Act; 
+                         placed on the calendar

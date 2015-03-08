@@ -1,0 +1,361 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2074 Referred in Senate (RFS)]
+
+112th CONGRESS
+  1st Session
+                                H. R. 2074
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 12, 2011
+
+Received; read twice and referred to the Committee on Veterans' Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To amend title 38, United States Code, to require a comprehensive 
+  policy on reporting and tracking sexual assault incidents and other 
+safety incidents that occur at medical facilities of the Department of 
+Veterans Affairs, to improve rehabilitative services for veterans with 
+            traumatic brain injury, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Veterans Sexual Assault Prevention 
+and Health Care Enhancement Act''.
+
+SEC. 2. COMPREHENSIVE POLICY ON REPORTING AND TRACKING SEXUAL ASSAULT 
+              INCIDENTS AND OTHER SAFETY INCIDENTS.
+
+    (a) Policy.--Subchapter I of chapter 17 of title 38, United States 
+Code, is amended by adding at the end the following:
+``Sec. 1709. Comprehensive policy on reporting and tracking sexual 
+              assault incidents and other safety incidents
+    ``(a) Policy Required.--Not later than March 1, 2012, the Secretary 
+of Veterans Affairs shall develop and implement a centralized and 
+comprehensive policy on the reporting and tracking of sexual assault 
+incidents and other safety incidents that occur at each medical 
+facility of the Department, including--
+            ``(1) suspected, alleged, attempted, or confirmed cases of 
+        sexual assault, regardless of whether such assaults lead to 
+        prosecution or conviction;
+            ``(2) criminal and purposefully unsafe acts;
+            ``(3) alcohol or substance abuse related acts (including by 
+        employees of the Department); and
+            ``(4) any kind of event involving alleged or suspected 
+        abuse of a patient.
+    ``(b) Scope.--The policy required by subsection (a) shall cover 
+each of the following:
+            ``(1) For purposes of reporting and tracking sexual assault 
+        incidents and other safety incidents, definitions of the 
+        terms--
+                    ``(A) `safety incident';
+                    ``(B) `sexual assault'; and
+                    ``(C) `sexual assault incident'.
+            ``(2) The development and use of specific risk-assessment 
+        tools to examine any risks related to sexual assault that a 
+        veteran may pose while being treated at a medical facility of 
+        the Department, including clear and consistent guidance on the 
+        collection of information related to--
+                    ``(A) the legal history of the veteran; and
+                    ``(B) the medical record of the veteran.
+            ``(3) The mandatory training of employees of the Department 
+        on security issues, including awareness, preparedness, 
+        precautions, and police assistance.
+            ``(4) The mandatory implementation, use, and regular 
+        testing of appropriate physical security precautions and 
+        equipment, including surveillance camera systems, computer-
+        based panic alarm systems, stationary panic alarms, and 
+        electronic portable personal panic alarms.
+            ``(5) Clear, consistent, and comprehensive criteria and 
+        guidance with respect to an employee of the Department 
+        communicating and reporting sexual assault incidents and other 
+        safety incidents to--
+                    ``(A) supervisory personnel of the employee at--
+                            ``(i) a medical facility of the Department;
+                            ``(ii) an office of a Veterans Integrated 
+                        Service Network; and
+                            ``(iii) the central office of the Veterans 
+                        Health Administration; and
+                    ``(B) a law enforcement official of the Department.
+            ``(6) Clear and consistent criteria and guidelines with 
+        respect to an employee of the Department referring and 
+        reporting to the Office of Inspector General of the Department 
+        sexual assault incidents and other safety incidents that meet 
+        the regulatory criminal threshold in accordance with section 
+        1.201 and 1.204 of title 38, Code of Federal Regulations.
+            ``(7) An accountable oversight system within the Veterans 
+        Health Administration that includes--
+                    ``(A) systematic information sharing of reported 
+                sexual assault incidents and other safety incidents 
+                among officials of the Administration who have 
+                programmatic responsibility; and
+                    ``(B) a centralized reporting, tracking, and 
+                monitoring system for such incidents.
+            ``(8) Consistent procedures and systems for law enforcement 
+        officials of the Department with respect to investigating, 
+        tracking, and closing reported sexual assault incidents and 
+        other safety incidents.
+            ``(9) Clear and consistent guidance for the clinical 
+        management of the treatment of sexual assaults that are 
+        reported more than 72 hours after the assault.
+    ``(c) Updates to Policy.--The Secretary shall review and revise the 
+policy required by subsection (a) on a periodic basis as the Secretary 
+considers appropriate and in accordance with best practices.
+    ``(d) Annual Report.--(1) Not later than 60 days after the date on 
+which the Secretary develops the policy required by subsection (a), and 
+by not later than October 1 of each year thereafter, the Secretary 
+shall submit to the Committee on Veterans' Affairs of the House of 
+Representatives and the Committee on Veterans' Affairs of the Senate a 
+report on the implementation of the policy.
+    ``(2) The report under paragraph (1) shall include--
+            ``(A) the number and type of sexual assault incidents and 
+        other safety incidents reported by each medical facility of the 
+        Department;
+            ``(B) a detailed description of the implementation of the 
+        policy required by subsection (a), including any revisions made 
+        to such policy from the previous year; and
+            ``(C) the effectiveness of such policy on improving the 
+        safety and security of the medical facilities of the 
+        Department, including the performance measures used to evaluate 
+        such effectiveness.
+    ``(e) Regulations.--The Secretary shall prescribe regulations to 
+carry out this section.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by adding after the item relating to section 
+1708 the following:
+
+``1709. Comprehensive policy on reporting and tracking sexual assault 
+                            incidents and other safety incidents.''.
+    (c) Interim Report.--Not later than 30 days after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs shall submit 
+to the Committee on Veterans' Affairs of the House of Representatives 
+and the Committee on Veterans' Affairs of the Senate a report on the 
+development of the performance measures described in section 
+1709(d)(2)(C) of title 38, United States Code, as added by subsection 
+(a).
+
+SEC. 3. INCREASED FLEXIBILITY IN ESTABLISHING PAYMENT RATES FOR NURSING 
+              HOME CARE PROVIDED BY STATE HOMES.
+
+    (a) In General.--
+            (1) Contracts and agreements for nursing home care.--
+        Section 1745(a) of title 38, United States Code, is amended--
+                    (A) in paragraph (1), by striking ``The Secretary 
+                shall pay each State home for nursing home care at the 
+                rate determined under paragraph (2)'' and inserting 
+                ``The Secretary shall enter into a contract (or 
+                agreement under section 1720(c)(1) of this title) with 
+                each State home for payment by the Secretary for 
+                nursing home care provided in the home''; and
+                    (B) by striking paragraph (2) and inserting the 
+                following new paragraph (2):
+    ``(2) Payment under each contract (or agreement) between the 
+Secretary and a State home under paragraph (1) shall be based on a 
+methodology, developed by the Secretary in consultation with the State 
+home, to adequately reimburse the State home for the care provided by 
+the State home under the contract (or agreement).''.
+            (2) State nursing homes.--Section 1720(c)(1)(A) of such 
+        title is amended--
+                    (A) in clause (i), by striking ``; and'' and 
+                inserting a semicolon;
+                    (B) in clause (ii), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new clause:
+            ``(iii) a provider of services eligible to enter into a 
+        contract pursuant to section 1745(a) of this title who is not 
+        otherwise described in clause (i) or (ii).''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to care provided on or after January 1, 2012.
+
+SEC. 4. REHABILITATIVE SERVICES FOR VETERANS WITH TRAUMATIC BRAIN 
+              INJURY.
+
+    (a) Rehabilitation Plans and Services.--Section 1710C of title 38, 
+United States Code, is amended--
+            (1) in subsection (a)(1), by inserting before the semicolon 
+        the following: ``with the goal of maximizing the individual's 
+        independence'';
+            (2) in subsection (b)--
+                    (A) in paragraph (1)--
+                            (i) by inserting ``(and sustaining 
+                        improvement in)'' after ``improving'';
+                            (ii) by inserting ``behavioral,'' after 
+                        ``cognitive'';
+                    (B) in paragraph (2), by inserting ``rehabilitative 
+                services and'' before ``rehabilitative components''; 
+                and
+                    (C) in paragraph (3)--
+                            (i) by striking ``treatments'' the first 
+                        place it appears and inserting ``services''; 
+                        and
+                            (ii) by striking ``treatments and'' the 
+                        second place it appears; and
+            (3) by adding at the end the following new subsection:
+    ``(h) Rehabilitative Services Defined.--For purposes of this 
+section, and sections 1710D and 1710E of this title, the term 
+`rehabilitative services' includes--
+            ``(1) rehabilitative services, as defined in section 1701 
+        of this title;
+            ``(2) treatment and services (which may be of ongoing 
+        duration) to sustain, and prevent loss of, functional gains 
+        that have been achieved; and
+            ``(3) any other rehabilitative services or supports that 
+        may contribute to maximizing an individual's independence.''.
+    (b) Rehabilitation Services in Comprehensive Program for Long-term 
+Rehabilitation.--Section 1710D(a) of title 38, United States Code, is 
+amended--
+            (1) by inserting ``and rehabilitative services (as defined 
+        in section 1710C of this title)'' after ``long-term care''; and
+            (2) by striking ``treatment''.
+    (c) Rehabilitation Services in Authority for Cooperative Agreements 
+for Use of Non-Department Facilities for Rehabilitation.--Section 
+1710E(a) of title 38, United States Code, is amended by inserting ``, 
+including rehabilitative services (as defined in section 1710C of this 
+title),'' after ``medical services''.
+    (d) Technical Amendment.--Section 1710C(c)(2)(S) of title 38, 
+United States Code, is amended by striking ``opthamologist'' and 
+inserting ``ophthalmologist''.
+
+SEC. 5. USE OF SERVICE DOGS ON PROPERTY OF THE DEPARTMENT OF VETERANS 
+              AFFAIRS.
+
+    Section 901 of title 38, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(f) The Secretary may not prohibit the use of service dogs in any 
+facility or on any property of the Department or in any facility or on 
+any property that receives funding from the Secretary.''.
+
+SEC. 6. DEPARTMENT OF VETERANS AFFAIRS PILOT PROGRAM ON DOG TRAINING 
+              THERAPY.
+
+    (a) In General.--Commencing not later than 120 days after the date 
+of the enactment of this Act, the Secretary of Veterans Affairs shall 
+implement a three-year pilot program for the purpose of assessing the 
+effectiveness of using dog training activities as a component of 
+integrated post-deployment mental health and post-traumatic stress 
+disorder rehabilitation programs at Department of Veterans Affairs 
+medical centers to positively affect veterans with post-deployment 
+mental health conditions and post-traumatic stress disorder symptoms 
+and, through such activities, to produce specially trained dogs that 
+meet criteria for becoming service dogs for veterans with disabilities.
+    (b) Location of Pilot Program.--The pilot program shall be carried 
+out at one Department of Veterans Affairs medical center selected by 
+the Secretary for such purpose at a location other than in the 
+Department of Veterans Affairs Palo Alto health care system in Palo 
+Alto, California. In selecting a medical center for the pilot program, 
+the Secretary shall--
+            (1) ensure that the medical center selected--
+                    (A) has an established mental health rehabilitation 
+                program that includes a clinical focus on 
+                rehabilitation treatment of post-deployment mental 
+                health conditions and post-traumatic stress disorder; 
+                and
+                    (B) has a demonstrated capability and capacity to 
+                incorporate service dog training activities into the 
+                rehabilitation program; and
+            (2) shall review and consider using recommendations 
+        published by Assistance Dogs International, International Guide 
+        Dog Federation, or comparably recognized experts in the art and 
+        science of basic dog training with regard to space, equipments, 
+        and methodologies.
+    (c) Design of Pilot Program.--In carrying out the pilot program, 
+the Secretary shall--
+            (1) administer the program through the Department of 
+        Veterans Affairs Patient Care Services Office as a 
+        collaborative effort between the Rehabilitation Office and the 
+        Office of Mental Health Services;
+            (2) ensure that the national pilot program lead of the 
+        Patient Care Services Office has sufficient administrative 
+        experience to oversee the pilot program;
+            (3) establish partnerships through memorandums of 
+        understanding with Assistance Dogs International organizations, 
+        International Guide Dog Federation organizations, academic 
+        affiliates, or organizations with equivalent credentials with 
+        experience in teaching others to train service dogs for the 
+        purpose of advising the Department of Veterans Affairs 
+        regarding the design, development, and implementation of pilot 
+        program;
+            (4) ensure that the pilot program site has a service dog 
+        training instructor;
+            (5) ensure that dogs selected for use in the program meet 
+        all health clearance, age, and temperament criteria as outlined 
+        by Assistance Dogs International, International Guide Dog 
+        Federation, or an organization with equivalent credentials and 
+        the Centers for Disease Control and Prevention;
+            (6) consider dogs residing in animal shelters or foster 
+        homes for participation in the program if such dogs meet the 
+        selection criteria under this subsection; and
+            (7) ensure that each dog selected for the program is taught 
+        all basic commands and behaviors essential to being accepted by 
+        an accredited service dog training organization to be partnered 
+        with a disabled veteran for final individualized service dog 
+        training tailored to meet the needs of the veteran.
+    (d) Veteran Participation.--A veteran who is enrolled in the health 
+care system established under section 1705(a) of title 38, United 
+States Code, and is diagnosed with post-traumatic stress disorder or 
+another post-deployment mental health condition may volunteer to 
+participate in the pilot program required by subsection (a) of this 
+section and may participate in the program if the Secretary determines 
+that adequate program resources are available for such veteran to 
+participate at the pilot program site.
+    (e) Hiring Preference.--In hiring service dog training instructors 
+for the pilot program required by subsection (a), the Secretary shall 
+give a preference to veterans in accordance with section 2108 and 3309 
+of title 5, United States Code.
+    (f) Collection of Data.--The Secretary shall collect data on the 
+pilot program required by subsection (a) to determine the effectiveness 
+of the program in positively affecting veterans with post-traumatic 
+stress disorder or other post-deployment mental health condition 
+symptoms and the potential for expanding the program to additional 
+Department of Veterans Affairs medical centers. Such data shall be 
+collected and analyzed using valid and reliable methodologies and 
+instruments.
+    (g) Reports to Congress.--
+            (1) Annual reports.--Not later than one year after the date 
+        of the commencement of the pilot program, and annually 
+        thereafter for the duration of the pilot program, the Secretary 
+        shall submit to Congress a report on the pilot program. Each 
+        such report shall include--
+                    (A) the number of veterans participating in the 
+                pilot program;
+                    (B) a description of the services carried out by 
+                the Secretary under the pilot program; and
+                    (C) the effects that participating in the pilot 
+                program has on veterans with post-traumatic stress 
+                disorder and post-deployment mental health conditions.
+            (2) Final report.--At the conclusion of pilot program, the 
+        Secretary shall submit to Congress a final report that includes 
+        recommendations with respect to the extension or expansion of 
+        the pilot program.
+    (h) Definition.--For the purposes of this section, the term 
+``service dog training instructor'' means an instructor recognized by 
+an accredited dog organization training program who provides hands-on 
+training in the art and science of service dog training and handling.
+
+SEC. 7. ELIMINATION OF ANNUAL REPORT ON STAFFING FOR NURSE POSITIONS.
+
+    Section 7451(e) of title 38, United States Code, is amended--
+            (1) by striking paragraph (5); and
+            (2) by redesignating paragraph (6) as paragraph (5).
+
+            Passed the House of Representatives October 11, 2011.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

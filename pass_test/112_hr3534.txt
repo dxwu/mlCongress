@@ -1,0 +1,96 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3534 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 3534
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 16, 2012
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend title 31, United States Code, to revise requirements related 
+         to assets pledged by a surety, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Security in Bonding Act of 2012''.
+
+SEC. 2. SURETY BOND REQUIREMENTS.
+
+    Chapter 93 of subtitle VI of title 31, United States Code, is 
+amended--
+            (1) by adding at the end the following:
+``Sec. 9310. Individual sureties
+    ``If another applicable law or regulation permits the acceptance of 
+a bond from a surety that is not subject to sections 9305 and 9306 and 
+is based on a pledge of assets by the surety, the assets pledged by 
+such surety shall--
+            ``(1) consist of eligible obligations described under 
+        section 9303(a); and
+            ``(2) be submitted to the official of the Government 
+        required to approve or accept the bond, who shall deposit the 
+        assets with a depository described under section 9303(b).''; 
+        and
+            (2) in the table of contents for such chapter, by adding at 
+        the end the following:
+
+``9310. Individual sureties.''.
+
+SEC. 3. GAO STUDY.
+
+    (a) Study.--The Comptroller General of the United States shall 
+carry out a study on the following:
+            (1) All instances during the 10-year period prior to the 
+        date of the enactment of this Act in which a surety bond 
+        proposed or issued by a surety in connection with a Federal 
+        project was--
+                    (A) rejected by a Federal contracting officer; or
+                    (B) accepted by a Federal contracting officer, but 
+                was later found to have been backed by insufficient 
+                collateral or to be otherwise deficient or with respect 
+                to which the surety did not perform.
+            (2) The consequences to the Federal Government, 
+        subcontractors, and suppliers of the instances described under 
+        paragraph (1).
+            (3) The percentages of all Federal contracts that were 
+        awarded to small disadvantaged businesses (as defined under 
+        section 124.1002(b) of title 13, Code of Federal Regulations) 
+        and disadvantaged business enterprises (as defined under 
+        section 26.5 of title 49, Code of Federal Regulations) as prime 
+        contractors in the 2-year period prior to and the 2-year period 
+        following the date of enactment of this Act, and an assessment 
+        of the impact of this Act and the amendments made by this Act 
+        upon such percentages.
+    (b) Report.--Not later than the end of the 3-year period beginning 
+on the date of the enactment of this Act, the Comptroller General shall 
+issue a report to the Committee on the Judiciary of the House of 
+Representatives and the Committee on Homeland Security and Government 
+Affairs of the Senate containing all findings and determinations made 
+in carrying out the study required under subsection (a).
+
+            Passed the House of Representatives May 15, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

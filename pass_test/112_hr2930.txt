@@ -1,0 +1,320 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2930 Placed on Calendar Senate (PCS)]
+
+                                                       Calendar No. 224
+112th CONGRESS
+  1st Session
+                                H. R. 2930
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            November 7, 2011
+
+                     Received; read the first time
+
+                            November 8, 2011
+
+            Read the second time and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To amend the securities laws to provide for registration exemptions for 
+        certain crowdfunded securities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Entrepreneur Access to Capital 
+Act''.
+
+SEC. 2. CROWDFUNDING EXEMPTION.
+
+    (a) Securities Act of 1933.--Section 4 of the Securities Act of 
+1933 (15 U.S.C. 77d) is amended by adding at the end the following:
+            ``(6) transactions involving the offer or sale of 
+        securities by an issuer, provided that--
+                    ``(A) the aggregate amount sold within the previous 
+                12-month period in reliance upon this exemption is--
+                            ``(i) $1,000,000, as such amount is 
+                        adjusted by the Commission to reflect the 
+                        annual change in the Consumer Price Index for 
+                        All Urban Consumers published by the Bureau of 
+                        Labor Statistics, or less; or
+                            ``(ii) if the issuer provides potential 
+                        investors with audited financial statements, 
+                        $2,000,000, as such amount is adjusted by the 
+                        Commission to reflect the annual change in the 
+                        Consumer Price Index for All Urban Consumers 
+                        published by the Bureau of Labor Statistics, or 
+                        less;
+                    ``(B) the aggregate amount sold to any investor in 
+                reliance on this exemption within the previous 12-month 
+                period does not exceed the lesser of--
+                            ``(i) $10,000, as such amount is adjusted 
+                        by the Commission to reflect the annual change 
+                        in the Consumer Price Index for All Urban 
+                        Consumers published by the Bureau of Labor 
+                        Statistics; and
+                            ``(ii) 10 percent of such investor's annual 
+                        income;
+                    ``(C) in the case of a transaction involving an 
+                intermediary between the issuer and the investor, such 
+                intermediary complies with the requirements under 
+                section 4A(a); and
+                    ``(D) in the case of a transaction not involving an 
+                intermediary between the issuer and the investor, the 
+                issuer complies with the requirements under section 
+                4A(b).''.
+    (b) Requirements to Qualify for Crowdfunding Exemption.--The 
+Securities Act of 1933 is amended by inserting after section 4 the 
+following:
+
+``SEC. 4A. REQUIREMENTS WITH RESPECT TO CERTAIN SMALL TRANSACTIONS.
+
+    ``(a) Requirements on Intermediaries.--For purposes of section 
+4(6), a person acting as an intermediary in a transaction involving the 
+offer or sale of securities shall comply with the requirements of this 
+subsection if the intermediary--
+            ``(1) warns investors, including on the intermediary's 
+        website used for the offer and sale of such securities, of the 
+        speculative nature generally applicable to investments in 
+        startups, emerging businesses, and small issuers, including 
+        risks in the secondary market related to illiquidity;
+            ``(2) warns investors that they are subject to the 
+        restriction on sales requirement described under subsection 
+        (e);
+            ``(3) takes reasonable measures to reduce the risk of fraud 
+        with respect to such transaction;
+            ``(4) provides the Commission with the intermediary's 
+        physical address, website address, and the names of the 
+        intermediary and employees of the intermediary, and keep such 
+        information up-to-date;
+            ``(5) provides the Commission with continuous investor-
+        level access to the intermediary's website;
+            ``(6) requires each potential investor to answer questions 
+        demonstrating--
+                    ``(A) an understanding of the level of risk 
+                generally applicable to investments in startups, 
+                emerging businesses, and small issuers;
+                    ``(B) an understanding of the risk of illiquidity; 
+                and
+                    ``(C) such other areas as the Commission may 
+                determine appropriate by rule or regulation;
+            ``(7) requires the issuer to state a target offering amount 
+        and a deadline to reach the target offering amount and ensure 
+        the third party custodian described under paragraph (10) 
+        withholds offering proceeds until aggregate capital raised from 
+        investors other than the issuer is no less than 60 percent of 
+        the target offering amount;
+            ``(8) carries out a background check on the issuer's 
+        principals;
+            ``(9) provides the Commission and potential investors with 
+        notice of the offering, not later than the first day securities 
+        are offered to potential investors, including--
+                    ``(A) the issuer's name, legal status, physical 
+                address, and website address;
+                    ``(B) the names of the issuer's principals;
+                    ``(C) the stated purpose and intended use of the 
+                proceeds of the offering sought by the issuer; and
+                    ``(D) the target offering amount and the deadline 
+                to reach the target offering amount;
+            ``(10) outsources cash-management functions to a qualified 
+        third party custodian, such as a broker or dealer registered 
+        under section 15(b)(1) of the Securities Exchange Act of 1934 
+        or an insured depository institution;
+            ``(11) maintains such books and records as the Commission 
+        determines appropriate;
+            ``(12) makes available on the intermediary's website a 
+        method of communication that permits the issuer and investors 
+        to communicate with one another;
+            ``(13) provides the Commission with a notice upon 
+        completion of the offering, which shall include the aggregate 
+        offering amount and the number of purchasers; and
+            ``(14) does not offer investment advice.
+    ``(b) Requirements on Issuers if No Intermediary.--For purposes of 
+section 4(6), an issuer who offers or sells securities without an 
+intermediary shall comply with the requirements of this subsection if 
+the issuer--
+            ``(1) warns investors, including on the issuer's website, 
+        of the speculative nature generally applicable to investments 
+        in startups, emerging businesses, and small issuers, including 
+        risks in the secondary market related to illiquidity;
+            ``(2) warns investors that they are subject to the 
+        restriction on sales requirement described under subsection 
+        (e);
+            ``(3) takes reasonable measures to reduce the risk of fraud 
+        with respect to such transaction;
+            ``(4) provides the Commission with the issuer's physical 
+        address, website address, and the names of the principals and 
+        employees of the issuers, and keeps such information up-to-
+        date;
+            ``(5) provides the Commission with continuous investor-
+        level access to the issuer's website;
+            ``(6) requires each potential investor to answer questions 
+        demonstrating--
+                    ``(A) an understanding of the level of risk 
+                generally applicable to investments in startups, 
+                emerging businesses, and small issuers;
+                    ``(B) an understanding of the risk of illiquidity; 
+                and
+                    ``(C) such other areas as the Commission may 
+                determine appropriate by rule or regulation;
+            ``(7) states a target offering amount and ensures that the 
+        third party custodian described under paragraph (9) withholds 
+        offering proceeds until the aggregate capital raised from 
+        investors other than the issuer is no less than 60 percent of 
+        the target offering amount;
+            ``(8) provides the Commission with notice of the offering, 
+        not later than the first day securities are offered to 
+        potential investors, including--
+                    ``(A) the stated purpose and intended use of the 
+                proceeds of the offering sought by the issuer; and
+                    ``(B) the target offering amount and the deadline 
+                to reach the target offering amount;
+            ``(9) outsources cash-management functions to a qualified 
+        third party custodian, such as a broker or dealer registered 
+        under section 15(b)(1) of the Securities Exchange Act of 1934 
+        or an insured depository institution;
+            ``(10) maintains such books and records as the Commission 
+        determines appropriate;
+            ``(11) makes available on the issuer's website a method of 
+        communication that permits the issuer and investors to 
+        communicate with one another;
+            ``(12) does not offer investment advice;
+            ``(13) provides the Commission with a notice upon 
+        completion of the offering, which shall include the aggregate 
+        offering amount and the number of purchasers; and
+            ``(14) discloses to potential investors, on the issuer's 
+        website, that the issuer has an interest in the issuance.
+    ``(c) Verification of Income.--For purposes of section 4(6), an 
+issuer or intermediary may rely on certifications as to annual income 
+provided by the person to whom the securities are sold to verify the 
+investor's income.
+    ``(d) Information Available to States.--The Commission shall make 
+the notices described under subsections (a)(9), (a)(13), (b)(8), and 
+(b)(13) and the information described under subsections (a)(4) and 
+(b)(4) available to the States.
+    ``(e) Restriction on Sales.--With respect to a transaction 
+involving the issuance of securities described under section 4(6), a 
+purchaser may not transfer such securities during the 1-year period 
+beginning on the date of purchase, unless such securities are sold to--
+            ``(1) the issuer of such securities; or
+            ``(2) an accredited investor.
+    ``(f) Construction.--
+            ``(1) No registration as broker.--With respect to a 
+        transaction described under section 4(6) involving an 
+        intermediary, such intermediary shall not be required to 
+        register as a broker under section 15(a)(1) of the Securities 
+        Exchange Act of 1934 solely by reason of participation in such 
+        transaction.
+            ``(2) No preclusion of other capital raising.--Nothing in 
+        this section or section 4(6) shall be construed as preventing 
+        an issuer from raising capital through methods not described 
+        under section 4(6).''.
+    (c) Rulemaking.--Not later than 180 days after the date of the 
+enactment of this Act, the Securities and Exchange Commission shall 
+issue such rules as may be necessary to carry out section 4A of the 
+Securities Act of 1933. In issuing such rules, the Commission shall 
+consider the costs and benefits of the action.
+    (d) Disqualification.--Not later than 180 days after the date of 
+the enactment of this Act, the Securities and Exchange Commission shall 
+by rule or regulation establish disqualification provisions under which 
+an issuer shall not be eligible to utilize the exemption under section 
+4(6) of the Securities Act of 1933 based on the disciplinary history of 
+the issuer or its predecessors, affiliates, officers, directors, or 
+persons fulfilling similar roles. The Commission shall also establish 
+disqualification provisions under which an intermediary shall not be 
+eligible to act as an intermediary in connection with an offering 
+utilizing the exemption under section 4(6) of the Securities Act of 
+1933 based on the disciplinary history of the intermediary or its 
+predecessors, affiliates, officers, directors, or persons fulfilling 
+similar roles. Such provisions shall be substantially similar to the 
+disqualification provisions contained in the regulations adopted in 
+accordance with section 926 of the Dodd-Frank Wall Street Reform and 
+Consumer Protection Act (15 U.S.C. 77d note).
+
+SEC. 3. EXCLUSION OF CROWDFUNDING INVESTORS FROM SHAREHOLDER CAP.
+
+    Section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78l(g)(5)) is amended--
+            (1) by striking ``(5) For the purposes'' and inserting:
+            ``(5) Definitions.--
+                    ``(A) In general.--For the purposes''; and
+            (2) by adding at the end the following:
+                    ``(B) Exclusion for persons holding certain 
+                securities.--For purposes of this subsection, 
+                securities held by persons who purchase such securities 
+                in transactions described under section 4(6) of the 
+                Securities Act of 1933 shall not be deemed to be `held 
+                of record'.''.
+
+SEC. 4. PREEMPTION OF STATE LAW.
+
+    (a) In General.--Section 18(b)(4) of the Securities Act of 1933 (15 
+U.S.C. 77r(b)(4)) is amended--
+            (1) by redesignating subparagraphs (C) and (D) as 
+        subparagraphs (D) and (E), respectively; and
+            (2) by inserting after subparagraph (B) the following:
+                    ``(C) section 4(6);''.
+    (b) Clarification of the Preservation of State Enforcement 
+Authority.--
+            (1) In general.--The amendments made by subsection (a) 
+        relate solely to State registration, documentation, and 
+        offering requirements, as described under section 18(a) of 
+        Securities Act of 1933 (15 U.S.C. 77r(a)), and shall have no 
+        impact or limitation on other State authority to take 
+        enforcement action with regard to an issuer, intermediary, or 
+        any other person or entity using the exemption from 
+        registration provided by section 4(6) of such Act.
+            (2) Clarification of state jurisdiction over unlawful 
+        conduct of intermediaries, issuers, and custodians.--Section 
+        18(c)(1) of the Securities Act of 1933 is amended by striking 
+        ``with respect to fraud or deceit, or unlawful conduct by a 
+        broker or dealer, in connection with securities or securities 
+        transactions.'' and inserting the following: ``, in connection 
+        with securities or securities transactions, with respect to--
+                    ``(A) fraud or deceit;
+                    ``(B) unlawful conduct by a broker or dealer; and
+                    ``(C) with respect to a transaction described under 
+                section 4(6), unlawful conduct by an intermediary, 
+                issuer, or custodian.''.
+
+            Passed the House of Representatives November 3, 2011.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+                                                       Calendar No. 224
+
+112th CONGRESS
+
+  1st Session
+
+                               H. R. 2930
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the securities laws to provide for registration exemptions for 
+        certain crowdfunded securities, and for other purposes.
+
+_______________________________________________________________________
+
+                            November 8, 2011
+
+            Read the second time and placed on the calendar

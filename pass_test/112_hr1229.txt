@@ -1,0 +1,310 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1229 Placed on Calendar Senate (PCS)]
+
+                                                        Calendar No. 50
+112th CONGRESS
+  1st Session
+                                H. R. 1229
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 12, 2011
+
+                     Received; read the first time
+
+                              May 16, 2011
+
+            Read the second time and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Outer Continental Shelf Lands Act to facilitate the safe 
+  and timely production of American energy resources from the Gulf of 
+  Mexico, to require the Secretary of the Interior to conduct certain 
+       offshore oil and gas lease sales, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This title may be cited as the ``Putting the Gulf of Mexico Back to 
+Work Act''.
+
+      TITLE I--AMENDMENT TO THE OUTER CONTINENTAL SHELF LANDS ACT
+
+SEC. 101. AMENDMENT TO OUTER CONTINENTAL SHELF LANDS ACT.
+
+    (a) Amendment.--Section 11(d) of the Outer Continental Shelf Lands 
+Act (43 U.S.C. 1340(d)) is amended to read as follows:
+    ``(d) Drilling Permits.--
+            ``(1) In general.--The Secretary shall by regulation 
+        require that any lessee operating under an approved exploration 
+        plan--
+                    ``(A) must obtain a permit before drilling any well 
+                in accordance with such plan; and
+                    ``(B) must obtain a new permit before drilling any 
+                well of a design that is significantly different than 
+                the design for which an existing permit was issued.
+            ``(2) Safety review required.--The Secretary shall not 
+        issue a permit under paragraph (1) without ensuring that the 
+        proposed drilling operations meet all--
+                    ``(A) critical safety system requirements, 
+                including blowout prevention; and
+                    ``(B) oil spill response and containment 
+                requirements.
+            ``(3) Timeline.--
+                    ``(A) The Secretary shall decide whether to issue a 
+                permit under paragraph (1) within 30 days after 
+                receiving an application for the permit. The Secretary 
+                may extend such period for up to two periods of 15 days 
+                each, if the Secretary has given written notice of the 
+                delay to the applicant. The notice shall be in the form 
+                of a letter from the Secretary or a designee of the 
+                Secretary, and shall include the names and titles of 
+                the persons processing the application, the specific 
+                reasons for the delay, and a specific date a final 
+                decision on the application is expected.
+                    ``(B) If the application is denied, the Secretary 
+                shall provide the applicant--
+                            ``(i) in writing, clear and comprehensive 
+                        reasons why the application was not accepted 
+                        and detailed information concerning any 
+                        deficiencies, and
+                            ``(ii) an opportunity to remedy any 
+                        deficiencies.
+                    ``(C) If the Secretary has not made a decision on 
+                the application by the end of the 60-day period 
+                beginning on the date the application is received by 
+                the Secretary, the application is deemed approved.''.
+    (b) Deadline for Certain Permit Applications Under Existing 
+Leases.--
+            (1) In general.--Notwithstanding the amendment made by 
+        subsection (a), a lease under which a covered application is 
+        submitted to the Secretary of the Interior shall be considered 
+        to be in directed suspension during the period beginning May 
+        27, 2010, and ending on the date the Secretary issues a final 
+        decision on the application, if the Secretary does not issue a 
+        final decision on the application--
+                    (A) before the end of the 30-day period beginning 
+                on the date of enactment of this Act, in the case of a 
+                covered application submitted before such date of 
+                enactment; or
+                    (B) before the end of the 30-day period beginning 
+                on the date the application is received by the 
+                Secretary, in the case of a covered application 
+                submitted on or after such date of enactment.
+            (2) Covered application.--In this subsection the term 
+        ``covered application'' means an application for a permit to 
+        drill under an oil and gas lease under the Outer Continental 
+        Shelf Lands Act in effect on the date of enactment of this Act, 
+        that--
+                    (A) represents a resubmission of an approved permit 
+                to drill (including an application for a permit to 
+                sidetrack) that was approved by the Secretary before 
+                May 27, 2010; and
+                    (B) is received by the Secretary after October 12, 
+                2010, and before the end of the 30-day period beginning 
+                on the date of enactment of this Act.
+
+SEC. 102. EXTENSION OF CERTAIN OUTER CONTINENTAL SHELF LEASES.
+
+    (a) Definition of Covered Lease.--In this section, the term 
+``covered lease'' means each oil and gas lease for the Gulf of Mexico 
+outer Continental Shelf region issued under section 8 of the Outer 
+Continental Shelf Lands Act (43 U.S.C. 1337) that--
+            (1)(A) was not producing as of April 30, 2010; or
+            (B) was suspended from operations, permit processing, or 
+        consideration, in accordance with the moratorium set forth in 
+        the Minerals Management Service Notice to Lessees and Operators 
+        No. 2010-N04, dated May 30, 2010, or the decision memorandum of 
+        the Secretary of the Interior entitled ``Decision memorandum 
+        regarding the suspension of certain offshore permitting and 
+        drilling activities on the Outer Continental Shelf'' and dated 
+        July 12, 2010; and
+            (2) by its terms would expire on or before December 31, 
+        2011.
+    (b) Extension of Covered Leases.--The Secretary of the Interior 
+shall extend the term of a covered lease by 1 year.
+    (c) Effect on Suspensions of Operations or Production.--The 
+extension of covered leases under this section is in addition to any 
+suspension of operations or suspension of production granted by the 
+Minerals Management Service or Bureau of Ocean Energy Management, 
+Regulation and Enforcement after May 1, 2010.
+
+     TITLE II--JUDICIAL REVIEW OF AGENCY ACTIONS RELATING TO OUTER 
+           CONTINENTAL SHELF ACTIVITIES IN THE GULF OF MEXICO
+
+SEC. 201. DEFINITIONS FOR TITLE.
+
+    In this title--
+            (1) the term ``covered civil action'' means a civil action 
+        containing a claim under section 702 of title 5, United States 
+        Code, regarding agency action (as defined for the purposes of 
+        that section) affecting a covered energy project in the Gulf of 
+        Mexico; and
+            (2) the term ``covered energy project'' means the leasing 
+        of Federal lands of the Outer Continental Shelf (including 
+        submerged lands) for the exploration, development, production, 
+        processing, or transmission of oil, natural gas, wind, or any 
+        other source of energy in the Gulf of Mexico, and any action 
+        under such a lease, except that the term does not include any 
+        disputes between the parties to a lease regarding the 
+        obligations under such lease, including regarding any alleged 
+        breach of the lease.
+
+SEC. 202. EXCLUSIVE VENUE FOR CERTAIN CIVIL ACTIONS RELATING TO COVERED 
+              ENERGY PROJECTS IN THE GULF OF MEXICO.
+
+    Venue for any covered civil action shall not lie in any district 
+court not within the 5th circuit unless there is no proper venue in any 
+court within that circuit.
+
+SEC. 203. TIME LIMITATION ON FILING.
+
+    A covered civil action is barred unless filed no later than the end 
+of the 60-day period beginning on the date of the final Federal agency 
+action to which it relates.
+
+SEC. 204. EXPEDITION IN HEARING AND DETERMINING THE ACTION.
+
+    The court shall endeavor to hear and determine any covered civil 
+action as expeditiously as possible.
+
+SEC. 205. STANDARD OF REVIEW.
+
+    In any judicial review of a covered civil action, administrative 
+findings and conclusions relating to the challenged Federal action or 
+decision shall be presumed to be correct, and the presumption may be 
+rebutted only by the preponderance of the evidence contained in the 
+administrative record.
+
+SEC. 206. LIMITATION ON PROSPECTIVE RELIEF.
+
+    In a covered civil action, the court shall not grant or approve any 
+prospective relief unless the court finds that such relief is narrowly 
+drawn, extends no further than necessary to correct the violation of a 
+legal requirement, and is the least intrusive means necessary to 
+correct that violation.
+
+SEC. 207. LIMITATION ON ATTORNEYS' FEES.
+
+    Sections 504 of title 5, United States Code, and 2412 of title 28, 
+United States Code (together commonly called the Equal Access to 
+Justice Act) do not apply to a covered civil action, nor shall any 
+party in such a covered civil action receive payment from the Federal 
+Government for their attorneys' fees, expenses, and other court costs.
+
+        TITLE III--RESTARTING AMERICAN OFFSHORE LEASING NOW ACT
+
+SEC. 301. SHORT TITLE.
+
+    This title may be cited as the ``Restarting American Offshore 
+Leasing Now Act''.
+
+SEC. 302. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE SALE 216 IN 
+              THE CENTRAL GULF OF MEXICO.
+
+    (a) In General.--The Secretary of the Interior shall conduct 
+offshore oil and gas Lease Sale 216 under section 8 of the Outer 
+Continental Shelf Lands Act (33 U.S.C. 1337) as soon as practicable, 
+but not later than 4 months after the date of enactment of this Act.
+    (b) Environmental Review.--For the purposes of that lease sale, the 
+Environmental Impact Statement for the 2007-2012 5-Year OCS Plan and 
+the Multi-Sale Environmental Impact Statement are deemed to satisfy the 
+requirements of the National Environmental Policy Act of 1969 (42 
+U.S.C. 4321 et seq.).
+
+SEC. 303. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE SALE 218 IN 
+              THE WESTERN GULF OF MEXICO.
+
+    (a) In General.--The Secretary of the Interior shall conduct 
+offshore oil and gas Lease Sale 218 under section 8 of the Outer 
+Continental Shelf Lands Act (33 U.S.C. 1337) as soon as practicable, 
+but not later than 8 months after the date of enactment of this Act.
+    (b) Environmental Review.--For the purposes of that lease sale, the 
+Environmental Impact Statement for the 2007-2012 5-Year OCS Plan and 
+the Multi-Sale Environmental Impact Statement are deemed to satisfy the 
+requirements of the National Environmental Policy Act of 1969 (42 
+U.S.C. 4321 et seq.).
+
+SEC. 304. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE SALE 220 ON 
+              THE OUTER CONTINENTAL SHELF OFFSHORE VIRGINIA.
+
+    (a) In General.--The Secretary of the Interior shall conduct 
+offshore oil and gas Lease Sale 220 under section 8 of the Outer 
+Continental Shelf Lands Act (33 U.S.C. 1337) as soon as practicable, 
+but not later than one year after the date of enactment of this Act.
+    (b) Prohibition on Conflicts With Military Operations.--The 
+Secretary shall not make any tract available for leasing under this 
+section if the President, through the Secretary of Defense, determines 
+that drilling activity on that tract would create an unreasonable 
+conflict with military operations.
+
+SEC. 305. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE SALE 222 IN 
+              THE CENTRAL GULF OF MEXICO.
+
+    (a) In General.--The Secretary of the Interior shall conduct 
+offshore oil and gas Lease Sale 222 under section 8 of the Outer 
+Continental Shelf Lands Act (33 U.S.C. 1337) as soon as practicable, 
+but not later than June 1, 2012.
+    (b) Environmental Review.--For the purposes of that lease sale, the 
+Environmental Impact Statement for the 2007-2012 5-Year OCS Plan and 
+the Multi-Sale Environmental Impact Statement are deemed to satisfy the 
+requirements of the National Environmental Policy Act of 1969 (42 
+U.S.C. 4321 et seq.).
+
+SEC. 306. DEFINITIONS.
+
+    In this title:
+            (1) The term ``Environmental Impact Statement for the 2007-
+        2012 5 Year OCS Plan'' means the Final Environmental Impact 
+        Statement for Outer Continental Shelf Oil and Gas Leasing 
+        Program: 2007-2012 (April 2007) prepared by the Secretary of 
+        the Interior.
+            (2) The term ``Multi-Sale Environmental Impact Statement'' 
+        means the Environmental Impact Statement for Proposed Western 
+        Gulf of Mexico OCS Oil and Gas Lease Sales 204, 207, 210, 215, 
+        and 218, and Proposed Central Gulf of Mexico OCS Oil and Gas 
+        Lease Sales 205, 206, 208, 213, 216, and 222 (September 2008) 
+        prepared by the Secretary of the Interior.
+
+            Passed the House of Representatives May 11, 2011.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+                                                        Calendar No. 50
+
+112th CONGRESS
+
+  1st Session
+
+                               H. R. 1229
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend the Outer Continental Shelf Lands Act to facilitate the safe 
+  and timely production of American energy resources from the Gulf of 
+  Mexico, to require the Secretary of the Interior to conduct certain 
+       offshore oil and gas lease sales, and for other purposes.
+
+_______________________________________________________________________
+
+                              May 16, 2011
+
+            Read the second time and placed on the calendar

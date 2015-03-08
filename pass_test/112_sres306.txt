@@ -1,0 +1,143 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[S. Res. 306 Agreed to Senate (ATS)]
+
+112th CONGRESS
+  1st Session
+S. RES. 306
+
+  Supporting the goals and ideals of National Cybersecurity Awareness 
+Month and raising awareness and enhancing the state of cybersecurity in 
+                           the United States.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+             October 21 (legislative day, October 20), 2011
+
+Mr. Johnson of Wisconsin (for himself, Mr. Lieberman, Ms. Collins, Ms. 
+ Landrieu, Mr. Begich, Mr. Akaka, Mr. Coons, Mr. Carper, Mr. Brown of 
+Massachusetts, and Ms. Snowe) submitted the following resolution; which 
+                      was considered and agreed to
+
+_______________________________________________________________________
+
+                               RESOLUTION
+
+
+ 
+  Supporting the goals and ideals of National Cybersecurity Awareness 
+Month and raising awareness and enhancing the state of cybersecurity in 
+                           the United States.
+
+Whereas the use of the Internet in the United States to communicate, conduct 
+        business, and generate commerce that benefits the overall United States 
+        economy is ubiquitous;
+Whereas the United States technological know-how, innovation, and 
+        entrepreneurship are all digitally connected;
+Whereas as the pace of innovation has accelerated, so too have methods to attack 
+        the United States economic prosperity and security, spawning new, high-
+        tech challenges, from identity theft to corporate hacking to 
+        cyberbullying;
+Whereas many people use the Internet in the United States to communicate with 
+        family and friends, manage finances and pay bills, access educational 
+        opportunities, shop at home, participate in online entertainment and 
+        games, and stay informed of news and current events;
+Whereas small businesses in the United States, which employ a significant 
+        portion of the private workforce, increasingly rely on the Internet to 
+        manage their businesses, expand their customer reach, and enhance the 
+        management of their supply chain;
+Whereas many schools in the United States have Internet access to enhance the 
+        education of children by providing access to educational online content 
+        and encouraging self-initiative to discover research resources;
+Whereas cybersecurity is a critical part of the United States national and 
+        economic security;
+Whereas the United States critical infrastructure and economy rely on the secure 
+        and reliable operation of information networks to support the United 
+        States military, civilian government, energy, telecommunications, 
+        financial services, transportation, health care, and emergency response 
+        systems;
+Whereas Internet users and information infrastructure owners and operators face 
+        an increasing threat of cybercrime and fraud through viruses, worms, 
+        Trojans, and malicious programs, such as spyware, adware, hacking tools, 
+        and password stealers, that are frequent and fast in propagation, are 
+        costly to repair, and may disable entire systems;
+Whereas the intellectual property, including proprietary information, 
+        copyrights, patents, trademarks, and related information, of businesses, 
+        academic institutions, government, and individuals are vital to the 
+        economic security of the United States;
+Whereas millions of records containing personally identifiable information have 
+        been lost, stolen, or breached, threatening the security and financial 
+        well-being of the people of the United States;
+Whereas consumers face significant financial and personal privacy losses due to 
+        personally identifiable information being more exposed to theft and 
+        fraud than ever before;
+Whereas national organizations, policymakers, governmental agencies, private-
+        sector companies, nonprofit institutions, schools, academic 
+        organizations, consumers, and the media recognize the need to increase 
+        awareness of cybersecurity and the need for enhanced cybersecurity in 
+        the United States;
+Whereas coordination between the numerous Federal agencies involved in 
+        cybersecurity efforts is essential to securing the cyber infrastructure 
+        of the United States;
+Whereas in February 2003 the White House issued National Strategy to Secure 
+        Cyberspace, which recommends a comprehensive national awareness program 
+        to empower all people in the United States, including businesses, the 
+        general workforce, and the general population, to secure their own 
+        portions of cyberspace;
+Whereas in May 2009 the White House issued Cyberspace Policy Review, which 
+        recommends that the Federal Government initiate a national public 
+        awareness and education campaign to promote cybersecurity;
+Whereas ``STOP. THINK. CONNECT.'' is the national cybersecurity awareness 
+        campaign founded and led by the National Cyber Security Alliance, the 
+        Anti-Phishing Working Group as a public-private partnership with the 
+        Department of Homeland Security, and a coalition of private companies, 
+        nonprofits, and governmental organizations to help all digital people of 
+        the United States stay safer and more secure online;
+Whereas the National Initiative for Cybersecurity Education, led by the National 
+        Institute of Standards and Technology, is the coordinating body for the 
+        Federal Government to establish a sustainable, operational, and 
+        continually improving cybersecurity education program to enhance the 
+        United States cybersecurity and support the development of a 
+        professional cybersecurity workforce and cyber-capable people;
+Whereas according to U.S. Cyber Challenge, the initiative is working to identify 
+        ``10,000 of America's best and brightest to fill the ranks of 
+        cybersecurity professionals where their skills can be of the greatest 
+        value to the nation'';
+Whereas the Cyber Innovation Center has established cyber camps and other 
+        educational programs to bolster knowledge of science, technology, math, 
+        and engineering to build a sustainable knowledge-based workforce capable 
+        of addressing cyber threats and the future needs of government, 
+        industry, and academia; and
+Whereas the National Cyber Security Alliance, the Multi-State Information 
+        Sharing & Analysis Center, the Department of Homeland Security, and 
+        other organizations working to improve cybersecurity in the United 
+        States have designated October 2011 as the eighth annual National 
+        Cybersecurity Awareness Month, which serves to educate the people of the 
+        United States about the importance of cybersecurity: Now, therefore, be 
+        it
+    Resolved, That the Senate--
+            (1) supports the goals and ideals of National Cybersecurity 
+        Awareness Month;
+            (2) continues to work with Federal agencies, businesses, 
+        educational institutions, and other organizations to enhance 
+        the state of cybersecurity in the United States;
+            (3) commends the work of National Initiative for 
+        Cybersecurity Education and all the Federal agencies, 
+        nonprofits, educational institutions, businesses, and other 
+        organizations that support this effort;
+            (4) recognizes ``STOP. THINK. CONNECT.'' as the national 
+        cybersecurity awareness campaign to educate the people of the 
+        United States and help all people of the United States stay 
+        safer and more secure online; and
+            (5) congratulates the National Cyber Security Alliance, the 
+        Multi-State Information Sharing & Analysis Center, the 
+        Department of Homeland Security, and other organizations 
+        working to improve cybersecurity in the United States on the 
+        eighth anniversary of National Cyber Security Awareness Month 
+        during October 2011.
+                                 <all>

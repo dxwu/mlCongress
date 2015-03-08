@@ -1,0 +1,186 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1447 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 1447
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 29, 2012
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To amend title 49, United States Code, to direct the Assistant 
+Secretary of Homeland Security (Transportation Security Administration) 
+  to establish an Aviation Security Advisory Committee, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Aviation Security Stakeholder 
+Participation Act of 2012''.
+
+SEC. 2. AVIATION SECURITY ADVISORY COMMITTEE.
+
+    (a) In General.--Subchapter II of chapter 449 of title 49, United 
+States Code, is amended by adding at the end the following:
+``Sec. 44946. Aviation Security Advisory Committee
+    ``(a) Establishment.--The Assistant Secretary shall establish 
+within the Transportation Security Administration an advisory committee 
+to be known as the Aviation Security Advisory Committee.
+    ``(b) Duties.--
+            ``(1) In general.--The Advisory Committee shall be 
+        consulted by and advise the Assistant Secretary on aviation 
+        security matters, including the development and implementation 
+        of policies, programs, rulemaking, and security directives 
+        pertaining to aviation security.
+            ``(2) Recommendations.--
+                    ``(A) In general.--The Advisory Committee shall 
+                develop, at the request of the Assistant Secretary, 
+                recommendations for improvements to aviation security.
+                    ``(B) Recommendations of working groups.--
+                Recommendations agreed upon by the working groups 
+                established under this section shall be approved by the 
+                Advisory Committee for transmission to the Assistant 
+                Secretary.
+            ``(3) Periodic reports.--The Advisory Committee shall 
+        periodically submit to the Assistant Secretary--
+                    ``(A) reports on matters identified by the 
+                Assistant Secretary; and
+                    ``(B) reports on other matters identified by a 
+                majority of the members of the Advisory Committee.
+            ``(4) Annual report.--The Advisory Committee shall submit 
+        to the Assistant Secretary an annual report providing 
+        information on the activities, findings, and recommendations of 
+        the Advisory Committee, including its working groups, for the 
+        preceding year.
+    ``(c) Membership.--
+            ``(1) Appointment.--
+                    ``(A) In general.--Not later than 180 days after 
+                the date of enactment of this section, the Assistant 
+                Secretary shall appoint the members of the Advisory 
+                Committee.
+                    ``(B) Composition.--The membership shall consist of 
+                individuals representing not more than 27 member 
+                organizations. Each organization shall be represented 
+                by one individual (or the individual's designee).
+                    ``(C) Representation.--The membership shall include 
+                representatives of air carriers, all cargo air 
+                transportation, indirect air carriers, labor 
+                organizations representing air carrier employees, 
+                aircraft manufacturers, airport operators, general 
+                aviation, privacy, the travel industry, and the 
+                aviation technology security industry, including 
+                biometrics.
+            ``(2) Removal.--The Assistant Secretary may review the 
+        participation of a member of the Advisory Committee and remove 
+        the member for cause at any time.
+            ``(3) Prohibition on compensation.--The members of the 
+        Advisory Committee shall not receive pay, allowances, or 
+        benefits from the Government by reason of their service on the 
+        Advisory Committee.
+            ``(4) Meetings.--The Assistant Secretary shall require the 
+        Advisory Committee to meet at least semiannually and may 
+        convene additional meetings as necessary.
+    ``(d) Air Cargo Security Working Group.--
+            ``(1) In general.--The Assistant Secretary shall establish 
+        within the Advisory Committee an air cargo security working 
+        group to provide recommendations on air cargo security issues, 
+        including the implementation of the air cargo security programs 
+        established by the Transportation Security Administration to 
+        screen air cargo on passenger aircraft and all-cargo aircraft 
+        in accordance with established cargo screening mandates.
+            ``(2) Meetings and reporting.--The working group shall meet 
+        at least quarterly and submit information, including 
+        recommendations, regarding air cargo security to the Advisory 
+        Committee for inclusion in the annual report. The submissions 
+        shall include recommendations to improve the Administration's 
+        cargo security initiatives established to meet the requirements 
+        of section 44901(g).
+            ``(3) Membership.--The working group shall--
+                    ``(A) include members of the Advisory Committee 
+                with expertise in air cargo operations; and
+                    ``(B) be cochaired by a Government and industry 
+                official.
+    ``(e) General Aviation Security Working Group.--
+            ``(1) In general.--The Assistant Secretary shall establish 
+        within the Advisory Committee a general aviation working group 
+        to provide recommendations on transportation security issues 
+        for general aviation facilities, general aviation aircraft, and 
+        helicopter operations at general aviation and commercial 
+        service airports.
+            ``(2) Meetings and reporting.--The working group shall meet 
+        at least quarterly and submit information, including 
+        recommendations, regarding aviation security at general 
+        aviation airports to the Advisory Committee for inclusion in 
+        the annual report.
+            ``(3) Membership.--The working group shall--
+                    ``(A) include members of the Advisory Committee 
+                with expertise in general aviation; and
+                    ``(B) be cochaired by a Government and industry 
+                official.
+    ``(f) Perimeter Security Working Group.--
+            ``(1) In general.--The Assistant Secretary shall establish 
+        within the Advisory Committee an airport perimeter security 
+        working group to provide recommendations on airport perimeter 
+        security and access control issues.
+            ``(2) Meetings and reporting.--The working group shall meet 
+        at least quarterly and submit information, including 
+        recommendations, regarding improving perimeter security and 
+        access control procedures at commercial service and general 
+        aviation airports to the Advisory Committee for inclusion in 
+        the annual report.
+            ``(3) Membership.--The working group shall--
+                    ``(A) include members of the Advisory Committee 
+                with expertise in airport perimeter security and access 
+                control issues; and
+                    ``(B) be cochaired by a Government and industry 
+                official.
+    ``(g) Nonapplicability of FACA.--The Federal Advisory Committee Act 
+(5 U.S.C. App.) shall not apply to the Advisory Committee or its 
+working groups.
+    ``(h) Definitions.--In this section, the following definitions 
+apply:
+            ``(1) Advisory committee.--The term `Advisory Committee' 
+        means the Aviation Security Advisory Committee to be 
+        established under subsection (a).
+            ``(2) Annual report.--The term `annual report' means the 
+        annual report required under subsection (a).
+            ``(3) Assistant secretary.--The term `Assistant Secretary' 
+        means the Assistant Secretary of Homeland Security 
+        (Transportation Security Administration).
+            ``(4) Perimeter security.--The term `perimeter security'--
+                    ``(A) means procedures or systems to monitor, 
+                secure, and prevent unauthorized access to an airport, 
+                including its airfield and terminal; and
+                    ``(B) includes the fence area surrounding an 
+                airport, access gates, and access controls.''.
+    (b) Clerical Amendment.--The analysis for such subchapter is 
+amended by adding at the end the following:
+
+``44946. Aviation Security Advisory Committee.''.
+
+            Passed the House of Representatives June 28, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

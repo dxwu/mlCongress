@@ -1,0 +1,263 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 6213 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 6213
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 19, 2012
+
+   Received; read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To limit further taxpayer exposure from the loan guarantee program 
+     established under title XVII of the Energy Policy Act of 2005.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``No More Solyndras Act''.
+
+SEC. 2. FINDINGS.
+
+    The Congress makes the following findings:
+            (1) President Obama took office amidst a weak economy and 
+        high unemployment, yet he remained committed to advancing an 
+        expansive ``green jobs'' agenda that received substantial 
+        funding with the passage of the American Recovery and 
+        Reinvestment Act of 2009, commonly known as the stimulus 
+        package.
+            (2) The stimulus package allocated $90 billion to various 
+        green energy programs, and related appropriations provided $47 
+        billion for loan guarantees authorized under title XVII of the 
+        Energy Policy Act of 2005 (42 U.S.C. 16511 et seq.).
+            (3) Such title XVII authorized the Secretary of Energy to 
+        issue loan guarantees for projects that avoid, reduce, or 
+        sequester air pollutants or greenhouse gases and employ new or 
+        significantly improved technologies compared with commercial 
+        technologies in service at the time the guarantee is issued.
+            (4) Loan guarantees issued under such title XVII were 
+        required to provide a reasonable prospect of repayment and were 
+        expressly required to be subject to the condition that the 
+        obligation is not subordinate to other financing.
+            (5) The stimulus package expanded such title XVII by adding 
+        section 1705 to include projects that use commercial technology 
+        for renewable energy systems, electric power transmission 
+        systems, and leading-edge biofuels projects and by 
+        appropriating $6,000,000,000 in funding to pay the credit 
+        subsidy costs for section 1705 loan guarantees for projects 
+        that commence construction no later than September 30, 2011.
+            (6) The Department of Energy, since the enactment of the 
+        stimulus package, has issued loan guarantees under such title 
+        XVII for 28 projects totaling $15,100,000,000 under the section 
+        1705 program, and, according to the Government Accountability 
+        Office, issued conditional loan guarantees for four projects 
+        totaling $4,400,000,000 under the section 1705 program and four 
+        projects totaling $10,600,000,000 under the section 1703 
+        program.
+            (7) Three of the first five companies that received section 
+        1705 loan guarantees for their projects, Solyndra, Inc., Beacon 
+        Power Corporation, and Abound Solar, Inc., have declared 
+        bankruptcy.
+            (8) The bankruptcy of the first section 1705 loan guarantee 
+        recipient, Solyndra, Inc., could result in a loss to taxpayers 
+        of over $530,000,000.
+            (9) The investigation of the Solyndra loan guarantee by the 
+        Committee on Energy and Commerce has demonstrated that the 
+        review in 2009 of the Solyndra application by the Department of 
+        Energy and the Office of Management and Budget was driven by 
+        politics and ideology and divorced from economic reality where 
+        the Department of Energy ignored concerns about the company's 
+        financial condition and market for its products.
+            (10) Despite an express provision in such title XVII 
+        prohibiting subordination of the United States taxpayers' 
+        financial interest, the Department of Energy restructured the 
+        Solyndra loan guarantee in February 2011, resulting in the 
+        taxpayers losing priority to Solyndra's investors in the event 
+        of a default.
+            (11) The Inspector General of the Department of the 
+        Treasury concluded that it was unclear whether the Department 
+        of Energy's consultation requirement with the Secretary of the 
+        Treasury on the Solyndra loan guarantee was met; that the 
+        consultation that did occur was rushed with the Department of 
+        the Treasury expressing that ``the train really has left the 
+        station on this deal''; and that no documentation was retained 
+        as to how the Department of the Treasury's serious concerns 
+        with the loan guarantee were addressed.
+            (12) The Government Accountability Office concluded that 
+        the Department of Energy Loan Guarantee Program under title 
+        XVII has treated applicants inconsistently; that the Department 
+        of Energy did not follow its own process for reviewing 
+        applications and documenting its analysis and decisions, 
+        increasing the likelihood of taxpayer exposure to financial 
+        risk from a default; and that the Department of Energy's 
+        absence of adequate documentation made it difficult for the 
+        Department to defend its decisions on loan guarantees as sound 
+        and fair.
+            (13) A memorandum prepared for the President dated October 
+        25, 2010, from Carol Browner, Ron Klain, and Larry Summers, 
+        principal advisors to the President, noted the risk presented 
+        by loan guarantee projects because most of the projects had 
+        little ``skin in the game'' from private investors.
+            (14) A January 2012 report conducted at the request of the 
+        Chief of Staff to the President concluded that the portfolio of 
+        projects the Department of Energy included in the loan program 
+        were higher risk investments that private capital markets do 
+        not generally invest in.
+            (15) The Department of Energy's section 1705 program has 
+        expired but the Department of Energy has announced that it will 
+        continue to consider applications for loan guarantees under the 
+        section 1703 program.
+            (16) The Department of Energy has approximately 
+        $34,000,000,000 in remaining lending authority to issue new 
+        loan guarantees under the section 1703 program.
+
+SEC. 3. SUNSET.
+
+    (a) No New Applications.--The Secretary of Energy shall not issue 
+any new loan guarantee pursuant to title XVII of the Energy Policy Act 
+of 2005 (42 U.S.C. 16511 et seq.) for any application submitted to the 
+Department of Energy after December 31, 2011.
+    (b) Pending Applications.--With respect to any application 
+submitted pursuant to section 1703 or 1705 of the Energy Policy Act of 
+2005 before December 31, 2011:
+            (1) No guarantee shall be made until the Secretary of the 
+        Treasury has provided to the Secretary of Energy a written 
+        analysis of the financial terms and conditions of the proposed 
+        loan guarantee, pursuant to section 1702(a) of the Energy 
+        Policy Act of 2005 (42 U.S.C. 16512(a)).
+            (2) The Secretary of the Treasury shall transmit the 
+        written analysis required under paragraph (1) to the Secretary 
+        of Energy not later than 30 days after receiving the proposal 
+        from the Secretary of Energy.
+            (3) Before making a guarantee under such title XVII, the 
+        Secretary of Energy shall take into consideration the written 
+        analysis made by the Secretary of the Treasury under paragraph 
+        (1).
+            (4) If the Secretary of Energy makes a guarantee that is 
+        not consistent with the written analysis provided by the 
+        Secretary of the Treasury under paragraph (1), not later than 
+        30 days after making such guarantee the Secretary of Energy 
+        shall transmit to the Committee on Energy and Commerce and the 
+        Committee on Science, Space, and Technology of the House of 
+        Representatives and the Committee on Energy and Natural 
+        Resources of the Senate a written explanation of any material 
+        inconsistencies.
+    (c) Transparency.--
+            (1) Reports to congress.--Not later than 60 days after 
+        making a guarantee as provided in subsection (b), the Secretary 
+        of Energy shall transmit to the Committee on Energy and 
+        Commerce and the Committee on Science, Space, and Technology of 
+        the House of Representatives and the Committee on Energy and 
+        Natural Resources of the Senate a report that includes 
+        information regarding--
+                    (A) the review and decisionmaking process utilized 
+                by the Secretary in making the guarantee;
+                    (B) the terms of the guarantee;
+                    (C) the recipient; and
+                    (D) the technology and project for which the loan 
+                guarantee will be used.
+            (2) Protecting confidential business information.--A report 
+        under paragraph (1) shall provide all relevant information, but 
+        the Secretary shall take all necessary steps to protect 
+        confidential business information with respect to the recipient 
+        of the loan guarantee and the technology used.
+
+SEC. 4. RESTRUCTURING OF LOAN GUARANTEES.
+
+    With respect to any restructuring of the terms of a loan guarantee 
+issued pursuant to title XVII of the Energy Policy Act of 2005, the 
+Secretary of Energy shall consult with the Secretary of the Treasury 
+regarding any restructuring of the terms and conditions of the loan 
+guarantee, including any deviations from the financial terms of the 
+loan guarantee.
+
+SEC. 5. RESTATING THE PROHIBITION ON SUBORDINATION.
+
+    Section 1702(d)(3) of the Energy Policy Act of 2005 (42 U.S.C. 
+16512(d)(3)) is amended by striking ``is not subordinate'' and 
+inserting ``, including any reorganization, restructuring, or 
+termination thereof, shall not at any time be subordinate''.
+
+SEC. 6. ADMINISTRATIVE ACTIONS AND CIVIL PENALTIES.
+
+    (a) In General.--Any Federal official who is responsible for the 
+issuance of a loan guarantee under title XVII of the Energy Policy Act 
+of 2005 in a manner that violates the requirements of such title or of 
+this Act shall be--
+            (1) subject to appropriate administrative discipline 
+        provided for under title 5 of the United States Code, or any 
+        other applicable Federal law, including, when circumstances 
+        warrant, suspension from duty without pay or removal from 
+        office; and
+            (2) personally liable for a civil penalty in an amount of 
+        at least $10,000 but not more than $50,000 for each violation.
+    (b) Definition.--For purposes of this section, the term ``Federal 
+official'' means--
+            (1) an individual serving in a position in level I, II, 
+        III, IV, or V of the Executive Schedule, as provided in 
+        subchapter II of chapter 53 of title 5, United States Code; and
+            (2) an individual serving in a Senior Executive Service 
+        position, as provided in subchapter II of chapter 31 of title 
+        5, United States Code.
+
+SEC. 7. GAO STUDY OF FEDERAL SUBSIDIES IN ENERGY MARKETS.
+
+    (a) In General.--The Comptroller General shall conduct a study of 
+the Federal subsidies in energy markets provided from fiscal year 2003 
+through fiscal year 2012.
+    (b) Focus.--The study required under subsection (a) shall have 
+particular focus on Federal subsidies in energy markets provided in 
+support of--
+            (1) electricity production, transmission, and consumption;
+            (2) transportation fuels and infrastructure;
+            (3) energy-related research and development; and
+            (4) facilities that manufacture energy-related components.
+    (c) Report.--Not later than 1 year after the date of enactment of 
+this Act, the Comptroller General shall submit to the Committee on 
+Energy and Commerce and the Committee on Science, Space, and Technology 
+of the House of Representatives and the Committee on Energy and Natural 
+Resources of the Senate a report that describes the results of the 
+study conducted under subsection (a), including an identification and 
+quantification of--
+            (1) costs to the United States Treasury;
+            (2) impacts on United States energy security;
+            (3) impacts on electricity prices, including any potential 
+        negative pricing impact on wholesale electricity markets;
+            (4) impacts on transportation fuel prices;
+            (5) impacts on private energy-related industries not 
+        benefitting from Federal subsidies in energy markets;
+            (6) any Federal subsidies in energy markets that are 
+        provided to foreign persons or corporations; and
+            (7) subsidies and direct financial interest any of the 15 
+        foreign countries with the largest gross domestic product are 
+        providing to support energy markets in their respective 
+        countries.
+    (d) Definition.--For purposes of this section, the term ``Federal 
+subsidies'' means Federal grants, direct loans, loan guarantees, and 
+tax credits, and other programmatic activities targeted at energy 
+markets and related sectors, relating to specific energy technologies.
+
+            Passed the House of Representatives September 14, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.

@@ -1,0 +1,154 @@
+
+[Congressional Bills 112th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3582 Referred in Senate (RFS)]
+
+112th CONGRESS
+  2d Session
+                                H. R. 3582
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            February 6, 2012
+
+    Received; read twice and referred to the Committee on the Budget
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+     To amend the Congressional Budget Act of 1974 to provide for 
+          macroeconomic analysis of the impact of legislation.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Pro-Growth Budgeting Act of 2012''.
+
+SEC. 2. MACROECONOMIC IMPACT ANALYSES.
+
+    (a) In General.--Part A of title IV of the Congressional Budget Act 
+of 1974 is amended by adding at the end the following new section:
+
+          ``macroeconomic impact analysis of major legislation
+
+    ``Sec. 407.  (a) Congressional Budget Office.--The Congressional 
+Budget Office shall, to the extent practicable, prepare for each major 
+bill or resolution reported by any committee of the House of 
+Representatives or the Senate (except the Committee on Appropriations 
+of each House), as a supplement to estimates prepared under section 
+402, a macroeconomic impact analysis of the budgetary effects of such 
+bill or resolution for the ten fiscal-year period beginning with the 
+first fiscal year for which an estimate was prepared under section 402 
+and each of the next three ten fiscal-year periods. Such estimate shall 
+be predicated upon the supplemental projection described in section 
+202(e)(4). The Director shall submit to such committee the 
+macroeconomic impact analysis, together with the basis for the 
+analysis. As a supplement to estimates prepared under section 402, all 
+such information so submitted shall be included in the report 
+accompanying such bill or resolution.
+    ``(b) Economic Impact.--The analysis prepared under subsection (a) 
+shall describe the potential economic impact of the applicable major 
+bill or resolution on major economic variables, including real gross 
+domestic product, business investment, the capital stock, employment, 
+interest rates, and labor supply. The analysis shall also describe the 
+potential fiscal effects of the bill or resolution, including any 
+estimates of revenue increases or decreases resulting from changes in 
+gross domestic product. To the extent practicable, the analysis should 
+use a variety of economic models in order to reflect the full range of 
+possible economic outcomes resulting from the bill or resolution. The 
+analysis (or a technical appendix to the analysis) shall specify the 
+economic and econometric models used, sources of data, relevant data 
+transformations, and shall include such explanation as is necessary to 
+make the models comprehensible to academic and public policy analysts.
+    ``(c) Definitions.--As used in this section--
+            ``(1) the term `macroeconomic impact analysis' means--
+                    ``(A) an estimate of the changes in economic 
+                output, employment, interest rates, capital stock, and 
+                tax revenues expected to result from enactment of the 
+                proposal;
+                    ``(B) an estimate of revenue feedback expected to 
+                result from enactment of the proposal; and
+                    ``(C) a statement identifying the critical 
+                assumptions and the source of data underlying that 
+                estimate;
+            ``(2) the term `major bill or resolution' means any bill or 
+        resolution if the gross budgetary effects of such bill or 
+        resolution for any fiscal year in the period for which an 
+        estimate is prepared under section 402 is estimated to be 
+        greater than .25 percent of the current projected gross 
+        domestic product of the United States for any such fiscal year;
+            ``(3) the term `budgetary effect', when applied to a major 
+        bill or resolution, means the changes in revenues, outlays, 
+        deficits, and debt resulting from that measure; and
+            ``(4) the term `revenue feedback' means changes in revenue 
+        resulting from changes in economic growth as the result of the 
+        enactment of any major bill or resolution.''.
+    (b) Conforming Amendment.--The table of contents set forth in 
+section 1(b) of the Congressional Budget Act of 1974 is amended by 
+inserting after the item relating to section 406 the following new 
+item:
+
+``Sec. 407. Macroeconomic impact analysis of major legislation.''.
+
+SEC. 3. ADDITIONAL CBO REPORT TO BUDGET COMMITTEES.
+
+    Section 202(e) of the Congressional Budget Act of 1974 is amended 
+by adding at the end the following new paragraphs:
+            ``(4)(A) After the President's budget submission under 
+        section 1105(a) of title 31, United States Code, in addition to 
+        the baseline projections, the Director shall submit to the 
+        Committees on the Budget of the House of Representatives and 
+        the Senate a supplemental projection assuming extension of 
+        current tax policy for the fiscal year commencing on October 1 
+        of that year with a supplemental projection for the 10 fiscal-
+        year period beginning with that fiscal year, assuming the 
+        extension of current tax policy.
+            ``(B) For the purposes of this paragraph, the term `current 
+        tax policy' means the tax policy in statute as of December 31 
+        of the current year assuming--
+                    ``(i) the budgetary effects of measures extending 
+                the Economic Growth and Tax Relief Reconciliation Act 
+                of 2001;
+                    ``(ii) the budgetary effects of measures extending 
+                the Jobs and Growth Tax Relief Reconciliation Act of 
+                2003;
+                    ``(iii) the continued application of the 
+                alternative minimum tax as in effect for taxable years 
+                beginning in 2011 pursuant to title II of the Tax 
+                Relief, Unemployment Insurance Reauthorization, and Job 
+                Creation Act of 2010, assuming that for taxable years 
+                beginning after 2011 the exemption amount shall equal--
+                            ``(I) the exemption amount for taxable 
+                        years beginning in 2011, as indexed for 
+                        inflation; or
+                            ``(II) if a subsequent law modifies the 
+                        exemption amount for later taxable years, the 
+                        modified exemption amount, as indexed for 
+                        inflation; and
+                    ``(iv) the budgetary effects of extending the 
+                estate, gift, and generation-skipping transfer tax 
+                provisions of title III of the Tax Relief, Unemployment 
+                Insurance Reauthorization, and Job Creation Act of 
+                2010.
+            ``(5) On or before July 1 of each year, the Director shall 
+        submit to the Committees on the Budget of the House of 
+        Representatives and the Senate, the Long-Term Budget Outlook 
+        for the fiscal year commencing on October 1 of that year and at 
+        least the ensuing 40 fiscal years.''.
+
+            Passed the House of Representatives February 2, 2012.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
