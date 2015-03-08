@@ -43,8 +43,8 @@ while [ $OFFSET -lt $NUM_BILLS ]; do
 done
 
 # get "link" field for each bill and bill result
-passfile="../bill_pass_fail_links/pass$CONGRESS.txt"
-failfile="../bill_pass_fail_links/fail$CONGRESS.txt"
+passfile="./pass$CONGRESS.txt"
+failfile="./fail$CONGRESS.txt"
 if [ -e $passfile ]; then rm $passfile; fi
 if [ -e $failfile ]; then rm $failfile; fi
 
