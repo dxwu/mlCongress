@@ -1,5 +1,6 @@
 from __future__ import division
 import numpy
+import random
 
 class RandomForest:
 
@@ -25,26 +26,38 @@ class RandomForest:
         pSize = pTest.shape[0]
         fSize = fTest.shape[0]
 
-        good = 0
+        correct = 0
 
         for s in range(pSize):
+
+            passed = 0
 
             for tree in self.forest:
 
                 if (tree.classify(pTest[s]) == 1):
 
-                    good +=1
+                    passed += 1
+
+            if (passed > self.size - passed):
+
+                correct += 1
 
         for s in range(fSize):
+
+            failed = 0
 
             for tree in self.forest:
 
                 if (tree.classify(fTest[s]) == 0):
 
-                    good += 1
+                    failed += 1
+
+            if (failed > self.size - failed):
+
+                correct += 1
 
 
-        return good / (self.size * (pSize + fSize))
+        return 1 - (correct / (pSize + fSize))
 
     def predict(self, testDocs):
 
@@ -70,15 +83,15 @@ class DecisionTree:
 
     def __init__(self, numPass, numFail, depth):
 
-        self.left = null            # child node below threshold
-        self.right = null            # child node above threshold
+        self.left = None            # child node below threshold
+        self.right = None            # child node above threshold
         self.numPass = numPass        # number passed
         self.numFail = numFail        # number failed
         self.depth = depth
-        self.thresh = null             # splitting threshold
-        self.feat = null             # splitting feature index
-        self.decision = null
-        self.postProb = null        # posterior probability = pass / total
+        self.thresh = None             # splitting threshold
+        self.feat = None             # splitting feature index
+        self.decision = None
+        self.postProb = None        # posterior probability = pass / total
 
     def addChildren(self, above, below):
 
@@ -91,7 +104,7 @@ class DecisionTree:
 
     def makeDecision(self):
 
-        if (self.numPass != 0 and self.numFail != 0):
+        if (self.numPass + self.numFail != 0):
 
             # choose class with higher posterior probability
             self.calculatePostProb()
@@ -110,7 +123,7 @@ class DecisionTree:
 
         node = self
 
-        while (node.decision == null):
+        while (node.decision == None):
 
             if (test[node.feat] > node.thresh):
 
@@ -129,13 +142,15 @@ class DecisionTree:
         # tally number of samples above and below the 
         # given threshold for the given feature
         above = (samples[:,f] > split).sum()
-        below = samples.shape[0] - high
+        below = samples.shape[0] - above
 
         return (above, below)
 
     def makePassFail(self, samples):
 
         high = samples[:,self.feat] > self.thresh
+        # print "----sum"
+        # print high.sum()
 
         # generate new lists for samples above and 
         # below the threshold
@@ -147,8 +162,10 @@ class DecisionTree:
     def entropy(self, c1, c2):
 
         total = c1 + c2
-        return (c1 / total) * numpy.log2(c1 / total) + \
-               (c2 / total) * numpy.log2(c2 / total)
+        # print(c2 / total)
+        # print(c1 / total)
+        return -1 * ((c1 / total) * numpy.log2((c1 / total) + numpy.spacing(1)) + \
+               (c2 / total) * numpy.log2((c2 / total) + numpy.spacing(1)))
 
     def infoGain(self, f, split, passed, failed):
 
@@ -158,10 +175,14 @@ class DecisionTree:
         (highPass, lowPass) = self.highLowTally(passed, f, split)
         (highFail, lowFail) = self.highLowTally(failed, f, split)
 
+        # print "----total", self.entropy(self.numPass, self.numFail)
+        # print "----high", self.entropy(highPass, highFail)
+        # print "----low", self.entropy(lowPass, lowFail)
+
         # calculate entropies
-        entWhole = entropy(self.numPass, self.numFail)
-        entHigh = entropy(highPass, highFail) * ((highPass + highFail) / total)
-        entLow = entropy(lowPass, lowFail) * ((lowPass + lowFail) / total)
+        entWhole = self.entropy(self.numPass, self.numFail)
+        entHigh = self.entropy(highPass, highFail) * ((highPass + highFail) / total)
+        entLow = self.entropy(lowPass, lowFail) * ((lowPass + lowFail) / total)
 
         gain = entWhole - entHigh - entLow
 
@@ -184,9 +205,13 @@ class DecisionTree:
 
             # sort by feature value
             fArray[0:self.numPass,[0]] = passed[:,[f]]
-            fArray[self.numPass + 1:self.numFail, [0]] = failed[:,[f]]
+            fArray[self.numPass:, [0]] = failed[:,[f]]
             fArray[0:self.numPass,[1]] = numpy.ones((self.numPass, 1))
             fArray = fArray[numpy.lexsort((fArray[:,0], ))]
+
+            # print "-----farray"
+            # print fArray
+            # print "----end farray"
 
             # look through entire feature specific matrix
             for s in range(m - 1):
@@ -197,12 +222,15 @@ class DecisionTree:
                     # choose threshold to be midpoint
                     # calculate information gain for that threshold
                     split = (fArray[s][0] + fArray[s + 1][0]) / 2
-                    gain = infoGain(f, split, passed, failed)
+                    # print "----split: ", split
+                    gain = self.infoGain(f, split, passed, failed)
+
+                    # print "----gain: ", gain
 
                     if (gain > maxGain[i][0]):
 
                         maxGain[i][0] = gain
-                        maxGain[i][1] = thresh
+                        maxGain[i][1] = split
 
         idx = numpy.argmax(maxGain[:,0])    # index of highest gain
 
@@ -212,9 +240,16 @@ class DecisionTree:
     def buildDTree(self, k, maxD, passed, failed):
 
         ###### EDIT HERE ######
+        # print "numPass: ", self.numPass
+        # print "numFail: ", self.numFail
+        # print "depth: ", self.depth
         if (self.numPass == 0 or self.numFail == 0 or self.depth >= maxD):
 
             self.makeDecision()
+            # print "----"
+            # print "made decision: ", self.decision
+            # print "at depth: ", self.depth
+            # print "----"
 
         else:
 
@@ -226,16 +261,22 @@ class DecisionTree:
             fsubset = random.sample(numpy.arange(n), k)
             self.splitBinary(fsubset, passed, failed)
 
+            # print "-----thresh/feature"
+            # print self.thresh, self.feat
             # generate new set of pass and fail lists
             (highPass, lowPass) = self.makePassFail(passed)
             (highFail, lowFail) = self.makePassFail(failed)
 
             # create children nodes at next depth
-            above = DecisionTree(highPass.shape[0], highFail.shape[0], self.depth - 1)
-            below = DecisionTree(lowPass.shape[0], lowFail.shape[0], self.depth - 1)
+            above = DecisionTree(highPass.shape[0], highFail.shape[0], self.depth + 1)
+            below = DecisionTree(lowPass.shape[0], lowFail.shape[0], self.depth + 1)
+
+            # print "----children----"
+            # print "above", above.numPass, above.numFail, above.depth
+            # print "below", below.numPass, below.numFail, above.depth
 
             self.addChildren(above, below)
 
             # build trees at children
-            above.buildDTree(kSubset, highPass, highFail)
-            below.buildDTree(kSubset, lowPass, lowFail)
+            above.buildDTree(k, maxD, highPass, highFail)
+            below.buildDTree(k, maxD, lowPass, lowFail)
