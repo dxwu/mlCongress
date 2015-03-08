@@ -90,7 +90,7 @@ if __name__=='__main__':
     
     p = open('./vocab_length.txt', 'w')
     q = open('./vocab.txt', 'w')
-    r = open('./labels.txt', 'w')
+    r = open('./labels/labels_k' + sys.argv[3] + '.txt', 'w')
     r.write(str(len([name for name in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1] + name)])) + ',')
     r.write(str(len([name for name in os.listdir(sys.argv[2]) if os.path.isfile(sys.argv[2] + name)])) + ',')
     #q.write(str(vocab.vocas_id))

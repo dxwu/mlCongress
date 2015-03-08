@@ -27,7 +27,7 @@ end
 td = topic_dist(n_m_z, alpha);
 
 dlmwrite('./word_dist.txt',wd);
-dlmwrite('./topic_dist.txt',td);
+dlmwrite(strcat('./train_features/topic_dist_k',int2str(K),'.txt'),td);
 dlmwrite('./perplexity.txt',perp);
 dlmwrite('./topic_word_count.txt', n_z);
 dlmwrite('./doc_topic_word_count.txt', n_m_z);

@@ -1,4 +1,4 @@
-function q2a()
+function q2a(K)
 % This script requires the following functions to be implemented:
 % q2_initialize
 % q2_predict
@@ -17,11 +17,10 @@ function q2a()
 %disp(size(X));
 %disp(size(Y));
 
-labels = dlmread('./labels.txt', ',');
-X = dlmread('./topic_dist.txt', ','); %X is m x K, where X(m, k) = P(topic k | document m)
+labels = dlmread(strcat('./labels/labels_k',int2str(K),'.txt'), ',');
+X = dlmread(strcat('./train_features/topic_dist_k',int2str(K),'.txt'), ','); %X is m x K, where X(m, k) = P(topic k | document m)
 Y = [ones(labels(1), 1); zeros(labels(2), 1)];
-
-Xtest = dlmread('./topic_dist_test.txt', ',');
+Xtest = dlmread(strcat('./test_features/topic_dist_test_k',int2str(K),'.txt'), ',');
 Ytest = [ones(labels(3), 1); zeros(labels(4), 1)];
 
 %   146    22
