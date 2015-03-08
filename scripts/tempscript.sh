@@ -1,0 +1,11 @@
+./billsStatus.sh 103
+./billsStatus.sh 104
+./billsStatus.sh 105
+./billsStatus.sh 106
+./billsStatus.sh 107
+./billsStatus.sh 108
+./billsStatus.sh 109
+./billsStatus.sh 110
+./billsStatus.sh 111
+./billsStatus.sh 112
+./billsStatus.sh 113
