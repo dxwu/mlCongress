@@ -2,7 +2,7 @@ import re
 import numpy
 import os
 import sys
-import nltk
+#import nltk
 import shutil
 import os.path
 import random
