@@ -97,9 +97,9 @@ if __name__=='__main__':
 	#[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
 	random.seed(0)
 
-	k_range = range(5,6)
-	d_range = range(7,8)
-	s_range = range(3,4)
+	k_range = range(5,10)
+	d_range = range(5,30)
+	s_range = range(1,30)
 	
 	hyperparams = pick_best_combo(k_range,d_range,s_range)
 	for obj in hyperparams:
