@@ -53,6 +53,7 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 			for split in s_arr:
 				if split > k:
 					continue
+				print "k: " + str(k) + "depth: " + str(depth) + "split: " + str(split)
 				[train_pass, train_fail] = format.getTopicDistributions(k, True)
 				train_pass = numpy.random.permutation(train_pass)
 				train_fail = numpy.random.permutation(train_fail)
@@ -103,11 +104,11 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 if __name__=='__main__':
 	#features('doc_topic_word_count',k)
 	#[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
-	random.seed(50)
+	random.seed(750)
 
-	k_range = [8]
-	d_range = [3]#range(2,8)
-	s_range = [3]#range(2,6)
+	k_range = range(7,8)
+	d_range = [10]#range(2,8)
+	s_range = range(1,10)#range(2,6)
 	
 	hyperparams = pick_best_combo(k_range,d_range,s_range)
 	for obj in hyperparams:
@@ -122,7 +123,7 @@ if __name__=='__main__':
 
 	f.close()
 
-	f = open('./c_v_K.txt','w')
+	"""f = open('./c_v_K.txt','w')
 	for obj in hyperparams:
 		if obj.depth == best.depth and obj.split == best.split:
 			f.write(str(obj.err) + ',' + str(obj.K) + '\n')
@@ -134,7 +135,7 @@ if __name__=='__main__':
 		if obj.K == best.K and obj.split == best.split:
 			f.write(str(obj.err) + ',' + str(obj.depth) + '\n')
 	f.close()
-
+"""
 	"""best_combo = pick_best_combo(k_range,d_range,s_range)
 	curr_depth = prev_depth = best_combo[0].depth
 	curr_k = prev_k = best_combo[0].K
