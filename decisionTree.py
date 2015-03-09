@@ -11,15 +11,18 @@ class RandomForest:
         self.maxD = maxD
         self.forest = []
         self.OOB = None
+        self.OOBcases = []
 
     def buildForest(self, passed, failed):
 
         numPass = passed.shape[0]
         numFail = failed.shape[0]
         total = numPass + numFail
+        f = passed.shape[1]
         split = (total * 2) // 3
 
         self.OOB = numpy.zeros((total, 2))   # [# of times OOB case][predict passed]
+        # print self.OOB
 
         caseSet = numpy.vstack((passed, failed))
 
@@ -37,24 +40,31 @@ class RandomForest:
             trainSet = caseSet[train]   # bootstrap sample
 
             # split bootstrap sample into pass and fail
-            trainPset = treeSet[train < numPass]
-            trainFset = treeSet[train >= numPass]
+            trainPset = trainSet[train < numPass]
+            trainFset = trainSet[train >= numPass]
 
-            self.forest.append(DecisionTree(treePset.shape[0], treeFset.shape[0], 0)) ### or 1?
-            self.forest[i].buildDTree(self.k, self.maxD, treePset, treeFset)
+            self.forest.append(DecisionTree(trainPset.shape[0], trainFset.shape[0], 0)) ### or 1?
+            self.forest[i].buildDTree(self.k, self.maxD, trainPset, trainFset)
 
             testSet = caseSet[test]     # OOB sample
+            self.OOBcases.append(test)
+            # print testSet
 
             # testPset = testSet[test < numPass]
             # testFset = testSet[test >= numPass]
 
             # use tree to classify OOB samples
             OOBpredict = self.forest[i].OOBclassify(testSet)
+            # print "---OOBpredict"
+            # print OOBpredict
             self.OOB[:,0][test] += 1         # increment # times sample has been OOB
 
             # increment by pass prediction
             for i in range(test.shape[0]):
 
+                # print "test[i] " + str(test[i])
+                # print "in bounds? " + str(self.OOB[0][1])
+                # print "in bounds? " + str(self.OOB[1][1])
                 self.OOB[test[i]][1] += OOBpredict[i]
 
 
@@ -119,10 +129,6 @@ class RandomForest:
                     error += 1
 
         return error / (numPass + numFail)
-
-
-
-
 
     def predict(self, testDocs):
 
@@ -207,13 +213,13 @@ class DecisionTree:
     def OOBclassify(self, samples):
 
         m = samples.shape[0]
-        predictions = zeros((m, 1))
+        predictions = numpy.zeros((m, 1))
 
         for i in range(m):
 
             predictions[i] = self.classify(samples[i])
 
-        return predictions[i]
+        return predictions
 
     def highLowTally(self, samples, f, split):
 
