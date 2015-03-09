@@ -54,6 +54,13 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 				if split > k:
 					continue
 				[train_pass, train_fail] = format.getTopicDistributions(k, True)
+				train_pass = numpy.random.permutation(train_pass)
+				train_fail = numpy.random.permutation(train_fail)
+				print len(train_pass)
+				print len(train_pass[0])
+				print len(train_fail)
+				print len(train_fail[0])
+				
 				#[test_pass, test_fail] = format.getTopicDistributions(k, False) #call David's function to get the four matrices
 				N=5
 				mP=len(train_pass)
@@ -64,6 +71,7 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 				for j in range(0, N):
 					#print str(len(train_pass))
 					#print str(len(train_fail))
+					print 'CV: ' + str(j)
 
 					train_pass_cv = numpy.concatenate((train_pass[0:math.floor(mP / N * j), :], \
 					train_pass[math.floor(mP / N * (j + 1)):mP, :]),axis=0)
@@ -78,7 +86,7 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 					forest = RandomForest(100, split, depth)
 					forest.buildForest(train_pass_cv, train_fail_cv)
 					error = error + forest.classError(valid_pass_cv, valid_fail_cv)
-
+					print str(error)
 					#error = error + rf(train_pass_cv,train_fail_cv,valid_pass_cv,valid_fail_cv,depth,split)
 
 					#print str(len(train_pass_cv)+len(valid_pass_cv))
@@ -88,22 +96,44 @@ def pick_best_combo(k_arr,d_arr,s_arr):
 				error = error/N
 				#print str(error) #number between 0 and 1
 				hyperparams.append(HyperParams(k, depth, split, error))
-	hyperparams.sort()
+	#hyperparams.sort()
 	return hyperparams
 
 
 if __name__=='__main__':
 	#features('doc_topic_word_count',k)
 	#[train_pass, train_fail, test_pass, test_fail] = features(k) #call David's function to get the four matrices
-	random.seed(0)
+	random.seed(50)
 
-	k_range = range(5,10)
-	d_range = range(5,30)
-	s_range = range(1,30)
+	k_range = [8]
+	d_range = [3]#range(2,8)
+	s_range = [3]#range(2,6)
 	
 	hyperparams = pick_best_combo(k_range,d_range,s_range)
 	for obj in hyperparams:
-		print 'Error: ' + str(hyperparams.err) + ' k: ' + str(hyperparams.K) + ' depth: ' + str(hyperparams.depth) + ' split: ' + str(hyperparams.split)
+		print 'Error: ' + str(obj.err) + ' k: ' + str(obj.K) + ' depth: ' + str(obj.depth) + ' split: ' + str(obj.split)
+
+	best = min(hyperparams)
+
+	f = open('./c_v_split.txt','w')
+	for obj in hyperparams:
+		if obj.K == best.K and obj.depth == best.depth:
+			f.write(str(obj.err) + ',' + str(obj.split) + '\n')
+
+	f.close()
+
+	f = open('./c_v_K.txt','w')
+	for obj in hyperparams:
+		if obj.depth == best.depth and obj.split == best.split:
+			f.write(str(obj.err) + ',' + str(obj.K) + '\n')
+
+	f.close()
+
+	f = open('./c_v_depth.txt','w')
+	for obj in hyperparams:
+		if obj.K == best.K and obj.split == best.split:
+			f.write(str(obj.err) + ',' + str(obj.depth) + '\n')
+	f.close()
 
 	"""best_combo = pick_best_combo(k_range,d_range,s_range)
 	curr_depth = prev_depth = best_combo[0].depth
