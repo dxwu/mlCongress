@@ -26,3 +26,11 @@ Temporary Items
 .apdisk
 
 Congress/*
+pass/*
+fail/*
+pass_test/*
+fail_test/*
+pass_clean/*
+fail_clean/*
+pass_test_clean/*
+fail_test_clean/*
