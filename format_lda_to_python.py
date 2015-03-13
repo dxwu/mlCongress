@@ -47,7 +47,7 @@ def getTopicDistributions(k, isTraining):
 		topicDistributionFile = "./test_features/topic_dist_test_k" + str(k) + ".txt"
 
 	topicDistributionPass = np.zeros(shape=(numPass, k))
-	topicDistributionFail = np.zeros(shape=(numFail, k))
+	topicDistributionFail = np.zeros(shape=(numFail+10, k))
 	documentNumber = 0
 	lookingAtFail = False
 
