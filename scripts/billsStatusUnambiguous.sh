@@ -49,8 +49,13 @@ if [ -e $passfile ]; then rm $passfile; fi
 if [ -e $failfile ]; then rm $failfile; fi
 
 BILL_LINK="\"link\": \"https://www.govtrack.us/congress/bills/"
-RESULT="result="
 bill_status="ambiguous"
+
+# bills explicitly pass only if they're enacted or vetoed by the president
+PASS_RESULT_1="state=\"ENACTED:SIGNED\""
+PASS_RESULT_2="state=\"PROV_KILL:VETO\""
+FAIL_RESULT="result=\"fail\""
+
 
 echo "sorting bills..."
 
@@ -68,13 +73,21 @@ while read line; do
 		link=`echo $link | cut -d' ' -f2 | tr -d \" | tr -d ,`
 		bill_status="ambiguous"
 
-    elif [[ $line == *$RESULT* ]]; then
+    elif [[ $line == *"result="* ]]; then
+    	#echo $line
+    	#sleep 1
 		# save last result of this bill to var 'bill_status'
 		# for multiple voting records, this records the last one 
-		if [[ $line == *"result=\"pass\""* ]]; then
-			bill_status="passed"
-		elif [[ $line == *"result=\"fail\""* ]]; then
+		if [[ $line == *"result=\"fail\""* ]]; then
 			bill_status="failed"
+		else
+			bill_status="ambiguous"
+		fi
+	elif [[ $line == *"state="* ]]; then
+		if [[ $line == *$PASS_RESULT_1* ]]; then
+			bill_status="passed"
+		elif [[ $line == *$PASS_RESULT_2* ]]; then
+			bill_status="passed"
 		else
 			bill_status="ambiguous"
 		fi
