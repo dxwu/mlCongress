@@ -21,6 +21,7 @@ if me < min_error
     min_params = [hp_1(ind), hp_2(ind), x(ind)];
 end
 
+legend_labels = {};
 prev_i = 1;
 c = 1;
 for i = 2:length(hp_1)
@@ -31,8 +32,9 @@ for i = 2:length(hp_1)
         
         plot(m(:,1),m(:,2),colors(c,:));
         hold on;
-        %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+        errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
         
+        legend_labels = [legend_labels, strcat('K=', int2str(hp_1(i-1)), ', depth=', int2str(hp_2(i-1)) )];
         c = mod(c+1,size(colors,1));
         if c == 0
             c = c+1;
@@ -47,11 +49,11 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
-    
+    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
     hold on;
 end
-
+legend(legend_labels,'FontSize',12,'FontWeight','bold');
 % set of \tau parameters 
 
 % close curent opening figures
@@ -79,14 +81,9 @@ x = cv(:,4);
 y = cv(:,3);
 sd = cv(:,5);
 
+legend_labels = {};
 prev_i = 1;
 c = 1;
-
-[me, ind] = min(y);
-if me < min_error
-    min_error = me;
-    min_params = [hp_1(ind), x(ind), hp_2(ind)];
-end
 
 for i = 2:length(hp_1)
     if hp_1(i) ~= hp_1(i-1) || hp_2(i) ~= hp_2(i-1)
@@ -96,8 +93,8 @@ for i = 2:length(hp_1)
         
         plot(m(:,1),m(:,2),colors(c,:));
         hold on;
-        %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
-        
+        errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+        legend_labels = [legend_labels, strcat('K=', int2str(hp_1(i-1)), ', split=', int2str(hp_2(i-1)) )];
         c = mod(c+1,size(colors,1));
         if c == 0
             c = c+1;
@@ -113,10 +110,11 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
-    
+    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
     hold on;
 end
+legend(legend_labels,'FontSize',12,'FontWeight','bold');
 % set of \tau parameters 
 
 % close curent opening figures
@@ -142,12 +140,6 @@ x = cv(:,4);
 y = cv(:,3);
 sd = cv(:,5);
 
-[me, ind] = min(y);
-if me < min_error
-    min_error = me;
-    min_params = [x(ind), hp_1(ind), hp_2(ind)];
-end
-
 prev_i = 1;
 c = 1;
 
@@ -159,7 +151,7 @@ for i = 2:length(hp_1)
         
         plot(m(:,1),m(:,2),colors(c,:));
         hold on;
-        %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+        errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
         
         c = mod(c+1,size(colors,1));
         if c == 0
@@ -175,7 +167,7 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    %errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
+    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
     
     hold on;
 end
