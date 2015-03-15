@@ -1,14 +1,19 @@
 function [ ] = classify( K, alpha, beta, nIter, b, dir_name_arr )
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
 
-wd = dlmread('./word_dist.txt', ',');
-n_z = dlmread('./topic_word_count.txt', ',');
+%   For each bill in the directories listed in dir_name_arr, compute the
+%   features (i.e. posterior topic probabilities), and write the feature
+%   vectors to a file in the test_features directory
+
+%   Sorry, but alpha, beta, nIter, b are unnecessary parameters. It is
+%   safer not to remove them since classify is called in a lot of places.
+
+word_distrib = dlmread('./word_dist.txt', ',');
+topic_distrib = dlmread('./topic_word_count.txt', ',');
 
 [ docs, V ] = read_files( dir_name_arr );
 [ m, n ] = size(docs);
-k = length(n_z);
-n_z = (n_z + eps) / sum(n_z);
+k = length(topic_distrib);
+topic_distrib = (topic_distrib + eps) / sum(topic_distrib);
 probDist = zeros(m, k);
 
 for d = 1:m                 % for each document
@@ -20,9 +25,9 @@ for d = 1:m                 % for each document
             if (docs(d, p) == 0)
                 break;
             end
-            prob = prob + log(wd(z, docs(d, p)))/N;
+            prob = prob + log(word_distrib(z, docs(d, p)))/N;
         end
-        prob = prob + log(n_z(z))/N;
+        prob = prob + log(topic_distrib(z))/N;
         probDist(d, z) = prob;
         probDist(d, z) = probDist(d, z);
     end

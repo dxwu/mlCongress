@@ -1,4 +1,4 @@
-function [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment( docs, V, K )
+function [ docword_topic, doctopic_prevalence, topic_word_distrib, topic_distrib ] = random_topic_assignment( docs, V, K )
 %RANDOM_TOPIC_ASSIGNMENT Summary of this function goes here
 %   m: number of documents
 %   n: the number of words in the longest document
@@ -12,27 +12,27 @@ function [ z_m_n, n_m_z, n_z_t, n_z ] = random_topic_assignment( docs, V, K )
 %   V: size of vocabulary
 %
 %   Return Values:
-%   z_m_n: an m x n matrix where z_m_n(m, n) is the topic assigned to the
+%   docword_topic: an m x n matrix where docword_topic(m, n) is the topic assigned to the
 %   n'th word in the m'th document
 %
-%   n_m_z: an m x K matrix where n_m_z(m, z) is the number of words in
+%   doctopic_prevalence: an m x K matrix where doctopic_prevalence(m, z) is the number of words in
 %   document m assigned to topic z
 %
-%   n_z_t: an K x V matrix where n_z_t(z, t) is the number of times the
+%   topic_word_distrib: an K x V matrix where topic_word_distrib(z, t) is the number of times the
 %   t'th word in the vocabulary is assigned to topic z
 %       Note: the same word in diffierent documents may be assigned to
 %       different topics
 %
-%   n_z: a 1 x K matrix, where n_z(z) is the number of words (across all
+%   topic_distrib: a 1 x K matrix, where topic_distrib(z) is the number of words (across all
 %   documents) assigned to topic z
 
 m = size(docs, 1);
 n = size(docs, 2);
 
-z_m_n = zeros(m, n);
-n_m_z = zeros(m, K);
-n_z_t = zeros(K, V);
-n_z = zeros(1, K);
+docword_topic = zeros(m, n);
+doctopic_prevalence = zeros(m, K);
+topic_word_distrib = zeros(K, V);
+topic_distrib = zeros(1, K);
 
 for i = 1:m
     for j = 1:n
@@ -49,10 +49,10 @@ for i = 1:m
         %randomly choose a topic for word t
         z = randi(K);
         
-        z_m_n(i, j) = z;
-        n_m_z(i, z) = n_m_z(i, z) + 1;
-        n_z_t(z, t) = n_z_t(z, t) + 1;
-        n_z(z) = n_z(z) + 1;
+        docword_topic(i, j) = z;
+        doctopic_prevalence(i, z) = doctopic_prevalence(i, z) + 1;
+        topic_word_distrib(z, t) = topic_word_distrib(z, t) + 1;
+        topic_distrib(z) = topic_distrib(z) + 1;
     end
 end
 

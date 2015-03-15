@@ -1,30 +1,37 @@
-function [ top_words, n_z_t ] = word_dist( n_z_t, n_z, beta, V, b )
+function [ top_words, topic_word_distrib ] = word_dist( topic_word_distrib, topic_distrib, beta, V, b )
 %UNTITLED3 Summary of this function goes here
 %
 %   Inputs:
-%   n_z_t: an K x V matrix where n_z_t(z, t) is the number of times the
+%   topic_word_distrib: an K x V matrix where topic_word_distrib(z, t) is the number of times the
 %   t'th word in the vocabulary is assigned to topic z
-%       Note: the same word in diffierent documents may be assigned to
+%       Note: the same word in different documents may be assigned to
 %       different topics
 %
-%   n_z: a 1 x K matrix, where n_z(z) is the number of words (across all
+%   topic_distrib: a 1 x K matrix, where topic_distrib(z) is the number of words (across all
 %   documents) assigned to topic z
 %
 %   beta: the dirichlet prior for the distribution of words - P(word | topic)
 %
 %   V: size of vocabulary
+%
+%   Outputs:
+%   topic_word_distrib: an K x V matrix where topic_word_distrib(z, t) is the number of times the
+%   t'th word in the vocabulary is assigned to topic z divided by the
+%   number of occurrences of the t'th word
+%
+%   top_words: a K x b matrix where top_words(z,i) is the i'th most
+%   frequent word for topic z
 
-K = length(n_z);
+K = length(topic_distrib);
 for i = 1:K
-    n_z_t(i, :) = (n_z_t(i, :) + beta) / (n_z(i) + V * beta);
+    topic_word_distrib(i, :) = (topic_word_distrib(i, :) + beta) / (topic_distrib(i) + V * beta);
 end
 
 top_words = zeros(K, b);
 for j = 1:K
     %source: http://stackoverflow.com/questions/2692482/get-the-indices-of-the-n-largest-elements-in-a-matrix
-    [sortedValues,sortIndex] = sort(n_z_t(j,:),'descend');  %# Sort the values in
-    %isp(sortIndex(1:b));                                              %#   descending order
+    [sortedValues,sortIndex] = sort(topic_word_distrib(j,:),'descend');  %# Sort the values in descending order
     top_words(j, :) = sortIndex(1:b);  %# Get a linear index into A of the 5 largest values
 end
-%disp(top_words)
+
 end
