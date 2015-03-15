@@ -1,4 +1,4 @@
-function graph_cv()
+function graph_cv(plot_errors)
 
 min_error = 1;
 min_params = [0,0,0]; %k,d,s
@@ -24,6 +24,7 @@ end
 legend_labels = {};
 prev_i = 1;
 c = 1;
+err_bars = {};
 for i = 2:length(hp_1)
     if hp_1(i) ~= hp_1(i-1) || hp_2(i) ~= hp_2(i-1)
         mat = [x(prev_i:i-1), y(prev_i:i-1), sd(prev_i:i-1)];
@@ -32,9 +33,10 @@ for i = 2:length(hp_1)
         
         plot(m(:,1),m(:,2),colors(c,:));
         hold on;
-        errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
-        
         legend_labels = [legend_labels, strcat('K=', int2str(hp_1(i-1)), ', depth=', int2str(hp_2(i-1)) )];
+        err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
+
+        
         c = mod(c+1,size(colors,1));
         if c == 0
             c = c+1;
@@ -49,11 +51,18 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
     legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
+    err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
+    
+    
     hold on;
 end
 legend(legend_labels,'FontSize',12,'FontWeight','bold');
+if plot_errors == true
+    for i = 1:length(err_bars)
+        errorbar(err_bars{i}{1},err_bars{i}{2},err_bars{i}{3},err_bars{i}{4});
+    end
+end
 % set of \tau parameters 
 
 % close curent opening figures
@@ -68,7 +77,11 @@ xlabel('Number of features considered at each split');
 %axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
 grid on;
 
-saveas(gcf, 'cv_split.fig');
+if plot_errors == true
+    saveas(gcf, 'cv_split_err.fig');
+else
+    saveas(gcf, 'cv_split.fig');
+end
 
 hold off;
 
@@ -84,7 +97,7 @@ sd = cv(:,5);
 legend_labels = {};
 prev_i = 1;
 c = 1;
-
+err_bars = {};
 for i = 2:length(hp_1)
     if hp_1(i) ~= hp_1(i-1) || hp_2(i) ~= hp_2(i-1)
         mat = [x(prev_i:i-1), y(prev_i:i-1), sd(prev_i:i-1)];
@@ -93,8 +106,10 @@ for i = 2:length(hp_1)
         
         plot(m(:,1),m(:,2),colors(c,:));
         hold on;
-        errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
         legend_labels = [legend_labels, strcat('K=', int2str(hp_1(i-1)), ', split=', int2str(hp_2(i-1)) )];
+        err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
+
+        
         c = mod(c+1,size(colors,1));
         if c == 0
             c = c+1;
@@ -110,11 +125,17 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
-    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
+    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', split=', int2str(hp_2(prev_i)) )];
+    err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
     hold on;
 end
 legend(legend_labels,'FontSize',12,'FontWeight','bold');
+if plot_errors == true
+    disp('hi');
+    for i = 1:length(err_bars)
+        errorbar(err_bars{i}{1},err_bars{i}{2},err_bars{i}{3},err_bars{i}{4});
+    end
+end
 % set of \tau parameters 
 
 % close curent opening figures
@@ -128,7 +149,11 @@ xlabel('Depth of Tree');
 %axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
 grid on;
 
-saveas(gcf, 'cv_depth.fig');
+if plot_errors == true
+    saveas(gcf, 'cv_depth_err.fig');
+else
+    saveas(gcf, 'cv_depth.fig');
+end
 
 hold off;
 cv = dlmread('./c_v_K.txt', ',');

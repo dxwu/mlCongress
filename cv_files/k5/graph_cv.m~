@@ -53,7 +53,7 @@ if prev_i < length(hp_1)
     hold on;
     legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
     err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
-    
+    {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
     
     hold on;
 end
@@ -77,11 +77,7 @@ xlabel('Number of features considered at each split');
 %axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
 grid on;
 
-if plot_errors == true
-    saveas(gcf, 'cv_split_err.fig');
-else
-    saveas(gcf, 'cv_split.fig');
-end
+saveas(gcf, 'cv_split.fig');
 
 hold off;
 
@@ -125,8 +121,8 @@ if prev_i < length(hp_1)
     m = mat(order,:);
     plot(m(:,1),m(:,2),colors(c,:));
     hold on;
-    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', split=', int2str(hp_2(prev_i)) )];
-    err_bars{length(err_bars)+1} = {m(:,1),m(:,2),m(:,3),colors_err(c,:)};
+    legend_labels = [legend_labels, strcat('K=', int2str(hp_1(prev_i)), ', depth=', int2str(hp_2(prev_i)) )];
+    errorbar(m(:,1),m(:,2),m(:,3),colors_err(c,:));
     hold on;
 end
 legend(legend_labels,'FontSize',12,'FontWeight','bold');
@@ -149,11 +145,7 @@ xlabel('Depth of Tree');
 %axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
 grid on;
 
-if plot_errors == true
-    saveas(gcf, 'cv_depth_err.fig');
-else
-    saveas(gcf, 'cv_depth.fig');
-end
+saveas(gcf, 'cv_depth.fig');
 
 hold off;
 cv = dlmread('./c_v_K.txt', ',');
