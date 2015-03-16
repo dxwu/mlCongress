@@ -1,0 +1,168 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 6230 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 6230
+
+    To authorize the Secretary of Energy to make energy consumption 
+ reduction incentive payments to encourage the utilization of the best 
+available technology in the development of desalination facilities, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 28, 2006
+
+   Mr. Hall introduced the following bill; which was referred to the 
+                         Committee on Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To authorize the Secretary of Energy to make energy consumption 
+ reduction incentive payments to encourage the utilization of the best 
+available technology in the development of desalination facilities, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Desalination Energy Consumption 
+Reduction Act of 2006''.
+
+SEC. 2. DEFINITIONS.
+
+    For purposes of this Act:
+            (1) Qualified desalination facility.--The term ``qualified 
+        desalination facility'' means a facility that--
+                    (A) produces for sale to domestic customers 
+                desalinated seawater, brackish groundwater, or surface 
+                water whose source water is greater than 1000 
+                milligrams per liter total dissolved solids;
+                    (B) is owned or operated by--
+                            (i) a State or any political subdivision, 
+                        agency, authority, or instrumentality of a 
+                        State;
+                            (ii) an Indian tribe; or
+                            (iii) a corporation responsible for 
+                        providing municipal water service pursuant to 
+                        State or tribal law;
+                    (C) is first used to produce commercial desalinated 
+                water for sale during the 10-year period beginning on 
+                October 1 of the first fiscal year occurring after the 
+                date of enactment of this Act; and
+                    (D) uses the best available technology as 
+                determined by the Secretary.
+            (2) Indian tribe.--The term ``Indian tribe'' has the 
+        meaning given that term in section 4(e) of the Indian Self-
+        Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (4) State.--The term ``State'' means the several States, 
+        the District of Columbia, Puerto Rico, American Samoa, the 
+        Virgin Islands, Guam, and the Northern Mariana Islands.
+
+SEC. 3. DESALINATED WATER ENERGY CONSUMPTION REDUCTION INCENTIVE 
+              PAYMENTS.
+
+    (a) Incentive Payments.--The Secretary shall make incentive 
+payments in an amount determined under subsection (d) to the owners of 
+qualified desalination facilities to encourage the utilization of the 
+best available technology to reduce the consumption of electrical 
+energy in the desalination process.
+    (b) Agreement; Deadline.--The Secretary may not make any payment to 
+the owner or operator of a quailfied desalination facility under this 
+section unless, not later than the end of fiscal year 2018, the 
+Secretary enters into a written agreement with the owner or operator to 
+make such payment.
+    (c) Payment Period.--The Secretary may make payments to the owner 
+or operator of a qualified desalination facility under this section for 
+a period not to exceed 10 years--
+            (1) beginning on the date on which the facility is first 
+        used to produce desalinated water; and
+            (2) ending not later than September 30, 2028.
+    (d) Amount of Payment.--
+            (1) In general.--Payments made by the Secretary under this 
+        section to the owner or operator of any qualified desalination 
+        facility shall be based on the amount of electrical energy 
+        conserved by the facility below the benchmarks included in the 
+        formula established under paragraph (2) during the payment 
+        period described in subsection (c), adjusted as provided in 
+        paragraph (3).
+            (2) Base payment.--The Secretary shall establish a formula 
+        for making incentive payments to owners of qualified 
+        desalination facilities producing potable water from source 
+        waters ranging from 1,000 to 35,000 milligrams per liter total 
+        dissolved solids or more. The payment shall range from 30 cents 
+        per 1,000 gallons of potable water produced for any facility 
+        that can demonstrate a savings of .25 kilowatt hours per gallon 
+        to 90 cents per 1,000 gallons of potable water produced for any 
+        facility that can demonstrate a savings of 4.75 kilowatt hours 
+        per gallon from a benchmark for energy consumption by such 
+        facilities that ranges along a linear scale from 1.8 kilowatt 
+        hours per gallon for facilities utilizing source water of 1,000 
+        milligrams per liter total dissolved solids to 14 kilowatt 
+        hours per gallon for facilities utilizing source water of 
+        35,000 milligrams per liter total dissolved solids or more.
+            (3) Adjustments.--In the case of any payment made to any 
+        person under this subsection in a fiscal year beginning after 
+        calendar year 2008, the amount of such payment shall be 
+        adjusted by multiplying such amount by the inflation adjustment 
+        factor (determined under section 45K(d)(2) of the Internal 
+        Revenue Code of 1986 by substituting ``2008'' for ``1979'' in 
+        subparagraph (B) thereof) for the calendar year in which the 
+        payment is made.
+    (e) Application.--The Secretary may not make a grant to the owner 
+or operator of a qualified desalination facility under this section 
+unless the facility submits an application to the Secretary in such 
+form, at such time, and containing such information and assurances as 
+the Secretary may require. Further, as a part of the application the 
+applicant shall provide a written assurance to the Secretary that the 
+financial benefit of any incentive payments received by the applicant 
+will be utilized for the benefit of the rate payers.
+    (f) Limitation.--In any fiscal year not more than 60 percent of the 
+funds made available by the Secretary under this section shall be made 
+available to the owners or operators of qualified desalination 
+facilities that obtain source water directly from the sea, an estuary, 
+or from in-bank extraction wells that are of seawater origin.
+    (g) Priority.--In awarding incentive payments under this section, 
+the Secretary shall give priority to any application for a project 
+that--
+            (1) uses innovative technologies to reduce the energy 
+        demand of the project;
+            (2) uses renewable energy supplies in the desalination 
+        process;
+            (3) provides regional water supply benefits;
+            (4) provides a secure source of new water supplies for 
+        national defense activities;
+            (5) reduces the threat of a water supply disruption as a 
+        result of a natural disaster or acts of terrorism;
+            (6) uses technologies that minimize the damage to marine 
+        life; or
+            (7) provides significant water quality benefits.
+    (h) Budget Act Compliance.--The authority provided by this section 
+may be exercised only in such amounts or to such extent as is provided 
+in advance in appropriations Acts.
+    (i) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Secretary $200,000,000 to carry out this section 
+for the period encompassing fiscal years 2008 through 2018.
+                                 <all>

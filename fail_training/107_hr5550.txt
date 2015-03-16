@@ -1,0 +1,524 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5550 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 5550
+
+ To amend the Internal Revenue Code of 1986 to reform its penalty and 
+                          interest provisions.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 3, 2002
+
+ Mr. Houghton introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to reform its penalty and 
+                          interest provisions.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; ETC.
+
+    (a) Short Title.--This Act may be cited as the ``Penalty and 
+Interest Reform Act of 2002''.
+    (b) Amendment of 1986 Code.--Except as otherwise expressly 
+provided, whenever in this Act an amendment or repeal is expressed in 
+terms of an amendment to, or repeal of, a section or other provision, 
+the reference shall be considered to be made to a section or other 
+provision of the Internal Revenue Code of 1986.
+    (c) Table of Contents.--
+
+Sec. 1. Short title; etc.
+Sec. 2. Failure to pay estimated tax penalty converted to interest 
+                            charge on accumulated unpaid balance.
+Sec. 3. Exclusion from gross income for interest on overpayments of 
+                            income tax by individuals.
+Sec. 4. Abatement of interest.
+Sec. 5. Deposits made to suspend running of interest on potential 
+                            underpayments.
+Sec. 6. Expansion of interest netting for individuals.
+Sec. 7. Waiver of certain penalties for first-time unintentional minor 
+                            errors.
+Sec. 8. Frivolous tax submissions.
+Sec. 9. Clarification of application of Federal tax deposit penalty.
+
+SEC. 2. FAILURE TO PAY ESTIMATED TAX PENALTY CONVERTED TO INTEREST 
+              CHARGE ON ACCUMULATED UNPAID BALANCE.
+
+    (a) Penalty Moved to Interest Chapter of Code.--The Internal 
+Revenue Code of 1986 is amended by redesignating section 6654 as 
+section 6641 and by moving section 6641 (as so redesignated) from part 
+I of subchapter A of chapter 68 to the end of subchapter E of chapter 
+67 (as added by subsection (e)(1) of this section).
+    (b) Penalty Converted to Interest Charge.--The heading and 
+subsections (a) and (b) of section 6641 (as so redesignated) are 
+amended to read as follows:
+
+``SEC. 6641. INTEREST ON FAILURE BY INDIVIDUAL TO PAY ESTIMATED INCOME 
+              TAX.
+
+    ``(a) In General.--Interest shall be paid on any underpayment of 
+estimated tax by an individual for a taxable year for each day of such 
+underpayment. The amount of such interest for any day shall be the 
+product of the underpayment rate established under subsection (b)(2) 
+multiplied by the amount of the underpayment.
+    ``(b) Amount of Underpayment; Interest Rate.--For purposes of 
+subsection (a)--
+            ``(1) Amount.--The amount of the underpayment on any day 
+        shall be the excess of--
+                    ``(A) the sum of the required installments for the 
+                taxable year the due dates for which are on or before 
+                such day, over
+                    ``(B) the sum of the amounts (if any) of estimated 
+                tax payments made on or before such day on such 
+                required installments.
+            ``(2) Determination of interest rate.--
+                    ``(A) In general.--The underpayment rate with 
+                respect to any day in an installment underpayment 
+                period shall be the underpayment rate established under 
+                section 6621 for the first day of the calendar quarter 
+                in which such installment underpayment period begins.
+                    ``(B) Installment underpayment period.--For 
+                purposes of subparagraph (A), the term `installment 
+                underpayment period' means the period beginning on the 
+                day after the due date for a required installment and 
+                ending on the due date for the subsequent required 
+                installment (or in the case of the 4th required 
+                installment, the 15th day of the 4th month following 
+                the close of a taxable year).
+                    ``(C) Daily rate.--The rate determined under 
+                subparagraph (A) shall be applied on a daily basis and 
+                shall be based on the assumption of 365 days in a 
+                calendar year.
+            ``(3) Termination of estimated tax interest.--No day after 
+        the end of the installment underpayment period for the 4th 
+        required installment specified in paragraph (2)(B) for a 
+        taxable year shall be treated as a day of underpayment with 
+        respect to such taxable year.''.
+    (c) Increase in Safe Harbor Where Tax is Small.--
+            (1) In general.--Clause (i) of section 6641(d)(1)(B) (as so 
+        redesignated) is amended to read as follows:
+                            ``(i) the lesser of--
+                                    ``(I) 90 percent of the tax shown 
+                                on the return for the taxable year (or, 
+                                if no return is filed, 90 percent of 
+                                the tax for such year), or
+                                    ``(II) the tax shown on the return 
+                                for the taxable year (or, if no return 
+                                is filed, the tax for such year) 
+                                reduced (but not below zero) by $2,000, 
+                                or''.
+            (2) Conforming amendment.--Subsection (e) of section 6641 
+        (as so redesignated) is amended by striking paragraph (1) and 
+        redesignating paragraphs (2) and (3) as paragraphs (1) and (2), 
+        respectively.
+    (d) Conforming Amendments.--
+            (1) Paragraphs (1) and (2) of subsection (e) (as 
+        redesignated by subsection (c)(2)) and subsection (h) of 
+        section 6641 (as so designated) are each amended by striking 
+        ``addition to tax'' each place it occurs and inserting 
+        ``interest''.
+            (2) Section 167(g)(5)(D) is amended by striking ``6654'' 
+        and inserting ``6641''.
+            (3) Section 460(b)(1) is amended by striking ``6654'' and 
+        inserting ``6641''.
+            (4) Section 3510(b) is amended--
+                    (A) by striking ``section 6654'' in paragraph (1) 
+                and inserting ``section 6641'';
+                    (B) by amending paragraph (2)(B) to read as 
+                follows:
+                    ``(B) no interest would be required to be paid (but 
+                for this section) under 6641 for such taxable year by 
+                reason of the $2,000 amount specified in section 
+                6641(d)(1)(B)(i)(II).'';
+                    (C) by striking ``section 6654(d)(2)'' in paragraph 
+                (3) and inserting ``section 6641(d)(2)''; and
+                    (D) by striking paragraph (4).
+            (5) Section 6201(b)(1) is amended by striking ``6654'' and 
+        inserting ``6641''.
+            (6) Section 6601(h) is amended by striking ``6654'' and 
+        inserting ``6641''.
+            (7) Section 6621(b)(2)(B) is amended by striking ``addition 
+        to tax under section 6654'' and inserting ``interest required 
+        to be paid under section 6641''.
+            (8) Section 6622(b) is amended--
+                    (A) by striking ``Penalty for'' in the heading; and
+                    (B) by striking ``addition to tax under section 
+                6654 or 6655'' and inserting ``interest required to be 
+                paid under section 6641 or addition to tax under 
+                section 6655''.
+            (9) Section 6658(a) is amended--
+                    (A) by striking ``6654, or 6655'' and inserting 
+                ``or 6655, and no interest shall be required to be paid 
+                under section 6641,''; and
+                    (B) by inserting ``or paying interest'' after ``the 
+                tax'' in paragraph (2)(B)(ii).
+            (10) Section 6665(b) is amended--
+                    (A) in the matter preceding paragraph (1) by 
+                striking ``, 6654,''; and
+                    (B) in paragraph (2) by striking ``6654 or''.
+            (11) Section 7203 is amended by striking ``section 6654 or 
+        6655'' and inserting ``section 6655 or interest required to be 
+        paid under section 6641''.
+    (e) Clerical Amendments.--
+            (1) Chapter 67 is amended by inserting after subchapter D 
+        the following:
+
+  ``Subchapter E--Interest on Failure by Individual to Pay Estimated 
+                               Income Tax
+
+                              ``Sec. 6641. Interest on failure by 
+                                        individual to pay estimated 
+                                        income tax.''.
+            (2) The table of subchapters for chapter 67 is amended by 
+        adding at the end the following new items:
+
+                              ``Subchapter D. Notice requirements.
+                              ``Subchapter E. Interest on failure by 
+                                        individual to pay estimated 
+                                        income tax.''.
+            (3) The table of sections for part I of subchapter A of 
+        chapter 68 is amended by striking the item relating to section 
+        6654.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to installment payments for taxable years beginning after 
+December 31, 2002.
+
+SEC. 3. EXCLUSION FROM GROSS INCOME FOR INTEREST ON OVERPAYMENTS OF 
+              INCOME TAX BY INDIVIDUALS.
+
+    (a) In General.--Part III of subchapter B of chapter 1 (relating to 
+items specifically excluded from gross income) is amended by inserting 
+after section 139 the following new section:
+
+``SEC. 139A. EXCLUSION FROM GROSS INCOME FOR INTEREST ON OVERPAYMENTS 
+              OF INCOME TAX BY INDIVIDUALS.
+
+    ``(a) In General.--In the case of an individual, gross income shall 
+not include interest paid under section 6611 on any overpayment of tax 
+imposed by this subtitle.
+    ``(b) Exception.--Subsection (a) shall not apply in the case of a 
+failure to claim items resulting in the overpayment on the original 
+return if the Secretary determines that the principal purpose of such 
+failure is to take advantage of subsection (a).
+    ``(c) Special Rule for Determining Modified Adjusted Gross 
+Income.--For purposes of this title, interest not included in gross 
+income under subsection (a) shall not be treated as interest which is 
+exempt from tax for purposes of sections 32(i)(2)(B) and 6012(d) or any 
+computation in which interest exempt from tax under this title is added 
+to adjusted gross income.''.
+    (b) Clerical Amendment.--The table of sections for part III of 
+subchapter B of chapter 1 is amended by inserting after the item 
+relating to section 139 the following new item:
+
+                              ``Sec. 139A. Exclusion from gross income 
+                                        for interest on overpayments of 
+                                        income tax by individuals.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to interest received in calendar years beginning after the date 
+of the enactment of this Act.
+
+SEC. 4. ABATEMENT OF INTEREST.
+
+    (a) Abatement of Interest With Respect to Erroneous Refund Check 
+Without Regard to Size of Refund.--Paragraph (2) of section 6404(e) is 
+amended by striking ``unless--'' and all that follows and inserting 
+``unless the taxpayer (or a related party) has in any way caused such 
+erroneous refund.''.
+    (b) Abatement of Interest to Extent Interest is Attributable to 
+Taxpayer Reliance on Written Statements of the IRS.--Subsection (f) of 
+section 6404 is amended--
+            (1) in the subsection heading, by striking ``Penalty or 
+        Addition'' and inserting ``Interest, Penalty, or Addition''; 
+        and
+            (2) in paragraph (1) and in subparagraph (B) of paragraph 
+        (2), by striking ``penalty or addition'' and inserting 
+        ``interest, penalty, or addition''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to interest accruing on or after the date of the 
+enactment of this Act.
+
+SEC. 5. DEPOSITS MADE TO SUSPEND RUNNING OF INTEREST ON POTENTIAL 
+              UNDERPAYMENTS.
+
+    (a) In General.--Subchapter A of chapter 67 (relating to interest 
+on underpayments) is amended by adding at the end the following new 
+section:
+
+``SEC. 6603. DEPOSITS MADE TO SUSPEND RUNNING OF INTEREST ON POTENTIAL 
+              UNDERPAYMENTS, ETC.
+
+    ``(a) Authority To Make Deposits Other Than As Payment of Tax.--A 
+taxpayer may make a cash deposit with the Secretary which may be used 
+by the Secretary to pay any tax imposed under subtitle A or B or 
+chapter 41, 42, 43, or 44 which has not been assessed at the time of 
+the deposit. Such a deposit shall be made in such manner as the 
+Secretary shall prescribe.
+    ``(b) No Interest Imposed.--To the extent that such deposit is used 
+by the Secretary to pay tax, for purposes of section 6601 (relating to 
+interest on underpayments), the tax shall be treated as paid when the 
+deposit is made.
+    ``(c) Return of Deposit.--Except in a case where the Secretary 
+determines that collection of tax is in jeopardy, the Secretary shall 
+return to the taxpayer any amount of the deposit (to the extent not 
+used for a payment of tax) which the taxpayer requests in writing.
+    ``(d) Payment of Interest.--
+            ``(1) In general.--For purposes of section 6611 (relating 
+        to interest on overpayments), a deposit which is returned to a 
+        taxpayer shall be treated as a payment of tax for any period to 
+        the extent (and only to the extent) attributable to a 
+        disputable tax for such period. Under regulations prescribed by 
+        the Secretary, rules similar to the rules of section 6611(b)(2) 
+        shall apply.
+            ``(2) Disputable tax.--
+                    ``(A) In general.--For purposes of this section, 
+                the term `disputable tax' means the amount of tax 
+                specified at the time of the deposit as the taxpayer's 
+                reasonable estimate of the maximum amount of any tax 
+                attributable to disputable items.
+                    ``(B) Safe harbor based on 30-day letter.--In the 
+                case of a taxpayer who has been issued a 30-day letter, 
+                the maximum amount of tax under subparagraph (A) shall 
+                not be less than the amount of the proposed deficiency 
+                specified in such letter.
+            ``(3) Other definitions.--For purposes of paragraph (2)--
+                    ``(A) Disputable item.--The term `disputable item' 
+                means any item of income, gain, loss, deduction, or 
+                credit if the taxpayer--
+                            ``(i) has a reasonable basis for its 
+                        treatment of such item, and
+                            ``(ii) reasonably believes that the 
+                        Secretary also has a reasonable basis for 
+                        disallowing the taxpayer's treatment of such 
+                        item.
+                    ``(B) 30-day letter.--The term `30-day letter' 
+                means the first letter of proposed deficiency which 
+                allows the taxpayer an opportunity for administrative 
+                review in the Internal Revenue Service Office of 
+                Appeals.
+            ``(4) Rate of interest.--The rate of interest allowable 
+        under this subsection shall be the Federal short-term rate 
+        determined under section 6621(b), compounded daily.
+    ``(e) Use of Deposits.--
+            ``(1) Payment of tax.--Except as otherwise provided by the 
+        taxpayer, deposits shall be treated as used for the payment of 
+        tax in the order deposited.
+            ``(2) Returns of deposits.--Deposits shall be treated as 
+        returned to the taxpayer on a last-in, first-out basis.''.
+    (b) Clerical Amendment.--The table of sections for subchapter A of 
+chapter 67 is amended by adding at the end the following new item:
+
+                              ``Sec. 6603. Deposits made to suspend 
+                                        running of interest on 
+                                        potential underpayments, 
+                                        etc.''.
+    (c) Effective Date.--
+            (1) In general.--The amendments made by this section shall 
+        apply to deposits made after the date of the enactment of this 
+        Act.
+            (2) Coordination with deposits made under revenue procedure 
+        84-58.--In the case of an amount held by the Secretary of the 
+        Treasury or his delegate on the date of the enactment of this 
+        Act as a deposit in the nature of a cash bond deposit pursuant 
+to Revenue Procedure 84-58, the date that the taxpayer identifies such 
+amount as a deposit made pursuant to section 6603 of the Internal 
+Revenue Code (as added by this Act) shall be treated as the date such 
+amount is deposited for purposes of such section 6603.
+
+SEC. 6. EXPANSION OF INTEREST NETTING FOR INDIVIDUALS.
+
+    (a) In General.--Subsection (d) of section 6621 (relating to 
+elimination of interest on overlapping periods of tax overpayments and 
+underpayments) is amended by adding at the end the following: ``Solely 
+for purposes of the preceding sentence, section 6611(e) shall not apply 
+in the case of an individual.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to interest accrued after December 31, 2002.
+
+SEC. 7. WAIVER OF CERTAIN PENALTIES FOR FIRST-TIME UNINTENTIONAL MINOR 
+              ERRORS.
+
+    (a) In General.--Section 6651 (relating to failure to file tax 
+return or to pay tax) is amended by adding at the end the following new 
+subsection:
+    ``(i) Treatment of First-Time Unintentional Minor Errors.--
+            ``(1) In general.--In the case of a return of tax imposed 
+        by subtitle A filed by an individual, the Secretary may waive 
+        an addition to tax under subsection (a) if--
+                    ``(A) the individual has a history of compliance 
+                with the requirements of this title,
+                    ``(B) it is shown that the failure is due to an 
+                unintentional minor error,
+                    ``(C) the penalty would be grossly disproportionate 
+                to the action or expense that would have been needed to 
+                avoid the error, and imposing the penalty would be 
+                against equity and good conscience,
+                    ``(D) waiving the penalty would promote compliance 
+                with the requirements of this title and effective tax 
+                administration, and
+                    ``(E) the taxpayer took all reasonable steps to 
+                remedy the error promptly after discovering it.
+            ``(2) Exceptions.--Paragraph (1) shall not apply if--
+                    ``(A) the Secretary has waived any addition to tax 
+                under this subsection with respect to any prior failure 
+                by such individual,
+                    ``(B) the failure is a mathematical or clerical 
+                error (as defined in section 6213(g)(2)), or
+                    ``(C) the failure is the lack of a required 
+                signature.''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect on January 1, 2003.
+
+SEC. 8. FRIVOLOUS TAX SUBMISSIONS.
+
+    (a) Civil Penalties.--Section 6702 is amended to read as follows:
+
+``SEC. 6702. FRIVOLOUS TAX SUBMISSIONS.
+
+    ``(a) Civil Penalty for Frivolous Tax Returns.--A person shall pay 
+a penalty of $5,000 if--
+            ``(1) such person files what purports to be a return of a 
+        tax imposed by this title but which--
+                    ``(A) does not contain information on which the 
+                substantial correctness of the self-assessment may be 
+                judged, or
+                    ``(B) contains information that on its face 
+                indicates that the self-assessment is substantially 
+                incorrect; and
+            ``(2) the conduct referred to in paragraph (1)--
+                    ``(A) is based on a position which the Secretary 
+                has identified as frivolous under subsection (c), or
+                    ``(B) reflects a desire to delay or impede the 
+                administration of Federal tax laws.
+    ``(b) Civil Penalty for Specified Frivolous Submissions.--
+            ``(1) Imposition of Penalty.--Except as provided in 
+        paragraph (3), any person who submits a specified frivolous 
+        submission shall pay a penalty of $5,000.
+            ``(2) Specified frivolous submission.--For purposes of this 
+        section--
+                    ``(A) Specified frivolous submission.--The term 
+                `specified frivolous submission' means a specified 
+                submission if any portion of such submission--
+                            ``(i) is based on a position which the 
+                        Secretary has identified as frivolous under 
+                        subsection (c), or
+                            ``(ii) reflects a desire to delay or impede 
+                        the administration of Federal tax laws.
+                    ``(B) Specified submission.--The term `specified 
+                submission' means--
+                            ``(i) a request for a hearing under--
+                                    ``(I) section 6320 (relating to 
+                                notice and opportunity for hearing upon 
+                                filing of notice of lien), or
+                                    ``(II) section 6330 (relating to 
+                                notice and opportunity for hearing 
+                                before levy), and
+                            ``(ii) an application under--
+                                    ``(I) section 7811 (relating to 
+                                taxpayer assistance orders),
+                                    ``(II) section 6159 (relating to 
+                                agreements for payment of tax liability 
+                                in installments), or
+                                    ``(III) section 7122 (relating to 
+                                compromises).
+            ``(3) Opportunity to withdraw submission.--If the Secretary 
+        provides a person with notice that a submission is a specified 
+        frivolous submission and such person withdraws such submission 
+        promptly after such notice, the penalty imposed under paragraph 
+        (1) shall not apply with respect to such submission.
+    ``(c) Listing of Frivolous Positions.--The Secretary shall 
+prescribe (and periodically revise) a list of positions which the 
+Secretary has identified as being frivolous for purposes of this 
+subsection. The Secretary shall not include in such list any position 
+that the Secretary determines meets the requirement of section 
+6662(d)(2)(B)(ii)(II).
+    ``(d) Reduction of Penalty.--The Secretary may reduce the amount of 
+any penalty imposed under this section if the Secretary determines that 
+such reduction would promote compliance with and administration of the 
+Federal tax laws.
+    ``(e) Penalties in Addition to Other Penalties.--The penalties 
+imposed by this section shall be in addition to any other penalty 
+provided by law.''.
+    (b) Treatment of Frivolous Requests for Hearings Before Levy.--
+            (1) Frivolous requests disregarded.--Section 6330 (relating 
+        to notice and opportunity for hearing before levy) is amended 
+        by adding at the end the following new subsection:
+    ``(g) Frivolous Requests for Hearing, Etc.--Notwithstanding any 
+other provision of this section, if the Secretary determines that any 
+portion of a request for a hearing under this section or section 6320 
+meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), 
+then the Secretary may treat such portion as if it were never submitted 
+and such portion shall not be subject to any further administrative or 
+judicial review.''.
+            (2) Preclusion from raising frivolous issues at hearing.--
+        Section 6330(c)(4) is amended--
+                    (A) by striking ``(A)'' and inserting ``(A)(i)'';
+                    (B) by striking ``(B)'' and inserting ``(ii)'';
+                    (C) by striking the period at the end of the first 
+                sentence and inserting ``; or''; and
+                    (D) by inserting after subparagraph (A)(ii) (as so 
+                redesignated) the following:
+                    ``(B) the issue meets the requirement of clause (i) 
+                or (ii) of section 6702(b)(2)(A).''.
+            (3) Statement of grounds.--Section 6330(b)(1) is amended by 
+        striking ``under subsection (a)(3)(B)'' and inserting ``in 
+        writing under subsection (a)(3)(B) and states the grounds for 
+        the requested hearing''.
+    (c) Treatment of Frivolous Requests for Hearings Upon Filing of 
+Notice of Lien.--Section 6320 is amended--
+            (1) in subsection (b)(1), by striking ``under subsection 
+        (a)(3)(B)'' and inserting ``in writing under subsection 
+        (a)(3)(B) and states the grounds for the requested hearing'', 
+        and
+            (2) in subsection (c), by striking ``and (e)'' and 
+        inserting ``(e), and (g)''.
+    (d) Treatment of Frivolous Applications for Offers-in-Compromise 
+and Installment Agreements.--Section 7122 is amended by adding at the 
+end the following new subsection:
+    ``(e) Frivolous Submissions, Etc.--Notwithstanding any other 
+provision of this section, if the Secretary determines that any portion 
+of an application for an offer-in-compromise or installment agreement 
+submitted under this section or section 6159 meets the requirement of 
+clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may 
+treat such portion as if it were never submitted and such portion shall 
+not be subject to any further administrative or judicial review.''.
+    (e) Clerical Amendment.--The table of sections for part I of 
+subchapter B of chapter 68 is amended by striking the item relating to 
+section 6702 and inserting the following new item:
+
+                              ``Sec. 6702. Frivolous tax 
+                                        submissions.''.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to submissions made and issues raised after the date on which the 
+Secretary first prescribes a list under section 6702(c) of the Internal 
+Revenue Code of 1986, as amended by subsection (a).
+
+SEC. 9. CLARIFICATION OF APPLICATION OF FEDERAL TAX DEPOSIT PENALTY.
+
+    Nothing in section 6656 of the Internal Revenue Code of 1986 shall 
+be construed to permit the percentage specified in subsection 
+(b)(1)(A)(iii) thereof to apply other than in a case where the failure 
+is for more than 15 days.
+                                 <all>

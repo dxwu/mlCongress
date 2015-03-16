@@ -1,0 +1,221 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4534 Introduced in House (IH)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 4534
+
+  To amend the Internal Revenue Code of 1986 to reform the charitable 
+ contribution deduction rules on contributions of certain easements on 
+  buildings in registered historic districts, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 14, 2005
+
+ Mr. English of Pennsylvania introduced the following bill; which was 
+              referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to reform the charitable 
+ contribution deduction rules on contributions of certain easements on 
+  buildings in registered historic districts, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. REFORM OF CHARITABLE CONTRIBUTIONS OF CERTAIN EASEMENTS ON 
+              BUILDINGS IN REGISTERED HISTORIC DISTRICTS.
+
+    (a) Special Rules With Respect to Buildings in Registered Historic 
+Districts.--Paragraph (4) of section 170(h) of the Internal Revenue 
+Code of 1986 (relating to definition of conservation purpose) is 
+amended by redesignating subparagraph (B) as subparagraph (C) and by 
+inserting after subparagraph (A) the following new subparagraph:
+                    ``(B) Special rules with respect to buildings in 
+                registered historic districts.--In the case of any 
+                contribution of a qualified real property interest 
+                which is a restriction with respect to the exterior of 
+                a building described in subparagraph (C)(ii), such 
+                contribution shall not be considered to be exclusively 
+                for conservation purposes unless--
+                            ``(i) such interest--
+                                    ``(I) includes a restriction which 
+                                preserves the entire exterior of the 
+                                building (including the front, sides, 
+                                rear, and height of the building), and
+                                    ``(II) prohibits any change in the 
+                                exterior of the building which is 
+                                inconsistent with the historical 
+                                character of such exterior,
+                            ``(ii) the donor and donee enter into a 
+                        written agreement certifying, under penalty of 
+                        perjury, that the donee--
+                                    ``(I) is a qualified organization 
+                                (as defined in paragraph (3)) with a 
+                                purpose of environmental protection, 
+                                land conservation, open space 
+                                preservation, or historic preservation, 
+                                and
+                                    ``(II) has the resources to manage 
+                                and enforce the restriction and a 
+                                commitment to do so, and
+                            ``(iii) in the case of any contribution 
+                        made in a taxable year beginning after the date 
+                        of the enactment of this subparagraph, the 
+                        taxpayer includes with the taxpayer's return 
+                        for the taxable year of the contribution--
+                                    ``(I) a qualified appraisal (within 
+                                the meaning of subsection (f)(11)(E)) 
+                                of the qualified property interest,
+                                    ``(II) photographs of the entire 
+                                exterior of the building, and
+                                    ``(III) a description of all 
+                                restrictions on the development of the 
+                                building.''.
+    (b) Filing Fee for Certain Contributions.--Subsection (f) of 
+section 170 of such Code (relating to disallowance of deduction in 
+certain cases and special rules) is amended by inserting at the end the 
+following new paragraph:
+            ``(13) Contributions of certain interests in buildings 
+        located in registered historic districts.--
+                    ``(A) In general.--No deduction shall be allowed 
+                with respect to any contribution described in 
+                subparagraph (B) unless the taxpayer includes with the 
+                return for the taxable year of the contribution a $500 
+                filing fee.
+                    ``(B) Contribution described.--A contribution is 
+                described in this subparagraph if such contribution is 
+                a qualified conservation contribution (as defined in 
+                subsection (h)) which is a restriction with respect to 
+                the exterior of a building described in subsection 
+                (h)(4)(C)(ii) and for which a deduction is claimed in 
+                excess of the greater of--
+                            ``(i) 3 percent of the fair market value of 
+                        the building (determined immediately before 
+                        such contribution), or
+                            ``(ii) $10,000.
+                    ``(C) Dedication of fee.--Any fee collected under 
+                this paragraph shall be used for the enforcement of the 
+                provisions of subsection (h).''.
+    (c) Effective Date.--
+            (1) Special rules for buildings in registered historic 
+        districts.--The amendments made by subsection (a) shall apply 
+        to contributions made after the date of the enactment of this 
+        Act.
+            (2) Filing fee.--The amendment made by subsection (b) shall 
+        apply to contributions made 180 days after the date of the 
+        enactment of this Act.
+
+SEC. 2. PROVISIONS RELATING TO SUBSTANTIAL AND GROSS OVERSTATEMENTS OF 
+              VALUATIONS OF CHARITABLE DEDUCTION PROPERTY.
+
+    (a) Substantial and Gross Overstatements of Valuations of 
+Charitable Deduction Property.--
+            (1) In general.--Section 6662 of the Internal Revenue Code 
+        of 1986 (relating to imposition of accuracy-related penalties) 
+        is amended by adding at the end the following new subsection:
+    ``(i) Special Rules for Charitable Deduction Property.--In the case 
+of charitable deduction property (as defined in section 
+6664(c)(3)(A))--
+            ``(1) the determination under subsection (e)(1)(A) as to 
+        whether there is a substantial valuation misstatement under 
+        chapter 1 with respect to the value of the property shall be 
+        made by substituting `150 percent' for `200 percent', and
+            ``(2) the determination under subsection (h)(2)(A)(i) as to 
+        whether there is a gross valuation misstatement with respect to 
+        the value of the property shall be made by substituting `200 
+        percent' for `400 percent' and by substituting `150 percent' 
+        for `200 percent' in applying subsection (e)(1)(A) for purposes 
+        of such determination.''.
+            (2) Elimination of reasonable cause exception for gross 
+        misstatements.--Section 6664(c)(2) of such Code (relating to 
+        reasonable cause exception for underpayments) is amended by 
+        striking ``paragraph (1) shall not apply unless'' and inserting 
+        ``paragraph (1) shall not apply. The preceding sentence shall 
+        not apply to a substantial valuation overstatement under 
+        chapter 1 if''.
+    (b) Qualified Appraisers and Appraisals.--
+            (1) In general.--Subparagraph (E) of section 170(f)(11) of 
+        such Code is amended to read as follows:
+                    ``(E) Qualified appraisal and appraiser.--For 
+                purposes of this paragraph--
+                            ``(i) Qualified appraisal.--The term 
+                        `qualified appraisal' means, with respect to 
+                        any property, an appraisal of such property 
+                        which--
+                                    ``(I) is treated for purposes of 
+                                this paragraph as a qualified appraisal 
+                                under regulations or other guidance 
+                                prescribed by the Secretary, and
+                                    ``(II) is conducted by a qualified 
+                                appraiser in accordance with generally 
+                                accepted appraisal standards and any 
+                                regulations or other guidance 
+                                prescribed under subclause (I).
+                            ``(ii) Qualified appraiser.--Except as 
+                        provided in clause (iii), the term `qualified 
+                        appraiser' means an individual who--
+                                    ``(I) has earned an appraisal 
+                                designation from a recognized 
+                                professional appraiser organization or 
+                                has otherwise met minimum education and 
+                                experience requirements set forth in 
+                                regulations prescribed by the 
+                                Secretary,
+                                    ``(II) regularly performs 
+                                appraisals for which the individual 
+                                receives compensation, and
+                                    ``(III) meets such other 
+                                requirements as may be prescribed by 
+                                the Secretary in regulations or other 
+                                guidance.
+                            ``(iii) Specific appraisals.--An individual 
+                        shall not be treated as a qualified appraiser 
+                        with respect to any specific appraisal unless--
+                                    ``(I) the individual demonstrates 
+                                verifiable education and experience in 
+                                valuing the type of property subject to 
+                                the appraisal, and
+                                    ``(II) the individual has not been 
+                                prohibited from practicing before the 
+                                Internal Revenue Service by the 
+                                Secretary under section 330(c) of title 
+                                31, United States Code, at any time 
+                                during the 3-year period ending on the 
+                                date of the appraisal.''.
+            (2) Reasonable cause exception.--Subparagraphs (B) and (C) 
+        of section 6664(c)(3) of such Code are amended to read as 
+        follows:
+                    ``(B) Qualified appraisal.--The term `qualified 
+                appraisal' has the meaning given such term by section 
+                170(f)(11)(E)(i).
+                    ``(C) Qualified appraiser.--The term `qualified 
+                appraiser' has the meaning given such term by section 
+                170(f)(11)(E)(ii).''.
+    (c) Effective Dates.--
+            (1) Misstatement penalties.--The amendments made by 
+        subsection (a) shall apply to returns filed after the date of 
+        the enactment of this Act.
+            (2) Appraiser provisions.--The amendments made by 
+        subsection (b) shall apply to appraisals prepared with respect 
+        to returns or submissions filed after the date of the enactment 
+        of this Act.
+                                 <all>

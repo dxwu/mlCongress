@@ -1,0 +1,152 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2161 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 2161
+
+  To amend title 49, United States Code, to provide a mandatory fuel 
+ surcharge for transportation provided by certain motor carriers, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 13, 2001
+
+Mr. Rahall (for himself, Mr. Blunt, Mr. Mollohan, Mr. Ney, Mr. Peterson 
+ of Minnesota, Mr. Strickland, Mr. Lipinski, and Ms. Brown of Florida) 
+ introduced the following bill; which was referred to the Committee on 
+                   Transportation and Infrastructure
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend title 49, United States Code, to provide a mandatory fuel 
+ surcharge for transportation provided by certain motor carriers, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Motor Carrier Fuel Cost Equity Act 
+of 2001''.
+
+SEC. 2. MANDATORY FUEL SURCHARGE.
+
+    (a) In General.--Chapter 137 of title 49, United States Code, is 
+amended by adding at the end the following:
+``Sec. 13714. Fuel surcharge
+    ``(a) Mandatory Fuel Surcharge.--
+            ``(1) Establishment of surcharge.--Any contract or 
+        agreement providing for truckload transportation or service 
+        involving a motor carrier, broker, or freight forwarder subject 
+        to jurisdiction under chapter 135 who regularly provides such 
+        transportation or service shall include a requirement to assess 
+        a payer of transportation charges a minimum surcharge for fuel 
+        used in the transportation provided to such payer commencing 
+        when the current price of fuel surpasses, by $0.05 per gallon, 
+        the benchmark price set forth in paragraph (2). The surcharge 
+        assessed by the motor carrier, broker, or freight forwarder 
+        shall be calculated on the basis of mileage or percentage of 
+        revenue (whichever basis the motor carrier, broker, or freight 
+        forwarder elects) and shall be the amount necessary to 
+        compensate the person responsible for paying for fuel for the 
+        amount of increase in the cost of fuel.
+            ``(2) Benchmark price.--The benchmark price referred to in 
+        paragraph (1) shall be $1.10 per gallon.
+    ``(b) Implementation.--The surcharge referred to in subsection 
+(a)(1) shall be--
+            ``(1) calculated on the date the shipment is tendered to 
+        the motor carrier, broker, or freight forwarder;
+            ``(2) itemized separately on the motor carrier, broker, or 
+        freight forwarder's invoices; and
+            ``(3) paid by the payer of transportation charges.
+    ``(c) Factors.--For purposes of calculating a surcharge under this 
+section--
+            ``(1) average fuel economy is 5 miles per gallon; and
+            ``(2) mileage means the number of paid miles driven as 
+        determined under the Department of Defense, Military Traffic 
+        Management Command's `Defense Table of Official Distances' or 
+        mileage guide established pursuant to section 13703 (a)(1)(D).
+    ``(d) Limitation on Authority.--Notwithstanding any other provision 
+of this part, enforcement of this section shall be through the private 
+right of action provided in section 14704(a), and neither the Secretary 
+of Transportation nor the Surface Transportation Board shall have 
+regulatory or enforcement authority relating to provisions of this 
+section.
+``Sec. 13715. Negotiated fuel adjustments
+    ``(a) In General.--Nothing in section 13714 shall be construed to 
+abrogate provisions relating to fuel cost adjustments in any 
+transportation contract or agreement in effect on the date of the 
+enactment of the Motor Carrier Fuel Cost Equity Act of 2001 and any 
+renewal of such a contract or agreement thereafter. Nothing in this 
+section and sections 13714 and 14102 shall be construed to prohibit any 
+motor carrier, broker, or freight forwarder from including any 
+privately negotiated fuel cost adjustment provision in any contract or 
+agreement to provide transportation that is an amount necessary to 
+compensate the person responsible for paying for fuel for the amount of 
+increase in the cost of fuel.
+    ``(b) Continuation of Authority.--Nothing in section 13714 shall 
+impair the ability of any person to enter into any contract or 
+agreement after the date of the enactment of the Motor Carrier Fuel 
+Cost Equity Act of 2001 that provides for a fuel adjustment under this 
+section or section 13714 during any period in which no fuel surcharge 
+is required under section 13714.''.
+    (b) Clerical Amendment.--The analysis for chapter 137 of such title 
+is amended by adding at the end the following:
+
+``13714. Fuel surcharge.
+``13715. Negotiated fuel adjustments.''.
+
+SEC. 3. MANDATORY PASS-THROUGH TO COST BEARER.
+
+    Section 14102 of title 49, United States Code, is amended by adding 
+at the end the following:
+    ``(c) Mandatory Pass-Through to Cost Bearer.--
+            ``(1) In general.--A motor carrier, broker, or freight 
+        forwarder providing transportation or service using motor 
+        vehicles not owned by it and using fuel not paid for by it--
+                    ``(A) shall pass through to the person responsible 
+                for paying for fuel any fuel surcharge required by 
+                section 13714 or provided for in transportation 
+                contracts or agreements;
+                    ``(B) shall disclose in writing to the equipment 
+                lessor and lessee the amount of all freight rates and 
+                charges and fuel surcharges applicable to such 
+                transportation or service; and
+                    ``(C) is prohibited from--
+                            ``(i) intentionally reducing compensatory 
+                        transportation costs (other than the fuel 
+                        surcharge) to the person responsible for paying 
+                        for fuel for the purpose of adjusting for or 
+                        avoiding the pass through of the fuel 
+                        surcharge; and
+                            ``(ii) intentionally imposing a fuel cost 
+                        adjustment in accordance with section 13715 for 
+                        the purpose of avoiding any payment under this 
+                        section or section 13714.
+            ``(2) Limitation on authority.--Notwithstanding any other 
+        provision of this part, enforcement of this section shall be 
+        through the private right of action provided in section 
+        14704(a), and neither the Secretary of Transportation nor the 
+        Surface Transportation Board shall have regulatory or 
+        enforcement authority relating to provisions of this 
+        subsection.''.
+                                 <all>

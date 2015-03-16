@@ -1,0 +1,171 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5297 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 5297
+
+ To amend title XVIII of the Social Security Act to extend by one year 
+ the initial enrollment period for Medicare prescription drug benefits 
+and for Medicare Advantage plans, to authorize the Secretary of Health 
+ and Human Services to negotiate fair prices for Medicare prescription 
+ drugs, and to express the sense of Congress that the Secretary should 
+  conduct activities to improve outreach and educational efforts with 
+                       respect to such benefits.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 4, 2006
+
+Mrs. Jo Ann Davis of Virginia introduced the following bill; which was 
+  referred to the Committee on Ways and Means, and in addition to the 
+   Committee on Energy and Commerce, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title XVIII of the Social Security Act to extend by one year 
+ the initial enrollment period for Medicare prescription drug benefits 
+and for Medicare Advantage plans, to authorize the Secretary of Health 
+ and Human Services to negotiate fair prices for Medicare prescription 
+ drugs, and to express the sense of Congress that the Secretary should 
+  conduct activities to improve outreach and educational efforts with 
+                       respect to such benefits.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Improving Access to Medicare Part D 
+Act of 2006''.
+
+SEC. 2. ONE-YEAR EXTENSION OF ENROLLMENT PERIOD FOR MEDICARE 
+              PRESCRIPTION DRUG BENEFITS AND MA PLANS.
+
+    (a) In General.--Section 1851(e)(3)(B) of the Social Security Act 
+(42 U.S.C. 1395w-21(e)(3)(B)) is amended--
+            (1) in clause (iii), by striking ``May 15, 2006; and'' and 
+        inserting ``November 14, 2006'';
+            (2) in clause (iv), by striking ``2007'' and inserting 
+        ``2008'' and redesignating such clause as clause (v); and
+            (3) by inserting after clause (iii) the following new 
+        clause:
+                            ``(iv) with respect to 2007, the period 
+                        beginning on November 15, 2006, and ending on 
+                        May 15, 2007; and''.
+    (b) Conforming Amendments Related to Continuous Open Enrollment and 
+Disenrollment.--Section 1851(e)(2) of such Act (42 U.S.C. 1395w-
+21(e)(2)) is amended--
+            (1) in subparagraph (B)--
+                    (A) in the heading, by striking ``for first 6 
+                months'';
+                    (B) in clause (i), by striking ``, subparagraph 
+                (C)(iii), and subparagraph (D)'' and inserting ``and 
+                subparagraph (E)''; and
+                    (C) in clause (i), by striking ``during the first 6 
+                months of 2006'' and all that follows through ``is a 
+                Medicare+Choice eligible individual,'' and inserting 
+                ``during 2006'';
+            (2) in subparagraph (C)--
+                    (A) in clause (i)--
+                            (i) by striking ``subparagraph (D)'' and 
+                        inserting ``subparagraph (E)''; and
+                            (ii) by striking ``2006'' and inserting 
+                        ``2007'' each place it appears; and
+                    (B) in clause (iii), by striking ``2006'' and 
+                inserting ``2007'';
+            (3) by redesignating subparagraphs (C) and (D) as 
+        subparagraphs (D) and (E), respectively; and
+            (4) by inserting after subparagraph (B) the following new 
+        subparagraph:
+                    ``(C) Continuous open enrollment and disenrollment 
+                for first 6 months during 2007.--
+                            ``(i) In general.--Subject to clause (ii), 
+                        subparagraph (D)(iii), and subparagraph (E), at 
+                        any time during the first 6 months of 2007, or, 
+                        if the individual first becomes a Medicare 
+                        Advantage eligible individual during 2007, 
+                        during the first 6 months during 2007 in which 
+                        the individual is a Medicare Advantage eligible 
+                        individual, a Medicare Advantage eligible 
+                        individual may change the election under 
+                        subsection (a)(1).
+                            ``(ii) Limitation of one change.--An 
+                        individual may exercise the right under clause 
+                        (i) only once. The limitation under this clause 
+                        shall not apply to changes in elections 
+                        effected during an annual, coordinated election 
+                        period under paragraph (3) or during a special 
+                        enrollment period under the first sentence of 
+                        paragraph (4).''.
+    (c) Application of One-Year Enrollment Extension and Conforming 
+Amendments to Part D Benefits.--Section 1860D-1(b) of such Act (42 
+U.S.C. 1395w-101(b)) is amended--
+            (1) in paragraph (1)(B)(iii), by striking ``subparagraphs 
+        (B) and (C) of paragraph (2) and'';
+            (2) in paragraph (2)(A), by striking ``annual, coordinated 
+        open election period described in section 1851(e)(3)(B)(iii)'' 
+        and inserting ``period beginning on the first day of the 
+        annual, coordinated open election period described in clauses 
+        (iii) of section 1851(e)(3)(B) and ending on the last day of 
+        the annual, coordinated open election period described in 
+        clause (iv) of such section''; and
+            (3) in paragraph (2)(B), by striking ``before the period 
+        described in subparagraph (A)'' and inserting ``before the end 
+        of the annual, coordinated open election period described in 
+        section 1851(e)(3)(B)(iv)''.
+    (d) Effective Date.--The amendments made by this section shall take 
+effect as if included in the enactment of the Medicare Prescription 
+Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173).
+
+SEC. 3. NEGOTIATING FAIR PRICES FOR MEDICARE PRESCRIPTION DRUGS ON 
+              BEHALF OF MEDICARE BENEFICIARIES.
+
+    Section 1860D-11 of the Social Security Act (42 U.S.C. 1395w-111) 
+is amended by striking subsection (i) (relating to noninterference) and 
+by inserting the following:
+    ``(i) Authority to Negotiate Prices With Manufacturers.--In order 
+to ensure that each part D eligible individual who is enrolled under a 
+prescription drug plan or an MA-PD plan pays the lowest possible price 
+for covered part D drugs, the Secretary shall have authority similar to 
+that of other Federal entities that purchase prescription drugs in bulk 
+to negotiate contracts with manufacturers of covered part D drugs, 
+consistent with the requirements of this part and in furtherance of the 
+goals of providing quality care and containing costs under this 
+part.''.
+
+SEC. 4. SENSE OF CONGRESS RELATED TO IMPROVED MEDICARE PRESCRIPTION 
+              DRUG BENEFIT OUTREACH AND EDUCATION.
+
+    It is the sense of Congress that the Secretary of Health and Human 
+Services should conduct activities (and improve current activities 
+conducted by the Secretary), with respect to individuals eligible for 
+the medicare prescription drug benefits, to--
+            (1) raise the awareness and improve the education of such 
+        individuals with respect to such benefits;
+            (2) improve and enhance outreach and enrollment assistance 
+        for such benefits; and
+            (3) provide for the accessibility of appropriate experts 
+        with respect to such benefits (at national, State, and local 
+        levels) to ensure that such individuals understand the benefits 
+        for which they are eligible.
+                                 <all>

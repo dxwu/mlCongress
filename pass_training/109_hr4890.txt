@@ -1,0 +1,702 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4890 Placed on Calendar Senate (PCS)]
+
+
+                                                       Calendar No. 589
+109th CONGRESS
+  2d Session
+                                H. R. 4890
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 23, 2006
+
+                                Received
+
+                             August 3, 2006
+
+                          Read the first time
+
+                           September 5, 2006
+
+            Read the second time and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Congressional Budget and Impoundment Control Act of 1974 
+    to provide for the expedited consideration of certain proposed 
+                    rescissions of budget authority.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Legislative Line Item Veto Act of 
+2006''.
+
+SEC. 2. LEGISLATIVE LINE ITEM VETO.
+
+    (a) In General.--Title X of the Congressional Budget and 
+Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by 
+striking all of part B (except for sections 1016 and 1013, which are 
+redesignated as sections 1019 and 1020, respectively) and part C and 
+inserting the following:
+
+                  ``Part B--Legislative Line-Item Veto
+
+                       ``line item veto authority
+
+    ``Sec. 1011.  (a) Proposed Cancellations.--Within 45 calendar days 
+after the enactment of any bill or joint resolution providing any 
+discretionary budget authority, item of direct spending, or targeted 
+tax benefit, the President may propose, in the manner provided in 
+subsection (b), the cancellation of any dollar amount of such 
+discretionary budget authority, item of direct spending, or targeted 
+tax benefit. If the 45 calendar-day period expires during a period 
+where either House of Congress stands adjourned sine die at the end of 
+a Congress or for a period greater than 45 calendar days, the President 
+may propose a cancellation under this section and transmit a special 
+message under subsection (b) on the first calendar day of session 
+following such a period of adjournment.
+    ``(b) Transmittal of Special Message.--
+            ``(1) Special message.--
+                    ``(A) In general.--The President may transmit to 
+                the Congress a special message proposing to cancel any 
+                dollar amounts of discretionary budget authority, items 
+                of direct spending, or targeted tax benefits.
+                    ``(B) Contents of special message.--Each special 
+                message shall specify, with respect to the 
+                discretionary budget authority, items of direct 
+                spending proposed, or targeted tax benefits to be 
+                canceled--
+                            ``(i) the dollar amount of discretionary 
+                        budget authority, the specific item of direct 
+                        spending (that OMB, after consultation with 
+                        CBO, estimates to increase budget authority or 
+                        outlays as required by section 1017(9)), or the 
+                        targeted tax benefit that the President 
+                        proposes be canceled;
+                            ``(ii) any account, department, or 
+                        establishment of the Government to which such 
+                        discretionary budget authority is available for 
+                        obligation, and the specific project or 
+                        governmental functions involved;
+                            ``(iii) the reasons why such discretionary 
+                        budget authority, item of direct spending, or 
+                        targeted tax benefit should be canceled;
+                            ``(iv) to the maximum extent practicable, 
+                        the estimated fiscal, economic, and budgetary 
+                        effect (including the effect on outlays and 
+                        receipts in each fiscal year) of the proposed 
+                        cancellation;
+                            ``(v) to the maximum extent practicable, 
+                        all facts, circumstances, and considerations 
+                        relating to or bearing upon the proposed 
+                        cancellation and the decision to effect the 
+                        proposed cancellation, and the estimated effect 
+                        of the proposed cancellation upon the objects, 
+                        purposes, or programs for which the 
+                        discretionary budget authority, item of direct 
+                        spending, or the targeted tax benefit is 
+                        provided;
+                            ``(vi) a numbered list of cancellations to 
+                        be included in an approval bill that, if 
+                        enacted, would cancel discretionary budget 
+                        authority, items of direct spending, or 
+                        targeted tax benefits proposed in that special 
+                        message; and
+                            ``(vii) if the special message is 
+                        transmitted subsequent to or at the same time 
+                        as another special message, a detailed 
+                        explanation why the proposed cancellations are 
+                        not substantially similar to any other proposed 
+                        cancellation in such other message.
+                    ``(C) Duplicative proposals prohibited.--The 
+                President may not propose to cancel the same or 
+                substantially similar discretionary budget authority, 
+                item of direct spending, or targeted tax benefit more 
+                than one time under this Act.
+                    ``(D) Maximum number of special messages.--The 
+                President may not transmit to the Congress more than 5 
+                special messages under this subsection related to any 
+                bill or joint resolution described in subsection (a), 
+                but may transmit not more than 10 special messages for 
+                any omnibus budget reconciliation or appropriation 
+                measure.
+            ``(2) Enactment of approval bill.--
+                    ``(A) Deficit reduction.--Amounts of budget 
+                authority, items of direct spending, or targeted tax 
+                benefits which are canceled pursuant to enactment of a 
+                bill as provided under this section shall be dedicated 
+                only to reducing the deficit or increasing the surplus.
+                    ``(B) Adjustment of levels in the concurrent 
+                resolution on the budget.--Not later than 5 days after 
+                the date of enactment of an approval bill as provided 
+                under this section, the chairs of the Committees on the 
+                Budget of the Senate and the House of Representatives 
+                shall revise allocations and aggregates and other 
+                appropriate levels under the appropriate concurrent 
+                resolution on the budget to reflect the cancellation, 
+                and the applicable committees shall report revised 
+                suballocations pursuant to section 302(b), as 
+                appropriate.
+                    ``(C) Adjustments to statutory limits.--After 
+                enactment of an approval bill as provided under this 
+                section, the Office of Management and Budget shall 
+                revise applicable limits under the Balanced Budget and 
+                Emergency Deficit Control Act of 1985, as appropriate.
+                    ``(D) Trust funds and special funds.--
+                Nothwithstanding subparagraph (A), nothing in this part 
+                shall be construed to require or allow the deposit of 
+                amounts derived from a trust fund or special fund which 
+                are canceled pursuant to enactment of a bill as 
+                provided under this section to any other fund.
+
+                ``procedures for expedited consideration
+
+    ``Sec. 1012.  (a) Expedited Consideration.--
+            ``(1) In general.--The majority leader of each House or his 
+        designee shall (by request) introduce an approval bill as 
+        defined in section 1017 not later than the fifth day of session 
+        of that House after the date of receipt of a special message 
+        transmitted to the Congress under section 1011(b).
+            ``(2) Consideration in the house of representatives.--
+                    ``(A) Referral and reporting.--Any committee of the 
+                House of Representatives to which an approval bill is 
+                referred shall report it to the House without amendment 
+                not later than the seventh legislative day after the 
+                date of its introduction. If a committee fails to 
+                report the bill within that period or the House has 
+                adopted a concurrent resolution providing for 
+                adjournment sine die at the end of a Congress, it shall 
+                be in order to move that the House discharge the 
+                committee from further consideration of the bill. Such 
+                a motion shall be in order only at a time designated by 
+                the Speaker in the legislative schedule within two 
+                legislative days after the day on which the proponent 
+                announces his intention to offer the motion. Such a 
+                motion shall not be in order after a committee has 
+                reported an approval bill with respect to that special 
+                message or after the House has disposed of a motion to 
+                discharge with respect to that special message. The 
+                previous question shall be considered as ordered on the 
+                motion to its adoption without intervening motion 
+                except twenty minutes of debate equally divided and 
+                controlled by the proponent and an opponent. If such a 
+                motion is adopted, the House shall proceed immediately 
+                to consider the approval bill in accordance with 
+                subparagraph (C). A motion to reconsider the vote by 
+                which the motion is disposed of shall not be in order.
+                    ``(B) Proceeding to consideration.--After an 
+                approval bill is reported or a committee has been 
+                discharged from further consideration, or the House has 
+                adopted a concurrent resolution providing for 
+                adjournment sine die at the end of a Congress, it shall 
+                be in order to move to proceed to consider the approval 
+                bill in the House. Such a motion shall be in order only 
+                at a time designated by the Speaker in the legislative 
+                schedule within two legislative days after the day on 
+                which the proponent announces his intention to offer 
+                the motion. Such a motion shall not be in order after 
+                the House has disposed of a motion to proceed with 
+                respect to that special message. The previous question 
+                shall be considered as ordered on the motion to its 
+                adoption without intervening motion. A motion to 
+                reconsider the vote by which the motion is disposed of 
+                shall not be in order.
+                    ``(C) Consideration.--The approval bill shall be 
+                considered as read. All points of order against an 
+                approval bill and against its consideration are waived. 
+                The previous question shall be considered as ordered on 
+                an approval bill to its passage without intervening 
+                motion except five hours of debate equally divided and 
+                controlled by the proponent and an opponent and one 
+                motion to limit debate on the bill. A motion to 
+                reconsider the vote on passage of the bill shall not be 
+                in order.
+                    ``(D) Senate bill.--An approval bill received from 
+                the Senate shall not be referred to committee.
+            ``(3) Consideration in the senate.--
+                    ``(A) Motion to proceed to consideration.--A motion 
+                to proceed to the consideration of a bill under this 
+                subsection in the Senate shall not be debatable. It 
+                shall not be in order to move to reconsider the vote by 
+                which the motion to proceed is agreed to or disagreed 
+                to.
+                    ``(B) Limits on debate.--Debate in the Senate on a 
+                bill under this subsection, and all debatable motions 
+                and appeals in connection therewith (including debate 
+                pursuant to subparagraph (D)), shall not exceed 10 
+                hours, equally divided and controlled in the usual 
+                form.
+                    ``(C) Appeals.--Debate in the Senate on any 
+                debatable motion or appeal in connection with a bill 
+                under this subsection shall be limited to not more than 
+                1 hour, to be equally divided and controlled in the 
+                usual form.
+                    ``(D) Motion to limit debate.--A motion in the 
+                Senate to further limit debate on a bill under this 
+                subsection is not debatable.
+                    ``(E) Motion to recommit.--A motion to recommit a 
+                bill under this subsection is not in order.
+                    ``(F) Consideration of the house bill.--
+                            ``(i) In general.--If the Senate has 
+                        received the House companion bill to the bill 
+                        introduced in the Senate prior to the vote 
+                        required under paragraph (1)(C), then the 
+                        Senate may consider, and the vote under 
+                        paragraph (1)(C) may occur on, the House 
+                        companion bill.
+                            ``(ii) Procedure after vote on senate 
+                        bill.--If the Senate votes, pursuant to 
+                        paragraph (1)(C), on the bill introduced in the 
+                        Senate, then immediately following that vote, 
+                        or upon receipt of the House companion bill, 
+                        the House bill shall be deemed to be 
+                        considered, read the third time, and the vote 
+                        on passage of the Senate bill shall be 
+                        considered to be the vote on the bill received 
+                        from the House.
+    ``(b) Amendments Prohibited.--No amendment to, or motion to strike 
+a provision from, a bill considered under this section shall be in 
+order in either the Senate or the House of Representatives.
+
+                   ``presidential deferral authority
+
+    ``Sec. 1013.  (a) Temporary Presidential Authority to Withhold 
+Discretionary Budget Authority.--
+            ``(1) In general.--At the same time as the President 
+        transmits to the Congress a special message pursuant to section 
+        1011(b), the President may direct that any dollar amount of 
+        discretionary budget authority to be canceled in that special 
+        message shall not be made available for obligation for a period 
+        not to exceed 45 calendar days from the date the President 
+        transmits the special message to the Congress.
+            ``(2) Early availability.--The President shall make any 
+        dollar amount of discretionary budget authority deferred 
+        pursuant to paragraph (1) available at a time earlier than the 
+        time specified by the President if the President determines 
+        that continuation of the deferral would not further the 
+        purposes of this Act.
+    ``(b) Temporary Presidential Authority to Suspend Direct 
+Spending.--
+            ``(1) In general.--At the same time as the President 
+        transmits to the Congress a special message pursuant to section 
+        1011(b), the President may suspend the implementation of any 
+        item of direct spending proposed to be canceled in that special 
+        message for a period not to exceed 45 calendar days from the 
+        date the President transmits the special message to the 
+        Congress.
+            ``(2) Early availability.--The President shall terminate 
+        the suspension of any item of direct spending at a time earlier 
+        than the time specified by the President if the President 
+        determines that continuation of the suspension would not 
+        further the purposes of this Act.
+    ``(c) Temporary Presidential Authority to Suspend a Targeted Tax 
+Benefit.--
+            ``(1) In general.--At the same time as the President 
+        transmits to the Congress a special message pursuant to section 
+        1011(b), the President may suspend the implementation of any 
+        targeted tax benefit proposed to be repealed in that special 
+        message for a period not to exceed 45 calendar days from the 
+        date the President transmits the special message to the 
+        Congress.
+            ``(2) Early availability.--The President shall terminate 
+        the suspension of any targeted tax benefit at a time earlier 
+        than the time specified by the President if the President 
+        determines that continuation of the suspension would not 
+        further the purposes of this Act.
+    ``(d) Extension of 45-Day Period.--The President may transmit to 
+the Congress not more than one supplemental special message to extend 
+the period to suspend the implementation of any discretionary budget 
+authority, item of direct spending, or targeted tax benefit, as 
+applicable, by an additional 45 calendar days. Any such supplemental 
+message may not be transmitted to the Congress before the 40th day of 
+the 45-day period set forth in the preceding message or later than the 
+last day of such period.
+
+               ``identification of targeted tax benefits
+
+    ``Sec. 1014.  (a) Statement.--The chairman of the Committee on Ways 
+and Means of the House of Representatives and the chairman of the 
+Committee on Finance of the Senate acting jointly (hereafter in this 
+subsection referred to as the `chairmen') shall review any revenue or 
+reconciliation bill or joint resolution which includes any amendment to 
+the Internal Revenue Code of 1986 that is being prepared for filing by 
+a committee of conference of the two Houses, and shall identify whether 
+such bill or joint resolution contains any targeted tax benefits. The 
+chairmen shall provide to the committee of conference a statement 
+identifying any such targeted tax benefits or declaring that the bill 
+or joint resolution does not contain any targeted tax benefits. Any 
+such statement shall be made available to any Member of Congress by the 
+chairmen immediately upon request.
+    ``(b) Statement Included in Legislation.--
+            ``(1) In general.--Notwithstanding any other rule of the 
+        House of Representatives or any rule or precedent of the 
+        Senate, any revenue or reconciliation bill or joint resolution 
+        which includes any amendment to the Internal Revenue Code of 
+        1986 reported by a committee of conference of the two Houses 
+        may include, as a separate section of such bill or joint 
+        resolution, the information contained in the statement of the 
+        chairmen, but only in the manner set forth in paragraph (2).
+            ``(2) Applicability.--The separate section permitted under 
+        subparagraph (A) shall read as follows: `Section 1021 of the 
+        Congressional Budget and Impoundment Control Act of 1974 shall 
+        ______apply to ________.', with the blank spaces being filled 
+        in with--
+                    ``(A) in any case in which the chairmen identify 
+                targeted tax benefits in the statement required under 
+                subsection (a), the word `only' in the first blank 
+                space and a list of all of the specific provisions of 
+                the bill or joint resolution identified by the chairmen 
+                in such statement in the second blank space; or
+                    ``(B) in any case in which the chairmen declare 
+                that there are no targeted tax benefits in the 
+                statement required under subsection (a), the word `not' 
+                in the first blank space and the phrase `any provision 
+                of this Act' in the second blank space.
+    ``(c) Identification in Revenue Estimate.--With respect to any 
+revenue or reconciliation bill or joint resolution with respect to 
+which the chairmen provide a statement under subsection (a), the Joint 
+Committee on Taxation shall--
+            ``(1) in the case of a statement described in subsection 
+        (b)(2)(A), list the targeted tax benefits identified by the 
+        chairmen in such statement in any revenue estimate prepared by 
+        the Joint Committee on Taxation for any conference report which 
+        accompanies such bill or joint resolution, or
+            ``(2) in the case of a statement described in 13 subsection 
+        (b)(2)(B), indicate in such revenue estimate that no provision 
+        in such bill or joint resolution has been identified as a 
+        targeted tax benefit.
+    ``(d) President's Authority.--If any revenue or reconciliation bill 
+or joint resolution is signed into law--
+            ``(1) with a separate section described in subsection 
+        (b)(2), then the President may use the authority granted in 
+        this section only with respect to any targeted tax benefit in 
+        that law, if any, identified in such separate section; or
+            ``(2) without a separate section described in subsection 
+        (b)(2), then the President may use the authority granted in 
+        this section with respect to any targeted tax benefit in that 
+        law.
+
+                      ``treatment of cancellations
+
+    ``Sec. 1015. The cancellation of any dollar amount of discretionary 
+budget authority, item of direct spending, or targeted tax benefit 
+shall take effect only upon enactment of the applicable approval bill. 
+If an approval bill is not enacted into law before the end of the 
+applicable period under section 1013, then all proposed cancellations 
+contained in that bill shall be null and void and any such dollar 
+amount of discretionary budget authority, item of direct spending, or 
+targeted tax benefit shall be effective as of the original date 
+provided in the law to which the proposed cancellations applied.
+
+                    ``reports by comptroller general
+
+    ``Sec. 1016. With respect to each special message under this part, 
+the Comptroller General shall issue to the Congress a report 
+determining whether any discretionary budget authority is not made 
+available for obligation or item of direct spending or targeted tax 
+benefit continues to be suspended after the deferral authority set 
+forth in section 1013 of the President has expired.
+
+                             ``definitions
+
+    ``Sec. 1017. As used in this part:
+            ``(1) Appropriation law.--The term `appropriation law' 
+        means an Act referred to in section 105 of title 1, United 
+        States Code, including any general or special appropriation 
+        Act, or any Act making supplemental, deficiency, or continuing 
+        appropriations, that has been signed into law pursuant to 
+        Article I, section 7, of the Constitution of the United States.
+            ``(2) Approval bill.--The term `approval bill' means a bill 
+        or joint resolution which only approves proposed cancellations 
+        of dollar amounts of discretionary budget authority, items of 
+        new direct spending, or targeted tax benefits in a special 
+        message transmitted by the President under this part and--
+                    ``(A) the title of which is as follows: `A bill 
+                approving the proposed cancellations transmitted by the 
+                President on ___', the blank space being filled in with 
+                the date of transmission of the relevant special 
+                message and the public law number to which the message 
+                relates;
+                    ``(B) which does not have a preamble; and
+                    ``(C) which provides only the following after the 
+                enacting clause: `That the Congress approves of 
+                proposed cancellations ___', the blank space being 
+                filled in with a list of the cancellations contained in 
+                the President's special message, `as transmitted by the 
+                President in a special message on ____', the blank 
+                space being filled in with the appropriate date, 
+                `regarding ____.', the blank space being filled in with 
+                the public law number to which the special message 
+                relates;
+                    ``(D) which only includes proposed cancellations 
+                that are estimated by CBO to meet the definition of 
+                discretionary budgetary authority or items of direct 
+                spending, or that are identified as targeted tax 
+                benefits pursuant to section 1014;
+                    ``(E) if any proposed cancellation other than 
+                discretionary budget authority or targeted tax benefits 
+                is estimated by CBO to not meet the definition of item 
+                of direct spending, then the approval bill shall 
+                include at the end: `The President shall cease the 
+                suspension of the implementation of the following under 
+                section 1013 of the Legislative Line Item Veto Act of 
+                2006: ____', the blank space being filled in with the 
+                list of such proposed cancellations; and
+                    ``(F) if no CBO estimate is available, then the 
+                entire list of legislative provisions proposed by the 
+                President is inserted in the second blank space in 
+                subparagraph (C).
+            ``(3) Calendar day.--The term `calendar day' means a 
+        standard 24-hour period beginning at midnight.
+            ``(4) Cancel or cancellation.--The terms `cancel' or 
+        `cancellation' means to prevent--
+                    ``(A) budget authority from having legal force or 
+                effect;
+                    ``(B) in the case of entitlement authority, to 
+                prevent the specific legal obligation of the United 
+                States from having legal force or effect;
+                    ``(C) in the case of the food stamp program, to 
+                prevent the specific provision of law that provides 
+                such benefit from having legal force or effect; or
+                    ``(D) a targeted tax benefit from having legal 
+                force or effect; and
+        to make any necessary, conforming statutory change to ensure 
+        that such targeted tax benefit is not implemented and that any 
+        budgetary resources are appropriately canceled.
+            ``(5) CBO.--The term `CBO' means the Director of the 
+        Congressional Budget Office.
+            ``(6) Direct spending.--The term `direct spending' means--
+                    ``(A) budget authority provided by law (other than 
+                an appropriation law);
+                    ``(B) entitlement authority; and
+                    ``(C) the food stamp program.
+            ``(7) Dollar amount of discretionary budget authority.--(A) 
+        Except as provided in subparagraph (B), the term `dollar amount 
+        of discretionary budget authority' means the entire dollar 
+        amount of budget authority--
+                            ``(i) specified in an appropriation law, or 
+                        the entire dollar amount of budget authority or 
+                        obligation limitation required to be allocated 
+                        by a specific proviso in an appropriation law 
+                        for which a specific dollar figure was not 
+                        included;
+                            ``(ii) represented separately in any table, 
+                        chart, or explanatory text included in the 
+                        statement of managers or the governing 
+                        committee report accompanying such law;
+                            ``(iii) required to be allocated for a 
+                        specific program, project, or activity in a law 
+                        (other than an appropriation law) that mandates 
+                        the expenditure of budget authority from 
+                        accounts, programs, projects, or activities for 
+                        which budget authority is provided in an 
+                        appropriation law;
+                            ``(iv) represented by the product of the 
+                        estimated procurement cost and the total 
+                        quantity of items specified in an appropriation 
+                        law or included in the statement of managers or 
+                        the governing committee report accompanying 
+                        such law; or
+                            ``(v) represented by the product of the 
+                        estimated procurement cost and the total 
+                        quantity of items required to be provided in a 
+                        law (other than an appropriation law) that 
+                        mandates the expenditure of budget authority 
+                        from accounts, programs, projects, or 
+                        activities for which budget authority is 
+                        provided in an appropriation law.
+                    ``(B) The term `dollar amount of discretionary 
+                budget authority' does not include--
+                            ``(i) direct spending;
+                            ``(ii) budget authority in an appropriation 
+                        law which funds direct spending provided for in 
+                        other law;
+                            ``(iii) any existing budget authority 
+                        canceled in an appropriation law; or
+                            ``(iv) any restriction, condition, or 
+                        limitation in an appropriation law or the 
+                        accompanying statement of managers or committee 
+                        reports on the expenditure of budget authority 
+                        for an account, program, project, or activity, 
+                        or on activities involving such expenditure.
+            ``(8) Item of direct spending.--The term `item of direct 
+        spending' means any provision of law that results in an 
+        increase in budget authority or outlays for direct spending 
+        relative to the most recent levels calculated consistent with 
+        the methodology used to calculate a baseline under section 257 
+        of the Balanced Budget and Emergency Deficit Control Act of 
+        1985 and included with a budget submission under section 
+        1105(a) of title 31, United States Code, in the first year or 
+        the 5-year period for which the item is effective. However, 
+        such item does not include an extension or reauthorization of 
+        existing direct spending, but instead only refers to provisions 
+        of law that increase such direct spending.
+            ``(9) OMB.--The term `OMB' means the Director of the Office 
+        of Management and Budget.
+            ``(10) Omnibus reconciliation or appropriation measure.--
+        The term `omnibus reconciliation or appropriation measure' 
+        means--
+                    ``(A) in the case of a reconciliation bill, any 
+                such bill that is reported to its House by the 
+                Committee on the Budget; or
+                    ``(B) in the case of an appropriation measure, any 
+                such measure that provides appropriations for programs, 
+                projects, or activities falling within 2 or more 
+                section 302(b) suballocations.
+            ``(11) Targeted tax benefit.--(A) The term `targeted tax 
+        benefit' means any revenue-losing provision that provides a 
+        Federal tax deduction, credit, exclusion, or preference to only 
+        one beneficiary (determined with respect to either present law 
+        or any provision of which the provision is a part) under the 
+        Internal Revenue Code of 1986 in any year for which the 
+        provision is in effect;
+                    ``(B) for purposes of subparagraph (A)--
+                            ``(i) all businesses and associations that 
+                        are members of the same controlled group of 
+                        corporations (as defined in section 1563(a) of 
+                        the Internal Revenue Code of 1986) shall be 
+                        treated as a single beneficiary;
+                            ``(ii) all shareholders, partners, members, 
+                        or beneficiaries of a corporation, partnership, 
+                        association, or trust or estate, respectively, 
+                        shall be treated as a single beneficiary;
+                            ``(iii) all employees of an employer shall 
+                        be treated as a single beneficiary;
+                            ``(iv) all qualified plans of an employer 
+                        shall be treated as a single beneficiary;
+                            ``(v) all beneficiaries of a qualified plan 
+                        shall be treated as a single beneficiary;
+                            ``(vi) all contributors to a charitable 
+                        organization shall be treated as a single 
+                        beneficiary;
+                            ``(vii) all holders of the same bond issue 
+                        shall be treated as a single beneficiary; and
+                            ``(viii) if a corporation, partnership, 
+                        association, trust or estate is the beneficiary 
+                        of a provision, the shareholders of the 
+                        corporation, the partners of the partnership, 
+                        the members of the association, or the 
+                        beneficiaries of the trust or estate shall not 
+                        also be treated as beneficiaries of such 
+                        provision;
+                    ``(C) for the purpose of this paragraph, the term 
+                `revenue-losing provision' means any provision that is 
+                estimated to result in a reduction in Federal tax 
+                revenues (determined with respect to either present law 
+                or any provision of which the provision is a part) for 
+                any one of the two following periods--
+                            ``(i) the first fiscal year for which the 
+                        provision is effective; or
+                            ``(ii) the period of the 5 fiscal years 
+                        beginning with the first fiscal year for which 
+                        the provision is effective; and
+                    ``(D) the terms used in this paragraph shall have 
+                the same meaning as those terms have generally in the 
+                Internal Revenue Code of 1986, unless otherwise 
+                expressly provided.
+
+                              ``expiration
+
+    ``Sec. 1018. This title shall have no force or effect on or after 
+October 1, 2012.''.
+
+SEC. 3. TECHNICAL AND CONFORMING AMENDMENTS.
+
+    (a) Exercise of Rulemaking Powers.--Section 904 of the 
+Congressional Budget Act of 1974 (2 U.S.C. 621 note) is amended--
+            (1) in subsection (a), by striking ``1017'' and inserting 
+        ``1012''; and
+            (2) in subsection (d), by striking ``section 1017'' and 
+        inserting ``section 1012''.
+    (b) Analysis by Congressional Budget Office.--Section 402 of the 
+Congressional Budget Act of 1974 is amended by inserting ``(a)'' after 
+``402.'' and by adding at the end the following new subsection:
+    ``(b) Upon the receipt of a special message under section 1011 
+proposing to cancel any item of direct spending, the Director of the 
+Congressional Budget Office shall prepare an estimate of the savings in 
+budget authority or outlays resulting from such proposed cancellation 
+relative to the most recent levels calculated consistent with the 
+methodology used to calculate a baseline under section 257 of the 
+Balanced Budget and Emergency Deficit Control Act of 1985 and included 
+with a budget submission under section 1105(a) of title 31, United 
+States Code, and transmit such estimate to the chairmen of the 
+Committees on the Budget of the House of Representatives and Senate.''.
+    (c) Clerical Amendments.--(1) Section 1(a) of the Congressional 
+Budget and Impoundment Control Act of 1974 is amended by striking the 
+last sentence.
+    (2) Section 1022(c) of such Act (as redesignated) is amended is 
+amended by striking ``rescinded or that is to be reserved'' and insert 
+``canceled'' and by striking ``1012'' and inserting ``1011''.
+    (3) Table of Contents.--The table of contents set forth in section 
+1(b) of the Congressional Budget and Impoundment Control Act of 1974 is 
+amended by deleting the contents for parts B and C of title X and 
+inserting the following:
+
+                  ``Part B--Legislative Line-Item Veto
+
+``Sec. 1011. Line item veto authority.
+``Sec. 1012. Procedures for expedited consideration.
+``Sec. 1013. Presidential deferral authority.
+``Sec. 1014. Identification of targeted tax benefits.
+``Sec. 1015. Treatment of cancellations.
+``Sec. 1016. Reports by comptroller general.
+``Sec. 1017. Definitions.
+``Sec. 1018. Expiration.
+``Sec. 1019. Suits by Comptroller General.
+``Sec. 1020. Proposed Deferrals of budget authority.''.
+    (d) Effective Date.--The amendments made by this Act shall take 
+effect on the date of its enactment and apply only to any dollar amount 
+of discretionary budget authority, item of direct spending, or targeted 
+tax benefit provided in an Act enacted on or after the date of 
+enactment of this Act.
+
+SEC. 4. SENSE OF CONGRESS ON ABUSE OF PROPOSED CANCELLATIONS.
+
+    It is the sense of Congress no President or any executive branch 
+official should condition the inclusion or exclusion or threaten to 
+condition the inclusion or exclusion of any proposed cancellation in 
+any special message under this section upon any vote cast or to be cast 
+by any Member of either House of Congress.
+
+            Passed the House of Representatives June 22, 2006.
+
+            Attest:
+
+                                                 KAREN L. HAAS,
+
+                                                                 Clerk.
+                                                       Calendar No. 589
+
+109th CONGRESS
+
+  2d Session
+
+                               H. R. 4890
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend the Congressional Budget and Impoundment Control Act of 1974 
+    to provide for the expedited consideration of certain proposed 
+                    rescissions of budget authority.
+
+_______________________________________________________________________
+
+                           September 5, 2006
+
+            Read the second time and placed on the calendar

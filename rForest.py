@@ -6,70 +6,80 @@ class RandomForest:
 
     def __init__(self, size, kSubset, maxD):
 
-        self.size = size
-        self.k = kSubset
-        self.maxD = maxD
-        self.forest = []
-        self.OOB = None
-        self.OOBpredict = None      # [OOB correct for a given tree]
-        self.varImpt = None         # [tree][feature]
+        self.size = size            # number of trees in forest
+        self.k = kSubset            # size of random subset of features
+        self.maxD = maxD            # max depth
+        self.forest = []            # array containing trees in forest
+        self.OOB = None             # m x t matrix where m = size of train set; t = size of forest
+                                    # keeps track of predicted label for every time a sample was OOB
 
     def buildForest(self, passed, failed):
 
-        numPass = passed.shape[0]
-        numFail = failed.shape[0]
-        total = numPass + numFail
-        f = passed.shape[1]
-        split = (total * 2) // 3
+        numPass = passed.shape[0]       # number of bills in train set passed
+        numFail = failed.shape[0]       # number of bills in train set failed
+        total = numPass + numFail       # total number of bills in train set
+        f = passed.shape[1]             # number of features
 
         self.OOB = numpy.zeros((total, self.size))
         self.OOB.fill(numpy.nan)
-        self.OOBpredict = numpy.zeros((self.size, 1))
-        # self.OOB = numpy.zeros((total, 2))   # [# of times OOB case][predict passed]
-        # print self.OOB
 
-        caseSet = numpy.vstack((passed, failed))
+        caseSet = numpy.vstack((passed, failed))    # pass-fail training set combined 
 
-        for i in range(self.size):
+        for i in range(self.size):      # build all trees in forest
 
-            randSet = numpy.arange(total)
-            numpy.random.shuffle(randSet)
+            trainPset = numpy.zeros((total, f))     # pass bag
+            trainFset = numpy.zeros((total, f))     # fail bag
 
-            train = randSet[:split]     # random indices of train samples
-            test = randSet[split:]      # random indices for OOB samples
+            np = 0
+            nf = 0
 
-            train.sort()                # order indices, so we know how to divide
-            test.sort()                 # samples into pass and fail
+            randSet = []        # set of random indices making up our bag
 
-            trainSet = caseSet[train]   # bootstrap sample
-            passFailThresh = sum(i < numPass for i in train)
+            for j in range(total):      # draw bag of size of original training set
 
-            # split bootstrap sample into pass and fail
-            trainPset = trainSet[:passFailThresh]
-            trainFset = trainSet[passFailThresh:]
+                rand = numpy.random.randint(0, total)       # "draw" random sample with replacement
+                randSet.append(rand)                        # append to index set
 
-            self.forest.append(DecisionTree(trainPset.shape[0], trainFset.shape[0], 0, i)) ### or 1?
+                if (rand < numPass):        # if index in pass range
+
+                    trainPset[np] = caseSet[rand]   # add to pass bag
+                    np += 1
+
+                else:
+
+                    trainFset[nf] = caseSet[rand]   # add to fail bag
+                    nf += 1
+
+            trainPset = trainPset[:np]          # trim pass/fail bags to size
+            trainFset = trainFset[:nf]
+
+            randSet = numpy.unique(randSet)     # remove duplicates
+
+            test = []       # set of indices of oob "test" samples
+            k = 0
+
+            # go through entire training set
+            # adding indices of oob samples to test
+            for s in range(total):
+
+                if (k == len(randSet)):
+
+                    test.append(s)
+
+                elif (s != randSet[k]):
+
+                    test.append(s)
+
+                else:
+
+                    k += 1
+
+            # create, add, and build new tree in forest
+            self.forest.append(DecisionTree(trainPset.shape[0], trainFset.shape[0], 0, i))
             self.forest[i].buildDTree(self.k, self.maxD, trainPset, trainFset)
-
-            # testSet = caseSet[test]     # OOB sample
-            # print testSet
-
-            # testPset = testSet[test < numPass]
-            # testFset = testSet[test >= numPass]
 
             # use tree to classify OOB samples
             self.OOBclassify(i, caseSet, test, numPass)
-            # print "---OOBpredict"
-            # print OOBpredict
-            # self.OOB[:,0][test] += 1         # increment # times sample has been OOB
-
-            # increment by pass prediction
-            # for i in range(test.shape[0]):
-
-                # print "test[i] " + str(test[i])
-                # print "in bounds? " + str(self.OOB[0][1])
-                # print "in bounds? " + str(self.OOB[1][1])
-                # self.OOB[test[i]][1] += OOBpredict[i]
 
     def classError(self, pTest, fTest):
 
@@ -78,102 +88,56 @@ class RandomForest:
 
         correct = 0
 
+        # for each passed test sample
         for s in range(pSize):
 
             passed = 0
 
             for tree in self.forest:
 
+                # tally up each tree's vote for "pass"
                 if (tree.classify(pTest[s]) == 1):
 
                     passed += 1
 
+            # if majority vote is "pass", increment correct label tally
             if (passed > self.size - passed):
 
                 correct += 1
 
+        # for each failed test sample
         for s in range(fSize):
 
             failed = 0
 
+            # tally up each tree's vote for "fail"
             for tree in self.forest:
 
                 if (tree.classify(fTest[s]) == 0):
 
                     failed += 1
 
+            # if majority vote is "fail", increment correct label tally
             if (failed > self.size - failed):
 
                 correct += 1
 
-
+        # return error = 1 - correct
         return 1 - (correct / (pSize + fSize))
 
-    def varImportance(self, samples, features, numPass):
-
-        total = samples.shape[0]
-        self.varImpt = numpy.zeros((self.size + 1, features))   # [tree][feature]
-
-        for n in range(features):
-
-            for i in self.forest:
-
-                nonNaN = numpy.arange(total)
-                nonNaN = nonNaN[~numpy.isnan(self.OOB[:,i.id])]
-                original = samples[:,n][nonNaN]
-
-                permed = samples[:,n][nonNaN]
-                numpy.random.shuffle(permed)
-                samples[:,n][nonNaN] = permed
-
-                for m in nonNaN:
-
-                    if (m < numPass and i.classify(samples[m]) == 1):
-
-                        self.varImpt[i.id][n] -= 1
-
-                    elif (m >= numPass and i.classify(samples[m]) == 0):
-
-                        self.varImpt[i.id][n] -= 1
-
-                self.varImpt[i.id][n] += self.OOBpredict[i.id]
-
-                samples[:,n][nonNaN] = original
-
-            self.varImpt[self.size][n] = numpy.mean(self.varImpt[:self.size][n])
-
-        # print "----OOB"
-        # print self.OOB[:5]
-        # print "----varImpt"
-        # print self.varImpt
-
-    def printVarImpt(self):
-
-        for i in range(self.varImpt.shape[1]):
-
-            print "F", i, ": ", self.varImpt[self.size][i]
-
+    # method that classifies out-of-bag samples
     def OOBclassify(self, tree, samples, testIndices, numPass):
 
         for i in testIndices:
 
+            # record classification
             self.OOB[i][tree] = self.forest[tree].classify(samples[i])
 
-            # tally number correctly classified for a given tree
-            # in an out of bag set
-            if (i < numPass and self.OOB[i][tree] == 1):
-
-                self.OOBpredict[tree] += 1
-
-            elif (i >= numPass and self.OOB[i][tree] == 0):
-
-                self.OOBpredict[tree] += 1
-
-
+    # get OOB classification error
     def OOBestimate(self, numPass, numFail):
 
         total = numPass + numFail
-        OOBvalues = numpy.nansum(self.OOB, axis = 1)
+        OOBvalues = numpy.nansum(self.OOB, axis = 1)    # sum "pass" votes across row
         error = 0
 
         for i in range(self.OOB.shape[0]):
@@ -181,11 +145,13 @@ class RandomForest:
             # if the ith value was ever an oob case
             if not (numpy.isnan(OOBvalues[i])):
 
+                # number of times sample was OOB
+                OOBcase = self.size - numpy.isnan(self.OOB[i]).sum()
+                
                 if (i < numPass):
 
                     # if failed is greater than passed
                     # i.e. if incorrectly labeled 'failed'
-                    OOBcase = self.size - numpy.isnan(self.OOB[i]).sum()
                     if (OOBvalues[i] < OOBcase - OOBvalues[i]):
 
                         error += 1
@@ -194,7 +160,6 @@ class RandomForest:
 
                     # if passed is greater than failed
                     # i.e. if incorrectly labeled 'passed'
-                    OOBcase = self.size - numpy.isnan(self.OOB[i]).sum()
                     if (OOBvalues[i] > OOBcase - OOBvalues[i]):
 
                         error += 1
@@ -225,7 +190,6 @@ class RandomForest:
                 predictions[s] = 1
 
         return predictions
-
 
 
 
@@ -268,8 +232,6 @@ class DecisionTree:
 
                 self.decision = 0
 
-        ##### if both are 0---disregard?
-
     def classify(self, test):
 
         node = self
@@ -288,21 +250,6 @@ class DecisionTree:
 
         return node.decision
 
-    # def OOBclassify(self, forest, samples, testIndices):
-
-    #     for i in testIndices:
-
-    #         self.OOB[]
-
-    #     m = samples.shape[0]
-    #     predictions = numpy.zeros((m, 1))
-
-    #     for i in range(m):
-
-    #         predictions[i] = self.classify(samples[i])
-
-    #     return predictions
-
     def highLowTally(self, samples, f, split):
 
         # tally number of samples above and below the 
@@ -315,8 +262,6 @@ class DecisionTree:
     def makePassFail(self, samples):
 
         high = samples[:,self.feat] > self.thresh
-        # print "----sum"
-        # print high.sum()
 
         # generate new lists for samples above and 
         # below the threshold
@@ -333,8 +278,6 @@ class DecisionTree:
     def entropy(self, c1, c2):
 
         total = c1 + c2
-        # print(c2 / total)
-        # print(c1 / total)
         return -1 * ((c1 / total) * numpy.log2((c1 / total) + numpy.spacing(1)) + \
                (c2 / total) * numpy.log2((c2 / total) + numpy.spacing(1)))
 
@@ -346,17 +289,10 @@ class DecisionTree:
         (highPass, lowPass) = self.highLowTally(passed, f, split)
         (highFail, lowFail) = self.highLowTally(failed, f, split)
 
-        # print "---high", str(highPass), str(highFail)
-        # print "---low", str(lowPass), str(lowFail)
-
-        # print "----total", self.entropy(self.numPass, self.numFail)
-        # print "----high", self.entropy(highPass, highFail)
-        # print "----low", self.entropy(lowPass, lowFail)
-
         # calculate entropies
         entWhole = self.entropy(self.numPass, self.numFail)
         entHigh = self.entropy(highPass, highFail) * ((highPass + highFail) / total)
-        entLow = self.entrop(lowPass, lowFail) * ((lowPass + lowFail) / total)
+        entLow = self.entropy(lowPass, lowFail) * ((lowPass + lowFail) / total)
 
         gain = entWhole - entHigh - entLow
 
@@ -367,8 +303,8 @@ class DecisionTree:
         m = self.numPass + self.numFail
         n = len(fsubset)
 
-        maxGain = numpy.zeros((n, 2))    # [max feature gain][thresh]
-        fArray = numpy.zeros((m, 2))    # [sample feature value][sample label]
+        maxGain = numpy.zeros((n, 2))       # [max feature gain][thresh]
+        fArray = numpy.zeros((m, 2))        # [sample feature value][sample label]
 
         # for each feature
         # find threshold that yields max gain for each feature
@@ -376,26 +312,13 @@ class DecisionTree:
 
             # index of feature
             f = fsubset[i];
-            # print "---FEATURE: " + str(f)
 
             # sort by feature value
             fArray[0:self.numPass,[0]] = passed[:,[f]]
             fArray[self.numPass:, [0]] = failed[:,[f]]
             fArray[0:self.numPass,[1]] = numpy.ones((self.numPass, 1))
 
-            # print "---fArray Presort"
-            # print fArray
-
             fArray = fArray[numpy.lexsort((fArray[:,0], ))]
-
-            # print "---fArray Post"
-            # print fArray
-
-            # print fArray[:,[1]]
-
-            # print "-----farray"
-            # print fArray
-            # print "----end farray"
 
             # look through entire feature specific matrix
             for s in range(m - 1):
@@ -406,10 +329,7 @@ class DecisionTree:
                     # choose threshold to be midpoint
                     # calculate information gain for that threshold
                     split = (fArray[s][0] + fArray[s + 1][0]) / 2
-                    # print "----split: ", split
                     gain = self.infoGain(f, split, passed, failed)
-
-                    # print "----gain: ", gain
 
                     if (gain > maxGain[i][0]):
 
@@ -418,24 +338,14 @@ class DecisionTree:
 
         idx = numpy.argmax(maxGain[:,0])    # index of highest gain
 
-        self.feat = fsubset[idx]        # feature index of highest gain
-        self.thresh = maxGain[idx][1]    # corresponding threshold yielding highest gain
-
-        # print self.feat, self.thresh
+        self.feat = fsubset[idx]            # feature index of highest gain
+        self.thresh = maxGain[idx][1]       # corresponding threshold yielding highest gain
 
     def buildDTree(self, k, maxD, passed, failed):
 
-        ###### EDIT HERE ######
-        # print "numPass: ", self.numPass
-        # print "numFail: ", self.numFail
-        # print "depth: ", self.depth
         if (self.numPass == 0 or self.numFail == 0 or self.depth >= maxD):
 
             self.makeDecision()
-            # print "----"
-            # print "made decision: ", self.decision
-            # print "at depth: ", self.depth
-            # print "----"
 
         else:
 
@@ -447,45 +357,17 @@ class DecisionTree:
             fsubset = random.sample(numpy.arange(n), k)
             self.splitBinary(fsubset, passed, failed)
 
-            # print "-----thresh/feature"
-            # print self.thresh, self.feat
             # generate new set of pass and fail lists
             (highPass, lowPass) = self.makePassFail(passed)
             (highFail, lowFail) = self.makePassFail(failed)
 
-
-            # print "---thresh", self.thresh
-            # print "---feat", self.feat
-            # print "---high"
-            # print highPass
-            # print "-"
-            # print highFail
-            # print "---low"
-            # print lowPass
-            # print "-"
-            # print lowFail
-
             # create children nodes at next depth
             above = DecisionTree(highPass.shape[0], highFail.shape[0], self.depth + 1, None)
             below = DecisionTree(lowPass.shape[0], lowFail.shape[0], self.depth + 1, None)
-
-            # print "----children----"
-            # print "above", above.numPass, above.numFail, above.depth
-            # print "below", below.numPass, below.numFail, above.depth
 
             self.addChildren(above, below)
 
             # build trees at children
             above.buildDTree(k, maxD, highPass, highFail)
             below.buildDTree(k, maxD, lowPass, lowFail)
-
-            # print "---depth", self.depth
-
-
-# dTree = DecisionTree(2, 3, 0)
-# rF = RandomForest(2, 2, 2)
-# passed = numpy.array([[0.15, 0.23, 0.29, 0.33], [0.10, 0.07, 0.45, 0.48]])
-# failed = numpy.array([[0.27, 0.32, 0.13, 0.28], [0.17, 0.29, 0.37, 0.17], [0.43, 0.18, 0.06, 0.33]])
-# fsub = random.sample(numpy.arange(4), 2)
-# dTree.buildDTree(2, 2, passed, failed)
 

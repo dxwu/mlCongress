@@ -1,0 +1,233 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 1242 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                S. 1242
+
+  To amend the Fair Credit Reporting Act to provide for disclosure of 
+    credit-scoring information by creditors and consumer reporting 
+                               agencies.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 25, 2001
+
+Mr. Schumer (for himself and Mr. Allard) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Fair Credit Reporting Act to provide for disclosure of 
+    credit-scoring information by creditors and consumer reporting 
+                               agencies.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Consumer Credit Score Disclosure Act 
+of 2001''.
+
+SEC. 2. DEFINITIONS.
+
+    Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is 
+amended by adding at the end the following:
+    ``(q) Definitions Relating to Credit Scores.--In this title--
+            ``(1) when used in connection with an application for an 
+        extension of credit for a consumer purpose that is to be 
+        secured by a dwelling--
+                    ``(A) the term `credit score'--
+                            ``(i) means a numerical value or 
+                        categorization derived from a statistical tool 
+                        or modeling system used to predict the 
+                        likelihood of certain credit behaviors, 
+                        including default; and
+                            ``(ii) does not include--
+                                    ``(I) any mortgage score or rating 
+                                of an automated underwriting system 
+                                that considers 1 or more factors in 
+                                addition to credit information, 
+                                including the loan-to-value ratio, the 
+                                amount of down payment, or the 
+                                financial assets of a consumer; or
+                                    ``(II) other elements of the 
+                                underwriting process or underwriting 
+                                decision; and
+                    ``(B) the term `key factors' means all relevant 
+                elements or reasons affecting the credit score for a 
+                consumer, listed in the order of their importance, 
+                based on their respective effects on the credit score; 
+                and
+            ``(2) the terms `creditor' and `dwelling' have the same 
+        meanings as in section 103 of the Truth in Lending Act.''.
+
+SEC. 3. DUTIES OF CONSUMER REPORTING AGENCIES TO DISCLOSE CREDIT 
+              SCORES.
+
+    (a) In General.--Section 609(a) of the Fair Credit Reporting Act 
+(15 U.S.C. 1681g(a)) is amended by adding at the end the following:
+            ``(6) In connection with an application for an extension of 
+        credit for a consumer purpose that is to be secured by a 
+        dwelling--
+                    ``(A) the current, or most recent, credit score of 
+                the consumer that was previously calculated by the 
+                agency;
+                    ``(B) the range of possible credit scores under the 
+                model used;
+                    ``(C) the key factors, if any, not to exceed 4, 
+                that adversely affected the credit score of the 
+                consumer in the model used;
+                    ``(D) the date on which the credit score was 
+                created; and
+                    ``(E) the name of the person or entity that 
+                provided the credit score or the credit file on the 
+basis of which the credit score was created.''.
+    (b) Limitations on Required Provision of Credit Score.--Section 609 
+of the Fair Credit Reporting Act (15 U.S.C. 1681g) is amended by adding 
+at the end the following:
+    ``(d) Limitations on Required Provision of Credit Score.--
+            ``(1) In general.--Subsection (a)(6) may not be construed--
+                    ``(A) to compel a consumer reporting agency to 
+                develop or disclose a credit score if the agency does 
+                not, in the ordinary course of its business--
+                            ``(i) distribute scores that are used in 
+                        connection with extensions of credit secured by 
+                        residential real property; or
+                            ``(ii) develop credit scores that assist 
+                        creditors in understanding the general credit 
+                        behavior of the consumer and predicting future 
+                        credit behavior;
+                    ``(B) to require a consumer reporting agency that 
+                distributes credit scores developed by another person 
+                or entity to provide a further explanation of those 
+                scores, or to process a dispute arising pursuant to 
+                section 611(a), except that the consumer reporting 
+                agency shall be required to provide to the consumer the 
+                name and information for contacting the person or 
+                entity that developed the score;
+                    ``(C) to require a consumer reporting agency to 
+                maintain credit scores in its files; or
+                    ``(D) to compel disclosure of a credit score, 
+                except upon specific request of the consumer, except 
+                that if a consumer requests the credit file and not the 
+                credit score, then the consumer shall be provided with 
+                the credit file and a statement that the consumer may 
+                request and obtain a credit score.
+            ``(2) Provision of scoring model.--In complying with 
+        subsection (a)(6) and this subsection, a consumer reporting 
+        agency shall supply to the consumer--
+                    ``(A) a credit score that is derived from a credit 
+                scoring model that is widely distributed to users of 
+                credit scores by that consumer reporting agency in 
+                connection with any extension of credit secured by a 
+                dwelling; or
+                    ``(B) a credit score that assists the consumer in 
+                understanding the credit scoring assessment of the 
+                credit behavior of the consumer and predictions about 
+                future credit behavior.''.
+    (c) Conforming Amendment.--Section 609(a)(1) of the Fair Credit 
+Reporting Act (15 U.S.C. 1681g(a)(1)) is amended by inserting before 
+the period ``, other than as provided in paragraph (6)''.
+
+SEC. 4. DUTIES OF USERS OF CREDIT SCORES.
+
+    (a) In General.--Section 615 of the Fair Credit Reporting Act (15 
+U.S.C. 1681m) is amended--
+            (1) by striking ``(e)'' at the end; and
+            (2) by adding at the end the following:
+    ``(e) Duties of Users of Credit Scores.--
+            ``(1) Disclosures.--Any person that makes or arranges 
+        extensions of credit for consumer purposes that are to be 
+        secured by a dwelling and that uses credit scores for that 
+        purpose, shall be required to provide to the consumer to whom 
+        the credit score relates, as soon as is reasonably practicable 
+        after such use--
+                    ``(A) a copy of the information described in 
+                section 609(a)(6) that was obtained from a consumer 
+                reporting agency or that was developed and used by that 
+                user of the credit score information; or
+                    ``(B) if the user of the credit score information 
+                obtained such information from a third party that 
+                developed such information, (other than a consumer 
+                reporting agency or the user itself) only--
+                            ``(i) a copy of the information described 
+                        in section 609(a)(6) provided to the user by 
+                        the person or entity that developed the credit 
+                        score; and
+                            ``(ii) a notice that generally describes 
+                        credit scores, their use, and the sources and 
+                        kinds of data used to generate credit scores.
+            ``(2) Rule of construction.--This subsection may not be 
+        construed to require the user of a credit score described in 
+        paragraph (1)--
+                    ``(A) to explain to the consumer the information 
+                provided pursuant to section 609(a)(6), unless that 
+                information was developed by the user;
+                    ``(B) to disclose any information other than a 
+                credit score or the key factors required to be 
+                disclosed under section 609(a)(6)(C);
+                    ``(C) to disclose any credit score or related 
+                information obtained by the user after a transaction 
+                occurs; or
+                    ``(D) to provide more than 1 disclosure under this 
+                subsection to any 1 consumer per credit transaction.
+            ``(3) Limitation.--Except as otherwise provided in this 
+        subsection, the obligation of a user of a credit score under 
+        this subsection shall be limited solely to providing a copy of 
+        the information that was received from the consumer reporting 
+        agency or other person. A user of a credit score has no 
+        liability under this subsection for the content of credit score 
+        information received from a consumer reporting agency or for 
+        the omission of any information within the report provided by 
+        the consumer reporting agency.''.
+    (b) Conforming Amendment.--Section 615 of the Fair Credit Reporting 
+Act (15 U.S.C. 1681m) is amended in the section heading, by adding at 
+the end ``and credit scores''.
+
+SEC. 5. CONTRACTUAL LIABILITY.
+
+    Section 616 of the Fair Credit Reporting Act (15 U.S.C. 1681n) is 
+amended by adding at the end the following:
+    ``(d) Use of Credit Scores.--Any provision of any contract that 
+prohibits the disclosure of a credit score by a consumer reporting 
+agency or a person who makes or arranges extensions of credit to the 
+consumer to whom the credit score relates is void. A user of a credit 
+score shall not have liability under any such contractual provision for 
+disclosure of a credit score.''.
+
+SEC. 6. RELATION TO STATE LAWS.
+
+    Section 624(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 
+1681t(b)(1)) is amended--
+            (1) in subparagraph (E), by striking ``or'' at the end; and
+            (2) by adding at the end the following new subparagraphs:
+                    ``(G) section 609(a)(6), relating to the disclosure 
+                of credit scores by consumer reporting agencies; or
+                    ``(H) section 615(e), relating to the duties of 
+                users of credit scores to disclose credit score 
+                information to consumers;''.
+
+SEC. 7. EFFECTIVE DATE.
+
+    This Act and the amendments made by this Act shall become effective 
+180 days after the date of enactment of this Act.
+                                 <all>

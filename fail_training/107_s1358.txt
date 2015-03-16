@@ -1,0 +1,1280 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 1358 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                S. 1358
+
+To revise Federal building energy efficiency performance standards, to 
+    establish the Office of Federal Energy Productivity within the 
+   Department of Energy, to amend Federal Energy Management Program 
+  requirements under the National Energy Conservation Policy Act, to 
+ enact into law certain requirements of Executive Order No. 13123, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 3, 2001
+
+   Mr. Bayh introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To revise Federal building energy efficiency performance standards, to 
+    establish the Office of Federal Energy Productivity within the 
+   Department of Energy, to amend Federal Energy Management Program 
+  requirements under the National Energy Conservation Policy Act, to 
+ enact into law certain requirements of Executive Order No. 13123, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Facility Energy Management 
+Act of 2001''.
+
+SEC. 2. PURPOSE.
+
+    The purpose of this Act is to increase the energy efficiency of 
+facilities of Federal agencies by--
+            (1) establishing the Office of Federal Energy Productivity 
+        within the Department of Energy to provide for interagency 
+        coordination in evaluating opportunities for, and 
+        implementation of, energy efficiency measures and programs;
+            (2) updating energy reduction goals;
+            (3) expanding Federal agency resources for energy 
+        measurement and improving accountability by providing for--
+                    (A) energy metering and monitoring;
+                    (B) transparent energy spending; and
+                    (C) rigorous interagency and congressional 
+                oversight;
+            (4) promoting the acquisition and operation of more 
+        efficient facilities by extending the authority and eligibility 
+        of a Federal agency to enter into energy savings performance 
+        contracts; and
+            (5) establishing a reliable and steady source of funding 
+        for permanent energy capital improvement available to 
+        supplement appropriations for use by Federal agencies and the 
+        Architect of the Capitol--
+                    (A) to fund energy efficiency projects; and
+                    (B) to leverage funding for energy savings 
+                performance contracts.
+
+SEC. 3. REVISED FEDERAL BUILDING ENERGY EFFICIENCY PERFORMANCE 
+              STANDARDS.
+
+    Section 305 of the Energy Conservation and Production Act (42 
+U.S.C. 6834) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (2)(A), by striking ``CABO Model 
+                Energy Code, 1992'' and inserting ``the International 
+                Residential Code''; and
+                    (B) by adding at the end the following:
+            ``(3) Revised federal building energy efficiency 
+        performance standards.--
+                    ``(A) In general.--Not later than 1 year after the 
+                date of enactment of this paragraph, the Secretary of 
+                Energy shall establish, by rule, revised Federal 
+                building energy efficiency performance standards that 
+                require that--
+                            ``(i) new commercial buildings and 
+                        multifamily high rise residential buildings be 
+                        constructed so as--
+                                    ``(I) to have, in the aggregate, a 
+                                level of energy efficiency that is 10 
+                                percent greater than the level of 
+                                energy efficiency required under the 
+                                standards established under paragraph 
+                                (1); and
+                                    ``(II) to meet or exceed the most 
+                                recent ASHRAE Standard 90.1, approved 
+                                by the American Society of Heating, 
+                                Refrigerating and Air-Conditioning 
+                                Engineers, Inc.;
+                            ``(ii) new residential buildings (other 
+                        than those described in clause (i)) be 
+                        constructed so as to exceed the level of energy 
+                        efficiency required under the most recent 
+                        version of the International Residential Code 
+                        by not less than 10 percent.
+                    ``(B) Additional revisions.--Not later than 180 
+                days after the date of approval of amendments to ASHRAE 
+                Standard 90.1 or the International Residential Code, 
+                the Secretary of Energy shall determine, based on the 
+                cost-effectiveness of the requirements under the 
+                amendments, whether the revised standards established 
+                under this paragraph should be updated to reflect the 
+                amendments.
+                    ``(C) Computer software.--The Secretary of Energy 
+                shall develop computer software to facilitate 
+                compliance with the revised standards established under 
+                this paragraph.
+                    ``(D) Statement on compliance of new buildings.--In 
+                the budget request of the Federal agency for each 
+                fiscal year and each report submitted by the Federal 
+                agency under section 548(a) of the National Energy 
+                Conservation Policy Act (42 U.S.C. 8258(a)), the head 
+                of each Federal agency shall include--
+                            ``(i) a list of all new Federal buildings 
+                        of the Federal agency; and
+                            ``(ii) a statement concerning whether the 
+                        Federal buildings meet or exceed the revised 
+                        standards established under this paragraph, 
+                        including a metering and commissioning 
+                        component that is in compliance with the 
+                        measurement and verification protocols of the 
+                        Department of Energy.
+                    ``(E) Authorization of appropriations.--There are 
+                authorized to be appropriated such sums as are 
+                necessary to carry out this paragraph and to implement 
+                the revised standards established under this 
+                paragraph.''; and
+            (2) by adding at the end the following:
+    ``(e) Energy Labeling Program.--The Secretary of Energy, in 
+cooperation with the Administrator of the Environmental Protection 
+Agency, shall develop an energy labeling program for new Federal 
+buildings that exceed the revised standards established under 
+subsection (a)(3) by 15 percent or more.
+    ``(f) Collection of Interval Solar Data.--The Secretary of Commerce 
+shall collect interval solar data at all weather stations under the 
+jurisdiction of the Secretary of Commerce for use in determining 
+building energy efficiency performance under this section.''.
+
+SEC. 4. OFFICE OF FEDERAL ENERGY PRODUCTIVITY OF THE DEPARTMENT OF 
+              ENERGY.
+
+    (a) In General.--Title II of the Department of Energy Organization 
+Act is amended by inserting after section 211 (42 U.S.C. 7141) the 
+following:
+
+``SEC. 212. OFFICE OF FEDERAL ENERGY PRODUCTIVITY.
+
+    ``(a) Establishment.--There is established, within the Department, 
+the Office of Federal Energy Productivity (referred to in this section 
+as the `Office').
+    ``(b) Assistant Secretary for Federal Energy Productivity.--
+            ``(1) In general.--The Office shall be headed by the 
+        Assistant Secretary for Federal Energy Productivity (referred 
+        to in this section as the `Assistant Secretary'), who shall 
+        report directly to the Secretary.
+            ``(2) Duties.--The Assistant Secretary shall--
+                    ``(A) ensure compliance with the energy use and 
+                expenditure requirements applicable to Federal agencies 
+                under Federal law (including Executive orders);
+                    ``(B) perform all duties assigned to the Director 
+                of the Federal Energy Management Program of the 
+                Department of Energy, including duties assigned to the 
+                Director by the President by any Executive order in 
+                effect on the date of enactment of this subparagraph;
+                    ``(C) coordinate implementation of energy 
+                efficiency requirements by Federal agencies using staff 
+                of the Office that have expertise in the mission of 
+                each Federal agency;
+                    ``(D) coordinate compilation of, and review, 
+                energy-use reports required to be submitted by Federal 
+                agencies under this Act and other Federal law 
+                (including Executive orders);
+                    ``(E) serve as a liaison from the Federal 
+                Government to the private sector to identify 
+                opportunities and obstacles to expanded private and 
+                Federal markets for energy management technologies, 
+                energy efficiency technologies, and renewable energy 
+                technologies;
+                    ``(F) operate the Federal Energy Bank established 
+                by section 552 of the National Energy Conservation 
+                Policy Act;
+                    ``(G)(i) not later than 120 days after the date of 
+                enactment of this subparagraph, issue such guidelines 
+                for Federal agency energy preparedness and energy 
+                emergency response as the Secretary determines to be 
+                appropriate; and
+                    ``(ii) in accordance with paragraph (3), receive, 
+                review, and report on plans submitted by Federal 
+                agencies in conformance with the guidelines; and
+                    ``(H)(i) not later than 180 days after the date on 
+                which the first Assistant Secretary takes office, 
+                identify and submit to Congress a list of the principal 
+                conservation officers under section 656; and
+                    ``(ii) annually update the list.
+            ``(3) Energy preparedness and energy emergency response 
+        plans.--
+                    ``(A) Submission by federal agencies.--The head of 
+                each Federal agency shall submit to the Assistant 
+                Secretary annually (or at such intervals as the 
+                Secretary determines to be appropriate) an energy 
+                preparedness and energy emergency response plan for the 
+                Federal agency that is in conformance with the 
+                guidelines issued under paragraph (2)(G)(i).
+                    ``(B) Review by assistant secretary.--The Assistant 
+                Secretary shall review each plan submitted under 
+                subparagraph (A) for effectiveness and feasibility.
+                    ``(C) Report to congress.--The Assistant Secretary 
+                shall submit to the President and Congress an annual 
+                report on the ability of each Federal agency--
+                            ``(i) to reduce energy use on an emergency 
+                        basis; and
+                            ``(ii) to perform the mission of the 
+                        Federal agency during such a period of 
+                        emergency reduced energy use.
+    ``(c) Liaison to Department of Defense.--
+            ``(1) In general.--Not later than 180 days after the date 
+        of enactment of this paragraph, the Assistant Secretary shall 
+        appoint an individual employed by the Office to serve as a 
+        liaison to the Department of Defense.
+            ``(2) Duties.--The individual appointed under paragraph (1) 
+        shall coordinate energy efficiency measures, and energy 
+        efficiency reporting to the President and Congress, into the 
+        operation of the Department of Defense without compromising 
+        national security or the defense mission of the Department of 
+        Defense.
+            ``(3) Security clearance.--The individual appointed under 
+        paragraph (1) shall have appropriate security clearance.
+    ``(d) Report to Congress.--The Secretary, acting through the 
+Office, shall submit to Congress an annual report that--
+            ``(1) describes the energy expenditures, investments, and 
+        savings of each Federal agency;
+            ``(2) describes the obstacles to meeting the energy 
+        efficiency requirements under Federal law (including Executive 
+        orders) that are faced by each Federal agency; and
+            ``(3) includes an accounting of energy-consuming products 
+        procured by each Federal agency that indicates--
+                    ``(A) which energy-consuming products procured by 
+                the Federal agency during the preceding year were 
+                Energy Star products or FEMP designated products (as 
+those terms are defined in section 551(a) of the National Energy 
+Conservation Policy Act); and
+                    ``(B) which energy-consuming products procured by 
+                the Federal agency during the preceding year were 
+                neither Energy Star products nor FEMP designated 
+                products.
+    ``(e) Audits of Federal Energy Management Programs.--
+            ``(1) In general.--The Assistant Secretary may require the 
+        Inspector General of each Federal agency to conduct audits of 
+        the energy management programs of the Federal agency every 3 
+        years.
+            ``(2) Guidelines.--The Assistant Secretary shall--
+                    ``(A) issue guidelines for the conduct of audits 
+                described in paragraph (1); and
+                    ``(B) conduct training for Inspectors General on 
+                use of the guidelines.''.
+    (b) Liaison From Department of Defense.--The Secretary of Defense 
+shall--
+            (1) establish as a senior level position within the 
+        Department of Defense the position of energy management 
+        liaison; and
+            (2) assign to the official appointed to that position by 
+        the Secretary of Defense the duty to coordinate with 
+        appropriate officials of the Department of Defense and 
+        appropriate officials of the Department of Energy concerning 
+        energy use and expenditure requirements applicable to the 
+        Department of Defense under Federal law (including Executive 
+        orders).
+    (c) Technical and Conforming Amendments.--The table of contents in 
+the first section of the Department of Energy Organization Act (42 
+U.S.C. 7101 note) is amended --
+            (1) in the item relating to section 209, by striking 
+        ``Section'' and inserting ``Sec.'';
+            (2) by inserting after the item relating to section 211 the 
+        following:
+
+``Sec. 212. Office of Federal Energy Productivity.'';
+        and
+            (3) in the items relating to each of sections 213 through 
+        216, by inserting ``Sec.'' before the section designation.
+
+SEC. 5. ENERGY REDUCTION GOALS.
+
+    (a) In General.--Section 543 of the National Energy Conservation 
+Policy Act (42 U.S.C. 8253) is amended--
+            (1) in subsection (a)--
+                    (A) by striking paragraph (1) and inserting the 
+                following:
+            ``(1) In general.--Subject to paragraph (2), each agency 
+        shall apply energy conservation measures to, and shall improve 
+        the design for the construction of, the Federal buildings of 
+        the agency (including each industrial or laboratory facility) 
+        so that the energy consumption per gross square foot of the 
+        Federal buildings of the agency in calendar years 2002 through 
+        2011 is reduced, as compared with the energy consumption per 
+        gross square foot of the Federal buildings of the agency in 
+        calendar year 2000, by the percentage specified in the 
+        following table:
+
+``Calendar year:                                  Percentage reduction:
+    2002..........................................                   2 
+    2003..........................................                   4 
+    2004..........................................                   6 
+    2005..........................................                   8 
+    2006..........................................                  10 
+    2007..........................................                  12 
+    2008..........................................                  14 
+    2009..........................................                  16 
+    2010..........................................                  18 
+    2011..........................................               20.'';
+                    (B) by striking ``(2) An'' and inserting the 
+                following:
+            ``(2) Exclusion of certain federal buildings.--An''; and
+                    (C) by adding at the end the following:
+            ``(3) Review and revision of energy performance 
+        requirement.--Not later than December 31, 2010, the Secretary 
+        shall--
+                    ``(A) review the results of the implementation of 
+                the energy performance requirement established under 
+                paragraph (1); and
+                    ``(B) submit to Congress recommendations concerning 
+                energy performance requirements for calendar years 2012 
+                through 2021.''; and
+            (2) in subsection (c)--
+                    (A) by striking paragraph (1) and inserting the 
+                following:
+            ``(1) In general.--
+                    ``(A) Exclusions.--An agency may exclude, from the 
+                energy performance requirement for a calendar year 
+                established under subsection (a) and the energy 
+                management requirement established under subsection 
+                (b), any Federal building or collection of Federal 
+                buildings, and the associated energy consumption and 
+                gross square footage, if--
+                            ``(i) the head of the agency finds that 
+                        compliance with those requirements would be 
+                        impracticable; and
+                            ``(ii) the agency has--
+                                    ``(I) completed and submitted all 
+                                federally required energy management 
+                                reports;
+                                    ``(II) achieved compliance with the 
+                                energy efficiency requirements of--
+                                            ``(aa) this Act;
+                                            ``(bb) subtitle F of title 
+                                        I of the Energy Policy Act of 
+                                        1992 (42 U.S.C. 8262 et seq.);
+                                            ``(cc) Executive orders; 
+                                        and
+                                            ``(dd) other Federal law; 
+                                        and
+                                    ``(III) implemented all 
+                                practicable, cost-effective, life-cycle 
+                                projects with respect to the Federal 
+                                building or collection of Federal 
+                                buildings to be excluded.
+                    ``(B) Finding of impracticability.--A finding of 
+                impracticability under subparagraph (A)(i) shall be 
+                based on--
+                            ``(i) the energy intensiveness of 
+                        activities carried out in the Federal building 
+                        or collection of Federal buildings; or
+                            ``(ii) the fact that the Federal building 
+                        or collection of Federal buildings is used in 
+the performance of a national security function.'';
+                    (B) in paragraph (2)--
+                            (i) by striking ``(2) Each agency'' and 
+                        inserting the following:
+            ``(2) Review by secretary.--Each agency''; and
+                            (ii) in the second sentence--
+                                    (I) by striking ``impracticability 
+                                standards'' and inserting ``standards 
+                                for exclusion''; and
+                                    (II) by striking ``a finding of 
+                                impracticability'' and inserting ``the 
+                                exclusion''; and
+                    (C) by adding at the end the following:
+            ``(3) Criteria.--Not later than 180 days after the date of 
+        enactment of this paragraph, the Secretary shall issue 
+        guidelines that establish criteria for exclusions under 
+        paragraph (1).''.
+    (b) Reports.--Section 548(b) of the National Energy Conservation 
+Policy Act (42 U.S.C. 8258(b)) is amended--
+            (1) in the subsection heading, by inserting ``the President 
+        and'' before ``Congress''; and
+            (2) by inserting ``President and'' before ``Congress''.
+    (c) Conforming Amendment.--Section 550(d) of the National Energy 
+Conservation Policy Act (42 U.S.C. 8258b(d)) is amended in the second 
+sentence by striking ``the 20 percent reduction goal established under 
+section 543(a) of the National Energy Conservation Policy Act (42 
+U.S.C. 8253(a)).'' and inserting ``each of the energy reduction goals 
+established under section 543(a).''.
+
+SEC. 6. ENERGY USE MEASUREMENT AND ACCOUNTABILITY.
+
+    (a) In General.--Section 543 of the National Energy Conservation 
+Policy Act (42 U.S.C. 8253) is amended by adding at the end the 
+following:
+    ``(e) Metering of Energy Use.--
+            ``(1) In general.--Subject to paragraph (2), each agency 
+        shall meter or submeter the energy use in each Federal 
+        building, industrial process, and energy-using structure of the 
+        agency.
+            ``(2) Guidelines.--
+                    ``(A) In general.--Not later than 180 days after 
+                the date of enactment of this subsection, the Secretary 
+                shall issue guidelines concerning the extent of the 
+                metering and submetering required under paragraph (1).
+                    ``(B) Requirements for guidelines.--The guidelines 
+                shall--
+                            ``(i) take into consideration--
+                                    ``(I) the cost of metering and 
+                                submetering and the reduced cost of 
+                                operation and maintenance expected to 
+                                result from metering and submetering;
+                                    ``(II) the extent to which metering 
+                                and submetering are expected to result 
+                                in--
+                                            ``(aa) increased potential 
+                                        for energy management;
+                                            ``(bb) increased potential 
+                                        for energy savings and energy 
+                                        efficiency improvement; and
+                                            ``(cc) cost and energy 
+                                        savings due to utility contract 
+                                        aggregation; and
+                                    ``(III) the measurement and 
+                                verification protocols of the 
+                                Department of Energy;
+                            ``(ii) include recommendations concerning 
+                        the amount of funds and the number of trained 
+                        personnel necessary to gather and use the 
+                        metering information to track and reduce energy 
+                        use;
+                            ``(iii) establish 1 or more dates, not 
+                        later than 1 year after the date of issuance of 
+                        the guidelines, on which the requirement 
+                        specified in paragraph (1) shall take effect; 
+                        and
+                            ``(iv) establish exclusions from the 
+                        requirement specified in paragraph (1) based on 
+                        the de minimus quantity of energy use of a 
+                        Federal building, industrial process, or 
+                        structure.
+    ``(f) Use of Interval Data in Federal Buildings.--
+            ``(1) In general.--Beginning not later than January 1, 
+        2003, each agency shall use, to the maximum extent practicable, 
+        for the purposes of efficient use of energy and reduction in 
+        the cost of electricity used in the Federal buildings of the 
+        agency, interval consumption data that measure on a real-time 
+        or daily basis consumption of electricity in the Federal 
+        buildings of the agency.
+            ``(2) Plan.--As soon as practicable after the date of 
+        enactment of this subsection, in a report submitted by the 
+        agency under section 548(a), each agency shall submit to the 
+        Secretary a plan describing how the agency will implement the 
+        requirement of paragraph (1), including how the agency will 
+        designate personnel primarily responsible for achieving the 
+        requirement.''.
+    (b) Budget Submissions to the President.--Section 545 of the 
+National Energy Conservation Policy Act (42 U.S.C. 8255) is amended--
+            (1) by inserting ``(a) Budget Submission to Congress.--'' 
+        before ``The President''; and
+            (2) by adding at the end the following:
+    ``(b) Budget Submissions to the President.--The head of each agency 
+shall submit to the President, as part of the budget request of the 
+agency for each fiscal year, a statement of the amount of 
+appropriations requested in the budget for the electric and other 
+energy costs and compliance costs described in subsection (a).''.
+    (c) Energy and Water Conservation Incentive Program.--Section 546 
+of the National Energy Conservation Policy Act (42 U.S.C. 8256) is 
+amended by adding at the end the following:
+    ``(e) Energy and Water Conservation Incentive Program.--
+            ``(1) In general.--In addition to the other incentive 
+        programs established under this section, the Secretary shall 
+establish an incentive program under which, for any fiscal year, of the 
+amounts made available to each agency to pay the costs of providing 
+energy and water for Federal buildings under the jurisdiction of the 
+agency, the agency may retain, without fiscal year limitation, such 
+amounts as are determined under paragraph (2) to have been saved 
+because of energy and water management and conservation projects 
+carried out by the agency.
+            ``(2) Determination of retained amounts.--In cooperation 
+        with the Secretary of Defense and the Director of the Office of 
+        Management and Budget, the Secretary shall issue guidelines and 
+        establish methodologies for--
+                    ``(A) retention of amounts saved as described in 
+                paragraph (1) for a period ending not more than 3 years 
+                after the date of completion of the project that 
+                resulted in the savings;
+                    ``(B) establishment of a baseline amount of energy 
+                and water expenditures, consisting of the amounts that 
+                would be expended on energy or water but for 
+                implementation of the project; and
+                    ``(C) use by agencies of the baseline amounts 
+                established under subparagraph (B) in submitting to the 
+                President budget requests for appropriated amounts 
+                equal to the amounts of savings that an agency is 
+                expected to be entitled to retain under paragraph (1).
+            ``(3) Use of retained amounts.--Amounts retained under 
+        paragraph (1) may be used to carry out energy or water 
+        management and conservation projects, invest in renewable 
+        energy systems, and purchase electricity from renewable energy 
+        sources for use, at the Federal building at which the project 
+        that resulted in the savings was carried out.
+            ``(4) Annual report on use of amounts.--Each report 
+        submitted by an agency under section 548(a) shall describe--
+                    ``(A)(i) the amounts retained under paragraph (1) 
+                during the period covered by the report; and
+                    ``(ii) the use of the amounts retained; and
+                    ``(B) if no amounts were retained under paragraph 
+                (1), why no amounts were retained and the plans of the 
+                agency for retaining such amounts in the future.''.
+    (d) Reports.--Section 548 of the National Energy Conservation 
+Policy Act (42 U.S.C. 8258) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by striking ``and'' at the 
+                end;
+                    (B) in paragraph (2), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(3) the quantity of greenhouse gases emitted by the 
+        Federal buildings of the agency during each fiscal year, as 
+        measured by the agency in consultation with the Assistant 
+        Secretary for Federal Energy Productivity of the Department of 
+        Energy.'';
+            (2) in subsection (b)(1)--
+                    (A) in subparagraph (B), by striking ``and'' at the 
+                end;
+                    (B) in subparagraph (C), by striking the semicolon 
+                at the end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+                    ``(D) the quantity of greenhouse gases emitted by 
+                the Federal buildings of each agency during each fiscal 
+                year;''; and
+            (3) by adding at the end the following:
+    ``(d) Recommendations on Means of Accounting for Energy Use.--
+            ``(1) In general.--The Secretary, in cooperation with the 
+        Administrator of the Energy Information Agency, the 
+        Administrator of General Services, and the Secretary of 
+        Defense, shall conduct a study to develop recommendations on 
+        the most accurate means of accounting for energy use in Federal 
+        facilities.
+            ``(2) Required recommendations.--Recommendations shall 
+        include a recommendation concerning whether a uniform 
+        performance measure based on British thermal units per gross 
+        square foot is preferable to an agency-specific performance 
+        measure or any other performance-based metric.
+            ``(3) Report to congress.--Not later than 1 year after the 
+        date of enactment of this subsection, the Secretary shall 
+        submit to Congress a report on the results of the study.''.
+
+SEC. 7. FEDERAL GOVERNMENT PROCUREMENT OF ENERGY EFFICIENT PRODUCTS.
+
+    (a) Procurement of Energy Efficient Products.--
+            (1) Requirements.--
+                    (A) In general.--Part 3 of title V of the National 
+                Energy Conservation Policy Act is amended--
+                            (i) by redesignating section 551 (42 U.S.C. 
+                        8259) as section 554; and
+                            (ii) by inserting after section 550 (42 
+                        U.S.C. 8258b) the following:
+
+``SEC. 551. FEDERAL GOVERNMENT PROCUREMENT OF ENERGY EFFICIENT 
+              PRODUCTS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Energy star product.--The term `Energy Star product' 
+        means a product that is rated for energy efficiency under an 
+        Energy Star program.
+            ``(2) Energy star program.--The term `Energy Star program' 
+        means a program administered by the Administrator of the 
+        Environmental Protection Agency that involves voluntary 
+        cooperation between that agency and an industry to enhance the 
+        energy efficiency of the energy consuming products of the 
+        industry so as to reduce--
+                    ``(A) burdens on air conditioning and electrical 
+                systems of buildings that result from the use of the 
+                products in the buildings; and
+                    ``(B) air pollution caused by utility power 
+                generation.
+            ``(3) Executive agency.--The term `executive agency' has 
+        the meaning given the term in section 4 of the Office of 
+        Federal Procurement Policy Act (41 U.S.C. 403).
+            ``(4) FEMP designated product.--The term `FEMP designated 
+        product' means a product that is designated under the Federal 
+        Energy Management Program of the Department of Energy as being 
+        among the highest 25 percent of equivalent products for energy 
+        efficiency.
+    ``(b) Procurement of Energy Efficient Products.--
+            ``(1) Requirement.--To meet the requirements of an 
+        executive agency for an energy consuming product, the head of 
+        the executive agency shall, except as provided in paragraph 
+        (2), procure--
+                    ``(A) an Energy Star product; or
+                    ``(B) if there is no Energy Star product that meets 
+                the requirements of the executive agency and that is 
+                reasonably available, a FEMP designated product.
+            ``(2) Exceptions.--The head of an executive agency is not 
+        required to procure an Energy Star product or FEMP designated 
+        product under paragraph (1) if--
+                    ``(A) an Energy Star product or FEMP designated 
+                product is not cost effective over the life cycle of 
+                the product; or
+                    ``(B) no Energy Star product or FEMP designated 
+                product is reasonably available that meets the 
+                requirements of the executive agency.
+            ``(3) Procurement planning.--
+                    ``(A) Requirement.--The head of an executive agency 
+                shall incorporate into the specifications for a 
+                procurement involving energy consuming products and 
+                systems, and into the factors for the evaluation of 
+                offers received for the procurement, criteria for 
+                energy efficiency that are consistent with--
+                            ``(i) the criteria for energy efficiency 
+                        used for rating products under the applicable 
+                        Energy Star program; and
+                            ``(ii) the criteria used for designating 
+                        products under the Federal Energy Management 
+                        Program of the Department of Energy.
+                    ``(B) Applicability.--The requirement of 
+                subparagraph (A) shall apply to--
+                            ``(i) a contract for new construction or 
+                        renovation of a building;
+                            ``(ii) a basic ordering agreement;
+                            ``(iii) a blanket purchasing agreement;
+                            ``(iv) a Government-wide procurement 
+                        contract; and
+                            ``(v) any other contract for a procurement 
+                        described in that subparagraph.
+    ``(c) Listing of Energy Efficient Products in Federal Catalogs.--
+            ``(1) Development.--The Administrator of General Services 
+        and the Director of the Defense Logistics Agency of the 
+        Department of Defense shall--
+                    ``(A) develop, and revise if appropriate, catalog 
+                listings of Energy Star products and FEMP designated 
+                products; and
+                    ``(B) clearly identify in the listings the products 
+                that are Energy Star products and the products that are 
+                FEMP designated products.
+            ``(2) Availability of listings.--The Administrator and the 
+        Director shall make the listings available in printed and 
+        electronic formats.
+    ``(d) GSA and DLA Inventories and Listings.--No energy consuming 
+product may be made available to any executive agency from an inventory 
+or listing of products by the General Services Administration or the 
+Defense Logistics Agency unless--
+            ``(1) the product is an Energy Star product;
+            ``(2) the product is a FEMP designated product and no 
+        equivalent Energy Star product is reasonably available; or
+            ``(3) no equivalent Energy Star product or FEMP designated 
+        product is reasonably available.
+    ``(e) Regulations.--The Secretary of Energy shall promulgate 
+regulations to carry out this section, including policies and 
+conditions for exercising authority under this section to procure 
+energy consuming products other than Energy Star products and FEMP 
+designated products.''.
+                    (B) Conforming amendments.--
+                            (i) The table of contents in section 1(b) 
+                        of the National Energy Conservation Policy Act 
+                        (42 U.S.C. 8201 note) is amended by striking 
+                        the item relating to section 551 and inserting 
+                        the following:
+
+``Sec. 551. Federal Government procurement of energy efficient 
+                            products.
+``Sec. 552. Federal Energy Bank.
+``Sec. 553. Energy and water savings measures in congressional 
+                            buildings.
+``Sec. 554. Definitions.''.
+                            (ii) Section 151(5) of the Energy Policy 
+                        Act of 1992 (42 U.S.C. 8262(5)) is amended by 
+                        striking ``section 551(4)'' and inserting 
+                        ``section 554(4)''.
+                            (iii) Section 164(a) of the Energy Policy 
+                        Act of 1992 (42 U.S.C. 8262h note; Public Law 
+                        102-486) is amended by striking ``section 
+                        551(5)'' and inserting ``section 554(5)''.
+            (2) Implementation.--
+                    (A) Regulations.--Not later than 180 days after the 
+                effective date specified in subsection (d), the 
+                Secretary of Energy shall promulgate regulations to 
+                carry out section 551 of the National Energy 
+                Conservation Policy Act (as added by paragraph 
+                (1)(A)(ii)).
+                    (B) Disposal of existing inventories.--An energy 
+                consuming product that, on the effective date specified 
+                in subsection (d), is in an inventory of products 
+                offered by the General Services Administration or the 
+                Defense Logistics Agency may be made available to an 
+                executive agency out of that inventory without regard 
+                to section 551(d) of the National Energy Conservation 
+                Policy Act.
+                    (C) Procurement of replacement inventory.--On and 
+                after the effective date specified in subsection (d), 
+                the Administrator of General Services and the Director 
+                of the Defense Logistics Agency of the Department of 
+                Defense may not list or procure for an inventory of 
+                products offered by the General Services Administration 
+or the Defense Logistics Agency an energy consuming product that, under 
+section 551(d) of the National Energy Conservation Policy Act, may not 
+be made available to executive agencies out of that inventory.
+    (b) Procurement Guidelines.--The Secretary of Energy, in 
+cooperation with the Secretary of Defense, shall issue guidelines that 
+the Secretary of Defense may apply to the procurement of energy 
+consuming products by the Department of Defense to ensure that, to the 
+maximum extent feasible consistent with the performance of the national 
+security missions of the Department of Defense, the products selected 
+for procurement are energy efficient products.
+    (c) Designation of Energy Star Products.--The Administrator of the 
+Environmental Protection Agency and the Secretary of Energy shall--
+            (1) expedite the process of designating products as Energy 
+        Star products (as defined in section 551(a) of the National 
+        Energy Conservation Policy Act (as added by subsection 
+        (a)(1)(A)(ii))); and
+            (2) merge the efficiency rating procedures used by the 
+        Environmental Protection Agency and the Department of Energy 
+        under the Energy Star programs (as defined in section 551(a) of 
+        that Act).
+    (d) Effective Date.--Subsection (a) and the amendment made by that 
+subsection take effect on the date that is 180 days after the date of 
+enactment of this Act.
+
+SEC. 8. FEDERAL ENERGY BANK.
+
+    Part 3 of title V of the National Energy Conservation Policy Act is 
+amended by inserting after section 551 (as added by section 
+7(a)(1)(A)(ii)) the following:
+
+``SEC. 552. FEDERAL ENERGY BANK.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Bank.--The term `Bank' means the Federal Energy Bank 
+        established by subsection (b).
+            ``(2) Energy or water efficiency project.--The term `energy 
+        or water efficiency project' means a project that assists a 
+        Federal agency in meeting or exceeding the energy or water 
+        efficiency requirements of--
+                    ``(A) this part;
+                    ``(B) title VIII;
+                    ``(C) subtitle F of title I of the Energy Policy 
+                Act of 1992 (42 U.S.C. 8262 et seq.); or
+                    ``(D) any applicable Executive order, including 
+                Executive Order No. 13123 (42 U.S.C. 8251 note (June 3, 
+                1999)).
+            ``(3) Federal agency.--The term `Federal agency' means--
+                    ``(A) an Executive agency (as defined in section 
+                105 of title 5, United States Code);
+                    ``(B) the United States Postal Service;
+                    ``(C) the United States Patent and Trademark 
+                Office;
+                    ``(D) Congress and any other entity in the 
+                legislative branch; and
+                    ``(E) a Federal court and any other entity in the 
+                judicial branch.
+            ``(4) Utility payment.--The term `utility payment' means a 
+        payment made to supply electricity, natural gas, or any other 
+        form of energy to provide the heating, ventilation, air 
+        conditioning, lighting, or other energy needs of a facility of 
+        a Federal agency.
+    ``(b) Establishment of Bank.--
+            ``(1) In general.--There is established in the Treasury of 
+        the United States a fund to be known as the `Federal Energy 
+        Bank', consisting of--
+                    ``(A) such amounts as are deposited in the Bank 
+                under paragraph (2);
+                    ``(B) such amounts as are repaid to the Bank under 
+                subsection (c)(2)(D); and
+                    ``(C) any interest earned on investment of amounts 
+                in the Bank under paragraph (3).
+            ``(2) Deposits in bank.--
+                    ``(A) In general.--Subject to the availability of 
+                appropriations and to subparagraph (B), the Secretary 
+                of the Treasury shall deposit in the Bank an amount 
+                equal to 2.5 percent for fiscal year 2003 and 5 percent 
+                for each fiscal year thereafter of the total amount of 
+                utility payments made by all Federal agencies for the 
+                preceding fiscal year.
+                    ``(B) Maximum amount in bank.--Deposits under 
+                subparagraph (A) shall cease beginning with the fiscal 
+                year following the fiscal year in which the amounts in 
+                the Bank (including amounts on loan from the Bank) 
+                become equal to or exceed $1,000,000,000.
+                    ``(C) Limitation.--No funds made available to any 
+                Federal agency (other than to the Department of the 
+                Treasury under subsection (f)) shall be deposited in 
+                the Bank.
+            ``(3) Investment of amounts.--The Secretary of the Treasury 
+        shall invest such portion of the Bank as is not, in the 
+        judgment of the Secretary, required to meet current 
+        withdrawals. Investments may be made only in interest-bearing 
+        obligations of the United States.
+    ``(c) Loans From the Bank.--
+            ``(1) In general.--The Secretary of the Treasury shall 
+        transfer from the Bank to the Secretary such amounts as are 
+        appropriated to carry out the loan program under paragraph (2).
+            ``(2) Loan program.--
+                    ``(A) Establishment.--
+                            ``(i) In general.--In accordance with 
+                        subsection (d), the Secretary, in consultation 
+                        with the Secretary of Defense, the 
+                        Administrator of General Services, and the 
+                        Director of the Office of Management and 
+                        Budget, shall establish a program to make loans 
+                        of amounts in the Bank to any Federal agency 
+                        that submits an application satisfactory to the 
+                        Secretary in order to pay the costs of a 
+                        project described in subparagraph (C).
+                            ``(ii) Commencement of operations.--The 
+                        Secretary may begin--
+                                    ``(I) accepting applications for 
+                                loans from the Bank in fiscal year 
+                                2002; and
+                                    ``(II) making loans from the Bank 
+                                in fiscal year 2003.
+                    ``(B) Energy savings performance contracting 
+                funding.--The Secretary shall not make a loan from the 
+                Bank to a Federal agency for a project for which 
+                funding is available and is acceptable to the Federal 
+                agency under title VIII.
+                    ``(C) Purposes of loan.--
+                            ``(i) In general.--A loan from the Bank may 
+                        be used to pay--
+                                    ``(I) the costs of an energy or 
+                                water efficiency project, or a 
+                                renewable or alternative energy 
+                                project, for a new or existing Federal 
+                                building (including selection and 
+                                design of the project);
+                                    ``(II) the costs of an energy 
+                                metering plan developed in accordance 
+                                with the measurement and verification 
+                                protocols of the Department of Energy, 
+                                or energy metering equipment, for the 
+                                purpose of--
+                                            ``(aa) a new or existing 
+                                        building energy system; or
+                                            ``(bb) verification of the 
+                                        energy savings under an energy 
+                                        savings performance contract 
+                                        under title VIII; or
+                                    ``(III) at the time of contracting, 
+                                the costs of development or cofunding 
+                                of an energy savings performance 
+                                contract (including a utility energy 
+                                service agreement) in order to shorten 
+                                the payback period of the project that 
+                                is the subject of the energy savings 
+                                performance contract.
+                            ``(ii) Limitation.--A Federal agency may 
+                        use not more than 10 percent of the amount of a 
+                        loan under subclause (I) or (II) of clause (i) 
+                        to pay the costs of administration and proposal 
+                        development (including data collection and 
+                        energy surveys).
+                            ``(iii) Renewable and alternative energy 
+                        projects.--Not more than 25 percent of the 
+                        amount on loan from the Bank at any time may be 
+                        loaned for renewable energy and alternative 
+                        energy projects (as defined by the Secretary in 
+                        accordance with applicable law (including 
+                        Executive orders)).
+                    ``(D) Repayments.--
+                            ``(i) In general.--Subject to clauses (ii) 
+                        through (iv), a Federal agency shall repay to 
+                        the Bank the principal amount of a loan plus 
+                        interest at a rate determined by the President, 
+                        in consultation with the Secretary and the 
+                        Secretary of the Treasury.
+                            ``(ii) Waiver or reduction of interest.--
+                        The Secretary may waive or reduce the rate of 
+                        interest required to be paid under clause (i) 
+                        if the Secretary determines that payment of 
+                        interest by a Federal agency at the rate 
+                        determined under that clause is not required to 
+                        fund the operations of the Bank.
+                            ``(iii) Determination of interest rate.--
+                        The interest rate determined under clause (i) 
+                        shall be at a rate that is sufficient to ensure 
+                        that, beginning not later than October 1, 2007, 
+                        interest payments will be sufficient to fully 
+                        fund the operations of the Bank.
+                            ``(iv) Insufficiency of appropriations.--
+                                    ``(I) Request for appropriations.--
+                                As part of the budget request of the 
+                                Federal agency for each fiscal year, 
+                                the head of each Federal agency shall 
+                                submit to the President a request for 
+                                such amounts as are necessary to make 
+                                such repayments as are expected to 
+                                become due in the fiscal year under 
+                                this subparagraph.
+                                    ``(II) Suspension of repayment 
+                                requirement.--If, for any fiscal year, 
+                                sufficient appropriations are not made 
+                                available to a Federal agency to make 
+                                repayments under this subparagraph, the 
+                                Bank shall suspend the requirement of 
+                                repayment under this subparagraph until 
+                                such appropriations are made available.
+                    ``(E) Federal agency energy budgets.--Until a loan 
+                is repaid, a Federal agency budget submitted by the 
+                President to Congress for a fiscal year shall not be 
+                reduced by the value of energy savings accrued as a 
+                result of any energy conservation measure implemented 
+                using amounts from the Bank.
+                    ``(F) No rescission or reprogramming.--A Federal 
+                agency shall not rescind or reprogram loan amounts made 
+                available from the Bank except as permitted under 
+                guidelines issued under subparagraph (G).
+                    ``(G) Guidelines.--The Secretary shall issue 
+                guidelines for implementation of the loan program under 
+                this paragraph, including selection criteria, maximum 
+                loan amounts, and loan repayment terms.
+    ``(d) Selection Criteria.--
+            ``(1) In general.--The Secretary shall establish criteria 
+        for the selection of projects to be awarded loans in accordance 
+        with paragraph (2).
+            ``(2) Selection criteria.--
+                    ``(A) In general.--The Secretary may make loans 
+                from the Bank only for a project that--
+                            ``(i) is technically feasible;
+                            ``(ii) is determined to be cost-effective 
+                        using life cycle cost methods established by 
+                        the Secretary by regulation;
+                            ``(iii) includes a measurement and 
+                        management component, based on the measurement 
+                        and verification protocols of the Department of 
+                        Energy, to--
+                                    ``(I) commission energy savings for 
+                                new and existing Federal facilities;
+                                    ``(II) monitor and improve energy 
+                                efficiency management at existing 
+                                Federal facilities; and
+                                    ``(III) verify the energy savings 
+                                under an energy savings performance 
+                                contract under title VIII; and
+                            ``(iv)(I) in the case of renewable energy 
+                        or alternative energy project, has a simple 
+                        payback period of not more than 15 years; and
+                            ``(II) in the case of any other project, 
+                        has a simple payback period of not more than 10 
+                        years.
+                    ``(B) Priority.--In selecting projects, the 
+                Secretary shall give priority to projects that--
+                            ``(i) are a component of a comprehensive 
+                        energy management project for a Federal 
+                        facility; and
+                            ``(ii) are designed to significantly reduce 
+                        the energy use of the Federal facility.
+    ``(e) Reports and Audits.--
+            ``(1) Reports to the secretary.--Not later than 1 year 
+        after the completion of installation of a project that has a 
+        cost of more than $1,000,000, and annually thereafter, a 
+        Federal agency shall submit to the Secretary a report that--
+                    ``(A) states whether the project meets or fails to 
+                meet the energy savings projections for the project; 
+                and
+                    ``(B) for each project that fails to meet the 
+                energy savings projections, states the reasons for the 
+                failure and describes proposed remedies.
+            ``(2) Audits.--The Secretary may audit, or require a 
+        Federal agency that receives a loan from the Bank to audit, any 
+        project financed with amounts from the Bank to assess the 
+        performance of the project.
+            ``(3) Reports to congress.--At the end of each fiscal year, 
+        the Secretary shall submit to the Committee on Energy and 
+        Commerce of the House of Representatives and the Committee on 
+        Energy and Natural Resources of the Senate a report on the 
+        operations of the Bank, including a statement of--
+                    ``(A) the total receipts by the Bank;
+                    ``(B) the total amount of loans from the Bank to 
+                each Federal agency; and
+                    ``(C) the estimated cost and energy savings 
+                resulting from projects funded with loans from the 
+                Bank.
+    ``(f) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Department of the Treasury such sums as are 
+necessary to fund--
+            ``(1) deposits required under subsection (b)(2); and
+            ``(2) the costs to the Treasury associated with the loan 
+        program established under subsection (c)(2), as determined in 
+        accordance with guidelines issued by the Office of Management 
+        and Budget.''.
+
+SEC. 9. ENERGY AND WATER SAVING MEASURES IN CONGRESSIONAL BUILDINGS.
+
+    (a) In General.--Part 3 of title V of the National Energy 
+Conservation Policy Act is amended by inserting after section 552 (as 
+added by section 8) the following:
+
+``SEC. 553. ENERGY AND WATER SAVINGS MEASURES IN CONGRESSIONAL 
+              BUILDINGS.
+
+    ``(a) In General.--The Architect of the Capitol--
+            ``(1) shall develop and implement a cost-effective energy 
+        conservation strategy for all facilities administered by 
+        Congress (referred to in this section as `congressional 
+        buildings') to meet the mandatory standards for Federal 
+        buildings established under title III of the Energy 
+        Conservation and Production Act (42 U.S.C. 6831 et seq.);
+            ``(2) shall submit to Congress, not later than 120 days 
+        after the date of enactment of this section, a revised 
+        comprehensive energy conservation and management plan that 
+        includes life cycle cost methods to determine the cost-
+        effectiveness of proposed energy efficiency projects;
+            ``(3) shall submit to Congress annually a report on 
+        congressional energy management and conservation programs that 
+        describes in detail--
+                    ``(A) energy expenditures and cost estimates for 
+                each facility;
+                    ``(B) energy management and conservation projects; 
+                and
+                    ``(C) future priorities to ensure compliance with 
+                this section;
+            ``(4) shall perform energy surveys of all congressional 
+        buildings and update the surveys as necessary;
+            ``(5) shall use the surveys to determine the cost and 
+        payback period of energy and water conservation measures likely 
+        to achieve the energy consumption levels specified in the 
+        strategy developed under paragraph (1);
+            ``(6) shall install energy and water conservation measures 
+        that will achieve those levels through life cycle cost methods 
+        and procedures included in the plan submitted under paragraph 
+        (2);
+            ``(7) may contract with nongovernmental entities and use 
+        private sector capital to finance energy conservation projects 
+        and achieve energy consumption targets;
+            ``(8) may develop innovative contracting methods that will 
+        attract private sector funding for the installation of energy 
+        efficient and renewable energy technology to meet the 
+        requirements of this section, such as energy savings 
+        performance contracts described in title VIII;
+            ``(9) may participate in the Financing Renewable Energy and 
+        Efficiency (FREE) Savings contracts program for Federal 
+        Government facilities established by the Department of Energy;
+            ``(10) not later than 100 days after the date of enactment 
+        of this section, shall submit to Congress the results of a 
+        study of the installation of submetering in congressional 
+        buildings;
+            ``(11) shall produce information packages and `how-to' 
+        guides for each Member and employing authority of Congress that 
+        detail simple, cost-effective methods to save energy and 
+        taxpayer dollars;
+            ``(12) shall ensure that state-of-the-art energy efficiency 
+        technologies are used in the construction of the Visitor 
+        Center; and
+            ``(13) shall include in the Visitor Center an exhibit on 
+        the energy efficiency measures used in congressional buildings.
+    ``(b) Energy and Water Conservation Incentive.--
+            ``(1) In general.--For any fiscal year, of the amounts made 
+        available to the Architect of the Capitol to pay the costs of 
+        providing energy and water for congressional buildings, the 
+        Architect may retain, without fiscal year limitation, such 
+        amounts as the Architect determines were not expended because 
+        of energy and water management and conservation projects.
+            ``(2) Use of retained amounts.--Amounts retained under 
+        paragraph (1) may be used to carry out energy and water 
+        management and conservation projects.
+            ``(3) Annual report on use of amounts.--As part of each 
+        annual report under subsection (a)(3), the Architect of the 
+        Capitol shall submit to Congress a report on the amounts 
+        retained under paragraph (1) and the use of the amounts.''.
+    (b) Repeal.--Section 310 of the Legislative Branch Appropriations 
+Act, 1999 (40 U.S.C. 166i), is repealed.
+
+SEC. 10. ENERGY SAVINGS PERFORMANCE CONTRACTS.
+
+    (a) Cost Savings From Replacement Facilities.--Section 801(a) of 
+the National Energy Conservation Policy Act (42 U.S.C. 8287(a)) is 
+amended by adding at the end the following:
+            ``(3) Cost savings from replacement facilities.--
+                    ``(A) In general.--In the case of an energy savings 
+                performance contract that provides for energy savings 
+                through the construction and operation of 1 or more 
+                buildings or other facilities to replace 1 or more 
+                existing buildings or other facilities, benefits 
+                ancillary to the purpose of achieving energy savings 
+                under the contract may include, for the purpose of 
+                paragraph (1), savings resulting from reduced costs of 
+                operation and maintenance at the replacement buildings 
+                or other facilities as compared with the costs of 
+                operation and maintenance at the buildings or other 
+                facilities being replaced.
+                    ``(B) Determination of payments.--Notwithstanding 
+                paragraph (2)(B), the aggregate annual payments by a 
+                Federal agency under an energy savings performance 
+                contract described in subparagraph (A) may take into 
+                account (through the procedures developed under this 
+                section) savings resulting from reduced costs of 
+                operation and maintenance as described in subparagraph 
+                (A).''.
+    (b) Repeal of Sunset.--Section 801 of the National Energy 
+Conservation Policy Act (42 U.S.C. 8287) is amended by striking 
+subsection (c).
+    (c) Definitions.--The National Energy Conservation Policy Act is 
+amended by striking section 804 (42 U.S.C. 8287c) and inserting the 
+following:
+
+``SEC. 804. DEFINITIONS.
+
+    ``In this title:
+            ``(1) Energy conservation measure.--The term `energy 
+        conservation measure' has the meaning given the term in section 
+        554.
+            ``(2) Energy saving.--The term `energy saving' means a 
+        reduction, from a baseline cost established through a 
+        methodology set forth in an energy savings performance 
+        contract, in the cost of energy or water used in--
+                    ``(A) 1 or more existing federally owned buildings 
+                or other federally owned facilities, that results 
+                from--
+                            ``(i) the lease or purchase of operating 
+                        equipment, an improvement, altered operation or 
+                        maintenance, or a technical service;
+                            ``(ii) increased efficiency in the use of 
+                        existing energy sources by cogeneration or heat 
+                        recovery, excluding any cogeneration process 
+                        for a building that is not a federally owned 
+                        building or a facility that is not federally 
+                        owned facility; or
+                            ``(iii) increased efficiency in the use of 
+                        existing water sources or treatment of 
+                        wastewater or stormwater; or
+                    ``(B) a replacement facility under section 
+                801(a)(3).
+            ``(3) Energy savings performance contract.--The term 
+        `energy savings performance contract' means a contract that 
+        provides for--
+                    ``(A) the performance of services for the design, 
+                acquisition, installation, testing, operation, and, 
+                where appropriate, maintenance and repair, of an energy 
+                conservation measure or water conservation measure (or 
+                series of such measures) at 1 or more locations; or
+                    ``(B) energy savings through the construction and 
+                operation of 1 or more buildings or other facilities to 
+                replace 1 or more existing buildings or other 
+                facilities.
+            ``(4) Federal agency.--The term `Federal agency' means each 
+        authority of the United States Government, regardless of 
+        whether the authority is within or subject to review by another 
+        agency.
+            ``(5) Water conservation measure.--The term `water 
+        conservation measure' means a conservation measure that--
+                    ``(A) improves the efficiency of use of water;
+                    ``(B) is cost-effective over the life cycle of the 
+                water conservation measure; and
+                    ``(C) involves water conservation, water recycling 
+                or reuse, more efficient treatment of wastewater or 
+                stormwater, an improvement in operation or maintenance 
+                efficiency, a retrofit activity, or any other related 
+                activity, that is carried out at a building or other 
+                facility that is not a Federal hydroelectric 
+                facility.''.
+
+SEC. 11. FEDERAL FLEET FUEL ECONOMY AND USE OF ALTERNATIVE FUELS.
+
+    (a) In General.--Section 303 of the Energy Policy Act of 1992 (42 
+U.S.C. 13212) is amended--
+            (1) by redesignating subsection (f) as subsection (g); and
+            (2) by inserting after subsection (e) the following:
+    ``(f) Federal Fleet Fuel Economy and Use of Alternative Fuels.--
+            ``(1) Definitions.--
+                    ``(A) Average fuel economy.--The term `average fuel 
+                economy' has the meaning given the term in section 
+                32901 of title 49, United States Code.
+                    ``(B) Covered vehicle.--
+                            ``(i) In general.--The term `covered 
+                        vehicle' means a passenger automobile or light 
+                        duty motor vehicle.
+                            ``(ii) Exclusions.--The term `covered 
+                        vehicle' does not include--
+                                    ``(I) a military tactical vehicle 
+                                of the Armed Forces; or
+                                    ``(II) any law enforcement, 
+                                emergency, or other vehicle class or 
+                                type determined to be excluded under 
+                                guidelines issued by the Secretary of 
+                                Energy under paragraph (6).
+                    ``(C) Federal agency.--The term `Federal agency' 
+                means an Executive agency (as defined in section 105 of 
+                title 5, United States Code) (including each military 
+                department (as specified in section 102 of that title)) 
+                that operates 20 or more motor vehicles in the United 
+                States.
+                    ``(D) Passenger automobile.--The term `passenger 
+                automobile' has the meaning given the term in section 
+                32901 of title 49, United States Code.
+            ``(2) Minimum average fuel economy.--In fiscal year 2005 
+        and each fiscal year thereafter, the average fuel economy of 
+        the covered vehicles acquired by each Federal agency shall be 
+        not less than 3 miles per gallon greater than the average fuel 
+        economy of the covered vehicles acquired by the Federal agency 
+        in fiscal year 2000.
+            ``(3) Use of alternative fuels.--
+                    ``(A) In general.--Subject to subparagraph (B), in 
+                fiscal year 2005 and each fiscal year thereafter, each 
+                Federal agency shall use alternative fuels for at least 
+                50 percent of the total annual volume of motor fuel 
+                used by the Federal agency to operate covered vehicles.
+                    ``(B) Inclusion of motor fuel purchased by state 
+                and local governments.--Not more than 25 percent of the 
+                motor fuel purchased by State and local governments at 
+                federally-owned refueling facilities may be included by 
+                a Federal agency in meeting the requirement of 
+                subparagraph (A).
+            ``(4) Implementation plan.--Not later than 1 year after the 
+        date of enactment of this paragraph, each Federal agency shall 
+        develop and submit to the President and Congress an 
+        implementation plan for meeting the requirements of this 
+        subsection that takes into account the fleet configuration and 
+        fleet requirements of the Federal agency.
+            ``(5) Annual report.--
+                    ``(A) In general.--Each Federal agency shall submit 
+                to the President and Congress an annual report on the 
+                progress of the Federal agency in meeting the 
+                requirements of this subsection.
+                    ``(B) Guidelines.--The Secretary of Energy, acting 
+                through the Assistant Secretary for Federal Energy 
+                Productivity and in consultation with the Administrator 
+                of the Energy Information Administration, shall issue 
+                guidelines for the preparation by Federal agencies of 
+                reports under paragraph (1), including guidelines 
+                concerning--
+                            ``(i) methods for measurement of average 
+                        fuel economy; and
+                            ``(ii) the collection and annual reporting 
+                        of data to demonstrate compliance with this 
+                        subsection.
+            ``(6) Guidelines concerning exclusion of certain 
+        vehicles.--Not later than 1 year after the date of enactment of 
+        this paragraph, the Secretary of Energy, in consultation with 
+        the Assistant Secretary for Federal Energy Productivity, shall 
+        issue guidelines for Federal agencies to use in the 
+        determination of vehicles to be excluded under paragraph 
+        (1)(B)(ii).''.
+    (b) Alternative Fuel Use by Light Duty Federal Vehicles.--Section 
+400AA of the Energy Policy and Conservation Act (42 U.S.C. 6374) is 
+amended--
+            (1) in subsection (a)(3)(E)--
+                    (A) by striking ``(E) Dual'' and inserting the 
+                following:
+                    ``(E) Operation of dual fueled vehicles.--
+                            ``(i) In general.--Subject to clause (ii), 
+                        dual''; and
+                    (B) by adding at the end the following:
+                            ``(ii) Minimum alternative fuel use.--For 
+                        fiscal year 2005 and each fiscal year 
+                        thereafter, not less than 50 percent of the 
+                        total annual volume of fuel used to operate 
+                        dual fueled vehicles acquired pursuant to this 
+                        section shall consist of alternative fuels.''; 
+                        and
+            (2) in subsection (g)(4)(B), by inserting before the 
+        semicolon at the end the following: ``, including any 3-wheeled 
+        enclosed electric vehicle that has a vehicle identification 
+        number''.
+                                 <all>

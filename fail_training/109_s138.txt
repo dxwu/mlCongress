@@ -1,0 +1,350 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 138 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                 S. 138
+
+ To make improvements to the microenterprise programs administered by 
+                   the Small Business Administration.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 24, 2005
+
+Mr. Kerry (for himself and Mr. Bingaman) introduced the following bill; 
+ which was read twice and referred to the Committee on Small Business 
+                          and Entrepreneurship
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To make improvements to the microenterprise programs administered by 
+                   the Small Business Administration.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``SBA Microenterprise Improvements 
+Act''.
+
+SEC. 2. MICROLOAN PROGRAM IMPROVEMENTS.
+
+    (a) Intermediary Eligibility Requirements.--Section 7(m)(2) of the 
+Small Business Act (15 U.S.C. 636(m)(2)) is amended--
+            (1) in subparagraph (A), by striking ``in paragraph (10); 
+        and'' and inserting ``of the term `intermediary' under 
+        paragraph (11);''; and
+            (2) in subparagraph (B)--
+                    (A) by striking ``(B) has at least'' and inserting 
+                the following:
+                    ``(B) has--
+                            ``(i) at least''; and
+                    (B) by striking the period at the end and inserting 
+                the following: ``; or
+                            ``(ii) a full-time employee who has not 
+                        less than 3 years experience making microloans 
+                        to startup, newly established, or growing small 
+                        business concerns; and
+                    ``(C) has at least 1 year experience providing, as 
+                an integral part of its microloan program, intensive 
+                marketing, management, and technical assistance to its 
+                borrowers.''.
+    (b) Conforming Change in Average Smaller Loan Size.--Section 
+7(m)(3)(F)(iii) of the Small Business Act (15 U.S.C. 636(m)(3)(F)(iii)) 
+is amended by striking ``$7,500'' and inserting ``$10,000''.
+    (c) Limitation on Third Party Technical Assistance.--Section 
+7(m)(4)(E)(ii) of the Small Business Act (15 U.S.C. 636(m)(4)(E)(ii)) 
+is amended--
+            (1) by striking ``Technical assistance'' and inserting 
+        ``Third party technical assistance''; and
+            (2) by striking ``25 percent'' and inserting ``30 
+        percent''.
+    (d) Loan Terms.--Section 7(m)(1)(B)(i) of the Small Business Act 
+(15 U.S.C. 636(m)(1)(B)(i)) is amended by striking ``short-term''.
+    (e) Report on Transferred Amounts.--Section 7(m)(9)(B) of the Small 
+Business Act (15 U.S.C. 636(m)(9)(B)) is amended--
+            (1) by striking ``The Administration'' and inserting the 
+        following:
+                            ``(i) In general.--The Administration'';
+            (2) by striking the period after ``financing''; and
+            (3) by adding at the end the following:
+                            ``(ii) Report.--The Administration shall 
+                        report, in its annual budget request and 
+                        performance plan to Congress, on the 
+                        performance by the Administration of the 
+                        requirements of clause (i).''.
+    (f) Accurate Subsidy Model.--Section 7(m) of the Small Business Act 
+(15 U.S.C. 636(m)) is amended by adding at the end the following:
+            ``(14) Improved subsidy model.--The Administrator shall 
+        develop a subsidy model for the microloan program under this 
+        subsection, to be used in the fiscal year 2006 budget, that is 
+        more accurate than the subsidy model in effect on the day 
+        before the date of enactment of this paragraph.''.
+    (g) Increased Flexibility for Providing Technical Assistance to 
+Potential Borrowers.--Section 7(m)(4)(E)(i) of the Small Business Act 
+(15 U.S.C. 636(m)(4)(E)(i)) is amended by striking ``25 percent'' and 
+inserting ``30 percent''.
+
+SEC. 3. PRIME REAUTHORIZATION AND TRANSFER TO THE SMALL BUSINESS ACT.
+
+    (a) Program Reauthorization.--Subtitle C of title I of the Riegle 
+Community Development and Regulatory Improvement Act of 1994 (15 U.S.C. 
+6901 note) is amended to read as follows:
+
+``SEC. 37. PROGRAM FOR INVESTMENT IN MICROENTREPRENEURS.
+
+    ``(a) Definitions.--For purposes of this section, the following 
+definitions shall apply:
+            ``(1) Administration.--The term `Administration' means the 
+        Small Business Administration.
+            ``(2) Administrator.--The term `Administrator' means the 
+        Administrator of the Small Business Administration.
+            ``(3) Capacity building services.--The term `capacity 
+        building services' means services provided to an organization 
+        that is, or that is in the process of becoming, a 
+        microenterprise development organization or program, for the 
+        purpose of enhancing its ability to provide training and 
+        services to disadvantaged entrepreneurs.
+            ``(4) Collaborative.--The term `collaborative' means 2 or 
+        more nonprofit entities that agree to act jointly as a 
+        qualified organization under this section.
+            ``(5) Disadvantaged entrepreneur.--The term `disadvantaged 
+        entrepreneur' means a microentrepreneur that--
+                    ``(A) is a low-income person;
+                    ``(B) is a very low-income person; or
+                    ``(C) lacks adequate access to capital or other 
+                resources essential for business success, or is 
+                economically disadvantaged, as determined by the 
+                Administrator.
+            ``(6) Disadvantaged native american entrepreneur.--The term 
+        `disadvantaged Native American entrepreneur' means a 
+        disadvantaged entrepreneur who is also a member of an Indian 
+        Tribe.
+            ``(7) Indian tribe.--The term `Indian tribe' has the same 
+        meaning as in section 4(a) of the Indian Self-Determination and 
+        Education Assistance Act.
+            ``(8) Intermediary.--The term `intermediary' means a 
+        private, nonprofit entity that seeks to serve microenterprise 
+        development organizations and programs, as authorized under 
+        subsection (d).
+            ``(9) Low-income person.--The term `low-income person' 
+        means having an income, adjusted for family size, of not more 
+        than--
+                    ``(A) for metropolitan areas, 80 percent of the 
+                area median income; and
+                    ``(B) for nonmetropolitan areas, the greater of--
+                            ``(i) 80 percent of the area median income; 
+                        or
+                            ``(ii) 80 percent of the statewide 
+                        nonmetropolitan area median income.
+            ``(10) Microentrepreneur.--The term `microentrepreneur' 
+        means the owner or developer of a microenterprise.
+            ``(11) Microenterprise.--The term `microenterprise' means a 
+        sole proprietorship, partnership, or corporation that--
+                    ``(A) has fewer than 5 employees; and
+                    ``(B) generally lacks access to conventional loans, 
+                equity, or other banking services.
+            ``(12) Microenterprise development organization or 
+        program.--The term `microenterprise development organization or 
+        program' means a nonprofit entity, or a program administered by 
+        such an entity, including community development corporations or 
+        other nonprofit development organizations and social service 
+        organizations, that provides services to disadvantaged 
+        entrepreneurs.
+            ``(13) Training and technical assistance.--The term 
+        `training and technical assistance' means services and support 
+        provided to disadvantaged entrepreneurs, such as assistance for 
+        the purpose of enhancing business planning, marketing, 
+        management, financial management skills, and assistance for the 
+        purpose of accessing financial services.
+            ``(14) Very low-income person.--The term `very low-income 
+        person' means having an income, adjusted for family size, of 
+        not more than 150 percent of the poverty line (as defined in 
+        section 673(2) of the Community Services Block Grant Act (42 
+        U.S.C. 9902(2)), including any revision required by that 
+        section).
+    ``(b) Establishment of Program.--The Administrator shall establish 
+a microenterprise technical assistance and capacity building grant 
+program to provide assistance from the Administration in the form of 
+grants to qualified organizations in accordance with this section.
+    ``(c) Uses of Assistance.--A qualified organization shall use 
+grants made under this section--
+            ``(1) to provide training and technical assistance to 
+        disadvantaged entrepreneurs;
+            ``(2) to provide training and capacity building services to 
+        microenterprise development organizations and programs and 
+        groups of such organizations to assist such organizations and 
+        programs in developing microenterprise training and services;
+            ``(3) to aid in researching and developing the best 
+        practices in the field of microenterprise and technical 
+        assistance programs for disadvantaged entrepreneurs;
+            ``(4) to provide training and technical assistance to 
+        disadvantaged Native American entrepreneurs and prospective 
+        entrepreneurs; and
+            ``(5) for such other activities as the Administrator 
+        determines are consistent with the purposes of this section.
+    ``(d) Qualified Organizations.--For purposes of eligibility for 
+assistance under this section, a qualified organization shall be--
+            ``(1) a nonprofit microenterprise development organization 
+        or program (or a group or collaborative thereof) that has a 
+        demonstrated record of delivering microenterprise services to 
+        disadvantaged entrepreneurs;
+            ``(2) an intermediary;
+            ``(3) a microenterprise development organization or program 
+        that is accountable to a local community, working in 
+        conjunction with a State or local government or Indian tribe; 
+        or
+            ``(4) an Indian tribe acting on its own, if the Indian 
+        tribe can certify that no private organization or program 
+        referred to in this subsection exists within its jurisdiction.
+    ``(e) Allocation of Assistance; Subgrants.--
+            ``(1) Allocation of assistance.--
+                    ``(A) In general.--The Administrator shall allocate 
+                assistance from the Administration under this section 
+                to ensure that--
+                            ``(i) activities described in subsection 
+                        (c)(1) are funded using not less than 75 
+                        percent of amounts made available for such 
+                        assistance; and
+                            ``(ii) activities described in subsection 
+                        (c)(2) are funded using not less than 15 
+                        percent of amounts made available for such 
+                        assistance.
+                    ``(B) Limit on individual assistance.--No single 
+                person may receive more than 10 percent of the total 
+                funds appropriated under this section in a single 
+                fiscal year.
+            ``(2) Targeted assistance.--The Administrator shall ensure 
+        that not less than 50 percent of the grants made under this 
+        section are used to benefit very low-income persons, including 
+        those residing on Indian reservations.
+            ``(3) Subgrants authorized.--
+                    ``(A) In general.--A qualified organization 
+                receiving assistance under this section may provide 
+                grants using that assistance to qualified small and 
+                emerging microenterprise organizations and programs, 
+                subject to such rules and regulations as the 
+                Administrator determines to be appropriate.
+                    ``(B) Limit on administrative expenses.--Not more 
+                than 7.5 percent of assistance received by a qualified 
+                organization under this section may be used for 
+                administrative expenses in connection with the making 
+                of subgrants under subparagraph (A).
+            ``(4) Diversity.--In making grants under this section, the 
+        Administrator shall ensure that grant recipients include both 
+        large and small microenterprise organizations, serving urban, 
+        rural, and Indian tribal communities serving diverse 
+        populations.
+            ``(5) Prohibition on preferential consideration of certain 
+        sba program participants.--In making grants under this section, 
+        the Administrator shall ensure that any application made by a 
+        qualified organization that is a participant in the program 
+        established under section 7(m) of the Small Business Act does 
+        not receive preferential consideration over applications from 
+        other qualified organizations that are not participants in such 
+        program.
+    ``(f) Matching Requirements.--
+            ``(1) In general.--Financial assistance under this section 
+        shall be matched with funds from sources other than the Federal 
+        Government on the basis of not less than 50 percent of each 
+        dollar provided by the Administration.
+            ``(2) Sources of matching funds.--Fees, grants, gifts, 
+        funds from loan sources, and in-kind resources of a grant 
+        recipient from public or private sources may be used to comply 
+        with the matching requirement in paragraph (1).
+            ``(3) Exception.--
+                    ``(A) In general.--In the case of an applicant for 
+                assistance under this section with severe constraints 
+                on available sources of matching funds, the 
+                Administrator may reduce or eliminate the matching 
+                requirements of paragraph (1).
+                    ``(B) Limitation.--Not more than 10 percent of the 
+                total funds made available from the Administration in 
+                any fiscal year to carry out this section may be 
+                excepted from the matching requirements of paragraph 
+                (1), as authorized by subparagraph (A) of this 
+                paragraph.
+    ``(g) Applications for Assistance.--An application for assistance 
+under this section shall be submitted in such form and in accordance 
+with such procedures as the Administrator shall establish.
+    ``(h) Recordkeeping and Reporting.--
+            ``(1) In general.--Each organization that receives 
+        assistance from the Administration in accordance with this 
+        section shall--
+                    ``(A) submit to the Administration not less than 
+                once in every 18-month period, financial statements 
+                audited by an independent certified public accountant;
+                    ``(B) submit an annual report to the Administration 
+                on its activities; and
+                    ``(C) keep such records as may be necessary to 
+                disclose the manner in which any assistance under this 
+                section is used.
+            ``(2) Access.--The Administration shall have access upon 
+        request, for the purposes of determining compliance with this 
+        section, to any records of any organization that receives 
+        assistance from the Administration in accordance with this 
+        section.
+            ``(3) Data collection.--Each organization that receives 
+        assistance from the Administration in accordance with this 
+        section shall collect information relating to, as applicable--
+                    ``(A) the number of individuals counseled or 
+                trained;
+                    ``(B) the number of hours of counseling provided;
+                    ``(C) the number of startup small business concerns 
+                formed;
+                    ``(D) the number of small business concerns 
+                expanded;
+                    ``(E) the number of low-income individuals 
+                counseled or trained; and
+                    ``(F) the number of very low-income individuals 
+                counseled or trained.
+    ``(i) Authorization of Appropriations.--
+            ``(1) In general.--There are authorized to be appropriated 
+        to the Administrator $15,000,000 for each of the fiscal years 
+        2005 through 2007 to carry out the provisions of this section, 
+        which shall remain available until expended.
+            ``(2) Training for native american entrepreneurs.--In 
+        addition to the amount authorized under subsection (i)(1), 
+        there are authorized to be appropriated to the Administrator 
+        $2,000,000 for each of the fiscal years 2005 through 2007 to 
+        carry out the provisions of subsection (c)(4), which shall 
+        remain available until expended.''.
+    (b) Transfer Provisions.--
+            (1) Small business act amendments.--The Small Business Act 
+        (15 U.S.C. 631 et seq.) is amended by redesignating section 37 
+        as section 38.
+            (2) Transfer.--Section 37 of the Riegle Community 
+        Development and Regulatory Improvement Act of 1994 (15 U.S.C. 
+        6901 note), as so designated by subsection (a) of this section, 
+        is transferred to, and inserted after, section 36 of the Small 
+        Business Act.
+    (c) References.--All references in Federal law to the ``Program for 
+Investment in Microentrepreneurs Act of 1999'' or the ``PRIME Act'' 
+shall be deemed to be references to section 37 of the Small Business 
+Act, as added by this section.
+    (d) Rule of Construction.--Nothing in this section or the 
+amendments made by this section shall affect any grant or assistance 
+provided under the Program for Investment in Microentrepreneurs Act of 
+1999, before the date of enactment of this Act, and any such grant or 
+assistance shall be subject to the Program for Investment in 
+Microentrepreneurs Act of 1999, as in effect on the day before the date 
+of enactment of this Act.
+                                 <all>

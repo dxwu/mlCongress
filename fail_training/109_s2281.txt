@@ -1,0 +1,597 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 2281 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                S. 2281
+
+ To amend the Internal Revenue Code of 1986 to allow Americans to age 
+with respect and dignity by providing tax incentives to assist them in 
+   preparing for the financial impact of their long-term care needs.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 14, 2006
+
+ Mr. Santorum introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to allow Americans to age 
+with respect and dignity by providing tax incentives to assist them in 
+   preparing for the financial impact of their long-term care needs.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Aging with Respect and Dignity Act 
+of 2005''.
+
+SEC. 2. LONG-TERM CARE INSURANCE OR SERVICES PERMITTED TO BE OFFERED 
+              UNDER CAFETERIA PLANS AND FLEXIBLE SPENDING ARRANGEMENTS.
+
+    (a) Cafeteria Plans.--The last sentence of section 125(f) of the 
+Internal Revenue Code of 1986 (defining qualified benefits) is amended 
+by inserting before the period at the end ``; except that such term 
+shall include the payment of premiums for any qualified long-term care 
+insurance contract (as defined in section 7702B) to the extent the 
+amount of such payment does not exceed the eligible long-term care 
+premiums (as defined in section 213(d)(10)) for such contract''.
+    (b) Flexible Spending Arrangements.--So much of section 106(c) of 
+such Code as precedes paragraph (2) thereof is amended to read as 
+follows:
+    ``(c) Rules Relating to Long-Term Care Benefits Provided Through 
+Flexible Spending Arrangements.--
+            ``(1) In general.--For purposes of subsection (a), in the 
+        case of employer-provided coverage for qualified long-term care 
+        services provided through a flexible spending or similar 
+        arrangement--
+                    ``(A) such coverage shall be treated as provided 
+                under an accident or health plan, and
+                    ``(B) if such services are provided to an 
+                individual who bears a relationship described in 
+                section 152(d)(2) (other than subparagraph (H) thereof) 
+                to the employee, such services shall be treated as 
+                provided to a dependent of the employee without regard 
+                to whether the individual is treated as a dependent of 
+                the employee under section 152(a).''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2005.
+
+SEC. 3. DEDUCTION FOR CONTRIBUTIONS TO LONG-TERM CARE ACCOUNTS.
+
+    (a) In General.--Part VII of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to additional itemized 
+deductions for individuals) is amended by redesignating section 224 as 
+section 225 and by adding at the end the following new section:
+
+``SEC. 224. LONG-TERM CARE ACCOUNTS.
+
+    ``(a) Deduction Allowed.--In the case of an individual, there shall 
+be allowed as a deduction for the taxable year an amount equal to the 
+aggregate amount paid in cash during such taxable year by or on behalf 
+of such individual to a long-term care account with respect to which 
+the individual is the account beneficiary.
+    ``(b) Limitations.--
+            ``(1) Dollar limitation.--
+                    ``(A) In general.--The aggregate amount allowable 
+                as a deduction under subsection (a) for any taxable 
+                year with respect to any individual shall not exceed 
+                $5,000.
+                    ``(B) Inflation adjustment.--In the case of any 
+                taxable year beginning in a calendar year after 2007, 
+                the $5,000 amount under subparagraph (A) shall be 
+                increased by an amount equal to--
+                            ``(i) such dollar amount, multiplied by
+                            ``(ii) the medical care cost adjustment 
+                        under section 213(d)(10)(B)(ii) for the 
+                        calendar year in which the taxable year begins, 
+                        determined by substituting `2006' for `1996' in 
+                        subclause (II) thereof.
+                If any amount as adjusted under the preceding sentence 
+                is not a multiple of $10, such amount shall be rounded 
+                to the next lowest multiple of $10.
+            ``(2) Denial of deduction to dependents.--No deduction 
+        shall be allowed under this section with respect to any 
+        individual with respect to whom a deduction under section 151 
+        is allowable to another taxpayer for a taxable year beginning 
+        in the calendar year in which the individual's taxable year 
+        begins.
+    ``(c) Long-Term Care Account.--For purposes of this section, the 
+term `long-term care account' means a trust which is created or 
+organized in the United States for the exclusive benefit of the 
+individual who is the account beneficiary of the trust and members of 
+the individual's family and which is designated (in such manner as the 
+Secretary shall prescribe) at the time of the establishment of the 
+trust as a long-term care account, but only if the written governing 
+instrument creating the trust meets the following requirements:
+            ``(1) Except in the case of a qualified rollover 
+        contribution described in subsection (e)(5)--
+                    ``(A) no contribution will be accepted unless it is 
+                in cash, and
+                    ``(B) contributions will not be accepted for the 
+                calendar year in excess of the limit specified in 
+                subsection (b)(1).
+            ``(2) The trustee is a bank (as defined in section 408(n)), 
+        an insurance company (as defined in section 816), or another 
+        person who demonstrates to the satisfaction of the Secretary 
+        that the manner in which that person will administer the trust 
+        will be consistent with the requirements of this section or who 
+        has so demonstrated with respect to any individual retirement 
+        plan.
+            ``(3) No part of the trust assets will be invested in life 
+        insurance contracts.
+            ``(4) The interest of an individual in the balance of his 
+        account is nonforfeitable.
+            ``(5) The assets of the trust shall not be commingled with 
+        other property except in a common trust fund or common 
+        investment fund.
+    ``(d) Tax Treatment of Accounts.--
+            ``(1) In general.--A long-term care account shall be exempt 
+        from taxation under this subtitle. Notwithstanding the 
+        preceding sentence, such account shall be subject to the taxes 
+        imposed by section 511 (relating to imposition of tax on 
+        unrelated business income of charitable organizations).
+            ``(2) Account terminations.--Rules similar to the rules 
+        under paragraphs (2) and (4) of section 408(e) shall apply to 
+        long-term care accounts, and any amount treated as distributed 
+        under such rules shall be treated as not used to pay for 
+        qualified long-term care expenses.
+    ``(e) Tax Treatment of Distributions.--
+            ``(1) Amounts used for qualified long-term care expenses.--
+        Any amount paid or distributed out of a long-term care account 
+        which is used exclusively to pay qualified long-term care 
+        expenses of the account beneficiary or any member of the 
+        beneficiary's family shall not be includible in gross income.
+            ``(2) Inclusion of amounts not used for qualified long-term 
+        care expenses.--Any amount paid or distributed out of a long-
+        term care account which is not used exclusively to pay the 
+        qualified long-term care expenses of the account beneficiary or 
+        any member of the beneficiary's family shall be included in the 
+        gross income of such beneficiary.
+            ``(3) Excess contributions returned before due date of 
+        return.--
+                    ``(A) In general.--If any excess contribution is 
+                contributed for a taxable year to any long-term care 
+                account of an individual, paragraph (2) shall not apply 
+                to distributions from the long-term care accounts of 
+                such individual (to the extent such distributions do 
+                not exceed the aggregate excess contributions to all 
+                such accounts of such individual for such year) if--
+                            ``(i) such distribution is received by the 
+                        individual on or before the last day prescribed 
+                        by law (including extensions of time) for 
+                        filing such individual's return for such 
+                        taxable year, and
+                            ``(ii) such distribution is accompanied by 
+                        the amount of net income attributable to such 
+                        excess contribution.
+                Any net income described in clause (ii) shall be 
+                included in the gross income of the individual for the 
+                taxable year in which it is received.
+                    ``(B) Excess contribution.--For purposes of 
+                subparagraph (A), the term `excess contribution' means 
+                any contribution (other than a rollover contribution 
+                described in paragraph (5)) which is not deductible 
+                under this section.
+            ``(4) Additional tax on distributions not used for 
+        qualified long-term expenses.--
+                    ``(A) In general.--The tax imposed by this chapter 
+                on the account beneficiary for any taxable year in 
+                which there is a payment or distribution from a long-
+                term care account of such beneficiary which is 
+                includible in gross income under paragraph (2) shall be 
+                increased by 10 percent of the amount which is so 
+                includible.
+                    ``(B) Exception for disability or death.--
+                Subparagraph (A) shall not apply if the payment or 
+                distribution is made after the account beneficiary 
+                becomes disabled within the meaning of section 72(m)(7) 
+                or dies.
+            ``(5)  Rollover contribution.--
+                    ``(A) In general.--An amount is a rollover 
+                contribution described in this paragraph if it meets 
+                the requirements of subparagraphs (B) and (C).
+                    ``(B) Payment to other account.--Paragraph (2) 
+                shall not apply to any amount paid or distributed from 
+                a long-term care account to the account beneficiary to 
+                the extent the amount received is paid into a long-term 
+                care account for the benefit of such beneficiary not 
+                later than the 60th day after the day on which the 
+                beneficiary receives the payment or distribution.
+                    ``(C) Limitation.--This paragraph shall not apply 
+                to any amount described in subparagraph (B) received by 
+                an individual from a long-term care account if, at any 
+                time during the 1-year period ending on the day of such 
+                receipt, such individual received any other amount 
+                described in subparagraph (B) from a long-term care 
+                account which was not includible in the individual's 
+                gross income because of the application of this 
+                paragraph.
+            ``(6) Coordination with medical expense deduction.--For 
+        purposes of determining the amount of the deduction under 
+        section 213, any payment or distribution out of a long-term 
+        care account for qualified long-term care expenses shall not be 
+        treated as an expense paid for medical care.
+            ``(7) Transfer of account incident to divorce.--The 
+        transfer of an individual's interest in a long-term care 
+        account to an individual's spouse or former spouse under a 
+        divorce or separation instrument described in subparagraph (A) 
+        of section 71(b)(2) shall not be considered a taxable transfer 
+        made by such individual notwithstanding any other provision of 
+        this subtitle, and such interest shall, after such transfer, be 
+        treated as a long-term care account with respect to which such 
+        spouse is the account beneficiary.
+            ``(8) Treatment after death of account beneficiary.--
+                    ``(A) Treatment if designated beneficiary is 
+                spouse.--If the account beneficiary`s surviving spouse 
+                acquires such beneficiary's interest in a long-term 
+                care account by reason of being the beneficiary of such 
+                account at the death of the account beneficiary, such 
+                account shall be treated as if the spouse were the 
+                account beneficiary.
+                    ``(B) Other cases.--
+                            ``(i) In general.--If, by reason of the 
+                        death of the account beneficiary, any person 
+                        acquires the account beneficiary's interest in 
+                        a long-term care account in a case to which 
+                        subparagraph (A) does not apply--
+                                    ``(I) such account shall cease to 
+                                be a long-term care account as of the 
+                                date of death, and
+                                    ``(II) an amount equal to the fair 
+                                market value of the assets in such 
+                                account on such date shall be 
+                                includible in such person's gross 
+                                income for the taxable year which 
+                                includes such date if such person is 
+                                not the estate of such beneficiary, or 
+                                shall be includible in such 
+                                beneficiary's gross income for the last 
+                                taxable year of such beneficiary if 
+                                such person is the estate of such 
+                                beneficiary.
+                            ``(ii) Special rules.--
+                                    ``(I) Reduction of inclusion for 
+                                predeath expenses.--The amount 
+                                includible in gross income under clause 
+                                (i) by any person (other than the 
+                                estate) shall be reduced by the amount 
+                                of qualified long-term care expenses 
+                                which were incurred by the decedent 
+                                before the date of the decedent's death 
+                                and paid by such person within 1 year 
+                                after such date.
+                                    ``(II) Deduction for estate 
+                                taxes.--An appropriate deduction shall 
+                                be allowed under section 691(c) to any 
+                                person (other than the decedent or the 
+                                decedent's spouse) with respect to 
+                                amounts included in gross income under 
+                                clause (i) by such person.
+            ``(9) Gift tax exception.--A distribution to a member of 
+        the account beneficiary's family which is not includible in 
+        gross income under paragraph (1) shall in no event be treated 
+        as a taxable gift for purposes of chapters 12 and 13.
+            ``(10) Operating rules.--For purposes of applying section 
+        72--
+                    ``(A) to the extent provided by the Secretary, all 
+                long-term care accounts of which an individual is an 
+                account beneficiary shall be treated as one account,
+                    ``(B) except to the extent provided by the 
+                Secretary, all distributions during a taxable year 
+                shall be treated as one distribution, and
+                    ``(C) except to the extent provided by the 
+                Secretary, the value of the contract, income on the 
+                contract, and investment in the contract shall be 
+                computed as of the close of the calendar year in which 
+                the taxable year begins.
+    ``(f) Definitions and Special Rules.--For purposes of this 
+section--
+            ``(1) Account beneficiary.--The term `account beneficiary' 
+        means the individual on whose behalf the long-term care account 
+        was established.
+            ``(2) Qualified long-term care expenses.--The term 
+        `qualified long-term care expenses' means any amount paid or 
+        incurred--
+                    ``(A) for premiums for any qualified long-term care 
+                insurance contract (as defined in section 7702B) to the 
+                extent the amount of such payment does not exceed the 
+                eligible long-term care premiums (as defined in section 
+                213(d)(10)) for such contract, or
+                    ``(B) for qualified long-term care services (as 
+                defined in section 7702B(c)) unless such payment is not 
+                treated as paid for medical care under section 
+                213(d)(11).
+            ``(3) Member of the family.--The term `member of the 
+        family' means, with respect to any account beneficiary, an 
+        individual who bears a relationship described in section 
+        152(d)(2) (other than subparagraph (H) thereof) to the 
+        beneficiary.
+            ``(4) Other rules.--Rules similar to the rules described in 
+        section 223(d)(4) shall apply.
+    ``(g) Custodial Accounts.--For purposes of this section, a 
+custodial account or an annuity contract issued by an insurance company 
+qualified to do business in a State shall be treated as a trust under 
+this section if--
+            ``(1) the custodial account or annuity contract would, 
+        except for the fact that it is not a trust, constitute a trust 
+        which meets the requirements of subsection (b), and
+            ``(2) in the case of a custodial account, the assets of 
+        such account are held by a bank (as defined in section 408(n)) 
+        or another person who demonstrates, to the satisfaction of the 
+        Secretary, that the manner in which the person will administer 
+        the account will be consistent with the requirements of this 
+        section.
+For purposes of this title, in the case of a custodial account or 
+annuity contract treated as a trust by reason of the preceding 
+sentence, the person holding the assets of such account or holding such 
+annuity contract shall be treated as the trustee thereof.
+    ``(h) Reports.--The trustee of a long-term care account shall make 
+such reports regarding such account to the Secretary and to the 
+beneficiary of the account with respect to contributions, 
+distributions, and such other matters as the Secretary may require. The 
+reports required by this subsection shall be filed at such time and in 
+such manner and furnished to such individuals at such time and in such 
+manner as may be required.''.
+    (b) Deduction Allowed in Determining Adjusted Gross Income.--
+Section 62(a) of the Internal Revenue Code of 1986 (defining adjusted 
+gross income) is amended by adding at the end the following:
+            ``(21) Long-term care accounts.--The deduction allowed by 
+        section 224.''
+    (c) Tax on Excess Contributions.--
+            (1) In general.--Subsection (a) of section 4973 of the 
+        Internal Revenue Code of 1986 (relating to tax on excess 
+        contributions to certain tax-favored accounts and annuities) is 
+        amended by striking ``or'' at the end of paragraph (4), by 
+        inserting ``or'' at the end of paragraph (5), and by inserting 
+        after paragraph (5) the following new paragraph:
+            ``(6) a long-term care account (as defined in section 
+        224(c)),''.
+            (2) Excess contribution.--Section 4973 of such Code is 
+        amended by adding at the end the following new subsection:
+    ``(h) Excess Contributions to Long-Term Care Accounts.--For 
+purposes of this section--
+            ``(1) In general.--In the case of long-term care accounts 
+        (within the meaning of section 224(c)), the term `excess 
+        contributions' means the sum of--
+                    ``(A) the amount by which the amount contributed 
+                for the calendar year to such accounts (other than 
+                qualified rollover contributions (as defined in section 
+                224(e)(5)) exceeds the contribution limit under section 
+                224(b)(1), and
+                    ``(B) the amount determined under this subsection 
+                for the preceding calendar year, reduced by the excess 
+                (if any) of the maximum amount allowable as a 
+                contribution under section 224(b)(1) for the calendar 
+                year over the amount contributed to the accounts for 
+                the calendar year.
+            ``(2) Special rule.--A contribution which is distributed 
+        out of a long-term care account in a distribution to which 
+        section 224(e)(3) applies shall not be taken into account under 
+        paragraph (1).''.
+    (d) Failure to Provide Reports on Long-Term Care Accounts.--
+Paragraph (2) of section 6693(a) of the Internal Revenue Code of 1986 
+(relating to failure to provide reports on individual retirement 
+accounts or annuities) is amended by redesignating subparagraphs (D) 
+and (E) as subparagraphs (E) and (F), respectively, and by inserting 
+after subparagraph (C) the following new subparagraph:
+                    ``(D) section 224(h) (relating to long-term care 
+                accounts),''.
+    (e) Conforming Amendment.--The table of sections for part VII of 
+subchapter B of chapter 1 of the Internal Revenue Code of 1986 is 
+amended by striking the item relating to section 224 and inserting the 
+following new items:
+
+        ``Sec. 224. Long-term care accounts.
+        ``Sec. 225. Cross reference.''.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2005.
+
+SEC. 4. TREATMENT OF ANNUITY AND LIFE INSURANCE CONTRACTS WITH A LONG-
+              TERM CARE INSURANCE FEATURE.
+
+    (a) Exclusion From Gross Income.--Subsection (e) of section 72 of 
+the Internal Revenue Code of 1986 (relating to amounts not received as 
+annuities) is amended by redesignating paragraph (11) as paragraph (12) 
+and by inserting after paragraph (10) the following new paragraph:
+            ``(11) Special rules for certain combination contracts 
+        providing long-term care insurance.--Notwithstanding paragraphs 
+        (2), (5)(C), and (10), in the case of any charge against the 
+        cash value of an annuity contract or the cash surrender value 
+        of a life insurance contract made as payment for coverage under 
+        a qualified long-term care insurance contract which is part of 
+        or a rider on such annuity or life insurance contract--
+                    ``(A) the investment in the contract shall be 
+                reduced (but not below zero) by such charge, and
+                    ``(B) such charge shall not be includible in gross 
+                income.''.
+    (b) Tax-Free Exchanges Among Certain Insurance Policies.--
+            (1) Annuity contracts can include qualified long-term care 
+        insurance riders.--Paragraph (2) of section 1035(b) of such 
+        Code is amended by adding at the end the following new 
+        sentence: ``For purposes of the preceding sentence, a contract 
+        shall not fail to be treated as an annuity contract solely 
+        because a qualified long-term care insurance contract is a part 
+        of or a rider on such contract.''.
+            (2) Life insurance contracts can include qualified long-
+        term care insurance riders.--Paragraph (3) of section 1035(b) 
+        of such Code is amended by adding at the end the following new 
+        sentence: ``For purposes of the preceding sentence, a contract 
+        shall not fail to be treated as a life insurance contract 
+        solely because a qualified long-term care insurance contract is 
+        a part of or a rider on such contract.''.
+            (3) Expansion of tax-free exchanges of life insurance, 
+        endowment, and annuity contracts for long-term care 
+        contracts.--Subsection (a) of section 1035 of such Code 
+        (relating to certain exchanges of insurance policies) is 
+        amended--
+                    (A) in paragraph (1) by striking ``contract;'' and 
+                inserting ``contract or for a qualified long-term care 
+                insurance contract;'',
+                    (B) in paragraph (2) by striking ``contract;'' and 
+                inserting ``contract, or (C) for a qualified long-term 
+                care insurance contract;'', and
+                    (C) in paragraph (3) by striking ``contract.'' and 
+                inserting ``contract or for a qualified long-term care 
+                insurance contract.''.
+            (4) Tax-free exchanges of qualified long-term care 
+        insurance contract.--Subsection (a) of section 1035 of such 
+        Code (relating to certain exchanges of insurance policies) is 
+        amended by striking ``or'' at the end of paragraph (2), by 
+        striking the period at the end of paragraph (3) and inserting 
+        ``; or'', and by inserting after paragraph (3) the following 
+        new paragraph:
+            ``(4) a qualified long-term care insurance contract for a 
+        qualified long-term care insurance contract.''.
+    (c) Treatment of Coverage Provided as Part of a Life Insurance or 
+Annuity Contract.--Subsection (e) of section 7702B of such Code 
+(relating to treatment of qualified long-term care insurance) is 
+amended to read as follows:
+    ``(e) Treatment of Coverage Provided as Part of a Life Insurance or 
+Annuity Contract.--
+            ``(1) Coverage treated as contract.--Except as otherwise 
+        provided in regulations prescribed by the Secretary, in the 
+        case of any long-term care insurance coverage (whether or not 
+        qualified) provided by a rider on or as part of a life 
+        insurance contract or an annuity contract, this title shall 
+        apply as if the portion of the contract providing such coverage 
+        is a separate contract.
+            ``(2) Denial of deduction under section 213.--No deduction 
+        shall be allowed under section 213(a) for any payment made for 
+        coverage under a qualified long-term care insurance contract if 
+        such payment is made as a charge against the cash value of an 
+        annuity contract or the cash surrender value of a life 
+        insurance contract.
+            ``(3) Application of section 7702.--Section 7702(c)(2) 
+        (relating to the guideline premium limitation) shall be applied 
+        by increasing the guideline premium limitation with respect to 
+        the life insurance contract, as of any date--
+                    ``(A) by the sum of any charges (but not premium 
+                payments) against the life insurance contract's cash 
+                surrender value (within the meaning of section 
+                7702(f)(2)(A)) for coverage under the qualified long-
+                term care insurance contract made to that date under 
+                the life insurance contract, less
+                    ``(B) any such charges the imposition of which 
+                reduces the premiums paid for the life insurance 
+                contract (within the meaning of section 7702(f)(1)).
+        This paragraph shall not apply to any charges described in 
+        subparagraph (A) which are otherwise taken into account in 
+        computing the guideline premium limitation by reason of section 
+        7702(f)(5)(A)(v).
+            ``(4) Portion defined.--For purposes of this subsection, 
+        the term `portion' means only the terms and benefits under a 
+        life insurance contract or annuity contract that are in 
+        addition to the terms and benefits under the contract without 
+        regard to long-term care insurance coverage.
+            ``(5) Annuity contracts to which paragraph (1) does not 
+        apply.--For purposes of this subsection, none of the following 
+        shall be treated as an annuity contract:
+                    ``(A) A trust described in section 401(a) which is 
+                exempt from tax under section 501(a).
+                    ``(B) A contract--
+                            ``(i) purchased by a trust described in 
+                        subparagraph (A),
+                            ``(ii) purchased as part of a plan 
+                        described in section 403(a),
+                            ``(iii) described in section 403(b),
+                            ``(iv) provided for employees of a life 
+                        insurance company under a plan described in 
+                        section 818(a)(3), or
+                            ``(v) from an individual retirement account 
+                        or an individual retirement annuity.
+                    ``(C) A contract purchased by an employer for the 
+                benefit of the employee (or the employee's spouse).
+        Any dividend described in section 404(k) which is received by a 
+        participant or beneficiary shall, for purposes of this 
+        paragraph, be treated as paid under a separate contract to 
+        which subparagraph (B)(i) applies.''.
+    (d) Information Reporting.--
+            (1) Subpart B of part III of subchapter A of chapter 61 of 
+        such Code (relating to information concerning transactions with 
+        other persons) is amended by adding at the end the following 
+        new section:
+
+``SEC. 6050U. CHARGES OR PAYMENTS FOR QUALIFIED LONG-TERM CARE 
+              INSURANCE CONTRACTS UNDER COMBINED ARRANGEMENTS.
+
+    ``(a) Requirement of Reporting.--Any person who makes a charge 
+against the cash value of an annuity contract, or the cash surrender 
+value of a life insurance contract, which is excludable from gross 
+income under section 72(e)(11) shall make a return, according to the 
+forms or regulations prescribed by the Secretary, setting forth--
+            ``(1) the amount of the aggregate of such charges against 
+        each such contract for the calendar year,
+            ``(2) the amount of the reduction in the investment in each 
+        such contract by reason of such charges, and
+            ``(3) the name, address, and TIN of the individual who is 
+        the holder of each such contract.
+    ``(b) Statements to Be Furnished to Persons With Respect to Whom 
+Information Is Required.--Every person required to make a return under 
+subsection (a) shall furnish to each individual whose name is required 
+to be set forth in such return a written statement showing--
+            ``(1) the name, address, and phone number of the 
+        information contact of the person making the payments, and
+            ``(2) the information required to be shown on the return 
+        with respect to such individual.
+The written statement required under the preceding sentence shall be 
+furnished to the individual on or before January 31 of the year 
+following the calendar year for which the return under subsection (a) 
+was required to be made.''.
+            (2) Clerical amendment.--The table of sections for subpart 
+        B of part III of subchapter A of such chapter 61 of such Code 
+        is amended by adding at the end the following new item:
+
+        ``Sec.  6050U. Charges or payments for qualified long-term care 
+                            insurance contracts under combined 
+                            arrangements''.
+    (e) Treatment of Policy Acquisition Expenses.--Subsection (e) of 
+section 848 of such Code (relating to classification of contracts) is 
+amended by adding at the end the following new paragraph:
+            ``(6) Treatment of certain qualified long-term care 
+        insurance contract arrangements.--An annuity or life insurance 
+        contract which includes a qualified long-term care insurance 
+        contract as a part of or a rider on such annuity or life 
+        insurance contract shall be treated as a specified insurance 
+        contract not described in subparagraph (A) or (B) of subsection 
+        (c)(1).''.
+    (f) Application to Other Definitions and Rules.--Section 7702(f) of 
+such Code (relating to other definitions and special rules) is amended
+            (1) in paragraph (1), by inserting ``(other than paragraph 
+        (11) thereof)'' after ``section 72(e)'', and
+            (2) in paragraph (5)(A), by striking ``or'' at the end of 
+        clause (iv), by redesignating clause (v) as clause (vi), and by 
+        inserting after clause (iv) the following new clause:
+                            ``(v) qualified long-term care insurance 
+                        contract which is a part of or a rider on the 
+                        life insurance contract, or''.
+    (g) Effective Dates.--
+            (1) In general.--Except as provided by paragraph (2), the 
+        amendments made by this section shall apply to contracts issued 
+        before, on, or after December 31, 2005, but only with respect 
+        to periods beginning after such date.
+            (2) Subsection (b).--The amendments made by subsection (b) 
+        shall apply with respect to exchanges occurring after December 
+        31, 2005.
+                                 <all>

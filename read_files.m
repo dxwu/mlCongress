@@ -1,16 +1,17 @@
 function [ docs, V ] = read_files( dir_name_arr )
-%READ_FILES Summary of this function goes here
+
+% READ_FILES
 %   m: number of documents
 %   n: the number of words in the longest document
 %
 %   Input:
-%   dir_name_arr: a matrix where dir_name_arr(i, :) is the name of the i'th
-%   directory containing the bill texts
+%   	dir_name_arr: a matrix where dir_name_arr(i, :) is the name of the i'th
+%   	directory containing the bill texts
 %
 %   Return Values:
-%   docs: m x n matrix where docs(m, n) is the ID of the n'th word in the
-%   m'th document, or 0 if the m'th document has less than n words
-%   V: the size of the vocabulary (number of distinct words across all documents)
+%   	docs: m x n matrix where docs(m, n) is the ID of the n'th word in the
+%   	m'th document, or 0 if the m'th document has less than n words
+%   	V: the size of the vocabulary (number of distinct words across all documents)
 
 
 docs = [];

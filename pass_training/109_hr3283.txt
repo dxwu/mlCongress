@@ -1,0 +1,730 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3283 Referred in Senate (RFS)]
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 3283
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 28, 2005
+
+     Received; read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+      To enhance resources to enforce United States trade rights.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``United States Trade Rights 
+Enforcement Act''.
+
+SEC. 2. SENSE OF CONGRESS.
+
+    It is the sense of Congress that--
+            (1) United States producers that believe they are injured 
+        by subsidized imports from nonmarket economy countries have not 
+        been able to obtain relief through countervailing duty actions 
+        because the Department of Commerce has declined to make 
+        countervailing duty determinations for nonmarket economy 
+        countries in part because it lacks explicit legal authority to 
+        do so;
+            (2) explicitly making the countervailing duty law under 
+        subtitle A of title VII of the Tariff Act of 1930 (19 U.S.C. 
+        1671 et seq.) applicable to actions by nonmarket economy 
+        countries would give United States producers access to import 
+        relief measures that directly target government subsidies;
+            (3) the Bureau of Customs and Border Protection of the 
+        Department of Homeland Security has encountered particular 
+        problems in collecting countervailing and antidumping duties 
+        from new shippers who default on their bonding obligations;
+            (4) this behavior may detract from the ability of United 
+        States companies to recover from competition found to be unfair 
+        under international trade laws;
+            (5) accordingly, it is appropriate, for a test period, to 
+        suspend the availability of bonds for new shippers and instead 
+        require cash deposits;
+            (6) more analysis and assessment is needed to determine the 
+        appropriate policy to respond to this and other problems 
+        experienced in the collection of duties and the impact that 
+        policy changes could have on legitimate United States trade and 
+        United States trade obligations;
+            (7) given the developments in the ongoing World Trade 
+        Organization (WTO) negotiations relating to trade remedies, 
+        Congress reiterates its resolve as expressed in House 
+        Concurrent Resolution 262 (107th Congress), which was 
+        overwhelmingly approved by the House of Representatives on 
+        November 7, 2001, by a vote of 410 to 4;
+            (8) the United States Trade Representative should monitor 
+        compliance by United States trading partners with their trade 
+        obligations and systematically identify areas of noncompliance;
+            (9) the United States Trade Representative should then 
+        aggressively resolve noncompliance through consultations with 
+        United States trading partners;
+            (10) however, should efforts to resolve disputes through 
+        consultation fail, the United States Trade Representative 
+        should vigorously pursue United States rights through dispute 
+        settlement in every available forum;
+            (11) given the huge growth in trade with the People's 
+        Republic of China, its impact on the United States economy, and 
+        the complaints voiced by many United States interests that 
+        China is not complying with its international trade 
+        obligations, the United States Trade Representative should 
+        place particular emphasis on identifying and resolving disputes 
+        with China that limit United States exports, particularly 
+        concerning compliance with obligations relating to intellectual 
+        property rights and enforcement, tariff and nontariff barriers, 
+        subsidies, technical barriers to trade, sanitary and 
+        phytosanitary issues, nonmarket-based industrial policies, 
+        distribution rights, and regulatory transparency;
+            (12) in addition, the United States Trade Representative 
+        should place particular emphasis on trade barriers imposed by 
+        Japan, specifically the Japanese trade ban on United States 
+        beef without scientific justification, the Japanese sanitary 
+        and phytosanitary restrictions on United States agricultural 
+        products, Japanese policies on pharmaceutical and medical 
+        device reference pricing, insurance cross-subsidization, and 
+        privatization in a variety of sectors that discriminate against 
+        United States companies;
+            (13) the fixed exchange rate that the People's Republic of 
+        China has maintained until recently has been a substantial 
+        distortion to world markets, blocking the price mechanism, 
+        impeding adjustment of international imbalances, and serving as 
+        a source of large and increasing risk to the Chinese economy;
+            (14) such behavior has effectively prevented market forces 
+        from operating efficiently in the People's Republic of China, 
+        distorting world trade;
+            (15) in a welcome move, the People's Republic of China has 
+        now begun to move to a more flexible exchange rate, and it 
+        should continue to so move to a market-based exchange rate as 
+        soon as possible;
+            (16) in light of this recent positive development, the 
+        Secretary of Treasury should provide to Congress a periodic 
+        assessment of the mechanism adopted by the Chinese Government 
+        to relate its currency to a basket of foreign currencies and 
+        the degree to which the application of this mechanism moves the 
+        currency closer to a market-based representation of its value;
+            (17) in addition, Japan's policy of intervening to 
+        influence the value of its currency and its prolific barriers 
+        to trade create distortions that disadvantage United States 
+        exporters;
+            (18) this adverse impact is magnified by Japan's role in 
+        the global marketplace, combined with its chronic surplus, weak 
+        economy, deflationary economy, low growth rate, and lack of 
+        consumer spending; and
+            (19) accordingly, the United States Trade Representative 
+        should have additional resources in the Office of the General 
+        Counsel, the Office of Monitoring and Enforcement, the Office 
+        of China Affairs, and the Office of Japan, Korea, and APEC 
+        Affairs to address a variety of needs that will best enable 
+        United States companies, farmers, and workers to benefits from 
+        the trade agreements to which the United States has around the 
+        world.
+
+SEC. 3. APPLICATION OF COUNTERVAILING DUTIES TO NONMARKET ECONOMY 
+              COUNTRIES.
+
+    (a) Amendments.--
+            (1) Countervailing duties imposed.--Section 701(a)(1) of 
+        the Tariff Act of 1930 (19 U.S.C. 1671(a)(1)) is amended by 
+        inserting ``(including a nonmarket economy country)'' after 
+        ``country'' each place it appears.
+            (2) Definition of countervailable subsidy.--Section 
+        771(5)(E) of such Act (19 U.S.C. 1677(5)(E)) is amended by 
+        adding at the end the following new sentences: ``With respect 
+        to the People's Republic of China, if the administering 
+        authority encounters special difficulties in calculating the 
+        amount of a benefit under clause (i), (ii), (iii), or (iv) of 
+        this subparagraph, the administering authority may use 
+        methodologies for identifying and measuring the subsidy benefit 
+        which take into account the possibility that prevailing terms 
+        and conditions in China may not always be available as 
+        appropriate benchmarks. When applying such methodologies, where 
+        practicable, the administering authority should adjust such 
+        prevailing terms and conditions before considering the use of 
+        terms and conditions prevailing outside China.''.
+    (b) Prohibition on Double Counting.--In applying section 701(a)(1) 
+of the Tariff Act of 1930, as amended by subsection (a), to a class or 
+kind of merchandise of a nonmarket economy country, the administering 
+authority shall ensure that--
+            (1) any countervailable subsidy is not double counted in an 
+        antidumping order under section 731 of such Act (19 U.S.C. 
+        1673) on the same class or kind of merchandise of the country; 
+        and
+            (2) the application of section 701(a)(1) of such Act is 
+        consistent with the international obligations of the United 
+        States.
+    (c) Effective Date.--The amendments made by subsection (a) apply to 
+any petition filed under section 702 of the Tariff Act of 1930 (19 
+U.S.C. 1671a) on or after 30 days after the date of the enactment of 
+this Act, and the provisions contained in subsection (b) apply to any 
+subsequent determination made under section 733, 735, or 751 of such 
+Act (19 U.S.C. 1673b, 1673d, or 1675).
+
+SEC. 4. NEW SHIPPER REVIEW AMENDMENT.
+
+    (a) Suspension of the Availability of Bonds to New Shippers.--
+Clause (iii) of section 751(a)(2)(B) of the Tariff Act of 1930 (19 
+U.S.C. 1675(a)(2)(B)(iii)) shall not be effective during the 3-year 
+period beginning on the date of the enactment of this Act.
+    (b) Report on the Impact of the Suspension.--Not later than 2 years 
+after the date of the enactment of this Act, the Secretary of the 
+Treasury, in consultation with the Secretary of Commerce, the United 
+States Trade Representative, and the Secretary of Homeland Security, 
+shall submit to the Committee on Finance of the Senate and the 
+Committee on Ways and Means of the House of Representatives a report 
+containing--
+            (1) recommendations on whether the suspension of the 
+        effectiveness of section 751(a)(2)(B)(iii) of the Tariff Act of 
+        1930 should be extended beyond the date provided in subsection 
+        (a) of this section; and
+            (2) assessments of the effectiveness of any administrative 
+        measures that have been implemented to address the difficulties 
+        giving rise to the suspension under subsection (a) of this 
+        section, including--
+                    (A) problems in assuring the collection of 
+                antidumping duties on imports from new shippers; and
+                    (B) burdens imposed on legitimate trade and 
+                commerce by the suspension of availability of bonds to 
+                new shippers by reason of the suspension under 
+                subsection (a).
+    (c) Report on Collection Problems and Analysis of Proposed 
+Solutions.--
+            (1) Report.--Not later than 90 days after the date of the 
+        enactment of this Act, the Secretary of the Treasury, in 
+        consultation with the Commissioner of the Bureau of Customs and 
+        Border Protection and the Secretary of Commerce, shall submit 
+        to the Committee on Ways and Means of the House of 
+        Representatives and the Committee on Finance of the Senate a 
+        report describing the major problems experienced in the 
+        collection of duties, including fraudulent activities intended 
+        to avoid payment of duties, with an estimate of the total 
+        amount of uncollected duties for the previous fiscal year and a 
+        breakdown across product lines describing the reasons duties 
+        were uncollected.
+            (2) Recommendations.--The report shall make recommendations 
+        on additional actions to address remaining problems related to 
+        duty collections and, for each recommendation, provide an 
+        analysis of how the recommendation would address the specific 
+        problem or problems cited and the impact that implementing the 
+        recommendation would have on international trade and commerce 
+        (including any additional costs imposed on United States 
+        businesses and whether the implementation of the revision is 
+        likely to violate any international trade obligations).
+
+SEC. 5. COMPREHENSIVE MONITORING OF COMPLIANCE BY THE PEOPLE'S REPUBLIC 
+              OF CHINA WITH ITS INTERNATIONAL TRADE OBLIGATIONS.
+
+    (a) Intellectual Property Rights Compliance.--
+            (1) In general.--In accordance with the terms of the 
+        Agreement of WTO Accession for the People's Republic of China, 
+        subsequent agreements by Chinese authorities through the U.S.-
+        China Joint Commission on Commerce and Trade (JCCT), and other 
+        obligations by Chinese officials related to its trade 
+        obligations, the United States Trade Representative and the 
+        Secretary of Commerce shall undertake to ensure that the 
+        Government of the People's Republic China has taken the 
+        following steps:
+                    (A) The Chinese Government has increased the number 
+                of civil and criminal prosecutions of intellectual 
+                property rights violators by the end of 2005 to a level 
+                that significantly decreases the current amount of 
+                infringing products for sale within China.
+                    (B) China's Supreme People's Court, Supreme 
+                People's Procuratorate, and Ministry of Public Security 
+                have issued draft guidelines for public comment to 
+                ensure the timely referral of intellectual property 
+                rights violations from administrative bodies to 
+                criminal prosecution.
+                    (C) The Chinese Ministry of Public Security and the 
+                General Administration of Customs have issued 
+                regulations to ensure the timely transfer of 
+                intellectual property rights cases for criminal 
+                investigation.
+                    (D) The Chinese Ministry of Public Security has 
+                established a leading group responsible for overall 
+                research, planning, and coordination of all 
+                intellectual property rights criminal enforcement to 
+                ensure a focused and coordinated nationwide enforcement 
+                effort.
+                    (E) The Chinese Government has established a 
+                bilateral intellectual property rights law enforcement 
+                working group in cooperation with the United States 
+                whose members will cooperate on enforcement activities 
+                to reduce cross-border infringing activities.
+                    (F) The Chinese Government has aggressively 
+                countered movie piracy by dedicating enforcement teams 
+                to pursue enforcement actions against pirates and has 
+                regularly instructed enforcement authorities nationwide 
+                that copies of films and audio-visual products still in 
+                censorship or import review or otherwise not yet 
+                authorized for distribution are deemed pirated and 
+                subject to enhanced enforcement.
+                    (G) By the end of 2005, the Chinese Government has 
+                completed its legalization program to ensure that all 
+                central, provincial, and local government offices are 
+                using only licensed software and by the end of 2006 has 
+                extended the program to enterprises (including state-
+                owned enterprises).
+                    (H) The Chinese Government, having declared that 
+                software end-user piracy is considered to constitute 
+                ``harm to the public interest'' and as such will be 
+                subject to administrative penalties nationwide, has 
+                initiated civil and criminal prosecutions of software 
+                end-user violators.
+                    (I) The Chinese Government has appointed an 
+                Intellectual Property Rights Ombudsman at the Chinese 
+                Embassy in Washington, D.C., to serve as the point of 
+                contact for United States companies, particularly 
+                small- and medium-sized businesses, seeking to secure 
+                and enforce their intellectual property rights in China 
+                or experiencing intellectual property rights problems 
+                in China.
+                    (J) The relevant Chinese agencies, including the 
+                Ministry of Commerce, the China Trademark Office, the 
+                State Intellectual Property Office, and the National 
+                Copyright Administration of China have significantly 
+                improved intellectual property rights enforcement at 
+                trade shows and issued new regulations to achieve this 
+                goal.
+                    (K) Not later than June 30, 2006, the Chinese State 
+                Council has submitted to the National People's Congress 
+                the legislative package needed for China to accede to 
+                the World Intellectual Property Organization (WIPO) 
+                Internet treaties.
+                    (L) The Chinese Government has taken steps to 
+                enforce intellectual property right laws against 
+                Internet piracy, including through enforcement at 
+                Internet cafes.
+                    (M) The Chinese Government, having confirmed that 
+                the criminal penalty thresholds in the 2004 Judicial 
+                Interpretation are applicable to sound recordings, has 
+                instituted civil and criminal prosecutions against such 
+                violators.
+                    (N) The Chinese Government has initiated civil and 
+                criminal prosecutions against exporters of infringing 
+                recordings.
+            (2) Dispute settlement proceedings in wto.--If the 
+        President determines that the People's Republic of China has 
+        not met each of the obligations described in subparagraphs (A) 
+        through (N) of paragraph (1) or taken steps that result in 
+        significant improvements in protection of intellectual property 
+        rights in accordance with its trade obligations, then the 
+        President shall assign such resources as are necessary to 
+        collect evidence of such trade agreement violations for use in 
+        dispute settlement proceedings against China in the World Trade 
+        Organization.
+    (b) Access for Exports of United States Goods.--In accordance with 
+the terms of the Agreement of WTO Accession for the People's Republic 
+of China, subsequent agreements by Chinese authorities through the 
+U.S.-China Joint Commission on Commerce and Trade (JCCT), and other 
+obligations by Chinese officials related to its trade obligations, the 
+United States Trade Representative and the Secretary of Commerce shall 
+undertake to ensure that the Government of the People's Republic of 
+China has taken the following steps:
+            (1) China has taken steps to ensure that United States 
+        products can be freely distributed in China, including by 
+        approving a significant backlog of distribution license 
+        applications and by preparing a regulatory guide for businesses 
+        seeking to acquire distribution rights that expands on the 
+        guidelines announced in April 2005.
+            (2) Chinese officials have permitted all enterprises in 
+        China, including those located in bonded zones, to acquire 
+        licenses to distribute goods throughout China.
+            (3) The Chinese Government has submitted regulations on 
+        management of direct selling to the Chinese State Council for 
+        review and taken any additional steps necessary to provide a 
+        legal basis for United States direct sales firms to sell United 
+        States goods directly to households in China.
+            (4) The Chinese Government has issued final regulations on 
+        direct selling, including with respect to distribution of 
+        imported goods and fixed location requirements.
+    (c) Access for Exports of United States Services.--In accordance 
+with the terms of the Agreement of WTO Accession for the People's 
+Republic of China, subsequent agreements by Chinese authorities through 
+the U.S.-China Joint Commission on Commerce and Trade (JCCT), and other 
+obligations by Chinese officials related to its trade obligations, the 
+United States Trade Representative and the Secretary of Commerce shall 
+undertake to ensure that the Government of the People's Republic of 
+China has taken the following steps:
+            (1) The Chinese Government has convened a meeting of the 
+        U.S.-China Insurance Dialogue before the end of 2005 to discuss 
+        regulatory concerns and barriers to further liberalization of 
+        the sector.
+            (2) The Chinese Government has made senior level officials 
+        available to meet under the JCCT Information Technology Working 
+        Group to discuss capitalization requirements, resale services, 
+        and other issues as agreed to by the two sides.
+    (d) Access for United States Agriculture.--In accordance with the 
+terms of the Agreement of WTO Accession for the People's Republic of 
+China, subsequent agreements by Chinese authorities through the U.S.-
+China Joint Commission on Commerce and Trade (JCCT), and other 
+obligations by Chinese officials related to its trade obligations, the 
+United States Trade Representative and the Secretary of Agriculture 
+shall undertake to ensure that the Government of the People's Republic 
+of China has taken the following steps:
+            (1) China has completed the regulatory approval process for 
+        a United States-produced corn biotech variety.
+            (2) China's Administration of Quality Supervision, 
+        Inspection and Quarantine has implemented the 2005 Memorandum 
+        of Understanding between the United States and China designed 
+        to facilitate cooperation on animal and plant health safety 
+        issues and improve efforts to expand United States access to 
+        China's markets for agricultural commodities.
+    (e) Accounting of Chinese Subsidies.--In accordance with the terms 
+of the Agreement of WTO Accession for the People's Republic of China, 
+subsequent agreements by Chinese authorities through the U.S.-China 
+Joint Commission on Commerce and Trade (JCCT), and other obligations by 
+Chinese officials related to its trade obligations, the United States 
+Trade Representative and the Secretary of Commerce shall undertake to 
+ensure that the Government of the People's Republic of China has 
+provided a detailed accounting of its subsidies to the World Trade 
+Organization by the end of 2005.
+    (f) Reports.--
+            (1) Biannual report.--Not later than six months after the 
+        date of the enactment of this Act, and every six months 
+        thereafter, the President should transmit to the Committee on 
+        Ways and Means of the House of Representatives and the 
+        Committee on Finance of the Senate a report that contains--
+                    (A) a description of the specific steps taken by 
+                the Government of the People's Republic of China to 
+                meet its obligations described in subsections (a) 
+                through (e) of this section (other than obligations 
+                described in subsections (a)(1)(A) and (G), (b)(1), 
+                (c)(1), and (e));
+                    (B) an analysis of the extent to which Chinese 
+                officials are attempting in good faith to meet such 
+                obligations; and
+                    (C) a description of the actions, if any, the 
+                President will take to obtain compliance by China if 
+                the President determines that the Chinese Government is 
+                failing to meet such obligations, including pursuing 
+                United States rights under the dispute settlement 
+                provisions of the World Trade Organization, as 
+                appropriate.
+            (2) Monthly report.--Not later than 30 days after the date 
+        of the enactment of this Act, and every 30 days thereafter, the 
+        President should transmit to the Committee on Ways and Means of 
+        the House of Representatives and the Committee on Finance of 
+        the Senate a report that contains--
+                    (A) a description of the specific steps taken by 
+                the Government of the People's Republic of China to 
+                meet its obligations described in subsections (a)(1)(A) 
+                and (G), (b)(1), (c)(1), and (e);
+                    (B) an analysis of the extent to which Chinese 
+                officials are attempting in good faith to meet such 
+                obligations; and
+                    (C) a description of the actions, if any, the 
+                President will take to obtain compliance by China if 
+                the President determines that the Chinese Government is 
+                failing to meet such obligations, including pursuing 
+                United States rights under the dispute settlement 
+                provisions of the World Trade Organization, as 
+                appropriate.
+
+SEC. 6. REPORTS ON CURRENCY MANIPULATION BY FOREIGN COUNTRIES.
+
+    (a) Report on Currency Manipulation.--Not later than 60 days after 
+the date of the enactment of this Act, the Secretary of the Treasury 
+shall submit to the appropriate congressional committees a report 
+that--
+            (1) defines currency manipulation;
+            (2) describes actions of foreign countries that will be 
+        considered to be currency manipulation; and
+            (3) describes how statutory provisions addressing currency 
+        manipulation by trading partners of the United States contained 
+        in, and relating to, section 40 of the Bretton Woods Agreements 
+        Act (22 U.S.C. 286y) and sections 3004 and 3005 of the Exchange 
+        Rates and International Economic Policy Coordination Act of 
+        1988 (22 U.S.C. 5304 and 5305) can be better clarified 
+        administratively to provide for improved and more predictable 
+        evaluation.
+    (b) Report on Actions by China.--
+            (1) In general.--In light of the recent positive 
+        announcement by the Government of the People's Republic of 
+        China with respect to increased exchange rate flexibility, the 
+        Secretary of the Treasury shall submit to the appropriate 
+        congressional committees a report that examines the mechanism 
+        adopted by the Chinese Government to relate its currency to a 
+        basket of foreign currencies and the degree to which the 
+        application of this mechanism moves the currency closer to a 
+        market-based representation of its value.
+            (2) Deadline.-- The initial report required by this 
+        subsection shall be submitted to the appropriate congressional 
+        committees not later than 180 days after the date of the 
+        enactment of this Act and subsequent reports shall be included 
+        in the report required under section 3005 of the Exchange Rates 
+        and International Economic Policy Coordination Act of 1988 (22 
+        U.S.C. 5305).
+    (c) Definition.--In this section, the term ``appropriate 
+congressional committees'' means--
+            (1) the Committee on Ways and Means and the Committee on 
+        Financial Services of the House of Representatives; and
+            (2) the Committee on Finance and the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate.
+
+SEC. 7. AUTHORIZATION OF APPROPRIATIONS FOR THE OFFICE OF THE UNITED 
+              STATES TRADE REPRESENTATIVE.
+
+    (a) Authorization of Appropriations.--
+            (1) In general.--Section 141(g)(1)(A) of the Trade Act of 
+        1974 (19 U.S.C. 2171(g)(1)(A)) is amended by striking clauses 
+        (i) and (ii) and inserting the following:
+            ``(i) $44,779,000 for fiscal year 2006.
+            ``(ii) $47,018,000 for fiscal year 2007.''.
+            (2) Rule of construction.--The amendment made by paragraph 
+        (1) shall not be construed to affect the availability of funds 
+        appropriated pursuant to section 141(g)(1)(A) of the Trade Act 
+        of 1974 before the date of the enactment of this Act.
+    (b) Authorization of Appropriations for the Office of the General 
+Counsel and Certain Other Offices.--There are authorized to be 
+appropriated to the Office of the United States Trade Representative 
+for the appointment of additional staff in or enhanced activities by 
+the Office of the General Counsel, the Office of Monitoring and 
+Enforcement, the Office of China Affairs, and the Office of Japan, 
+Korea, and APEC Affairs--
+            (1) $4,000,000 for fiscal year 2006; and
+            (2) $4,000,000 for fiscal year 2007.
+    (c) Sense of Congress.--It is the sense of the Congress that the 
+enforcement of United States rights and of obligations of United States 
+trading partners under trade agreements has gained such significance 
+that the United States Trade Representative should determine which of 
+its current positions is most responsible for carrying out these 
+important enforcement duties and should assign that position, in 
+addition to any other title, the title of Chief Enforcement Officer.
+
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS FOR THE UNITED STATES 
+              INTERNATIONAL TRADE COMMISSION.
+
+    (a) Authorization of Appropriations.--Section 330(e)(2)(A) of the 
+Tariff Act of 1930 (19 U.S.C. 1330(e)(2)(A)) is amended by striking 
+clauses (i) and (ii) and inserting the following:
+            ``(i) $62,752,000 for fiscal year 2006.
+            ``(ii) $65,890,000 for fiscal year 2007.''.
+    (b) Rule of Construction.--The amendment made by subsection (a) 
+shall not be construed to affect the availability of funds appropriated 
+pursuant to section 330(e)(2)(A) of the Tariff Act of 1930 before the 
+date of the enactment of this Act.
+    (c) Study and Report on Trade and Economic Relations With China.--
+            (1) Study.--
+                    (A) In general.--The United States International 
+                Trade Commission shall carry out a comprehensive study 
+                on trade and economic relations between the United 
+                States and the People's Republic of China which 
+                addresses China's economic policies, including its 
+                exchange rate policy, the competitiveness of its 
+                industries, the composition and nature of its trade 
+                patterns, and other elements impacting the United 
+                States trade account, industry, competitiveness, and 
+                employment.
+                    (B) Requirements.--In carrying out the study under 
+                subparagraph (A), the United States International Trade 
+                Commission shall undertake the following:
+                            (i) An analysis of the United States trade 
+                        and investment relationship with China, with a 
+                        focus on the United States-China trade balance 
+                        and trends affecting particular industries, 
+                        products, and sectors in agriculture, 
+                        manufacturing, and services. The analysis shall 
+                        provide context for understanding the U.S.-
+                        China trade and investment relationship, by 
+                        including information regarding China's 
+                        economic relationships with third countries and 
+                        China's changing policy regime and business 
+                        environment. The analysis shall include a focus 
+                        on United States-China trade in goods and 
+                        services, United States direct investment in 
+                        China, China's foreign direct investment in the 
+                        United States, and the relationship between 
+                        trade and investment. The analysis shall make 
+                        adjustments, where possible, for merchandise 
+                        passed through Hong Kong.
+                            (ii) An analysis of the competitive 
+                        conditions in China affecting United States 
+                        exports and United States direct investment. 
+                        The analysis shall take into account, to the 
+                        extent feasible, significant factors including 
+                        tariffs and non-tariff measures, competition 
+                        from Chinese domestic firms and foreign-based 
+                        companies operating in China, the Chinese 
+                        regulatory environment, including specific 
+                        regulations and overall regulatory 
+                        transparency, and other Chinese industrial and 
+                        financial policies. In addition, the analysis 
+                        shall examine the specific competitive 
+                        conditions facing United States producers in 
+                        key industries, products, services, and 
+                        sectors, potentially including computer and 
+                        telecommunications hardware, textiles, grains, 
+                        cotton, and financial services based on trade 
+                        and investment flows.
+                            (iii) An examination of the role and 
+                        importance of intellectual property rights 
+                        issues, such as patents, copyrights, and 
+                        licensing, in specific industries in China, 
+                        including the pharmaceutical industry, the 
+                        software industry, and the entertainment 
+                        industry.
+                            (iv) An analysis of the effects on global 
+                        commodity markets of China's growing demand for 
+                        energy and raw materials.
+                            (v) An examination of whether or not 
+                        increased United States imports from China 
+                        reflect displacement of United States imports 
+                        from third countries or United States domestic 
+                        production, and the role of intermediate and 
+                        value-added goods processing in China's pattern 
+                        of trade.
+            (2) Report.--Not later than one year after the date of the 
+        enactment of this Act, the United States International Trade 
+        Commission shall submit to the Committee on Ways and Means of 
+        the House of Representatives and the Committee on Finance of 
+        the Senate a report that contains the results of the study 
+        carried out under paragraph (1).
+
+SEC. 9. SENSE OF CONGRESS REGARDING EXPANSION OF MEMBERSHIP IN THE 
+              AGREEMENT ON GOVERNMENT PROCUREMENT OF THE WTO.
+
+    (a) Findings.--Congress finds the following:
+            (1) Nondiscriminatory, procompetitive, merit-based, and 
+        technology-neutral procurement of goods and services is 
+        essential so that governments can acquire the best goods to 
+        meet their needs for the best value.
+            (2) The Agreement on Government Procurement (GPA) of the 
+        World Trade Organization (WTO) provides a multilateral 
+        framework of rights and obligations founded on such principles.
+            (3) The United States is a member of the GPA, along with 
+        Canada, the European Union (including its 25 member States: 
+        Austria, Belgium, Cyprus, the Czech Republic, Denmark, Estonia, 
+        Finland, France, Germany, Greece, Hungary, Ireland, Italy, 
+        Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, 
+        Portugal, Slovak Republic, Slovenia, Spain, Sweden, and the 
+        United Kingdom), Hong Kong, Iceland, Israel, Japan, Korea, 
+        Liechtenstein, the Netherlands with respect to Aruba, Norway, 
+        Singapore, and Switzerland.
+            (4) Albania, Bulgaria, Georgia, Jordan, the Kyrgyz 
+        Republic, Moldova, Oman, Panama, and Taiwan are currently 
+        negotiating to accede to the GPA.
+            (5) The People's Republic of China joined the WTO in 
+        December 2001, signaling to the international community its 
+        commitment to greater openness.
+            (6) When China joined the WTO, it committed, in its 
+        protocol of accession, to negotiate entry into the GPA ``as 
+        soon as possible''.
+            (7) More than 3 years after its entry into the WTO, China 
+        has not commenced negotiations to join the GPA.
+            (8) Recent legal developments in China illustrate the 
+        importance and urgency of expanding membership in the GPA.
+            (9) In 2002, China enacted a law on government procurement 
+        that incorporates preferences for domestic goods and services.
+            (10) The first sector for which the Chinese Government has 
+        sought to implement the new government procurement law is 
+        computer software.
+            (11) In March 2005 the Chinese Government released draft 
+        regulations governing the procurement of computer software.
+            (12) The draft regulations require that non-Chinese 
+        software companies meet conditions relating to outsourcing of 
+        software development work to China, technology transfer, and 
+        similar requirements, in order to be eligible to participate in 
+        the Chinese Government market.
+            (13) As a result of the proposed regulations, it appears 
+        likely that a very substantial amount of American software will 
+        be excluded from the government procurement process in China. 
+        The draft software regulations threatened to close off a market 
+        with a potential value of more than $8 billion to United States 
+        firms.
+            (14) United States software companies have made a 
+        substantial commitment to the Chinese market and have made a 
+        substantial contribution to the development of China's software 
+        industry.
+            (15) The outright exclusion of substantial amounts of 
+        software not of Chinese origin that is apparently contemplated 
+        in the regulations is out of step with domestic preferences 
+        that exist in the procurement laws and practices of other WTO 
+        member countries, including the United States.
+            (16) The draft regulations do not adhere to the principles 
+        of nondiscriminatory, procompetitive, merit-based, and 
+        technology-neutral procurement embodied in the GPA.
+            (17) The software piracy rate in China has never fallen 
+        below 90 percent over the past 10 years.
+            (18) Chinese Government entities represent a very 
+        significant portion of the software market in China that is not 
+        dominated by piracy.
+            (19) The combined effect of rampant software piracy and the 
+        proposed discriminatory government procurement regulations will 
+        be a nearly impenetrable barrier to market access for the 
+        United States software industry in China.
+            (20) The United States trade deficit with China in 2004 was 
+        $162,000,000,000, the highest with any economy in the world, 
+        and a 12.4 percent increase over 2003.
+            (21) China's Premier, Wen Jiabao, has committed to rectify 
+        this serious imbalance by increasing China's imports of goods 
+        and services from the United States.
+            (22) The proposed software procurement regulations that 
+        were described by the Chinese Government in November 2004 
+        incorporate policies that are fully at odds with Premier Wen's 
+        commitment to increase China's imports from the United States, 
+        and will add significantly to the trade imbalance between the 
+        United States and China.
+            (23) Once it is fully implemented, the discriminatory 
+        aspects of China's government procurement law will apply to all 
+        goods and services that the government procures.
+            (24) Other developing countries may follow the lead of 
+        China.
+            (25) In July 2005, senior officials of the Chinese 
+        Government announced at the U.S.-China Joint Committee on 
+        Commerce and Trade that China would accelerate its efforts to 
+        join the GPA and toward this end will initiate technical 
+        consultations with other WTO member countries and accordingly 
+        delay issuing draft regulations on software procurement, as it 
+        further considers public comments and makes revisions in light 
+        of WTO rules.
+    (b) Sense of Congress.--It is the sense of Congress that--
+            (1) the Government of the United States should strive to 
+        expand membership in the Agreement on Government Procurement of 
+        the World Trade Organization (WTO);
+            (2) the Government of the United States should ensure that 
+        the Government of the People's Republic of China meets its WTO 
+        obligations as recently affirmed through its commitment in July 
+        2005 through the U.S.-China Joint Committee on Commerce and 
+        Trade, to join the WTO Agreement on Government Procurement;
+            (3) the Government of the United States should seek a 
+        commitment from the Government of the People's Republic of 
+        China to maintain its suspension of the implementation of its 
+        law on government procurement, pending the conclusion of 
+        negotiations to accede to the Agreement on Government 
+        Procurement of the WTO;
+            (4) the Government of the United States should seek 
+        commitments from the Government of the People's Republic of 
+        China and other countries that are not yet members of the 
+        Agreement on Government Procurement of the WTO to implement the 
+        principles of openness, transparency, fair competition based on 
+        merit, nondiscrimination, and accountability in their 
+        government procurement as embodied in that agreement; and
+            (5) the President should direct all appropriate officials 
+        of the United States to raise these concerns
+with appropriate officials of the People's Republic of China and other 
+trading partners.
+
+            Passed the House of Representatives July 27, 2005.
+
+            Attest:
+
+                                                 JEFF TRANDAHL,
+
+                                                                 Clerk.

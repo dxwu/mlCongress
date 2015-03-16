@@ -1,0 +1,323 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 6140 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 6140
+
+   To require the identification of companies that conduct business 
+  operations in Sudan, to prohibit United States Government contracts 
+              with such companies, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 21, 2006
+
+ Ms. Lee (for herself, Ms. Pelosi, Mr. Lantos, Mr. Rangel, Mr. Honda, 
+Mr. Olver, Mr. McDermott, Ms. Norton, Ms. Waters, Mrs. Christensen, Mr. 
+Serrano, Mr. Davis of Illinois, Ms. Kilpatrick of Michigan, Mr. Owens, 
+Ms. Millender-McDonald, Mr. Cummings, Mr. Meeks of New York, Mr. Watt, 
+Mr. Conyers, Mr. Fattah, Mr. Payne, Mr. Meehan, Mr. Blumenauer, Mr. Al 
+Green of Texas, Mr. Van Hollen, Ms. Carson, Mr. Stark, Ms. Jackson-Lee 
+     of Texas, Mr. Rothman, Mr. Berman, Mr. Weiner, Mrs. Davis of 
+ California, Ms. Linda T. Sanchez of California, Mr. Meek of Florida, 
+ Mr. Kennedy of Rhode Island, Ms. Schakowsky, Mr. Jefferson, Ms. Eddie 
+  Bernice Johnson of Texas, Mr. Moran of Virginia, Mr. Price of North 
+     Carolina, Ms. DeLauro, Mr. Lewis of Georgia, Mr. Thompson of 
+  Mississippi, Mr. Clyburn, Ms. Moore of Wisconsin, Mr. Kucinich, Ms. 
+Solis, Mr. Hinchey, Mr. Wexler, Mr. McGovern, Mr. Engel, Mr. Delahunt, 
+  Mr. Grijalva, Mr. Capuano, and Ms. Watson) introduced the following 
+bill; which was referred to the Committee on Financial Services, and in 
+  addition to the Committee on Government Reform, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To require the identification of companies that conduct business 
+  operations in Sudan, to prohibit United States Government contracts 
+              with such companies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Darfur Accountability and Divestment 
+Act of 2006''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) In the 108th Congress, the House of Representatives 
+        adopted House Concurrent Resolution 467 on July 22, 2004, by a 
+        unanimous vote of 422-0, which--
+                    (A) declares that the atrocities unfolding in the 
+                Darfur region of Sudan, are genocide;
+                    (B) declares that the Government of Sudan has 
+                violated the Convention on the Prevention and 
+                Punishment of the Crime of Genocide;
+                    (C) urges the Administration to seriously consider 
+                multilateral intervention to stop genocide in Darfur 
+                should the United Nations Security Council fail to act; 
+                and
+                    (D) calls on the Administration to impose targeted 
+                sanctions, including visa bans and the freezing of 
+                assets of the Sudanese National Congress and affiliated 
+                business and individuals directly responsible for the 
+                atrocities in Darfur.
+            (2) In the 109th Congress, the House of Representatives 
+        passed H.R. 3127, the Darfur Peace and Accountability Act of 
+        2006, on April 5, 2006, by a vote of 416-3, which--
+                    (A) appeals to the international community, 
+                including the United Nations, the European Union, and 
+                the North Atlantic Treaty Organization (NATO), to 
+                immediately mobilize sufficient political, military, 
+                and financial resources to support and expand the 
+                African Union Mission in Sudan (AMIS);
+                    (B) blocks assets and restricts travel of any 
+                individual the President determines is responsible for 
+                acts of genocide, war crimes, or crimes against 
+                humanity in the Darfur region of Sudan; and
+                    (C) offers United States support for the 
+                International Criminal Court's efforts to prosecute 
+                those responsible for acts of genocide in Darfur.
+            (3) On September 9, 2004, former Secretary of State Colin 
+        Powell stated before the Committee on Foreign Relations of the 
+        Senate that genocide was being committed in the Darfur region 
+        of Sudan and that the Government of Sudan and the government-
+        supported Janjaweed militias bear responsibility for the 
+        genocide.
+            (4) On September 21, 2004, President George W. Bush 
+        affirmed the Secretary of State's finding in an address before 
+        the United Nations General Assembly, stating that the world is 
+        witnessing terrible suffering and horrible crimes in the Darfur 
+        region of Sudan, crimes the Government of the United States has 
+        concluded are genocide.
+            (5) Although the Government of the United States currently 
+        bans United States companies from conducting business 
+        operations in Sudan, millions of Americans are inadvertently 
+        supporting the Government of Sudan by investing in foreign 
+        companies that conduct business operations in Sudan that 
+        disproportionately benefit the Sudanese regime in Khartoum.
+            (6) Illinois, New Jersey, Oregon, and Maine have passed 
+        legislation mandating divestment of State funds from companies 
+        that conduct business operations in Sudan. California, 
+        Massachusetts, Rhode Island, North Carolina, Kansas, Wisconsin, 
+        Indiana, Georgia, Maryland, New York, Iowa, and Texas have 
+        considered or are considering legislation to divest State funds 
+        from companies that conduct business operations in Sudan. 
+        Connecticut, Ohio, and Vermont have passed non-binding 
+        divestment legislation with respect to Sudan. Arizona, 
+        Louisiana, Missouri, and Pennsylvania have adopted screening 
+        processes for investments in companies that conduct business 
+        operations in countries that are sponsors of terrorism, 
+        including Sudan.
+            (7) Providence, Rhode Island and New Haven, Connecticut 
+        have passed legislation mandating divestment of city funds from 
+        companies that conduct business operations in Sudan.
+            (8) Amherst, Boston University, Brandeis, Brown, Columbia, 
+        Dartmouth, Harvard, Middlebury, Oberlin, Princeton, the 
+        Reconstructionist Rabbinical College, Samford, Simmons, Smith, 
+        Stanford, Trinity, the University of California, the University 
+        of Maryland, the University of Pennsylvania, the University of 
+        Southern California, the University of Vermont, the University 
+        of Washington, Williams, and Yale have divested their funds 
+        from, or placed restrictions on investment of their funds in, 
+        certain companies that conduct business operations in Sudan.
+            (9) No American should have to worry that his or her 
+        investments or pension money was earned in support of genocide.
+            (10) Divestment has proven effective in similar situations, 
+        as in 1986, when State pension funds and university endowments 
+        were divested from companies that conducted business operations 
+        in South Africa, which was critical to ending apartheid in that 
+        country, and by 1994, when the first free elections in South 
+        Africa took place, a substantial number of States, counties, 
+        cities, universities and colleges in the United States had 
+        adopted partial or total divestment policies.
+            (11) The only type of pressure shown to be effective 
+        against Sudan is economic pressure against the Government of 
+        Sudan, such as the imposition of sanctions and divestment. 
+        Sudan has cooperated with the United States on counterterrorism 
+        efforts due to United States sanctions imposed on Sudan in 1997 
+        and Sudan agreed to negotiations with the Sudan People's 
+        Liberation Army of South Sudan that resulted in the 
+        Comprehensive Peace Agreement of 2005 due in part to a 
+        successful divestment campaign against Talisman Energy, 
+        Incorporated of Canada.
+            (12) Congress acknowledges that divestment should be used 
+        sparingly and under extraordinary circumstances. This Act is 
+        based on unique circumstances, specifically, the reprehensible 
+        and abhorrent genocide occurring in Sudan.
+            (13) The business operations of companies in countries that 
+        perpetrate grave abuses of human rights, especially the 
+        uniquely monstrous crime of genocide, are of material financial 
+        concern to United States investors even when these operations 
+        represent a small fraction of a company's total business.
+            (14) State and city pension funds have routinely but 
+        unsuccessfully sought to acquire and utilize data from the 
+        Federal Government on companies for investment decisions.
+            (15) The deteriorating security situation in the Darfur 
+        region of Sudan indicates that the people of Darfur cannot wait 
+        long for security to be reestablished.
+
+SEC. 3. STATEMENT OF POLICY.
+
+    Congress recognizes and supports--
+            (1) States and cities that have divested or are in the 
+        process of divesting State and city funds from companies that 
+        conduct business operations in Sudan; and
+            (2) United States colleges and universities that have 
+        divested their funds from, or placed restrictions on 
+        investments of their funds in, companies that conduct business 
+        operations in Sudan.
+
+SEC. 4. IDENTIFICATION OF COMPANIES CONDUCTING BUSINESS OPERATIONS IN 
+              SUDAN.
+
+    (a) Identification.--The Securities and Exchange Commission, acting 
+through the Division of Corporation Finance, shall require all 
+companies trading in securities that are registered under section 12 of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78l) which, either 
+directly or through a parent or subsidiary company, including partly-
+owned subsidiaries, conduct business operations in Sudan to disclose 
+the nature of their business operations in Sudan, including--
+            (1) the existence and nature of business relationships and 
+        investments with national, regional, and local governments;
+            (2) business activities with government or government-
+        controlled entities;
+            (3) business operations relating to the sale of military 
+        equipment or inherently ``dual-use'' technology, such as 
+        civilian radar systems;
+            (4) business operations relating to natural resource 
+        extraction, including oil-related activities and mining of 
+        minerals; and
+            (5) safeguards to ensure business operations do not become 
+        indirectly involved in the terrorist-sponsoring or genocidal 
+        policies of the Government of Sudan.
+    (b) Investigation by Government Accountability Office.--The 
+Comptroller General of the Government Accountability Office shall 
+investigate the existence and extent of all Federal Retirement Thrift 
+Investment Board investments in companies identified pursuant to 
+subsection (a).
+    (c) Reports.--
+            (1) SEC report.--Not later than 90 days after the date of 
+        the enactment of this Act, and annually thereafter, the 
+        Securities and Exchange Commission shall prepare and submit to 
+        Congress a report that contains the names of the companies and 
+        a description of their business operations identified under 
+        subsection (a).
+            (2) GAO report.--Not later than 180 days after the date of 
+        the enactment of this Act, and annually thereafter, the 
+        Comptroller General of the Government Accountability Office 
+        shall prepare and submit to Congress a report that contains the 
+        names of the companies and a description of the amount of 
+        Federal Retirement Thrift Investment Board investments in such 
+        companies identified under subsection (b).
+    (d) Publication on Websites.--
+            (1) SEC website.--The Securities and Exchange Commission 
+        shall maintain a list of the names of the companies identified 
+        under subsection (a) on the website of the Securities and 
+        Exchange Commission.
+            (2) GAO website.--The Comptroller General of the Government 
+        Accountability Office shall maintain a list of the names of the 
+        companies identified under subsection (b) on the website of the 
+        Government Accountability Office.
+
+SEC. 5. PROHIBITION ON UNITED STATES GOVERNMENT CONTRACTS.
+
+    (a) Prohibition.--Notwithstanding any other provision of law, the 
+Government of the United States shall not enter into or renew a 
+contract for the procurement of goods or services with any company 
+identified under section 4(a).
+    (b) Exception.--The prohibition in subsection (a) shall not apply 
+with respect to a company identified under section 4(a) whose business 
+operations in Sudan are limited to activities or transactions relating 
+to--
+            (1) southern Sudan, southern Kordofan/Nuba Mountains State, 
+        Blue Nile State, or Abyei;
+            (2) the implementation of the Darfur Peace Agreement of May 
+        5, 2006;
+            (3) the provision of military equipment to be used by 
+        nongovernmental organizations in the Darfur region of Sudan, 
+        the African Union Mission in Sudan (AMIS), or the United 
+        Nations; or
+            (4) the provision of humanitarian assistance that is of 
+        immediate and substantial benefit to--
+                    (A) the majority of people of the Darfur region of 
+                Sudan; or
+                    (B) the majority of people of eastern Sudan, 
+                including the Red Sea, Kassala, and Gedaref States.
+    (c) Waiver.--The President may waive the prohibition in subsection 
+(a) on a case-by-case basis if the President determines and certifies 
+in writing to Congress that it is important to the national security 
+interests of the United States to do so.
+
+SEC. 6. RULE OF CONSTRUCTION.
+
+    Nothing in this Act or any other provision of law shall be 
+construed to preempt any State law that prohibits investment of State 
+funds, including State pension funds, in or relating to Sudan.
+
+SEC. 7. DEFINITIONS.
+
+    In this Act:
+            (1) Business operations.--The term ``business operations'' 
+        means maintaining, selling, or leasing equipment, facilities, 
+        personnel, or any other apparatus of business or commerce, 
+        including the ownership or possession of real or personal 
+        property.
+            (2) Company.--The term ``company''--
+                    (A) means a sole proprietorship, organization, 
+                association, corporation, partnership, venture, or 
+                other entity, its subsidiary or affiliate that exists 
+                for profit-making purposes or to otherwise secure 
+                economic advantage; and
+                    (B) includes a company owned or controlled, either 
+                directly or indirectly, by the government of a foreign 
+                country, that is established or organized under the 
+                laws of, or has its principal place of business in, 
+                such foreign country.
+            (3) Government of sudan.--The term ``Government of Sudan'' 
+        means the Government of Sudan located in Khartoum or its 
+        instrumentalities.
+            (4) Investment.--The term ``investment'' means the 
+        purchase, ownership, or control of stock of a company, 
+        association, or corporation, the capital stock of a mutual 
+        water company or corporation, bonds issued by the government or 
+        a political subdivision of a foreign country, corporate bonds 
+        or other debt instruments issued by a company, or the 
+        commitment of funds or other assets to a company, including a 
+        loan or extension of credit to that company.
+            (5) Military equipment.--The term ``military equipment'' 
+        means weapons, arms, or military defense supplies.
+            (6) Oil-related activities.--The term ``oil-related 
+        activities'' includes the export of oil, extracting or 
+        producing oil, exploration for oil, or the construction or 
+        maintenance of a pipeline, refinery, or other oil field 
+        infrastructure.
+            (7) Sudan.--The term ``Sudan'' means the Republic of Sudan, 
+        a territory under the administration or control of the 
+        Government of Sudan, including the Darfur region, or an 
+        individual, company, or public agency located in Khartoum, 
+        northern Sudan, or the Nile River Valley that supports the 
+        Republic of the Sudan.
+                                 <all>

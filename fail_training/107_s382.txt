@@ -1,0 +1,623 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 382 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                 S. 382
+
+  To prohibit discrimination on the basis of genetic information with 
+                      respect to health insurance.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 15, 2001
+
+   Ms. Snowe (for herself, Mr. Frist, Mr. Jeffords, Ms. Collins, Mr. 
+  DeWine, and Mr. Enzi) introduced the following bill; which was read 
+ twice and referred to the Committee on Health, Education, Labor, and 
+                                Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To prohibit discrimination on the basis of genetic information with 
+                      respect to health insurance.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Genetic Information 
+Nondiscrimination in Health Insurance Act of 2001''.
+
+SEC. 2. AMENDMENTS TO EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974.
+
+    (a) Prohibition of Health Discrimination on the Basis of Genetic 
+Information or Genetic Services.--
+            (1) No enrollment restriction for genetic services.--
+        Section 702(a)(1)(F) of the Employee Retirement Income Security 
+        Act of 1974 (29 U.S.C. 1182(a)(1)(F)) is amended by inserting 
+        before the period the following: ``(including information about 
+        a request for or receipt of genetic services)''.
+            (2) No discrimination in group premiums based on predictive 
+        genetic information.--Subpart B of part 7 of subtitle B of 
+        title I of the Employee Retirement Income Security Act of 1974 
+        (29 U.S.C. 1185 et seq.) is amended by adding at the end the 
+        following:
+
+``SEC. 714. PROHIBITING PREMIUM DISCRIMINATION AGAINST GROUPS ON THE 
+              BASIS OF PREDICTIVE GENETIC INFORMATION.
+
+    ``A group health plan, or a health insurance issuer offering group 
+health insurance coverage in connection with a group health plan, shall 
+not adjust premium or contribution amounts for a group on the basis of 
+predictive genetic information concerning an individual in the group or 
+a family member of the individual (including information about a 
+request for or receipt of genetic services).''.
+            (3) Conforming amendments.--
+                    (A) In general.--Section 702(b) of the Employee 
+                Retirement Income Security Act of 1974 (29 U.S.C. 
+                1182(b)) is amended by adding at the end the following:
+            ``(3) Reference to related provision.--For a provision 
+        prohibiting the adjustment of premium or contribution amounts 
+        for a group under a group health plan on the basis of 
+        predictive genetic information (including information about a 
+        request for or receipt of genetic services), see section 
+        714.''.
+                    (B) Table of contents.--The table of contents in 
+                section 1 of the Employee Retirement Income Security 
+                Act of 1974 is amended by inserting after the item 
+                relating to section 713 the following new item:
+
+``Sec. 714. Prohibiting premium discrimination against groups on the 
+                            basis of predictive genetic information.''.
+    (b) Limitation on Collection of Predictive Genetic Information.--
+Section 702 of the Employee Retirement Income Security Act of 1974 (29 
+U.S.C. 1182) is amended by adding at the end the following:
+    ``(c) Collection of Predictive Genetic Information.--
+            ``(1) Limitation on requesting or requiring predictive 
+        genetic information.--Except as provided in paragraph (2), a 
+        group health plan, or a health insurance issuer offering health 
+        insurance coverage in connection with a group health plan, 
+        shall not request or require predictive genetic information 
+        concerning an individual or a family member of the individual 
+        (including information about a request for or receipt of 
+        genetic services).
+            ``(2) Information needed for diagnosis, treatment, or 
+        payment.--
+                    ``(A) In general.--Notwithstanding paragraph (1), a 
+                group health plan, or a health insurance issuer 
+                offering health insurance coverage in connection with a 
+                group health plan, that provides health care items and 
+                services to an individual or dependent may request (but 
+                may not require) that such individual or dependent 
+                disclose, or authorize the collection or disclosure of, 
+                predictive genetic information for purposes of 
+                diagnosis, treatment, or payment relating to the 
+                provision of health care items and services to such 
+                individual or dependent.
+                    ``(B) Notice of confidentiality practices and 
+                description of safeguards.--As a part of a request 
+                under subparagraph (A), the group health plan, or a 
+                health insurance issuer offering health insurance 
+                coverage in connection with a group health plan, shall 
+                provide to the individual or dependent a description of 
+                the procedures in place to safeguard the 
+                confidentiality, as described in subsection (d), of 
+                such predictive genetic information.
+    ``(d) Confidentiality With Respect to Predictive Genetic 
+Information.--
+            ``(1) Notice of confidentiality practices.--A group health 
+        plan, or a health insurance issuer offering health insurance 
+        coverage in connection with a group health plan, shall post or 
+        provide, in writing and in a clear and conspicuous manner, 
+        notice of the plan or issuer's confidentiality practices, that 
+        shall include--
+                    ``(A) a description of an individual's rights with 
+                respect to predictive genetic information;
+                    ``(B) the procedures established by the plan or 
+                issuer for the exercise of the individual's rights; and
+                    ``(C) the right to obtain a copy of the notice of 
+                the confidentiality practices required under this 
+                subsection.
+            ``(2) Establishment of safeguards.--A group health plan, or 
+        a health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall establish and 
+        maintain appropriate administrative, technical, and physical 
+        safeguards to protect the confidentiality, security, accuracy, 
+        and integrity of predictive genetic information created, 
+        received, obtained, maintained, used, transmitted, or disposed 
+        of by such plan or issuer.
+            ``(3) Compliance with certain standards.--With respect to 
+        the establishment and maintenance of safeguards under this 
+        subsection or subsection (c)(2)(B), a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall be deemed to be in 
+        compliance with such subsections if such plan or issuer is in 
+        compliance with the standards promulgated by the Secretary of 
+        Health and Human Services under--
+                    ``(A) part C of title XI of the Social Security Act 
+                (42 U.S.C. 1320d et seq.); or
+                    ``(B) section 264(c) of Health Insurance 
+                Portability and Accountability Act of 1996 (Public Law 
+                104-191; 110 Stat. 2033).''.
+    (c) Definitions.--Section 733(d) of the Employee Retirement Income 
+Security Act of 1974 (29 U.S.C. 1191b(d)) is amended by adding at the 
+end the following:
+            ``(5) Family member.--The term `family member' means with 
+        respect to an individual--
+                    ``(A) the spouse of the individual;
+                    ``(B) a dependent child of the individual, 
+                including a child who is born to or placed for adoption 
+                with the individual; and
+                    ``(C) all other individuals related by blood to the 
+                individual or the spouse or child described in 
+                subparagraph (A) or (B).
+            ``(6) Genetic information.--The term `genetic information' 
+        means information about genes, gene products, or inherited 
+        characteristics that may derive from an individual or a family 
+        member (including information about a request for or receipt of 
+        genetic services).
+            ``(7) Genetic services.--The term `genetic services' means 
+        health services provided to obtain, assess, or interpret 
+        genetic information for diagnostic and therapeutic purposes, 
+        and for genetic education and counseling.
+            ``(8) Predictive genetic information.--
+                    ``(A) In general.--The term `predictive genetic 
+                information' means, in the absence of symptoms, 
+                clinical signs, or a diagnosis of the condition related 
+                to such information--
+                            ``(i) information about an individual's 
+                        genetic tests;
+                            ``(ii) information about genetic tests of 
+                        family members of the individual; or
+                            ``(iii) information about the occurrence of 
+                        a disease or disorder in family members.
+                    ``(B) Exceptions.--The term `predictive genetic 
+                information' shall not include--
+                            ``(i) information about the sex or age of 
+                        the individual;
+                            ``(ii) information derived from physical 
+                        tests, such as the chemical, blood, or urine 
+                        analyses of the individual including 
+                        cholesterol tests; and
+                            ``(iii) information about physical exams of 
+                        the individual.
+            ``(9) Genetic test.--The term `genetic test' means the 
+        analysis of human DNA, RNA, chromosomes, proteins, and certain 
+        metabolites, including analysis of genotypes, mutations, 
+        phenotypes, or karyotypes, for the purpose of predicting risk 
+        of disease in asymptomatic or undiagnosed individuals. Such 
+        term does not include physical tests, such as the chemical, 
+        blood, or urine analyses of the individual including 
+        cholesterol tests, and physical exams of the individual, in 
+        order to detect symptoms, clinical signs, or a diagnosis of 
+        disease.''.
+    (d) Effective Date.--Except as provided in this section, this 
+section and the amendments made by this section shall apply with 
+respect to group health plans for plan years beginning 1 year after the 
+date of the enactment of this Act.
+
+SEC. 3. AMENDMENTS TO THE PUBLIC HEALTH SERVICE ACT.
+
+    (a) Amendments Relating to the Group Market.--
+            (1) Prohibition of health discrimination on the basis of 
+        genetic information in the group market.--
+                    (A) No enrollment restriction for genetic 
+                services.--Section 2702(a)(1)(F) of the Public Health 
+                Service Act (42 U.S.C. 300gg-1(a)(1)(F)) is amended by 
+                inserting before the period the following: ``(including 
+                information about a request for or receipt of genetic 
+                services)''.
+                    (B) No discrimination in premiums based on 
+                predictive genetic information.--Subpart 2 of part A of 
+                title XXVII of the Public Health Service Act (42 U.S.C. 
+                300gg-4 et seq.) is amended by adding at the end the 
+                following new section:
+
+``SEC. 2707. PROHIBITING PREMIUM DISCRIMINATION AGAINST GROUPS ON THE 
+              BASIS OF PREDICTIVE GENETIC INFORMATION IN THE GROUP 
+              MARKET.
+
+    ``A group health plan, or a health insurance issuer offering group 
+health insurance coverage in connection with a group health plan shall 
+not adjust premium or contribution amounts for a group on the basis of 
+predictive genetic information concerning an individual in the group or 
+a family member of the individual (including information about a 
+request for or receipt of genetic services).''.
+                    (C) Conforming amendment.--Section 2702(b) of the 
+                Public Health Service Act (42 U.S.C. 300gg-1(b)) is 
+                amended by adding at the end the following:
+            ``(3) Reference to related provision.--For a provision 
+        prohibiting the adjustment of premium or contribution amounts 
+        for a group under a group health plan on the basis of 
+        predictive genetic information (including information about a 
+        request for or receipt of genetic services), see section 
+        2707.''.
+                    (D) Limitation on collection and disclosure of 
+                predictive genetic information.--Section 2702 of the 
+                Public Health Service Act (42 U.S.C. 300gg-1) is 
+                amended by adding at the end the following:
+    ``(c) Collection of Predictive Genetic Information.--
+            ``(1) Limitation on requesting or requiring predictive 
+        genetic information.--Except as provided in paragraph (2), a 
+        group health plan, or a health insurance issuer offering health 
+        insurance coverage in connection with a group health plan, 
+        shall not request or require predictive genetic information 
+        concerning an individual or a family member of the individual 
+        (including information about a request for or receipt of 
+        genetic services).
+            ``(2) Information needed for diagnosis, treatment, or 
+        payment.--
+                    ``(A) In general.--Notwithstanding paragraph (1), a 
+                group health plan, or a health insurance issuer 
+                offering health insurance coverage in connection with a 
+                group health plan, that provides health care items and 
+                services to an individual or dependent may request (but 
+                may not require) that such individual or dependent 
+                disclose, or authorize the collection or disclosure of, 
+                predictive genetic information for purposes of 
+                diagnosis, treatment, or payment relating to the 
+                provision of health care items and services to such 
+                individual or dependent.
+                    ``(B) Notice of confidentiality practices and 
+                description of safeguards.--As a part of a request 
+                under subparagraph (A), the group health plan, or a 
+                health insurance issuer offering health insurance 
+                coverage in connection with a group health plan, shall 
+                provide to the individual or dependent a description of 
+                the procedures in place to safeguard the 
+                confidentiality, as described in subsection (d), of 
+                such predictive genetic information.
+    ``(d) Confidentiality With Respect to Predictive Genetic 
+Information.--
+            ``(1) Notice of confidentiality practices.--A group health 
+        plan, or a health insurance issuer offering health insurance 
+        coverage in connection with a group health plan, shall post or 
+        provide, in writing and in a clear and conspicuous manner, 
+        notice of the plan or issuer's confidentiality practices, that 
+        shall include--
+                    ``(A) a description of an individual's rights with 
+                respect to predictive genetic information;
+                    ``(B) the procedures established by the plan or 
+                issuer for the exercise of the individual's rights; and
+                    ``(C) the right to obtain a copy of the notice of 
+                the confidentiality practices required under this 
+                subsection.
+            ``(2) Establishment of safeguards.--A group health plan, or 
+        a health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall establish and 
+        maintain appropriate administrative, technical, and physical 
+        safeguards to protect the confidentiality, security, accuracy, 
+        and integrity of predictive genetic information created, 
+        received, obtained, maintained, used, transmitted, or disposed 
+        of by such plan or issuer.
+            ``(3) Compliance with certain standards.--With respect to 
+        the establishment and maintenance of safeguards under this 
+        subsection or subsection (c)(2)(B), a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall be deemed to be in 
+        compliance with such subsections if such plan or issuer is in 
+        compliance with the standards promulgated by the Secretary of 
+        Health and Human Services under--
+                    ``(A) part C of title XI of the Social Security Act 
+                (42 U.S.C. 1320d et seq.); or
+                    ``(B) section 264(c) of Health Insurance 
+                Portability and Accountability Act of 1996 (Public Law 
+                104-191; 110 Stat. 2033).''.
+            (2) Definitions.--Section 2791(d) of the Public Health 
+        Service Act (42 U.S.C. 300gg-91(d)) is amended by adding at the 
+        end the following:
+            ``(15) Family member.--The term `family member' means, with 
+        respect to an individual--
+                    ``(A) the spouse of the individual;
+                    ``(B) a dependent child of the individual, 
+                including a child who is born to or placed for adoption 
+                with the individual; and
+                    ``(C) all other individuals related by blood to the 
+                individual or the spouse or child described in 
+                subparagraph (A) or (B).
+            ``(16) Genetic information.--The term `genetic information' 
+        means information about genes, gene products, or inherited 
+        characteristics that may derive from an individual or a family 
+        member (including information about a request for or receipt of 
+        genetic services).
+            ``(17) Genetic services.--The term `genetic services' means 
+        health services provided to obtain, assess, or interpret 
+        genetic information for diagnostic and therapeutic purposes, 
+        and for genetic education and counseling.
+            ``(18) Predictive genetic information.--
+                    ``(A) In general.--The term `predictive genetic 
+                information' means, in the absence of symptoms, 
+                clinical signs, or a diagnosis of the condition related 
+                to such information--
+                            ``(i) information about an individual's 
+                        genetic tests;
+                            ``(ii) information about genetic tests of 
+                        family members of the individual; or
+                            ``(iii) information about the occurrence of 
+                        a disease or disorder in family members.
+                    ``(B) Exceptions.--The term `predictive genetic 
+                information' shall not include--
+                            ``(i) information about the sex or age of 
+                        the individual;
+                            ``(ii) information derived from physical 
+                        tests, such as the chemical, blood, or urine 
+                        analyses of the individual including 
+                        cholesterol tests; and
+                            ``(iii) information about physical exams of 
+                        the individual.
+            ``(19) Genetic test.--The term `genetic test' means the 
+        analysis of human DNA, RNA, chromosomes, proteins, and certain 
+        metabolites, including analysis of genotypes, mutations, 
+        phenotypes, or karyotypes, for the purpose of predicting risk 
+        of disease in asymptomatic or undiagnosed individuals. Such 
+        term does not include physical tests, such as the chemical, 
+        blood, or urine analyses of the individual including 
+        cholesterol tests, and physical exams of the individual, in 
+        order to detect symptoms, clinical signs, or a diagnosis of 
+        disease.''.
+    (b) Amendment Relating to the Individual Market.--The first subpart 
+3 of part B of title XXVII of the Public Health Service Act (42 U.S.C. 
+300gg-51 et seq.) (relating to other requirements) is amended--
+            (1) by redesignating such subpart as subpart 2; and
+            (2) by adding at the end the following:
+
+``SEC. 2753. PROHIBITION OF HEALTH DISCRIMINATION ON THE BASIS OF 
+              PREDICTIVE GENETIC INFORMATION.
+
+    ``(a) Prohibition on Predictive Genetic Information as a Condition 
+of Eligibility.--A health insurance issuer offering health insurance 
+coverage in the individual market may not use predictive genetic 
+information as a condition of eligibility of an individual to enroll in 
+individual health insurance coverage (including information about a 
+request for or receipt of genetic services).
+    ``(b) Prohibition on Predictive Genetic Information in Setting 
+Premium Rates.--A health insurance issuer offering health insurance 
+coverage in the individual market shall not adjust premium rates for 
+individuals on the basis of predictive genetic information concerning 
+such an enrollee or a family member of the enrollee (including 
+information about a request for or receipt of genetic services).
+    ``(c) Collection of Predictive Genetic Information.--
+            ``(1) Limitation on requesting or requiring predictive 
+        genetic information.--Except as provided in paragraph (2), a 
+        health insurance issuer offering health insurance coverage in 
+        the individual market shall not request or require predictive 
+        genetic information concerning an individual or a family member 
+        of the individual (including information about a request for or 
+        receipt of genetic services).
+            ``(2) Information needed for diagnosis, treatment, or 
+        payment.--
+                    ``(A) In general.--Notwithstanding paragraph (1), a 
+                health insurance issuer offering health insurance 
+                coverage in the individual market that provides health 
+                care items and services to an individual or dependent 
+                may request (but may not require) that such individual 
+                or dependent disclose, or authorize the collection or 
+                disclosure of, predictive genetic information for 
+                purposes of diagnosis, treatment, or payment relating 
+                to the provision of health care items and services to 
+                such individual or dependent.
+                    ``(B) Notice of confidentiality practices and 
+                description of safeguards.--As a part of a request 
+                under subparagraph (A), the health insurance issuer 
+                offering health insurance coverage in the individual 
+                market shall provide to the individual or dependent a 
+                description of the procedures in place to safeguard the 
+                confidentiality, as described in subsection (d), of 
+                such predictive genetic information.
+    ``(d) Confidentiality With Respect to Predictive Genetic 
+Information.--
+            ``(1) Notice of confidentiality practices.--A health 
+        insurance issuer offering health insurance coverage in the 
+        individual market shall post or provide, in writing and in a 
+        clear and conspicuous manner, notice of the issuer's 
+        confidentiality practices, that shall include--
+                    ``(A) a description of an individual's rights with 
+                respect to predictive genetic information;
+                    ``(B) the procedures established by the issuer for 
+                the exercise of the individual's rights; and
+                    ``(C) the right to obtain a copy of the notice of 
+                the confidentiality practices required under this 
+                subsection.
+            ``(2) Establishment of safeguards.--A health insurance 
+        issuer offering health insurance coverage in the individual 
+        market shall establish and maintain appropriate administrative, 
+        technical, and physical safeguards to protect the 
+        confidentiality, security, accuracy, and integrity of 
+        predictive genetic information created, received, obtained, 
+        maintained, used, transmitted, or disposed of by such issuer.
+            ``(3) Compliance with certain standards.--With respect to 
+        the establishment and maintenance of safeguards under this 
+        subsection or subsection (c)(2)(B), a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall be deemed to be in 
+        compliance with such subsections if such plan or issuer is in 
+        compliance with the standards promulgated by the Secretary of 
+        Health and Human Services under--
+                    ``(A) part C of title XI of the Social Security Act 
+                (42 U.S.C. 1320d et seq.); or
+                    ``(B) section 264(c) of Health Insurance 
+                Portability and Accountability Act of 1996 (Public Law 
+                104-191; 110 Stat. 2033).''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to--
+            (1) group health plans, and health insurance coverage 
+        offered in connection with group health plans, for plan years 
+        beginning after 1 year after the date of enactment of this Act; 
+        and
+            (2) health insurance coverage offered, sold, issued, 
+        renewed, in effect, or operated in the individual market after 
+        1 year after the date of enactment of this Act.
+
+SEC. 4. AMENDMENTS TO THE INTERNAL REVENUE CODE OF 1986.
+
+    (a) Prohibition of Health Discrimination on the Basis of Genetic 
+Information or Genetic Services.--
+            (1) No enrollment restriction for genetic services.--
+        Section 9802(a)(1)(F) of the Internal Revenue Code of 1986 is 
+        amended by inserting before the period the following: 
+        ``(including information about a request for or receipt of 
+        genetic services)''.
+            (2) No discrimination in group premiums based on predictive 
+        genetic information.--
+                    (A) In general.--Subchapter B of chapter 100 of the 
+                Internal Revenue Code of 1986 is amended by adding at 
+                the end the following:
+
+``SEC. 9813. PROHIBITING PREMIUM DISCRIMINATION AGAINST GROUPS ON THE 
+              BASIS OF PREDICTIVE GENETIC INFORMATION.
+
+    ``A group health plan shall not adjust premium or contribution 
+amounts for a group on the basis of predictive genetic information 
+concerning an individual in the group or a family member of the 
+individual (including information about a request for or receipt of 
+genetic services).''.
+                    (B) Conforming amendment.--Section 9802(b) of the 
+                Internal Revenue Code of 1986 is amended by adding at 
+                the end the following:
+            ``(3) Reference to related provision.--For a provision 
+        prohibiting the adjustment of premium or contribution amounts 
+        for a group under a group health plan on the basis of 
+        predictive genetic information (including information about a 
+        request for or the receipt of genetic services), see section 
+        9813.''.
+                    (C) Amendment to table of sections.--The table of 
+                sections for subchapter B of chapter 100 of the 
+                Internal Revenue Code of 1986 is amended by adding at 
+                the end the following:
+
+``Sec. 9813. Prohibiting premium discrimination against groups on the 
+                            basis of predictive genetic information.''.
+    (b) Limitation on Collection of Predictive Genetic Information.--
+Section 9802 of the Internal Revenue Code of 1986 is amended by adding 
+at the end the following:
+    ``(d) Collection of Predictive Genetic Information.--
+            ``(1) Limitation on requesting or requiring predictive 
+        genetic information.--Except as provided in paragraph (2), a 
+        group health plan shall not request or require predictive 
+        genetic information concerning an individual or a family member 
+        of the individual (including information about a request for or 
+        receipt of genetic services).
+            ``(2) Information needed for diagnosis, treatment, or 
+        payment.--
+                    ``(A) In general.--Notwithstanding paragraph (1), a 
+                group health plan that provides health care items and 
+                services to an individual or dependent may request (but 
+                may not require) that such individual or dependent 
+                disclose, or authorize the collection or disclosure of, 
+                predictive genetic information for purposes of 
+                diagnosis, treatment, or payment relating to the 
+                provision of health care items and services to such 
+                individual or dependent.
+                    ``(B) Notice of confidentiality practices; 
+                description of safeguards.--As a part of a request 
+                under subparagraph (A), the group health plan shall 
+                provide to the individual or dependent a description of 
+                the procedures in place to safeguard the 
+                confidentiality, as described in subsection (e), of 
+                such predictive genetic information.
+    ``(e) Confidentiality With Respect to Predictive Genetic 
+Information.--
+            ``(1) Notice of confidentiality practices.--A group health 
+        plan shall post or provide, in writing and in a clear and 
+        conspicuous manner, notice of the plan's confidentiality 
+        practices, that shall include--
+                    ``(A) a description of an individual's rights with 
+                respect to predictive genetic information;
+                    ``(B) the procedures established by the plan for 
+                the exercise of the individual's rights; and
+                    ``(C) the right to obtain a copy of the notice of 
+                the confidentiality practices required under this 
+                subsection.
+            ``(2) Establishment of safeguards.--A group health plan 
+        shall establish and maintain appropriate administrative, 
+        technical, and physical safeguards to protect the 
+        confidentiality, security, accuracy, and integrity of 
+        predictive genetic information created, received, obtained, 
+        maintained, used, transmitted, or disposed of by such plan.
+            ``(3) Compliance with certain standards.--With respect to 
+        the establishment and maintenance of safeguards under this 
+        subsection or subsection (d)(2)(B), a group health plan, or a 
+        health insurance issuer offering health insurance coverage in 
+        connection with a group health plan, shall be deemed to be in 
+        compliance with such subsections if such plan or issuer is in 
+        compliance with the standards promulgated by the Secretary of 
+        Health and Human Services under--
+                    ``(A) part C of title XI of the Social Security Act 
+                (42 U.S.C. 1320d et seq.); or
+                    ``(B) section 264(c) of Health Insurance 
+                Portability and Accountability Act of 1996 (Public Law 
+                104-191; 110 Stat. 2033).''.
+    (c) Definitions.--Section 9832(d) of the Internal Revenue Code of 
+1986 is amended by adding at the end the following:
+            ``(6) Family member.--The term `family member' means, with 
+        respect to an individual--
+                    ``(A) the spouse of the individual;
+                    ``(B) a dependent child of the individual, 
+                including a child who is born to or placed for adoption 
+                with the individual; and
+                    ``(C) all other individuals related by blood to the 
+                individual or the spouse or child described in 
+                subparagraph (A) or (B).
+            ``(7) Genetic information.--The term `genetic information' 
+        means information about genes, gene products, or inherited 
+        characteristics that may derive from an individual or a family 
+        member (including information about a request for or receipt of 
+        genetic services).
+            ``(8) Genetic services.--The term `genetic services' means 
+        health services provided to obtain, assess, or interpret 
+        genetic information for diagnostic and therapeutic purposes, 
+        and for genetic education and counseling.
+            ``(9) Predictive genetic information.--
+                    ``(A) In general.--The term `predictive genetic 
+                information' means, in the absence of symptoms, 
+                clinical signs, or a diagnosis of the condition related 
+                to such information--
+                            ``(i) information about an individual's 
+                        genetic tests;
+                            ``(ii) information about genetic tests of 
+                        family members of the individual; or
+                            ``(iii) information about the occurrence of 
+                        a disease or disorder in family members.
+                    ``(B) Exceptions.--The term `predictive genetic 
+                information' shall not include--
+                            ``(i) information about the sex or age of 
+                        the individual;
+                            ``(ii) information derived from physical 
+                        tests, such as the chemical, blood, or urine 
+                        analyses of the individual including 
+                        cholesterol tests; and
+                            ``(iii) information about physical exams of 
+                        the individual.
+            ``(10) Genetic test.--The term `genetic test' means the 
+        analysis of human DNA, RNA, chromosomes, proteins, and certain 
+        metabolites, including analysis of genotypes, mutations, 
+        phenotypes, or karyotypes, for the purpose of predicting risk 
+        of disease in asymptomatic or undiagnosed individuals. Such 
+        term does not include physical tests, such as the chemical, 
+        blood, or urine analyses of the individual including 
+        cholesterol tests, and physical exams of the individual, in 
+        order to detect symptoms, clinical signs, or a diagnosis of 
+        disease.''.
+    (d) Effective Date.--Except as provided in this section, this 
+section and the amendments made by this section shall apply with 
+respect to group health plans for plan years beginning after 1 year 
+after the date of the enactment of this Act.
+                                 <all>

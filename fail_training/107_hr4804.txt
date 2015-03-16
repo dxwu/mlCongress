@@ -1,0 +1,97 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4804 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 4804
+
+To amend the Internal Revenue Code of 1986 to provide additional choice 
+   regarding unused health benefits in cafeteria plans and flexible 
+                         spending arrangements.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 22, 2002
+
+Mr. DeMint (for himself and Mr. Phelps) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to provide additional choice 
+   regarding unused health benefits in cafeteria plans and flexible 
+                         spending arrangements.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. DISPOSITION OF UNUSED HEALTH BENEFITS IN CAFETERIA PLANS AND 
+              FLEXIBLE SPENDING ARRANGEMENTS.
+
+    (a) In General.--Section 125 of the Internal Revenue Code of 1986 
+(relating to cafeteria plans) is amended by redesignating subsections 
+(h) and (i) as subsections (i) and (j), respectively, and by inserting 
+after subsection (g) the following:
+    ``(h) Carryforwards or Payments of Certain Unused Health 
+Benefits.--
+            ``(1) In general.--For purposes of this title, a plan or 
+        other arrangement shall not fail to be treated as a cafeteria 
+        plan solely because qualified benefits under such plan include 
+        a health flexible spending arrangement under which not more 
+        than $500 of unused health benefits may be--
+                    ``(A) carried forward to the succeeding plan year 
+                of such health flexible spending arrangement, or
+                    ``(B) paid to or on behalf of an employee as 
+                compensation as of the end of such plan year or upon 
+                the termination of, or failure to re-enroll in, such 
+                plan or arrangement.
+            ``(2) Distribution of unused health benefits on behalf of 
+        employee.--For purposes of paragraph (1)(B), unused health 
+        benefits paid as compensation on behalf of an employee by the 
+        employer shall be--
+                    ``(A) includible in gross income and wages of the 
+                employee, whether or not a deduction for such payment 
+                is allowable under this title to the employee, and
+                    ``(B) excludable from--
+                            ``(i) gross income to the extent provided 
+                        under section 402(e), 457(a) (with respect to 
+                        contributions to an eligible deferred 
+                        compensation plan (as defined in section 
+                        457(b)) of an eligible employer described in 
+                        section 457(e)(1)(A)), or 220, and
+                            ``(ii) wages to the extent otherwise 
+                        provided for amounts so excludable.
+            ``(3) Health flexible spending arrangement.--For purposes 
+        of this subsection, the term `health flexible spending 
+        arrangement' means a flexible spending arrangement (as defined 
+        in section 106(c)) that is a qualified benefit and only permits 
+        reimbursement for expenses for medical care (as defined in 
+        section 213(d)(1) (without regard to subparagraphs (C) and (D) 
+        thereof).
+            ``(4) Unused health benefits.--For purposes of this 
+        subsection, the term `unused health benefits' means the excess 
+        of--
+                    ``(A) the maximum amount of reimbursement allowable 
+                during a plan year under a health flexible spending 
+                arrangement, over
+                    ``(B) the actual amount of reimbursement during 
+                such year under such arrangement.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to taxable years beginning after December 31, 2003.
+                                 <all>

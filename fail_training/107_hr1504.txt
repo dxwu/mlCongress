@@ -1,0 +1,451 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 1504 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 1504
+
+ To amend the Internal Revenue Code of 1986 to allow a credit against 
+    income tax for research related to developing vaccines against 
+ widespread diseases and ensure that such vaccines are affordable and 
+                          widely distributed.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 4, 2001
+
+  Ms. Pelosi (for herself, Ms. Dunn, Mr. Rangel, Mr. McDermott, Mrs. 
+Morella, Mrs. Christensen, Mr. Foley, Mr. Lewis of Georgia, Mr. Towns, 
+ Mr. Deutsch, Mr. Serrano, Ms. Woolsey, Mr. Jefferson, Mr. Filner, Mr. 
+McNulty, Ms. Roybal-Allard, Mr. Lantos, Mr. English, Mrs. Thurman, Ms. 
+DeLauro, Ms. Millender-McDonald, and Mr. Wynn) introduced the following 
+  bill; which was referred to the Committee on Ways and Means, and in 
+ addition to the Committees on Energy and Commerce, and International 
+ Relations, for a period to be subsequently determined by the Speaker, 
+ in each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to allow a credit against 
+    income tax for research related to developing vaccines against 
+ widespread diseases and ensure that such vaccines are affordable and 
+                          widely distributed.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Vaccines for the New Millennium Act 
+of 2001''.
+
+SEC. 2. CREDIT FOR MEDICAL RESEARCH RELATED TO DEVELOPING VACCINES 
+              AGAINST WIDESPREAD DISEASES.
+
+    (a) In General.--Subpart D of part IV of subchapter A of chapter 1 
+of the Internal Revenue Code of 1986 (relating to business related 
+credits) is amended by adding at the end the following new section:
+
+``SEC. 45E. CREDIT FOR MEDICAL RESEARCH RELATED TO DEVELOPING VACCINES 
+              AGAINST WIDESPREAD DISEASES.
+
+    ``(a) General Rule.--For purposes of section 38, the vaccine 
+research credit determined under this section for the taxable year is 
+an amount equal to 30 percent of the qualified vaccine research 
+expenses for the taxable year.
+    ``(b) Qualified Vaccine Research Expenses.--For purposes of this 
+section--
+            ``(1) Qualified vaccine research expenses.--
+                    ``(A) In general.--Except as otherwise provided in 
+                this paragraph, the term `qualified vaccine research 
+                expenses' means the amounts which are paid or incurred 
+                by the taxpayer during the taxable year which would be 
+                described in subsection (b) of section 41 if such 
+                subsection were applied with the modifications set 
+                forth in subparagraph (B).
+                    ``(B) Modifications; increased incentive for 
+                contract research payments.--For purposes of 
+                subparagraph (A), subsection (b) of section 41 shall be 
+                applied--
+                            ``(i) by substituting `vaccine research' 
+                        for `qualified research' each place it appears 
+                        in paragraphs (2) and (3) of such subsection, 
+                        and
+                            ``(ii) by substituting `100 percent' for 
+                        `65 percent' in paragraph (3)(A) of such 
+                        subsection.
+                    ``(C) Exclusion for amounts funded by grants, 
+                etc.--The term `qualified vaccine research expenses' 
+                shall not include any amount to the extent such amount 
+                is funded by any grant, contract, or otherwise by 
+                another person (or any governmental entity).
+            ``(2) Vaccine research.--The term `vaccine research' means 
+        research to develop vaccines and microbicides for--
+                    ``(A) malaria,
+                    ``(B) tuberculosis,
+                    ``(C) HIV, or
+                    ``(D) any infectious disease (of a single etiology) 
+                which, according to the World Health Organization, 
+                causes over 1,000,000 human deaths annually.
+    ``(c) Coordination With Credit for Increasing Research 
+Expenditures.--
+            ``(1) In general.--Except as provided in paragraph (2), any 
+        qualified vaccine research expenses for a taxable year to which 
+        an election under this section applies shall not be taken into 
+        account for purposes of determining the credit allowable under 
+        section 41 for such taxable year.
+            ``(2) Expenses included in determining base period research 
+        expenses.--Any qualified vaccine research expenses for any 
+        taxable year which are qualified research expenses (within the 
+        meaning of section 41(b)) shall be taken into account in 
+        determining base period research expenses for purposes of 
+        applying section 41 to subsequent taxable years.
+    ``(d) Special Rules.--
+            ``(1) Limitations on foreign testing.--No credit shall be 
+        allowed under this section with respect to any vaccine research 
+        (other than human clinical testing) conducted outside the 
+        United States.
+            ``(2) Pre-clinical research.--No credit shall be allowed 
+        under this section for pre-clinical research unless such 
+        research is pursuant to a research plan an abstract of which 
+        has been filed with the Secretary before the beginning of such 
+        year. The Secretary, in consultation with the Secretary of 
+        Health and Human Services, shall prescribe regulations 
+        specifying the requirements for such plans and procedures for 
+        filing under this paragraph.
+            ``(3) Certain rules made applicable.--Rules similar to the 
+        rules of paragraphs (1) and (2) of section 41(f) shall apply 
+        for purposes of this section.
+            ``(4) Election.--This section (other than subsection (e)) 
+        shall apply to any taxpayer for any taxable year only if such 
+        taxpayer elects to have this section apply for such taxable 
+        year.
+    ``(e) Credit To Be Refundable for Certain Taxpayers.--
+            ``(1) In general.--In the case of an electing qualified 
+        taxpayer--
+                    ``(A) the credit under this section shall be 
+                determined without regard to section 38(c), and
+                    ``(B) the credit so determined be allowed under 
+                subpart C.
+            ``(2) Electing qualified taxpayer.--For purposes of this 
+        subsection, the term `electing qualified taxpayer' means, with 
+        respect to any taxable year, any domestic C corporation if--
+                    ``(A) the aggregate gross assets of such 
+                corporation throughout such taxable year are 
+                $500,000,000 or less,
+                    ``(B) the net income tax (as defined in section 
+                38(c)) of such corporation is zero for such taxable 
+                year and the 2 preceding taxable year,
+                    ``(C) as of the close of the taxable year, the 
+                corporation is not under the jurisdiction of a court in 
+                a title 11 or similar case (within the meaning of 
+                section 368(a)(3)(A)), and
+                    ``(D) the corporation elects the application of 
+                this subsection for such taxable year.
+            ``(3) Aggregate gross assets.--Aggregate gross assets shall 
+        be determined under section 1202(d).
+            ``(4) Controlled groups.--A corporation shall be treated as 
+        meeting the requirement of paragraph (2)(B) only if each person 
+        who is treated with such corporation as a single employer under 
+        subsections (a) and (b) of section 52 also meets such 
+        requirement.''
+    (b) Inclusion in General Business Credit.--
+            (1) In general.--Section 38(b) of such Code is amended by 
+        striking ``plus'' at the end of paragraph (12), by striking the 
+        period at the end of paragraph (13) and inserting ``, plus'', 
+        and by adding at the end the following new paragraph:
+            ``(14) the vaccine research credit determined under section 
+        45E.''.
+            (2) Transition rule.--Section 39(d) of such Code is amended 
+        by adding at the end the following new paragraph:
+            ``(10) No carryback of section 45e credit before 
+        enactment.--No portion of the unused business credit for any 
+        taxable year which is attributable to the vaccine research 
+        credit determined under section 45E may be carried back to a 
+        taxable year ending before the date of the enactment of section 
+        45E.''.
+    (c) Denial of Double Benefit.--Section 280C of such Code is amended 
+by adding at the end the following new subsection:
+    ``(d) Credit for Qualified Vaccine Research Expenses.--
+            ``(1) In general.--No deduction shall be allowed for that 
+        portion of the qualified vaccine research expenses (as defined 
+        in section 45E(b)) otherwise allowable as a deduction for the 
+        taxable year which is equal to the amount of the credit 
+        determined for such taxable year under section 45E(a).
+            ``(2) Certain rules to apply.--Rules similar to the rules 
+        of paragraphs (2), (3), and (4) of subsection (c) shall apply 
+        for purposes of this subsection.''.
+    (d) Deduction for Unused Portion of Credit.--Section 196(c) of such 
+Code (defining qualified business credits) is amended by striking 
+``and'' at the end of paragraph (8), by striking the period at the end 
+of paragraph (9) and inserting ``, and'', and by adding at the end the 
+following new paragraph:
+            ``(10) the vaccine research credit determined under section 
+        45E(a) (other than such credit determined under the rules of 
+        section 280C(d)(2)).''.
+    (e) Clerical Amendment.--The table of sections for subpart D of 
+part IV of subchapter A of chapter 1 of such Code is amended by adding 
+at the end the following new item:
+
+                              ``Sec. 45E. Credit for medical research 
+                                        related to developing vaccines 
+                                        against widespread diseases.''.
+    (f) Effective Date.--The amendments made by this section shall 
+apply to taxable years ending after the date of the enactment of this 
+Act.
+    (g) Study.--The Institute of Medicine shall conduct a study of the 
+degree to which the credit under section 45E of the Internal Revenue 
+Code of 1986 has stimulated vaccine research. Not later than the date 
+which is 5 years after the date of the enactment of this Act, the 
+Institute of Medicine shall submit to the Congress the results of such 
+study together with any recommendations it may have to improve the 
+effectiveness of such credit has stimulated vaccine research.
+
+SEC. 3. CREDIT FOR CERTAIN SALES OF LIFESAVING VACCINES.
+
+    (a) In General.--Subpart D of part IV of subchapter A of chapter 1 
+of the Internal Revenue Code of 1986 (relating to business related 
+credits) is amended by adding at the end the following new section:
+
+``SEC. 45F. CREDIT FOR CERTAIN SALES OF LIFESAVING VACCINES.
+
+    ``(a) In General.--For purposes of section 38, the lifesaving 
+vaccine sale credit determined under this section with respect to a 
+taxpayer for the taxable year is an amount equal to the amount of 
+qualified vaccine sales for the taxable year.
+    ``(b) Qualified Vaccine Sales.--For purposes of this section--
+            ``(1) In general.--The term `qualified vaccine sales' means 
+        the aggregate amount paid to the taxpayer for a qualified sale.
+            ``(2) Qualified sale.--
+                    ``(A) In general.--The term `qualified sale' means 
+                a sale of a qualified vaccine--
+                            ``(i) to a nonprofit organization or to a 
+                        government of any foreign country (or 
+                        instrumentality of such a government), and
+                            ``(ii) for distribution in a developing 
+                        country.
+                    ``(B) Developing country.--For purposes of this 
+                paragraph, the term `developing country' means a 
+                country which the Secretary determines to be a country 
+                with a lower middle income or less (as such term is 
+                used by the International Bank for Reconstruction and 
+                Development).
+            ``(3) Qualified vaccine.--The term `qualified vaccine' 
+        means any vaccine and microbicide--
+                    ``(A) which is described in section 45E(b)(3)(C), 
+                and
+                    ``(B) which is approved as a new drug after the 
+                date of the enactment of this paragraph by--
+                            ``(i) the Food and Drug Administration,
+                            ``(ii) the World Health Organization, or
+                            ``(iii) the appropriate authority of a 
+                        county included in the list under section 
+                        802(b)(1) of the Federal Food, Drug, and 
+                        Cosmetic Act.
+    ``(c) Limit on Amount of Credit.--The maximum amount of the credit 
+allowable under subsection (a) with respect to a sale shall not exceed 
+the portion of the limitation amount allocated under subsection (d) 
+with respect to such sale.
+    ``(d) National Limitation on Amount of Credits.--
+            ``(1) In general.--Except as provided in paragraph (3), 
+        there is a lifesaving vaccine sale credit for each calendar 
+        year equal to--
+                    ``(A) $100,000,000 for each of years 2002 through 
+                2006, and
+                    ``(B) $125,000,000 for each of years 2007 through 
+                2010.
+            ``(2) Allocation of limitation.--The limitation amount 
+        under paragraph (1) shall be allocated for any calendar year by 
+        the Administrator of the United States Agency for International 
+        Development among organizations with an application approved by 
+        the Administrator. The Administrator shall prescribe the 
+        procedures for applications for an allocation under this 
+        subsection and the factors to be taken into account in making 
+        such allocations. Such applications shall be made at such time 
+        and in such form and manner as the Administrator shall 
+        prescribe and shall include a detailed plan for distribution of 
+        the vaccine.
+            ``(3) Carryover of unused limitation.--If the limitation 
+        amount under paragraph (1) for any calendar year exceeds the 
+        aggregate amount allocated under paragraph (2), such limitation 
+        for the following calendar year shall be increased by the 
+        amount of such excess. No amount may be carried under the 
+        preceding sentence to any calendar year after 2020.
+    ``(e) Special Rules.--For purposes of this section, rules similar 
+to the rules of section 41(f)(2) shall apply.''
+    (b) Inclusion in General Business Credit.--
+            (1) In general.--Section 38(b) of such Code (relating to 
+        current year business credit) is amended by striking ``plus'' 
+        at the end of paragraph (13), by striking the period at the end 
+        of paragraph (14) and inserting ``, plus'', and by adding at 
+        the end the following new paragraph:
+            ``(15) the lifesaving vaccine sale credit determined under 
+        section 45F.''.
+            (2) Transition rule.--Section 39(d) of such Code (relating 
+        to transitional rules) is amended by adding at the end the 
+        following new paragraph:
+            ``(11) No carryback of section 45f credit before 
+        enactment.--No portion of the unused business credit for any 
+        taxable year which is attributable to the lifesaving vaccine 
+        sale credit determined under section 45F may be carried back to 
+        a taxable year ending before the date of the enactment of 
+        section 45F.''.
+    (c) Clerical Amendment.--The table of sections for subpart D of 
+part IV of subchapter A of chapter 1 of such Code is amended by adding 
+at the end the following new item:
+
+                              ``Sec. 45F. Credit for certain sales of 
+                                        lifesaving vaccines.''.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to sales of vaccines after December 31, 2001, in taxable years 
+ending after such date.
+
+SEC. 4. LIFESAVING VACCINE PURCHASE FUND.
+
+    (a) Purpose.--It is the purpose of this section to--
+            (1) create incentives for private sector research into 
+        vaccines for HIV, malaria, tuberculosis, and other major 
+        infectious diseases; and
+            (2) ensure that vaccines for major infectious diseases are 
+        affordable and widely distributed.
+    (b) Definitions.--In this section:
+            (1) Developing country.--The term ``developing country'' 
+        means a country which the International Bank for Reconstruction 
+        and Development (commonly referred to as the `World Bank') 
+        determines to be a country with a lower middle income or less.
+            (2) Eligible vaccine.--The term ``eligible vaccine'' has 
+        the meaning given the term ``qualified vaccine'' in section 
+        45F(b)(3) of the Internal Revenue Code of 1986.
+    (c) Establishment of Fund.--As of the date that the Secretary of 
+the Treasury (in this section referred to as the ``Secretary'') 
+determines that any eligible vaccine is available for purchase, there 
+is established in the Treasury of the United States a fund to be known 
+as the ``Lifesaving Vaccine Purchase Fund'' (in this section referred 
+to as the ``Fund'') consisting of amounts appropriated under subsection 
+(f).
+    (d) Investment of Fund.--Amounts in the Fund shall be invested in 
+accordance with section 9702 of title 31, United States Code, and any 
+interest on, and proceeds from any such investment shall be credited to 
+and become part of the Fund.
+    (e) Use of Fund.--
+            (1) In general.--The Secretary is authorized to expend 
+        amounts in the Fund for purchases of eligible vaccines. Such 
+        vaccines shall be distributed to developing countries.
+            (2) Purchase and distribution of vaccines.--
+            (1) Purchase prices, etc.--Vaccines purchased by the Fund--
+                    (A) shall be made at prices which take into account 
+                the seller's research and development and manufacturing 
+                costs and the desirability of the vaccine purchased, 
+                and
+                    (B) shall be made under a funding formula 
+                establishing a minimum price per dose and minimum 
+                technical requirements and a market test requirement 
+                for the eligible vaccine.
+            (3) Distribution.--Eligible vaccines purchased by the Fund 
+        shall be distributed to developing countries under agreements 
+        between the United States Agency for International Development 
+and international organizations or recipient developing countries that 
+provide for--
+                    (A) consideration of the prevalence of the disease 
+                treated by the eligible vaccine in the recipient 
+                developing country;
+                    (B) consideration of the ability of the recipient 
+                country to effectively and safely deliver the vaccines; 
+                and
+                    (C) a required matching payment by the recipient 
+                developing country based on the per capita income of 
+                the country, in an amount not in excess of 25 percent 
+                of the purchase price paid for such vaccine.
+            (4) Regulations.--The Secretary shall promulgate such 
+        regulations as are necessary to carry out the provisions of 
+        this subsection.
+            (5) Consultation.--The Secretary shall promulgate 
+        regulations under paragraph (4) after extensive consultation 
+        with--
+                    (A) the International Bank for Reconstruction and 
+                Development (commonly referred to as the ``World 
+                Bank'');
+                    (B) the World Health Organization;
+                    (C) the Secretary of Health and Human Services; and
+                    (D) the Lifesaving Vaccine Advisory Commission.
+    (f) Appropriations.--
+            (1) In general.--Subject to paragraph (2), there are 
+        appropriated out of any funds in the Treasury not otherwise 
+        appropriated such sums as may be necessary to carry out the 
+        purposes of the Fund for each of 10 fiscal years beginning with 
+        the first fiscal year after the date that the Secretary 
+        determines that any eligible vaccine is available for purchase 
+        by the Fund.
+            (2) Transfer to fund.--The Secretary shall transfer the 
+        amount appropriated under paragraph (1) for a fiscal year to 
+        the Fund.
+            (3) Availability.--Amounts appropriated under this section 
+        shall remain available until expended.
+
+SEC. 5. SENSES OF CONGRESS.
+
+    It is the sense of Congress that:
+            (1) Manufacturing capacity.--Delivery of vaccines to 
+        developing country populations is often delayed a decade or 
+        more after these products are licensed for use in 
+        industrialized nations. This delay is due partly to inadequate 
+        manufacturing capacity that limits supply of vaccines in the 
+        early years of their distribution. The public sector has a role 
+        to play in ensuring that manufacturing capacity for vaccines 
+        for the priority diseases referred to in section 45E(b)(2) of 
+        the Internal Revenue Code of 1986 (as added by this Act) is 
+        sufficient to secure access to these vaccines simultaneously in 
+        industrialized and developing countries. It is appropriate for 
+        the Federal government to consider a variety of mechanisms in 
+        order to ensure adequate manufacturing capacity to meet this 
+        goal. These mechanisms may include loan programs, accelerated 
+        depreciation, revenue bonds, or infrastructure grants.
+            (2) Distribution of vaccines developed using credit.--Given 
+        the important goal of ensuring that all those in need, in both 
+        industrialized and developing countries, reap the benefits of 
+        any vaccine or microbicide that is developed for HIV, 
+        tuberculosis, or malaria, and acknowledging the importance of 
+        intellectual property rights and the right of corporations and 
+        shareholders of corporations to set prices, retain patent 
+        ownership, and maintain confidentiality of privileged 
+        information, corporations and shareholders of corporations who 
+        elect to take the credit under section 45E of the Internal 
+        Revenue Code of 1986 for research expenses incurred in the 
+        development of a vaccine or microbicide shall certify to the 
+        Secretary of the Treasury that, within 1 year after that 
+        vaccine or microbicide is first licensed, such corporation will 
+        establish a plan to maximize distribution of such vaccine or 
+        microbicide in the developing world using such mechanisms as 
+        technology transfer, differential pricing, and in-country 
+        production where possible, or other mechanisms to maximize 
+        international access to high quality and affordable vaccines.
+            (3) Continued support of global efforts.--The Federal 
+        government should continue supporting the work of the Global 
+        Alliance for Vaccines and Immunizations and the Global Fund for 
+        Children's Vaccines as an appropriate and effective vehicle to 
+        purchase and distribute these vaccines at an affordable price 
+        once they are discovered in order to distribute them to the 
+        developing world, as it does with vaccines against hepatitis-B, 
+        haemophilus influenza, and yellow fewer.
+            (4) Tiered pricing.--Flexible or differential pricing for 
+        vaccines, providing lowered prices for the poorest countries, 
+        is one of several valid strategies to accelerate the 
+        introduction of vaccines in developing countries.
+                                 <all>

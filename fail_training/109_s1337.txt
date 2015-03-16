@@ -1,0 +1,467 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 1337 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                S. 1337
+
+ To restore fairness and reliability to the medical justice system and 
+  promote patient safety by fostering alternatives to current medical 
+                tort litigation, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 29, 2005
+
+ Mr. Enzi (for himself and Mr. Baucus) introduced the following bill; 
+     which was read twice and referred to the Committee on Health, 
+                     Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To restore fairness and reliability to the medical justice system and 
+  promote patient safety by fostering alternatives to current medical 
+                tort litigation, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fair and Reliable Medical Justice 
+Act''.
+
+SEC. 2. PURPOSES.
+
+    The purposes of this Act are--
+            (1) to restore fairness and reliability to the medical 
+        justice system by fostering alternatives to current medical 
+        tort litigation that promote early disclosure of health care 
+        errors and provide prompt, fair, and reasonable compensation to 
+        patients who are injured by health care errors;
+            (2) to promote patient safety through early disclosure of 
+        health care errors; and
+            (3) to support and assist States in developing such 
+        alternatives.
+
+SEC. 3. STATE DEMONSTRATION PROGRAMS TO EVALUATE ALTERNATIVES TO 
+              CURRENT MEDICAL TORT LITIGATION.
+
+    Part P of title III of the Public Health Service Act (42 U.S.C. 
+280g et seq.) is amended by adding at the end the following:
+
+``SEC. 3990. STATE DEMONSTRATION PROGRAMS TO EVALUATE ALTERNATIVES TO 
+              CURRENT MEDICAL TORT LITIGATION.
+
+    ``(a) In General.--The Secretary is authorized to award 
+demonstration grants to States for the development, implementation, and 
+evaluation of alternatives to current tort litigation for resolving 
+disputes over injuries allegedly caused by health care providers or 
+health care organizations.
+    ``(b) Duration.--The Secretary may award up to 10 grants under 
+subsection (a) and each grant awarded under such subsection may not 
+exceed a period of 5 years.
+    ``(c) Conditions for Demonstration Grants.--
+            ``(1) Requirements.--Each State desiring a grant under 
+        subsection (a) shall--
+                    ``(A) develop an alternative to current tort 
+                litigation for resolving disputes over injuries 
+                allegedly caused by health care providers or health 
+                care organizations that may be 1 of the models 
+                described in subsection (d); and
+                    ``(B) promote a reduction of health care errors by 
+                allowing for patient safety data related to disputes 
+                resolved under subparagraph (A) to be collected and 
+                analyzed by organizations that engage in voluntary 
+                efforts to improve patient safety and the quality of 
+                health care delivery.
+            ``(2) Alternative to current tort litigation.--Each State 
+        desiring a grant under subsection (a) shall demonstrate how the 
+        proposed alternative described in paragraph (1)(A)--
+                    ``(A) makes the medical liability system more 
+                reliable through prompt and fair resolution of 
+                disputes;
+                    ``(B) encourages the early disclosure of health 
+                care errors;
+                    ``(C) enhances patient safety; and
+                    ``(D) maintains access to liability insurance.
+            ``(3) Sources of compensation.--Each State desiring a grant 
+        under subsection (a) shall identify the sources from and 
+        methods by which compensation would be paid for claims resolved 
+        under the proposed alternative to current tort litigation, 
+        which may include public or private funding sources, or a 
+        combination of such sources. Funding methods shall to the 
+        extent practicable provide financial incentives for activities 
+        that improve patient safety.
+            ``(4) Scope.--
+                    ``(A) In general.--Each State desiring a grant 
+                under subsection (a) may establish a scope of 
+                jurisdiction (such as a designated geographic region, a 
+                designated area of health care practice, or a 
+                designated group of health care providers or health 
+                care organizations) for the proposed alternative to 
+                current tort litigation that is sufficient to evaluate 
+                the effects of the alternative.
+                    ``(B) Notification of patients.--A State proposing 
+                a scope of jurisdiction under subparagraph (A) shall 
+                demonstrate how patients would be notified that they 
+                are receiving health care services that fall within 
+                such scope.
+            ``(5) Preference in awarding demonstration grants.--In 
+        awarding grants under subsection (a), the Secretary shall give 
+        preference to States--
+                    ``(A) that have developed the proposed alternative 
+                through substantive consultation with relevant 
+                stakeholders; and
+                    ``(B) in which State law at the time of the 
+                application would not prohibit the adoption of an 
+                alternative to current tort litigation.
+    ``(d) Models.--
+            ``(1) In general.--Any State desiring a grant under 
+        subsection (a) that proposes an alternative described in 
+        paragraph (2), (3), or (4) shall be deemed to meet the criteria 
+        under subsection (c)(2).
+            ``(2) Early disclosure and compensation model.--In the 
+        early disclosure and compensation model, the State shall--
+                    ``(A) require that health care providers or health 
+                care organizations notify a patient (or an immediate 
+                family member or designee of the patient) of an adverse 
+                event that results in serious injury to the patient, 
+                and that such notification shall not constitute an 
+                acknowledgment or an admission of liability;
+                    ``(B) provide immunity from tort liability to any 
+                health care provider or health care organization that 
+                offers in good faith to pay compensation in accordance 
+                with this section to a patient for an injury incurred 
+                in the provision of health care services (limited to 
+                claims arising out of the same nucleus of operative 
+                facts as the injury, and except in cases of fraud 
+                related to the provision of health care services, or in 
+                cases of criminal or intentional harm);
+                    ``(C) set a limited time period during which a 
+                health care provider or health care organization may 
+                make an offer of compensation benefits under 
+                subparagraph (B), with consideration for instances 
+                where prompt recognition of an injury is unlikely or 
+                impossible;
+                    ``(D) require that the compensation provided under 
+                subparagraph (B) include--
+                            ``(i) payment for the net economic loss of 
+                        the patient, on a periodic basis, reduced by 
+                        any payments received by the patient under--
+                                    ``(I) any health or accident 
+                                insurance;
+                                    ``(II) any wage or salary 
+                                continuation plan; or
+                                    ``(III) any disability income 
+                                insurance;
+                            ``(ii) payment for the non-economic damages 
+                        of the patient, if appropriate for the injury, 
+                        based on a defined payment schedule developed 
+                        by the State in consultation with relevant 
+                        experts and with the Secretary in accordance 
+                        with subsection (g); and
+                            ``(iii) reasonable attorney's fees;
+                    ``(E) not abridge the right of an injured patient 
+                to seek redress through the State tort system if a 
+                health care provider does not enter into a compensation 
+                agreement with the patient in accordance with 
+                subparagraph (B) or if the compensation offered does 
+                not meet the requirements of subparagraph (D) or is not 
+                offered in good faith;
+                    ``(F) permit a health care provider or health care 
+                organization that offers in good faith to pay 
+                compensation benefits to an individual under 
+                subparagraph (B) to join in the payment of the 
+                compensation benefits any health care provider or 
+                health care organization that is potentially liable, in 
+                whole or in part, for the injury; and
+                    ``(G) permit any health care provider or health 
+                care organization to contribute voluntarily in the 
+                payment of compensation benefits to an individual under 
+                subparagraph (B).
+            ``(3) Administrative determination of compensation model.--
+                    ``(A) In general.--In the administrative 
+                determination of compensation model--
+                            ``(i) the State shall--
+                                    ``(I) designate an administrative 
+                                entity (in this paragraph referred to 
+                                as the `Board') that shall include 
+                                representatives of--
+                                            ``(aa) relevant State 
+                                        licensing boards;
+                                            ``(bb) patient advocacy 
+                                        groups;
+                                            ``(cc) health care 
+                                        providers and health care 
+                                        organizations; and
+                                            ``(dd) attorneys in 
+                                        relevant practice areas;
+                                    ``(II) set up classes of avoidable 
+                                injuries, in consultation with relevant 
+                                experts and with the Secretary in 
+                                accordance with subsection (g), that 
+                                will be used by the Board to determine 
+                                compensation under clause (ii)(II);
+                                    ``(III) modify tort liability, 
+                                through statute or contract, to bar 
+                                negligence claims in court against 
+                                health care providers and health care 
+                                organizations for the classes of 
+                                injuries established under subclause 
+                                (II), except in cases of fraud related 
+                                to an injury, or in cases of criminal 
+                                or intentional harm;
+                                    ``(IV) outline a procedure for 
+                                informing patients about the modified 
+                                liability system described in this 
+                                paragraph and, in systems where 
+                                participation by the health care 
+                                provider, health care organization, or 
+                                patient is voluntary, allow for the 
+                                decision by the provider, organization, 
+                                or patient of whether to participate to 
+                                be made prior to the provision of, use 
+                                of, or payment for the health care 
+                                service;
+                                    ``(V) provide for an appeals 
+                                process to allow for review of 
+                                decisions; and
+                                    ``(VI) establish procedures to 
+                                coordinate settlement payments with 
+                                other sources of payment;
+                            ``(ii) the Board shall--
+                                    ``(I) resolve health care liability 
+                                claims for certain classes of avoidable 
+                                injuries as determined by the State and 
+                                determine compensation for such claims;
+                                    ``(II) develop a schedule of 
+                                compensation to be used in making such 
+                                determinations that includes--
+                                            ``(aa) payment for the net 
+                                        economic loss of the patient, 
+                                        on a periodic basis, reduced by 
+                                        any payments received by the 
+                                        patient under any health or 
+                                        accident insurance, any wage or 
+                                        salary continuation plan, or 
+                                        any disability income 
+                                        insurance;
+                                            ``(bb) payment for the non-
+                                        economic damages of the 
+                                        patient, if appropriate for the 
+                                        injury, based on a defined 
+                                        payment schedule developed by 
+                                        the State in consultation with 
+                                        relevant experts and with the 
+                                        Secretary in accordance with 
+                                        subsection (g); and
+                                            ``(cc) reasonable 
+                                        attorney's fees; and
+                                    ``(III) update the schedule under 
+                                subclause (II) on a regular basis.
+                    ``(B) Appeals.--The State, in establishing the 
+                appeals process described in subparagraph (A)(i)(V), 
+                may choose whether to allow for de novo review, review 
+                with deference, or some opportunity for parties to 
+                reject determinations by the Board and elect to file a 
+                civil action after such rejection. Any State desiring 
+                to adopt the model described in this paragraph shall 
+                indicate how such review method meets the criteria 
+                under subsection (c)(2).
+                    ``(C) Timeliness.--The State shall establish 
+                timeframes to ensure that claims handled under the 
+                system described in this paragraph provide for 
+                adjudication that is more timely and expedited than 
+                adjudication in a traditional tort system.
+            ``(4) Special health care court model.--In the special 
+        health care court model, the State shall--
+                    ``(A) establish a special court for the timely 
+                adjudication of disputes over injuries allegedly caused 
+                by health care providers or health care organizations 
+                in the provision of health care services;
+                    ``(B) ensure that such court is presided over by 
+                judges with health care expertise who meet applicable 
+                State standards for judges and who agree to preside 
+                over such court voluntarily;
+                    ``(C) provide authority to such judges to make 
+                binding rulings on causation, compensation, standards 
+                of care, and related issues with reliance on 
+                independent expert witnesses commissioned by the court;
+                    ``(D) provide for an appeals process to allow for 
+                review of decisions; and
+                    ``(E) at its option, establish an administrative 
+                entity similar to the entity described in paragraph 
+                (3)(A)(i)(I) to provide advice and guidance to the 
+                special court.
+    ``(e) Application.--
+            ``(1) In general.--Each State desiring a grant under 
+        subsection (a) shall submit to the Secretary an application, at 
+        such time, in such manner, and containing such information as 
+        the Secretary may require.
+            ``(2) Review panel.--
+                    ``(A) In general.--In reviewing applications under 
+                paragraph (1), the Secretary shall consult with a 
+                review panel composed of relevant experts appointed by 
+                the Comptroller General.
+                    ``(B) Composition.--
+                            ``(i) Nominations.--The Comptroller General 
+                        shall solicit nominations from the public for 
+                        individuals to serve on the review panel.
+                            ``(ii) Appointment.--The Comptroller 
+                        General shall appoint, at least 11 but not more 
+                        than 15, highly qualified and knowledgeable 
+                        individuals to serve on the review panel and 
+                        shall ensure that the following entities 
+                        receive fair representation on such panel:
+                                    ``(I) Patient advocates.
+                                    ``(II) Health care providers and 
+                                health care organizations.
+                                    ``(III) Attorneys with expertise in 
+                                representing patients and health care 
+                                providers.
+                                    ``(IV) Insurers.
+                                    ``(V) State officials.
+                    ``(C) Chairperson.--The Comptroller General, or an 
+                individual within the Government Accountability Office 
+                designated by the Comptroller General, shall be the 
+                chairperson of the review panel.
+                    ``(D) Availability of information.--The Comptroller 
+                General shall make available to the review panel such 
+                information, personnel, and administrative services and 
+                assistance as the review panel may reasonably require 
+                to carry out its duties.
+                    ``(E) Information from agencies.--The review panel 
+                may request directly from any department or agency of 
+                the United States any information that such panel 
+                considers necessary to carry out its duties. To the 
+                extent consistent with applicable laws and regulations, 
+                the head of such department or agency shall furnish the 
+                requested information to the review panel.
+    ``(f) Report.--Each State receiving a grant under subsection (a) 
+shall submit to the Secretary a report evaluating the effectiveness of 
+activities funded with grants awarded under such subsection at such 
+time and in such manner as the Secretary may require.
+    ``(g) Technical Assistance.--
+            ``(1) In general.--The Secretary shall provide technical 
+        assistance to the States awarded grants under subsection (a).
+            ``(2) Requirements.--Technical assistance under paragraph 
+        (1) shall include--
+                    ``(A) the development of a defined payment schedule 
+                for non-economic damages (including guidance on the 
+                consideration of individual facts and circumstances in 
+                determining appropriate payment), the development of 
+                classes of avoidable injuries, and guidance on early 
+                disclosure to patients of adverse events; and
+                    ``(B) the development, in consultation with States, 
+                of common definitions, formats, and data collection 
+                infrastructure for States receiving grants under this 
+                section to use in reporting to facilitate aggregation 
+                and analysis of data both within and between States.
+            ``(3) Use of common definitions, formats, and data 
+        collection infrastructure.--States not receiving grants under 
+        this section may also use the common definitions, formats, and 
+        data collection infrastructure developed under paragraph 
+        (2)(B).
+    ``(h) Evaluation.--
+            ``(1) In general.--The Secretary, in consultation with the 
+        review panel established under subsection (e)(2), shall enter 
+        into a contract with an appropriate research organization to 
+        conduct an overall evaluation of the effectiveness of grants 
+        awarded under subsection (a) and to annually prepare and submit 
+        a report to the appropriate committees of Congress. Such an 
+        evaluation shall begin not later than 18 months following the 
+        date of implementation of the first program funded by a grant 
+        under subsection (a).
+            ``(2) Contents.--The evaluation under paragraph (1) shall 
+        include--
+                    ``(A) an analysis of the effect of the grants 
+                awarded under subsection (a) on the number, nature, and 
+                costs of health care liability claims;
+                    ``(B) a comparison of the claim and cost 
+                information of each State receiving a grant under 
+                subsection (a); and
+                    ``(C) a comparison between States receiving a grant 
+                under this section and States that did not receive such 
+                a grant, matched to ensure similar legal and health 
+                care environments, and to determine the effects of the 
+                grants and subsequent reforms on--
+                            ``(i) the liability environment;
+                            ``(ii) health care quality;
+                            ``(iii) patient safety; and
+                            ``(iv) patient and health care provider and 
+                        organization satisfaction with the reforms.
+    ``(i) Option to Provide for Initial Planning Grants.--Of the funds 
+appropriated pursuant to subsection (k), the Secretary may use a 
+portion not to exceed $500,000 per State to provide planning grants to 
+such States for the development of demonstration project applications 
+meeting the criteria described in subsection (c). In selecting States 
+to receive such planning grants, the Secretary shall give preference to 
+those States in which State law at the time of the application would 
+not prohibit the adoption of an alternative to current tort litigation.
+    ``(j) Definitions.--In this section:
+            ``(1) Health care services.--The term `health care 
+        services' means any services provided by a health care 
+        provider, or by any individual working under the supervision of 
+        a health care provider, that relate to--
+                    ``(A) the diagnosis, prevention, or treatment of 
+                any human disease or impairment; or
+                    ``(B) the assessment of the health of human beings.
+            ``(2) Health care organization.--The term `health care 
+        organization' means any individual or entity which is obligated 
+        to provide, pay for, or administer health benefits under any 
+        health plan.
+            ``(3) Health care provider.--The term `health care 
+        provider' means any individual or entity--
+                    ``(A) licensed, registered, or certified under 
+                Federal or State laws or regulations to provide health 
+                care services; or
+                    ``(B) required to be so licensed, registered, or 
+                certified but that is exempted by other statute or 
+                regulation.
+            ``(4) Net economic loss.--The term `net economic loss' 
+        means--
+                    ``(A) reasonable expenses incurred for products, 
+                services, and accommodations needed for health care, 
+                training, and other remedial treatment and care of an 
+                injured individual;
+                    ``(B) reasonable and appropriate expenses for 
+                rehabilitation treatment and occupational training;
+                    ``(C) 100 percent of the loss of income from work 
+                that an injured individual would have performed if not 
+                injured, reduced by any income from substitute work 
+                actually performed; and
+                    ``(D) reasonable expenses incurred in obtaining 
+                ordinary and necessary services to replace services an 
+                injured individual would have performed for the benefit 
+                of the individual or the family of such individual if 
+                the individual had not been injured.
+            ``(5) Non-economic damages.--The term `non-economic 
+        damages' means losses for physical and emotional pain, 
+        suffering, inconvenience, physical impairment, mental anguish, 
+        disfigurement, loss of enjoyment of life, loss of society and 
+        companionship, loss of consortium (other than loss of domestic 
+        service), injury to reputation, and all other non-pecuniary 
+        losses of any kind or nature, to the extent permitted under 
+        State law.
+    ``(k) Authorization of Appropriations.--There are authorized to be 
+appropriated to carry out this section such sums as may be necessary. 
+Amounts appropriated pursuant to this subsection shall remain available 
+until expended.''.
+                                 <all>

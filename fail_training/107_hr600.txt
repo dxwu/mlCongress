@@ -1,0 +1,464 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 600 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 600
+
+ To amend title XIX of the Social Security Act to provide families of 
+ disabled children with the opportunity to purchase coverage under the 
+      Medicaid Program for such children, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 13, 2001
+
+  Mr. Sessions (for himself, Mr. Waxman, Mr. Upton, Mr. Barrett, Mr. 
+  Bilirakis, Mr. Dingell, Mr. Dreier, Mr. Brown of Ohio, Ms. Pryce of 
+  Ohio, Mr. Strickland, Mrs. Roukema, Mr. Baldacci, Mr. Isakson, Mr. 
+   Doggett, Mr. Gilchrest, Mr. Moore, Mrs. Myrick, Mr. Oberstar, Mr. 
+ Reynolds, Mr. Hinchey, Mr. DeFazio, Mr. Kennedy of Rhode Island, Mr. 
+Sanders, Ms. Kaptur, Mrs. Johnson of Connecticut, Mr. Towns, Mr. Stark, 
+Ms. Eshoo, Ms. Baldwin, Mr. Gallegly, Mr. Abercrombie, Mr. Snyder, Ms. 
+   Schakowsky, Mr. Shimkus, Mr. Scott, Mr. Pallone, Mr. Stupak, Mr. 
+ Markey, Mr. Wynn, Mrs. Capps, Mr. Hall of Ohio, Mr. Kind, Mr. Matsui, 
+ Mr. George Miller of California, Mr. Moran of Virginia, Mrs. McCarthy 
+  of New York, Mr. Payne, Mr. Udall of New Mexico, Mr. Watt of North 
+Carolina, Mr. Engel, Mr. Nadler, Ms. Lee, Ms. Berkley, Mr. Murtha, Mr. 
+ Rush, Mrs. Jones of Ohio, Mr. Kucinich, Mr. McNulty, Ms. DeGette, Mr. 
+ Boucher, Mr. Green of Texas, Mr. Becerra, Mr. Allen, Ms. Rivers, Mrs. 
+Lowey, Mr. Shays, Mr. Weldon of Florida, Mr. Oxley, Mr. Pickering, Mr. 
+  Whitfield, Mr. LaHood, Mr. Hayworth, Mr. Fletcher, Mr. Sweeney, Mr. 
+ Shadegg, Mr. Tauzin, Mr. Gilman, Mr. Nethercutt, Mr. Moran of Kansas, 
+Mr. Brady of Texas, Mr. Deutsch, Ms. Capito, Mr. Weller, Mr. Schaffer, 
+  Mr. Nussle, and Mr. Paul) introduced the following bill; which was 
+            referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title XIX of the Social Security Act to provide families of 
+ disabled children with the opportunity to purchase coverage under the 
+      Medicaid Program for such children, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; AMENDMENTS TO SOCIAL SECURITY ACT; TABLE OF 
+              CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Family Opportunity 
+Act of 2001'' or the ``Dylan Lee James Act''.
+    (b) Amendments to Social Security Act.--Except as otherwise 
+specifically provided, whenever in this Act an amendment is expressed 
+in terms of an amendment to or repeal of a section or other provision, 
+the reference shall be considered to be made to that section or other 
+provision of the Social Security Act.
+    (c) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; amendments to Social Security Act; table of 
+                            contents.
+Sec. 2. Opportunity for families of disabled children to purchase 
+                            medicaid coverage for such children.
+Sec. 3. Treatment of inpatient psychiatric hospital services for 
+                            individuals under age 21 in home or 
+                            community-based services waivers.
+Sec. 4. Demonstration of coverage under the medicaid program of 
+                            children with potentially severe 
+                            disabilities.
+Sec. 5. Development and support of family-to-family health information 
+                            centers.
+Sec. 6. Restoration of medicaid eligibility for certain SSI 
+                            beneficiaries.
+
+SEC. 2. OPPORTUNITY FOR FAMILIES OF DISABLED CHILDREN TO PURCHASE 
+              MEDICAID COVERAGE FOR SUCH CHILDREN.
+
+    (a) State Option To Allow Families of Disabled Children To Purchase 
+Medicaid Coverage for Such Children.--
+            (1) In general.--Section 1902 (42 U.S.C. 1396a), as amended 
+        by section 2(a) of the Breast and Cervical Cancer Prevention 
+        and Treatment Act of 2000 (Public Law 106-354; 114 Stat. 1381) 
+        and section 702(b) of the Medicare, Medicaid, and SCHIP 
+        Benefits Improvement and Protection Act of 2000 (as enacted 
+        into law by section 1(a)(6) of Public Law 106-554), is 
+        amended--
+                    (A) in subsection (a)(10)(A)(ii)--
+                            (i) by striking ``or'' at the end of 
+                        subclause (XVII);
+                            (ii) by adding ``or'' at the end of 
+                        subclause (XVIII); and
+                            (iii) by adding at the end the following 
+                        new subclause:
+                                    ``(XIX) who are disabled children 
+                                described in subsection (cc)(1);''; and
+                    (B) by adding at the end the following new 
+                subsection:
+    ``(cc)(1) Individuals described in this paragraph are individuals--
+            ``(A) who have not attained 18 years of age;
+            ``(B) who would be considered disabled under section 
+        1614(a)(3)(C) (determined without regard to the reference to 
+        age in that section) but for having earnings or deemed income 
+        or resources (as determined under title XVI for children) that 
+        exceed the requirements for receipt of supplemental security 
+        income benefits; and
+            ``(C) whose family income does not exceed such income level 
+        as the State establishes and does not exceed--
+                    ``(i) 300 percent of the income official poverty 
+                line (as defined by the Office of Management and 
+                Budget, and revised annually in accordance with section 
+                673(2) of the Omnibus Budget Reconciliation Act of 
+                1981) applicable to a family of the size involved; or
+                    ``(ii) such higher percent of such poverty line as 
+                a State may establish, except that no Federal financial 
+                participation shall be provided under section 1903(a) 
+                for any medical assistance provided to an individual 
+                who would not be described in this subsection but for 
+                this clause.''.
+            (2) Interaction with employer-sponsored family coverage.--
+        Section 1902(cc) (42 U.S.C. 1396a(cc)), as added by paragraph 
+        (1), is amended by adding at the end the following new 
+        paragraph:
+    ``(2)(A) If an employer of a parent of an individual described in 
+paragraph (1) offers family coverage under a group health plan (as 
+defined in section 2791(a) of the Public Health Service Act), the State 
+may--
+            ``(i) require such parent to apply for, enroll in, and pay 
+        premiums for, such coverage as a condition of such parent's 
+        child being or remaining eligible for medical assistance under 
+        subsection (a)(10)(A)(ii)(XIX) if the parent is determined 
+        eligible for such coverage and the employer contributes at 
+        least 50 percent of the total cost of annual premiums for such 
+        coverage; and
+            ``(ii) if such coverage is obtained--
+                    ``(I) subject to paragraph (2) of section 1916(h), 
+                reduce the premium imposed by the State under that 
+                section (if any) in an amount that reasonably reflects 
+                the premium contribution made by the parent for private 
+                coverage on behalf of a child with a disability; and
+                    ``(II) treat such coverage as a third party 
+                liability under subsection (a)(25).
+    ``(B) In the case of a parent to which subparagraph (A) applies, if 
+the family income of such parent does not exceed 300 percent of the 
+income official poverty line (referred to in paragraph (1)(C)(i)), a 
+State may provide for payment of any portion of the annual premium for 
+such family coverage that the parent is required to pay. Any payments 
+made by the State under this subparagraph shall be considered, for 
+purposes of section 1903(a), to be payments for medical assistance.''.
+    (b) State Option To Impose Income-Related Premiums.--Section 1916 
+(42 U.S.C. 1396o) is amended--
+            (1) in subsection (a), by striking ``subsection (g)'' and 
+        inserting ``subsections (g) and (h)''; and
+            (2) by adding at the end the following new subsection:
+    ``(h)(1) With respect to disabled children provided medical 
+assistance under section 1902(a)(10)(A)(ii)(XIX), subject to paragraph 
+(2), a State may (in a uniform manner for such children) require the 
+families of such children to pay monthly premiums set on a sliding 
+scale based on family income.
+    ``(2) A premium requirement imposed under paragraph (1) may only 
+apply to the extent that--
+            ``(A) the aggregate amount of such premium and any premium 
+        that the parent is required to pay for family coverage under 
+        section 1902(cc)(2)(A)(i) does not exceed 5 percent of the 
+        family's income; and
+            ``(B) the requirement is imposed consistent with section 
+        1902(cc)(2)(A)(ii)(I).
+    ``(3) A State shall not require prepayment of a premium imposed 
+pursuant to paragraph (1) and shall not terminate eligibility of a 
+child under section 1902(a)(10)(A)(ii)(XIX) for medical assistance 
+under this title on the basis of failure to pay any such premium until 
+such failure continues for a period of not less than 60 days from the 
+date on which the premium became past due. The State may waive payment 
+of any such premium in any case where the State determines that 
+requiring such payment would create an undue hardship.''.
+    (c) Conforming Amendment.--Section 1903(f)(4) (42 U.S.C. 
+1396b(f)(4)), as amended by section 710(a) of the Medicare, Medicaid, 
+and SCHIP Benefits Improvement and Protection Act of 2000 (as enacted 
+into law by section 1(a)(6) of Public Law 106-554), is amended in the 
+matter preceding subparagraph (A) by inserting 
+``1902(a)(10)(A)(ii)(XIX),'' after ``1902(a)(10)(A) (ii)(XVIII),''.
+    (d) Technical Amendments.--
+            (1) Section 1902 (42 U.S.C. 1396a), as amended by section 
+        702(b) of the Medicare, Medicaid, and SCHIP Benefits 
+        Improvement and Protection Act of 2000 (as enacted into law by 
+        section 1(a)(6) of Public Law 106-554), is amended by 
+        redesignating the subsection (aa) added by such section as 
+        subsection (bb).
+            (2) Section 1902(a)(15) (42 U.S.C. 1396a(a)(15)), as added 
+        by section 702(a)(2) of the Medicare, Medicaid, and SCHIP 
+        Benefits Improvement and Protection Act of 2000 (as so enacted 
+        into law), is amended by striking ``subsection (aa)'' and 
+        inserting ``subsection (bb)''.
+            (3) Section 1915(b) (42 U.S.C. 1396n(b)), as amended by 
+        section 702(c)(2) of the Medicare, Medicaid, and SCHIP Benefits 
+        Improvement and Protection Act of 2000 (as so enacted into 
+        law), is amended by striking ``1902(aa)'' and inserting 
+        ``1902(bb)''.
+    (e) Effective Date.--
+            (1) In general.--The amendments made by subsections (a), 
+        (b), and (c) shall apply to medical assistance for items and 
+        services furnished on or after January 1, 2002.
+            (2) Technical amendments.--The amendments made by 
+        subsection (d) shall take effect as if included in the 
+        enactment of section 702 of the Medicare, Medicaid, and SCHIP 
+        Benefits Improvement and Protection Act of 2000 (as enacted 
+        into law by section 1(a)(6) of Public Law 106-554).
+
+SEC. 3. TREATMENT OF INPATIENT PSYCHIATRIC HOSPITAL SERVICES FOR 
+              INDIVIDUALS UNDER AGE 21 IN HOME OR COMMUNITY-BASED 
+              SERVICES WAIVERS.
+
+    (a) In General.--Section 1915(c) (42 U.S.C. 1396n(c)) is amended--
+            (1) in paragraph (1)--
+                    (A) in the first sentence, by inserting ``, or 
+                inpatient psychiatric hospital services for individuals 
+                under age 21,'' after ``intermediate care facility for 
+                the mentally retarded''; and
+                    (B) in the second sentence, by inserting ``, or 
+                inpatient psychiatric hospital services for individuals 
+                under age 21'' before the period;
+            (2) in paragraph (2)(B), by striking ``or services in an 
+        intermediate care facility for the mentally retarded'' each 
+        place it appears and inserting ``, services in an intermediate 
+        care facility for the mentally retarded, or inpatient 
+        psychiatric hospital services for individuals under age 21'';
+            (3) by striking paragraph (2)(C) and inserting the 
+        following:
+            ``(C) such individuals who are determined to be likely to 
+        require the level of care provided in a hospital, nursing 
+        facility, or intermediate care facility for the mentally 
+        retarded, or inpatient psychiatric hospital services for 
+        individuals under age 21, are informed of the feasible 
+        alternatives, if available under the waiver, at the choice of 
+        such individuals, to the provision of inpatient hospital 
+        services, nursing facility services, services in an 
+        intermediate care facility for the mentally retarded, or 
+        inpatient psychiatric hospital services for individuals under 
+        age 21;''; and
+            (4) in paragraph (7)(A)--
+                    (A) by inserting ``, or inpatient psychiatric 
+                hospital services for individuals under age 21,'' after 
+                ``intermediate care facility for the mentally 
+                retarded''; and
+                    (B) by inserting ``, or who would require inpatient 
+                psychiatric hospital services for individuals under age 
+                21'' before the period.
+    (b) Effective Date.--The amendments made by subsection (a) apply 
+with respect to medical assistance provided on or after January 1, 
+2001.
+
+SEC. 4. DEMONSTRATION OF COVERAGE UNDER THE MEDICAID PROGRAM OF 
+              CHILDREN WITH POTENTIALLY SEVERE DISABILITIES.
+
+    (a) State Application.--A State may apply to the Secretary of 
+Health and Human Services (in this section referred to as the 
+``Secretary'') for approval of a demonstration project (in this section 
+referred to as a ``demonstration project'') under which up to a 
+specified maximum number of children with a potentially severe 
+disability (as defined in subsection (b)) are provided medical 
+assistance under the State medicaid plan under title XIX of the Social 
+Security Act (42 U.S.C. 1396 et seq.).
+    (b) Child With a Potentially Severe Disability Defined.--
+            (1) In general.--In this section, the term ``child with a 
+        potentially severe disability'' means, with respect to a 
+        demonstration project, an individual who--
+                    (A) has not attained 21 years of age;
+                    (B) has a physical or mental condition, disease, 
+                disorder (including a congenital birth defect or a 
+                metabolic condition), injury, or developmental 
+                disability that was incurred before the individual 
+                attained such age; and
+                    (C) is reasonably expected, but for the receipt of 
+                medical assistance under the State medicaid plan, to 
+                reach the level of disability defined under section 
+                1614(a)(3) of the Social Security Act (42 U.S.C. 
+                1382c(a)(3)), (determined without regard to the 
+                reference to age in subparagraph (C) of that section).
+            (2) Exception.--Such term does not include an individual 
+        who would be considered disabled under section 1614(a)(3)(C) of 
+        the Social Security Act (42 U.S.C. 1382c(a)(3)(C)) (determined 
+        without regard to the reference to age in that section).
+    (c) Approval of Demonstration Projects.--
+            (1) In general.--Subject to paragraph (3), the Secretary 
+        shall approve applications under subsection (a) that meet the 
+        requirements of paragraph (2) and such additional terms and 
+        conditions as the Secretary may require. The Secretary may 
+        waive the requirement of section 1902(a)(1) of the Social 
+        Security Act (42 U.S.C. 1396a(a)(1)) to allow for sub-State 
+        demonstrations.
+            (2) Terms and conditions of demonstration projects.--The 
+        Secretary may not approve a demonstration project under this 
+        section unless the State provides assurances satisfactory to 
+        the Secretary that the following conditions are or will be met:
+                    (A) Independent evaluation.--The State provides for 
+                an independent evaluation of the project to be 
+                conducted during fiscal year 2006.
+                    (B) Consultation for development of criteria.--The 
+                State consults with appropriate pediatric health 
+                professionals in establishing the criteria for 
+                determining whether a child has a potentially severe 
+                disability.
+                    (C) Annual report.--The State submits an annual 
+                report to the Secretary (in a uniform form and manner 
+                established by the Secretary) on the use of funds 
+                provided under the grant that includes the following:
+                            (i) Enrollment and financial statistics 
+                        on--
+                                    (I) the total number of children 
+                                with a potentially severe disability 
+                                enrolled in the demonstration project, 
+                                disaggregated by disability;
+                                    (II) the services provided by 
+                                category or code and the cost of each 
+                                service so categorized or coded; and
+                                    (III) the number of children 
+                                enrolled in the demonstration project 
+                                who also receive services through 
+                                private insurance.
+                            (ii) With respect to the report submitted 
+                        for fiscal year 2006, the results of the 
+                        independent evaluation conducted under 
+                        subparagraph (A).
+                            (iii) Such additional information as the 
+                        Secretary may require.
+            (3) Limitations on federal funding.--
+                    (A) Appropriation.--
+                            (i) In general.--Out of any funds in the 
+                        Treasury not otherwise appropriated, there is 
+                        appropriated to carry out this section--
+                                    (I) $16,666,000 for each of fiscal 
+                                years 2002 and 2003; and
+                                    (II) $16,667,000 for each of fiscal 
+                                years 2004 through 2007.
+                            (ii) Budget authority.--Clause (i) 
+                        constitutes budget authority in advance of 
+                        appropriations Acts and represents the 
+                        obligation of the Federal Government to provide 
+                        for the payment of the amounts appropriated 
+                        under clause (i).
+                    (B) Limitation on payments.--In no case may--
+                            (i) the aggregate amount of payments made 
+                        by the Secretary to States under this section 
+                        exceed $100,000,000;
+                            (ii) the aggregate amount of payments made 
+                        by the Secretary to States for administrative 
+                        expenses relating to the evaluations and annual 
+                        reports required under subparagraphs (A) and 
+                        (C) of paragraph (2) exceed $2,000,000 of such 
+                        $100,000,000; or
+                            (iii) payments be provided by the Secretary 
+                        for a fiscal year after fiscal year 2010.
+                    (C) Funds allocated to states.--
+                            (i) In general.--The Secretary shall 
+                        allocate funds to States based on their 
+                        applications and the availability of funds. In 
+                        making such allocations, the Secretary shall 
+                        ensure an equitable distribution of funds among 
+                        States with large populations and States with 
+                        small populations.
+                            (ii) Availability.--Funds allocated to a 
+                        State under a grant made under this section for 
+                        a fiscal year shall remain available until 
+                        expended.
+                    (D) Funds not allocated to states.--Funds not 
+                allocated to States in the fiscal year for which they 
+                are appropriated shall remain available in succeeding 
+                fiscal years for allocation by the Secretary using the 
+                allocation formula established under this section.
+                    (E) Payments to states.--The Secretary shall pay to 
+                each State with a demonstration project approved under 
+                this section, from its allocation under subparagraph 
+                (C), an amount for each quarter equal to the Federal 
+                medical assistance percentage (as defined in section 
+                1905(b) of the Social Security Act (42 U.S.C. 
+                1395d(b))) of expenditures in the quarter for medical 
+                assistance provided to children with a potentially 
+                severe disability.
+    (d) Recommendation.--Not later than October 1, 2005, the Secretary 
+shall submit a recommendation to the Committee on Commerce of the House 
+of Representatives and the Committee on Finance of the Senate regarding 
+whether the demonstration project established under this section should 
+be continued after fiscal year 2007.
+    (e) State Defined.--In this section, the term ``State'' has the 
+meaning given such term for purposes of title XIX of the Social 
+Security Act (42 U.S.C. 1396 et seq.).
+
+SEC. 5. DEVELOPMENT AND SUPPORT OF FAMILY-TO-FAMILY HEALTH INFORMATION 
+              CENTERS.
+
+    Section 501 (42 U.S.C. 701) is amended by adding at the end the 
+following new subsection:
+    ``(c)(1) In addition to amounts appropriated under subsection (a) 
+and retained under section 502(a)(1) for the purpose of carrying out 
+activities described in subsection (a)(2), there is appropriated to the 
+Secretary, out of any money in the Treasury not otherwise appropriated, 
+for the purpose of enabling the Secretary (through grants, contracts, 
+or otherwise) to provide for special projects of regional and national 
+significance for the development and support of family-to-family health 
+information centers described in paragraph (2), $10,000,000 for each of 
+fiscal years 2002 through 2007. Funds appropriated under this paragraph 
+shall remain available until expended.
+    ``(2) The family-to-family health information centers described in 
+this paragraph are centers that--
+            ``(A) assist families of children with disabilities or 
+        special health care needs to make informed choices about health 
+        care in order to promote good treatment decisions, cost-
+        effectiveness, and improved health outcomes for such children;
+            ``(B) provide information regarding the health care needs 
+        of, and resources available for, children with disabilities or 
+        special health care needs;
+            ``(C) identify successful health delivery models for such 
+        children;
+            ``(D) develop with representatives of health care 
+        providers, managed care organizations, health care purchasers, 
+        and appropriate State agencies a model for collaboration 
+        between families of such children and health professionals;
+            ``(E) provide training and guidance regarding caring for 
+        such children;
+            ``(F) conduct outreach activities to the families of such 
+        children, health professionals, schools, and other appropriate 
+        entities and individuals; and
+            ``(G) are staffed by families of children with disabilities 
+        or special health care needs who have expertise in Federal and 
+        State public and private health care systems and health 
+        professionals.
+    ``(3) The provisions of this title that are applicable to the funds 
+made available to the Secretary under section 502(a)(1) apply in the 
+same manner to funds made available to the Secretary under paragraph 
+(1).''.
+
+SEC. 6. RESTORATION OF MEDICAID ELIGIBILITY FOR CERTAIN SSI 
+              BENEFICIARIES.
+
+    (a) In General.--Section 1902(a)(10)(A)(i)(II) (42 U.S.C. 
+1396a(a)(10)(A)(i)(II)) is amended--
+            (1) by inserting ``(aa)'' after ``(II)'';
+            (2) by striking ``or who are'' and inserting ``, (bb) who 
+        are''; and
+            (3) by inserting before the comma at the end the following: 
+        ``, or (cc) who are under 21 years of age and with respect to 
+        whom supplemental security income benefits would be paid under 
+        title XVI if subparagraphs (A) and (B) of section 1611(c)(7) 
+        were applied without regard to the phrase `the first day of the 
+        month following' ''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to medical assistance for items and services furnished on or 
+after the first day of the first calendar quarter that begins after the 
+date of enactment of this Act.
+                                 <all>
