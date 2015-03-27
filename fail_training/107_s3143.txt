@@ -1,0 +1,750 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 3143 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 3143
+
+   To provide for the establishment of the Consumer and Shareholder 
+            Protection Association, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            October 17, 2002
+
+ Mr. Wellstone introduced the following bill; which was read twice and 
+   referred to the Committee on Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide for the establishment of the Consumer and Shareholder 
+            Protection Association, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Consumer and 
+Shareholder Protection Association Act of 2002''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+Sec. 3. Policy.
+Sec. 4. Definitions.
+Sec. 5. Establishment of the Association.
+Sec. 6. Authorization of appropriations and allotments of grants.
+Sec. 7. Mission, duties, and powers of the Association.
+Sec. 8. Interim board.
+Sec. 9. Insert and notice provisions.
+Sec. 10. Board of directors.
+Sec. 11. Election of directors.
+Sec. 12. Qualifications.
+Sec. 13. Ballot issues.
+Sec. 14. Access to member mailings.
+Sec. 15. Prohibited acts.
+Sec. 16. Penalties.
+Sec. 17. Administrative enforcement.
+Sec. 18. Dissolution.
+Sec. 19. Relationship to existing law.
+Sec. 20. Construction.
+Sec. 21. Severability.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress finds that--
+            (1) scandals involving deceptive and fraudulent business 
+        practices have brought public confidence in the integrity and 
+        fairness of many of the Nation's largest corporations to an 
+        all-time low and threaten the basic strengths of the United 
+        States economic system;
+            (2) contributing to the loss of public confidence are 
+        perceptions of inadequate oversight and insufficient 
+        independence between corporations and their regulators;
+            (3) the collapse of major corporations resulting from 
+        fraudulent practices has caused the loss of hundreds of 
+        billions of dollars of lifetime savings in 401(k) plans, 
+        pensions, and investor portfolios;
+            (4) resources available for representation of consumers and 
+        shareholders need to be expanded so that citizens can better 
+        monitor the performance of Federal agencies that regulate 
+        corporations and participate in the public debate concerning 
+        the oversight of these corporations;
+            (5) the Federal Government has a substantial interest in 
+        the creation of a public-purpose, democratically controlled, 
+        self-funded, nationwide membership association of consumers and 
+        shareholders to enhance their representation and to effectively 
+        combat corporate fraud; and
+            (6) the requirement that informational and statutory 
+        inserts be included in the mailings of entities subject to this 
+        Act is essential to the creation, maintenance, and funding of 
+        such an association.
+    (b) Purposes.--The purposes of this Act are--
+            (1) to establish a public-purpose, nonprofit, 
+        democratically controlled, membership Association of consumers 
+        and shareholders;
+            (2) to give the Association a mandate to inform and 
+        represent consumers, shareholders, and the public interest, and 
+        to further the effective and vigorous oversight of corporate 
+        entities;
+            (3) to establish democratic rules of governance for the 
+        Association;
+            (4) to require any entity subject to this Act to 
+        periodically include inserts concerning the Association within 
+        their statements and billings to consumers; and
+            (5) to prescribe the text and format of such insert.
+
+SEC. 3. POLICY.
+
+    The policy of Congress is that it is in the public interest to 
+authorize the establishment, through the exercise of the powers 
+provided in this Act, of an orderly procedure for developing and 
+financing (through the use of statutory inserts) the creation of the 
+Consumer and Shareholder Protection Association.
+
+SEC. 4. DEFINITIONS.
+
+    For purposes of this Act, the following definitions shall apply:
+            (1) Association.--The term ``Association'' means the 
+        Consumer and Shareholder Protection Association established in 
+        accordance with this Act.
+            (2) Association director.--The terms ``Association 
+        director'' and ``director'' mean any person duly elected or 
+        appointed to the Association board of directors pursuant to 
+        this Act, except where the context otherwise requires.
+            (3) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (4) Consumer.--The term ``consumer'' means any person who 
+        uses, purchases, leases, or acquires any real or personal 
+        property, tangible or intangible goods, services, or credit.
+            (5) Entity subject to this act.--The term ``entity subject 
+        to this Act'' means--
+                    (A) any company that--
+                            (i) is required to file periodic reports 
+                        under section 13(a) or 15(d) of the Securities 
+                        Exchange Act of 1934 (15 U.S.C. 78m(a), 
+                        78o(d)); and
+                            (ii) has revenues during its last fiscal 
+                        year of greater than $1,200,000,000; and
+                    (B) any insured depository institution, as defined 
+                in section 3 of the Federal Deposit Insurance Act (12 
+                U.S.C. 1813).
+            (6) Insert carrier.--The term ``insert carrier'' includes--
+                    (A) any deposit account statement which--
+                            (i) indicates the balance on a deposit 
+                        account; or
+                            (ii) involves an outstanding deposit 
+                        account contract or agreement between 
+an insured depository institution and a customer of such institution; 
+and
+                    (B) any proxy statement required to be provided to 
+                a shareholder in accordance with the securities laws 
+                (as defined in section 3 of the Securities Exchange Act 
+                of 1934 (15 U.S.C. 78c).
+            (7) Member.--The term ``member'' means any person who meets 
+        the requirements for membership in the Association, as set 
+        forth in section 4.
+            (8) Regulatory agency.--The term ``regulatory agency'' 
+        means any governmental office, agency, department, or 
+        commission of the Federal Government, which regulates, 
+        monitors, directs, or governs publicly traded corporations, 
+        financial services, or consumer transactions.
+            (9) Regulatory proceeding.--The term ``regulatory 
+        proceeding'' means any rulemaking, adjudication, or ancillary 
+        proceeding conducted by any governmental office, agency, 
+        department, or commission at the Federal, State, or local 
+        level, which affects any entity subject to this Act.
+            (10) Statutory insert.--The term ``statutory insert'' means 
+        any digital or printed statement, card, or envelope and 
+        statement combination, or a statement, application, and 
+        preaddressed business reply envelope used by the Association to 
+        solicit information and contributions or membership fees from 
+        consumers and shareholders and explain the purpose, history, 
+        nature, activities, achievements, and membership criteria of 
+        the Association.
+
+SEC. 5. ESTABLISHMENT OF THE ASSOCIATION.
+
+    (a) Charter.--There is authorized to be established a nonprofit 
+corporation by the interim board of directors to be known as the 
+``Consumer and Shareholder Protection Association''. The Association 
+shall be subject to the provisions of this Act, and, to the extent 
+consistent with this Act, to the District of Columbia Nonprofit 
+Corporations Act. The main office of the Association shall be located 
+in Washington, D.C.
+    (b) Nongovernmental Status.--The Association shall be a private 
+corporation and shall not, for any purpose, be considered to be a 
+department, agency, or instrumentality of the United States Government. 
+An officer or employee of the corporation shall not, for any purpose, 
+be considered to be an officer or employee of the Federal Government.
+    (c) Regional and Local Offices.--The Association may establish 
+regional offices as needed, in any of the several States.
+    (d) Bylaws.--Except as provided in this Act and in the District of 
+Columbia Nonprofit Corporations Act, the affairs of the Association 
+shall be regulated as determined in the bylaws of the Association.
+    (e) Nonprofit, Nonstock Status.--The Association chartered under 
+this section--
+            (1) shall be a nonprofit corporation; and
+            (2) may not issue any shares of stock or other securities 
+        or pay any dividends.
+    (f) Membership.--The membership of the Association shall consist 
+solely of individuals who--
+            (1) are 16 years of age or older; and
+            (2) have contributed the required annual membership fee to 
+        the Association.
+    (g) Membership Fee.--
+            (1) Initial fee.--Until the end of the 180-day period 
+        beginning on the date of the first election of directors, the 
+        annual membership fee of the Association shall be $10.
+            (2) Permanent membership fees determined by board of 
+        directors.--After the end of the 180-day period referred to in 
+        subsection (e), the Association may, by vote of the board of 
+        directors, alter the annual membership fee. The board of 
+        directors shall adopt a reduced fee structure, offering 
+        reduced-cost membership fees for low-income populations and 
+        senior citizens.
+    (h) Political Contributions Prohibited.--The Association shall not 
+make any contributions to any political candidate or party, or to any 
+national or State political committee, as defined in section 301 of the 
+Federal Election Campaign Act of 1971 (2 U.S.C. 431), or participate in 
+or intervene in any political campaign on behalf of or in opposition to 
+any candidate for public office.
+
+SEC. 6. AUTHORIZATION OF APPROPRIATIONS AND ALLOTMENTS OF GRANTS.
+
+    There is authorized to be appropriated to the Federal Trade 
+Commission, for the purpose of establishing the Association, $5,000,000 
+for the fiscal year ending 1 year after the date of enactment of this 
+Act.
+
+SEC. 7. MISSION, DUTIES, AND POWERS OF THE ASSOCIATION.
+
+    (a) Mission.--The Association shall advance the rights and remedies 
+available to consumers and shareholders with respect to financial 
+services, securities investments, insurance, and consumer credit, by 
+developing initiatives to--
+            (1) improve the flow of accurate information from entities 
+        subject to this Act to consumers and shareholders;
+            (2) increase the independence of the management of entities 
+        subject to this Act; and
+            (3) empower and represent the shareholders of entities 
+        subject to this Act, by educating shareholders about options 
+        for more democratic voting procedures and broader review 
+        authority.
+    (b) Duties.--The duties of the Association shall be--
+            (1) to inform, educate, and advise consumers and 
+        shareholders about the actions of entities subject to this Act;
+            (2) to represent and promote the interests of consumers 
+        collectively, and, when necessary, to negotiate on behalf of 
+        consumers and shareholders with entities subject to this Act;
+            (3) to take affirmative measures to encourage membership by 
+        low- and moderate-income and minority consumers, and to 
+        disseminate information and advice to consumers;
+            (4) to inform, insofar as possible, consumers about the 
+        mission of the Association, including the procedures for 
+        obtaining membership in the Association;
+            (5) to provide consumers and shareholders with information 
+        about how corporate initiatives will affect them;
+            (6) to monitor the availability and quality of financial or 
+        shareholder services to low- and moderate-income constituencies 
+        and the elderly; and
+            (7) to develop data to assist shareholders and consumers in 
+        making informed decisions in the marketplace.
+    (c) Powers.--In addition to the rights and powers provided by other 
+provisions of this Act, the Association shall--
+            (1) represent the interests of consumers in general before 
+        Federal regulatory agencies, legislative bodies, the courts, 
+        and in other public forums;
+            (2) initiate, to intervene as a party, or otherwise 
+        participate on behalf of consumers or shareholders in any 
+        regulatory proceeding which the Association reasonably 
+        determines may affect their interests;
+            (3) sue on behalf of any member, group of members, or all 
+        members of the Association for judicial relief, including 
+        damages, in any court of competent jurisdiction in regard to 
+        any consumer or shareholder matter; and
+            (4) conduct, support, and assist research, surveys, and 
+        investigations in consumer matters.
+    (d) Standing.--The Association shall be deemed to have an interest 
+sufficient to obtain judicial review or enforcement in any court of 
+competent jurisdiction of any regulatory decision or other regulatory 
+action which the Association reasonably determines may affect the 
+interest of consumers and shareholders, pursuant to this Act.
+
+SEC. 8. INTERIM BOARD.
+
+    (a) Establishment of Interim Board.--Members of the interim board 
+of directors of the Association shall be appointed not later than 6 
+months after the date of enactment of this Act, as follows:
+            (1) 3 members shall be appointed by the President of the 
+        United States.
+            (2) 3 members shall be appointed by the Speaker of the 
+        House of Representatives.
+            (3) 3 members shall be appointed by the President Pro 
+        Tempore of the Senate.
+            (4) 1 member shall be appointed by the Minority Leader of 
+        the House of Representatives.
+            (5) 1 member shall be appointed by the Minority Leader of 
+        the Senate.
+    (b) Member Criteria.--Individuals considered for appointment to the 
+interim board shall, to the extent possible, represent different 
+regions of the United States, and represent categories of citizens' 
+organizations including--
+            (1) consumer groups;
+            (2) institutional shareholder groups;
+            (3) labor unions;
+            (4) civil rights groups;
+            (5) neighborhood groups;
+            (6) elderly groups; and
+            (7) organizations representing low-income persons.
+    (c) Eligibility.--To qualify for nomination or appointment as an 
+interim director of the Association representing a designated category 
+of citizens' organizations, an individual shall be an active officer, 
+employee, or member of a citizens' organization within such category or 
+previously have been an officer or employee of 1 or more such citizens' 
+organizations within such category for a cumulative period of at least 
+2 years.
+    (d) Duties of Interim Board.--The interim board of directors of the 
+Association shall--
+            (1) not later than 60 days after the date of appointment of 
+        all members, incorporate the Association under the laws of the 
+        District of Columbia, subject to the provisions and limitations 
+        of this Act;
+            (2) manage the affairs of the Association until the first 
+        elected board of directors takes office;
+            (3) inform the public of the existence, nature, and purpose 
+        of the Association, and encourage such persons to join the 
+        Association, participate in its activities, and contribute to 
+        the Association;
+            (4) adopt procedures and standards, consistent with the 
+        requirements of this Act, for the nomination and election of 
+        the first elected board of directors of the Association;
+            (5) make all necessary preparations for the first election 
+        of the board of directors of the Association, oversee the 
+        election campaign, and tally the votes; and
+            (6) employ such interim staff as the interim board of 
+        directors deem necessary to carry out their responsibilities 
+        under this Act.
+    (e) Applicability of Certain Other Provisions of This Act.--Members 
+of the interim board of directors shall be subject to the requirements 
+of the applicable provisions of this Act.
+    (f) Limitation on Authority To Appear Before Other Bodies.--The 
+interim board of directors shall not engage in representation or 
+intervention on behalf of consumers, except to the extent necessary to 
+maintain or exercise the powers granted and the duties imposed upon 
+interim directors by this Act.
+    (g) Conduct First General Election.--
+            (1) In general.--Once the membership of the Association 
+        reaches 50,000, or within 18 months of the date of the 
+        appointment of the last interim director, whichever occurs 
+        first, the interim board of directors shall set a date for the 
+        first general election of the board of directors, and shall 
+        promptly notify each member of the Association.
+            (2) Timely election requirement.--The date set for the 
+        election shall be not more than 90 days after notification 
+        under paragraph (1).
+
+SEC. 9. STATUTORY INSERTS.
+
+    (a) Inclusion in Statements of Entities Subject to This Act.--
+            (1) In general.--Entities subject to this Act shall 
+        include, or cause its agent to include, a statutory insert or 
+        an Association insert in 4 mailings to its shareholders and 
+        customers each year, and in any proxy statement sent to 
+        shareholders.
+            (2) Statutory insert.--The Association shall have the right 
+        to have statutory inserts included in the mailings to the 
+        customers and shareholders of each entity subject to this Act 
+        once each calendar quarter. The Association may also require 
+entities subject to this Act to send the information contained in the 
+statutory insert to consumers and shareholders once each year via 
+electronic e-mail or other electronic means. The Association shall only 
+pay the reasonable incremental costs of the electronic distribution of 
+such information.
+            (3) Association inserts.--
+                    (A) In general.--In addition, the Association shall 
+                have the right to have included in the mailings 
+                referred to in paragraph (2) once each calendar 
+                quarter, an insert that it prepares and furnishes to 
+                any institution required to carry a statutory insert.
+                    (B) Limitation.--An insert furnished by the 
+                Association shall be limited to--
+                            (i) soliciting information and 
+                        contributions or membership fees from 
+                        consumers; and
+                            (ii) explaining--
+                                    (I) the purpose, history, nature, 
+                                activities, and achievements of the 
+                                Association;
+                                    (II) that the Association 
+                                membership is open to any resident of 
+                                the United States who is 16 years of 
+                                age;
+                                    (III) that the Association is not 
+                                connected to any entity subject to this 
+                                Act;
+                                    (IV) that the Association is a 
+                                nonprofit association directed by its 
+                                consumer members;
+                                    (V) the procedure for contributing 
+                                to or becoming a member of the 
+                                Association; and
+                                    (VI) the yearly membership fee.
+    (b) FTC Oversight.--Any entity subject to this Act may, if it 
+believes that the contents of an insert are false or misleading, submit 
+the insert to the Commission for review. The Commission shall review 
+the insert and make a determination promptly, but in no event later 
+than 21 calendar days after receipt of the insert. The Commission may 
+disapprove the insert for mailing if it finds that the insert is false 
+or misleading, or contains information not permitted by this section.
+    (c) Content of Statutory Inserts.--Each statutory insert required 
+by this Act shall contain--
+            (1) a statement of the following information:
+    ``The Consumer and Shareholder Protection Association is a consumer 
+and shareholder membership organization established under Federal law 
+to inform and represent consumers.
+    ``The Association will work on behalf of consumers and shareholders 
+to prevent corporate fraud and deceptive business practices, and to 
+ensure the protection of retirement funds and investments.
+    ``The Association provides consumers with information and advice on 
+a range of consumer issues.
+    ``The Association also represents consumers before regulatory 
+agencies and legislative bodies.
+    ``The Association is a democratically controlled consumer 
+membership organization.
+    ``Although the Association has been established under Federal law, 
+as a consumer membership organization, the Association is primarily 
+supported by membership fees, not public funds. Thus the Consumer and 
+Shareholder Protection Association depends on its membership base for 
+funding to undertake its information and representation activities.
+    ``Anyone who is 16 years of age or older may become a member of the 
+Association by paying the annual membership fee. The amount of the 
+annual membership fee is $____.
+    ``You may become a member simply by filling out the attached 
+application and mailing it and the membership fee to the Consumer and 
+Shareholder Protection Association in the attached preaddressed 
+envelope.'';
+            (2) an application for Association membership, which 
+        requests the applicant's name and address, and indicates the 
+        annual membership fee; and
+            (3) a preaddressed business reply envelope for mailing the 
+        application and membership fee to the Association.
+    (d) Other Requirements Applicable to Statutory Inserts.--With 
+respect to a statutory insert required by this Act--
+            (1) the statement, application, and preaddressed business 
+        reply envelope specified in subsection (c) shall be presented 
+        to the customer as a single document (except that the document 
+        may be separable into different parts by tearing along 
+        perforated lines);
+            (2) the statement and application shall be printed in at 
+        least 10-point type; and
+            (3) the Association shall pay the cost of printing and 
+        placement of the statutory insert in all appropriate mailings, 
+        but shall not pay any postage costs if the insert weighs less 
+        than 0.35 ounces.
+
+SEC. 10. BOARD OF DIRECTORS.
+
+    (a) Management of Association.--The affairs of the Association 
+shall be managed by a board of directors, which shall be elected by the 
+members of the Association in accordance with the provisions of section 
+7. The board of directors shall consist of 17 members. Twelve directors 
+shall constitute a quorum.
+    (b) One-Person One-Vote.--Each director shall have one vote on the 
+board of directors.
+    (c) Terms of Office.--The term of office for a director shall be 3 
+years, except as provided otherwise in this Act, and no director shall 
+serve more than 2 consecutive terms.
+    (d) Powers and Duties of Board.--The board of directors, shall, in 
+addition to its other responsibilities under this Act--
+            (1) conduct meetings of the board of directors at least 
+        once every 6 months, which shall be open to the public, unless 
+        the board of directors by a \2/3\ majority votes to adjourn 
+        into executive session;
+            (2) limit matters discussed in executive session only to 
+        personnel actions, potential or pending civil or criminal 
+        proceedings involving the Association, and material which would 
+        result in an unwarranted invasion of personal privacy if 
+        discussed in open sessions;
+            (3) keep minutes, financial records, and other records 
+        which shall reflect the acts and transactions of the board of 
+        directors;
+            (4) cause the financial books of the Association to be 
+        audited by a qualified certified public accountant at least 
+        once each fiscal year;
+            (5) prepare quarterly statements and an annual report 
+        indicating the substantive activities and financial operations 
+        of the Association;
+            (6) approve the bylaws of the Association, consistent with 
+        the requirements of this Act;
+            (7) make available to the public and include on the 
+        Association's web page, documents prepared by or filed with the 
+        Association within the preceding 5 years, including--
+                    (A) minutes of the board of directors meeting;
+                    (B) directors' or executive directors' financial 
+                statements;
+                    (C) candidates' financial statements; and
+                    (D) candidates' statements; and
+            (8) conduct 3 mailings each year to the membership of the 
+        Association, to inform the membership about the work of the 
+        Association and to conduct the business of the Association.
+    (e) Election of Officers.--At the first regular meeting of the 
+board of directors at which a majority of its members are present, 
+subsequent to the installation of new directors following each annual 
+election, the board shall elect by majority vote of directors present 
+and voting, and from among the directors, a president, a vice 
+president, a secretary, and a treasurer. The board may also elect a 
+comptroller and such other officers as it deems necessary.
+    (f) Executive Director of Association.--
+            (1) In general.--The board of directors shall hire and 
+        supervise an executive director for the Association.
+            (2) Duties of executive director.--The executive director 
+        shall implement the policies established by the board of 
+        directors, employ and discharge Association employees, and 
+        manage the offices, facilities, and employees of the 
+        Association.
+            (3) Eligibility standards.--Any applicant for the position 
+        of executive director, and each executive director, shall 
+        satisfy the requirements for director eligibility established 
+        by this Act.
+            (4) Term limit.--The executive director shall only be 
+        eligible to serve as an employee of the Association for 6 
+        consecutive years. After such 6-year term, the executive 
+        director shall be prohibited from serving as an agent, 
+        consultant, attorney, accountant, or subcontractor for the 
+        Association, and shall be ineligible to receive any monetary 
+        compensation from the Association.
+    (g) No Compensation for Association Directors.--A member of the 
+board of directors of the Association may not receive any compensation 
+for his or her services as a director, but shall be reimbursed for 
+wages actually lost in an amount not to exceed $160 per day, and for 
+necessary expenses including travel expenses incurred in the discharge 
+of Association duties.
+    (h) Bonding Requirement for Staff.--Any director or staff of the 
+Association eligible to receive, handle, or disburse funds on behalf of 
+the Association shall be bonded. The cost of such bonds shall be paid 
+for by the Association.
+    (i) Annual Financial Statements of Directors.--Each director and 
+the executive director of the Association shall file annually with the 
+board of directors a director's financial statement, which shall 
+include the same information required in section 102 of title 5, United 
+States Code.
+    (j) Annual Meetings.--
+            (1) In general.--An annual meeting of members of the 
+        Association shall be held in the month of January, on a date 
+        and at a place within the United States to be determined by the 
+        board of directors at least 6 months in advance of the meeting.
+            (2) Agenda.--Items may be placed on the annual meeting 
+        agenda--
+                    (A) by request of any director, not less than 10 
+                days and not more than 4 months in advance of the date 
+                of such meeting; and
+                    (B) by petition containing the valid signatures of 
+                at least 1 percent of the total membership of the 
+                Association, which petition shall be filed with the 
+                board of directors not less than 10 days and not more 
+                than 4 months in advance of the date of such meeting.
+            (3) Notice of agenda.--The executive director shall present 
+        proposed agenda items to the membership through its regular 
+        mailings.
+            (4) Public meetings.--The annual meeting of Association 
+        members shall be open to the public, except that seating 
+        preference shall be given to Association members. Association 
+        members shall be given a reasonable opportunity at such 
+        meetings to present comments, criticisms, and suggestions 
+        concerning the Association.
+            (5) Minutes.--Complete minutes of the annual meetings shall 
+        be kept and distributed to all depository libraries in the 
+        United States and placed on the Association's webpage.
+    (k) Vacancy.--In the event that a board member position becomes 
+vacant, the board of directors shall install the person having the 
+highest vote total in the last election who was not elected to the 
+board. If this is impossible, the board of directors, by vote of not 
+less than \2/3\ of all directors, shall appoint a successor within 60 
+days for the remainder of the current term. The person appointed by the 
+board of directors shall meet all qualifications for board members.
+    (l) Recall.--
+            (1) In general.--Upon receipt by the president of the board 
+        of directors of a petition to recall any director with the 
+        valid signatures of at least 5 percent of the members, the 
+        president shall call an election, to be held not less than 4 
+        months and not more than 6 months after receipt of the 
+        petition, for the purpose of selecting a director.
+            (2) Limitations.--No petition to recall a director under 
+        paragraph (1) may be filed within 6 months of his or her 
+election. An election pursuant to the filing of a recall petition shall 
+be conducted in accordance with the provisions of this Act. A director 
+recalled may become a candidate in the election triggered by the filing 
+of the recall petition. The director recalled shall continue to serve 
+until the installment in office of his or her successor, or until his 
+or her reelection. The election triggered by the filing of a recall 
+petition shall be conducted via one of the Association's quarterly 
+mailings.
+
+SEC. 11. PROCEDURES FOR ELECTION OF DIRECTORS.
+
+    (a) Election of the Board of Directors.--Each Association member 
+shall cast not more than 17 votes, and may distribute them among 
+candidates in any manner that the member chooses, including casting 
+more than 1 vote for a candidate. The 17 candidates receiving the most 
+votes shall be elected. There shall be no runoff. Ties shall be broken 
+by lot.
+    (b) Eligibility Standards for the Board of Directors.--To qualify 
+for nomination as a candidate for election to the board of directors of 
+the Association, a person must--
+            (1) be a member of the Association;
+            (2) be nominated by 100 or more other members; and
+            (3) to the extent possible, represent the categories of 
+        citizens' organizations, including--
+                    (A) consumer groups;
+                    (B) institutional shareholder groups;
+                    (C) labor unions;
+                    (D) civil rights groups;
+                    (E) neighborhood groups;
+                    (F) elderly groups; and
+                    (G) organizations representing low-income persons.
+    (c) Applicability to All Board Elections.--The requirements of this 
+section shall apply to the first election of directors conducted by the 
+interim board of directors pursuant to section 7, as well as to all 
+subsequent elections.
+
+SEC. 12. QUALIFICATIONS.
+
+    (a) Candidate's Statement.--Any person seeking nomination as a 
+candidate for election to the board of directors of the Association 
+shall file a candidate statement with the Association, not less than 60 
+days and not more than 120 days prior to the election. The contents of 
+a candidate statement may not contain false statements, and the 
+Association may, by bylaw or interim board of directors' procedure, 
+impose a uniform limitation on the length of all candidate statements.
+    (b) Financial Statement.--Any person seeking nomination as a 
+candidate for election to the board of directors shall file with the 
+Association, not less than 60 days and not more than 120 days prior to 
+the election, a report containing the information required by section 
+102 of title 5, United States Code.
+    (c) Ineligibility of Interim Directors and Staff During First 
+Election.--No interim director shall be eligible for election to the 
+board of directors during the first election following the appointment 
+of the interim directors. The executive director and other Association 
+staff persons, including interim staff persons, shall not be eligible 
+for election to the board of directors while serving in the capacity of 
+executive director or staff person, or for 1 year after such service is 
+concluded.
+    (d) Ineligibility of Directors To Hold Other Public Office.--No 
+director shall hold any elective Federal, State, or local office, or be 
+a candidate for such office, or be appointed to hold such office, 
+unless such appointee receives no compensation other than reimbursement 
+of expenses.
+    (e) Ineligibility of Officers, Directors of an Entity Subject To 
+This Act.--No present director, officer, agent, consultant, attorney, 
+or accountant for any entity subject to this Act, or member of the 
+immediate family of such persons, shall be eligible to be a director of 
+the Association.
+    (f) Ineligibility of Officers and Employees of Agencies.--No 
+officer or employee of any Federal, State, or local agency that 
+regulates any entity subject to this Act shall be eligible to be a 
+director of the Association.
+
+SEC. 13. BALLOT ISSUES.
+
+    Issues may be placed on a ballot for vote by the general 
+membership, provided a majority of the board votes to place an issue 
+before the membership for vote. The rules and procedures for placing an 
+issue before the membership for a vote shall be developed by the 
+Commission.
+
+SEC. 14. LIMITS ON ACCESS TO MEMBER MAILINGS.
+
+    No person may use any list of members of the Association, or any 
+part of such list, for purposes other than the conduct of the business 
+of the Association, as prescribed in this Act. The board of directors 
+shall, however, develop criteria for providing Association member 
+access through Association mailings to the Association's membership for 
+Association purposes only. No person shall disclose any such list or 
+part thereof to another person, unless there is substantial reason to 
+believe that such list or part thereof is intended to be used for the 
+lawful purposes described in this Act.
+
+SEC. 15. PROHIBITED ACTS.
+
+    (a) Entities Subject to This Act.--No entity subject to this Act or 
+officer, employee, or agent of any entity subject to this Act may 
+interfere or threaten to interfere with or cause any interference with 
+the utility service of, or penalize or threaten to penalize or cause to 
+be penalized, any person who contributes to the Association or 
+participates in any of its activities, in retribution for such 
+contribution or participation.
+    (b) General Prohibition.--No person may act with intent to prevent, 
+interfere with, or hinder the activities permitted under this Act.
+
+SEC. 16. PENALTIES.
+
+    A violation of any provision of this Act by an entity subject to 
+this Act or officer, employee, or agent thereof or of the Association 
+shall be subject to a civil penalty of not more than $10,000 for each 
+violation, to be levied by the Commission.
+
+SEC. 17. ADMINISTRATIVE ENFORCEMENT.
+
+    Compliance with the provisions of this Act shall be enforced by the 
+Commission in the same manner and with the same power and authority as 
+the Commission has under the Federal Trade Commission Act (15 U.S.C. 41 
+et seq.).
+
+SEC. 18. DISSOLUTION OF THE ASSOCIATION.
+
+    If, at the end of the 3-year period beginning on the date on which 
+the Association is incorporated, the Association's membership remains 
+below 25,000 members during any 1-year period, the board of directors 
+of the Association shall dissolve the Association. Upon the 
+termination, dissolution, or winding up of the Association in any 
+manner or for any reason, voluntary or involuntary, its assets, if any, 
+remaining after the payment or provision for payment of all liabilities 
+of the Association shall be distributed to, and only to, 1 or more 
+charitable organizations. No part of the income or assets of the 
+Association shall inure to any of its members, directors, or officers, 
+or be distributed to any such person during the life of the Association 
+or upon its dissolution , except in payment of a legal obligation owed 
+to such person. At the time of dissolution, any unexpended funds 
+appropriated by Congress for the establishment of the Association shall 
+be returned to the United States Treasury.
+
+SEC. 19. RELATIONSHIP TO EXISTING LAW.
+
+    Nothing in this Act shall be construed to limit the right of any 
+individual or group of individuals to initiate, intervene in, or 
+otherwise participate in any proceeding before a regulatory agency or 
+court, nor to relieve any regulatory agency, court, or other public 
+body of any obligation, or affect its discretion to permit intervention 
+or participation by a consumer or group or class of consumers or 
+citizens in any proceeding or activity.
+
+SEC. 20. CONSTRUCTION.
+
+    The provisions of this Act shall be construed in such a manner as 
+best to enable the Association to effectively represent and protect the 
+interests of consumers and shareholders.
+
+SEC. 21. SEVERABILITY.
+
+    If any provision of this Act shall be declared invalid, the other 
+provisions of this Act shall remain in effect.
+                                 <all>

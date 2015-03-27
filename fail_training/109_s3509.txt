@@ -1,0 +1,447 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 3509 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                S. 3509
+
+ To amend the Internal Revenue Code of 1986 to provide tax incentives 
+               for the remediation of contaminated sites.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 14, 2006
+
+ Mr. Voinovich introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to provide tax incentives 
+               for the remediation of contaminated sites.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``America's Brownfield Cleanup Act''.
+
+SEC. 2. CREDIT FOR EXPENDITURES TO REMEDIATE CONTAMINATED SITES.
+
+    (a) In General.--Subpart D of part IV of subchapter A of chapter 1 
+of the Internal Revenue Code of 1986 (relating to business related 
+credits) is amended by adding at the end the following new section:
+
+``SEC. 45N. ENVIRONMENTAL REMEDIATION CREDIT.
+
+    ``(a) In General.--For purposes of section 38, the environmental 
+remediation credit determined under this section is 50 percent of the 
+qualified remediation expenditures paid or incurred by the taxpayer 
+during the taxable year with respect to a qualified contaminated site 
+located in an eligible area.
+    ``(b) Qualified Remediation Expenditures.--For purposes of this 
+section, the term `qualified remediation expenditures' means 
+expenditures, whether or not chargeable to capital account, in 
+connection with--
+            ``(1) the abatement or control of any hazardous substance 
+        at the qualified contaminated site in accordance with an 
+        approved remediation plan,
+            ``(2) the demolition of any structure (or portion thereof) 
+        on such site if any portion of such structure is demolished in 
+        connection with such abatement or control,
+            ``(3) the removal and disposal of property in connection 
+        with the activities described in paragraphs (1) and (2), and
+            ``(4) the reconstruction of utilities in connection with 
+        such activities.
+Such term includes the cost of financial assurances (including bonding) 
+and insurance described in subsection (g)(4).
+    ``(c) Qualified Contaminated Site.--For purposes of this section--
+            ``(1) In general.--The term `qualified contaminated site' 
+        means any area--
+                    ``(A) which is an eligible response site as defined 
+                in section 101(41) of the Comprehensive Environmental 
+                Response, Compensation, and Liability Act of 1980,
+                    ``(B) which is held by the taxpayer for use in a 
+                trade or business or for the production of income, or 
+                which is property described in section 1221(a)(1) in 
+                the hands of the taxpayer,
+                    ``(C) at or on which there has been a release (or 
+                threat of release) or disposal of any hazardous 
+                substance, and
+                    ``(D) with respect to which an approved remediation 
+                plan and an approved redevelopment plan are both in 
+                effect.
+            ``(2) National priorities listed sites not included.--Such 
+        term shall not include any site which is on, or proposed for, 
+        the national priorities list under section 105(a)(8)(B) of the 
+        Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (as in effect on the date of the 
+        enactment of this section).
+    ``(d) Hazardous Substance.--For purposes of this section--
+            ``(1) In general.--The term `hazardous substance' means--
+                    ``(A) any substance which is a hazardous substance 
+                as defined in section 101(14) of the Comprehensive 
+                Environmental Response, Compensation, and Liability Act 
+                of 1980,
+                    ``(B) any substance which is designated as a 
+                hazardous substance under section 102 of such Act, and
+                    ``(C) any petroleum product (within the meaning of 
+                section 4612(a)(3)).
+            ``(2) Exception.--Such term shall not include any substance 
+        with respect to which a removal or remedial action is not 
+        permitted under section 104 of such Act by reason of subsection 
+        (a)(3) thereof.
+    ``(e) Approved Remediation Plan.--For purposes of this section, the 
+term `approved remediation plan' means, with respect to any site, any 
+plan for the conduct of the activities described in paragraphs (1) 
+through (4) of subsection (b)--
+            ``(1) which is approved by a State environmental agency--
+                    ``(A) pursuant to a response program which includes 
+                each of the elements listed in section 128(a)(2) of the 
+                Comprehensive Environmental Response, Compensation, and 
+                Liability Act of 1980, and
+                    ``(B) after a determination by such agency that the 
+                plan provides for the abatement or control of the 
+                hazardous substances at such site, and
+            ``(2) which includes a written statement from such agency 
+        that such site meets the requirements of paragraphs (1)(A), 
+        (1)(C), and (2) of subsection (c).
+    ``(f) Approved Redevelopment Plan.--For purposes of this section, 
+the term `approved redevelopment plan' means, with respect to any site, 
+any plan for the redevelopment of such site which is approved by the 
+State development agency after a determination by such agency that the 
+plan provides for the redevelopment of such site in a manner beneficial 
+to the State and local economy and to the local community generally.
+    ``(g) Credit May Not Exceed Allocation.--
+            ``(1) In general.--The environmental remediation credit 
+        determined under this section with respect to any qualified 
+        contaminated site shall not exceed the credit amount allocated 
+        under this section by the State development agency to the 
+        taxpayer with respect to such site.
+            ``(2) Time for making allocation.--An allocation shall be 
+        taken into account under paragraph (1) for any taxable year 
+        only if made before the close of the calendar year in which 
+        such taxable year begins.
+            ``(3) Manner of allocation.--
+                    ``(A) Allocation must be pursuant to plan.--No 
+                amount may be allocated under this subsection to any 
+                qualified contaminated site unless--
+                            ``(i) an approved remediation plan and an 
+                        approved redevelopment plan are both in effect 
+                        with respect to such site, and
+                            ``(ii) such amount is allocated pursuant to 
+                        a qualified allocation plan of the State 
+                        development agency.
+                    ``(B) Qualified allocation plan.--For purposes of 
+                this paragraph, the term `qualified allocation plan' 
+                means any plan--
+                            ``(i) which sets forth selection criteria 
+                        to be used to determine priorities of the State 
+                        development agency in allocating credit amounts 
+                        under this section, and
+                            ``(ii) which gives preference in allocating 
+                        credit amounts under this section to qualified 
+                        contaminated sites based on--
+                                    ``(I) the extent of poverty,
+                                    ``(II) whether the site is located 
+                                in an empowerment zone, enterprise 
+                                community, or renewal community,
+                                    ``(III) whether the site is located 
+                                in the central business district of the 
+                                local jurisdiction,
+                                    ``(IV) the extent of the required 
+                                environmental remediation,
+                                    ``(V) the extent of the commercial, 
+                                industrial, or residential 
+                                redevelopment of the site in addition 
+                                to environmental remediation,
+                                    ``(VI) the extent of the financial 
+                                commitment to such redevelopment,
+                                    ``(VII) the amount of new 
+                                employment expected to result from such 
+                                redevelopment, and
+                                    ``(VIII) whether it is reasonably 
+                                expected that under the approved 
+                                remediation plan at least 25 percent of 
+                                the estimated total qualified 
+                                remediation expenditures will be borne 
+                                by one or more persons who are 
+                                potentially liable under section 107(a) 
+                                of the Comprehensive Environmental 
+                                Response, Compensation, and Liability 
+                                Act of 1980.
+            ``(4) States may impose other conditions.--Nothing in this 
+        section shall be construed to prevent any State from 
+        requiring--
+                    ``(A) assurances, including bonding, that any 
+                project for which a credit amount is allocated under 
+                this section will be properly completed or that the 
+                financial commitments of the taxpayer are actually 
+                carried out,
+                    ``(B) that the taxpayer obtain insurance which 
+                reimburses qualified remediation expenditures in excess 
+                of the total estimated amount of such expenditures, or
+                    ``(C) that the taxpayer obtain insurance covering 
+                liability for personal injury, death, or property 
+                damage.
+    ``(h) State Environmental Remediation Credit Ceiling.--For purposes 
+of this section--
+            ``(1) Limitation.--The aggregate credit amounts allocated 
+        by the State development agency during any calendar year shall 
+        not exceed the State environmental remediation credit ceiling 
+        applicable to such State for such calendar year.
+            ``(2) Determination of limitation amount.--The State 
+        environmental remediation credit ceiling applicable to any 
+        State for any calendar year shall be an amount equal to the sum 
+        of--
+                    ``(A) such State's share of the national 
+                environmental remediation credit limitation for the 
+                calendar year,
+                    ``(B) the unused State environmental remediation 
+                credit ceiling (if any) of such State for the calendar 
+                year,
+                    ``(C) the amount of State environmental remediation 
+                credit ceiling returned in the calendar year, plus
+                    ``(D) the amount (if any) allocated under paragraph 
+                (5) to such State by the Secretary.
+            ``(3) National environmental remediation credit 
+        limitation.--
+                    ``(A) In general.--The national environmental 
+                remediation credit limitation for each calendar year is 
+                $1,000,000,000.
+                    ``(B) State's share of limitation.--A State's share 
+                of such limitation is the amount which bears the same 
+                ratio to the limitation applicable under subparagraph 
+                (A) for the calendar year as such State's population 
+                bears to the population of the United States.
+            ``(4) Unused state environmental remediation credit 
+        ceiling.--The unused State environmental remediation credit 
+        ceiling for any calendar year is the excess (if any) of--
+                    ``(A) the State environmental remediation credit 
+                ceiling applicable to the State for the preceding 
+                calendar year (determined without regard to paragraph 
+                (2)(B)), over
+                    ``(B) the aggregate environmental remediation 
+                credit amount allocated by the State for such preceding 
+                year.
+            ``(5) Unused environmental remediation credit allocated 
+        among states after 1-year carryforward.--
+                    ``(A) In general.--The excess unused environmental 
+                remediation credit of a State for any calendar year 
+                shall be assigned to the Secretary for allocation among 
+                qualified States for the succeeding calendar year.
+                    ``(B) Excess unused environmental remediation 
+                credit.--For purposes of this paragraph, the excess 
+                unused environmental remediation credit of a State for 
+                any calendar year is the excess (if any) of--
+                            ``(i) the unused State environmental 
+                        remediation credit ceiling for the preceding 
+                        calendar year, over
+                            ``(ii) the aggregate environmental 
+                        remediation credit amount allocated by the 
+                        State for such preceding year.
+                    ``(C) Formula for allocation of excess unused 
+                environmental remediation credit among states.--Rules 
+                similar to the rules of clauses (iii) and (iv) of 
+                section 42(h)(3)(D) shall apply for purposes of this 
+                paragraph.
+            ``(6) Population.--For purposes of this subsection, 
+        population shall be determined in accordance with section 
+        146(j).
+            ``(7) Inflation adjustment.--In the case of any calendar 
+        year after 2006, the $1,000,000,000 amount contained in 
+        paragraph (3) shall be increased by an amount equal to--
+                    ``(A) such dollar amount, multiplied by
+                    ``(B) the cost-of-living adjustment determined 
+                under section 1(f)(3) for the calendar year, determined 
+                by substituting `calendar year 2005' for `calendar year 
+                1992' in subparagraph (B) thereof.
+        Any increase determined under the preceding sentence shall be 
+        rounded to the nearest multiple of $500,000.
+    ``(i) Other Definitions and Special Rule.--For purposes of this 
+section--
+            ``(1) Eligible area.--
+                    ``(A) In general.--The term `eligible area' means 
+                the entire area encompassed by a local governmental 
+                unit or Indian tribal government if such entire area 
+                contains at least 1 census tract having a poverty rate 
+                of at least 20 percent.
+                    ``(B) Use of equivalent county divisions.--In the 
+                case of any area which is not tracted for population 
+                census tracts, the equivalent county divisions (as 
+                defined by the Bureau of the Census for purposes of 
+                defining poverty areas) shall be treated as census 
+                tracts for purposes of subparagraph (A).
+                    ``(C) Use of census data.--For purposes of this 
+                paragraph, population and poverty rate shall be 
+                determined by the most recent decennial census data 
+                available.
+            ``(2) State environmental agency.--The term `State 
+        environmental agency' means any State agency specifically 
+        authorized by gubernatorial act or State statute to carry out 
+        the functions and responsibilities of a State environmental 
+        agency for purposes of this section.
+            ``(3) State development agency.--The term `State 
+        development agency' means any State agency specifically 
+        authorized by gubernatorial act or State statute to carry out 
+        the functions and responsibilities of a State development 
+        agency for purposes of this section.
+            ``(4) Possessions treated as states.--The term `State' 
+        includes a possession of the United States.
+            ``(5) Special rules for hazardous substances that are 
+        petroleum products.--In the case of an area at or on which 
+        there has been a release (or threat of release) or disposal of 
+        any hazardous substance that is a petroleum product, the 
+        following rules shall apply:
+                    ``(A) The requirement of subsection (c)(1)(A) shall 
+                be deemed to be met.
+                    ``(B) The requirement of subsection (e)(1)(A) shall 
+                be deemed to be met.
+                    ``(C) Subsection (e)(2) shall be applied by 
+                substituting `(1)(C) and (2)' for `(1)(A), (1)(C), and 
+                (2)'.
+    ``(j) Credit May Be Assigned.--
+            ``(1) In general.--If a taxpayer elects the application of 
+        this subsection for any taxable year, the amount of credit 
+        determined under this section for such year which would (but 
+        for this subsection) be allowable to the taxpayer shall be 
+        allowable to the person designated by the taxpayer. The person 
+        so designated shall be treated as the taxpayer for purposes of 
+        this title (other than this paragraph).
+            ``(2) Treatment of amounts paid for assignment.--If any 
+        amount is paid to the person who assigns the credit determined 
+        under this section, no portion of such amount shall be 
+        includible in such person's gross income.
+    ``(k) Recapture of Credit if Approved Remediation Plan or Approved 
+Redevelopment Plan Not Properly Completed.--
+            ``(1) In general.--If--
+                    ``(A) the State environmental agency determines 
+                that the approved remediation plan for the qualified 
+                contaminated site was not properly completed, or
+                    ``(B) the State development agency determines that 
+                the approved redevelopment plan for such site was not 
+                properly completed,
+        the taxpayer's tax under this chapter for the taxable year in 
+        which such determination is made shall be increased by the 
+        credit recapture amount.
+            ``(2) Credit recapture amount.--For purposes of paragraph 
+        (1), the credit recapture amount is an amount equal to the sum 
+        of--
+                    ``(A) the aggregate decrease in the credits allowed 
+                to the taxpayer under section 38 for all prior taxable 
+                years which would have resulted if the credit allowable 
+                by reason of this section were not allowed, plus
+                    ``(B) interest at the overpayment rate established 
+                under section 6621 on the amount determined under 
+                subparagraph (A) for each prior taxable year for the 
+                period beginning on the due date for filing the return 
+                for the prior taxable year involved.
+        No deduction shall be allowed under this chapter for interest 
+        described in subparagraph (B).
+            ``(3) Special rules.--
+                    ``(A) Tax benefit rule.--The tax for the taxable 
+                year shall be increased under paragraph (1) only with 
+                respect to credits allowed by reason of this section 
+                which were used to reduce tax liability. In the case of 
+                credits not so used to reduce tax liability, the 
+                carryforwards and carrybacks under section 39 shall be 
+                appropriately adjusted.
+                    ``(B) No credits against tax.--Any increase in tax 
+                under this subsection shall not be treated as a tax 
+                imposed by this chapter for purposes of determining the 
+                amount of any credit or the tax imposed by section 55.
+    ``(l) Denial of Double Benefit.--
+            ``(1) In general.--No deduction shall be allowed for that 
+        portion of the qualified remediation expenditures otherwise 
+        allowable as a deduction for the taxable year which is equal to 
+        the amount of the credit determined for such taxable year under 
+        this section.
+            ``(2) Similar rule where taxpayer capitalizes rather than 
+        deducts expenses.--If--
+                    ``(A) the amount of the credit determined for the 
+                taxable year under this section, exceeds
+                    ``(B) the amount allowable as a deduction for such 
+                taxable year for qualified remediation expenditures 
+                (determined without regard to paragraph (1)),
+        the amount chargeable to capital account for the taxable year 
+        for such expenditures shall be reduced by the amount of such 
+        excess.
+            ``(3) Controlled groups.--In the case of a corporation 
+        which is a member of a controlled group of corporations (within 
+        the meaning of section 41(f)(5)) or a trade or business which 
+        is treated as being under common control with other trades or 
+        businesses (within the meaning of section 41(f)(1)(B)), this 
+        subsection shall be applied under rules prescribed by the 
+        Secretary similar to the rules applicable under subparagraphs 
+        (A) and (B) of section 41(f)(1).
+    ``(m) Cost of Removal or Remedial Action.--The credit allowed under 
+this section shall not be treated as a cost of removal or remedial 
+action incurred by the United States for purposes of section 
+107(a)(4)(A) of the Comprehensive Environmental Response, Compensation, 
+and Liability Act of 1980.''.
+    (b) Exclusion by Site Owner of Remediation Expenditures Paid by 
+Potentially Responsible Parties.--Part III of subchapter B of chapter 1 
+of such Code is amended by inserting after section 139A the following 
+new section:
+
+``SEC. 139B. REMEDIATION CONTRIBUTIONS BY POTENTIALLY RESPONSIBLE 
+              PARTIES.
+
+    ``(a) In General.--Gross income shall not include any amount 
+received as a qualified remediation contribution.
+    ``(b) Qualified Remediation Contribution.--For purposes of this 
+section, the term `qualified remediation contribution' means any amount 
+which is paid to or for the benefit of the owner of any property by a 
+potentially responsible party (within the meaning of the Comprehensive 
+Environmental Response, Compensation, and Liability Act of 1980) with 
+respect to such property for qualified remediation expenditures (as 
+defined in section 45N(b)) with respect to such property.
+    ``(c) Denial of Double Benefit.--Notwithstanding any other 
+provision of this subtitle--
+            ``(1) no deduction or credit shall be allowed (to the 
+        person for whose benefit a qualified remediation contribution 
+        is made) for, or by reason of, any expenditure to the extent of 
+        the amount excluded under this section with respect to such 
+        expenditure, and
+            ``(2) no increase in the basis of any property shall result 
+        from any amount excluded under this section with respect to 
+        such property.''.
+    (c) Credit Treated as Business Credit.--Section 38(b) of such Code 
+is amended by striking ``and'' at the end of paragraph (29), by 
+striking the period at the end of paragraph (30) and inserting ``, 
+plus'', and by adding at the end the following new paragraph:
+            ``(31) the environmental remediation credit determined 
+        under section 45N(a).''.
+    (d) Clerical Amendments.--
+            (1) The table of sections for subpart D of part IV of 
+        subchapter A of chapter 1 of such Code is amended by adding at 
+        the end the following new item:
+
+``Sec.  45N. Environmental remediation credit.''.
+            (2) The table of sections for part III of subchapter B of 
+        chapter 1 of such Code is amended by inserting after the item 
+        relating to section 139A the following new item:
+
+``Sec. 139B. Remediation contributions by potentially responsible 
+                            parties.''.
+    (e) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2005.
+                                 <all>

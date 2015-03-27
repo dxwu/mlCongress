@@ -1,0 +1,1102 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4092 Reported in House (RH)]
+
+                                                 Union Calendar No. 267
+107th CONGRESS
+  2d Session
+                                H. R. 4092
+
+                      [Report No. 107-452, Part I]
+
+    To enhance the opportunities of needy families to achieve self-
+   sufficiency and access quality child care, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 9, 2002
+
+  Mr. McKeon (for himself, Mr. Boehner, Mr. Petri, Mr. Hoekstra, Mr. 
+   Greenwood, Mr. Upton, Mr. Tancredo, Mr. DeMint, Mr. Isakson, Mr. 
+  Keller, and Mr. Culberson) introduced the following bill; which was 
+   referred to the Committee on Education and the Workforce, and in 
+    addition to the Committee on Ways and Means, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+                              May 10, 2002
+
+Additional sponsors: Mr. Payne, Mr. Gilman, Mr. Rohrabacher, Mr. Wolf, 
+   Ms. Ros-Lehtinen, Mr. Pitts, Mr. Tancredo, Mr. Dingell, Mr. Diaz-
+ Balart, Mr. Hilliard, Mr. Blumenauer, Mrs. Napolitano, Mrs. Clayton, 
+ Mr. Meeks of New York, Mr. Berman, Mr. Sanders, Mr. King, Mr. McHugh, 
+    Ms. Hart, Ms. Eddie Bernice Johnson of Texas, Ms. McKinney, Mr. 
+Hoeffel, Mr. Issa, Mr. Roemer, Mr. Hyde, Mr. Lantos, Mr. Houghton, Mr. 
+ Bereuter, Mr. Waxman, Mr. Clement, Mr. Isakson, Mr. Hall of Ohio, Ms. 
+Lee, Ms. Roybal-Allard, Mr. McNulty, Mr. Mica, Mr. Young of Alaska, Mr. 
+ Walsh, Mr. Castle, Ms. Millender-McDonald, Mrs. Davis of California, 
+   Mr. Greenwood, Mrs. Morella, Mr. Moran of Virginia, Ms. Brown of 
+Florida, Mrs. Meek of Florida, Mr. Smith of Washington, Ms. Eshoo, Mr. 
+Kirk, Mr. Nethercutt, Mr. Wexler, Ms. Woolsey, Mr. Camp, Mr. Wilson of 
+ South Carolina, Ms. Dunn, Mr. Bishop, Mr. Tom Davis of Virginia, Mr. 
+   Shays, Mr. Shaw, Mr. Schaffer, Mr. Jefferson, Ms. Slaughter, Mr. 
+   Bentsen, Mr. Oberstar, Mr. Udall of Colorado, Mr. McDermott, Mr. 
+ Thompson of Mississippi, Mr. Dicks, Mr. Kildee, Mr. Luther, Mr. Price 
+ of North Carolina, Mr. Rodriguez, Ms. Carson of Indiana, Mr. Pastor, 
+Mr. Rangel, Mrs. Mink of Hawaii, Mr. Filner, Mr. Brown of Ohio, and Mr. 
+                              Faleomavaega
+
+                              May 10, 2002
+
+  Reported from the Committee on Education and the Workforce with an 
+                               amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+                              May 10, 2002
+
+ Referral to the Committee on Ways and Means extended for a period not 
+                        later than May 10, 2002
+
+                              May 10, 2002
+
+The Committee on Ways and Means discharged; committed to the Committee 
+ of the Whole House on the State of the Union and ordered to be printed
+ [For text of introduced bill, see copy of bill as introduced on April 
+                                9, 2002]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To enhance the opportunities of needy families to achieve self-
+   sufficiency and access quality child care, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Working Toward 
+Independence Act of 2002''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title.
+
+                         TITLE I--TANF PROGRAM
+
+Sec. 101. Work participation requirements.
+Sec. 102. Universal engagement policy.
+Sec. 103. Work-related performance objectives.
+Sec. 104. Bonus to reward employment achievement.
+Sec. 105. Report on integration.
+Sec. 106. GAO study.
+Sec. 107. Purpose of work participation requirements.
+Sec. 108. State TANF programs made mandatory partners with one-stop 
+                            employment training centers.
+Sec. 109. Longitudinal study of TANF applicants and recipients to 
+                            determine the factors that contribute to 
+                            the ability of people to comply with TANF 
+                            work requirements.
+
+TITLE II--AMENDMENTS TO THE CHILD CARE AND DEVELOPMENT BLOCK GRANT ACT 
+                                OF 1990
+
+Sec. 201. Short title.
+Sec. 202. Goals.
+Sec. 203. Authorization of appropriations.
+Sec. 204. Application and plan.
+Sec. 205. Activities to improve the quality of child care.
+Sec. 206. Definitions.
+
+                 TITLE III--BROADENED WAIVER AUTHORITY
+
+Sec. 301. State program demonstration projects.
+
+                       TITLE VII--EFFECTIVE DATE
+
+Sec. 401. Effective date.
+
+                         TITLE I--TANF PROGRAM
+
+SEC. 101. WORK PARTICIPATION REQUIREMENTS.
+
+    (a) In General.--Section 407 of the Social Security Act (42 U.S.C. 
+607) is amended by striking all that precedes subsection (b)(3) and 
+inserting the following:
+
+``SEC. 407. WORK PARTICIPATION REQUIREMENTS.
+
+    ``(a) Participation Rate Requirements.--A State to which a grant is 
+made under section 403 for a fiscal year shall achieve a minimum 
+participation rate equal to not less than--
+            ``(1) 50 percent for fiscal year 2003;
+            ``(2) 55 percent for fiscal year 2004;
+            ``(3) 60 percent for fiscal year 2005;
+            ``(4) 65 percent for fiscal year 2006; and
+            ``(5) 70 percent for fiscal year 2007 and each succeeding 
+        fiscal year.
+    ``(b) Calculation of Participation Rates.--
+            ``(1) Average monthly rate.--For purposes of subsection 
+        (a), the participation rate of a State for a fiscal year is the 
+        average of the participation rates of the State for each month 
+        in the fiscal year.
+            ``(2) Monthly participation rates; incorporation of 40-hour 
+        work week standard.--
+                    ``(A) In general.--For purposes of paragraph (1), 
+                the participation rate of a State for a month is--
+                            ``(i) the total number of countable hours 
+                        (as defined in subsection (c)) with respect to 
+                        the counted families for the State for the 
+                        month; divided by
+                            ``(ii) 160 multiplied by the number of 
+                        counted families for the State for the month.
+                    ``(B) Counted families defined.--
+                            ``(i) In general.--In subparagraph (A), the 
+                        term `counted family' means, with respect to a 
+                        State and a month, a family that includes a 
+                        work-eligible individual and that receives 
+                        assistance in the month under the State program 
+                        funded under this part, subject to clause (ii).
+                            ``(ii) State option to exclude certain 
+                        families.--At the option of a State, the term 
+                        `counted family' shall not include--
+                                    ``(I) a family in the first month 
+                                for which the family is a recipient of 
+                                assistance under the State program; or
+                                    ``(II) on a case-by-case basis, a 
+                                family in which the youngest child has 
+                                not attained 12 months of age.
+                            ``(iii) State option to include individuals 
+                        receiving assistance under a tribal family 
+                        assistance plan or tribal work program.--At the 
+                        option of a State, the term `counted family' 
+                        may include families in the State that are 
+                        receiving assistance under a tribal family 
+                        assistance plan approved under section 412 or 
+                        under a tribal work program to which funds are 
+                        provided under this part.
+                    ``(C) Work-eligible individual defined.--In this 
+                section, the term `work-eligible individual' means an 
+                individual--
+                            ``(i) who is married, or is a single head 
+                        of household; and
+                            ``(ii) whose needs are (or, but for 
+                        sanctions under this part that have been in 
+                        effect for more than 3 months (whether or not 
+                        consecutive) in the preceding 12 months or 
+                        under part D, would be) included in determining 
+                        the amount of cash assistance to be provided to 
+                        the family under the State program funded under 
+                        this part.''.
+    (b) Revision of Caseload Reduction Credit.--Section 
+407(b)(3)(A)(ii) of such Act (42 U.S.C. 607(b)(3)(A)(ii)) is amended to 
+read as follows:
+                            ``(ii) the average monthly number of 
+                        families that received assistance under the 
+                        State program funded under this part during--
+                                    ``(I) if the fiscal year is fiscal 
+                                year 2003, fiscal year 1996;
+                                    ``(II) if the fiscal year is fiscal 
+                                year 2004, fiscal year 1998;
+                                    ``(III) if the fiscal year is 
+                                fiscal year 2005, fiscal year 2001; or
+                                    ``(IV) if the fiscal year is fiscal 
+                                year 2006 or any succeeding fiscal 
+                                year, the then 4th preceding fiscal 
+                                year.''.
+    (c) Countable Hours.--Section 407 of such Act (42 U.S.C. 607) is 
+amended by striking subsections (c) and (d) and inserting the 
+following:
+    ``(c) Countable Hours.--
+            ``(1) Definition.--In subsection (b)(2), the term 
+        `countable hours' means, with respect to a family for a month, 
+        the total number of hours in the month in which any member of 
+        the family who is a work-eligible individual is engaged in a 
+        direct work activity or other activities specified by the 
+        State, subject to the other provisions of this subsection.
+            ``(2) Limitations.--Subject to such regulations as the 
+        Secretary may prescribe:
+                    ``(A) Minimum weekly average of 24 hours of direct 
+                work activities required.--If the work-eligible 
+                individuals in a family are engaged in a direct work 
+                activity for an average total of fewer than 24 hours 
+                per week in a month, then the number of countable hours 
+                with respect to the family for the month shall be zero.
+                    ``(B) Maximum weekly average of 16 hours of other 
+                activities.--An average of not more than 16 hours per 
+                week of activities specified by the State that are not 
+                direct work activities may be considered countable 
+                hours in a month with respect to a family.
+            ``(3) Special rules.--For purposes of paragraph (1):
+                    ``(A) Participation in qualified activities.--
+                            ``(i) In general.--If, with the approval of 
+                        the State, the work-eligible individuals in a 
+                        family are engaged in 1 or more qualified 
+                        activities for an average total of at least 24 
+                        hours per week in a month, then all such 
+                        engagement in the month shall be considered 
+                        engagement in a direct work activity, subject 
+                        to clause (iii).
+                            ``(ii) Qualified activity defined.--The 
+                        term `qualified activity' means--
+                                    ``(I) substance abuse counseling or 
+                                treatment;
+                                    ``(II) rehabilitation treatment and 
+                                services;
+                                    ``(III) work-related education or 
+                                training directed effectively at 
+                                enabling the family member to work; or
+                                    ``(IV) job search or job readiness 
+                                assistance.
+                            ``(iii) Limitation.--
+                                    ``(I) General rule.--Except as 
+                                provided in subclause (II), clause (i) 
+                                may not be applied to a family for more 
+                                than 3 months in any period of 24 
+                                consecutive months.
+                                    ``(II) Special rule applicable to 
+                                education and training.--A State may, 
+                                on a case-by-case basis, apply clause 
+                                (i) to a work-eligible individual so 
+                                that participation by the individual in 
+                                education or training, if needed to 
+                                permit the individual to complete a 
+                                certificate program or other work-
+related education or training directed effectively at enabling the 
+individual to fill a known job need in a local area, may be considered 
+countable hours with respect to the family of the individual for not 
+more than 4 months in any period of 24 consecutive months.
+                    ``(B) School attendance by teen head of 
+                household.--A family shall be considered to be engaged 
+                in a direct work activity for an average of 40 hours 
+                per week in a month if the family includes an 
+                individual who is married or is a single head of 
+                household who has not attained 20 years of age, and the 
+                individual--
+                            ``(i) maintains satisfactory attendance at 
+                        secondary school or the equivalent in the 
+                        month; or
+                            ``(ii) participates in education directly 
+                        related to employment for an average of at 
+                        least 20 hours per week in the month.
+    ``(d) Direct Work Activities.--In this section, the term `direct 
+work activities' means--
+            ``(1) unsubsidized employment;
+            ``(2) subsidized private sector employment;
+            ``(3) subsidized public sector employment;
+            ``(4) on-the-job training;
+            ``(5) supervised work experience, including 
+        entrepreneurship or micro-enterprise activities; or
+            ``(6) supervised community service.''.
+    (d) Penalties Against Individuals.--Section 407(e)(1) (42 U.S.C. 
+607(e)(1)) is amended to read as follows:
+            ``(1) In general.--Except as provided in paragraph (2), if 
+        an individual in a family receiving assistance under a State 
+        program funded under this part fails to engage in activities 
+        required in accordance with this section, or other activities 
+        required by the State under the program, and the family does 
+        not otherwise engage in activities in accordance with the self-
+        sufficiency plan established for the family pursuant to section 
+        408(b), the State shall--
+                    ``(A) if the failure is partial or persists for not 
+                more than 1 month--
+                            ``(i) reduce the amount of assistance 
+                        otherwise payable to the family pro rata (or 
+                        more, at the option of the State) with respect 
+                        to any period during a month in which the 
+                        failure occurs; or
+                            ``(ii) terminate all assistance to the 
+                        family, subject to such good cause exceptions 
+                        as the State may establish; or
+                    ``(B) if the failure is total and persists for at 
+                least 2 consecutive months, terminate the payment to 
+                the family, under all State programs, of any cash 
+                benefit that is a qualified State expenditure (as 
+                defined in section 409(a)(7)(B)(i)) for at least 1 
+                month and thereafter until the State determines that 
+                the individual is in full compliance with all 
+                requirements imposed under the State program funded 
+                under this part, subject to such good cause exceptions 
+                as the State may establish.''.
+    (e) Conforming Amendments.--
+            (1) Section 404(k)(1)(D) of such Act (42 U.S.C. 
+        604(k)(1)(D)) is amended by striking ``work activities'' and 
+        inserting ``direct work activities''.
+            (2) Section 407(b) of such Act (42 U.S.C. 607(b)) is 
+        amended by striking paragraphs (4) and (5).
+            (3) Section 407(f) of such Act (42 U.S.C. 607(f)) is 
+        amended in each of paragraphs (1) and (2) by striking ``work 
+        activity described in subsection (d)'' and inserting ``direct 
+        work activity''.
+            (4) The heading of section 409(a)(14) of such Act (42 
+        U.S.C. 609(a)(14)) is amended by inserting ``or refusing to 
+        engage in activities under a family self-sufficiency plan'' 
+        after ``work''.
+    (f) Sense of the Congress.--It is the sense of the Congress that a 
+State welfare-to-work program should include a mentorship program.
+
+SEC. 102. UNIVERSAL ENGAGEMENT POLICY.
+
+    (a) Modification of State Plan Requirements.--Section 402(a)(1)(A) 
+of the Social Security Act (42 U.S.C. 602(a)(1)(A)) is amended by 
+striking clauses (ii) and (iii) and inserting the following:
+                            ``(ii) Require a parent or caretaker 
+                        receiving assistance under the program to 
+                        engage in work and alternative self-sufficiency 
+                        activities (as defined by the State), 
+                        consistent with section 407(e)(2).
+                            ``(iii) Require families receiving 
+                        assistance under the program to engage in 
+                        activities in accordance with family self-
+                        sufficiency plans developed pursuant to section 
+                        408(b).''.
+    (b) Establishment of Family Self-Sufficiency Plans.--Section 408(b) 
+of such Act (42 U.S.C. 608(b)) is amended to read as follows:
+    ``(b) Family Self-Sufficiency Plans.--
+            ``(1) In general.--A State to which a grant is made under 
+        section 403 shall--
+                    ``(A) assess, in the manner deemed appropriate by 
+                the State, the employability, skills, job readiness, 
+                barriers to employment, and any additional factors 
+                hindering the achievement of self-sufficiency of each 
+                work-eligible individual (as defined in section 
+                407(b)(2)(C)), including whether a member of a family 
+                receiving assistance under the State program funded 
+                under this part has been a victim of domestic or sexual 
+                violence, and may refer any such family member for 
+                services as deemed appropriate by the State;
+                    ``(B) establish for each family receiving 
+                assistance under the State program funded under this 
+                part, in consultation with each work-eligible 
+                individual (as so defined), a self-sufficiency plan 
+                that specifies appropriate activities described in the 
+                State plan submitted pursuant to section 402, including 
+                direct work activities as appropriate designed to 
+                assist the family in achieving their maximum degree of 
+                self-sufficiency;
+                    ``(C) require, at a minimum, each member of the 
+                family who is a work eligible individual (as so 
+defined) to participate in activities in accordance with the employment 
+or other goals established in the self-sufficiency plan;
+                    ``(D) provide a description of the services, 
+                programs, and supports that are determined appropriate 
+                by the State to meet employment or other goals;
+                    ``(E) set forth the obligations of the recipient;
+                    ``(F) monitor the participation of such family 
+                members in the planned activities and the progress of 
+                the family toward self-sufficiency;
+                    ``(G) regularly review the effectiveness of the 
+                self-sufficiency plan and the activities in which the 
+                individuals are engaged; and
+                    ``(H) upon such a review, revise the self-
+                sufficiency plan and activities as the State deems 
+                appropriate.
+        Nothing in this part shall preclude a State from requiring 
+        participation in work and any other activities the State deems 
+        appropriate for helping families achieve self-sufficiency and 
+        improving child well-being.
+            ``(2) Timing.--The State shall comply with paragraph (1) 
+        with respect to a family--
+                    ``(A) in the case of a family that, as of October 
+                1, 2002, is not receiving assistance from the State 
+                program funded under this part, not later than 60 days 
+                after the family first receives assistance on the basis 
+                of the most recent application for the assistance; or
+                    ``(B) in the case of a family that, as of such 
+                date, is receiving the assistance, not later than 180 
+                days after October 1, 2002.
+            ``(3) State discretion.--A State shall have sole 
+        discretion, consistent with section 407, to define and design 
+        activities for families for purposes of this subsection, and to 
+        develop methods for monitoring and reviewing progress pursuant 
+        to this subsection.
+            ``(4) Condition.--A State may use funds provided under this 
+        part to provide free or reduced price transportation on any bus 
+        or van which is used under the State program funded under this 
+        part.''.
+    (c) Penalty for Failure To Establish Family Self-Sufficiency 
+Plan.--Section 409(a)(3) of such Act (42 U.S.C. 609(a)(3)) is amended--
+            (1) in the paragraph heading, by inserting ``or establish 
+        family self-sufficiency plan'' after ``rates''; and
+            (2) in subparagraph (A), by inserting ``or 408(b)'' after 
+        ``407(a)''.
+
+SEC. 103. WORK-RELATED PERFORMANCE OBJECTIVES.
+
+    (a) State Plan Modifications.--Section 402(a)(1) of the Social 
+Security Act (42 U.S.C. 602(a)(1)) is amended--
+            (1) in subparagraph (A), by adding at the end the 
+        following:
+                            ``(vii) The document shall--
+                                    ``(I) describe how the State will 
+                                pursue ending dependence of needy 
+                                parents on government benefits by 
+                                promoting job preparation and work;
+                                    ``(II) include specific numerical 
+                                and measurable performance objectives 
+                                for accomplishing the purpose so 
+                                described, which shall include 
+                                objectives consistent with the criteria 
+                                used by the Secretary in establishing 
+                                performance targets under section 
+                                403(a)(4)(B) if available; and
+                                    ``(III) describe the methodology 
+                                that the State will use to measure 
+                                State performance in relation to each 
+                                such objective.
+                            ``(viii) The document shall describe any 
+                        strategies and programs the State may be 
+                        undertaking to address--
+                                    ``(I) employment retention and 
+                                advancement for recipients of 
+                                assistance under the State program 
+                                funded under this part, including 
+                                placement into high-demand jobs 
+                                identified using labor market 
+                                information available through the One-
+                                Stop delivery system created under the 
+                                Workforce Investment Act of 1998;
+                                    ``(II) services for struggling and 
+                                noncompliant families and clients with 
+                                special problems; and
+                                    ``(III) program integration, 
+                                including the extent to which TANF 
+                                employment and training services are 
+                                provided through the One-Stop delivery 
+                                system created under the Workforce 
+                                Investment Act of 1998, and the extent 
+                                to which former recipients of such 
+                                assistance have access to additional 
+                                core, intensive, or training services 
+                                funded through such Act.''; and
+            (2) in subparagraph (B), by striking clause (iv).
+    (b) Report on Annual Achievement of Performance Goals.--Section 411 
+of such Act (42 U.S.C. 611) is amended by adding at the end the 
+following:
+    ``(c) Annual Report on Achievement of Performance Goals.--Beginning 
+with fiscal year 2004, not later than 3 months after the end of each 
+fiscal year, each eligible State shall submit to the Secretary a report 
+on achievement and improvement during the preceding fiscal year under 
+the numerical objectives referred to in section 402(a)(1)(A)(vii), 
+using the measurement methodology described in such section.''.
+    (c) Annual Ranking of States.--Section 413(d)(1) of such Act (42 
+U.S.C. 613(d)(1)) is amended by striking ``long-term private sector 
+jobs,'' and inserting ``private sector jobs, the success of the 
+recipients in retaining employment, the ability of the recipients to 
+increase their wages,''.
+    (d) Performance Improvement.--Section 413 of such Act (42 U.S.C. 
+613) is amended by adding at the end the following:
+    ``(k) Performance Improvement.--The Secretary, in consultation with 
+States, shall develop uniform performance measures designed to assess 
+the degree of effectiveness, and the degree of improvement, of State 
+programs funded under this part in accomplishing the work-related 
+purposes of this part.''.
+
+SEC. 104. BONUS TO REWARD EMPLOYMENT ACHIEVEMENT.
+
+    (a) In General.--Section 403(a)(4) of the Social Security Act (42 
+U.S.C. 603(a)(4)) is amended to read as follows:
+            ``(4) Bonus to reward employment achievement.--
+                    ``(A) In general.--The Secretary shall make a grant 
+                pursuant to this paragraph to each State for each bonus 
+                year for which the State is an employment achievement 
+                State.
+                    ``(B) Amount of grant.--
+                            ``(i) In general.--Subject to clause (ii) 
+                        of this subparagraph, the Secretary shall 
+                        determine the amount of the grant payable under 
+                        this paragraph to an employment achievement 
+                        State for a bonus year, which shall be based on 
+                        the performance of the State as determined 
+                        under subparagraph (D)(i) for the fiscal year 
+                        that immediately precedes the bonus year.
+                            ``(ii) Limitation.--The amount payable to a 
+                        State under this paragraph for a bonus year 
+shall not exceed 5 percent of the State family assistance grant.
+                    ``(C) Formula for measuring state performance.--
+                            ``(i) In general.--Subject to clause (ii), 
+                        not later than October 1, 2003, the Secretary, 
+                        in consultation with States and the Secretary 
+                        of Labor, shall develop a formula for measuring 
+                        State performance in operating the State 
+                        program funded under this part so as to achieve 
+                        the goals of employment entry, job retention, 
+                        and increased earnings from employment for 
+                        families receiving assistance under the 
+                        program, as measured on an absolute basis and 
+                        on the basis of improvement in State 
+                        performance.
+                            ``(ii) Special rule for bonus year 2004.--
+                        For the purposes of awarding a bonus under this 
+                        paragraph for bonus year 2004, the Secretary 
+                        may measure the performance of a State in 
+                        fiscal year 2003 using the job entry rate, job 
+                        retention rate, and earnings gain rate 
+                        components of the formula developed under 
+                        section 403(a)(4)(C) as in effect immediately 
+                        before the effective date of this paragraph.
+                    ``(D) Determination of state performance.--For each 
+                bonus year, the Secretary shall--
+                            ``(i) use the formula developed under 
+                        subparagraph (C) to determine the performance 
+                        of each eligible State for the fiscal year that 
+                        precedes the bonus year; and
+                            ``(ii) prescribe performance standards in 
+                        such a manner so as to ensure that--
+                                    ``(I) the average annual total 
+                                amount of grants to be made under this 
+                                paragraph for each bonus year equals 
+                                $100,000,000; and
+                                    ``(II) the total amount of grants 
+                                to be made under this paragraph for all 
+                                bonus years equals $500,000,000.
+                    ``(E) Definitions.--In this paragraph:
+                            ``(i) Bonus year.--The term `bonus year' 
+                        means each of fiscal years 2004 through 2008.
+                            ``(ii) Employment achievement state.--The 
+                        term `employment achievement State' means, with 
+                        respect to a bonus year, an eligible State 
+                        whose performance determined pursuant to 
+                        subparagraph (D)(i) for the fiscal year 
+                        preceding the bonus year equals or exceeds the 
+                        performance standards prescribed under 
+                        subparagraph (D)(ii) for such preceding fiscal 
+                        year.
+                    ``(F) Appropriation.--Out of any money in the 
+                Treasury of the United States not otherwise 
+                appropriated, there are appropriated for fiscal years 
+                2004 through 2008 $500,000,000 for grants under this 
+                paragraph.
+                    ``(G) Sense of the congress.--It is the sense of 
+                the Congress that in developing the bonus to reward 
+                employment achievement under this paragraph, the 
+                Secretary and States should consult with the Secretary 
+                of Labor so that measures for employment achievement 
+                under State programs funded under this part are 
+                consistent with the core indicators of performance 
+                which States report under subclauses (I) through (III) 
+                of section 136(b)(2)(A)(i) of the Workforce Investment 
+                Act of 1998.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on October 1, 2003.
+
+SEC. 105. REPORT ON INTEGRATION.
+
+    Not later than 6 months after the date of the enactment of this 
+Act, the Secretary of Health and Human Services and the Secretary of 
+Labor shall jointly submit a report to the Congress describing changes 
+needed to the definitions, performance measures, and reporting 
+requirements in the Workforce Investment Act of 1998 and part A of 
+title IV of the Social Security Act, and, at the discretion of either 
+Secretary, any other program administered by the respective Secretary, 
+to allow greater integration between the welfare and workforce 
+development systems.
+
+SEC. 106. GAO STUDY.
+
+    (a) In General.--The Comptroller General of the United States shall 
+conduct a study to determine the combined effect of the phase-out rates 
+for Federal programs and policies which provide support to low-income 
+families and individuals as they move from welfare to work, including 
+those funded under title I of the Workforce Investment Act of 1998, the 
+Child Care and Development Block Grant Act of 1990, the special 
+supplemental nutrition program for women, infants, and children under 
+section 17 of the Child Nutrition Act of 1966, the Richard B. Russell 
+National School Lunch Act, the Head Start Act, and the Low-Income Home 
+Energy Assistance Act of 1981, at all earning levels up to $35,000 per 
+year for at least 5 States, including Wisconsin and California, and any 
+potential disincentives the combined phase-out rates create for 
+families to achieve independence.
+    (b) Report.--Not later than 1 year after the date of the enactment 
+of this section, the Comptroller General shall submit a report to 
+Congress containing the results of the study conducted under this 
+section and, as appropriate, any recommendations consistent with the 
+results.
+
+SEC. 107. PURPOSE OF WORK PARTICIPATION REQUIREMENTS.
+
+    (a) In General.--Section 407 of the Social Security Act (42 U.S.C. 
+607), as amended by section 101 of this Act, is amended--
+            (1) by redesignating subsections (a) through (i) as 
+        subsections (b) through (j), respectively, and inserting before 
+        subsection (b) (as so redesignated) the following:
+    ``(a) Purpose.--The purpose of this section is to end dependence of 
+needy families on government benefits, reduce poverty, and help achieve 
+long-term income security by promoting job preparation and work.''; and
+            (2) in subsection (c) (as so redesignated)--
+                    (A) in paragraph (1), by striking ``(a)'' and 
+                inserting ``(b)''; and
+                    (B) in paragraph (2)(A)(i), by striking ``(c)'' and 
+                inserting ``(d)''; and
+            (3) in paragraph (1) of subsection (d) (as so 
+        redesignated), strike ``(b)(2)'' and insert ``(c)(2)''.
+    (b) Conforming Amendments.--
+            (1) Section 402(a)(1)(A)(ii) of such Act (42 U.S.C. 
+        602(a)(1)(A)(ii)) is amended by striking ``407(e)(2)'' and 
+        inserting ``407(f)(2)''.
+            (2) Section 404(k)(1)(D) of such Act (42 U.S.C. 
+        604(k)(1)(D)) is amended by striking ``407(d)'' and inserting 
+        ``407(e)''.
+            (3) Section 408(b)(1)(A) of such Act (42 U.S.C. 
+        608(b)(1)(A)), as amended by section 102(b) of this Act, is 
+        amended by striking ``407(b)(2)(C)'' and inserting 
+        ``407(c)(2)(C)''.
+            (4) Section 409(a) of such Act (42 U.S.C. 609(a)) is 
+        amended in each of paragraphs (3)(A) and (7)(B)(ii), by 
+        striking ``407(a)'' and inserting ``407(b)''.
+            (5) Section 409(a)(11)(A) of such Act (42 U.S.C. 
+        609(a)(11)(A)) is amended by striking ``407(e)(2)'' and 
+        inserting ``407(f)(2)''.
+            (6) Section 409(a)(14)(A) of such Act (42 U.S.C. 
+        609(a)(14)(A)) is amended by striking ``407(e)'' and inserting 
+        ``407(f)''.
+            (7) Section 411(a)(4) of such Act (42 U.S.C. 611(a)(4)) is 
+        amended by striking ``407(d)'' and inserting ``407(e)''.
+            (8) Section 411(b) of such Act (42 U.S.C. 611(b)) is 
+        amended by striking ``407(a)'' and inserting ``407(b)''.
+            (9) Section 412(c)(3) of such Act (42 U.S.C. 612(c)(3)) is 
+        amended by striking ``407(e)'' and inserting ``407(f)''.
+            (10) Section 412(g)(2) of such Act (42 U.S.C. 612(g)(2)) is 
+        amended by striking ``407(a)'' and inserting ``407(b)''.
+            (11) Section 466(a)(15)(B) of such Act (42 U.S.C. 
+        666(a)(15)(B)) is amended by striking ``407(d)'' and inserting 
+        ``407(e)''.
+
+SEC. 108. STATE TANF PROGRAMS MADE MANDATORY PARTNERS WITH ONE-STOP 
+              EMPLOYMENT TRAINING CENTERS.
+
+    Section 408 of the Social Security Act (42 U.S.C. 608) is amended 
+by adding at the end the following:
+    ``(h) State TANF Programs Made Mandatory Partners With One-Stop 
+Employment Training Centers.--For purposes of section 121(b) of the 
+Workforce Investment Act of 1998, a State program funded under part A 
+of title IV of the Social Security Act shall be considered a program 
+referred to in paragraph (1)(B) of such section.''.
+
+SEC. 109. LONGITUDINAL STUDY OF TANF APPLICANTS AND RECIPIENTS TO 
+              DETERMINE THE FACTORS THAT CONTRIBUTE TO THE ABILITY OF 
+              PEOPLE TO COMPLY WITH TANF WORK REQUIREMENTS.
+
+    Section 413 of the Social Security Act (42 U.S.C. 613), as amended 
+by section 103(d) of this Act, is amended by adding at the end the 
+following:
+    ``(l) Longitudinal Study of TANF Applicants and Recipients To 
+Determine the Factors That Contribute to the Ability of People To 
+Comply With TANF Work Requirements.--
+            ``(1) In general.--The Secretary, through grant or 
+        contract, shall conduct a longitudinal study of a 
+        representative sample of families that receive, and families 
+        that apply for, assistance from a State program funded under 
+        this part or under a program funded with qualified State 
+        expenditures (as defined in section 409(a)(7)(B)(i)).
+            ``(2) Requirements.--The study conducted under this 
+        subsection shall follow families that leave such a program, 
+        those that receive assistance throughout the study period, and 
+        those diverted from such a program. The study shall gather 
+        information on--
+                    ``(A) family and adult demographics;
+                    ``(B) family income and child support; and
+                    ``(C) factors that contribute to the ability of 
+                people to comply with work requirements and achieve 
+                long-term self-sufficiency.''.
+
+TITLE II--AMENDMENTS TO THE CHILD CARE AND DEVELOPMENT BLOCK GRANT ACT 
+                                OF 1990
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Caring for Children Act of 2002''.
+
+SEC. 202. GOALS.
+
+    (a) Goals.--Section 658A(b) of the Child Care and Development Block 
+Grant Act of 1990 (42 U.S.C. 9801 note) is amended--
+            (1) in paragraph (3) by striking ``encourage'' and 
+        inserting ``assist'',
+            (2) by amending paragraph (4) to read as follows:
+            ``(4) to assist State to provide child care to low-income 
+        parents;'',
+            (3) by redesignating paragraph (5) as paragraph (7), and
+            (4) by inserting after paragraph (4) the following:
+            ``(5) to encourage States to improve the quality of child 
+        care available to families;
+            ``(6) to promote school readiness by encouraging the 
+        exposure of young children in child care to nurturing 
+        environments and developmentally-appropriate activities, 
+        including activities to foster early cognitive and literacy 
+        development; and''.
+    (b) Conforming Amendment.--Section 658E(c)(3)(B) of the Child Care 
+and Development Block Grant Act of 1990 (42 U.S.C. 9858c(c)(3)(B)) is 
+amended by striking ``through (5)'' and inserting ``through (7)''.
+
+SEC. 203. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 658B of the Child Care and Development Block Grant Act of 
+1990 (42 U.S.C. 9858) is amended--
+            (1) by striking ``is'' and inserting ``are'', and
+            (2) by striking ``$1,000,000,000 for each of the fiscal 
+        years 1996 through 2002'' and inserting ``$2,300,000,000 for 
+        fiscal year 2003 and such sums as may be necessary for fiscal 
+        years 2004, 2005, 2006, and 2007''.
+
+SEC. 204. APPLICATION AND PLAN.
+
+    Section 658E(c)(2) of the Child Care and Development Block Grant 
+Act of 1990 (42 U.S.C. 9858C(c)(2)) is amended--
+            (1) by amending subparagraph (D) to read as follows:
+                    ``(D) Consumer and child care provider education 
+                information.--Certify that the State will collect and 
+                disseminate, through resource and referral services and 
+                other means as determined by the State, to parents of 
+                eligible children, child care providers, and the 
+                general public, information regarding--
+                            ``(i) the promotion of informed child care 
+                        choices, including information about the 
+                        quality and availability of child care 
+                        services;
+                            ``(ii) research and best practices on 
+                        children's development, including early 
+                        cognitive development;
+                            ``(iii) the availability of assistance to 
+                        obtain child care services; and
+                            ``(iv) other programs for which families 
+                        that receive child care services for which 
+                        financial assistance is provided under this 
+                        subchapter may be eligible, including the food 
+                        stamp program, the WIC program under section 17 
+                        of the Child Nutrition Act of 1966, the child 
+                        and adult care food program under section 17 of 
+                        the Richard B. Russell National School Lunch 
+                        Act, and the medicaid and CHIP programs under 
+                        titles XIX and XXI of the Social Security 
+                        Act.'', and
+            (2) by inserting after subparagraph (H) the following:
+                    ``(I) Coordination with other early child care 
+                services and early childhood education programs.--
+                Demonstrate how the State is coordinating child care 
+                services provided under this subchapter with Head 
+                Start, Early Reading First, Even Start, State pre-
+                kindergarten programs, and other early childhood 
+                education programs to expand accessibility to and 
+                continuity of care and early education without 
+                displacing services provided by the current early care 
+                and education delivery system.
+                    ``(J) Public-private partnerships.--Demonstrate how 
+                the State encourages partnerships with private and 
+                other public entities to leverage existing service 
+                delivery systems of early childhood education and 
+                increase the supply and quality of child care services.
+                    ``(K) Child care service quality.--
+                            ``(i) Certification.--For each fiscal year 
+                        after fiscal year 2003, certify that during the 
+                        then preceding fiscal year the State was in 
+                        compliance with section 658G and describe how 
+                        funds were used to comply with such section 
+                        during such preceding fiscal year.
+                            ``(ii) Strategy.--For each fiscal year 
+                        after fiscal year 2003, contain an outline of 
+                        the strategy the State will implement during 
+                        such fiscal year for which the State plan is 
+                        submitted, to address the quality of child care 
+                        services in child care settings that provide 
+                        services for which assistance is made available 
+                        under this subchapter, and include in such 
+                        strategy--
+                                    ``(I) a statement specifying how 
+                                the State will address the activities 
+                                described in paragraphs (1), (2), and 
+                                (3) of section 658G;
+                                    ``(II) a description of 
+                                quantifiable, objective measures for 
+                                evaluating the quality of child care 
+                                services separately with respect to the 
+                                activities listed in each of such 
+                                paragraphs that the State will use to 
+                                evaluate its progress in improving the 
+                                quality of such child care services;
+                                    ``(III) a list of State-developed 
+                                child care service quality targets for 
+                                such fiscal year quantified on the 
+                                basis of such measures; and
+                                    ``(IV) for each fiscal year after 
+                                fiscal year 2003, a report on the 
+                                progress made to achieve such targets 
+                                during the then preceding fiscal year.
+                            ``(iii) Rule of construction.--Nothing in 
+                        this subparagraph shall be construed to require 
+                        that the State apply measures for evaluating 
+                        quality to specific types of child care 
+                        providers.
+                    ``(L) Access to care for certain populations.--
+                Demonstrate how the State is addressing the child care 
+                needs of parents eligible for child care services for 
+                which financial assistance is provided under this 
+                subchapter who have children with special needs, work 
+                nontraditional hours, or require child care services 
+                for infants or toddlers.''.
+
+SEC. 205. ACTIVITIES TO IMPROVE THE QUALITY OF CHILD CARE.
+
+    Section 658G of the Child Care and Development Block Grant Act of 
+1990 (42 U.S.C. 9858e) is amended to read as follows:
+
+``SEC. 658G. ACTIVITIES TO IMPROVE THE QUALITY OF CHILD CARE SERVICES.
+
+    ``A State that receives funds to carry out this subchapter for a 
+fiscal year, shall use not less than 6 percent of the amount of such 
+funds for activities provided through resource and referral services or 
+other means, that are designed to improve the quality of child care 
+services for which financial assistance is made available under this 
+subchapter. Such activities include--
+            ``(1) programs that provide training, education, and other 
+        professional development activities to enhance the skills of 
+        the child care workforce, including training opportunities for 
+        caregivers in informal care settings;
+            ``(2) activities within child care settings to enhance 
+        early learning for young children, to promote early literacy, 
+        and to foster school readiness;
+            ``(3) initiatives to increase the retention and 
+        compensation of child care providers, including tiered 
+        reimbursement rates for providers that meet quality standards 
+        as defined by the State; or
+            ``(4) other activities deemed by the State to improve the 
+        quality of child care services provided in such State.''.
+
+SEC. 206. DEFINITIONS.
+
+    Section 658P(4)(B) of the Child Care and Development Block Grant 
+Act of 1990 (42 U.S.C. 9858N(4)(B)) is amended by striking ``85 percent 
+of the State median income'' and inserting ``income levels as 
+established by the State, prioritized by need,''.
+
+                 TITLE III--BROADENED WAIVER AUTHORITY
+
+SEC. 301. PROGRAM INTEGRATION DEMONSTRATION PROJECTS.
+
+    (a) Purpose.--The purpose of this section is to establish a program 
+of demonstration projects in a State or portion of a State to integrate 
+multiple public assistance, workforce development, and other programs, 
+for the purpose of supporting working individuals and families, helping 
+families escape welfare dependency, promoting child well-being, or 
+helping build stronger families, using innovative approaches to 
+strengthen service systems and provide more coordinated and effective 
+service delivery.
+    (b) Definitions.--In this section:
+            (1) Administering secretary.--The term ``administering 
+        Secretary'' means, with respect to a qualified program, the 
+        head of the Federal agency responsible for administering the 
+        program.
+            (2) Qualified program.--The term ``qualified program'' 
+        means--
+                    (A) a demonstration project authorized under 
+                section 505 of the Family Support Act of 1988;
+                    (B) activities funded under the Wagner-Peyser Act;
+                    (C) activities funded under the Adult Education and 
+                Family Literacy Act; or
+                    (D) activities funded under the Child Care and 
+                Development Block Grant Act of 1990;
+    (c) Application Requirements.--The head of a State or sub-State 
+entity administering 2 or more qualified programs proposed to be 
+included in a demonstration project under this section shall (or, if 
+the project is proposed to include qualified programs administered by 2 
+or more such entities, the heads of the administering entities (each of 
+whom shall be considered an applicant for purposes of this section) 
+shall jointly) submit to the administering Secretary of each such 
+program an application that contains the following:
+            (1) Programs included.--A statement identifying each 
+        qualified program to be included in the project, and describing 
+        how the purposes of each such program will be achieved by the 
+        project.
+            (2) Population served.--A statement identifying the 
+        population to be served by the project and specifying the 
+        eligibility criteria to be used.
+            (3) Description and justification.--A detailed description 
+        of the project, including--
+                    (A) a description of how the project is expected to 
+                improve or enhance achievement of the purposes of the 
+                programs to be included in the project, from the 
+                standpoint of quality, of cost-effectiveness, or of 
+                both; and
+                    (B) a description of the performance objectives for 
+                the project, including any proposed modifications to 
+                the performance measures and reporting requirements 
+                used in the programs.
+            (4) Waivers requested.--A description of the statutory and 
+        regulatory requirements with respect to which a waiver is 
+        requested in order to carry out the project, and a 
+        justification of the need for each such waiver.
+            (5) Cost neutrality.--Such information and assurances as 
+        necessary to establish to the satisfaction of the administering 
+        Secretary, in consultation with the Director of the Office of 
+        Management and Budget, that the proposed project is reasonably 
+        expected to meet the applicable cost neutrality requirements of 
+        subsection (d)(4).
+            (6) Evaluation and reports.--An assurance that the 
+        applicant will conduct ongoing and final evaluations of the 
+        project, and make interim and final reports to the 
+        administering Secretary, at such times and in such manner as 
+        the administering Secretary may require.
+            (7) Other information and assurances.--Such other 
+        information and assurances as the administering Secretary may 
+        require.
+    (d) Approval of Applications.--
+            (1) In general.--The administering Secretary with respect 
+        to a qualified program that is identified in an application 
+        submitted pursuant to subsection (c) may approve the 
+        application and, except as provided in paragraph (2), waive any 
+        requirement applicable to the program, to the extent consistent 
+        with this section and necessary and appropriate for the conduct 
+        of the demonstration project proposed in the application, if 
+        the administering Secretary determines that the project--
+                    (A) has a reasonable likelihood of achieving the 
+                objectives of the programs to be included in the 
+                project;
+                    (B) may reasonably be expected to meet the 
+                applicable cost neutrality requirements of paragraph 
+                (4), as determined by the Director of the Office of 
+                Management and Budget; and
+                    (C) integrates 2 or more qualified programs.
+            (2) Provisions excluded from waiver authority.--A waiver 
+        shall not be granted under paragraph (1) of this subsection 
+        with respect to--
+                    (A) any provision of law relating to--
+                            (i) civil rights or prohibition of 
+                        discrimination;
+                            (ii) purposes or goals of any program;
+                            (iii) maintenance of effort requirements;
+                            (iv) health or safety;
+                            (v) labor standards under the Fair Labor 
+                        Standards Act of 1938; or
+                            (vi) environmental protection;
+                    (B) section 241(a) of the Adult Education and 
+                Family Literacy Act; or
+                    (C) any requirement that a State pass through to a 
+                sub-State entity part or all of an amount paid to the 
+                State.
+            (3) Agreement of each administering secretary required.--
+                    (A) In general.--An applicant may not conduct a 
+                demonstration project under this section unless each 
+                administering Secretary with respect to any program 
+                proposed to be included in the project has approved the 
+                application to conduct the project.
+                    (B) Agreement with respect to funding and 
+                implementation.--Before approving an application to 
+                conduct a demonstration project under this section, an 
+                administering Secretary shall have in place an 
+                agreement with the applicant with respect to the 
+                payment of funds and responsibilities required of the 
+                administering Secretary with respect to the project.
+            (4) Cost-neutrality requirements.--
+                    (A) General rule.--Notwithstanding any other 
+                provision of law (except subparagraph (B)), the total 
+                of the amounts that may be paid by the Federal 
+                Government for a fiscal year with respect to the 
+                programs affected by a demonstration project conducted 
+                under this section shall not exceed the estimated total 
+                amount that the Federal Government would have paid for 
+                the fiscal year with respect to the programs if the 
+                project had not been conducted, as determined by the 
+                Director of the Office of Management and Budget.
+                    (B) Special rule.--If an applicant submits to the 
+                Director of the Office of Management and Budget a 
+                request to apply the rules of this subparagraph to the 
+                programs affected by a demonstration project proposed 
+                in the application submitted pursuant to this section, 
+                during such period of not more than 5 consecutive 
+                fiscal years in which the project is in effect, and the 
+                Director determines, on the basis of supporting 
+                information provided by the applicant, to grant the 
+                request, then, notwithstanding any other provision of 
+                law, the total of the amounts that may be paid by the 
+                Federal Government for the period with respect to the 
+                programs shall not exceed the estimated total amount 
+                that the Federal Government would have paid for the 
+                period with respect to the programs if the project had 
+                not been conducted.
+    (e) Duration of Projects.--A demonstration project under this 
+section may be approved for a term of not more than 5 years, and may be 
+renewed for 1 or more additional terms of not more than 5 years.
+    (f) Reports to Congress.--Each administering Secretary shall 
+provide annually to the Congress a report concerning demonstration 
+projects approved under this section, including--
+            (1) the projects approved for each applicant;
+            (2) the number of waivers granted under this section, and 
+        the specific statutory provisions waived; and
+            (3) how well each project for which a waiver is granted is 
+        improving or enhancing program achievement from the standpoint 
+        of quality, cost-effectiveness, or both;
+            (4) how well each project for which a waiver is granted is 
+        meeting the performance objectives specified in subsection 
+        (c)(3)(B);
+            (5) how each project for which a waiver is granted is 
+        conforming with the cost-neutrality requirements of subsection 
+        (d)(4); and
+            (6) to the extent the administering Secretary deems 
+        appropriate, recommendations for modification of programs based 
+        on outcomes of the projects.
+
+                        TITLE IV--EFFECTIVE DATE
+
+SEC. 401. EFFECTIVE DATE.
+
+    (a) In General.--Except as otherwise provided, the amendments made 
+by this Act shall take effect on October 1, 2002.
+    (b) Extension of Effective Date for State Law Amendment.--In the 
+case of a State plan under part A of title IV of the Social Security 
+Act which the Secretary determines requires State legislation in order 
+for the plan to meet the additional requirements imposed by the 
+amendments made by this Act, the effective date of the amendments 
+imposing the additional requirements shall be 3 months after the first 
+day of the first calendar quarter beginning after the close of the 
+first regular session of the State legislature that begins after the 
+date of the enactment of this Act. For purposes of the preceding 
+sentence, in the case of a State that has a 2-year legislative session, 
+each year of the session shall be considered to be a separate regular 
+session of the State legislature.
+
+
+
+
+                                                 Union Calendar No. 267
+
+107th CONGRESS
+
+  2d Session
+
+                               H. R. 4092
+
+                      [Report No. 107-452, Part I]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+    To enhance the opportunities of needy families to achieve self-
+   sufficiency and access quality child care, and for other purposes.
+
+_______________________________________________________________________
+
+                              May 10, 2002
+
+  Reported from the Committee on Education and the Workforce with an 
+                               amendment
+
+                              May 10, 2002
+
+ Referral to the Committee on Ways and Means extended for a period not 
+                        later than May 10, 2002
+
+                              May 10, 2002
+
+The Committee on Ways and Means discharged; committed to the Committee 
+ of the Whole House on the State of the Union and ordered to be printed

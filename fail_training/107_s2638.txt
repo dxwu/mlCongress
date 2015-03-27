@@ -1,0 +1,512 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 2638 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 2638
+
+  To encourage health care facilities, group health plans, and health 
+   insurance issuers to reduce administrative costs, and to improve 
+   access, convenience, quality, and safety, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 18, 2002
+
+  Mr. Kennedy introduced the following bill; which was read twice and 
+  referred to the Committee on Health, Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To encourage health care facilities, group health plans, and health 
+   insurance issuers to reduce administrative costs, and to improve 
+   access, convenience, quality, and safety, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Efficiency in Health Care (eHealth) 
+Act of 2002''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Claim.--The term ``claim'' means any request for 
+        coverage (including authorization of coverage), for 
+        eligibility, or for payment in whole or in part, for an item or 
+        service under a group health plan or health insurance coverage.
+            (2) Cost sharing.--The term ``cost-sharing'' means any 
+        deductibles, coinsurance, copayment amounts, and liability for 
+        balance billing, for which the participant, beneficiary, or 
+        enrollee will be responsible.
+            (3) Enrollee.--The term ``enrollee'' means, with respect to 
+        health insurance coverage offered by a health insurance issuer, 
+        an individual enrolled with the issuer to receive such 
+        coverage.
+            (4) Group health plan.--The term ``group health plan'' has 
+        the meaning given such term in section 733(a) of the Employee 
+        Retirement Income Security Act of 1974 (29 U.S.C. 1191b(a)).
+            (5) Health care provider.--The term ``health care 
+        provider'' means a physician or other health care professional, 
+        as well as an institutional or other facility or agency that 
+        provides health care services and that is licensed, accredited, 
+        or certified to provide health care items and services under 
+        applicable State law.
+            (6) Health insurance issuer.--The term ``health insurance 
+        issuer'' has the meaning given such term in section 733(b) of 
+        the Employee Retirement Income Security Act of 1974 (29 U.S.C. 
+        1191b(b)).
+            (7) Secretary.--The term ``Secretary'' means the Secretary 
+        of Health and Human Services.
+
+    TITLE I--INCENTIVES AND REQUIREMENTS FOR HEALTH CARE FACILITIES
+
+SEC. 101. GRANTS TO HEALTH CARE FACILITIES.
+
+    (a) Grants Authorized.--The Secretary is authorized to award grants 
+to health care facilities that submit applications under subsection 
+(b).
+    (b) Application.--
+            (1) In general.--Each health care facility desiring a grant 
+        under this section shall submit an application to the Secretary 
+        at such time, in such manner, and containing such information 
+        as the Secretary may reasonably require.
+            (2) Assurances.-- Each application submitted under 
+        paragraph (1) shall include an assurance that the health care 
+        facility will use funds provided under subsection (a) to 
+        enhance compliance with the requirement of subsection (c).
+            (3) Preference.--In awarding grants under subsection (a), 
+        the Secretary shall give preference to applications submitted 
+        by health care facilities that--
+                    (A) are located in rural areas;
+                    (B) provide care for large numbers of uninsured 
+                individuals; or
+                    (C) in the determination of the Secretary have 
+                special needs for awards.
+    (c) Requirement.--
+            (1) In general.--A health care facility shall have in 
+        effect an electronic system for the purpose of providing the 
+        information described in paragraph (2) to a participant, 
+        beneficiary, or enrollee of a group health plan or health 
+        insurance coverage.
+            (2) Required information.--The information provided under 
+        paragraph (1) shall include, with regard to bills for services 
+        or products provided by or at the health care facility, 
+        information on--
+                    (A) whether such bills were submitted to the 
+                applicable group health plan or health insurance issuer 
+                and if so, the date of submission;
+                    (B) whether such bills were paid by the plan or 
+                issuer, and if so, the date of payment; and
+                    (C) whether payments were denied by the plan or 
+                issuer, and if so, the date of denial and the reason 
+                for such denial.
+    (d) Authorization of Appropriations.--
+            (1) In general.--There is authorized to be appropriated to 
+        carry out this section $250,000,000 for fiscal year 2003 and 
+        such sums as may be necessary for each of fiscal years 2004 
+        through 2007.
+            (2) Availability.--Any amount appropriated under the 
+        authority of paragraph (1) shall remain available until 
+        expended.
+
+SEC. 102. REQUIREMENTS FOR PROVIDERS.
+
+    (a) Health Care Facilities Annually Admitting 20,000 or More 
+Individuals.--Beginning in the fiscal year that begins 5 years after 
+the date of enactment of this Act, and in each fiscal year thereafter, 
+a health care facility that admitted 20,000 or more individuals in the 
+prior fiscal year shall not receive payments from Federal health plans 
+for such fiscal year unless the health care facility complies with the 
+requirements described in section 101(c), as determined by the 
+Secretary.
+    (b) Other Health Care Facilities.--Beginning in the fiscal year 
+that begins 10 years after the date of enactment of this Act, and in 
+each fiscal year thereafter, no health care facility shall receive 
+payments from Federal health plans for such fiscal year unless the 
+health care facility complies with the requirements described in 
+section 101(c), as determined by the Secretary.
+
+SEC. 103. REGULATIONS.
+
+    The Secretary shall issue such regulations as may be necessary or 
+appropriate to carry out this title.
+
+    TITLE II--INCREASING THE EFFICIENCY AND EFFECTIVENESS OF CLAIMS 
+                               PROCESSING
+
+SEC. 201. AUTOMATED INTEGRATED SYSTEM.
+
+    Not later than 7 years after the date of enactment of this Act, 
+each group health plan and health insurance issuer offering health 
+insurance coverage shall have in effect an automated, integrated system 
+that allows for efficient and effective adjudication of claims and the 
+detection of fraud and abuse in accordance with this title.
+
+SEC. 202. ADJUDICATION OF CLAIMS.
+
+    (a) In General.--Not later than 7 years after the date of enactment 
+of this Act, each group health plan and health insurance issuer 
+offering health insurance coverage shall use the system described in 
+section 201 to provide for the prompt and accurate adjudication of 
+claims upon receipt of such claims.
+    (b) Elements of Adjudication.--The adjudication described in 
+subsection (a) shall include determinations concerning payments and 
+coverage for items or services under the terms and conditions of the 
+plan or coverage involved, including any cost-sharing amount that the 
+participant, beneficiary, or enrollee is required to pay with respect 
+to such claim.
+    (c) Timeframe.--The plan or issuer shall complete the adjudication 
+of claims under this section immediately after the plan or issuer 
+receives--
+            (1) the claim; and
+            (2) any additional information requested by the plan or 
+        issuer that is necessary to make a determination relating to 
+        the claim.
+    (d) Accuracy.--In adjudicating claims under this section the plan 
+or issuer shall ensure that--
+            (1) such claims are adjudicated with an accuracy of at 
+        least 99 percent;
+            (2) the plan or issuer has the ability to accept claims 
+        submitted via the Internet; and
+            (3) the plan or issuer has the ability to issue denials 
+        where necessary instantaneously via the Internet, and to 
+        provide an opportunity for challenge to and resolution of such 
+        denials (except in cases of dispute over medical necessity) via 
+        the Internet.
+
+SEC. 203. DETECTION SYSTEM.
+
+    Not later than 2 years after the date of enactment of this Act, 
+each group health plan and health insurance issuer offering health 
+insurance coverage shall use the system described in section 201 to 
+detect fraud and abuse in real-time as part of the adjudication of 
+claims under section 202.
+
+SEC. 204. REGULATIONS.
+
+    The Secretary shall issue such regulations as may be necessary or 
+appropriate to carry out this title.
+
+     TITLE III--MAKING HEALTH CARE MORE RESPONSIVE TO THE CONSUMER
+
+SEC. 301. MAKING HEALTH CARE MORE RESPONSIVE TO THE CONSUMER.
+
+    Not later than 7 years after the date of enactment of this Act, 
+each group health plan and health insurance issuer offering health 
+insurance coverage shall have in effect a system to provide the 
+services described in this title.
+
+SEC. 302. STATEMENT OF ACCOUNT FOR PATIENTS.
+
+    (a) In General.--Each group health plan and health insurance issuer 
+shall provide a participant, beneficiary, or enrollee with a statement 
+of account that--
+            (1) includes information, with respect to the participant, 
+        beneficiary, or enrollee, on--
+                    (A) claims received, claims denied, and the reasons 
+                for any denials;
+                    (B) status of coverage; and
+                    (C) deductible information; and
+            (2) is issued quarterly.
+    (b) Internet Access.--The plan or issuer may comply with this 
+section by making the quarterly statements available on the Internet 24 
+hours a day, 7 days a week, through a secure website.
+
+SEC. 303. STATEMENT OF ACCOUNT FOR EMPLOYERS AND PURCHASES.
+
+    Each group health plan and health insurance issuer shall provide to 
+employers and other purchasers of health insurance products a statement 
+of account that--
+            (1) includes--
+                    (A) current information on coverage status; and
+                    (B) reports of customer satisfaction that are 
+                updated annually; and
+            (2) is available 24 hours a day, 7 days a week, through--
+                    (A) the Internet through a secure website; or
+                    (B) a toll-free telephone number.
+
+SEC. 304. INTERNET ENROLLMENT.
+
+    (a) In General.--Each group health plan and health insurance issuer 
+shall provide to employers and other purchasers of health insurance 
+products an option to enroll for coverage under such health insurance 
+products on the Internet through a secure website.
+    (b) Eligibility Requirements.--The Internet website described in 
+subsection (a) shall include information on eligibility requirements 
+for coverage.
+
+SEC. 305. CONSUMER EXPLANATION OF BENEFITS.
+
+    (a) In General.--Each group health plan and health insurance issuer 
+shall provide, to a participant, beneficiary, or enrollee--
+            (1) an explanation of benefits at the point of service or 
+        not later than 48 hours after the time that service is 
+        provided; and
+            (2) a description of the coverage and cost of each services 
+        provided to the participant, beneficiary, or enrollee under the 
+        plan or coverage.
+    (b) Language.--Any explanation of benefits under this section shall 
+be provided in a printed form and written in a manner calculated to be 
+understood by the average participant, beneficiary, or enrollee.
+
+SEC. 306. REFERRALS AND AUTHORIZATIONS.
+
+    (a) In General.--Each group health plan and health insurance issuer 
+shall establish an automated system for making and checking referrals 
+and pre-authorizations where such referrals and pre-authorizations are 
+required under the plan or coverage.
+    (b) Access.--The system described in subsection (a) shall permit 
+access by physicians and by participants, beneficiaries, and enrollees 
+to information on the completion of referrals and pre-authorizations 
+and whether health care services and products have been authorized, 
+through--
+            (1) the Internet through a secure website; or
+            (2) a toll-free telephone number.
+
+SEC. 307. PRESCRIPTIONS.
+
+    To the extent that a group health plan or health insurance coverage 
+offered by a health insurance issuer, provides coverage for benefits 
+with respect to prescription drugs, each plan and issuer shall 
+establish a system for automated prescription posting and ordering 
+that--
+            (1) is accessible to physicians and to participants, 
+        beneficiaries, and enrollees;
+            (2) is accessible through--
+                    (A) the Internet through a secure website; or
+                    (B) a toll-free telephone number; and
+            (3) does not require the use of paper for posting or 
+        ordering prescriptions.
+
+SEC. 308. PATIENT CLAIM HISTORY.
+
+    Each group health plan and health insurance issuer shall establish 
+a system--
+            (1) by which a health care provider may, with patient 
+        authorization, have access to the patient's statement of 
+        account, as described in section 302; and
+            (2) that is accessible through--
+                    (A) the Internet through a secure website; or
+                    (B) a toll-free telephone number.
+
+SEC. 309. STATEMENT TO HEALTH CARE PROVIDERS.
+
+    Each group health plan and health insurance issuer shall establish 
+a system under which the plan or issuer shall notify a health care 
+provider who has provided items or services to a participant, 
+beneficiary, or enrollee of the amount that such plan or issuer has 
+paid on a claim with respect to such items or services. Such notice 
+shall be provided to the health care provider within 48 hours of the 
+receipt by the plan or issuer of a claim with respect to the items or 
+services involved.
+
+SEC. 310. REGULATIONS.
+
+    The Secretary shall issue such regulations as may be necessary or 
+appropriate to carry out this title.
+
+      TITLE IV--MODERNIZING FINANCIAL TRANSACTIONS IN HEALTH CARE
+
+SEC. 401. MODERNIZING FINANCIAL TRANSACTIONS IN HEALTH CARE.
+
+    Not later than 7 years after the date of enactment of this Act, 
+each group health plan and health insurance issuer offering health 
+insurance coverage shall have in effect a system to provide the 
+financial transaction services described in this title.
+
+SEC. 402. ELECTRONIC TRANSFER OF PAYMENTS.
+
+    Each group health plan and health insurance issuer shall establish 
+a system that permits health care providers to receive claim payments 
+through electronic transfer of funds.
+
+SEC. 403. AUTOMATIC PAYMENTS.
+
+    Each group health plan and health insurance issuer shall establish 
+a system that permits participants, beneficiaries, and enrollees to 
+make payments for deductibles through electronic transfer of funds from 
+bank accounts or pre-tax savings accounts.
+
+SEC. 404. CONTROL SYSTEMS.
+
+    Each group health plan and health insurance issuer shall establish 
+a system that provides automated, integrated audit controls to monitor 
+any duplicate payments or overpayments within the adjudication system.
+
+                   TITLE V--ENHANCING PATIENT SAFETY
+
+SEC. 501. PURPOSE.
+
+    It is the purpose of this title to reduce medication errors by 
+facilitating and requiring the installation and use of computerized 
+physician order entry systems by health care facilities.
+
+SEC. 502. INFRASTRUCTURE FOR SAFE PRESCRIPTIONS.
+
+    Title VI of the Public Health Service Act (42 U.S.C. 291 et seq.) 
+is amended by adding at the end thereof the following:
+
+            ``Part E--Infrastructure for Safe Prescriptions
+
+``SEC. 651. GRANTS FOR COMPUTERIZED PHYSICIAN ORDER ENTRY SYSTEMS.
+
+    ``(a) In General.--The Secretary may award grants to eligible 
+entities to enable such entities to develop, install, or train 
+personnel in the use of, computerized physician order entry systems.
+    ``(b) Eligibility.--To be eligible to receive a grant under 
+subsection (a), an entity shall--
+            ``(1) be a nonprofit hospital, health care clinic, 
+        community health center, skilled nursing facility, or other 
+        nonprofit entity determined to be eligible by the Secretary;
+            ``(2) prepare and submit to the Secretary an application at 
+        such time, in such manner, and containing such information as 
+        the Secretary may require, including a description of the 
+        computerized medication prescribing system that the entity 
+        intends to implement using amounts received under the grant; 
+        and
+            ``(3) provide assurances that are satisfactory to the 
+        Secretary that the computerized physician order entry system, 
+        for which amounts are to be expended under the grant, conforms 
+        to the technical standards established by the Secretary for 
+        such systems under section 652.
+    ``(c) Matching Requirement.--The Secretary may not make a grant to 
+an entity under subsection (a) unless that entity agrees that, with 
+respect to the costs to be incurred by the entity in carrying out the 
+activities for which the grant is being awarded, the entity will make 
+available (directly or through donations from public or private 
+entities) non-Federal contributions toward such costs in an amount 
+equal to $1 for each $1 of Federal funds provided under the grant.
+
+``SEC. 652. REQUIREMENTS FOR COMPUTERIZED PHYSICIAN ORDER ENTRY 
+              SYSTEMS.
+
+    ``(a) Initial Requirement.--Beginning in the fiscal year that 
+begins 5 years after the date of enactment of this Act, and in each 
+fiscal year thereafter, a health care facility that admitted 20,000 or 
+more individuals in the prior fiscal year shall not receive payments 
+from Federal health plans unless the health care facility has in effect 
+a computerized physician order entry system that meets the requirements 
+of section 651.
+    ``(b) Subsequent Requirement.--Beginning in the fiscal year that 
+begins 10 years after the date of enactment of this Act, and in each 
+fiscal year thereafter, no health care facility shall receive payments 
+from Federal health plans unless that health care facility has in 
+effect a computerized physician order entry system that meets the 
+requirements of section 651.
+
+``SEC. 653. GUIDELINES FOR COMPUTERIZED PHYSICIAN ORDER ENTRY SYSTEMS.
+
+    ``(a) Development.--The Secretary, acting through the Administrator 
+of the Agency for Healthcare Research and Quality, shall establish 
+technical standards for computerized physician order entry systems.
+    ``(b) Working Group.--In carrying out subsection (a), the Secretary 
+shall convene a working group of individuals with expertise in computer 
+technology, the prescribing of medication, and other appropriate 
+fields, to provide the Secretary with advice for purposes of assisting 
+the Secretary in the establishment of technical standards under such 
+subsection. The working group shall be subject to the Federal Advisory 
+Committee Act.
+    ``(c) Focus of Technical Standards.--The standards developed under 
+subsection (a) shall focus on--
+            ``(1) the interoperability of a computerized physician 
+        order entry system with such other systems in common use;
+            ``(2) the protection of the confidentiality of individually 
+        identifiable health information contained within such system 
+        from unauthorized access or dissemination;
+            ``(3) procedures for issuing warnings when prescribing 
+        errors may be imminent;
+            ``(4) procedures for ensuring that recommendations or 
+        warnings issued by such systems reflect good medical practice; 
+        and
+            ``(5) other matters determined appropriate by the 
+        Secretary.
+    ``(d) Revisions.--The Secretary, acting through the Administrator 
+of the Agency for Healthcare Research and Quality, shall establish a 
+working group to continually update and revise the technical standards 
+developed under subsection (a).
+    ``(e) Publication.--Not later than 1 year after the date of 
+enactment of this part, the Secretary shall publish the technical 
+standards developed under this section in the Federal Register. The 
+Secretary shall publish and make available any revisions to such 
+guidelines within 30 days of the date on which such revisions are 
+proposed under subsection (d).
+
+``SEC. 654. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There is authorized to be appropriated to carry out this part, 
+$100,000,000 for fiscal year 2003, and such sums as may be necessary 
+for each fiscal year thereafter.''.
+
+    TITLE VI--APPLICATION TO PUBLIC HEALTH SERVICE ACT AND EMPLOYEE 
+                 RETIREMENT INCOME SECURITY ACT OF 1974
+
+SEC. 601. APPLICATION TO GROUP HEALTH PLANS AND GROUP HEALTH INSURANCE 
+              COVERAGE UNDER THE PUBLIC HEALTH SERVICE ACT.
+
+    (a) In General.--Subpart 2 of part A of title XXVII of the Public 
+Health Service Act is amended by adding at the end the following new 
+section:
+
+``SEC. 2707. HEALTH CARE MODERNIZATION STANDARDS.
+
+    ``Each group health plan shall comply with health care 
+modernization requirements under titles II and III of the Efficiency in 
+Health Care (eHealth) Act, and each health insurance issuer shall 
+comply with health care modernization requirements under such titles 
+with respect to group health insurance coverage it offers, and such 
+requirements shall be deemed to be incorporated into this 
+subsection.''.
+    (b) Conforming Amendment.--Section 2721(b)(2)(A) of such Act (42 
+U.S.C. 300gg-21(b)(2)(A)) is amended by inserting ``(other than section 
+2707)'' after ``requirements of such subparts''.
+
+SEC. 602. APPLICATION TO INDIVIDUAL HEALTH INSURANCE COVERAGE UNDER THE 
+              PUBLIC HEALTH SERVICE ACT.
+
+    Part B of title XXVII of the Public Health Service Act is amended 
+by inserting after section 2752 the following new section:
+
+``SEC. 2753. HEALTH CARE MODERNIZATION STANDARDS.
+
+    ``Each health insurance issuer shall comply with health care 
+modernization requirements under titles II, III, and IV of the 
+Efficiency in Health Care (eHealth) Act with respect to individual 
+health insurance coverage it offers, and such requirements shall be 
+deemed to be incorporated into this subsection.''.
+
+SEC. 603. APPLICATION TO GROUP HEALTH PLANS AND GROUP HEALTH INSURANCE 
+              COVERAGE UNDER THE EMPLOYEE RETIREMENT INCOME SECURITY 
+              ACT OF 1974.
+
+    Subpart B of part 7 of subtitle B of title I of the Employee 
+Retirement Income Security Act of 1974 is amended by adding at the end 
+the following new section:
+
+``SEC. 714. HEALTH CARE MODERNIZATION STANDARDS.
+
+    ``A group health plan (and a health insurance issuer offering group 
+health insurance coverage in connection with such a plan) shall comply 
+with the requirements of titles II, III, and IV of the Efficiency in 
+Health Care (eHealth) Act (as in effect as of the date of the enactment 
+of such Act), and such requirements shall be deemed to be incorporated 
+into this subsection.''.
+                                 <all>

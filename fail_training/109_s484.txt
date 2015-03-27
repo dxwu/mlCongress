@@ -1,0 +1,129 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 484 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                 S. 484
+
+ To amend the Internal Revenue Code of 1986 to allow Federal civilian 
+  and military retirees to pay health insurance premiums on a pretax 
+   basis and to allow a deduction for TRICARE supplemental premiums.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 1, 2005
+
+Mr. Warner (for himself and Ms. Collins) introduced the following bill; 
+     which was read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to allow Federal civilian 
+  and military retirees to pay health insurance premiums on a pretax 
+   basis and to allow a deduction for TRICARE supplemental premiums.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. PRETAX PAYMENT OF HEALTH INSURANCE PREMIUMS BY FEDERAL 
+              CIVILIAN AND MILITARY RETIREES.
+
+    (a) In General.--Subsection (g) of section 125 of the Internal 
+Revenue Code of 1986 (relating to cafeteria plans) is amended by adding 
+at the end the following new paragraph:
+            ``(5) Health insurance premiums of federal civilian and 
+        military retirees.--
+                    ``(A) FEHBP premiums.--Nothing in this section 
+                shall prevent the benefits of this section from being 
+                allowed to an annuitant, as defined in paragraph (3) of 
+                section 8901, title 5, United States Code, with respect 
+                to a choice between the annuity or compensation 
+                referred to in such paragraph and benefits under the 
+                health benefits program established by chapter 89 of 
+                such title 5.
+                    ``(B) TRICARE premiums.--Nothing in this section 
+                shall prevent the benefits of this section from being 
+                allowed to an individual receiving retired or retainer 
+                pay by reason of being a member or former member of the 
+                uniformed services of the United States with respect to 
+                a choice between such pay and benefits under the health 
+                benefits programs established by chapter 55 of title 
+                10, United States Code.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after the date of the enactment of this Act.
+
+SEC. 2. DEDUCTION FOR TRICARE SUPPLEMENTAL PREMIUMS.
+
+    (a) In General.--Part VII of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to additional itemized 
+deductions for individuals) is amended by redesignating section 224 as 
+section 225 and by inserting after section 223 the following new 
+section:
+
+``SEC. 224. TRICARE SUPPLEMENTAL PREMIUMS OR ENROLLMENT FEES.
+
+    ``(a) Allowance of Deduction.--In the case of an individual, there 
+shall be allowed as a deduction the amounts paid during the taxable 
+year by the taxpayer for insurance purchased as supplemental coverage 
+to the health benefits programs established by chapter 55 of title 10, 
+United States Code, for the taxpayer and the taxpayer's spouse and 
+dependents.
+    ``(b) Coordination With Medical Deduction.--Any amount allowed as a 
+deduction under subsection (a) shall not be taken into account in 
+computing the amount allowable to the taxpayer as a deduction under 
+section 213(a).''.
+    (b) Deduction Allowed Whether or Not Individual Itemizes Other 
+Deductions.--Subsection (a) of section 62 of the Internal Revenue Code 
+of 1986 (defining adjusted gross income) is amended by redesignating 
+paragraph (19) (as added by section 703(a) of the American Jobs 
+Creation Act of 2004) as paragraph (20) and by inserting after 
+paragraph (20) (as so redesignated) the following new paragraph:
+            ``(21) TRICARE supplemental premiums or enrollment fees.--
+        The deduction allowed by section 224.''.
+    (c) Clerical Amendment.--The table of sections for part VII of 
+subchapter B of chapter 1 of the Internal Revenue Code of 1986 is 
+amended by striking the last item and inserting the following new 
+items:
+
+``Sec. 224. TRICARE supplemental premiums or enrollment fees.
+``Sec. 225. Cross reference.''.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+SEC. 3. IMPLEMENTATION.
+
+    (a) FEHBP Premium Conversion Option for Federal Civilian 
+Retirees.--The Director of the Office of Personnel Management shall 
+take such actions as the Director considers necessary so that the 
+option made possible by section 125(g)(5)(A) of the Internal Revenue 
+Code of 1986 shall be offered beginning with the first open enrollment 
+period, afforded under section 8905(g)(1) of title 5, United States 
+Code, which begins not less than 90 days after the date of the 
+enactment of this Act.
+    (b) TRICARE Premium Conversion Option for Military Retirees.--The 
+Secretary of Defense, after consulting with the other administering 
+Secretaries (as specified in section 1073 of title 10, United States 
+Code), shall take such actions as the Secretary considers necessary so 
+that the option made possible by section 125(g)(5)(B) of the Internal 
+Revenue Code of 1986 shall be offered beginning with the first open 
+enrollment period afforded under health benefits programs established 
+under chapter 55 of such title, which begins not less than 90 days 
+after the date of the enactment of this Act.
+                                 <all>

@@ -1,0 +1,1745 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 3188 Introduced in House (IH)]
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 3188
+
+To amend the Immigration and Nationality Act to provide protection for 
+                     immigrant victims of violence.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 30, 2005
+
+Ms. Schakowsky (for herself, Mr. Conyers, Ms. Jackson-Lee of Texas, Ms. 
+ Zoe Lofgren of California, Mrs. Napolitano, Mr. Gutierrez, Ms. Solis, 
+Mrs. Capps, Mr. Filner, Mr. Honda, Mr. Hinojosa, Mr. Lantos, Mr. Kind, 
+ Mr. Moore of Kansas, Ms. Roybal-Allard, Ms. Slaughter, Mrs. Maloney, 
+Ms. Moore of Wisconsin, Mr. Waxman, Mr. Berman, Ms. DeLauro, Ms. Eddie 
+   Bernice Johnson of Texas, Ms. McCollum of Minnesota, Ms. Lee, Ms. 
+     Watson, Ms. Linda T. Sanchez of California, Ms. Bordallo, Mr. 
+  Abercrombie, Mr. Ackerman, Mr. Baca, Ms. Baldwin, Ms. Berkley, Mr. 
+Blumenauer, Mr. Brown of Ohio, Mr. Davis of Illinois, Ms. Carson, Mrs. 
+  Christensen, Mr. Crowley, Ms. DeGette, Mr. Doggett, Ms. Eshoo, Mr. 
+Farr, Mr. Frank of Massachusetts, Mr. Gonzalez, Mr. Al Green of Texas, 
+  Mr. Gene Green of Texas, Mr. Grijalva, Mr. Hinchey, Mr. Jackson of 
+ Illinois, Mr. Jefferson, Ms. Kaptur, Mr. Kennedy of Rhode Island, Mr. 
+Kildee, Mr. Kucinich, Mr. McDermott, Mr. McGovern, Ms. Matsui, Mr. Meek 
+ of Florida, Mr. Meeks of New York, Mr. Moran of Virginia, Mr. Nadler, 
+  Mr. Neal of Massachusetts, Ms. Norton, Mr. Oberstar, Mr. Owens, Mr. 
+ Pallone, Mr. Payne, Mr. Rush, Ms. Loretta Sanchez of California, Mr. 
+ Serrano, Mr. Stark, Mr. Stupak, Mr. Towns, Ms. Wasserman Schultz, Mr. 
+ Weiner, Mr. Wexler, Ms. Woolsey, and Mr. Wu) introduced the following 
+  bill; which was referred to the Committee on the Judiciary, and in 
+ addition to the Committees on Ways and Means, Agriculture, Financial 
+  Services, and Energy and Commerce, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Immigration and Nationality Act to provide protection for 
+                     immigrant victims of violence.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    (a) Short Title.--This Act may be cited as ``Immigrant Victims of 
+Violence Protection Act of 2005''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title.
+                    TITLE I--IMMIGRATION PROTECTIONS
+
+                      Subtitle A--Victims of Crime
+
+Sec. 101. Conditions applicable to U and T visas.
+Sec. 102. Clarification of basis for relief under hardship waivers for 
+                            conditional permanent residence.
+Sec. 103. Adjustment of status for victims of trafficking.
+                      Subtitle B--VAWA Petitioners
+
+Sec. 111. Definition of VAWA petitioner.
+Sec. 112. Self-petitioning for children.
+Sec. 113. Self-petitioning parents.
+Sec. 114. Promoting consistency in VAWA adjudications.
+Sec. 115. Relief for certain victims pending actions on petitions and 
+                            applications for relief.
+Sec. 116. Access to VAWA protection regardless of manner of entry.
+Sec. 117. Eliminating abusers' control over applications for 
+                            adjustments of status.
+Sec. 118. Parole for VAWA petitioners and derivatives.
+Sec. 119. Exemption of victims of domestic violence, sexual assault and 
+                            trafficking from sanctions for failure to 
+                            depart voluntarily.
+Sec. 120. Clarification of access to naturalization for victims of 
+                            domestic violence.
+Sec. 121. Consolidating adjudication of VAWA cases in VAWA unit.
+Sec. 122. Prohibition of adverse determinations of admissibility or 
+                            deportability based on protected 
+                            information.
+                  Subtitle C--Miscellaneous Provisions
+
+Sec. 131. Removing 2 year custody and residency requirement for 
+                            battered adopted children.
+Sec. 132. Waiver of certain grounds of inadmissibility for VAWA 
+                            petitioners.
+Sec. 133. Treatment of good moral character.
+Sec. 134. Employment authorization for battered spouses of H-1B visa 
+                            holders.
+Sec. 135. Grounds for hardship waiver for conditional permanent 
+                            residence for intended spouses.
+Sec. 136. Cancellation of removal.
+Sec. 137. Motions to reopen.
+Sec. 138. Removal proceedings.
+Sec. 139. Conforming relief in suspension of deportation parallel to 
+                            the relief available in VAWA-2000 
+                            cancellation for bigamy.
+Sec. 140. Correction of cross-reference to credible evidence 
+                            provisions.
+Sec. 141. Technical corrections.
+                    TITLE II--ADDITIONAL PROTECTIONS
+
+       Subtitle A--Ensuring Crime Victim Access to Legal Services
+
+Sec. 201. Ensuring crime victim access to legal services.
+Subtitle B--Eligibility for Certain Public Benefits of Aliens Suffering 
+                          from Domestic Abuse
+
+Sec. 211. Eligibility for certain public benefits of aliens suffering 
+                            from domestic abuse.
+              Subtitle C--Law Enforcement Training Grants
+
+Sec. 221. Grants for law enforcement training programs to identify and 
+                            protect victims of trafficking.
+    (c) References to VAWA-2000.--In this Act, the term ``VAWA-2000'' 
+means the Violence Against Women Act of 2000 (division B of Public Law 
+106-386).
+    (d) Regulations.-- Not later than 180 days after the date of the 
+enactment of this Act, the Attorney General, the Secretary of Homeland 
+Security, and Secretary of State shall promulgate regulations to 
+implement the provisions contained in the Battered Immigrant Women 
+Protection Act of 2000 (title V of VAWA-2000) and the amendments made 
+by (and the provisions of) this Act.
+
+                    TITLE I--IMMIGRATION PROTECTIONS
+
+                      Subtitle A--Victims of Crime
+
+SEC. 101. CONDITIONS APPLICABLE TO U AND T VISAS.
+
+    (a) Treatment of U Derivatives.--Clause (ii) of section 
+101(a)(15)(U)(ii) of the Immigration and Nationality Act (8 U.S.C. 
+1101(a)(15)(U)(ii)), as added by section 1513(b) of VAWA-2000, is 
+amended to read as follows:
+                    ``(ii) the spouse or child of an alien described in 
+                clause (i), or the parent of such an alien if the alien 
+                is a child, or the unmarried sibling of such a child if 
+                such sibling is under 18 years of age on the date on 
+                which such alien applied for status under such clause, 
+                if--
+                            ``(I) the Secretary of Homeland Security 
+                        considers it necessary to avoid extreme 
+                        hardship to such alien or such spouse, child, 
+                        parent, or sibling; or
+                            ``(II) a government official described in 
+                        clause (i)(III) certifies that an investigation 
+                        or prosecution described in such clause would 
+                        be harmed without the assistance of such 
+                        spouse, child, parent, or sibling; and''.
+    (b) Treatment of Spouse and Children of Victims of Trafficking.--
+Clause (ii) of section 101(a)(15)(T) of the Immigration and Nationality 
+Act (8 U.S.C. 1101(a)(15)(T)) is amended to read as follows:
+                    ``(ii) if accompanying, or following to join, the 
+                alien described in clause (i)--
+                            ``(I) in the case of an alien so described 
+                        who is under 21 years of age, the spouse, 
+                        children, unmarried siblings under 18 years of 
+                        age on the date on which such alien applied for 
+                        status under such clause, and parents of such 
+                        alien; or
+                            ``(II) in the case of an alien described in 
+                        clause (i) who is 21 years of age or older, the 
+                        spouse and children of such alien;''.
+    (c) Duration of U and T Visas.--
+            (1) U visas.--Section 214(p) of such Act (8 U.S.C. 1184(p)) 
+        is amended by adding at the end the following new paragraph:
+            ``(6) Duration of status.--The authorized period of status 
+        of an alien as a nonimmigrant under section 101(a)(15)(U) shall 
+        be 4 years, but shall be extended--
+                    ``(A) on a year-by-year basis upon certification 
+                from a Federal, State or local law enforcement 
+                official, prosecutor, judge, or other Federal, State or 
+                local authority investigating or prosecuting criminal 
+                activity described in section 101(a)(15)(U)(iii) that 
+                the alien's continued presence in the United States is 
+                required to assist in the investigation or prosecution 
+                of such criminal activity; and
+                    ``(B) if the alien files an application for 
+                adjustment of status under section 245(m), until final 
+                adjudication of such application.''.
+            (2) T visas.--Section 214(o) of such Act (8 U.S.C. 
+        1184(o)), as redesignated by section 8(a)(3) of the Trafficking 
+        Victims Protection Reauthorization Act of 2003 (Public Law 108-
+        193), is amended by adding at the end the following:
+    ``(7) The authorized period of status of an alien as a nonimmigrant 
+status under section 101(a)(15)(T) shall be 4 years, but shall be 
+extended--
+            ``(A) on a year-by-year basis upon certification from a 
+        Federal, State or local law enforcement official, prosecutor, 
+        judge, or other Federal, State or local authority investigating 
+        or prosecuting criminal activity relating to human trafficking 
+        that the alien's continued presence in the United States is 
+        required to assist in the investigation or prosecution of such 
+        criminal activity; and
+            ``(B) if the alien files an application for adjustment of 
+        status under section 245(l), until final adjudication of such 
+        application.''.
+    (d) Permitting Change of Nonimmigrant Status to U and T 
+Nonimmigrant Status.--
+            (1) In general.--Section 248 of such Act (8 U.S.C. 1258) is 
+        amended--
+                    (A) by striking ``The Attorney General'' and 
+                inserting ``(a) The Secretary of Homeland Security'';
+                    (B) by inserting ``(subject to subsection (b))'' 
+                after ``except''; and
+                    (C) by adding at the end the following new 
+                subsection:
+    ``(b) The limitation based on inadmissibility under section 
+212(a)(9)(B) and the exceptions specified in numbered paragraphs of 
+subsection (a) shall not apply to a change of nonimmigrant 
+classification to that of a nonimmigrant under subparagraph (T) or (U) 
+of section 101(a)(15), other than from such classification under 
+subparagraph (C) or (D) of such section.''.
+            (2) Conforming amendment.--Section 214(l)(2)(A) of such Act 
+        (8 U.S.C. 1184(l)(2)(A)) is amended by striking ``248(2)'' and 
+        inserting ``248(a)(2)''.
+    (e) U Visa Crimes.--
+            (1) In general.--Section 101(a)(15)(U) of such Act (8 
+        U.S.C. 1101(a)(15)(U)) is amended--
+                    (A) in clause (i)(I)--
+                            (i) by inserting ``or injury'' after 
+                        ``physical or mental abuse''; and
+                            (ii) by inserting ``or witness'' after 
+                        ``victim''; and
+                    (B) in clause (iii), by inserting ``child abuse; 
+                stalking (including physical or electronic stalking);'' 
+                after ``unlawful criminal restraint; false 
+                imprisonment;''.
+            (2) Implementation.--It is the intent of Congress that 
+        certifications should be made under clause (i)(III) of section 
+        101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 
+        1101(a)(15)(U)) where an alien provides information to a law 
+        enforcement official on criminal activity described in clause 
+        (iii) of such section and is willing to help in the 
+        investigation of such activity, regardless of whether a 
+        prosecution is made in such case or if prosecution is made for 
+        criminal activity not described in such clause.
+    (f) Certification Process for Victims of Trafficking.--
+            (1) Victim assistance in investigation or prosecution.--
+        Section 107(b)(1)(E) of the Trafficking Victims Protection Act 
+        of 2000 (Division A of Public Law 106-386; 22 U.S.C. 
+        7105(b)(1)(E)) is amended--
+                    (A) in clause (i)(I), by striking ``investigation 
+                and prosecution'' and inserting ``investigation or 
+                prosecution, by the United States or a State or local 
+                government''; and
+                    (B) in clause (iii)--
+                            (i) by striking ``Investigation and 
+                        prosecution'' and ``investigation and 
+                        prosecution'' and inserting ``Investigation or 
+                        prosecution'' and ``investigation or 
+                        prosecution'', respectively;
+                            (ii) in subclause (II), by striking ``and'' 
+                        at the end;
+                            (iii) in subclause (III), by striking the 
+                        period and inserting ``; or''; and
+                            (iv) by adding at the end the following new 
+                        subclause:
+                                    ``(IV) responding to and 
+                                cooperating with requests for evidence 
+                                and information.''.
+            (2) Clarifying roles of attorney general and secretary of 
+        homeland security.--
+                    (A) Section 107 of the Trafficking Victims 
+                Protection Act of 2000 (Division A of Public Law 106-
+                386; 22 U.S.C. 7105) is amended--
+                            (i) in subsections (b)(1)(E)(i)(II)(bb), 
+                        (b)(1)(E)(ii), (e)(5), and (g), by striking 
+                        ``Attorney General'' and inserting ``Secretary 
+                        of Homeland Security''; and
+                            (ii) in subsection (c), by inserting ``, 
+                        Secretary of Homeland Security,'' after 
+                        ``Attorney General''.
+                    (B) Section 101(a)(15)(T) of the Immigration and 
+                Nationality Act (8 U.S.C. 1101(a)(15)(T)) is amended by 
+                striking ``Attorney General'' and inserting ``Secretary 
+                of Homeland Security'' each place it appears.
+                    (C) Section 212(d)(13) of the Immigration and 
+                Nationality Act (8 U.S.C. 1182(d)(13)) is amended--
+                            (i) in subparagraph (A), by striking 
+                        ``Attorney General'' and inserting ``Secretary 
+                        of Homeland Security'';
+                            (ii) in subparagraph (B), by striking 
+                        ``Attorney General'' the first place it appears 
+                        and inserting ``Secretary of Homeland 
+                        Security''; and
+                            (iii) in subparagraph (B), by striking 
+                        ``Attorney General, in the Attorney General's 
+                        discretion'' and inserting ``Secretary, in the 
+                        Secretary's discretion''.
+                    (D) Section 101(i) of the Immigration and 
+                Nationality Act (8 U.S.C. 1101(i)) is amended--
+                            (i) in paragraph (1), by striking 
+                        ``Attorney General'' and inserting ``Secretary 
+                        of Homeland Security, the Attorney General,''; 
+                        and
+                            (ii) in paragraph (2), by striking 
+                        ``Attorney General'' and inserting ``Secretary 
+                        of Homeland Security''.
+                    (E) Section 245(l) of the Immigration and 
+                Nationality Act (8 U.S.C. 1255(l)) is amended--
+                            (i) by striking ``Attorney General'' and 
+                        inserting ``Secretary of Homeland Security'' 
+                        the first place it appears in paragraphs (1) 
+                        and (2) and in paragraph (4);
+                            (ii) by striking ``Attorney General'' and 
+                        inserting ``Secretary '' the second place it 
+                        appears in paragraphs (1) and (2); and
+                            (iii) in paragraph (2), by striking 
+                        ``Attorney General's'' and inserting 
+                        ``Secretary's''.
+            (3) Petitioning by state and local law enforcement 
+        officials.--Section 107(c)(3) of the Trafficking Victims 
+        Protection Act of 2000 (Division A of Public Law 106-386; 22 
+        U.S.C. 7105(c)(3)) is amended by adding at the end the 
+        following: ``State or local law enforcement officials may 
+        petition Federal law enforcement officials for the continued 
+        presence for trafficking victims. If such a petition contains a 
+        certification that a trafficking victim is a victim of a severe 
+        form of trafficking, the presence of the trafficking victim 
+        shall be permitted in accordance with this paragraph.''.
+    (g) Effective Dates.--
+            (1) In general.--The amendments made by subsections (a), 
+        (b), (c)(1), (d), and (e) shall take effect on the date of the 
+        enactment of this Act.
+            (2) Transition for duration of t visas.--In the case of an 
+        alien who is classified as a nonimmigrant under section 
+        101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 
+        1101(a)(15)(T)) before the the date of implementation of the 
+        amendment made by subsection (c)(2) and whose period of 
+        authorized stay was less than 4 years, the authorized period of 
+        status of the alien as such a nonimmigrant shall be extended to 
+        be 4 years and shall be further extended on a year-by-year 
+        basis as provided in section 214(o)(7) of such Act, as added by 
+        such amendment.
+            (3) Certification process.--(A) The amendments made by 
+        subsection (f)(1) shall be effective as if included in the 
+        enactment of VAWA-2000.
+            (B) The amendments made by subsection (f)(2) shall be 
+        effective as of the applicable date of transfer of authority 
+        from the Attorney General to the Secretary of Homeland Security 
+        under the Homeland Security Act of 2002 (Public Law 107-296).
+            (C) The amendment made by subsection (f)(3) shall be 
+        effective as if included in the enactment of the Trafficking 
+        Victims Protection Reauthorization Act of 2003 (Public Law 108-
+        193).
+
+SEC. 102. CLARIFICATION OF BASIS FOR RELIEF UNDER HARDSHIP WAIVERS FOR 
+              CONDITIONAL PERMANENT RESIDENCE.
+
+    (a) In General.--Section 216(c)(4) of the Immigration and 
+Nationality Act (8 U.S.C. 1186a(c)(4)) is amended by adding at the end 
+the following: ``An application for relief under this paragraph may be 
+based on one or more grounds specified in subparagraphs (A) through (D) 
+and may be amended at any time to change the ground or grounds for such 
+relief without the application being resubmitted.''.
+    (b) Conforming Amendment.--Section 237(a)(1)(H)(ii) of such Act (8 
+U.S.C. 1227(a)(1)(H)(ii)) is amended by inserting before the period at 
+the end the following: ``or qualifies for a waiver under section 
+216(c)(4)''.
+    (c) Effective Date.--The amendment made by subsection (a) shall 
+apply to applications for relief pending or filed on or after April 10, 
+2003 .
+
+SEC. 103. ADJUSTMENT OF STATUS FOR VICTIMS OF TRAFFICKING.
+
+    Section 245(l)(1)(A) of the Immigration and Nationality Act (8 
+U.S.C. 1255(l)(1)(A)) is amended by striking ``for a continuous period 
+of at least 3 years''.
+
+                      Subtitle B--VAWA Petitioners
+
+SEC. 111. DEFINITION OF VAWA PETITIONER.
+
+    (a) In General.--Section 101(a) of the Immigration and Nationality 
+Act (8 U.S.C. 1101(a)) is amended by adding at the end the following 
+new paragraph:
+    ``(51) The term `VAWA petitioner' means an alien whose application 
+or petition for classification or relief under any of the following 
+provisions (whether as a principal or as a derivative) has been filed 
+and has not been denied after exhaustion of administrative appeals:
+            ``(A) Clause (iii), (iv), or (vii) of section 204(a)(1)(A).
+            ``(B) Clause (ii) or (iii) of section 204(a)(1)(B).
+            ``(C) The first section of Public Law 89-732 (commonly 
+        known as the Cuban Adjustment Act) as a child or spouse who has 
+        been battered or subjected to extreme cruelty.
+            ``(D) Section 902(d)(1)(B) of the Haitian Refugee 
+        Immigration Fairness Act of 1998 (division A of section 101(h) 
+        of Public Law 105-277).
+            ``(E) Section 202(d)(1) of the Nicaraguan Adjustment and 
+        Central American Relief Act (8 U.S.C. 1255 note; Public Law 
+        105-100).
+            ``(F) Section 309(c)(5) of the Illegal Immigration Reform 
+        and Immigrant Responsibility Act of 1996 (division C of Public 
+        Law 104-208; 8 U.S.C. 1101 note).''.
+    (b) Conforming Amendments.--
+            (1) Section 212(a)(6)(A)(ii)(I) of such Act (8 U.S.C. 
+        1182(a)(6)(A)(ii)(I)) is amended by striking ``qualifies for 
+        immigrant status under subparagraph (A)(iii), (A)(iv), (B)(ii), 
+        or (B)(iii) of section 204(a)(1)'' and inserting ``is a VAWA 
+        petitioner''.
+            (2) Section 212(a)(9)(C)(ii) of such Act (8 U.S.C. 
+        1182(a)(9)(C)(ii)) is amended by striking ``to whom the 
+        Attorney General has granted classification under clause (iii), 
+        (iv), or (v) of section 204(a)(1)(A), or classification under 
+        clause (ii), (iii), or (iv) of section 204(a)(1)(B)'' and 
+        inserting ``is a VAWA petitioner''.
+            (3) Subsections (h)(1)(C) and (g)(1)(C) of section 212 (8 
+        U.S.C. 1182) is amended by striking ``qualifies for 
+        classification under clause (iii) or (iv) of section 
+        204(a)(1)(A) or classification under clause (ii) or (iii) of 
+        section 204(a)(1)(B)'' and inserting ``is a VAWA petitioner''.
+            (4) Section 212(i)(1) of such Act (8 U.S.C. 1182(i)(1)) is 
+        amended by striking ``an alien granted classification under 
+        clause (iii) or (iv) of section 201(a)(1)(A) or clause (ii) or 
+        (iii) of section 204(a)(1)(B)'' and inserting ``a VAWA 
+        petitioner''.
+            (5) Section 237(a)(1)(H)(ii) of such Act (8 U.S.C. 
+        1227(a)(1)(H)(ii)) is amended by striking ``is an alien who 
+        qualifies for classification under clause (iii) or (iv) of 
+        section 204(a)(1)(A) or clause (ii) or (iii) of section 
+        204(a)(1)(B)'' and inserting ``is a VAWA petitioner''.
+            (6) Section 240A(b)(4)(B) of such Act (8 U.S.C. 
+        1229b(b)(4)(B)) is amended by striking ``they were applications 
+        filed under section 204(a)(1) (A)(iii), (A)(iv), (B)(ii), or 
+        (B)(iii) of such Act'' and inserting ``the applicants were VAWA 
+        petitioners''.
+            (7) Section 245(a) of such Act (8 U.S.C. 1255(a)) is 
+        amended by striking ``under subparagraph (A)(iii), (A)(iv), 
+        (B)(ii), or (B)(iii) of section 204(a)(1) or'' and inserting 
+        ``as a VAWA petitioner''.
+            (8) Section 245(c) of such Act (8 U.S.C. 1255(c)) is 
+        amended by striking ``under subparagraph (A)(iii), (A)(iv), 
+        (A)(v), (A)(vi), (B)(ii), (B)(iii), or (B)(iv) of section 
+        204(a)(1)'' and inserting ``as a VAWA petitioner''.
+            (9) For additional conforming amendments to sections 
+        212(a)(4)(C)(i) and 240(c)(6)(C)(iv)(I) of the Immigration and 
+        Nationality Act, see sections 832(c) and 817(a) of this Act.
+
+SEC. 112. SELF-PETITIONING FOR CHILDREN.
+
+    (a) Self-Petitioning by Children of Parent-Abusers Upon Death or 
+Other Termination of Parent-Child Relationship.--
+            (1) Citizen parents.--Section 204(a)(1)(A)(iv) of the 
+        Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(iv)) is 
+        amended--
+                    (A) by striking ``or who'' and inserting ``who''; 
+                and
+                    (B) by inserting after ``domestic violence,'' the 
+                following: ``or who was a child of a United States 
+                citizen parent who within the past 2 years (or, if 
+                later, two years after the date the child attains 18 
+                years of age) died or otherwise terminated the parent-
+                child relationship,''.
+            (2) Lawful permanent resident parents.--
+                    (A) In general.--Section 204(a)(1)(B)(iii) of such 
+                Act (8 U.S.C. 1154(a)(1)(B)(iii)) is amended--
+                            (i) by striking ``or who'' and inserting 
+                        ``who''; and
+                            (ii) by inserting after ``domestic 
+                        violence,'' the following: ``or who was a child 
+                        of a lawful permanent resident resident who 
+                        within the past 2 years (or, if later, two 
+                        years after the date the child attains 18 years 
+                        of age) died or otherwise terminated the 
+                        parent-child relationship,''.
+                    (B) Conforming treatment of deceased spouses.--
+                Section 204(a)(1)(B)(ii)(II)(aa)(CC) of such Act (8 
+                U.S.C. 1154(a)(1)(B)(ii)(II)(aa)(CC)) is amended--
+                            (i) by redesignating subitems (aaa) and 
+                        (bbb) as subitems (bbb) and (ccc), 
+                        respectively; and
+                            (ii) by inserting before subitem (bbb), as 
+                        so redesignated, the following:
+                    ``(aaa) whose spouse died within the past 2 
+                years;''.
+            (3) Effective dates.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                amendment made by paragraphs (1) and (2) shall take 
+                effect on the date of the enactment of this Act.
+                    (B) Transition in case of citizen parents who died 
+                before enactment.--In applying the amendments made by 
+                paragraphs (1) and (2)(A) in the case of an alien whose 
+                citizen parent or lawful permanent resident parent died 
+                or whose parent-child relationship with such parent 
+                terminated during the period beginning on October 28, 
+                1998, and ending on the date of the enactment of this 
+                Act, the following rules apply:
+                            (i) The reference to ``within the past 2 
+                        years'' in section 204(a)(1)(A)(iv) or 
+                        204(a)(1)(B)(iii), respectively, of the 
+                        Immigration and Nationality Act in the matter 
+                        inserted by such paragraph is deemed to be a 
+                        reference to such period.
+                            (ii) The petition must be filed under such 
+                        section within 2 years after the date of the 
+                        enactment of this Act (or, if later, 2 years 
+                        after the alien's 18th birthday).
+                            (iii) The determination of eligibility for 
+                        benefits as a child under such section 
+                        (including under section 204(a)(1)(D) of the 
+                        Immigration and Nationality Act by reason of a 
+                        petition authorized under such section) shall 
+                        be determined as of the date of the death of 
+                        the citizen parent or lawful permanent resident 
+                        parent or the termination of the parent-child 
+                        relationship.
+    (b) Protecting Victims of Child Abuse From Aging Out.--
+            (1) Clarification regarding continuation of immediate 
+        relative status for children of citizens.--Section 
+        204(a)(1)(D)(i)(I) of the Immigration and Nationality Act (8 
+        U.S.C. 1154(a)(1)(D)(i)(I)) is amended--
+                    (A) by striking ``clause (iv) of section 
+                204(a)(1)(A)'' and inserting ``subparagraph (A)(iv)''; 
+                and
+                    (B) by striking ``a petitioner for preference 
+                status under paragraph (1), (2), or (3) of section 
+                203(a), whichever paragraph is applicable'' and 
+                inserting ``to continue to be treated as an immediate 
+                relative under section 201(b)(2)(A)(i), or a petitioner 
+                for preference status under section 203(a)(3) if 
+                subsequently married,''.
+            (2) Clarification regarding application to children of 
+        lawful permanent residents.--Section 204(a)(1)(D) of such Act 
+        (8 U.S.C. 1154(a)(1)(D)) is amended----
+                    (A) in clause (i)(I)--
+                            (i) by inserting after the first sentence 
+                        the following new sentence: ``Any child who 
+                        attains 21 years of age who has filed a 
+                        petition under subparagraph (B)(iii) that was 
+                        filed or approved before the date on which the 
+                        child attained 21 year of age shall be 
+                        considered (if the child has not been admitted 
+                        or approved for lawful permanent residence by 
+                        the date the child attained 21 years of age) a 
+                        petitioner for preference status under section 
+                        203(a)(2)(A), with the same priority date 
+                        assigned to the self-petition filed under such 
+                        subparagraph.''; and
+                            (ii) in the last sentence, by inserting 
+                        ``in either such case'' after ``shall be 
+                        required to be filed'';
+                    (B) in clause (i)(III), by striking ``paragraph 
+                (1), (2), or (3) of section 203(a)'' and inserting 
+                ``section 203(a)(2)(A)''; and
+                    (C) in clause (ii), by striking ``(A)(iii), 
+                (A)(iv),''.
+            (3) Effective date.--The amendments made by this subsection 
+        shall apply to applications filed before, on, or after the date 
+        of the enactment of VAWA-2000.
+    (c) Clarification of No Separate Adjustment Application for 
+Derivative Children.--
+            (1) In general.--Section 245(a) of the Immigration and 
+        Nationality Act (8 U.S.C. 1255(a)) is amended by adding at the 
+        end the following: ``In the case of a petition under clause 
+        (ii), (iii), or (iv) of section 204(a)(1)(A) that includes an 
+        individual as a derivative child of a principal alien, no 
+        adjustment application other than the adjustment application of 
+        the principal alien shall be required for adjustment of status 
+        of the individual under this subsection or subsection (c).''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to applications filed before, on, or after such 
+        date.
+    (d)  Late Petition Permitted for Adults Abused as Children.--
+            (1) In general.--Section 204(a)(1)(D) of the Immigration 
+        and Nationality Act (8 U.S.C. 1154(a)(1)(D)), as amended by 
+        subsection (b)(1), is amended by adding at the end the 
+        following new clause:
+    ``(v) In the case of an alien who qualified to petition under 
+subparagraph (A)(iv) or (B)(iii) as of the date the individual attained 
+21 years of age, the alien may file a petition under such respective 
+subparagraph notwithstanding that the alien has attained such age or 
+been married so long as the petition is filed before the date the 
+individual attains 30 years of age. In the case of such a petition, the 
+alien shall remain eligible for adjustment of status as a child 
+notwithstanding that the alien has attained 21 years of age or has 
+married, or both.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to individuals who attain 21 years of age on or 
+        after the date of the enactment of VAWA-2000.
+
+SEC. 113. SELF-PETITIONING PARENTS.
+
+    (a) In General.--Section 204(a)(1)(A) of the Immigration and 
+Nationality Act (8 U.S.C. 1154(a)(1)(A)) is amended by adding at the 
+end the following new clause:
+    ``(vii) An alien who--
+            ``(I) is the parent of a citizen of the United States or 
+        was a parent of a citizen of the United States who within the 
+        past 2 years lost or renounced citizenship status related to 
+        battering or extreme cruelty by the United States citizen son 
+        or daughter or who within the past two years died;
+            ``(II) is a person of good moral character;
+            ``(III) is eligible to be classified as an immediate 
+        relative under section 201(b)(2)(A)(i); and
+            ``(IV) resides, or has resided in the past, with the 
+        citizen daughter or son;
+may file a petition with the Secretary of Homeland Security under this 
+subparagraph for classification of the alien under such section if the 
+alien demonstrates that the alien has been battered by or has been the 
+subject of extreme cruelty perpetrated by the alien's citizen son or 
+daughter.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the date of the enactment of this Act.
+
+SEC. 114. PROMOTING CONSISTENCY IN VAWA ADJUDICATIONS.
+
+    (a) In General.--Section 204(a)(1) of the Immigration and 
+Nationality Act (8 U.S.C. 1154(a)(1)) is amended--
+            (1) in subparagraph (A)(iii)(II)(aa)(CC)(bbb), by striking 
+        ``an incident of domestic violence'' and inserting ``battering 
+        or extreme cruelty by the United States citizen spouse'';
+            (2) in subparagraph (A)(iv), by striking ``an incident of 
+        domestic violence'' and inserting ``battering or extreme 
+        cruelty by such parent'';
+            (3) in subparagraph (B)(ii)(II)(aa)(CC)(aaa), by striking 
+        ``due to an incident of domestic violence'' and inserting 
+        ``related to battering or extreme cruelty by the lawful 
+        permanent resident spouse''; and
+            (4) in subparagraph (B)(iii), by striking ``due to an 
+        incident of domestic violence'' and inserting ``related to 
+        battering or extreme cruelty by such parent''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect as if included in the enactment of VAWA-2000.
+
+SEC. 115. RELIEF FOR CERTAIN VICTIMS PENDING ACTIONS ON PETITIONS AND 
+              APPLICATIONS FOR RELIEF.
+
+    (a) VAWA Petitioners and Applicants for U and T Nonimmigrant 
+Classification.--
+            (1) In general.-- Section 204(a)(1) of the Immigration and 
+        Nationality Act (8 U.S.C. 1154(a)(1)) is amended by adding at 
+        the end the following new subparagraph:
+    ``(K)(i) In the case of an alien in the United States for whom a 
+petition as a VAWA petitioner has been filed--
+            ``(I) if the petition sets forth a prima facie case for 
+        approval, the alien shall not be removed, detained, or 
+        deported, and such a petition shall be processed without regard 
+        to whether a proceeding to remove or deport such alien is 
+        brought or pending; and
+            ``(II) if the petition is approved, the alien is eligible 
+        for work authorization and shall be provided an `employment 
+        authorized' endorsement or other appropriate work permit 
+        incidental to such approval.
+    ``(ii) In the case of an alien in the United States for whom an 
+application for nonimmigrant status (whether as a principal or 
+derivative child) under subparagraph (T) of section 101(a)(15) has been 
+filed--
+            ``(I) if there is a bona fide determination that the 
+        application is approvable or the application is approved, the 
+        alien shall not be removed, detained, or deported; and
+            ``(II) if the application is approved, the alien is 
+        eligible for work authorization and shall be provided an 
+        `employment authorized' endorsement or other appropriate work 
+        permit incidental to such approval.
+    ``(iii) In the case of an alien in the United States for whom an 
+application for nonimmigrant status (whether as a principal or 
+derivative child) under subparagraph (U) of section 101(a)(15) has been 
+filed, if interim relief is granted on the application or the 
+application is approved--
+            ``(I) the alien shall not be removed, detained, or 
+        deported; and
+            ``(II) the alien is eligible for work authorization and 
+        shall be provided an `employment authorized' endorsement or 
+        other appropriate work permit incidental to such relief or 
+        approval.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to petitions and applications filed before, on, or 
+        after such date.
+    (b) Applicants for Cancellation of Removal or Suspension of 
+Deportation.--
+            (1) In general.--Section 240A(b)(2) of the Immigration and 
+        Nationality Act (8 U.S.C. 1229b(b)(2)) is amended by adding at 
+        the end the following new subparagraph: :
+                    ``(E) Relief while application pending.--In the 
+                case of an alien who has applied for relief under this 
+                paragraph and whose application sets forth a prima 
+                facie case for such relief or who has filed an 
+                application for relief under section 244(a)(3) (as in 
+                effect on March 31, 1997) that sets forth a prima facie 
+                case for such relief--
+                            ``(i) the alien shall not be removed, 
+                        detained, or deported unless the application is 
+                        denied and all opportunities for appeal of the 
+                        denial have been exhausted; and
+                            ``(ii) such an application shall be 
+                        processed without regard to whether a 
+                        proceeding to remove or deport such alien is 
+                        brought or pending.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to applications filed before, on, or after such 
+        date.
+
+SEC. 116. ACCESS TO VAWA PROTECTION REGARDLESS OF MANNER OF ENTRY.
+
+    (a) Fiancees.--
+            (1) In general.--Section 214(d) of the Immigration and 
+        Nationality Act (8 U.S.C. 1184(d)) is amended by inserting 
+        before the period at the end the following: ``, unless the 
+        alien is not eligible under section 204(c) to have a petition 
+        approved and is eligible for status as a VAWA petitioner, for 
+        status as a nonimmigrant under subparagraph (T) or (U) of 
+        section 101(a)(15)(T), or for relief under section 240A(b)(2) 
+        or under section 244(a)(3) (as in effect on March 31, 1997)''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to aliens admitted before, on, or after such date.
+    (b) Spouses Who Are Conditional Permanent Residents.--
+            (1) In general.--Section 245(d) of the Immigration and 
+        Nationality Act (8 U.S.C. 1255(d)) is amended--
+                    (A) by inserting ``(1)'' after ``(d)''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+    ``(2) Paragraph (1) shall not apply to an alien who seeks 
+adjustment of status on the basis of an approved petition for 
+classification as a VAWA petitioner.''.
+            (2) Conforming clarification in cancellation of removal.--
+        Section 240A(b)(2)(A) of such Act (8 U.S.C. 1229b(b)(2)(A)) is 
+        amended, in the matter before clause (i), by inserting ``, 
+        regardless of whether the alien has been admitted for permanent 
+        residence on a conditional basis under section 216,'' before 
+        ``if the alien demonstrates''.
+            (3) Suspension of deportation.--An alien may qualify for 
+        relief under section 244(a)(3) of the Immigration and 
+        Nationality Act (as in effect on March 31, 1997), regardless of 
+        whether the alien has been admitted for permanent residence on 
+        a conditional basis under section 216 of such Act.
+            (4) Effective date.--The amendments made by this 
+        subsection, and the provisions of paragraph (3), shall take 
+        effect on the date of the enactment of this Act and shall apply 
+        to applications for adjustment of status, for cancellation of 
+        removal, or for suspension of deportation filed before, on, or 
+        after such date.
+    (c) Spouses and Children of Asylum Applicants Under Adjustment 
+Provisions.--
+            (1) In general.--Section 209(b)(3) of the Immigration and 
+        Nationality Act (8 U.S.C. 1159(b)(3)) is amended--
+                    (A) by inserting ``(A)'' after ``(3)''; and
+                    (B) by adding at the end the following:
+            ``(B) was the spouse of a refugee within the meaning of 
+        section 101(a)(42)(A) at the time the asylum application was 
+        granted and who was battered or was the subject of extreme 
+        cruelty perpetrated by such refugee or whose child was battered 
+        or subjected to extreme cruelty by such refugee (without the 
+        active participation of such spouse in the battery or cruelty), 
+        or
+            ``(C) was the child of a refugee within the meaning of 
+        section 101(a)(42)(A) at the time of the filing of the asylum 
+        application and who was battered or was the subject of extreme 
+        cruelty perpetrated by such refugee,''.
+            (2) Effective date.--The amendments made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act 
+        and--
+                    (A) section 209(b)(3)(B) of the Immigration and 
+                Nationality Act, as added by paragraph (1)(B), shall 
+                apply to asylum applications granted before, on, or 
+                after such date; and
+                    (B) section 209(b)(3)(C) of such Act, as so added, 
+                shall apply with respect to asylum applications filed 
+                before, on, or after such date.
+    (d) Visa Waiver Entrants.--
+            (1) In general.--Section 217(b)(2) of such Act (8 U.S.C. 
+        1187(b)(2)) is amended by inserting after ``asylum,'' the 
+        following: ``as a VAWA petitioner, or for relief under 
+        subparagraph (T) or (U) of section 101(a)(15), under section 
+        240A(b)(2), or under section 244(a)(3) (as in effect on March 
+        31, 1997),''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to waivers provided under section 217(b)(2) of the 
+        Immigration and Nationality Act before, on, or after such date 
+        as if it had been included in such waivers.
+    (e) Exception From Foreign Residence Requirement for Educational 
+Visitors.--
+            (1) In general.--Section 212(e) of such Act (8 U.S.C. 
+        1182(e)) is amended, in the matter before the first proviso, by 
+        inserting ``unless the alien is a VAWA petitioner or a 
+        nonimmigrant under subparagraph (T) or (U) of section 
+        101(a)(15)'' after ``following departure from the United 
+        States''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to .
+
+SEC. 117. ELIMINATING ABUSERS' CONTROL OVER APPLICATIONS FOR 
+              ADJUSTMENTS OF STATUS.
+
+    (a) Application of Motions to Reopen for All VAWA Petitioners.--
+Section 240(c)(7)(C)(iv) of the Immigration and Nationality Act (8 
+U.S.C. 1230(c)(7)(C)(iv)), as redesignated by section 101(d)(1) of the 
+REAL ID Act of 2005 (Division B of Public Law 109-13), is amended --
+            (1) in subclause (I), by striking ``under clause (iii) or 
+        (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 
+        204(a)(1)(B)'' and inserting ``as a VAWA petitioner''; and
+            (2) in subclause (II), by inserting ``or adjustment of 
+        status'' after ``cancellation of removal''.
+    (b) Application of VAWA Deportation Protections for Transitional 
+Relief to All VAWA Petitioners.--Section 1506(c)(2) of the Violence 
+Against Women Act of 2000 (8 U.S.C. 1229a note) is amended--
+            (1) in subparagraph (A)--
+                    (A) by amending clause (i) to read as follows:
+                            ``(i) if the basis of the motion is to 
+                        apply for relief as a VAWA petitioner (as 
+                        defined in section 101(a)(51) of the 
+                        Immigration and Nationality Act (8 U.S.C. 
+                        1101(a)(51)) or under section 244(a)(3) of such 
+                        Act (8 U.S.C. 1254(a)(3)); and''; and
+                    (B) in clause (ii), by inserting ``or adjustment of 
+                status'' after ``suspension of deportation''; and
+            (2) in subparagraph (B)(ii), by striking ``for relief'' and 
+        all that follows through ``1101 note))'' and inserting ``for 
+        relief described in subparagraph (A)(i)''.
+    (c) Application of VAWA-Related Relief Under Section 202 of 
+NACARA.--
+            (1) In general.--Section 202(d)(1) of the Nicaraguan 
+        Adjustment and Central American Relief Act (8 U.S.C. 1255 note; 
+        Public Law 105-100) is amended--
+                    (A) in subparagraph (B)(ii), by inserting ``, or 
+                was eligible for adjustment,'' after ``whose status is 
+                adjusted''; and
+                    (B) in subparagraph (E), by inserting after ``April 
+                1, 2000'' the following: ``, or, in the case of an 
+                alien who qualifies under subparagraph (B)(ii), applies 
+                for such adjustment during the 18-month period 
+                beginning on the date of enactment of the Violence 
+                Against Women Act of 2005'' .
+            (2) Technical amendment.--Section 202(d)(3) of such Act (8 
+        U.S.C. 1255 note; Public Law 105-100) is amended by striking 
+        ``204(a)(1)(H)'' and inserting ``204(a)(1)(J)''.
+            (3) Effective date.--The amendment made by paragraph (2) 
+        shall take effect as if included in the enactment of VAWA-2000.
+    (d) Petitioning Rights of Certain Former Spouses Under Cuban 
+Adjustment.--
+            (1) In general.--The first section of Public Law 89-732 (8 
+        U.S.C. 1255 note) is amended--
+                    (A) in the last sentence, by striking 
+                ``204(a)(1)(H)'' and inserting ``204(a)(1)(J)''; and
+                    (B) by adding at the end the following: ``An alien 
+                who was the spouse of any Cuban alien described in this 
+                section and has resided with such spouse shall continue 
+                to be treated as such a spouse for 2 years after the 
+                date on which the Cuban alien dies (or, if later, 2 
+                years after the date of enactment of Violence Against 
+                Women Act of 2005), or for 2 years after the date of 
+                termination of the marriage (or, if later, 2 years 
+                after the date of enactment of Violence Against Women 
+                Act of 2005) if the alien demonstrates a connection 
+                between the termination of the marriage and the 
+                battering or extreme cruelty by the Cuban alien.''.
+            (2) Effective date.--The amendment made by paragraph (1)(A) 
+        shall take effect as if included in the enactment of VAWA-2000.
+    (e) Self-Petitioning Rights of HRIFA Applicants.--
+            (1) In general.--Section 902(d)(1)(B) of the Haitian 
+        Refugee Immigration Fairness Act of 1998 (division A of section 
+        101(h) of Public Law 105-277; 112 Stat. 2681-538; 8 U.S.C. 1255 
+        note), as amended by section 1511(a) of VAWA-2000, is amended--
+                    (A) in clause (i), by striking ``whose status is 
+                adjusted to that of an alien lawfully admitted for 
+                permanent residence'' and inserting ``who is or was 
+                eligible for classification'';
+                    (B) in clause (ii), by striking ``whose status is 
+                adjusted to that of an alien lawfully admitted for 
+                permanent residence'' and inserting ``who is or was 
+                eligible for classification''; and
+                    (C) in clause (iii), by striking ``204(a)(1)(H)'' 
+                and inserting ``204(a)(1)(J)''.
+            (2) Effective date.--The amendments made by paragraph 
+        (1)(C) shall take effect as if included in the enactment of 
+        VAWA-2000.
+    (f) Self-Petitioning Rights Under Section 203 of NACARA.--Section 
+309 of the Illegal Immigration and Reform and Immigrant Responsibility 
+Act of 1996 (division C of Public Law 104-208; 8 U.S.C. 1101 note), as 
+amended by section 203(a) of the Nicaraguan Adjustment and Central 
+American Relief Act (8 U.S.C. 1255 note; Public Law 105-100), is 
+amended--
+            (1) in subsection (c)(5)(C)(i)(VII)(aa), as amended by 
+        section 1510(b) of VAWA-2000--
+                    (A) by striking ``or'' at the end of subitem (BB);
+                    (B) by striking ``and'' at the end of subitem (CC) 
+                and inserting ``or''; and
+                    (C) by adding at the end the following new subitem:
+                                            ``(DD) at the time at which 
+                                        the spouse or child files an 
+                                        application for suspension of 
+                                        deportation or cancellation of 
+                                        removal; and''; and
+            (2) in subsection (g)--
+                    (A) by inserting ``(1)'' before 
+                ``Notwithstanding'';
+                    (B) by inserting ``subject to paragraph (2),'' 
+                after ``section 101(a) of the Immigration and 
+                Nationality Act)),''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+    ``(2) There shall be no limitation on a motion to reopen removal or 
+deportation proceedings in the case of an alien who is described in 
+subclause (VI) or (VII) of subsection (c)(5)(C)(i). Motions to reopen 
+removal or deportation proceedings in the case of such an alien shall 
+be handled under the procedures that apply to aliens seeking relief 
+under section 204(a)(1)(A)(iii) of the Immigration and Nationality 
+Act.''.
+    (g) Effective Date.--Except as otherwise provided in this section, 
+the amendments made by this section shall take effect on the date of 
+the enactment of this Act.
+
+SEC. 118. PAROLE FOR VAWA PETITIONERS AND DERIVATIVES.
+
+    (a) In General.--Section 240A(b)(4) of the Immigration and 
+Nationality Act (8 U.S.C. 1229b(b)(4)) is amended--
+            (1) in the heading, by inserting ``Battered aliens and'' 
+        before ``Children of battered aliens'';
+            (2) in subparagraph (A)--
+                    (A) by striking ``or'' at the end of clause (i);
+                    (B) by striking the period at the end of clause 
+                (ii) and inserting ``; or''; and
+                    (C) by adding at the end the following new clause:
+                            ``(iii) a VAWA petitioner.''; and
+            (3) in subparagraph (B)--
+                    (A) in the first sentence, by inserting ``on a 
+                year-by-year basis'' after ``shall extend''; and
+                    (B) in the first sentence, by inserting ``or, in 
+                the case of subparagraph (A)(iii), from the date of 
+                approval of the applicable petition'' after ``1996)''.
+    (b) Conforming Amendment.--Section 212(d)(5) of such Act (8 U.S.C. 
+1182(d)(5)) is amended by adding at the end the following new 
+subparagraph:
+    ``(C) For provision providing for parole for certain battered 
+aliens, children or battered aliens, and parents of battered alien 
+children, see section 240A(b)(4).''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on the date of the enactment of this Act.
+
+SEC. 119. EXEMPTION OF VICTIMS OF DOMESTIC VIOLENCE, SEXUAL ASSAULT AND 
+              TRAFFICKING FROM SANCTIONS FOR FAILURE TO DEPART 
+              VOLUNTARILY.
+
+    (a) In General.--Section 240B(d) of the Immigration and Nationality 
+Act (8 U.S.C. 1229c(d)) is amended--
+            (1) by striking ``If'' and inserting ``(1) Subject to 
+        paragraph (2), if''; and
+            (2) by adding at the end the following new paragraph:
+    ``(2) The ineligibility for relief under paragraph (1) shall not 
+apply to an alien who is a VAWA petitioner, who is seeking status as a 
+nonimmigrant under subparagraph (T) or (U) of section 101(a)(15), or 
+who is an applicant for relief under section 240A(b)(2) or under 
+section 244(a)(3) (as in effect on March 31, 1997).''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply as if included in the enactment of the Immigration Reform and 
+Immigrant Responsibility Act of 1996 (division C of Public Law 104-208) 
+and shall apply to failures to depart voluntarily occurring before, on, 
+or after the date of the enactment of this Act.
+
+SEC. 120. CLARIFICATION OF ACCESS TO NATURALIZATION FOR VICTIMS OF 
+              DOMESTIC VIOLENCE.
+
+    (a) In General.--Section 319(a) of the Immigration and Nationality 
+Act (8 U.S.C. 1430(a)) is amended by inserting after ``extreme cruelty 
+by a United States citizen spouse or parent'' the following: ``, 
+regardless of whether the lawful permanent resident status was obtained 
+on the basis of such battery or cruelty''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the date of the enactment of this Act and shall apply to 
+applications for naturalization filed before, on, or after the date of 
+the enactment of this Act.
+
+SEC. 121. CONSOLIDATING ADJUDICATION OF VAWA CASES IN VAWA UNIT.
+
+    (a) In General.--Subtitle F of title IV of the Homeland Security 
+Act of 2002 (Public Law 107-296) is amended by adding at the end the 
+following new section:
+
+``SEC. 479. CONSOLIDATED ADJUDICATION OF VAWA CASES IN VAWA UNIT.
+
+    ``(a) Sole Jurisdiction.--The Secretary of Homeland Security shall 
+designate the VAWA unit as the administrative unit within the 
+Department of Homeland Security with sole jurisdiction over the 
+adjudication of the following:
+            ``(1) Applications and petitions of VAWA petitioners 
+        described in section 101(a)(51) of the Immigration and 
+        Nationality Act (8 U.S.C. 1101(a)(51)).
+            ``(2) Applications for nonimmigrant status under 
+        subparagraph (T) or (U) of section 101(a)(15) of the 
+        Immigration and Nationality Act (8 U.S.C. 1101(a)(15)).
+            ``(3) Applications seeking relief under paragraph (2) or 
+        (4) of section 240A(b) of the Immigration and Nationality Act 
+        (8 U.S.C. 122b(b)).
+            ``(4) Applications for adjustment of status by VAWA 
+        petitioners who are described in subparagraph (A) or (B) of 
+        section 101(a)(51) of such Act.
+            ``(5) Applications for employment authorization under 
+        section 214(c)(11).
+    ``(b) Additional Jurisdiction.--The VAWA unit may have jurisdiction 
+over such other matters as the Secretary may specify.
+    ``(c) VAWA Unit Defined.--For purposes of this section, the term 
+`VAWA unit' means the administrative unit within the Department of 
+Homeland Security that has responsibility as of May 1, 2005, for 
+petitions under subparagraphs (A)(iii), (A)(iv), (B)(ii), and (B)(iii) 
+of section 204(a)(1) of the Immigration and Nationality Act and for 
+applications for nonimmigrant status under subparagraphs (T) and (U) of 
+section 101(a)(15) of such Act.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+such Act is amended by inserting after the item relating to section 478 
+the following new item:
+
+``Sec. 479. Consolidated adjudication of VAWA cases in VAWA unit.''.
+    (c) Effective Date.--The amendment made by paragraph (1) shall 
+apply to applications and petitions filed on or after the date that is 
+180 days after the date of the enactment of this Act and, to the extent 
+feasible, to applications and petitions filed before such date.
+
+SEC. 122. PROHIBITION OF ADVERSE DETERMINATIONS OF ADMISSIBILITY OR 
+              DEPORTABILITY BASED ON PROTECTED INFORMATION.
+
+    (a) Application to Additional Departments and Other Battered 
+Aliens.--Section 384 of the Illegal Immigration Reform and Immigrant 
+Responsibility Act of 1996 (division C of Public Law 104-208; 8 U.S.C. 
+1367) is amended--
+            (1) in subsection (a), as amended by section 1513(d) of 
+        VAWA-2000--
+                    (A) in the matter before paragraph (1), by striking 
+                ``(including any bureau or agency of such Department)'' 
+                and inserting ``, or the Secretary of Homeland 
+                Security, the Secretary of State, the Secretary of 
+                Health and Human Services, or the Secretary of Labor or 
+                any other official or employee of the Department of 
+                Homeland Security, the Department of State, the 
+                Department of Health and Human Services, or the 
+                Department of Labor (including any bureau or agency of 
+                any such Department)'';
+                    (B) in paragraph (1)--
+                            (i) in the matter before subparagraph (A), 
+                        by striking ``furnished solely by'' and 
+                        inserting ``furnished by or derived from 
+                        information provided solely by'';
+                            (ii) by striking ``or'' at the end of 
+                        subparagraph (D);
+                            (iii) by adding ``or'' at the end of 
+                        subparagraph (E);
+                            (iv) by inserting after subparagraph (E) 
+                        the following new subparagraph:
+                    ``(F) in the case of an alien applying for 
+                continued presence as a victim of trafficking under 
+                section 107(b)(1)(E)(i)(II)(bb) of the Trafficking 
+                Protection Act of 2000 or status under section 
+                101(a)(15)(T) of the Immigration and Nationality Act, 
+                the trafficker or perpetrator,''; and
+                            (v) by striking ``or'' at the end;
+                    (C) in paragraph (2)--
+                            (i) by striking ``of the Department,'' and 
+                        inserting ``of any such Department,'';
+                            (ii) by striking ``under clause (iii) or 
+                        (iv) of section 204(a)(1)(A), clause (ii) or 
+                        (iii) of section 204(a)(1)(B)'' and inserting 
+                        ``as a VAWA petitioner (as defined in section 
+                        101(a)(51) of the Immigration and Nationality 
+                        Act), or under'';
+                            (iii) by striking ``or section 240A(a)(3) 
+                        of such Act as an alien (or the part of a 
+                        child) who has been battered or subjected to 
+                        extreme cruelty.'' and inserting the following: 
+                        ``, section 101(a)(15)(T), or section 
+                        240A(b)(2) of such Act, or section 244(a)(3) of 
+                        such Act (as in effect on March 31, 1997), or 
+                        for continued presence as a victim of 
+                        trafficking under section 
+                        107(b)(1)(E)(i)(II)(bb) of the Trafficking 
+                        Protection Act of 2000, or any derivative of 
+                        the alien;''; and
+                            (iv) by striking the period at the end and 
+                        inserting a semicolon; and
+                    (D) by inserting after paragraph (2) the following:
+            ``(3) undertake any part of an enforcement action--
+                    ``(A) at a domestic violence shelter, a victims 
+                services organization or program (as described in 
+                section 2003(8) of the Omnibus Crime Control and Safe 
+                Streets Act of 1968), a rape crisis center, a family 
+                justice center, or a supervised visitation center; or
+                    ``(B) against an alien at a courthouse (or in 
+                connection with the appearance of the alien at a 
+                courthouse) if the alien is appearing in connection 
+                with a protection order case, child custody case, or 
+                other civil or criminal case relating to domestic 
+                violence, sexual assault, trafficking, or stalking in 
+                which the alien has been battered or subject to extreme 
+                cruelty or if the alien is described in subparagraph 
+                (T) or (U) of section 101(a)(15) of the Immigration and 
+                Nationality Act; or
+            ``(4) in the case of an alien described in section 
+        101(a)(27)(J) of the Immigration and Nationality Act who has 
+        been abused, neglected, or abandoned, contact the alleged 
+        abuser (or family member of the alleged abuser) at any stage of 
+        applying for special immigrant juvenile status, including after 
+        a request for the consent of the Secretary of Homeland Security 
+        under clause (iii)(I) of such section.''; and
+            (2) in subsection (b)--
+                    (A) in paragraphs (1), by striking ``may provide, 
+                in the Attorney General's discretion'' and inserting 
+                ``, Secretary of Homeland Security, Secretary of State, 
+                Secretary of Health and Human Services, and Secretary 
+                of Labor may provide'';
+                    (B) in paragraph (2), by striking ``may provide in 
+                the discretion of the Attorney General'' and inserting 
+                ``, Secretary of Homeland Security, Secretary of State, 
+                Secretary of Health and Human Services, and the 
+                Secretary of Labor may provide''; and
+                    (C) in paragraph (5), by striking ``is authorized 
+                to disclose'' and inserting ``, Secretary of Homeland 
+                Security, Secretary of State, Secretary of Health and 
+                Human Services, and Secretary of Labor, or Attorney 
+                General may disclose''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect on the date of the enactment of this Act and shall apply to 
+violations or disclosures made on or after such date.
+
+                  Subtitle C--Miscellaneous Provisions
+
+SEC. 131. REMOVING 2 YEAR CUSTODY AND RESIDENCY REQUIREMENT FOR 
+              BATTERED ADOPTED CHILDREN.
+
+    (a) In General.--Section 101(b)(1)(E)(i) of the Immigration and 
+Nationality Act (8 U.S.C. 1101(b)(1)(E)(i)) is amended by inserting 
+after ``at least two years'' the following: ``or if the child has been 
+battered or subject to extreme cruelty by the adopting parent or by a 
+family member of the adopting parent residing in the same household''.
+    (b) Conforming Naturalization Amendment.--Section 320(a)(3) of such 
+Act (8 U.S.C. 1431(a)(3)) is amended by inserting before the period at 
+the end the following: ``or the child is residing in the United States 
+pursuant to a lawful admission for permanent residence and has been 
+battered or subject to extreme cruelty by the citizen parent or by a 
+family member of the citizen parent residing in the same household ''
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on the date of the enactment of this Act and shall apply to 
+applications pending or filed on or after such date.
+
+SEC. 132. WAIVER OF CERTAIN GROUNDS OF INADMISSIBILITY FOR VAWA 
+              PETITIONERS.
+
+    (a) Waiver of Unlawful Presence.--Paragraph (9)(B)(iii)(IV) of 
+section 212(a) of the Immigration and Nationality Act (8 U.S.C. 
+1182(a)) is amended by striking ``who would be described in paragraph 
+(6)(A)(ii)'' and all that follows and by inserting ``who demonstrates 
+that the alien is described in subclauses (I) and (II) of paragraph 
+(6)(A)(ii).''.
+    (b) Waiver of False Claim of U.S. Citizenship.--
+            (1) In general.--Section 212(i)(1) of such Act (8 U.S.C. 
+        1182(i)(1)) is amended by inserting ``(and, in the case of a 
+        VAWA petitioner who demonstrates a connection between the false 
+        claim of United States citizenship and the petitioner being 
+        subjected to extreme cruelty or physical or mental abuse, 
+        clause (ii))'' after ``clause (i)''.
+            (2) Conforming reference.--Section 212(a)(6)(C)(iii) of 
+        such Act (8 U.S.C. 1182(a)(6)(C)(iii)) is amended by striking 
+        ``clause (i)''and inserting ``clauses (i) and (ii)''.
+    (c) Exemption From Public Charge Ground.--
+            (1) In general.--Section 212(a)(4) of such Act (8 U.S.C. 
+        1182(a)(4)) is amended by adding at the end the following new 
+        subparagraph:
+                    ``(E) Special rule for battered aliens.--
+                Subparagraphs (A) through (C) shall not apply to an 
+                alien who is a VAWA petitioner or is a qualified alien 
+                described in section 431(c) of the Personal 
+                Responsibility and Work Opportunity Reconciliation Act 
+                of 1996.''.
+            (2) Conforming amendment.--Section 212(a)(4)(C)(i) of such 
+        Act (8 U.S.C. 1182(a)(4)(C)(i)) is amended to read as follows:
+                            ``(i) the alien is described in 
+                        subparagraph (E); or''.
+    (d) Effective Date.--Except as provided in this section, the 
+amendments made by this section shall take effect on the date of the 
+enactment of this Act and shall apply regardless of whether the 
+conviction was entered, crime, or disqualifying event occurred before, 
+on, or after such date.
+
+SEC. 133. TREATMENT OF GOOD MORAL CHARACTER.
+
+    (a) In General.--Section 101(a)(43) of the Immigration and 
+Nationality Act (8 U.S.C. 1101(a)(43)) is amended----
+            (1) in subparagraphs (F) and (G), by striking ``at least 
+        one year'' and inserting ``is more than one year'';
+            (2) in subparagraph (J), by striking ``one year 
+        imprisonment or more'' by inserting ``imprisonment of more than 
+        one year'';
+            (3) in subparagraph (P), by striking ``at least 12 months'' 
+        and inserting ``more than one year''; and
+            (4) in subparagraphs (R) and (S), by striking ``at least 
+        one year'' and inserting ``more than one year''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect on the date of the enactment of this Act and shall apply to 
+all convictions entered (and criminal acts occurring) before, on, or 
+after the date of the enactment of this Act.
+
+SEC. 134. EMPLOYMENT AUTHORIZATION FOR BATTERED SPOUSES OF H-1B VISA 
+              HOLDERS.
+
+    (a) In General.--Section 214(c) of the Immigration and Nationality 
+Act (8 U.S.C. 1184(c)), as amended by sections 403(a) and 404(a) of the 
+REAL ID Act of 2005 (Division B of Public Law 109-13), is amended by 
+adding at the end the following new paragraph:
+    ``(15) In the case of an alien spouse admitted under section 
+101(a)(15)(H) who is accompanying or following to join a principal 
+alien admitted under section 101(a)(15)(H)(i)(B), the Secretary of 
+Homeland Security shall authorize the alien spouse to engage in 
+employment in the United States and provide the spouse with an 
+`employment authorized' endorsement or other appropriate work permit if 
+the alien spouse demonstrates that during the marriage the alien spouse 
+or a child of the alien spouse has been battered or has been the 
+subject to extreme cruelty perpetrated by the spouse of the alien 
+spouse.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the date of the enactment of this Act and shall apply to 
+aliens who obtained the status of an alien spouse admitted under 
+section 101(a)(15)(H) of the Immigration and Nationality Act before, 
+on, or after such date.
+
+SEC. 135. GROUNDS FOR HARDSHIP WAIVER FOR CONDITIONAL PERMANENT 
+              RESIDENCE FOR INTENDED SPOUSES.
+
+    (a) In General.--Section 216(c)(4) of the Immigration and 
+Nationality Act (8 U.S.C. 1186a(c)(4)) is amended--
+            (1) by striking ``or'' at the end of subparagraph (B);
+            (2) by striking the period at the end of subparagraph (C) 
+        and inserting ``, or''; and
+            (3) by inserting after subparagraph (C) the following new 
+        subparagraph:
+                    ``(D) the alien meets the requirements under 
+                section 204(a)(1)(A)(iii)(II)(aa)(BB) and following the 
+                marriage ceremony has been battered by or was subject 
+                to extreme cruelty perpetrated by his or her intended 
+                spouse and was not at fault in failing to meet the 
+                requirements of paragraph (1).''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply as if included in the enactment of VAWA-2000.
+
+SEC. 136. CANCELLATION OF REMOVAL.
+
+    (a) Clarifying Application of Domestic Violence Waiver Authority in 
+Cancellation of Removal.--
+            (1) In general.--Section 240A(b) of the Immigration and 
+        Nationality Act (8 U.S.C. 1229b(b)) is amended--
+                    (A) in paragraph (1)(C), by striking ``(except in a 
+                case described in section 237(a)(7) where the Attorney 
+                General exercises discretion to grant a waiver)'' and 
+                inserting ``, subject to paragraph (5)'';
+                    (B) in paragraph (2)(A), by amending clause (iv) to 
+                read as follows:
+                            ``(iv) subject to paragraph (5), the alien 
+                        is not inadmissible under section 212(a)(2) or 
+                        removable under section 237(a)(2) or 237(a)(3); 
+                        and ''; and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(5) Application of domestic violence waiver authority.--
+        Paragraphs (1)(C) and (2)(A)(iv) shall not apply with respect 
+        to an offense described in clause (i) or (ii) of section 
+        237(a)(2)(E) in the case described in section 237(a)(7)(A).''.
+            (2) Effective date.--The amendments made by paragraph (1) 
+        shall apply as if included in the enactment of section 1504(a) 
+        of VAWA-2000.
+    (b) Clarifying Nonapplication of Cancellation Cap.--
+            (1) In general.--Section 240A(e)(3) of the Immigration and 
+        Nationality Act (8 U.S.C. 1229b(e)(3)) is amended by adding at 
+        the end the following new subparagraph:
+                    ``(C) Aliens with respect to their cancellation of 
+                removal under subsection (b)(2).''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall apply to cancellations of removal occurring on or after 
+        October 1, 2004.
+
+SEC. 137. MOTIONS TO REOPEN.
+
+    (a) Removal Proceedings.--
+            (1) In general.--Section 240(c)(7) of the Immigration and 
+        Nationality Act (8 U.S.C. 1230(c)(7)), as redesignated by 
+        section 101(d)(1) of the REAL ID Act of 2005 (Division B of 
+        Public Law 109-13), is amended--
+                    (A) in subparagraph (A), by inserting ``, except 
+                that this limitation shall not apply so as to prevent 
+                the filing of one motion to reopen described in clause 
+                (iv)'' before the period at the end;
+                    (B) in subparagraph (C)(iv), in the matter before 
+                subclause (I), by striking ``The deadline specified in 
+                subsection (b)(5)(C) for filing a motion to reopen does 
+                not apply'' and inserting ``Any limitation under this 
+                section on the deadlines for filing such motions shall 
+                not apply''; and
+                    (C) in subparagraph (C)(iv), by adding after and 
+                below subclause (III) the following new sentence:
+                        ``The filing of a motion to reopen under this 
+                        clause shall stay the removal of the alien 
+                        pending final disposition of the motion 
+                        including exhaustion of all appeals.''.
+            (2) Effective date.--The amendments made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act.
+    (b) Deportation Proceedings.--
+            (1) In general.--Section 1506(c)(2)(A) of VAWA-2000 is 
+        amended--
+                    (A) in the matter before clause (i), by striking 
+                ``Notwithstanding any limitation imposed by law on 
+                motions'' inserting ``Notwithstanding any limitation on 
+                the number of motions, or the deadlines for filing 
+                motions (including the deadline specified in section 
+                242B(c)(3) of the Immigration and Nationality Act 
+                before the title III-A effective date),'';
+                    (B) in the matter before clause (i), by striking 
+                ``there is no time limit on the filing of a motion'' 
+                and all that follows through ``does not apply'' and 
+                inserting ``such limitations shall not apply to the 
+                filing of a single motion under this subparagraph to 
+                reopen such proceedings''; and
+                    (C) by adding at the end the following:
+                ``The filing of a motion under this subparagraph shall 
+                stay the removal of the alien pending a final 
+                disposition of the motion including the exhaustion of 
+                all appeals.''.
+            (2) Effective date.--The amendments made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act .
+
+SEC. 138. REMOVAL PROCEEDINGS.
+
+    (a) Exception to Reinstatement of Removal.--
+            (1) In general.--Section 241(a)(5) of the Immigration and 
+        Nationality Act (8 U.S.C. 1251(a)(5)) is amended by adding at 
+        the end the following: ``The provisions of this paragraph shall 
+        not apply to an alien who, before reinstatement of the removal 
+        order, sought relief as a VAWA petitioner, applied for status 
+        as a nonimmigrant under subparagraph (T) or (U) of section 
+        101(a)(15), or applied for relief under section 240A(b)(2)or 
+        section 244(a)(3) (as in effect on March 31, 1997).''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act.
+    (b) Treatment of Battery or Extreme Cruelty as Exceptional 
+Circumstances.--
+            (1) In general.--Section 240(e)(1) of such Act (8 U.S.C. 
+        1230(e)(1)) is amended by inserting ``battery or extreme 
+        cruelty of the alien or any child or parent of the alien or'' 
+        after ``exceptional circumstances (such as''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on the date of the enactment of this Act and 
+        shall apply to a failure to appear that occurs before, on, or 
+        after such date.
+
+SEC. 139. CONFORMING RELIEF IN SUSPENSION OF DEPORTATION PARALLEL TO 
+              THE RELIEF AVAILABLE IN VAWA-2000 CANCELLATION FOR 
+              BIGAMY.
+
+     Section 244(a)(3) of the Immigration and Nationality Act (as in 
+effect before the title III-A effective date in section 309 of the 
+Illegal Immigration Reform and Immigrant Responsibility Act of 1996) 
+shall be applied as if ``or by a United States citizen or lawful 
+permanent resident whom the alien intended to marry, but whose marriage 
+is not legitimate because of that United States citizen's or permanent 
+resident's bigamy'' were inserted after ``by a spouse or parent who is 
+a United States citizen or lawful permanent resident''.
+
+SEC. 140. CORRECTION OF CROSS-REFERENCE TO CREDIBLE EVIDENCE 
+              PROVISIONS.
+
+    (a) Cuban Adjustment Provision.--The last sentence of the first 
+section of Public Law 89-732 (November 2, 1966; 8 U.S.C. 1255 note), as 
+amended by section 1509(a) of VAWA-2000, is amended by striking 
+``204(a)(1)(H)'' and inserting ``204(a)(1)(J)''.
+    (b) NACARA.--Section 202(d)(3) of the Nicaraguan Adjustment and 
+Central American Relief Act (8 U.S.C. 1255 note; Public Law 105-100), 
+as amended by section 1510(a)(2) of VAWA-2000, is amended by striking 
+``204(a)(1)(H)'' and inserting ``204(a)(1)(J)''.
+    (c) IIARAIRA.--Section 309(c)(5)(C)(iii) of the Illegal Immigration 
+and Reform and Immigrant Responsibility Act of 1996 (division C of 
+Public Law 104-208; 8 U.S.C. 1101 note), as amended by section 
+1510(b)(2) of VAWA-2000, is amended by striking ``204(a)(1)(H)'' and 
+inserting ``204(a)(1)(J)''.
+    (d) HRIFA.--Section 902(d)(1)(B)(iii) of the Haitian Refugee 
+Immigration Fairness Act of 1998 (division A of section 101(h) of 
+Public Law 105-277; 112 Stat. 2681-538), as amended by section 1511(a) 
+of VAWA-2000, is amended by striking ``204(a)(1)(H)'' and inserting 
+``204(a)(1)(J)''.
+    (e) Effective Date.--The amendments made by this section shall take 
+effect as if included in the enactment of VAWA-2000.
+
+SEC. 141. TECHNICAL CORRECTIONS.
+
+    (a) Technical Corrections to References in Application of Special 
+Physical Presence and Good Moral Character Rules.--
+            (1) Physical presence rules.--Section 240A(b)(2)(B) of the 
+        Immigration and Nationality Act (8 U.S.C. 1229b(b)(2)(B)) is 
+        amended--
+                    (A) in the first sentence, by striking 
+                ``(A)(i)(II)'' and inserting ``(A)(ii)''; and
+                    (B) in the fourth sentence, by striking ``section 
+                240A(b)(2)(B)'' and inserting ``this subparagraph, 
+                subparagraph (A)(ii),''.
+            (2) Moral character rules.--Section 240A(b)(2)(C) of such 
+        Act (8 U.S.C. 1229b(b)(2)(C)) is amended by striking 
+        ``(A)(i)(III)'' and inserting ``(A)(iii)''.
+            (3) Effective date.--The amendments made by this subsection 
+        shall be effective as if included in the enactment of section 
+        1504(a) of VAWA (114 Stat. 1522).
+    (b) Correction of Cross-Reference Error in Applying Good Moral 
+Character.--
+            (1) In general.--Section 101(f)(3) of the Immigration and 
+        Nationality Act (8 U.S.C. 1101(f)(3)) is amended by striking 
+        ``(9)(A)'' and inserting ``(10)(A)''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall be effective as if included in the enactment of the 
+        Illegal Immigration Reform and Immigrant Responsibility Act of 
+        1996 (Public Law 104-208).
+    (c) Punctuation Correction.--Effective as if included in the 
+enactment of section 5(c)(2) of VAWA-2000, section 237(a)(1)(H)(ii) of 
+such Act (8 U.S.C. 1227(a)(1)(H)(ii)) is amended by striking the period 
+at the end and inserting ``; or''.
+    (d) Correction of Designation and Indentation.--The last sentence 
+of section 212(a)(9)(C)(ii) of the Immigration and Nationality Act (8 
+U.S.C. 1182(a)(9)(C)(ii)), as added by section 1505(a) of VAWA-2000, is 
+amended--
+            (1) by striking ``section 212(a)(9)(C)(i)'' and inserting 
+        ``clause (i)'';
+            (2) by redesignating paragraphs (1) and (2), and 
+        subparagraphs (A) through (D) of paragraph (2), as subclauses 
+        (I) and (II), and items (aa) through (dd) of subclause (II), 
+        respectively; and
+            (3) by moving the margins of each of such paragraphs and 
+        subparagraphs 6 ems to the right.
+    (e) Additional Technical Correction.--Section 245(l)(2)(B) of such 
+Act (8 U.S.C. 1255(l)(2)(B)) is amended by striking ``(10(E))'' and 
+inserting ``(10)(E))''.
+
+                    TITLE II--ADDITIONAL PROTECTIONS
+
+       Subtitle A--Ensuring Crime Victim Access to Legal Services
+
+SEC. 201. ENSURING CRIME VICTIM ACCESS TO LEGAL SERVICES.
+
+    (a) In General.--Section 502 of the Departments of Commerce, 
+Justice, and State, the Judiciary, and Related Agencies Appropriations 
+Act, 1998 (Public Law 105-119; 111 Stat. 2510) is amended--
+            (1) by amending subparagraph (C) of subsection (a) to read 
+        as follows:
+                    ``(C) subsection (a)(11) of such section 504 shall 
+                not be construed to prohibit a recipient from using 
+                Corporation funds and funds derived from a source other 
+                than the Corporation to provide legal assistance to--
+                            ``(i) an alien who has been battered or 
+                        subjected to extreme cruelty or who has been a 
+                        victim of sexual assault or a victim of 
+                        trafficking in the United States;
+                            ``(ii) an alien whose child has been 
+                        battered or subjected to extreme cruelty or has 
+                        been a victim of sexual assault or a victim of 
+                        trafficking in the United States, if the alien 
+                        has not actively participated in the battery, 
+                        extreme cruelty, sexual assault, or 
+                        trafficking; or
+                            ``(iii) an alien who qualifies (or whose 
+                        child qualifies) for status under section 
+                        101(a)(15)(U) of the Immigration and 
+                        Nationality Act (8 U.S.C. 1101(a)(15)(U)) .''; 
+                        and
+            (2) by striking paragraph (2) of subsection (b) and 
+        inserting the following:
+            ``(2) The term `victim of trafficking' has the meaning 
+        given such term in section 103(14) of the Trafficking Victims 
+        Protection Act of 2000 (Public Law 106-286; 22 U.S.C. 
+        7102(14)).''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to expenditures made on or after the date of the enactment of 
+this Act with respect to appropriations made for fiscal years beginning 
+before, on, or after such date.
+    (c) Construction.--Nothing in the amendments made by subsection (a) 
+shall be construed to restrict the legal assistance provided to victims 
+of severe forms of trafficking and certain family members allowed under 
+section 107(b)(1) of the Trafficking Victims Protection Act of 2000 
+(Public Law 106-286; 22 U.S.C. 7105(b)(1)).
+
+Subtitle B--Eligibility for Certain Public Benefits of Aliens Suffering 
+                          From Domestic Abuse
+
+SEC. 211. ELIGIBILITY FOR CERTAIN PUBLIC BENEFITS OF ALIENS SUFFERING 
+              FROM DOMESTIC ABUSE.
+
+    (a) Exemption From SSI and Food Stamps Ban.--Section 402(a)(2) of 
+the Personal Responsibility and Work Opportunity Reconciliation Act of 
+1996 (8 U.S.C. 1612(a)(2)) is amended by adding at the end the 
+following new subparagraph:
+                    ``(M) Battered and crime victim aliens.--With 
+                respect to eligibility for benefits for a specified 
+                Federal program (as defined in paragraph (3)), 
+                paragraph (1) shall not apply to an alien who--
+                            ``(i) is described in section 431(c);
+                            ``(ii) is described in section 431(b) and 
+                        also is described in section 431(c), other than 
+                        paragraphs (1)(B), (2)(B), and (3)(B) of such 
+                        section; or
+                            ``(iii) is described in a clause (i) or 
+                        (ii) and was lawfully admitted as a permanent 
+                        resident.''.
+    (b) Exemption From TANF, Social Services Block Grant, and Medicaid 
+Ban.--Section 402(b)(2) of such Act (8 U.S.C. 1612(b)(2)) is amended by 
+inserting after subparagraph (F) the following new subparagraph:
+                    ``(G) Battered and crime victim aliens.--An alien 
+                who--
+                            ``(i) is described in section 431(c);
+                            ``(ii) is described in section 431(b) and 
+                        also is described in section 431(c), other than 
+                        paragraphs (1)(B), (2)(B), and (3)(B) of such 
+                        section; or
+                            ``(iii) is described in clause (i) or (ii) 
+                        and was lawfully admitted as a permanent 
+                        resident.''.
+    (c) Exemption From 5-Year Ban for Federal Means-Tested Public 
+Benefits.--Section 403(b) of such Act (8 U.S.C. 1613(b)) is amended by 
+adding at the end the following new paragraph:
+            ``(3) Battered and crime victim aliens.--An alien who--
+                    ``(A) is described in section 431(c);
+                    ``(B) is described in section 431(b) and also is 
+                described in section 431(c), other than paragraphs 
+                (1)(B), (2)(B), and (3)(B) of such section; or
+                    ``(C) is described in subparagraph (A) or (B) and 
+                was lawfully admitted as a permanent resident.''.
+    (d) Status as Qualified Alien for VAWA Petitioners and Nonimmigrant 
+``U'' and ``T'' Visa Applicants and Visa Holders.--Section 431(c) of 
+such Act (8 U.S.C. 1641(b)) is amended--
+            (1) in paragraph (1)(B)--
+                    (A) in clause (i), by striking ``or a child'' and 
+                inserting ``, child, or parent'' and by striking ``or 
+                (iv)'' and inserting ``(iv), or (vii)'';
+                    (B) in clause (ii), by striking ``(as in effect 
+                prior to April 1, 1997)'';
+                    (C) in clause (iii), by striking the period at the 
+                end and inserting a comma;
+                    (D) in clause (iv), by striking the semicolon at 
+                the end and inserting a comma;
+                    (E) in clause (v), by striking the semicolon at the 
+                end and inserting ``, or''; and
+                    (F) by adding at the end the following new clause:
+                            ``(vi) status as a VAWA petitioner (as 
+                        defined in section 101(a)(51) of such Act), 
+                        other than such a petitioner described in 
+                        clause (i) or (ii);'';
+            (2) by striking ``or'' at the end of paragraph (2)(B);
+            (3) by striking the period at the end of paragraph (3)(B) 
+        and inserting ``; or''; and
+            (4) by inserting after paragraph (3)(B) the following new 
+        paragraph:
+            ``(4) an alien who has applied for and not been denied 
+        status as a nonimmigrant under clause (i) or (ii) of 
+        subparagraph (T), or clause (i) or (ii) of subparagraph (U), of 
+        section 101(a)(15) of the Immigration and Nationality Act''.
+    (e) Conforming Definition of ``Family'' Used in Laws Granting 
+Federal Public Benefit Access for Battered Aliens to State Family 
+Law.--
+            (1) In general.--Section 431(c) of such Act (8 U.S.C. 
+        1641(c)) is amended--
+                    (A) in paragraph (1)(A), by striking ``by a spouse 
+                or a parent, or by a member of the spouse or parent's 
+                family residing in the same household as the alien and 
+                the spouse or parent consented to, or acquiesced in, 
+                such battery or cruelty'' and inserting ``by a spouse, 
+                parent, son, or daughter, or by any individual having a 
+                relationship with the alien covered by the civil or 
+                criminal domestic violence statutes of the State or 
+                Indian country where the alien resides, or the State or 
+                Indian country in which the alien, the alien's child, 
+                or the alien child's parents received a protection 
+                order, or by any individual against whom the alien 
+                could obtain a protection order,'';
+                    (B) in paragraph (2)(A), by striking ``by a spouse 
+                or parent of the alien (without the active 
+                participation of the alien in the battery or cruelty), 
+                by a member of the spouse or parent's family residing 
+                in the same household as the alien and the spouse or 
+                parent consented or acquiesced to such battery or 
+                cruelty,'' and inserting ``by a spouse, parent, son, or 
+                daughter of the alien (without the active participation 
+                of the alien in such battery) or by any individual 
+                having a relationship with the alien covered by the 
+                civil or criminal domestic violence statutes of the 
+                State or Indian country where the alien resides, or the 
+                State or Indian country in which the alien, the alien's 
+                child, or the alien child's parents received a 
+                protection order, or by any individual against whom the 
+                alien could obtain a protection order,''; and
+                    (C) in paragraph (3)(A), by striking ``by a spouse 
+                or parent, or by a member of the spouse or parent's 
+                family residing in the same household as the alien and 
+                the spouse or parent consented or acquiesced to such 
+                battery or cruelty,'' and inserting ``by a spouse, 
+                parent, son, or daughter, or by any individual having a 
+                relationship with the alien covered by the civil or 
+                criminal domestic violence statutes of the State or 
+                Indian country where the alien resides, or the State or 
+                Indian country in which the alien, the alien's child, 
+                or the alien child's parents received a protection 
+                order, or by any individual against whom the alien 
+                could obtain a protection order,''.
+            (2) Federal attribution of sponsor's income and 
+        resources.--Section 421(f)(1)(A) of such Act (8 U.S.C. 
+        1631(f)(1)(A)) is amended--
+                    (A) in clause (i), by striking ``by a spouse or 
+                parent, or by a member of the spouse or parent's family 
+                residing in the same household as the alien and the 
+                spouse or parent consented or acquiesced to such 
+                battery or cruelty,'' and inserting ``by a spouse, 
+                parent, son, or daughter, or by any individual having a 
+                relationship with the alien covered by the civil or 
+                criminal domestic violence statutes of the State or 
+                Indian country where the alien resides, or the State or 
+                Indian country in which the alien, the alien's child, 
+                or the alien child's parents received a protection 
+                order, or by any individual against whom the alien 
+                could obtain a protection order,'';
+                    (B) in clause (ii), by striking ``by a spouse or 
+                parent of the alien (without the active participation 
+                of the alien in the battery or cruelty), or by a member 
+                of the spouse or parent's family residing in the same 
+                household as the alien and the spouse or parent 
+                consented or acquiesced to such battery or cruelty,'' 
+                and inserting ``by a spouse, parent, son, or daughter 
+                of the alien (without the active participation of the 
+                alien in the battery or cruelty) or by any individual 
+                having a relationship with the alien covered by the 
+                civil or criminal domestic violence statutes of the 
+                State or Indian country where the alien resides, or the 
+                State or Indian country in which the alien, the alien's 
+                child, or the alien child's parents received a 
+                protection order, or by any individual against whom the 
+                alien could obtain a protection order,'';
+                    (C) by striking ``or'' before ``(iii) the alien''; 
+                and
+                    (D) by inserting ``, or (iv) the alien is described 
+                in section 431(c)(4)'' before ``and the battery or 
+                cruelty''.
+    (f) Elimination of Sponsor Liability and Responsibility or 
+Reimbursement With Respect to Benefits Provided to Battered Aliens.--
+Section 423(d) of the Personal Responsibility and Work Opportunity 
+Reconciliation Act of 1996 is amended by adding after paragraph (11) 
+the following new paragraph:
+            ``(12) Benefits provided to an alien who--
+                    ``(A) is described in section 431(c); or
+                    ``(B) is described in section 431(b) and also is 
+                described in section 431(c), other than paragraphs 
+                (1)(B), (2)(B), and (3)(B) of such section.''.
+    (h) Conforming Amendment Confirming IIRAIRA's Grant of Public and 
+Assisted Housing to All Qualified Aliens, Including Battered 
+Immigrants.--Section 214 of the Housing and Community Development Act 
+of 1980 (42 U.S.C. 1436a) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (6), by striking ``or'' at the 
+                end;
+                    (B) by redesignating paragraph (7) as paragraph 
+                (8); and
+                    (C) by inserting after paragraph (6) the following:
+            ``(7) a qualified alien described in section 431 of the 
+        Personal Responsibility and Work Opportunity Reconciliation Act 
+        of 1996 (8 U.S.C. 1641), or''; and
+            (2) in subsection (c)--
+                    (A) in paragraph (1)(A), by striking ``(6)'' and 
+                inserting ``(7)''; and
+                    (B) in paragraph (2)(A), in the matter preceding 
+                clause (i), by inserting ``(other than a qualified 
+                alien described in 431 of the Personal Responsibility 
+                and Work Opportunity Reconciliation Act of 1996 (8 
+                U.S.C. 1641)'' after ``any alien''.
+    (i) Implementation.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Homeland Security, Secretary of 
+Agriculture, the Secretary of Health and Human Services, and the 
+Secretary of Housing and Urban Development shall promulgate regulations 
+for its officials to implement this section.
+    (j) Effective Date.--The amendments made by this section apply to 
+applications for public benefits and public benefits provided on or 
+after the date of the enactment of this Act.
+
+              Subtitle C--Law Enforcement Training Grants
+
+SEC. 221. GRANTS FOR LAW ENFORCEMENT TRAINING PROGRAMS TO IDENTIFY AND 
+              PROTECT VICTIMS OF TRAFFICKING.
+
+    (a) Definitions.--In this section:
+            (1) Act of trafficking.--The term ``act of trafficking'' 
+        means an act or practice described in paragraph (8) or (9) of 
+        section 103 of the Trafficking Victims Protection Act of 2000 
+        (22 U.S.C. 7102).
+            (2) Eligible entity.--The term ``eligible entity'' means a 
+        State or a local government.
+            (3) State.--The term ``State'' means any State of the 
+        United States, the District of Columbia, the Commonwealth of 
+        Puerto Rico, Guam, the United States Virgin Islands, the 
+        Commonwealth of the Northern Mariana Islands, American Samoa, 
+        and any other territory or possession of the United States.
+            (4) Victim of trafficking.--The term ``victim of 
+        trafficking'' means an individual subjected to an act of 
+        trafficking.
+    (b) Grants Authorized.--The Attorney General may award grants to 
+eligible entities to provide training to State and local law 
+enforcement personnel to identify and protect victims of trafficking.
+    (c) Use of Funds.--A grant awarded under this section shall be used 
+for any one or more of the following:
+            (1) To train law enforcement personnel to identify and 
+        protect victims of trafficking, including training such 
+        personnel to utilize Federal, State, or local resources to 
+        assist victims of trafficking.
+            (2) To train law enforcement or State or local prosecutors 
+        to identify, investigate, or prosecute acts of trafficking.
+            (3) To train law enforcement or State or local prosecutors 
+        to utilize laws that prohibit acts of trafficking.
+            (4) To assist in the development of State and local laws to 
+        prohibit acts of trafficking.
+    (d) Restrictions.--
+            (1) Supplement not supplant.--A grant awarded under this 
+        section shall be used to supplement and not supplant other 
+        Federal, State, and local public funds available to carry out 
+        the training described in subsection (c).
+            (2) Administrative expenses.--An eligible entity that 
+        receives a grant under this section may use not more than 5 
+        percent of the total amount of such grant for administrative 
+        expenses.
+            (3) Nonexclusivity.--Nothing in this section may be 
+        construed to restrict the ability of an eligible entity to 
+        apply for or obtain funding from any other source to carry out 
+        the training described in subsection (c).
+    (e) Authorization of Appropriations.--There are authorized to be 
+appropriated $10,000,000 for each of fiscal years 2006 through 2010 to 
+carry out this section.
+                                 <all>

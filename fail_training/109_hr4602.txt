@@ -1,0 +1,274 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 4602 Introduced in House (IH)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 4602
+
+ To amend the Atomic Energy Act of 1954 and the Energy Reorganization 
+  Act of 1974 to strengthen security at sensitive nuclear facilities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 16, 2005
+
+Mrs. Lowey (for herself and Mr. Hinchey) introduced the following bill; 
+       which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Atomic Energy Act of 1954 and the Energy Reorganization 
+  Act of 1974 to strengthen security at sensitive nuclear facilities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear Security Act of 2005''.
+
+SEC. 2. DEFINITIONS.
+
+    Section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014) is 
+amended--
+            (1) by redesignating subsection jj. as subsection ii.; and
+            (2) by adding at the end the following:
+    ``jj. Design Basis Threat.--The term `design basis threat' means 
+the design basis threat established by the Commission under section 
+73.1 of title 10, Code of Federal Regulations (or any successor 
+regulation developed under section 170C).
+    ``kk. Sensitive Nuclear Facility.--The term `sensitive nuclear 
+facility' means--
+            ``(1) a commercial nuclear power plant and associated spent 
+        fuel storage facility;
+            ``(2) a decommissioned nuclear power plant and associated 
+        spent fuel storage facility;
+            ``(3) a category I fuel cycle facility;
+            ``(4) a gaseous diffusion plant; and
+            ``(5) any other facility licensed by the Commission, or 
+        used in the conduct of an activity licensed by the Commission, 
+        that the Commission determines should be treated as a sensitive 
+        nuclear facility under section 170C.''.
+
+SEC. 3. NUCLEAR SECURITY.
+
+    (a) In General.--Chapter 14 of the Atomic Energy Act of 1954 (42 
+U.S.C. 2201 et seq.) is amended by adding at the end the following:
+
+``SEC. 170C. PROTECTION OF SENSITIVE NUCLEAR FACILITIES AGAINST THE 
+              DESIGN BASIS THREAT.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Nuclear security force.--The term `nuclear security 
+        force' means the nuclear security force established under 
+        subsection (b)(1).
+            ``(2) Fund.--The term `Fund' means the Nuclear Security 
+        Fund established under subsection (e).
+            ``(3) Qualification standard.--The term `qualification 
+        standard' means a qualification standard established under 
+        subsection (d)(2)(A).
+            ``(4) Security plan.--The term `security plan' means a 
+        security plan developed under subsection (b)(2).
+    ``(b) Nuclear Security.--The Commission shall--
+            ``(1) establish a nuclear security force, the members of 
+        which shall be employees of the Commission, to provide for the 
+        security of all sensitive nuclear facilities against the design 
+        basis threat; and
+            ``(2) develop and implement a security plan for each 
+        sensitive nuclear facility to ensure the security of all 
+        sensitive nuclear facilities against the design basis threat.
+    ``(c) Security Plans.--
+            ``(1) In general.--Not later than 180 days after the date 
+        of enactment of this section, the Commission shall develop a 
+        security plan for each sensitive nuclear facility to ensure the 
+        protection of each sensitive nuclear facility against the 
+        design basis threat.
+            ``(2) Elements of the plan.--A security plan shall 
+        prescribe--
+                    ``(A) the deployment of the nuclear security force, 
+                including--
+                            ``(i) numbers of the members of the nuclear 
+                        security force at each sensitive nuclear 
+                        facility;
+                            ``(ii) tactics of the members of the 
+                        nuclear security force at each sensitive 
+                        nuclear facility; and
+                            ``(iii) capabilities of the members of the 
+                        nuclear security force at each sensitive 
+                        nuclear facility;
+                    ``(B) other protective measures, including--
+                            ``(i) designs of critical control systems 
+                        at each sensitive nuclear facility;
+                            ``(ii) restricted personnel access to each 
+                        sensitive nuclear facility;
+                            ``(iii) perimeter site security, internal 
+                        site security, and fire protection barriers;
+                            ``(iv) increases in protection for spent 
+                        fuel storage areas;
+                            ``(v) placement of spent fuel in dry cask 
+                        storage; and
+                            ``(vi) background security checks for 
+                        employees and prospective employees; and
+                    ``(C) a schedule for completing the requirements of 
+                the security plan not later than 18 months after the 
+                date of enactment of this section.
+            ``(3) Additional requirements.--A holder of a license for a 
+        sensitive nuclear facility under section 103 or 104 or the 
+        State or local government in which a sensitive nuclear facility 
+        is located may petition the Commission for additional 
+        requirements in the security plan for the sensitive nuclear 
+        facility.
+            ``(4) Implementation of security plan.--Not later than 270 
+        days after the date of enactment of this section, the 
+        Commission, in consultation with a holder of a license for a 
+        sensitive nuclear facility under section 103 or 104, shall, by 
+        direct action of the Commission or by order requiring action by 
+        the licensee, implement the security plan for the sensitive 
+        nuclear facility in accordance with the schedule under 
+        paragraph (2)(C).
+            ``(5) Sufficiency of security plan.--If at any time the 
+        Commission determines that the implementation of the 
+        requirements of the security plan for a sensitive nuclear 
+        facility is insufficient to ensure the security of the 
+        sensitive nuclear facility against the design basis threat, the 
+        Commission shall immediately submit to Congress and the 
+        President a classified report that--
+                    ``(A) identifies the vulnerability of the sensitive 
+                nuclear facility; and
+                    ``(B) recommends actions by Federal, State, or 
+                local agencies to eliminate the vulnerability.
+    ``(d) Nuclear Security Force.--
+            ``(1) In general.--Not later than 90 days after the date of 
+        the enactment of this section, the Commission, in consultation 
+        with other Federal agencies, as appropriate, shall establish a 
+        program for the hiring and training of the nuclear security 
+        force.
+            ``(2) Hiring.--
+                    ``(A) Qualification standards.--Not later than 30 
+                days after the date of enactment of this section, the 
+                Commission shall establish qualification standards that 
+                individuals shall be required to meet to be hired by 
+                the Commission as members of the nuclear security 
+                force.
+                    ``(B) Examination.--The Commission shall develop 
+                and administer a nuclear security force personnel 
+                examination for use in determining the qualification of 
+                individuals seeking employment as members of the 
+                nuclear security force.
+                    ``(C) Criminal and security background checks.--The 
+                Commission shall require that an individual to be hired 
+                as a member of the nuclear security force undergo a 
+                criminal and security background check.
+                    ``(D) Disqualification of individuals who present 
+                national security risks.--The Commission, in 
+                consultation with the heads of other Federal agencies, 
+                as appropriate, shall establish procedures, in addition 
+                to any background check conducted under subparagraph 
+                (B), to ensure that no individual who presents a threat 
+                to national security is employed as a member of the 
+                nuclear security force.
+            ``(3) Annual proficiency review.--
+                    ``(A) In general.--The Commission shall provide 
+                that an annual evaluation of each member of the nuclear 
+                security force is conducted and documented.
+                    ``(B) Requirements for continuation.--An individual 
+                employed as a member of the nuclear security force may 
+                not continue to be employed in that capacity unless the 
+                evaluation under subparagraph (A) demonstrates that the 
+                individual--
+                            ``(i) continues to meet all qualification 
+                        standards;
+                            ``(ii) has a satisfactory record of 
+                        performance and attention to duty; and
+                            ``(iii) has the knowledge and skills 
+                        necessary to vigilantly and effectively provide 
+                        for the security of a sensitive nuclear 
+                        facility against the design basis threat.
+            ``(4) Training.--
+                    ``(A) In general.--The Commission shall provide for 
+                the training of each member of the nuclear security 
+                force to ensure each member has the knowledge and 
+                skills necessary to provide for the security of a 
+                sensitive nuclear facility against the design basis 
+                threat.
+                    ``(B) Training plan.--Not later than 60 days after 
+                the date of enactment of this section, the Commission 
+                shall develop a plan for the training of members of the 
+                nuclear security force.
+                    ``(C) Use of other agencies.--The Commission may 
+                enter into a memorandum of understanding or other 
+                arrangement with any other Federal agency with 
+                appropriate law enforcement responsibilities, to 
+                provide personnel, resources, or other forms of 
+                assistance in the training of members of the nuclear 
+                security force.
+    ``(e) Nuclear Security Fund.--
+            ``(1) Establishment.--There is established in the Treasury 
+        of the United States a fund to be known as the `Nuclear 
+        Security Fund', which shall be used by the Commission to 
+        administer programs under this section to provide for the 
+        security of sensitive nuclear facilities.
+            ``(2) Deposits in the fund.--The Commission shall deposit 
+        in the Fund--
+                    ``(A) the amount of fees collected under paragraph 
+                (5); and
+                    ``(B) amounts appropriated under subsection (f).
+            ``(3) Investment of amounts.--
+                    ``(A) In general.--The Secretary of the Treasury 
+                shall invest such portion of the Fund as is not, in the 
+                judgment of the Secretary of the Treasury, required to 
+                meet current withdrawals. Investments may be made only 
+                in interest-bearing obligations of the United States.
+                    ``(B) Acquisition of obligations.--For the purpose 
+                of investments under subparagraph (A), obligations may 
+                be acquired--
+                            ``(i) on original issue at the issue price; 
+                        or
+                            ``(ii) by purchase of outstanding 
+                        obligations at the market price.
+                    ``(C) Sale of obligations.--Any obligation acquired 
+                by the Fund may be sold by the Secretary of the 
+                Treasury at the market price.
+                    ``(D) Credits to fund.--The interest on, and the 
+                proceeds from the sale or redemption of, any 
+                obligations held in the Fund shall be credited to and 
+                form a part of the Fund.
+            ``(4) Use of amounts in the fund.--The Commission shall use 
+        amounts in the Fund to pay the costs of--
+                    ``(A) salaries, training, and other expenses of the 
+                nuclear security force; and
+                    ``(B) developing and implementing security plans.
+            ``(5) Fee.--To ensure that adequate amounts are available 
+        to provide assistance under paragraph (4), the Commission shall 
+        assess licensees a fee in an amount determined by the 
+        Commission.
+    ``(f) Authorization of Appropriations.--There are authorized to be 
+appropriated such sums as are necessary to carry out this section.''.
+    (b) Implementation.--The Commission shall complete the full 
+implementation of the amendment made by subsection (a) as soon as 
+practicable after the date of enactment of this Act, but in no event 
+later than 270 days after the date of enactment of this Act.
+    (c) Technical and Conforming Amendment.--The table of contents for 
+chapter 14 of the Atomic Energy Act of 1954 (42 U.S.C. prec. 2011) is 
+amended by adding at the end the following:
+
+``170B. Uranium supply.
+``170C. Protection of sensitive nuclear facilities against the design 
+                            basis threat.''.
+                                 <all>

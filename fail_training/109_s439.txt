@@ -1,0 +1,108 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 439 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                 S. 439
+
+    To amend the Solid Waste Disposal Act to provide for secondary 
+   containment to prevent methyl tertiary butyl ether and petroleum 
+                             contamination.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 17, 2005
+
+  Mrs. Boxer (for herself and Mr. Jeffords) introduced the following 
+bill; which was read twice and referred to the Committee on Environment 
+                            and Public Works
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Solid Waste Disposal Act to provide for secondary 
+   containment to prevent methyl tertiary butyl ether and petroleum 
+                             contamination.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SECONDARY CONTAINMENT.
+
+    (a) In General.--Section 9003 of the Solid Waste Disposal Act (42 
+U.S.C. 6991b) is amended by adding at the end the following:
+    ``(i) Secondary Containment.--
+            ``(1) Definition of secondarily contained.--In this 
+        subsection, the term `secondarily contained', with respect to 
+        an underground storage tank system, means that the underground 
+        storage tank system has in place a release detection and 
+        prevention system that--
+                    ``(A) meets the requirements of section 280.43(g) 
+                of title 40, Code of Federal Regulations (or a 
+                successor regulation); and
+                    ``(B) includes double-walled tanks and piping 
+                systems, dispenser liners, piping sumps, or single-
+                walled tanks or piping systems that are contained 
+                within a liner or an impervious barrier area as set 
+                forth in part 280 of title 40, Code of Federal 
+                Regulations (or a successor regulation).
+            ``(2) Installation and replacement.--On and after the 
+        effective date of this subsection, any new underground storage 
+        tank system that is installed, and any existing underground 
+        storage tank system that is replaced, shall be secondarily 
+        contained and space between the primary and secondary 
+        containment of a new or replaced underground storage tank 
+        system shall be monitored for leaks if the new or replaced 
+        underground storage tank or piping is within 1,000 feet of--
+                    ``(A) a community water system;
+                    ``(B) a potable drinking water well; or
+                    ``(C) any other sensitive area, as determined by 
+                the agency implementing the program in a State.
+            ``(3) Limitations.--
+                    ``(A) In the case of the replacement of an existing 
+                underground storage tank that is connected to other 
+                underground storage tanks by piping, paragraph (2) 
+                shall apply only to the underground storage tank being 
+                replaced and not to such other underground storage 
+                tanks.
+                    ``(B) In the case of the replacement of existing 
+                underground pipes connected to an underground storage 
+                tank, paragraph (2) shall apply only to the underground 
+                pipes and not to the underground storage tanks to which 
+                the pipes are connected.
+            ``(4) Promulgation of regulations or guidelines.--The 
+        Administrator may promulgate regulations or issue guidelines to 
+        implement paragraph (2).
+            ``(5) No effect on state authority.--Nothing in this 
+        subsection affects the authority of a State to establish or 
+        enforce any regulation, requirement, or standard of performance 
+        relating to secondary containment for underground storage tank 
+        systems that are more stringent than requirements established 
+        under this section.
+            ``(6) Effective date.--This subsection takes effect on the 
+        date that is 18 months after the date of enactment of this 
+        subsection.''.
+    (b) Penalties.--Section 9006(d)(2) of the Solid Waste Disposal Act 
+(42 U.S.C. 6991e(d)(2)) is amended--
+            (1) in subparagraph (B), by striking ``or'';
+            (2) in subparagraph (C), by inserting ``; or'' after 
+        ``Prohibition')''; and
+            (3) by inserting after subparagraph (C) the following:
+            ``(D) the secondary containment requirements established in 
+        section 9003(i);''.
+                                 <all>

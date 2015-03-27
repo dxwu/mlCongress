@@ -1,0 +1,1089 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5418 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                H. R. 5418
+
+ To reform the administrative funding of the unemployment compensation 
+ and employment service programs; to improve State administration and 
+   flexibility with respect to such program, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 19, 2002
+
+ Mr. McCrery introduced the following bill; which was referred to the 
+   Committee on Ways and Means, and in addition to the Committees on 
+ Education and the Workforce and Government Reform, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To reform the administrative funding of the unemployment compensation 
+ and employment service programs; to improve State administration and 
+   flexibility with respect to such program, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Employment Security Reform Act of 
+2002''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+                        TITLE I--TAX PROVISIONS
+
+Sec. 101. Reduction of FUTA tax rate.
+Sec. 102. Reduced rate.
+Sec. 103. Quarterly payment of unemployment taxes.
+            TITLE II--FEDERAL-STATE EXTENDED BENEFITS REFORM
+
+Sec. 201. Repeal of certain State law extended benefit requirements.
+Sec. 202. Change in State trigger for extended compensation.
+              TITLE III--ADMINISTRATIVE FUNDING PROVISIONS
+
+Sec. 301. Amendments to title III of the Social Security Act.
+Sec. 302. Amendments to title IX of the Social Security Act.
+Sec. 303. Amendments to title XII of the Social Security Act.
+Sec. 304. Amendments to Wagner-Peyser Act.
+Sec. 305. Amendments to the Federal Unemployment Tax Act.
+Sec. 306. Amendment to title 39 of the United States Code.
+                     TITLE IV--REED ACT PROVISIONS
+
+Sec. 401. Special Reed Act transfers in fiscal years 2004 and 2005.
+Sec. 402. Repeal of special rules for State Reed Act appropriation 
+                            laws.
+Sec. 403. Repeal of special conditions on recent Reed Act 
+                            distributions.
+Sec. 404. Restoration authority repealed.
+                   TITLE V--MISCELLANEOUS PROVISIONS
+
+Sec. 501. Transfer of Federal equity in State employment security 
+                            agency real property to the States.
+Sec. 502. State use of compensating balances and interest earned on 
+                            clearing account to pay associated banking 
+                            costs.
+Sec. 503. Treatment of short-time compensation programs.
+Sec. 504. Method of verifying citizenship status for unemployment 
+                            benefits.
+Sec. 505. Use of new hire information to assist in administration of 
+                            unemployment compensation programs.
+Sec. 506. Repeal of provision limiting eligibility of certain Federal 
+                            employees.
+Sec. 507. Treatment of pension rollovers.
+Sec. 508. Regulations.
+
+                        TITLE I--TAX PROVISIONS
+
+SEC. 101. REDUCTION OF FUTA TAX RATE.
+
+    (a) Reduction of Tax Rate.--Section 3301 of the Internal Revenue 
+Code of 1986 (26 U.S.C. 3301) is amended to read as follows:
+
+``SEC. 3301. RATE OF TAX.
+
+    ``There is hereby imposed on every employer (as defined in section 
+3306(a)) for each calender year an excise tax, with respect to having 
+individuals in his employ, equal to--
+            ``(1) 6.2 percent in the case of calendar year 2002,
+            ``(2) 6.0 percent in the case of calendar years 2003 and 
+        2004,
+            ``(3) 5.8 percent in the case of calendar years 2005 and 
+        2006, or
+            ``(4) 5.6 percent in the case of calendar year 2007 and 
+        each calendar year thereafter,
+of the total wages (as defined in section 3306(b)) paid by the employer 
+during the calendar year with respect to employment (as defined in 
+section 3306(c)).''.
+    (b) Credits Against Tax.--Section 3302 of such Code (26 U.S.C. 
+3302) is amended--
+            (1) in subsection (c)(1), by striking ``90 percent of the 
+        tax against which such credits are allowable'' and inserting 
+        ``an amount equal to 5.4 percent of the total wages (as defined 
+        in section 3306(b)) paid by the taxpayer during the calendar 
+        year with respect to employment (as defined in section 
+        3306(c))'', and
+            (2) in subsection (d), by striking paragraph (1) and 
+        redesignating paragraphs (2) through (7) as paragraphs (1) 
+        through (6), respectively.
+    (c) Conforming Amendment.--Subsection (b) of section 6157 of such 
+Code is amended to read as follows:
+    ``(b) Computation of Tax.--The tax for any calendar quarter or 
+other period referred to in paragraph (1) or (2) of subsection (a) 
+shall be computed by multiplying the amount of wages (as defined in 
+section 3306(b)) paid in such calendar quarter or other period by--
+            ``(1) 0.8 percent in the case of wages paid during 2002,
+            ``(2) 0.6 percent in the case of wages paid during 2003 or 
+        2004,
+            ``(3) 0.4 percent in the case of wages paid during 2005 or 
+        2006, and
+            ``(4) 0.2 percent in the case of wages after 2006.''
+    (d) Effective Date.--The amendments made by this section shall take 
+effect on January 1, 2003.
+
+SEC. 102. REDUCED RATE.
+
+    (a) Definition.--Section 3303(c)(8) of the Internal Revenue Code of 
+1986 (26 U.S.C. 3303(c)(8)) is amended to read as follows:
+            ``(8) Reduced rate.--The term reduced rate means a rate of 
+        contributions of less than 5.4 percent.''.
+    (b) Conforming Amendment.--Section 3302(b) of such Code (26 U.S.C. 
+3302(b)) is amended by striking all that follows ``State law'' and 
+inserting ``to a rate of 5.4 percent.''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on January 1, 2003.
+
+SEC. 103. QUARTERLY PAYMENT OF UNEMPLOYMENT TAXES.
+
+    (a) General Rule.--Section 6157(a) of the Internal Revenue Code of 
+1986 (26 U.S.C. 6157(a)) is amended by adding at the end the following 
+new sentence: ``Such regulations may not require such tax for any 
+calendar quarter or other period to be paid before the last day of the 
+first calendar month beginning after such quarter or other period.''
+    (b) State Law Requirement.--
+            (1) In general.--Section 303(a) of the Social Security Act 
+        (42 U.S.C. 503(a)) is amended--
+                    (A) in paragraph (10), by striking the period and 
+                inserting ``; and''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+            ``(11) A requirement that contributions to unemployment 
+        funds be due and payable on the last day of the first calendar 
+        month following the close of the preceding calendar quarter, 
+        except for payments in lieu of contributions described in 
+        section 3304(a)(6)(B) of the Federal Unemployment Tax Act or as 
+        otherwise provided in sections 3510 and 6157(c) of the Internal 
+        Revenue Code of 1986.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect 1 year after the date of the enactment of 
+        this Act, except that, in the case of a State the legislature 
+        of which does not meet in a regularly scheduled session during 
+        calendar year 2003, the amendment made by paragraph (1) shall 
+        take effect 2 years after the date of the enactment of this 
+        Act.
+
+            TITLE II--FEDERAL-STATE EXTENDED BENEFITS REFORM
+
+SEC. 201. REPEAL OF CERTAIN STATE LAW EXTENDED BENEFIT REQUIREMENTS.
+
+    (a) In General.--Section 202 of the Federal-State Extended 
+Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note) is 
+amended--
+            (1) in subsection (a), by striking paragraphs (3) through 
+        (7); and
+            (2) by striking subsection (c).
+    (b) Conforming Amendment.--Paragraph (4) of section 231(a) of the 
+Trade Act of 1974 (19 U.S.C. 2291(a)(4)) is repealed.
+    (c) Effective Date.--
+            (1) In general.--The amendments made by this section shall 
+        apply to weeks of unemployment beginning after the end of the 
+        1-year period beginning on the date of the enactment of this 
+        Act, except that a State may amend its State law to provide for 
+        the payment of extended compensation in accordance with the 
+        amendments made by this section for weeks of unemployment 
+        beginning before the end of such period (but not for any week 
+        beginning before it so amends its State law).
+            (2) Exception.--In the case of a State the legislature of 
+        which does not meet in a regular session which closes during 
+        calendar year 2003, paragraph (1) shall be applied by 
+        substituting ``2-year'' for ``1-year''.
+
+SEC. 202. CHANGE IN STATE TRIGGER FOR EXTENDED COMPENSATION.
+
+    (a) In General.--Section 203(d) of the Federal-State Extended 
+Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note) is 
+amended--
+            (1) in paragraph (1)(B), by striking ``5'' and inserting 
+        ``4''; and
+            (2) in the first sentence following paragraph (2)--
+                    (A) by striking ``Effective with respect to 
+                compensation for weeks of unemployment beginning after 
+                March 30,1977 (or, if later, the date established 
+                pursuant to State law), the'' and inserting ``The''; 
+                and
+            (2) by striking ``the figure `5' contained in subparagraph 
+        (B) thereof were `6''' and inserting ``the figure `4' contained 
+        in subparagraph (B) thereof were `5'''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply to weeks beginning after the date of the enactment of this Act.
+
+              TITLE III--ADMINISTRATIVE FUNDING PROVISIONS
+
+SEC. 301. AMENDMENTS TO TITLE III OF THE SOCIAL SECURITY ACT.
+
+    (a) Certification of Amounts To Be Made Available to States for 
+Administration of Unemployment Compensation Laws.--
+            (1) In general.--Subsection (a) of section 302 of the 
+        Social Security Act (42 U.S.C. 502(a)) is amended to read as 
+        follows:
+    ``(a)(1) The Secretary of Labor shall from time to time certify to 
+the Secretary of the Treasury for payment to each State which has an 
+unemployment compensation law approved by the Secretary of Labor under 
+the Federal Unemployment Tax Act such amounts as the Secretary of Labor 
+determines to be necessary for the proper and efficient administration, 
+during the fiscal year for which such payment is to be made, of--
+            ``(A) the State's unemployment compensation law, subject to 
+        paragraph (5)(C) and subsections (d) and (e);
+            ``(B) agreements under any Federal unemployment 
+        compensation law; and
+            ``(C) any provision of this title under which such State is 
+        required to make any periodic reports.
+    ``(2) The Secretary of Labor's determination of the amounts 
+described in paragraph (1) shall be based on such factors as the 
+Secretary of Labor finds relevant, except as otherwise specified in 
+this title.
+    ``(3) For fiscal years beginning on or after October 1, 2006, such 
+amounts shall be available to States for expenditure during the fiscal 
+year for which the funds are obligated and the two succeeding fiscal 
+years.
+    ``(4) Any amounts received by a State pursuant to this section and 
+expended for a purpose described in subparagraph (B) or (C) of 
+paragraph (1) shall for purposes of this title be treated as amounts 
+expended for the proper and efficient administration of the State's 
+unemployment compensation law.
+    ``(5) The Secretary of Labor--
+            ``(A) may not certify for payment under this section in any 
+        fiscal year a total amount in excess of the amount appropriated 
+        therefor for such fiscal year;
+            ``(B) may not certify for payment under this section in any 
+        fiscal year any amount for the administration of an 
+        unemployment benefit program administered under the Robert T. 
+        Stafford Disaster Relief and Emergency Assistance Act; and
+            ``(C) may not, for purposes of carrying out any of the 
+        activities described in paragraph (1)(A), certify any amount 
+        under this section for payment in any fiscal year beginning on 
+        or after October 1, 2012.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall be effective as of October 1, 2002.
+    (b) Transition Provisions Relating to Fiscal Years 2005 Through 
+2012.--
+            (1) In general.--Section 302 of the Social Security Act (42 
+        U.S.C. 502) is amended by adding at the end the following:
+    ``(d)(1) Notwithstanding any other provision of this title, the 
+amount certified by the Secretary of Labor under subsection (a)(1)(A) 
+with respect to a State shall--
+                    ``(A) in the case of fiscal year 2005, be equal to 
+                \2/3\ of the amount necessary for such State to carry 
+                out the activities described in subsection (a)(1)(A) in 
+                such fiscal year; and
+                    ``(B) in the case of fiscal year 2006, be equal to 
+                \1/3\ of the amount necessary for such State to carry 
+                out the activities described in subsection (a)(1)(A) in 
+                such fiscal year.
+    ``(2) For purposes of this subsection, the amount necessary for a 
+State to carry out the activities described in subsection (a)(1)(A) in 
+a fiscal year shall be determined by the Secretary based on the amount 
+allotted to the States to carry out such activities in fiscal year 
+2002, adjusted by--
+            ``(A) the projected changes between fiscal year 2002 and 
+        fiscal year 2005 or 2006 (as applicable), using the most recent 
+        economic assumptions released by the President relating to--
+                    ``(i) factors relating to the number of claims for 
+                compensation, and to the number of employers, in the 
+                United States; and
+                    ``(ii) the gross domestic product price index for 
+                the United States; and
+            ``(B) such other factors as the Secretary determines are 
+        appropriate.
+    ``(e)(1)(A) A State shall qualify for amounts under subsection 
+(a)(1)(A) with respect to fiscal year 2007, 2008, 2009, 2010, 2011, or 
+2012 only if the amount determined for such State under subparagraph 
+(B) exceeds the amount determined for such State under subparagraph (C) 
+for such fiscal year.
+    ``(B) For purposes of subparagraph (A), the amount determined under 
+this subparagraph is the sum of--
+            ``(i) the amount allotted to the State for fiscal year 2004 
+        for the administration of the State's unemployment compensation 
+        law under subsection (a)(1)(A) (adjusted for the fiscal year 
+        involved in accordance with subparagraph (D)); and
+            ``(ii) the amount allotted to the State for program year 
+        2004 for the administration of the State's system of public 
+        employment offices under section 5(b)(1) of the Wagner-Peyser 
+        Act (adjusted for the fiscal year involved in accordance with 
+        section 5(e)(1)(D) of such Act).
+    ``(C) For purposes of subparagraph (A), the amount determined under 
+this subparagraph for a State is the amount projected by the Secretary 
+to equal 0.4 percent of the estimated wages, attributable to such State 
+for the fiscal year involved, which would be subject to tax under 
+section 3301 of the Internal Revenue Code of 1986 (as in effect on 
+January 1, 2002).
+    ``(D) For purposes of carrying out subparagraph (B)(i), the amount 
+allotted to the State for fiscal year 2004 for the administration of 
+the State's unemployment compensation law under subsection (a)(1)(A) 
+shall be adjusted (for whichever of fiscal years 2007 through 2012 is 
+the fiscal year involved) by--
+            ``(i) the projected changes between fiscal year 2004 and 
+        the fiscal year involved, using the most recent economic 
+        assumptions released by the President, regarding factors 
+        relating to the number of claims for compensation, and to the 
+        number of employers, in such State,
+            ``(ii) the changes in the gross domestic product price 
+        index for the United States between fiscal year 2004 and 2007, 
+        except that for purposes of making such determination for 
+        fiscal year 2007, the Secretary of Labor shall make a 
+        projection of such change using the most recent economic 
+        assumptions released by the President, and
+            ``(iii) such other factors as the Secretary of Labor 
+        determines are appropriate.
+    ``(2)(A) If a State qualifies under paragraph (1)(A) with respect 
+to a fiscal year, then the State shall, in addition to the amounts 
+certified to carry out subparagraphs (B) and (C) of subsection (a)(1), 
+be certified for an amount for such fiscal year to carry out subsection 
+(a)(1)(A) that is equal to the product of the fraction determined under 
+subparagraph (B) multiplied by the amount determined under subparagraph 
+(C).
+    ``(B) For purposes of subparagraph (A), the fraction determined 
+under this subparagraph is, for any State, the fraction--
+            ``(i) the numerator of which is the amount determined for 
+        such State under clause (i) of paragraph (1)(B) for the fiscal 
+        year involved, and
+            ``(ii) the denominator of which is the total amount 
+        determined for such State under paragraph (1)(B) for the fiscal 
+        year involved.
+    ``(C) For purposes of subparagraph (A), the amount determined under 
+this subparagraph is, for any State, the amount equal to--
+            ``(i) the amount determined for such State under 
+        paragraph(1)(B) for the fiscal year involved, minus
+            ``(ii) the amount determined for such State under paragraph 
+        (1)(C) for the fiscal year involved.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall be effective as of October 1, 2002.
+    (c) Conforming Amendments for Fiscal Year 2007.--
+            (1) Elimination of transition funding.--Effective October 
+        1, 2006, subsections (c) and (d) of section 302 of the Social 
+        Security Act (42 U.S.C. 502(c), (d)) are repealed.
+            (2) Elimination of duplicative provisions.--Effective 
+        October 1, 2006, section 303 of such Act (42 U.S.C. 503) is 
+        amended--
+                    (A) in subsection (a)--
+                            (i) by striking paragraphs (2), (4), and 
+                        (5);
+                            (ii) by redesignating paragraph (3) as 
+                        paragraph (2);
+                            (iii) by redesignating paragraphs (6) 
+                        through (10) as paragraphs (3) through (7), 
+                        respectively; and
+                            (iv) by redesignating paragraph (11) (as 
+                        added by section 103(b)) as paragraph (8); and
+                    (B) in subsection (c)--
+                            (i) by inserting ``or'' at the end of 
+                        paragraph (1);
+                            (ii) by striking ``; or'' at the end of 
+                        paragraph (2) and inserting a period; and
+                            (iii) by striking paragraph (3).
+
+SEC. 302. AMENDMENTS TO TITLE IX OF THE SOCIAL SECURITY ACT.
+
+    (a) Transition Amendment.--
+            (1) Estimates of tax receipts.--Subparagraph (C) of section 
+        901(c)(3) of the Social Security Act (42 U.S.C. 1101(c)(3)(C) 
+        is repealed.
+            (2) Effective date.--The amendment made by this subsection 
+        shall be effective as of October 1, 2002.
+    (b) Amendments for Fiscal Year 2007.--
+            (1) Administrative expenditures.--Section 901(c) of the 
+        Social Security Act (42 U.S.C. 1101(c)) is amended--
+                    (A) in paragraph (1), by striking ``June 30, 1971'' 
+                and inserting ``September 30, 2007'';
+                    (B) in paragraphs (1)(A) and (1)(B), by striking 
+                the parenthetical matter immediately following ``such 
+                amounts''; and
+                    (C) by striking paragraphs (3), (4), and (5).
+            (2) Determination of excess.--Section 901(f)(3)(A) of the 
+        Social Security Act (42 U.S.C. 1101(f)(3)(A)) is amended by 
+        striking the last sentence.
+            (3) Transfers where state is ineligible.--Section 903(b)(1) 
+        of the Social Security Act (42 U.S.C. 1103(b)(1)) is amended--
+                    (A) in the first sentence, by striking the em-dash 
+                after ``year'' and all that follows through ``(B)'' 
+                (and by running in the remaining text);
+                    (B) in the second sentence--
+                            (i) by striking ``that such State is 
+                        eligible for certification under section 
+                        303,''; and
+                            (ii) by striking ``or both,''.
+            (4) Effective date.--The amendments made by this subsection 
+        shall take effect on October 1, 2006.
+    (c) Transfers to EUCA.--
+            (1) In general.--Section 905(b)(1) of the Social Security 
+        Act (42 U.S.C. 1105(b)(1)) is amended by striking ``20 
+        percent'' and inserting ``50 percent''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall take effect on January 1, 2007.
+
+SEC. 303. AMENDMENTS TO TITLE XII OF THE SOCIAL SECURITY ACT.
+
+    (a) Advances to State Unemployment Funds.--Section 1201(a) of the 
+Social Security Act (42 U.S.C. 1321(a)) is amended--
+            (1) in paragraph (1) (in the matter before subparagraph 
+        (A)), by inserting ``or administrative expenses'' after 
+        ``compensation'';
+            (2) in paragraphs (1)(B) and (2)(A), by inserting ``or 
+        administrative expenses, whichever is applicable,'' after 
+        ``compensation'';
+            (3) in paragraph (3)--
+                    (A) in subparagraph (B)--
+                            (i) by inserting ``or administrative 
+                        expenses, whichever is applicable,'' after 
+                        ``compensation'' in each place it appears; and
+                            (ii) by striking ``and'' at the end; and
+                    (B) by redesignating subparagraph (C) as 
+                subparagraph (E) and by inserting after subparagraph 
+                (B) the following:
+            ``(C) an application for an advance--
+                    ``(i) for the payment of compensation shall not be 
+                reduced or denied due to any amounts in the State's 
+                unemployment fund which are limited by State law to the 
+                payment of administrative expenses (including amounts 
+                obligated under an appropriation made pursuant to 
+                section 903(c)(2)), or
+                    ``(ii) for the payment of administrative expenses 
+                shall not be reduced or denied due to any amounts in 
+                the State's unemployment fund which are limited by 
+State law to the payment of compensation,
+            ``(D) the term `administrative expenses' means expenses 
+        incurred in the proper and efficient administration of the 
+        State's unemployment compensation law or in the administration 
+        of an employment service program pursuant to the Wagner-Peyser 
+        Act (29 U.S.C. 49 and following), and''.
+    (b) Effective Date.--The amendments made by this section shall be 
+effective as of October 1, 2002.
+
+SEC. 304. AMENDMENTS TO WAGNER-PEYSER ACT.
+
+    (a) Acceptance by the States.--Section 4 of the Wagner-Peyser Act 
+(29 U.S.C. 49c) is amended by inserting ``and for purposes of the 
+credit as described in section 3304(a)(1)(C) of the Internal Revenue 
+Code of 1986'' after ``section 5''.
+    (b) Payments to the States.--Section 5(b) of the Wagner-Peyser Act 
+(29 U.S.C. 49d(b)) is amended to read as follows:
+    ``(b) The Secretary of Labor shall from time to time certify to the 
+Secretary of the Treasury for payment to each State which, except for 
+Guam, has an unemployment compensation law approved by the Secretary of 
+Labor under the Federal Unemployment Tax Act such amounts as the 
+Secretary of Labor determines to be necessary, during the fiscal year 
+for which such payment is to be made, to carry out--
+            ``(1) for fiscal years 2003 through 2012, the 
+        administration of the State's public employment service 
+        program, except that--
+                    ``(A) for fiscal years 2005 and 2006 such amounts 
+                shall be certified only to the extent authorized under 
+                subsection (d); and
+                    ``(B) for fiscal years 2007 through 2012, such 
+                amounts shall be certified only to the extent 
+                authorized under subsection (e);
+            ``(2) the administration of the Work Opportunity Credit 
+        authorized under section 51 of the Internal Revenue Code of 
+        1986 (26 U.S.C. 51) and the Welfare-to-Work Credit authorized 
+        under section 51A of such Code (26 U.S.C. 51A);
+            ``(3) the administration of such alien labor certification 
+        and attestation activities (including surveys of prevailing 
+        wages) as may be delegated to the State by the Secretary under 
+        the Immigration and Nationality Act and related laws; and
+            ``(4) the provision of any periodic reports required under 
+        this Act.
+The Secretary of Labor's determination of the amounts necessary to 
+carry out the activities described in this subsection shall be based on 
+such factors as the Secretary of Labor finds relevant, except as 
+otherwise specified in this section. The Secretary of Labor shall not 
+certify for payment under this section in any fiscal year a total 
+amount in excess of the amount appropriated therefore for such fiscal 
+year.''.
+    (c) Payments to Guam.--Section 5(c) of the Wagner-Peyser Act (29 
+U.S.C. 49d(c)) is amended to read as follows:
+    ``(c) The Secretary of Labor shall from time to time certify to the 
+Secretary of the Treasury for payment to Guam such amounts as the 
+Secretary of Labor determines to be necessary during the fiscal year 
+for which such payment is to be made for the administration of the 
+State's public employment service program.''.
+    (d) Special Provisions for Transition Years and Period of 
+Availability of Funds.--Section 5 of the Wagner-Peyser Act (29 U.S.C. 
+49d) is further amended by adding after subsection (c) the following:
+    ``(d)(1) The total amount certified for each State under subsection 
+(b)(1) for fiscal years 2005 and 2006 shall be determined as follows:
+            ``(A) for the fiscal year beginning October 1, 2004, the 
+        amount shall equal the amount necessary to provide the State 
+        with two-thirds of the amount necessary to carry out the 
+        activities described in subsection (b)(1); and
+            ``(B) for the fiscal year beginning October 1, 2005, the 
+        amount shall equal the amount necessary to provide the State 
+        with one-third of the amount necessary to carry out the 
+        activities described in subsection (b)(1).
+    ``(2) For purposes of this subsection, the amount necessary to 
+carry out the activities described in subsection (b)(1) for a fiscal 
+year shall be determined by the Secretary based on the amount allotted 
+to the States to carry out such activities for fiscal year 2002, 
+adjusted by the projected changes between fiscal year 2002 and such 
+fiscal year, using the most recent economic assumptions released by the 
+President, relating to--
+            ``(A) factors relating to the number of individuals in the 
+        civilian labor force in the United States; and
+            ``(B) the gross domestic product price index for the United 
+        States.
+    ``(e)(1)(A) A State shall qualify for amounts under subsection 
+(b)(1) with respect to each of fiscal years 2007 through 2012 only if 
+the amount determined under subparagraph (B) of this paragraph exceeds 
+the amount determined under subparagraph (C) of this paragraph for such 
+fiscal year.
+    ``(B) For purposes of subparagraph (A), the amount determined under 
+this subparagraph shall be the sum of--
+            ``(i) the amount allotted to the State for fiscal year 2004 
+        for the administration of the State's unemployment compensation 
+        law under section 302(a)(1)(A) of the Social Security Act 
+        (adjusted for each fiscal year in accordance with section 
+        302(e)(1)(D) of such Act); and
+            ``(ii) the amount allotted to the State for program year 
+        2004 for the administration of the State's system of public 
+        employment offices under subsection (b)(1) (adjusted for each 
+        fiscal year in accordance with subparagraph (D)).
+    ``(C) For purposes of subparagraph (A), the amount determined under 
+this subparagraph shall be the amount projected by the Secretary to 
+equal 0.4 percent of the estimated wages for such fiscal year which are 
+subject to tax under section 3301 of the Internal Revenue Code of 1986 
+(as such section was in effect on January 1, 2002) in the State.
+    ``(D) For purposes of determining the amount under subparagraph 
+(B)(ii) for each of fiscal years 2007-2012, the amount allotted to the 
+State under this title for fiscal year 2004 shall be adjusted by the 
+change between fiscal year 2004 and fiscal year 2007 relating to the 
+gross domestic product price index for the United States, except that 
+for making such determination for fiscal year 2007 the Secretary shall 
+make a projection of such change using the most recent economic 
+assumptions released by the President. -
+    ``(2)(A) If a State qualifies under paragraph (1)(A) with respect 
+to a fiscal year, then the State shall, in addition to the amounts 
+certified to carry out paragraphs (2) through (4) of subsection (b), be 
+certified for an amount for such fiscal year to carry out subsection 
+(b)(1) that is equal to the product of the amount determined under 
+subparagraph (B) of this paragraph multiplied by the amount determined 
+under subparagraph (C) of this paragraph.
+    ``(B) For purposes of subparagraph (A), the amount determined under 
+this subparagraph shall be the quotient of--
+            ``(i) the amount determined for the State under clause (ii) 
+        of paragraph (1)(B), divided by
+            ``(ii) the total amount determined for the State under 
+        paragraph (1)(B).
+    ``(C) For purposes of subparagraph (A), the amount determined under 
+this subparagraph shall be the amount that is the difference between--
+            ``(i) the amount determined under paragraph(1)(B); and
+            ``(ii) the amount determined under paragraph (1)(C).
+    ``(f)(1) For fiscal years 1985 through 2006, appropriations for any 
+fiscal year for programs and activities assisted or conducted under 
+this Act shall be available for obligation only on the basis of a 
+program year. The program year shall begin on July 1, in the fiscal 
+year for which the appropriation is made. Such funds shall be available 
+for expenditure by the States during the program year in which the 
+funds are obligated and the two succeeding program years. The program 
+year with respect to fiscal year 2006, shall begin on July 1, 2006 and 
+end September 30, 2006.
+    ``(2) For fiscal years beginning on and after October 1, 2006, 
+appropriation for any fiscal year shall be available for obligation 
+only on the basis of a fiscal year.
+    ``(3) For fiscal years beginning on or after October 1, 2006, funds 
+obligated for any fiscal year may be expended by the State during that 
+fiscal year and the two succeeding fiscal years and no amount shall be 
+deobligated on account of a rate of expenditure which is consistent 
+with the program plan.''.
+    (e) Repeal of Allotment Formulas.--Section 6 of the Wagner-Peyser 
+Act (29 U.S.C 49e) is repealed, effective October 1, 2004.
+    (f) Employment-Related Activities.--Section 7 of the Wagner-Peyser 
+Act (29 U.S.C. 49f) is amended to read as follows:
+    ``Sec. 7. (a) The public employment service program carried out by 
+a State under this Act shall include the provision of activities, 
+through the one-stop delivery system, that--
+            ``(1) facilitate the labor exchange between employers and 
+        job seekers; including activities that--
+                    ``(A) assist job seekers in finding employment; and
+                    ``(B) assist employers in filling jobs;
+            ``(2) provide reemployment services to unemployment 
+        compensation claimants and carry out the work test requirement 
+        of the State unemployment compensation system; and
+            ``(3) facilitate the interstate clearance of labor, as 
+        defined by the Secretary.
+    ``(b) In addition to, or in carrying out, the activities described 
+in subsection (a), the public employment service program carried out by 
+a State under this Act may include the following activities--
+            ``(1) counseling, assessment, testing, job search 
+        assistance, occupational and labor market information, and 
+        referral to jobs, and providing referrals or access to the full 
+        range of services available to job seekers through the State's 
+        one-stop delivery system and other such activities that assist 
+        job seekers in obtaining and retaining employment;
+            ``(2) assistance to employers in writing job orders, 
+        recruitment, identification and screening of potential job 
+        applicants, labor market information, information on other 
+        services related to employment such as hiring tax credits, and 
+        providing referrals or access to the full range of services 
+        available to employers within the State's one-stop service 
+        delivery system;
+            ``(3) employment services for individuals in special 
+        populations such as unemployed or dislocated workers, veterans, 
+        migrant and seasonal farm workers, and individuals with 
+        disabilities;
+            ``(4) developing and providing labor market and 
+        occupational information;
+            ``(5) developing automated systems to facilitate service 
+        delivery to job seekers and employers and to enable data 
+        collection, case tracking, case management, reporting, and 
+        performance accountability for activities carried out under 
+        this Act;
+            ``(6) providing service delivery staff with training, 
+        technical assistance, and tools designed to enhance their 
+        skills to provide the services described in this section 
+        through the State's one-stop service delivery system.;
+            ``(7) developing linkages between services funded under 
+        this Act and related Federal or State legislation, to support 
+        integrated service delivery in the one-stop service delivery 
+        system and improved service delivery to job seekers and 
+        employers;
+            ``(8) performance accountability and continuous improvement 
+        activities designed to improve service delivery and outcomes 
+        for employers and job seekers, including providing performance 
+        incentives for meeting performance standards as established by 
+        the Secretary; and
+            ``(9) activities designed to improve accessibility of the 
+        services to individuals who may lack accessibility as a result 
+        of factors such as a disability, limited English proficiency, 
+        lack of literacy skills, transportation, or lack of computer 
+        literacy.''.
+    (g) Effective Date.--
+            (1) The amendments made by this subsections (a) through (d) 
+        shall be effective as of October 1, 2002.
+            (2) The amendments made by subsections (e) and (f) shall 
+        take effect on October 1, 2004.
+
+SEC. 305. AMENDMENTS TO THE FEDERAL UNEMPLOYMENT TAX ACT.
+
+    (a) Approval of State Laws.--
+            (1) Requirements relating to administration of unemployment 
+        compensation and public employment service.--Section 3304(a)(1) 
+        of the Internal Revenue Code of 1986 (26 U.S.C. 3304(a)(1)) is 
+        amended to read as follows:
+            ``(1)(A) the provisions specified by section 303 of the 
+        Social Security Act are applicable to the State;
+            ``(B) individuals are able to work and available for work 
+        as a condition of receiving compensation; and
+            ``(C) the State accepts the provisions of the Wagner-Peyser 
+        Act in accordance with section 4 of such Act;''.
+            (2) Requirements relating to use of state unemployment 
+        funds.--Section 3304(a)(4) of such Code is amended--
+                    (A) by striking ``, exclusive of expenses of 
+                administration,'' in the material preceding 
+                subparagraph (A), and
+                    (B) by striking subparagraph (B) and inserting the 
+                following new subparagraph:
+                    ``(B) amounts appropriated by the legislative body 
+                of the State for expenses incurred by the State for 
+                administration of its unemployment compensation law and 
+                public employment service program may be withdrawn to 
+                pay such expenses;''.
+    (b) Definition of Unemployment Fund.--Section 3306(f) of such Code 
+is amended--
+            (1) by striking ``(exclusive of expenses of 
+        administration)'' in the material preceding paragraph (1), and
+            (2) by striking paragraph (2) and inserting the following 
+        new paragraph:
+            ``(2) amounts appropriated by the legislative body of the 
+        State for expenses incurred by the State for administration of 
+        its unemployment compensation law and public employment service 
+        program may be withdrawn to pay such expenses;''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on the date of the enactment of this Act.
+
+SEC. 306. AMENDMENT TO TITLE 39 OF THE UNITED STATES CODE.
+
+    (a) Use of Penalty Mail.--Section 3202(a)(1) of title 39, United 
+States Code, is amended--
+            (1) by inserting ``and'' at the end of subparagraph (D);
+            (2) by striking subparagraph (E); and
+            (3) by redesignating subparagraph (F) as subparagraph (E).
+    (b) Conforming Amendments.--(1) Section 3203(b) of such title is 
+amended by striking ``(1)(E), (2), and (3)'' and inserting ``(2) and 
+(3)''.
+    (2) Section 3206(b) of such title is amended by striking ``(1)(F) 
+and (4)'' and inserting ``(1)(E) and (4)''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on October 1, 2006.
+
+                     TITLE IV--REED ACT PROVISIONS
+
+SEC. 401. SPECIAL REED ACT TRANSFERS IN FISCAL YEARS 2004 AND 2005.
+
+    (a) In General.--Section 903 of the Social Security Act (42 U.S.C. 
+1103) is amended by adding at the end the following:
+
+           ``Special Transfers for Fiscal Years 2004 and 2005
+
+    ``(e)(1) The Secretary of the Treasury shall, as of the beginning 
+of October 1 of each of fiscal years 2004 and 2005, transfer 
+$3,500,000,000 from the Federal unemployment account to the accounts of 
+the States in the Unemployment Trust Fund.
+    ``(2)(A) Each State's share of the amounts to be transferred under 
+this subsection as of any October 1 shall be determined by the 
+Secretary of Labor in accordance with subsection (a)(2), except that no 
+State shall receive an amount less than $25,000,000 for a fiscal year.
+    ``(B) Any amounts necessary to increase allotments to States in 
+order to comply with the minimum dollar amount required by subparagraph 
+(A) shall be obtained by ratably reducing the allotments to be made to 
+other States under this subsection.
+    ``(3) Subsection (b) shall apply to transfers under this 
+subsection.
+    ``(4)(A) If, in fiscal year 2004 or 2005, all the conditions set 
+forth in paragraph (1) of subsection (a) (for a transfer of amounts to 
+State accounts under such subsection) have been met--
+            ``(i) the transfer under this subsection shall be made 
+        before the making of any transfers under subsection (a) or (b); 
+        and
+            ``(ii) any transfer under subsection (a) or (b) shall then 
+        be made, but only if or to the extent required under 
+        subparagraph (B).
+    ``(B) If a transfer under this subsection is made in the 
+circumstance described in subparagraph (A), the excess amount in the 
+employment security administration account (as described in subsection 
+(a)) shall be treated as follows:
+            ``(i) First, use those amounts to restore the Federal 
+        unemployment account, up to the limit provided in section 
+        902(a).
+            ``(ii) Second, to the extent that any excess amounts remain 
+        after the application of clause (i), transfer those remaining 
+        amounts in accordance with subsection (a) or (b), whichever 
+        applies.''.
+    (b) Use of Transferred Amounts.--Section 903(c)(1) of the Social 
+Security Act (42 U.S.C. 1103(c)(1)) is amended by striking ``(a) and 
+(b)'' and inserting ``(a), (b), (d) and (e)''.
+
+SEC. 402. REPEAL OF SPECIAL RULES FOR STATE REED ACT APPROPRIATION 
+              LAWS.
+
+    Section 903(c)(2) of the Social Security Act (42 U.S.C. 1103(c)(2)) 
+is amended by striking ``offices if and only if--'' and all that 
+follows and inserting ``offices.''.
+
+SEC. 403. REPEAL OF SPECIAL CONDITIONS ON RECENT REED ACT 
+              DISTRIBUTIONS.
+
+    (a) Reed Act Distributions Made With Respect to 1999, 2000, and 
+2001.--
+            (1) In general.--The requirements of subsection (c) of 
+        section 903 of the Social Security Act (as amended by this Act) 
+        shall apply to all amounts transferred under such section 903 
+        with respect to fiscal years 1999, 2000, and 2001, except that 
+        such amounts shall be available for expenditure for the 
+        administration of the State's unemployment compensation law 
+        without an appropriation by the State's legislature until one 
+        year after the date of enactment.
+            (2) Amendments to temporary extended unemployment 
+        compensation act of 2002.--Section 209(a) of the Temporary 
+        Extended Unemployment Compensation Act of 2002 (26 U.S.C. 3304 
+        note) is amended--
+                    (A) by striking paragraph (2); and
+                    (B) by striking ``1997.--'' through ``The 
+                following'' and inserting ``1997.--The following'', by 
+                moving subparagraphs (A) and (B) 2 ems to the left, and 
+                by redesignating those subparagraphs as paragraphs (1) 
+                and (2), respectively.
+    (b) Reed Act Distribution Made on March 13, 2002.--
+            (1) In general.--Section 903(d)(3) of the Social Security 
+        Act (42 U.S.C. 1103(d)(3)) is amended to read as follows:
+    ``(3) Amounts transferred to a State account pursuant to this 
+subsection may be used in accordance with subsection (c).''.
+            (2) Conforming amendment.--Paragraph (4) of section 903(d) 
+        of such Act is repealed.
+
+SEC. 404. RESTORATION AUTHORITY REPEALED.
+
+    Section 903(c)(3) of the Social Security Act (42 U.S.C. 1103(c)(3)) 
+is repealed.
+
+                   TITLE V--MISCELLANEOUS PROVISIONS
+
+SEC. 501. TRANSFER OF FEDERAL EQUITY IN STATE EMPLOYMENT SECURITY 
+              AGENCY REAL PROPERTY TO THE STATES.
+
+    (a) Transfer of Federal Equity.--Notwithstanding any other 
+provision of law, any Federal equity acquired in real property through 
+grants to States awarded under title III of the Social Security Act or 
+under the Wagner-Peyser Act is hereby transferred to the States which 
+used the grants for the acquisition of such equity. The portion of any 
+real property that is attributable to the Federal equity transferred 
+under this section shall be used to carry out activities authorized 
+under title III of the Social Security Act, the Wagner-Peyser Act, or 
+section 193 of the Workforce Investment Act of 1998. Any disposition of 
+such real property shall be carried out in accordance with the 
+procedures described in section 97.31(c) of title 29 of the Code of 
+Federal Regulations (as in effect on the day before the date of the 
+enactment of the Employment Security Reform Act of 2002) and the 
+portion of the proceeds from the disposition of such real property that 
+is attributable to the Federal equity transferred under this section 
+shall be used to carry out activities authorized under title III of the 
+Social Security Act or the Wagner-Peyser Act.
+    (b) Limitation on Use.--States shall not use funds awarded under 
+title III of the Social Security Act or under the Wagner-Peyser Act to 
+amortize the costs of real property that is purchased by any State on 
+or after the effective date of this provision.
+
+SEC. 502. STATE USE OF COMPENSATING BALANCES AND INTEREST EARNED ON 
+              CLEARING ACCOUNT TO PAY ASSOCIATED BANKING COSTS.
+
+    (a) Immediate Deposit Requirement.--Section 3304(a)(3) of the 
+Internal Revenue Code of 1986 (26 U.S.C. 3304(a)(3)) is amended to read 
+as follows:
+            ``(3) all money received in the unemployment fund shall 
+        immediately upon such receipt be paid over to the Secretary of 
+        the Treasury to the credit of the Unemployment Trust Fund 
+        established by section 904 of the Social Security Act (42 
+        U.S.C. 1104), except for--
+                    ``(A) refunds of sums erroneously paid into such 
+                fund;
+                    ``(B) refunds paid in accordance with the 
+                provisions of section 3305(b); and
+                    ``(C) such portion of the money as may be necessary 
+                to generate earnings credit or actual interest earnings 
+                sufficient to pay reasonable charges for banking 
+                services related to such money and for services 
+                provided by a bank in connection with the receipt and 
+                processing of direct remittances from employers.''.
+    (b) Withdrawal Standard.--Section 3304(a)(4) of such Code (26 
+U.S.C. 3304(a)(4)) is amended by striking ``and'' at the end of 
+subparagraph (E), by adding ``and'' at the end of subparagraph (F), and 
+by inserting after subparagraph (F) the following new subparagraph:
+                    ``(G) earnings credit or actual interest earnings 
+                on money not immediately paid over to the Secretary of 
+                the Treasury pursuant to paragraph (3) may be used to 
+                pay reasonable charges for banking services related to 
+                money received in the unemployment fund and for 
+                services provided by a bank in connection with the 
+                receipt and processing of direct remittances from 
+                employers;''.
+    (c) Unemployment Fund.--Section 3306(f) of such Code (26 U.S.C. 
+3306(f)) is amended--
+            (1) by striking ``and'' at the end of the paragraph (5) not 
+        added by Public Law 103-182,
+            (2) by redesignating the paragraph (5) added by Public Law 
+        103-182 as paragraph (6),
+            (3) by striking the period at the end of such paragraph (6) 
+        and inserting ``; and'', and
+            (4) by adding at the end the following new paragraph:
+            ``(7) earnings credit or actual interest earnings may be 
+        used to pay reasonable charges for banking services relating to 
+        moneys received in the unemployment fund and for services 
+        provided by a bank in connection with the receipt and 
+        processing of direct remittances from employers.''.
+    (d) Conforming Amendment.--Section 1201(a)(3)(C) of the Social 
+Security Act (42 U.S.C. 1321(a)(3)(C)), as inserted by section 
+303(a)(3)(B), is further amended--
+            (1) in clause (i), by striking ``or'' after the comma;
+            (2) in clause (ii), by inserting ``or'' after the comma; 
+        and
+            (3) by adding after clause (ii) the following:
+                    ``(iii) for the payment of compensation or 
+                administrative earnings expenses shall not be reduced 
+                or denied due to the use of any amounts to generate 
+                earnings credit or actual interest that are used to pay 
+                reasonable charges for banking services and for 
+                services provided by a bank in connection with the 
+                receipt and processing of direct remittances from 
+                employers pursuant to the exceptions provided in 
+                paragraphs (3) and (4) of section 3304(a) of the 
+                Federal Unemployment Tax Act,''.
+
+SEC. 503. TREATMENT OF SHORT-TIME COMPENSATION PROGRAMS.
+
+    (a) Withdrawal of Amounts From State Unemployment Fund.--
+            (1) In general.--Section 3304(a)(4)(E) of the Internal 
+        Revenue Code of 1986 (26 U.S.C. 3304(a)(4)(E)) is amended to 
+        read as follows:
+                    ``(E) amounts may be withdrawn for the payment of 
+                short-time compensation under a short-time compensation 
+                program (as defined under section 3306(v));''.
+            (2) Unemployment fund defined.--Section 3306(f)(5) of such 
+        Code (26 U.S.C. 3306(f)(5)) is amended to read as follows:
+            ``(5) amounts may be withdrawn for the payment of short-
+        time compensation under a short-time compensation program (as 
+        defined under subsection (v)); and''.
+            (3) Short-time compensation program.--Section 3306 of such 
+        Code (26 U.S.C. 3306) is amended by adding at the end the 
+        following new subsection:
+    ``(v) Short-Time Compensation Program.--For purposes of this 
+chapter, the term `short-time compensation program' means a program 
+under which--
+            ``(1) the participation of an employer is voluntary;
+            ``(2) an employer reduces the number of hours worked by 
+        employees in lieu of temporary layoffs;
+            ``(3) such employees whose workweeks have been reduced by 
+        at least 10 percent are eligible for unemployment compensation;
+            ``(4) the amount of unemployment compensation payable to 
+        any such employee is a pro rata portion of the unemployment 
+        compensation which would be payable to the employee if such 
+        employee were totally unemployed;
+            ``(5) such employees are not required to meet the 
+        availability for work or work search test requirements while 
+        collecting short-time compensation benefits, but are required 
+        to be available for their normal workweek;
+            ``(6) eligible employees may participate in an employer-
+        sponsored training program to enhance job skills if such 
+        program has been approved by the State agency;
+            ``(7) the State agency may require an employer to continue 
+        to provide health benefits, and retirement benefits under a 
+        defined benefit pension plan (as defined in section 414(j)) to 
+        any employee whose workweek is reduced pursuant to the program 
+        as though the workweek of such employee had not been reduced; 
+        and
+            ``(8) the State agency may require an employer (or an 
+        employers' association which is party to a collective 
+        bargaining agreement) to submit a written plan describing the 
+        manner in which the requirements of this subsection will be 
+        implemented and containing such other information as the 
+        Secretary of Labor determines is appropriate.''.
+    (b) Effective Date.--The amendments made by this section shall take 
+effect on October 1, 2002.
+
+SEC. 504. METHOD OF VERIFYING CITIZENSHIP STATUS FOR UNEMPLOYMENT 
+              BENEFITS.
+
+    Nothing in Federal law shall be construed to require State agencies 
+administering State unemployment compensation laws to require 
+applicants for unemployment benefits to present proof of citizenship or 
+alien status in person.
+
+SEC. 505. USE OF NEW HIRE INFORMATION TO ASSIST IN ADMINISTRATION OF 
+              UNEMPLOYMENT COMPENSATION PROGRAMS.
+
+    Section 453(j) of the Social Security Act (42 U.S.C. 653(j)) is 
+amended by adding at the end the following:
+            ``(7) Information comparisons and disclosure to assist in 
+        administration of unemployment compensation programs.--
+                    ``(A) In general.--If, for purposes of 
+                administering an unemployment compensation program 
+                under Federal or State law, a State agency responsible 
+                for the administration of such program transmits to the 
+                Secretary the names and social security account numbers 
+                of individuals, the Secretary shall disclose to such 
+                State agency information on such individuals and their 
+                employers maintained in the National Directory of New 
+                Hires, subject to this paragraph.
+                    ``(B) Condition on disclosure by the secretary.--
+                The Secretary shall make a disclosure under 
+                subparagraph (A) only to the extent that the Secretary 
+                determines that the disclosure would not interfere with 
+                the effective operation of the program under this part.
+                    ``(C) Use and disclosure of information by state 
+                agencies.--
+                            ``(i) In general.--A State agency may not 
+                        use or disclose information provided under this 
+                        paragraph except for purposes of administering 
+                        a program referred to in subparagraph (A).
+                            ``(ii) Information security.--The State 
+                        agency shall have in effect data security and 
+                        control policies that the Secretary finds 
+                        adequate to ensure the security of information 
+                        obtained under this paragraph and to ensure 
+                        that access to such information is restricted 
+                        to authorized persons for purposes of 
+                        authorized uses and disclosures.
+                            ``(iii) Penalty for misuse of 
+                        information.--An officer or employee of the 
+                        State agency who fails to comply with this 
+                        subparagraph shall be subject to sanctions 
+                        under subsection (l)(2) to the same extent as 
+                        if the officer or employee were an officer or 
+                        employee of the United States.
+                    ``(D) Procedural requirements.--State agencies 
+                requesting information under this paragraph shall 
+                adhere to uniform procedures established by the 
+                Secretary governing information requests and data 
+                matching under this paragraph.
+                    ``(E) Reimbursement of costs.--The State agency 
+                shall reimburse the Secretary, in accordance with 
+                subsection (k)(3), for the costs incurred by the 
+                Secretary in furnishing the information requested under 
+                this paragraph.''.
+
+SEC. 506. REPEAL OF PROVISION LIMITING ELIGIBILITY OF CERTAIN FEDERAL 
+              EMPLOYEES.
+
+    Section 8501(1) of title 5 of the United States Code is amended--
+            (1) by striking subparagraph (E); and
+            (2) by redesignating subparagraphs (F) through (L) as 
+        subparagraphs (E) through (K), respectively.
+
+SEC. 507. TREATMENT OF PENSION ROLLOVERS.
+
+    (a) In General.--Section 3304(a)(15) of the Internal Revenue Code 
+of 1986 (26 U.S.C. 3304(a)(15) is amended to read as follows--
+            ``(15)(A) the amount of compensation payable to an 
+        individual for any week which begins after March 31, 1980, and 
+        which begins in a period with respect to which such individual 
+        is receiving a governmental or other pension, retirement or 
+        retired pay, annuity, or any other similar periodic payment 
+        which is based on the previous work of such individual shall be 
+        reduced (but not below zero) by an amount equal to the amount 
+        of such pension, retirement or retired pay, annuity, or other 
+        payment, which is reasonably attributable to such week except 
+        that--
+                    ``(i) the requirements of this paragraph shall 
+                apply to any pension, retirement or retired pay, 
+                annuity, or other similar periodic payment only if--
+                            ``(I) such pension, retirement or retired 
+                        pay, annuity, or similar payment is under a 
+                        plan maintained (or contributed to) by a base 
+                        period employer or chargeable employer (as 
+                        determined under applicable law); and
+                            ``(II) in the case of such payment not made 
+                        under the Social Security Act or the Railroad 
+                        Retirement Act of 1974 (or the corresponding 
+                        provisions of prior law), services performed 
+                        for such employer by the individual after the 
+                        beginning of the base period (or remuneration 
+                        for such services) affect eligibility for, or 
+                        increase the amount of, such pension, 
+                        retirement or retired pay, annuity, or similar 
+                        payment; and
+                    ``(ii) the State law may provide for limitations on 
+                the amount of any such a reduction to take into account 
+                contributions made by the individual for the pension, 
+                retirement or retired pay, annuity, or other similar 
+                periodic payment; and
+            ``(B) the amount of compensation shall not be reduced on 
+        account of any payments of retirement annuities, pensions or 
+        other such payments which are rolled over into other funds and 
+        which are includible in gross income;''.
+    (b) Effective Date.--The amendment made by subsection (a) shall be 
+effective for weeks of unemployment beginning at least 1 year after the 
+date of the enactment of this Act, except that in the case of a State 
+in which the legislature does not meet in a regularly scheduled session 
+during calendar year 2003, the amendments made by subsection (a) shall 
+apply to weeks of unemployment beginning at least 2 years after the 
+date of the enactment of this Act.
+
+SEC. 508. REGULATIONS.
+
+    The Secretary of Labor may prescribe any operating instructions or 
+regulations necessary to carry out the provisions of this Act and the 
+amendments made by this Act, to the extent that responsibility for 
+their administration is vested in the Secretary of Labor.
+                                 <all>

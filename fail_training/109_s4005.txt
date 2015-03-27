@@ -1,0 +1,255 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 4005 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                S. 4005
+
+  To establish the National Hurricane Research Initiative to improve 
+            hurricane preparedness, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 29, 2006
+
+ Mr. Martinez (for himself, Mr. Vitter, Mr. Nelson of Florida, and Ms. 
+   Landrieu) introduced the following bill; which was read twice and 
+   referred to the Committee on Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To establish the National Hurricane Research Initiative to improve 
+            hurricane preparedness, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``National Hurricane Research 
+Initiative Act of 2006''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Director.--The term ``Director'' means the Director of 
+        the National Science Foundation.
+            (2) Under secretary.--The term ``Under Secretary'' means 
+        the Under Secretary for Oceans and Atmosphere of the Department 
+        of Commerce.
+
+SEC. 3. NATIONAL HURRICANE RESEARCH INITIATIVE.
+
+    (a) Requirement to Establish.--The Under Secretary and the Director 
+shall establish an initiative known as the National Hurricane Research 
+Initiative for the purposes described in subsection (b).
+    (b) Purposes.--The purposes of the National Hurricane Research 
+Initiative shall be to set research objectives based on the findings of 
+the September 29, 2006, National Science Board report entitled 
+``Hurricane Warning: The Critical Need for National Hurricane 
+Initiative''--
+            (1) to make recommendations to the National Science Board 
+        based on such research;
+            (2) to assemble the expertise of the science and 
+        engineering capabilities of the United States through a multi-
+        agency effort that is focused on--
+                    (A) improving a better understanding of hurricane 
+                prediction, intensity, and mitigation on coastal 
+                populations;
+                    (B) infrastructure; and
+                    (C) the natural environment; and
+            (3) to make grants to eligible entities to carry out 
+        research in the following areas:
+                    (A) Predicting hurricane intensification.--Research 
+                to improve understanding of--
+                            (i) rapid intensity change in storms, 
+                        relationships among storm size, motion and 
+                        intensity;
+                            (ii) the internal dynamics of hurricanes; 
+                        and
+                            (iii) the manner in which hurricanes 
+                        interact with the environment.
+                    (B) Understanding air-sea interactions.--Research 
+                to improve understanding of theories of air-sea 
+                interaction that are common to the strong wind and high 
+                wave conditions associated with hurricanes, and cases 
+                in which the air-sea interface beneath hurricanes 
+                vanishes and is replaced by an emulsion, including 
+                theoretical theories, observational theories, and 
+                modeling.
+                    (C) Predicting storm surge, rainfall, and inland 
+                flooding from hurricanes and tropical storms.--Research 
+                to understand and model rainfall and flooding from 
+                hurricanes, including probabilistic modeling and 
+                mapping of storm surge risk.
+                    (D) Hurricane modification.--Basic research for 
+                modifying hurricanes to reduce the intensity or alter 
+                the movement of hurricanes by human intervention, 
+                including research to improve understanding of the 
+                potential effects of hurricane modification on 
+                precipitation and fresh water supply, as well as on 
+                climate.
+                    (E) Improved observation of hurricanes and tropical 
+                storms.--Research to improve hurricane and tropical 
+                storm observation through mobile radars, Global 
+                Positioning System technology, unmanned aerial 
+                vehicles, and ground-based and aerial wireless sensors 
+                to improve understanding of the complex nature of 
+                storms.
+                    (F) Assessing vulnerable infrastructure.--Research 
+                to develop a national engineering assessment of coastal 
+                infrastructure, including infrastructure related to 
+                levees, seawalls, drainage systems, bridges, water and 
+                sewage utilities, power, and communications, to 
+                determine the level of vulnerability of such 
+                infrastructure to damage from a hurricane.
+                    (G) Interaction of hurricanes with engineered 
+                structures.--Research to improve understanding of the 
+                impacts of hurricanes and tropical storms on buildings, 
+                structures, and housing combined with modeling 
+                essential for guiding the creation of improved building 
+                designs and construction codes in locations 
+                particularly vulnerable to hurricanes.
+                    (H) Relationship between hurricanes, climate, and 
+                natural ecosystems.--Research to improve the 
+                understanding of the complex relationships between 
+                hurricanes and climate, including research to determine 
+                the most effective methods to use observational 
+                information to examine the impacts on ecosystems over 
+                long- and short-periods of time.
+                    (I) Technologies for disaster response and 
+                recovery.--Research to improve emergency communication 
+                networks for government agencies and non-government 
+                entities and to improve communications between such 
+                networks during disaster response and recovery, 
+                including cyber-security during disaster situations and 
+                the ability to improve damage assessments during 
+                storms.
+                    (J) Evacuation planning.--Research to improve the 
+                manner in which hurricane-related information is 
+                provided to, and utilized by, the public and government 
+                officials, including research to assist officials of 
+                State or local government in determining the 
+                circumstances in which evacuations are required and in 
+                carrying out such evacuations.
+                    (K) Computational capability.--Research to improve 
+                understanding of the efficient utility of multiple 
+                models requiring sharing and inter-operability of 
+                databases, computing environments, networks, 
+                visualization tools, and analytic systems beyond what 
+                is currently available for transitioning hurricane 
+                research assets into operational practice and to 
+                provide access to robust computational facilities 
+                beyond the facilities normally accessible by the 
+                civilian research community for the hurricane research 
+                enterprise, including data acquisition and modeling 
+                capability during hurricane events.
+    (c) Cooperation With Other Agencies.--The Under Secretary and the 
+Director shall cooperate with the head of each appropriate Federal 
+agency or department, research institute, university, and disaster-
+response or nongovernmental organization to utilize the expertise and 
+capabilities of such entity to carry out the purposes of the National 
+Hurricane Research Initiative, including cooperation with the heads of 
+the following entities:
+            (1) The National Aeronautics and Space Administration.
+            (2) The National Institute of Standards and Technology.
+            (3) The Department of Homeland Security, including the 
+        Federal Emergency Management Agency.
+            (4) The Department of Energy.
+            (5) The Defense Advanced Research Project Agency.
+            (6) The Environmental Protection Agency.
+            (7) The United States Geological Survey.
+            (8) The U.S. Army Corps of Engineers.
+    (d) Coordination.--The White House Office of Science and Technology 
+Policy, through the National Science and Technology Council, shall 
+coordinate the activities carried out by the United States related to 
+the National Hurricane Research Initiative as a formal program with a 
+well defined organizational structure and execution plan.
+    (e) Grants.--
+            (1) Authority.--The Under Secretary and the Director may 
+        award grants to appropriate government agencies or departments 
+        or nongovernmental entities to carry out the purposes described 
+        in subsection (b).
+            (2) Best practices.--The Under Secretary and the Director 
+        shall develop and make available to the public a description of 
+        best practices to be used to carry out a project with a grant 
+        awarded under this subsection.
+    (f) Research Seminars and Forums.--The Under Secretary and the 
+Director shall carry out a series of national seminars and forums that 
+assemble a broad collection of scientific disciplines to direct 
+researchers to work collaboratively to carry out the purposes described 
+in subsection (b).
+    (g) Authorization of Appropriations.--There is authorized to be 
+appropriated $285,000,000 for each of the fiscal years 2008 through 
+2018 to carry out this section.
+
+SEC. 4. NATIONAL INFRASTRUCTURE DATABASE.
+
+    (a) Requirement to Establish.--The Under Secretary and the Director 
+shall establish a National Infrastructure Database for the purposes 
+of--
+            (1) cataloging and characterizing the physical, social, and 
+        natural infrastructure in order to provide a baseline for 
+        developing standards, measuring modification, and determining 
+        loss;
+            (2) providing information to Federal, State, and local 
+        government officials to improve information public policy 
+        related to hurricanes and tropical storms; and
+            (3) providing data to researchers to improve their ability 
+        to measure hurricane impacts, separate such impacts from other 
+        effects, both natural and anthropogenic, make effective 
+        recommendations for improved building codes and urban planning 
+        practices, and develop effective procedures for responding to 
+        infrastructure disruption.
+    (b) Database Requirements.--The National Infrastructure Database 
+shall be a virtual, cyber environment that uses existing capabilities 
+and facilities, and establishes new capabilities and facilities, as 
+appropriate, to provide an interoperable environment and the necessary 
+metadata and other resources needed by users of that Database.
+    (c) Authorization of Appropriations.--There is authorized to be 
+appropriated $20,000,000 for each of the fiscal years 2008 through 2018 
+to carry out this section.
+
+SEC. 5. NATIONAL HURRICANE RESEARCH MODEL.
+
+    (a) Requirement to Establish.--The Under Secretary and the Director 
+shall develop a National Hurricane Research Model to conduct 
+integrative research and to facilitate the transfer of research 
+knowledge to operational applications, including linking relevant 
+theoretical, physical, and computational models from atmospheric, 
+oceanic, economic, sociological, engineered infrastructure, and 
+ecologic fields, conducting experimental research to understand the 
+extensive complexities of hurricanes, and obtaining measurable results 
+in a comprehensive framework suitable for testing end-to-end 
+integrative systems.
+    (b) System Requirements.--The National Hurricane Research Model 
+shall be a physically distributed and highly coordinated working 
+environment in which research from the National Hurricane Research can 
+be experimentally substantiated using suitable quantitative metrics, 
+and where a culture of interaction and collaboration can further be 
+promoted, including in the areas of--
+            (1) facilities and cyberinfrastructure;
+            (2) software integration; and
+            (3) fixed mobile data collection platforms and data 
+        provisioning systems.
+    (c) Authorization of Appropriations.--There is authorized to be 
+appropriated $130,000,000 for each of the fiscal years 2008 through 
+2018 to carry out this section.
+                                 <all>

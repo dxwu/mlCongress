@@ -1,0 +1,164 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 1130 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                S. 1130
+
+  To require the Secretary of Energy to develop a plan for a magnetic 
+ fusion burning plasma experiment for the purpose of accelerating the 
+   scientific understanding and development of fusion as a long term 
+                 energy source, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 28, 2001
+
+Mr. Craig (for himself, Mrs. Feinstein, and Mr. Corzine) introduced the 
+   following bill; which was referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require the Secretary of Energy to develop a plan for a magnetic 
+ fusion burning plasma experiment for the purpose of accelerating the 
+   scientific understanding and development of fusion as a long term 
+                 energy source, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fusion Energy Sciences Act of 
+2001''.
+
+SEC. 2. FINDINGS.
+
+    The Congress finds that--
+            (1) economic prosperity is closely linked to an affordable 
+        and ample energy supply;
+            (2) environmental quality is closely linked to energy 
+        production and use;
+            (3) population, worldwide economic development, energy 
+        consumption, and stress on the environment are all expected to 
+        increase substantially in the coming decades;
+            (4) the few energy options with the potential to meet 
+        economic and environmental needs for the long-term future must 
+        be pursued aggressively now, as part of a balanced national 
+        energy plan;
+            (5) fusion energy is a long-term energy solution that is 
+        expected to be environmentally benign, safe, and economical, 
+        and to use a fuel source that is practically unlimited;
+            (6) the National Academy of Sciences, the President's 
+        Committee of Advisers on Science and Technology, and the 
+        Secretary of Energy Advisory Board have each recently reviewed 
+        the Fusion Energy Sciences Program and each strongly supports 
+        the fundamental science and creative innovation of the program, 
+        and has confirmed that progress toward the goal of producing 
+        practical fusion energy has been excellent;
+            (7) each of these reviews stressed the need for the Fusion 
+        Energy Sciences Program to move forward to a magnetic fusion 
+        burning plasma experiment, capable of producing substantial 
+        fusion power output and providing key information for the 
+        advancement of fusion science;
+            (8) the National Academy of Sciences has also called for a 
+        broadening of the Fusion Energy Sciences Program research base 
+        as a means to more fully integrate the fusion science community 
+        into the broader scientific community; and
+            (9) the Fusion Energy Sciences Program budget is inadequate 
+        to support the necessary science and innovation for the present 
+        generation of experiments, and cannot accommodate the cost of a 
+        burning plasma experiment constructed by the United States, or 
+        even the cost of key participation by the United States in an 
+        international effort.
+
+SEC. 3. PLAN FOR FUSION EXPERIMENT.
+
+    (a) Plan for United States Fusion Experiment.--The Secretary of 
+Energy (in this Act referred to as ``the Secretary''), on the basis of 
+full consultation with, and the recommendation of, the Fusion Energy 
+Sciences Advisory Committee (in this Act referred to as ``FESAC''), 
+shall develop a plan for United States construction of a magnetic 
+fusion burning plasma experiment for the purpose of accelerating 
+scientific understanding of fusion plasmas. The Secretary shall request 
+a review of the plan by the National Academy of Sciences, and shall 
+transmit the plan and the review to the Congress by July 1, 2004.
+    (b) Requirements of Plan.--The plan described in subsection (a) 
+shall--
+            (1) address key burning plasma physics issues; and
+            (2) include specific information on the scientific 
+        capabilities of the proposed experiment, the relevance of these 
+        capabilities to the goal of practical fusion energy, and the 
+        overall design of the experiment including its estimated cost 
+        and potential construction sites.
+    (c) United States Participation in an International Experiment.--In 
+addition to the plan described in subsection (a), the Secretary, on the 
+basis of full consultation with, and the recommendation of, FESAC, may 
+also develop a plan for United States participation in an international 
+burning plasma experiment for the same purpose, whose construction is 
+found by the Secretary to be highly likely and where United States 
+participation is cost effective relative to the cost and scientific 
+benefits of a domestic experiment described in subsection (a). If the 
+Secretary elects to develop a plan under this subsection, he shall 
+include the information described in subsection (b), and an estimate of 
+the cost of United States participation in such an international 
+experiment. The Secretary shall request a review by the National 
+Academies of Sciences and Engineering of a plan developed under this 
+subsection, and shall transmit the plan and the review to the Congress 
+no later than July 1, 2004.
+    (d) Authorization of Research and Development.--The Secretary, 
+through the Fusion Energy Sciences Program, may conduct any research 
+and development necessary to fully develop the plans described in this 
+section.
+
+SEC. 4. PLAN FOR FUSION ENERGY SCIENCES PROGRAM.
+
+    Not later than 6 months after the date of enactment of this Act, 
+the Secretary, in full consultation with FESAC, shall develop and 
+transmit to the Congress a plan for the purpose of ensuring a strong 
+scientific base for the Fusion Energy Sciences Program and to enable 
+the experiment described in section 3. Such plan shall include as its 
+objectives--
+            (1) to ensure that existing fusion research facilities and 
+        equipment are more fully utilized with appropriate measurements 
+        and control tools;
+            (2) to ensure a strengthened fusion science theory and 
+        computational base;
+            (3) to encourage and ensure that the selection of and 
+        funding for new magnetic and inertial fusion research 
+        facilities is based on scientific innovation and cost 
+        effectiveness;
+            (4) to improve the communication of scientific results and 
+        methods between the fusion science community and the wider 
+        scientific community;
+            (5) to ensure that adequate support is provided to optimize 
+        the design of the magnetic fusion burning plasma experiments 
+        referred to in section 3; and
+            (6) to ensure that inertial confinement fusion facilities 
+        are utilized to the extent practicable for the purpose of 
+        inertial fusion energy research and development.
+
+SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Secretary for the 
+development and review of the plans described in this Act and for 
+activities of the Fusion Energy Sciences Program $320,000,000 for 
+fiscal year 2002 and $335,000,000 for fiscal year 2003.
+                                 <all>

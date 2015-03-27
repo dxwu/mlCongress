@@ -1,0 +1,136 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. Con. Res. 115 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+S. CON. RES. 115
+
+Expressing the sense of Congress with respect to raising awareness and 
+  enhancing the state of computer security in the United States, and 
+ supporting the goals and ideals of National Cyber Security Awareness 
+                                 Month.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 14, 2006
+
+   Mr. Burns (for himself and Ms. Cantwell) submitted the following 
+concurrent resolution; which was referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                         CONCURRENT RESOLUTION
+
+
+ 
+Expressing the sense of Congress with respect to raising awareness and 
+  enhancing the state of computer security in the United States, and 
+ supporting the goals and ideals of National Cyber Security Awareness 
+                                 Month.
+
+Whereas over 205,000,000 Americans use the Internet in the United States, 
+        including over 84,000,000 home-users through broadband connections, to 
+        communicate with family and friends, manage their finances, pay their 
+        bills, improve their education, shop at home, and read about current 
+        events;
+Whereas the approximately 26,000,000 small businesses in the United States, who 
+        represent 99.7 percent of all United States employers and employ 50 
+        percent of the private work force, increasingly rely on the Internet to 
+        manage their businesses, expand their customer reach, and enhance their 
+        connection with their supply chain;
+Whereas, according to the Department of Education, nearly 100 percent of public 
+        schools in the United States have Internet access, with approximately 93 
+        percent of instructional classrooms connected to the Internet;
+Whereas having access to the Internet in the classroom enhances the education of 
+        our children by providing access to educational online content and 
+        encouraging responsible self-initiative to discover research resources;
+Whereas, according to the Pew Institute, almost 9 in 10 teenagers between the 
+        ages of 12 and 17, or 87 percent of all youth (approximately 21,000,000 
+        people) use the Internet, and 78 percent (or about 16,000,000 students) 
+        say they use the Internet at school;
+Whereas teen use of the Internet at school has grown 45 percent since 2000, and 
+        educating children of all ages about safe, secure, and ethical practices 
+        will not only protect their computer systems, but will also protect the 
+        physical safety of our children, and help them become good cyber 
+        citizens;
+Whereas the growth and popularity of social networking websites have attracted 
+        millions of teenagers, providing them with a range of valuable services;
+Whereas teens should be taught how to avoid potential threats like cyber 
+        bullies, online predators, and identity thieves that they may encounter 
+        while using cyber services;
+Whereas the critical infrastructure of our Nation relies on the secure and 
+        reliable operation of information networks to support our Nation's 
+        financial services, energy, telecommunications, transportation, health 
+        care, and emergency response systems;
+Whereas cyber security is a critical part of the overall homeland security of 
+        our Nation, in particular the control systems that control and monitor 
+        our drinking water, dams, and other water management systems, our 
+        electricity grids, oil and gas supplies, and pipeline distribution 
+        networks, our transportation systems, and other critical manufacturing 
+        processes;
+Whereas terrorists and others with malicious motives have demonstrated an 
+        interest in utilizing cyber means to attack our Nation;
+Whereas the mission of the Department of Homeland Security includes securing the 
+        homeland against cyber terrorism and other attacks;
+Whereas Internet users and our information infrastructure face an increasing 
+        threat of malicious attacks through viruses, worms, Trojans, and 
+        unwanted programs such as spyware, adware, hacking tools, and password 
+        stealers, that are frequent and fast in propagation, are costly to 
+        repair, and disable entire computer systems;
+Whereas, according to Privacy Rights Clearinghouse, since February 2005, over 
+        90,000,000 records containing personally-identifiable information have 
+        been breached, and the overall increase in serious data breaches in both 
+        the private and public sectors are threatening the security and well-
+        being of the citizens of the United States;
+Whereas consumers face significant financial and personal privacy losses due to 
+        identity theft and fraud, as reported in over 686,000 consumer 
+        complaints in 2005 received by the Consumer Sentinel database operated 
+        by the Federal Trade Commission;
+Whereas Internet-related complaints in 2005 accounted for 46 percent of all 
+        reported fraud complaints received by the Federal Trade Commission;
+Whereas the total amount of monetary losses for such Internet-related complaints 
+        exceeded $680,000,000, with a median loss of $350 per complaint;
+Whereas the youth of our Nation face increasing threats online such as 
+        inappropriate content or child predators;
+Whereas, according to the National Center For Missing and Exploited Children, 34 
+        percent of teens are exposed to unwanted sexually explicit material on 
+        the Internet, and 1 in 7 children report having been approached by an 
+        online child predator;
+Whereas national organizations, policymakers, government agencies, private 
+        sector companies, nonprofit institutions, schools, academic 
+        organizations, consumers, and the media recognize the need to increase 
+        awareness of computer security and enhance the level of computer and 
+        national security in the United States;
+Whereas the mission of National Cyber Security Alliance is to increase awareness 
+        of cyber security practices and technologies to home-users, students, 
+        teachers, and small businesses through educational activities, online 
+        resources and checklists, and public service announcements; and
+Whereas the National Cyber Security Alliance has designated October as National 
+        Cyber Security Awareness Month, which will provide an opportunity to 
+        educate the people of the United States about computer security: Now, 
+        therefore, be it
+    Resolved by the Senate (the House of Representatives concurring), 
+That Congress--
+            (1) supports the goals and ideals of National Cyber 
+        Security Awareness Month; and
+            (2) will work with Federal agencies, national 
+        organizations, businesses, and educational institutions to 
+        encourage the development and implementation of existing and 
+        future computer security voluntary consensus standards, 
+        practices, and technologies in order to enhance the state of 
+        computer security in the United States.
+                                 <all>

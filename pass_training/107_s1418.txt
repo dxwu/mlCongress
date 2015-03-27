@@ -1,0 +1,2973 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 1418 Engrossed in Senate (ES)]
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+107th CONGRESS
+  1st Session
+                                S. 1418
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+     To authorize appropriations for fiscal year 2002 for military 
+                 construction, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Military Construction Authorization 
+Act for Fiscal Year 2002''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Congressional defense committees defined.
+                            TITLE XXI--ARMY
+
+Sec. 2101. Authorized Army construction and land acquisition projects.
+Sec. 2102. Family housing.
+Sec. 2103. Improvements to military family housing units.
+Sec. 2104. Authorization of appropriations, Army.
+Sec. 2105. Modification of authority to carry out certain fiscal year 
+                            2001 projects.
+                            TITLE XXII--NAVY
+
+Sec. 2201. Authorized Navy construction and land acquisition projects.
+Sec. 2202. Family housing.
+Sec. 2203. Improvements to military family housing units.
+Sec. 2204. Authorization of appropriations, Navy.
+Sec. 2205. Modification of authority to carry out certain fiscal year 
+                            2001 projects.
+Sec. 2206. Modification of authority to carry out fiscal year 2000 
+                            project.
+                         TITLE XXIII--AIR FORCE
+
+Sec. 2301. Authorized Air Force construction and land acquisition 
+                            projects.
+Sec. 2302. Family housing.
+Sec. 2303. Improvements to military family housing units.
+Sec. 2304. Authorization of appropriations, Air Force.
+Sec. 2305. Modification of authority to carry out certain fiscal year 
+                            2001 project.
+                      TITLE XXIV--DEFENSE AGENCIES
+
+Sec. 2401. Authorized Defense Agencies construction and land 
+                            acquisition projects.
+Sec. 2402. Energy conservation projects.
+Sec. 2403. Authorization of appropriations, Defense Agencies.
+Sec. 2404. Cancellation of authority to carry out certain fiscal year 
+                            2001 projects.
+Sec. 2405. Cancellation of authority to carry out additional fiscal 
+                            year 2001 project.
+Sec. 2406. Modification of authority to carry out certain fiscal year 
+                            2000 projects.
+Sec. 2407. Modification of authority to carry out certain fiscal year 
+                            1999 project.
+Sec. 2408. Modification of authority to carry out certain fiscal year 
+                            1995 project.
+   TITLE XXV--NORTH ATLANTIC TREATY ORGANIZATION SECURITY INVESTMENT 
+                                PROGRAM
+
+Sec. 2501. Authorized NATO construction and land acquisition projects.
+Sec. 2502. Authorization of appropriations, NATO.
+            TITLE XXVI--GUARD AND RESERVE FORCES FACILITIES
+
+Sec. 2601. Authorized Guard and Reserve construction and land 
+                            acquisition projects.
+        TITLE XXVII--EXPIRATION AND EXTENSION OF AUTHORIZATIONS
+
+Sec. 2701. Expiration of authorizations and amounts required to be 
+                            specified by law.
+Sec. 2702. Extension of authorizations of certain fiscal year 1999 
+                            projects.
+Sec. 2703. Extension of authorizations of certain fiscal year 1998 
+                            projects.
+Sec. 2704. Effective date.
+                    TITLE XXVIII--GENERAL PROVISIONS
+
+ Subtitle A--Military Construction Program and Military Family Housing 
+                                Changes
+
+Sec. 2801. Increase in thresholds for certain unspecified minor 
+                            military construction projects.
+Sec. 2802. Unforeseen environmental hazard remediation as basis for 
+                            authorized cost variations for military 
+                            construction and family housing 
+                            construction projects.
+Sec. 2803. Repeal of requirement for annual reports to Congress on 
+                            military construction and military family 
+                            housing activities.
+Sec. 2804. Authority available for lease of property and facilities 
+                            under alternative authority for acquisition 
+                            and improvement of military housing.
+Sec. 2805. Funds for housing allowances of members assigned to military 
+                            family housing under alternative authority 
+                            for acquisition and improvement of military 
+                            housing.
+Sec. 2806. Amendment of Federal Acquisition Regulation to treat 
+                            financing costs as allowable expenses under 
+                            contracts for utility services from utility 
+                            systems conveyed under privatization 
+                            initiative.
+        Subtitle B--Real Property and Facilities Administration
+
+Sec. 2811. Availability of proceeds of sales of Department of Defense 
+                            property from closed military 
+                            installations.
+Sec. 2812. Pilot efficient facilities initiative.
+Sec. 2813. Demonstration program on reduction in long-term facility 
+                            maintenance costs.
+                      Subtitle C--Land Conveyances
+
+Sec. 2821. Land conveyance, Engineer Proving Ground, Fort Belvoir, 
+                            Virginia.
+Sec. 2822. Modification of authority for conveyance of Naval Computer 
+                            and Telecommunications Station, Cutler, 
+                            Maine.
+Sec. 2823. Land transfer and conveyance, Naval Security Group Activity, 
+                            Winter Harbor, Maine.
+Sec. 2824. Conveyance of segment of Loring Petroleum Pipeline, Maine, 
+                            and related easements.
+Sec. 2825. Land conveyance, petroleum terminal serving former Loring 
+                            Air Force Base and Bangor Air National 
+                            Guard Base, Maine.
+Sec. 2826. Land conveyance, Naval Weapons Industrial Reserve Plant, 
+                            Toledo, Ohio.
+Sec. 2827. Modification of land conveyance, Mukilteo Tank Farm, 
+                            Everett, Washington.
+Sec. 2828. Land conveyances, Charleston Air Force Base, South Carolina.
+Sec. 2829. Land conveyance, Fort Des Moines, Iowa.
+Sec. 2830. Land conveyances, certain former Minuteman III ICBM 
+                            facilities in North Dakota.
+Sec. 2831. Land acquisition, Perquimans County, North Carolina.
+Sec. 2832. Land conveyance, Army Reserve Center, Kewaunee, Wisconsin.
+Sec. 2833. Treatment of amounts received.
+                       Subtitle D--Other Matters
+
+Sec. 2841. Development of United States Army Heritage and Education 
+                            Center at Carlisle Barracks, Pennsylvania.
+Sec. 2842. Repeal of limitation on cost of renovation of Pentagon 
+                            Reservation.
+Sec. 2843. Naming of Patricia C. Lamar Army National Guard Readiness 
+                            Center, Oxford, Mississippi.
+Sec. 2844. Construction of parking garage at Fort DeRussy, Hawaii.
+Sec. 2845. Acceptance of contributions to repair or establishment 
+                            memorial at Pentagon Reservation.
+            TITLE XXIX--DEFENSE BASE CLOSURE AND REALIGNMENT
+
+           Subtitle A--Modifications of 1990 Base Closure Law
+
+Sec. 2901. Authority to carry out base closure round in 2003.
+Sec. 2902. Base Closure Account 2003.
+Sec. 2903. Additional modifications of base closure authorities.
+Sec. 2904. Technical and clarifying amendments.
+           Subtitle B--Modification of 1988 Base Closure Law
+
+Sec. 2911. Payment for certain services provided by redevelopment 
+                            authorities for property leased back by the 
+                            United States.
+
+SEC. 3. CONGRESSIONAL DEFENSE COMMITTEES DEFINED.
+
+    For purposes of this Act, the term ``congressional defense 
+committees'' means--
+            (1) the Committee on Armed Services and the Committee on 
+        Appropriations of the Senate; and
+            (2) the Committee on Armed Services and the Committee on 
+        Appropriations of the House of Representatives.
+
+                            TITLE XXI--ARMY
+
+SEC. 2101. AUTHORIZED ARMY CONSTRUCTION AND LAND ACQUISITION PROJECTS.
+
+    (a) Inside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2104(a)(1), the 
+Secretary of the Army may acquire real property and carry out military 
+construction projects for the installations and locations inside the 
+United States, and in the amounts, set forth in the following table:
+
+
+                                         Army: Inside the United States
+----------------------------------------------------------------------------------------------------------------
+                      State                                 Installation or location                 Amount
+----------------------------------------------------------------------------------------------------------------
+Alabama.........................................  Anniston Army Depot........................         $5,150,000
+                                                  Fort Rucker................................        $11,400,000
+                                                  Redstone Arsenal...........................         $7,200,000
+Alaska..........................................  Fort Richardson............................       $115,000,000
+                                                  Fort Wainwright............................        $27,200,000
+Arizona.........................................  Fort Huachuca..............................         $6,100,000
+Colorado........................................  Fort Carson................................        $66,000,000
+District of Columbia............................  Fort McNair................................        $11,600,000
+Georgia.........................................  Fort Benning...............................        $23,900,000
+                                                  Fort Gillem................................        $34,600,000
+                                                  Fort Gordon................................        $34,000,000
+                                                  Fort Stewart/Hunter Army Air Field.........        $39,800,000
+Hawaii..........................................  Navy Public Works Center, Pearl Harbor.....        $11,800,000
+                                                  Pohakuloa Training Facility................         $6,600,000
+                                                  Wheeler Army Air Field.....................        $50,000,000
+Illinois........................................  Rock Island Arsenal........................         $3,500,000
+Kansas..........................................  Fort Riley.................................        $10,900,000
+Kentucky........................................  Fort Campbell..............................        $88,900,000
+                                                  Fort Knox..................................        $11,600,000
+Louisiana.......................................  Fort Polk..................................        $21,200,000
+Maryland........................................  Aberdeen Proving Ground....................        $58,300,000
+                                                  Fort Meade.................................         $5,800,000
+Missouri........................................  Fort Leonard Wood..........................         $7,850,000
+New Jersey......................................  Fort Monmouth..............................        $20,000,000
+New Mexico......................................  White Sands Missile Range..................         $7,600,000
+New York........................................  Fort Drum..................................        $37,850,000
+North Carolina..................................  Fort Bragg.................................        $21,300,000
+                                                  Sunny Point Military Ocean Terminal........        $11,400,000
+Oklahoma........................................  Fort Sill..................................        $40,100,000
+South Carolina..................................  Fort Jackson...............................        $62,000,000
+Texas...........................................  Fort Hood..................................        $86,200,000
+                                                  Fort Sam Houston...........................         $2,250,000
+Virginia........................................  Fort Belvoir...............................        $35,950,000
+                                                  Fort Eustis................................        $34,650,000
+                                                  Fort Lee...................................        $23,900,000
+Washington......................................  Fort Lewis.................................       $238,200,000
+                                                                                              ------------------
+                                                      Total:.................................     $1,279,500,000
+----------------------------------------------------------------------------------------------------------------
+
+
+    (b) Outside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2104(a)(2), the 
+Secretary of the Army may acquire real property and carry out military 
+construction projects for the locations outside the United States, and 
+in the amounts, set forth in the following table:
+
+
+                     Army: Outside the United States
+------------------------------------------------------------------------
+                                     Installation or
+            Country                      location             Amount
+------------------------------------------------------------------------
+Germany........................  Area Support Group,         $36,000,000
+                                  Bamberg.
+                                 Area Support Group,         $13,500,000
+                                  Darmstadt.
+                                 Baumholder.............      $9,000,000
+                                 Hanau..................      $7,200,000
+                                 Heidelberg.............     $15,300,000
+                                 Mannheim...............     $16,000,000
+                                 Wiesbaden Air Base.....     $26,300,000
+Korea..........................  Camp Carroll...........     $16,593,000
+                                 Camp Casey.............      $8,500,000
+                                 Camp Hovey.............     $35,750,000
+                                 Camp Humphreys.........     $14,500,000
+                                 Camp Jackson...........      $6,100,000
+                                 Camp Stanley...........     $28,000,000
+Kwajalein......................  Kwajalein Atoll........     $11,000,000
+                                                         ---------------
+                                     Total:.............    $243,743,000
+------------------------------------------------------------------------
+
+    (c) Unspecified Worldwide.--Using amounts appropriated pursuant to 
+the authorization of appropriations in section 2104(a)(3), the 
+Secretary of the Army may acquire real property and carry out military 
+construction projects for the installation and location, and in the 
+amount, set forth in the following table:
+
+
+                       Army: Unspecified Worldwide
+------------------------------------------------------------------------
+            Location                   Installation           Amount
+------------------------------------------------------------------------
+Unspecified Worldwide..........  Classified Location....      $4,000,000
+------------------------------------------------------------------------
+
+SEC. 2102. FAMILY HOUSING.
+
+    (a) Construction and Acquisition.--Using amounts appropriated 
+pursuant to the authorization of appropriations in section 
+2104(a)(6)(A), the Secretary of the Army may construct or acquire 
+family housing units (including land acquisition) at the installations, 
+for the purposes, and in the amounts set forth in the following table:
+
+
+                                              Army: Family Housing
+----------------------------------------------------------------------------------------------------------------
+            State or county              Installation or location             Purpose                 Amount
+----------------------------------------------------------------------------------------------------------------
+Alaska................................  Fort Wainwright..........  32 Units.....................     $12,000,000
+Arizona...............................  Fort Huachuca............  72 Units.....................     $10,800,000
+Kansas................................  Fort Leavenworth.........  40 Units.....................     $20,000,000
+Texas.................................  Fort Bliss...............  76 Units.....................     $13,600,000
+                                        Fort Sam Houston.........  80 Units.....................     $11,200,000
+Korea.................................  Camp Humphreys...........  54 Units.....................     $12,800,000
+                                                                                                 ---------------
+                                            Total:...............  .............................     $80,400,000
+----------------------------------------------------------------------------------------------------------------
+
+    (b) Planning and Design.--Using amounts appropriated pursuant to 
+the authorization of appropriations in section 2104(a)(6)(A), the 
+Secretary of the Army may carry out architectural and engineering 
+services and construction design activities with respect to the 
+construction or improvement of family housing units in an amount not to 
+exceed $12,702,000.
+
+SEC. 2103. IMPROVEMENTS TO MILITARY FAMILY HOUSING UNITS.
+
+    Subject to section 2825 of title 10, United States Code, and using 
+amounts appropriated pursuant to the authorization of appropriations in 
+section 2104(a)(6)(A), the Secretary of the Army may improve existing 
+military family housing units in an amount not to exceed $220,750,000.
+
+SEC. 2104. AUTHORIZATION OF APPROPRIATIONS, ARMY.
+
+    (a) In General.--Funds are hereby authorized to be appropriated for 
+fiscal years beginning after September 30, 2001, for military 
+construction, land acquisition, and military family housing functions 
+of the Department of the Army in the total amount of $3,068,303,000, as 
+follows:
+            (1) For military construction projects inside the United 
+        States authorized by section 2101(a), $1,027,300,000.
+            (2) For military construction projects outside the United 
+        States authorized by section 2101(b), $243,743,000.
+            (3) For military construction projects at unspecified 
+        worldwide locations authorized by section 2101(c), $4,000,000.
+            (4) For unspecified minor construction projects authorized 
+        by section 2805 of title 10, United States Code, $18,000,000.
+            (5) For architectural and engineering services and 
+        construction design under section 2807 of title 10, United 
+        States Code, $142,198,000.
+            (6) For military family housing functions:
+                    (A) For construction and acquisition, planning and 
+                design, and improvement of military family housing and 
+                facilities, $313,852,000.
+                    (B) For support of military family housing 
+                (including the functions described in section 2833 of 
+                title 10, United States Code), $1,108,991,000.
+            (7) For the Homeowners Assistance Program, as authorized by 
+        section 2832 of title 10, United States Code, $10,119,000, to 
+        remain available until expended.
+            (8) For the construction of the Cadet Development Center, 
+        United States Military Academy, West Point, New York, 
+        authorized in section 2101(a) of the Military Construction 
+        Authorization Act for Fiscal Year 1999 (division B of Public 
+        Law 105-261; 112 Stat. 2182), $37,900,000.
+            (9) For the construction of a Barracks Complex--Tagaytay 
+        Street Phase 2C, Fort Bragg, North Carolina, authorized in 
+        section 2101(a) of the Military Construction Authorization Act 
+        for Fiscal Year 2000 (division B of Public Law 106-65; 113 
+        Stat. 824), $17,500,000.
+            (10) For the construction of a Barracks Complex--Wilson 
+        Street, Phase 1C, Schofield Barracks, Hawaii, authorized in 
+        section 2101(a) of the Military Construction Authorization Act 
+        for Fiscal Year 2000 (113 Stat. 824), $23,000,000.
+            (11) For construction of a Basic Combat Training Complex 
+        Phase 2, Fort Leonard Wood, Missouri, authorized in section 
+        2101(a) of the Military Construction Authorization Act for 
+        Fiscal Year 2001 (division B of the Floyd D. Spence National 
+        Defense Authorization Act for Fiscal Year 2001 (as enacted by 
+        Public Law 106-398); 114 Stat. 1654A-389), $27,000,000.
+            (12) For the construction of the Battle Simulation Center 
+        Phase 2, Fort Drum, New York, authorized in section 2101(a) of 
+        the Military Construction Authorization Act for Fiscal Year 
+        2001 (114 Stat. 1654A-389), $9,000,000.
+            (13) For the construction of a Barracks Complex--Bunter 
+        Road Phase 2, Fort Bragg, North Carolina, authorized in section 
+        2101(a) of the Military Construction Authorization Act for 
+        Fiscal Year 2001 (114 Stat. 1654A-389), $49,000,000.
+            (14) For the construction of a Barracks Complex--Longstreet 
+        Road Phase 2, Fort Bragg, North Carolina, authorized in section 
+        2101(a) of the Military Construction Authorization Act for 
+        Fiscal Year 2001 (114 Stat. 1654A-389), $27,000,000.
+            (15) For the construction of a Multipurpose Digital 
+        Training Range, Fort Hood, Texas, authorized in section 2101(a) 
+        of the Military Construction Authorization Act for Fiscal Year 
+        2001 (114 Stat. 1654A-389), $13,000,000.
+    (b) Limitation on Total Cost of Construction Projects.--
+Notwithstanding the cost variations authorized by section 2853 of title 
+10, United States Code, and any other cost variation authorized by law, 
+the total cost of all projects carried out under section 2101 of this 
+Act may not exceed--
+            (1) the total amount authorized to be appropriated under 
+        paragraphs (1), (2), and (3) of subsection (a);
+            (2) $52,000,000 (the balance of the amount authorized under 
+        section 2101(a) for Barracks Complex D Street Phase at Fort 
+        Richardson, Alaska);
+            (3) $41,000,000 (the balance of the amount authorized under 
+        section 2101(a) for Barracks Complex--Nelson Boulevard (Phase 
+        I) at Fort Carson, Colorado);
+            (4) $36,000,000 (the balance of the amount authorized under 
+        section 2101(a) for Basic Combat Training Complex (Phase I) at 
+        Fort Jackson, South Carolina);
+            (5) $102,000,000 (the balance of the amount authorized 
+        under section 2101(a) for Barracks Complex--17th & B Street 
+        (Phase I) at Fort Lewis, Washington); and
+            (6) $21,500,000 (the balance of the amount authorized under 
+        section 2101(a) for Consolidated Logistics Complex (Phase I) at 
+        Fort Sill, Oklahoma).
+    (c) Adjustment.--The total amount authorized to be appropriated 
+pursuant to paragraphs (1) through (7) of subsection (a) is the sum of 
+the amounts authorized to be appropriated in such paragraphs reduced by 
+$3,300,000, which represents savings resulting from adjustments to 
+foreign currency exchange rates for military family housing 
+construction and military family housing support outside the United 
+States.
+
+SEC. 2105. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              2001 PROJECTS.
+
+    (a) Modification.--The table in section 2101(a) of the Military 
+Construction Authorization Act for Fiscal Year 2001 (division B of the 
+Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 
+(as enacted by Public Law 106-398); 114 Stat. 1654A-389) is amended--
+            (1) in the item relating to Fort Leonard Wood, Missouri, by 
+        striking ``$65,400,000'' in the amount column and inserting 
+        ``$69,800,000'';
+            (2) in the item relating to Fort Drum, New York, by 
+        striking ``$18,000,000'' in the amount column and inserting 
+        ``$21,000,000'';
+            (3) in the item relating to Fort Hood, Texas, by striking 
+        ``$36,492,000'' in the amount column and inserting 
+        ``$39,492,000''; and
+            (4) by striking the amount identified as the total in the 
+        amount column and inserting ``$626,374,000''.
+    (b) Conforming Amendments.--Section 2104 of that Act (114 Stat. 
+1654A-391) is amended--
+            (1) in subsection (a), in the matter preceding paragraph 
+        (1), by striking ``$1,925,344,000'' and inserting 
+        ``$1,935,744,000''; and
+            (2) in subsection (b)--
+                    (A) in paragraph (2), by striking ``$22,600,000'' 
+                and inserting ``$27,000,000'';
+                    (B) in paragraph (3), by striking ``$10,000,000'' 
+                and inserting ``$13,000,000''; and
+                    (C) in paragraph (6), by striking ``$6,000,000'' 
+                and inserting ``$9,000,000''.
+
+                            TITLE XXII--NAVY
+
+SEC. 2201. AUTHORIZED NAVY CONSTRUCTION AND LAND ACQUISITION PROJECTS.
+
+    (a) Inside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2204(a)(1), the 
+Secretary of the Navy may acquire real property and carry out military 
+construction projects for the installations and locations inside the 
+United States, and in the amounts, set forth in the following table:
+
+
+                     Navy: Inside the United States
+------------------------------------------------------------------------
+                                     Installation or
+             State                       location             Amount
+------------------------------------------------------------------------
+Arizona........................  Marine Corps Air            $22,570,000
+                                  Station, Yuma.
+California.....................  Marine Air-Ground Task      $75,125,000
+                                  Force Training Center,
+                                  Twentynine Palms.
+                                 Marine Corps Air             $4,470,000
+                                  Station, Camp
+                                  Pendleton.
+                                 Marine Corps Base, Camp     $96,490,000
+                                  Pendleton.
+                                 Naval Air Facility, El      $23,520,000
+                                  Centro.
+                                 Naval Air Station,          $10,010,000
+                                  Lemoore.
+                                 Naval Air Warfare           $13,730,000
+                                  Center, Point Mugu,
+                                  San Nicholas Island.
+                                 Naval Amphibious Base,       $8,610,000
+                                  Coronado.
+                                 Naval Construction          $12,400,000
+                                  Battalion Center, Port
+                                  Hueneme.
+                                 Naval Construction           $3,780,000
+                                  Training Center, Port
+                                  Hueneme.
+                                 Naval Station, San          $47,240,000
+                                  Diego.
+District of Columbia...........  Naval Air Facility,          $9,810,000
+                                  Washington.
+Florida........................  Naval Air Station, Key      $11,400,000
+                                  West.
+                                 Naval Air Station,           $3,700,000
+                                  Pensacola.
+                                 Naval Air Station,           $2,140,000
+                                  Whiting Field, Milton.
+                                 Naval Station, Mayport.     $16,420,000
+Hawaii.........................  Marine Corps Base,          $24,920,000
+                                  Kaneohe.
+                                 Naval Magazine,              $6,000,000
+                                  Lualualei.
+                                 Naval Shipyard, Pearl       $20,000,000
+                                  Harbor.
+                                 Naval Station, Pearl        $54,700,000
+                                  Harbor.
+                                 Navy Public Works           $16,900,000
+                                  Center, Pearl Harbor.
+Illinois.......................  Naval Training Center,      $82,260,000
+                                  Great Lakes.
+Indiana........................  Naval Surface Warfare        $5,820,000
+                                  Center, Crane.
+Maine..........................  Naval Air Station,          $67,395,000
+                                  Brunswick.
+                                 Naval Shipyard, Kittery-    $14,620,000
+                                  Portsmouth.
+Maryland.......................  Naval Air Warfare            $2,260,000
+                                  Center, Patuxent River.
+                                 Naval Explosive              $1,250,000
+                                  Ordinance Disposal
+                                  Technology Center,
+                                  Indian Head.
+Mississippi....................  Naval Construction          $21,660,000
+                                  Battalion Center,
+                                  Gulfport.
+                                 Naval Air Station,           $3,370,000
+                                  Meridian.
+                                 Naval Station,               $4,680,000
+                                  Pascagoula.
+Missouri.......................  Marine Corp Support          $9,010,000
+                                  Activity, Kansas City.
+Nevada.........................  Naval Air Station,           $6,150,000
+                                  Fallon.
+New Jersey.....................  Naval Weapons Station,       $4,370,000
+                                  Earle.
+North Carolina.................  Marine Corps Air             $4,050,000
+                                  Station, New River.
+                                 Marine Corps Base, Camp     $67,070,000
+                                  LeJeune.
+Rhode Island...................  Naval Station, Newport.     $15,290,000
+                                 Naval Undersea Warfare       $9,370,000
+                                  Center, Newport.
+South Carolina.................  Marine Corps Air             $8,020,000
+                                  Station, Beaufort.
+                                 Marine Corps Recruit         $5,430,000
+                                  Depot, Parris Island.
+Tennessee......................  Naval Support Activity,      $3,900,000
+                                  Millington.
+Texas..........................  Naval Air Station,           $6,160,000
+                                  Kingsville.
+Virginia.......................  Marine Corps Air             $3,790,000
+                                  Facility, Quantico.
+                                 Marine Corps Combat          $9,390,000
+                                  Development Command,
+                                  Quantico.
+                                 Naval Station, Norfolk.    $139,270,000
+Washington.....................  Naval Air Station,           $7,370,000
+                                  Whidbey Island.
+                                 Naval Station, Everett.      $6,820,000
+                                 Strategic Weapons            $3,900,000
+                                  Facility, Bangor.
+                                                         ---------------
+                                     Total:.............    $996,610,000
+------------------------------------------------------------------------
+
+
+    (b) Outside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2204(a)(2), the 
+Secretary of the Navy may acquire real property and carry out military 
+construction projects for the locations outside the United States, and 
+in the amounts, set forth in the following table:
+
+
+                     Navy: Outside the United States
+------------------------------------------------------------------------
+                                     Installation or
+            Country                      location             Amount
+------------------------------------------------------------------------
+Greece.........................  Naval Support Activity      $12,240,000
+                                  Joint Headquarters
+                                  Command, Larissa.
+                                 Naval Support Activity,      $3,210,000
+                                  Souda Bay.
+Guam...........................  Naval Station, Guam....      $9,300,000
+                                 Navy Public Works           $14,800,000
+                                  Center, Guam.
+Iceland........................  Naval Air Station,           $2,820,000
+                                  Keflavik.
+Italy..........................  Naval Air Station,           $3,060,000
+                                  Sigonella.
+Spain..........................  Naval Station, Rota....      $2,240,000
+                                                         ---------------
+                                     Total:.............     $47,670,000
+------------------------------------------------------------------------
+
+SEC. 2202. FAMILY HOUSING.
+
+    (a) Construction and Acquisition.--Using amounts appropriated 
+pursuant to the authorization of appropriations in section 
+2204(a)(5)(A), the Secretary of the Navy may construct or acquire 
+family housing units (including land acquisition) at the installations, 
+for the purposes, and in the amounts set forth in the following table:
+
+
+                                              Navy: Family Housing
+----------------------------------------------------------------------------------------------------------------
+           State or country              Installation or location             Purpose                 Amount
+----------------------------------------------------------------------------------------------------------------
+Arizona...............................  Marine Corps Air Station,  51 Units.....................      $9,017,000
+                                         Yuma.
+California............................  Marine Air-Ground Task     74 Units.....................     $16,250,000
+                                         Force Training Center,
+                                         Twentynine Palms.
+Hawaii................................  Marine Corps Base,         172 Units....................     $55,187,000
+                                         Kaneohe.
+                                        Naval Station, Pearl       70 Units.....................     $16,827,000
+                                         Harbor.
+Mississippi...........................  Naval Construction         160 Units....................     $23,354,000
+                                         Battalion Center,
+                                         Gulfport.
+Italy.................................  Naval Air Station,         10 Units.....................      $2,403,000
+                                         Sigonella.
+                                                                                                 ---------------
+                                                                       Total:...................    $123,038,000
+----------------------------------------------------------------------------------------------------------------
+
+    (b) Planning and Design.--Using amounts appropriated pursuant to 
+the authorization of appropriations in section 2204(a)(5)(A), the 
+Secretary of the Navy may carry out architectural and engineering 
+services and construction design activities with respect to the 
+construction or improvement of military family housing units in an 
+amount not to exceed $6,499,000.
+
+SEC. 2203. IMPROVEMENTS TO MILITARY FAMILY HOUSING UNITS.
+
+    Subject to section 2825 of title 10, United States Code, and using 
+amounts appropriated pursuant to the authorization of appropriations in 
+section 2204(a)(5)(A), the Secretary of the Navy may improve existing 
+military family housing units in an amount not to exceed $183,054,000.
+
+SEC. 2204. AUTHORIZATION OF APPROPRIATIONS, NAVY.
+
+    (a) In General.--Funds are hereby authorized to be appropriated for 
+fiscal years beginning after September 30, 2001, for military 
+construction, land acquisition, and military family housing functions 
+of the Department of the Navy in the total amount of $2,377,634,000, as 
+follows:
+            (1) For military construction projects inside the United 
+        States authorized by section 2201(a), $963,370,000.
+            (2) For military construction projects outside the United 
+        States authorized by section 2201(b), $47,670,000.
+            (3) For unspecified minor construction projects authorized 
+        by section 2805 of title 10, United States Code, $10,546,000.
+            (4) For architectural and engineering services and 
+        construction design under section 2807 of title 10, United 
+        States Code, $35,752,000.
+            (5) For military family housing functions:
+                    (A) For construction and acquisition, planning and 
+                design, and improvement of military family housing and 
+                facilities, $312,591,000.
+                    (B) For support of military family housing 
+                (including functions described in section 2833 of title 
+                10, United States Code), $918,095,000.
+            (6) For replacement of a pier at Naval Station, San Diego, 
+        California, authorized in section 2201(a) of the Military 
+        Construction Authorization Act for Fiscal Year 2001 (division B 
+        of the Floyd D. Spence National Defense Authorization Act for 
+        Fiscal Year 2001 (as enacted by Public Law 106-398); 114 Stat. 
+        1654A-395), $17,500,000.
+            (7) For replacement of Pier Delta at Naval Station, 
+        Bremerton, Washington, authorized in section 2201(a) of the 
+        Military Construction Authorization Act for Fiscal Year 2001, 
+        $24,460,000.
+            (8) For construction of the Commander-in-Chief 
+        Headquarters, Pacific Command, Camp Smith, Hawaii, authorized 
+        in section 2201(a) of the Military Construction Authorization 
+        Act for Fiscal Year 2000 (division B of Public Law 106-65; 113 
+        Stat. 828), $37,580,000.
+            (9) For construction of an Advanced Systems Integration 
+        Facility, phase 6, at Naval Air Warfare Center, Patuxent River, 
+        Maryland, authorized in section 2201(a) of the Military 
+        Construction Authorization Act for Fiscal Year 1993 (division B 
+        of Public Law 102-484; 106 Stat. 2590), $10,770,000.
+    (b) Limitation on Total Cost of Construction Projects.--
+Notwithstanding the cost variations authorized by section 2853 of title 
+10, United States Code, and any other cost variation authorized by law, 
+the total cost of all projects carried out under section 2201 of this 
+Act may not exceed--
+            (1) the total amount authorized to be appropriated under 
+        paragraphs (1) and (2) of subsection (a); and
+            (2) $33,240,000 (the balance of the amount authorized under 
+        section 2201(a) for Pier Replacement (Increment I), Naval 
+        Station, Norfolk, Virginia).
+    (c) Adjustment.--The total amount authorized to be appropriated 
+pursuant to paragraphs (1) through (5) of subsection (a) is the sum of 
+the amounts authorized to be appropriated in such paragraphs reduced by 
+$700,000, which represents savings resulting from adjustments to 
+foreign currency exchange rates for military family housing 
+construction and military family housing support outside the United 
+States.
+
+SEC. 2205. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              2001 PROJECTS.
+
+    The table in section 2201(a) of the Military Construction 
+Authorization Act for Fiscal Year 2001 (division B of the Floyd D. 
+Spence National Defense Authorization Act for Fiscal Year 2001 (as 
+enacted by Public Law 106-398); 114 Stat. 1654A-395) is amended--
+            (1) in the item relating to Naval Shipyard, Bremerton, 
+        Puget Sound, Washington, by striking ``$100,740,000'' in the 
+        amount column and inserting ``$98,740,000'';
+            (2) in the item relating to Naval Station, Bremerton, 
+        Washington, by striking ``$11,930,000'' in the amount column 
+        and inserting ``$1,930,000''; and
+            (3) by striking the amount identified as the total in the 
+        amount column and inserting ``$799,497,000''.
+
+SEC. 2206. MODIFICATION OF AUTHORITY TO CARRY OUT FISCAL YEAR 2000 
+              PROJECT.
+
+    (a) Modification.--The table in section 2201(a) of the Military 
+Construction Authorization Act for Fiscal Year 2000 (division B of 
+Public Law 106-65; 113 Stat. 828) is amended--
+            (1) in the item relating to Camp Smith, Hawaii, by striking 
+        ``$86,050,000'' in the amount column and inserting 
+        ``$89,050,000''; and
+            (2) by striking the amount identified as the total in the 
+        amount column and inserting ``$820,230,000''.
+    (b) Conforming Amendment.--Section 2204(b)(3) of that Act (113 
+Stat. 831) is amended by striking ``$70,180,000'' and inserting 
+``$73,180,000''.
+
+                         TITLE XXIII--AIR FORCE
+
+SEC. 2301. AUTHORIZED AIR FORCE CONSTRUCTION AND LAND ACQUISITION 
+              PROJECTS.
+
+    (a) Inside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2304(a)(1), the 
+Secretary of the Air Force may acquire real property and carry out 
+military construction projects for the installations and locations 
+inside the United States, and in the amounts, set forth in the 
+following table:
+
+
+                   Air Force: Inside the United States
+------------------------------------------------------------------------
+                                     Installation or
+             State                       location             Amount
+------------------------------------------------------------------------
+Alabama........................  Maxwell Air Force Base.     $34,400,000
+Alaska.........................  Eareckson Air Force          $4,600,000
+                                  Base.
+                                 Elmendorf Air Force         $32,200,000
+                                  Base.
+Arizona........................  Davis-Monthan Air Force     $17,300,000
+                                  Base.
+Arkansas.......................  Little Rock Air Force       $18,100,000
+                                  Base.
+California.....................  Edwards Air Force Base.     $16,300,000
+                                 Los Angeles Air Force       $23,000,000
+                                  Base.
+                                 Travis Air Force Base..     $16,400,000
+                                 Vandenberg Air Force        $11,800,000
+                                  Base.
+Colorado.......................  Buckley Air Force Base.     $23,200,000
+                                 Schriever Air Force         $19,000,000
+                                  Base.
+                                 United States Air Force     $25,500,000
+                                  Academy.
+Delaware.......................  Dover Air Force Base...      $7,300,000
+District of Columbia...........  Bolling Air Force Base.      $2,900,000
+Florida........................  Cape Canaveral Air           $7,800,000
+                                  Force Station.
+                                 Eglin Air Force Base...     $11,400,000
+                                 Hurlburt Field.........     $10,400,000
+                                 MacDill Air Force Base.     $10,000,000
+                                 Tyndall Air Force Base.     $15,050,000
+Georgia........................  Moody Air Force Base...      $8,600,000
+                                 Robins Air Force Base..     $14,650,000
+Idaho..........................  Mountain Home Air Force     $14,600,000
+                                  Base.
+Louisiana......................  Barksdale Air Force          $5,000,000
+                                  Base.
+Maryland.......................  Andrews Air Force Base.     $19,420,000
+Massachusetts..................  Hanscom Air Force Base.      $9,400,000
+Mississippi....................  Columbus Air Force Base      $5,000,000
+                                 Keesler Air Force Base.     $28,600,000
+Montana........................  Malmstrom Air Force          $4,650,000
+                                  Base.
+Nebraska.......................  Offet Air Force Base...     $10,400,000
+Nevada.........................  Nellis Air Force Base..     $31,600,000
+New Jersey.....................  McGuire Air Force Base.     $36,550,000
+New Mexico.....................  Cannon Air Force Base..      $9,400,000
+                                 Kirtland Air Force Base     $15,500,000
+North Carolina.................  Pope Air Force Base....     $17,800,000
+North Dakota...................  Grand Forks Air Force        $7,800,000
+                                  Base.
+Ohio...........................  Wright-Patterson Air        $24,850,000
+                                  Force Base.
+Oklahoma.......................  Altus Air Force Base...     $20,200,000
+                                 Tinker Air Force Base..     $21,400,000
+                                 Vance Air Force Base...      $4,800,000
+South Carolina.................  Shaw Air Force Base....      $5,800,000
+South Dakota...................  Ellsworth Air Force         $12,000,000
+                                  Base.
+Tennessee......................  Arnold Air Force Base..     $24,400,000
+Texas..........................  Lackland Air Force Base     $12,800,000
+                                 Laughlin Air Force Base     $12,000,000
+                                 Sheppard Air Force Base     $37,000,000
+Utah...........................  Hill Air Force Base....     $14,000,000
+Virginia.......................  Langley Air Force Base.     $47,300,000
+Washington.....................  Fairchild Air Force          $2,800,000
+                                  Base.
+                                 McChord Air Force Base.     $20,700,000
+Wyoming........................  F.E. Warren Air Force       $10,200,000
+                                  Base.
+                                                         ---------------
+                                     Total:.............    $811,370,000
+------------------------------------------------------------------------
+
+    (b) Outside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2304(a)(2), the 
+Secretary of the Air Force may acquire real property and carry out 
+military construction projects for the installations and locations 
+outside the United States, and in the amounts, set forth in the 
+following table:
+
+
+                  Air Force: Outside the United States
+------------------------------------------------------------------------
+                                     Installation or
+            Country                      location             Amount
+------------------------------------------------------------------------
+Germany........................  Ramstein Air Force Base     $42,900,000
+                                 Spangdahlem Air Base...      $8,700,000
+Guam...........................  Andersen Air Force Base     $10,150,000
+Italy..........................  Aviano Air Base........     $11,800,000
+Korea..........................  Kunsan Air Base........     $12,000,000
+                                 Osan Air Base..........    $101,142,000
+Oman...........................  Masirah Island.........      $8,000,000
+Turkey.........................  Eskisehir..............      $4,000,000
+United Kingdom.................  Royal Air Force,            $11,300,000
+                                  Lakenheath.
+                                 Royal Air Force,            $22,400,000
+                                  Mildenhall.
+Wake Island....................  Wake Island............     $25,000,000
+                                                         ---------------
+                                     Total:.............    $257,392,000
+------------------------------------------------------------------------
+
+    (c) Unspecified Worldwide.--Using the amounts appropriated pursuant 
+to the authorization of appropriations in section 2304(a)(3), the 
+Secretary of the Air Force may acquire real property and carry out 
+military construction projects for the installation and location and in 
+the amount, set forth in the following table:
+
+
+                    Air Force: Unspecified Worldwide
+------------------------------------------------------------------------
+            Location                   Installation           Amount
+------------------------------------------------------------------------
+Unspecified Worldwide..........  Classified Location....      $4,458,000
+------------------------------------------------------------------------
+
+SEC. 2302. FAMILY HOUSING.
+
+    (a) Construction and Acquisition.--Using amounts appropriated 
+pursuant to the authorization of appropriations in section 
+2304(a)(6)(A), the Secretary of the Air Force may construct or acquire 
+family housing units (including land acquisition) at the installations, 
+for the purposes, and in the amounts set forth in the following table:
+
+
+                                            Air Force: Family Housing
+----------------------------------------------------------------------------------------------------------------
+           State or country              Installation or location             Purpose                 Amount
+----------------------------------------------------------------------------------------------------------------
+Arizona...............................  Luke Air Force Base......  120 Units....................     $15,712,000
+California............................  Travis Air Force Base....  118 Units....................     $18,150,000
+Colorado..............................  Buckley Air Force Base...  55 Units.....................     $11,400,000
+Delaware..............................  Dover Air Force Base.....  120 Units....................     $18,145,000
+District of Columbia..................  Bolling Air Force Base...  136 Units....................     $16,926,000
+Hawaii................................  Hickam Air Force Base....  102 Units....................     $25,037,000
+Louisiana.............................  Barksdale Air Force Base.  56 Units.....................      $7,300,000
+South Dakota..........................  Ellsworth Air Force Base.  78 Units.....................     $13,700,000
+Virginia..............................  Langley Air Force Base...  4 Units......................      $1,200,000
+Portugal..............................  Lajes Field, Azores......  64 Units.....................     $13,230,000
+                                                                                                 ---------------
+                                                                       Total:...................    $140,800,000
+----------------------------------------------------------------------------------------------------------------
+
+    (b) Planning and Design.--Using amounts appropriated pursuant to 
+the authorization of appropriations in section 2304(a)(6)(A), the 
+Secretary of the Air Force may carry out architectural and engineering 
+services and construction design activities with respect to the 
+construction or improvement of military family housing units in an 
+amount not to exceed $24,558,000.
+
+SEC. 2303. IMPROVEMENTS TO MILITARY FAMILY HOUSING UNITS.
+
+    Subject to section 2825 of title 10, United States Code, and using 
+amounts appropriated pursuant to the authorization of appropriations in 
+section 2304(a)(6)(A), the Secretary of the Air Force may improve 
+existing military family housing units in an amount not to exceed 
+$375,379,000.
+
+SEC. 2304. AUTHORIZATION OF APPROPRIATIONS, AIR FORCE.
+
+    (a) In General.--Funds are hereby authorized to be appropriated for 
+fiscal years beginning after September 30, 2001, for military 
+construction, land acquisition, and military family housing functions 
+of the Department of the Air Force in the total amount of 
+$2,587,791,000, as follows:
+            (1) For military construction projects inside the United 
+        States authorized by section 2301(a), $816,070,000.
+            (2) For military construction projects outside the United 
+        States authorized by section 2301(b), $257,392,000.
+            (3) For the military construction projects at unspecified 
+        worldwide locations authorized by section 2301(c), $4,458,000.
+            (4) For unspecified minor construction projects authorized 
+        by section 2805 of title 10, United States Code, $11,250,000.
+            (5) For architectural and engineering services and 
+        construction design under section 2807 of title 10, United 
+        States Code, $90,419,000.
+            (6) For military housing functions:
+                    (A) For construction and acquisition, planning and 
+                design, and improvement of military family housing and 
+                facilities, $542,381,000.
+                    (B) For support of military family housing 
+                (including functions described in section 2833 of title 
+                10, United States Code), $869,121,000.
+    (b) Limitation on Total Cost of Construction Projects.--
+Notwithstanding the cost variations authorized by section 2853 of title 
+10, United States Code, and any other cost variation authorized by law, 
+the total cost of all projects carried out under section 2301 of this 
+Act may not exceed the total amount authorized to be appropriated under 
+paragraphs (1), (2), and (3) of subsection (a).
+    (c) Adjustment.--The total amount authorized to be appropriated 
+pursuant to paragraphs (1) through (6) of subsection (a) is the sum of 
+the amounts authorized to be appropriated in such paragraphs reduced by 
+$3,300,000, which represents savings resulting from adjustments to 
+foreign currency exchange rates for military family housing 
+construction and military family housing support outside the United 
+States.
+
+SEC. 2305. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              2001 PROJECT.
+
+    The table in section 2302(a) of the Military Construction 
+Authorization Act for Fiscal Year 2001 (division B of the Floyd D. 
+Spence National Defense Authorization Act for Fiscal Year 2001 (as 
+enacted by Public Law 106-398); 114 Stat. 1654A-400) is amended in the 
+item relating to Mountain Home Air Force Base, Idaho, by striking ``119 
+Units'' in the purpose column and inserting ``46 Units''.
+
+                      TITLE XXIV--DEFENSE AGENCIES
+
+SEC. 2401. AUTHORIZED DEFENSE AGENCIES CONSTRUCTION AND LAND 
+              ACQUISITION PROJECTS.
+
+    (a) Inside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2403(a)(1), the 
+Secretary of Defense may acquire real property and carry out military 
+construction projects for the installations and locations inside the 
+United States, and in the amounts, set forth in the following table:
+
+
+               Defense Agencies: Inside the United States
+------------------------------------------------------------------------
+                                     Installation or
+             Agency                      location             Amount
+------------------------------------------------------------------------
+Defense Education Activity.....  Laurel Bay, South           $12,850,000
+                                  Carolina..............
+                                 Marine Corps Base, Camp      $8,857,000
+                                  LeJeune, North
+                                  Carolina..............
+Defense Logistics Agency.......  Defense Distribution        $30,000,000
+                                  Depot Tracy,
+                                  California............
+                                 Defense Distribution        $19,900,000
+                                  Depot, Susquehanna,
+                                  New Cumberland,
+                                  Pennsylvania..........
+                                 Eielson Air Force Base,      $8,800,000
+                                  Alaska................
+                                 Fort Belvoir, Virginia.        $900,000
+                                 Grand Forks Air Force        $9,110,000
+                                  Base, North Dakota....
+                                 Hickam Air Force Base,      $29,200,000
+                                  Hawaii................
+                                 McGuire Air Force Base,      $4,400,000
+                                  New Jersey............
+                                 Minot Air Force Base,       $14,000,000
+                                  North Dakota..........
+                                 Philadelphia,                $2,429,000
+                                  Pennsylvania..........
+                                 Pope Air Force Base,         $3,400,000
+                                  North Carolina........
+Special Operations Command.....  Aberdeen Proving             $3,200,000
+                                  Ground, Maryland......
+                                 Fort Benning, Georgia..      $5,100,000
+                                 Fort Bragg, North           $33,562,000
+                                  Carolina..............
+                                 Fort Lewis, Washington.      $6,900,000
+                                 Hurlburt Field, Florida     $13,400,000
+                                 MacDill Air Force Base,     $12,000,000
+                                  Florida...............
+                                 Naval Station, San          $13,650,000
+                                  Diego, California.....
+                                 CONUS Classified.......      $2,400,000
+TRICARE Management Activity....  Andrews Air Force Base,     $10,250,000
+                                  Maryland..............
+                                 Dyess Air Force Base,        $3,300,000
+                                  Texas.................
+                                 F.E. Warren Air Force        $2,700,000
+                                  Base, Wyoming.........
+                                 Fort Hood, Texas.......     $12,200,000
+                                 Fort Stewart/Hunter         $11,000,000
+                                  Army Air Field,
+                                  Georgia...............
+                                 Holloman Air Force           $5,700,000
+                                  Base, New Mexico......
+                                 Hurlburt Field, Florida      $8,800,000
+                                 Marine Corps Base, Camp     $15,300,000
+                                  Pendleton, California.
+                                 Marine Corps Logistics       $5,800,000
+                                  Base, Albany, Georgia.
+                                 Naval Air Station,           $6,600,000
+                                  Whidbey Island,
+                                  Washington............
+                                 Naval Hospital,              $1,600,000
+                                  Twentynine Palms,
+                                  California............
+                                 Naval Station, Mayport,     $24,000,000
+                                  Florida...............
+                                 Naval Station, Norfolk,     $21,000,000
+                                  Virginia..............
+                                 Schriever Air Force          $4,000,000
+                                  Base, Colorado........
+Washington Headquarters          Pentagon Reservation,       $25,000,000
+ Services.                        Virginia..............
+                                                         ---------------
+                                     Total:.............    $391,308,000
+------------------------------------------------------------------------
+
+
+    (b) Outside the United States.--Using amounts appropriated pursuant 
+to the authorization of appropriations in section 2403(a)(2), the 
+Secretary of Defense may acquire real property and carry out military 
+construction projects for the installations and locations outside the 
+United States, and in the amounts, set forth in the following table:
+
+
+               Defense Agencies: Outside the United States
+------------------------------------------------------------------------
+                                     Installation or
+             Agency                      location             Amount
+------------------------------------------------------------------------
+Defense Education Activity.....  Aviano Air Base, Italy.      $3,647,000
+                                 Geilenkirchen, Germany.      $1,733,000
+                                 Heidelberg, Germany....      $3,312,000
+                                 Kaiserslautern, Germany      $1,439,000
+                                 Kitzingen, Germany.....      $1,394,000
+                                 Landstuhl, Germany.....      $1,444,000
+                                 Ramstein Air Base,           $2,814,000
+                                  Germany...............
+                                 Royal Air Force,            $22,132,000
+                                  Feltwell, United
+                                  Kingdom...............
+                                 Vogelweh Annex, Germany      $1,558,000
+                                 Wiesbaden Air Base,          $1,378,000
+                                  Germany...............
+                                 Wuerzburg, Germany.....      $2,684,000
+Defense Logistics Agency.......  Andersen Air Force          $20,000,000
+                                  Base, Guam............
+                                 Camp Casey, Korea......      $5,500,000
+                                 Naval Station, Rota,         $3,000,000
+                                  Spain.................
+                                 Yokota Air Base, Japan.     $13,000,000
+Office of Secretary of Defense.  Comalapa Air Base, El       $12,577,000
+                                  Salvador..............
+TRICARE Management Activity....  Heidelberg, Germany....     $28,000,000
+                                 Lajes Field, Azores,         $3,750,000
+                                  Portugal..............
+                                 Thule, Greenland.......     $10,800,000
+                                                         ---------------
+                                     Total:.............    $140,162,000
+------------------------------------------------------------------------
+
+SEC. 2402. ENERGY CONSERVATION PROJECTS.
+
+    Using amounts appropriated pursuant to the authorization of 
+appropriations in section 2405(a)(6), the Secretary of Defense may 
+carry out energy conservation projects under section 2865 of title 10, 
+United States Code, in the amount of $35,600,000.
+
+SEC. 2403. AUTHORIZATION OF APPROPRIATIONS, DEFENSE AGENCIES.
+
+    (a) In General.--Funds are hereby authorized to be appropriated for 
+fiscal years beginning after September 30, 2001, for military 
+construction, land acquisition, and military family housing functions 
+of the Department of Defense (other than the military departments), in 
+the total amount of $1,492,956,000, as follows:
+            (1) For military construction projects inside the United 
+        States authorized by section 2401(a), $391,308,000.
+            (2) For military construction projects outside the United 
+        States authorized by section 2401(b), $140,162,000.
+            (3) For unspecified minor construction projects under 
+        section 2805 of title 10, United States Code, $24,492,000.
+            (4) For contingency construction projects of the Secretary 
+        of Defense under section 2804 of title 10, United States Code, 
+        $10,000,000.
+            (5) For architectural and engineering services and 
+        construction design under section 2807 of title 10, United 
+        States Code, $87,382,000.
+            (6) For energy conservation projects authorized by section 
+        2402 of this Act, $35,600,000.
+            (7) For base closure and realignment activities as 
+        authorized by the Defense Base Closure and Realignment Act of 
+        1990 (part A of title XXIX of Public Law 101-510; 10 U.S.C. 
+        2687 note), $592,200,000.
+            (8) For military family housing functions:
+                    (A) For improvement of military family housing and 
+                facilities, $250,000.
+                    (B) For support of military family housing 
+                (including functions described in section 2833 of title 
+                10, United States Code), $43,762,000 of which not more 
+                than $37,298,000 may be obligated or expended for the 
+                leasing of military family housing units worldwide.
+                    (C) For credit to the Department of Defense Family 
+                Housing Improvement Fund established by section 
+                2883(a)(1) of title 10, United States Code, $2,000,000.
+            (9) For construction of the Ammunition Demilitarization 
+        Facility Phase 6, Pine Bluff Arsenal, Arkansas, authorized in 
+        section 2401(a) of the Military Construction Authorization Act 
+        for Fiscal Year 1995 (division B of Public Law 103-337; 108 
+        Stat. 3040), as amended by section 2407 of the Military 
+        Construction Authorization Act for Fiscal Year 1996 (division B 
+        of Public Law 104-106; 110 Stat. 538), section 2408 of the 
+        Military Construction Authorization Act for Fiscal Year 1998 
+        (division B of Public Law 105-85; 111 Stat. 1982), section 2406 
+        of the Military Construction Authorization Act for Fiscal Year 
+        1999 (division B of Public Law 105-261; 112 Stat. 2197), and 
+        section 2408 of this Act, $26,000,000.
+            (10) For construction of the Ammunition Demilitarization 
+        Facility Phase 3, Pueblo Army Depot, Colorado, authorized in 
+        section 2401(a) of the Military Construction Authorization Act 
+        for Fiscal Year 1997 (division B of Public Law 104-201; 110 
+        Stat. 2775), as amended by section 2406 of the Military 
+        Construction Authorization Act for Fiscal Year 2000 (division B 
+        of Public Law 106-65; 113 Stat. 839), $11,000,000.
+            (11) For construction of the Ammunition Demilitarization 
+        Facility Phase 4, Newport Army Depot, Indiana, authorized in 
+        section 2401(a) of the Military Construction Authorization Act 
+        for Fiscal Year 1999 (division B of Public Law 105-261; 112 
+        Stat. 2193), $66,000,000.
+            (12) For construction of the Ammunition Demilitarization 
+        Facility phase 4, Aberdeen Proving Ground, Maryland, authorized 
+        in section 2401(a) of the Military Construction Authorization 
+        Act for Fiscal Year 1999 (112 Stat. 2193), as amended by 
+        section 2407 of this Act, $66,500,000.
+            (13) For construction of the Ammunition Demilitarization 
+        Facility Phase 2, Blue Grass Army Depot, Kentucky, authorized 
+        in section 2401(a) of the Military Construction Authorization 
+        Act for Fiscal Year 2000 (division B of Public Law 106-65; 113 
+        Stat. 835), as amended by section 2406 of this Act, $3,000,000.
+    (b) Limitation on Total Cost of Construction Projects.--
+Notwithstanding the cost variations authorized by section 2853 of title 
+10, United States Code, and any other cost variation authorized by law, 
+the total cost of all projects carried out under section 2401 of this 
+Act may not exceed the total amount authorized to be appropriated under 
+paragraphs (1) and (2) of subsection (a).
+    (c) Adjustment.--The total amount authorized to be appropriated 
+pursuant to paragraphs (1) through (8) of subsection (a) is the sum of 
+the amounts authorized to be appropriated in such paragraphs reduced by 
+$1,700,000, which represents savings resulting from adjustments to 
+foreign currency exchange rates for military family housing 
+construction and military family housing support outside the United 
+States.
+
+SEC. 2404. CANCELLATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              2001 PROJECTS.
+
+    (a) Cancellation of Projects at Camp Pendleton, California.--(1) 
+The table in section 2401(a) of the Military Construction Authorization 
+Act for Fiscal Year 2001 (division B of the Floyd D. Spence National 
+Defense Authorization Act for Fiscal Year 2001 (as enacted by Public 
+Law 106-398); 114 Stat. 1654A-402) is amended--
+            (A) by striking the item relating to Marine Corps Base, 
+        Camp Pendleton, California, under the heading TRICARE 
+        Management Activity; and
+            (B) by striking the amount identified as the total in the 
+        amount column and inserting ``$242,756,000''.
+    (2) Of the amount authorized to be appropriated by section 2403(a) 
+of that Act (114 Stat. 1654A-404), and paragraph (1) of that section, 
+$14,150,000 shall be available for purposes relating to construction of 
+the Portsmouth Naval Hospital, Virginia, as authorized by section 
+2401(a) of the Military Construction Authorization Act for Fiscal Years 
+1990 and 1991 (division B of Public Law 101-189). Such amount is the 
+amount authorized to be appropriated by section 2403(a) of the Military 
+Construction Authorization Act for Fiscal Year 2001 for purposes 
+authorized in section 2401(a) of that Act relating to Marine Corps 
+Base, Camp Pendleton, California.
+    (b) Conforming Amendments.--Section 2403(a) of that Act is 
+amended--
+            (1) in the matter preceding paragraph (1), by striking 
+        ``$1,883,902,000'' and inserting ``$1,828,902,000''; and
+            (2) in paragraph (3), by striking ``$85,095,000'' and 
+        inserting ``$30,095,000''.
+
+SEC. 2405. CANCELLATION OF AUTHORITY TO CARRY OUT ADDITIONAL FISCAL 
+              YEAR 2001 PROJECT.
+
+    (a) Cancellation of Authority.--Section 2401(c) the Military 
+Construction Authorization Act for Fiscal Year 2001 (division B of the 
+Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 
+(as enacted by Public Law 106-398); 114 Stat. 1654A-404) is amended by 
+striking ``$451,135,000'' and inserting ``$30,095,000''.
+    (b) Conforming Amendments.--Section 2403 of that Act is amended--
+            (1) in subsection (a)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``$1,883,902,000'' and inserting 
+                ``$1,828,902,000''; and
+                    (B) in paragraph (3), by striking ``$85,095,000'' 
+                and inserting ``$30,095,000''; and
+            (2) in subsection (b), by striking ``may not exceed--'' and 
+        all that follows through the end of the subsection and 
+        inserting ``may not exceed the total amount authorized to be 
+        appropriated under paragraphs (1) and (2) of subsection (a).''.
+
+SEC. 2406. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              2000 PROJECTS.
+
+    (a) Modification.--The table in section 2401(a) of the Military 
+Construction Authorization Act for Fiscal Year 2000 (division B of 
+Public Law 106-65; 113 Stat. 835) is amended--
+            (1) in the item under the heading Chemical Demilitarization 
+        relating to Blue Grass Army Depot, Kentucky, by striking 
+        ``$206,800,000'' and inserting ``$254,030,000'';
+            (2) under the heading relating to TRICARE Management 
+        Agency--
+                    (A) in the item relating to Fort Wainwright, 
+                Alaska, by striking ``$133,000,000'' and inserting 
+                ``$215,000,000''; and
+                    (B) by striking the item relating to Naval Air 
+                Station, Whidbey Island, Washington; and
+            (3) by striking the amount identified as the total in the 
+        amount column and inserting ``$711,950,000''.
+    (b) Conforming Amendments.--Section 2405(b) of that Act (113 Stat. 
+839) is amended--
+            (1) in paragraph (2), by striking ``$115,000,000'' and 
+        inserting ``$197,000,000''; and
+            (2) in paragraph (3), by striking ``$184,000,000'' and 
+        inserting ``$231,230,000''.
+    (c) Treatment of Authorization of Appropriations for Canceled 
+Project.--Of the amount authorized to be appropriated by section 
+2405(a) of that Act (113 Stat. 837), and paragraph (1) of that section, 
+$4,700,000 shall be available for purposes relating to construction of 
+the Portsmouth Naval Hospital, Virginia, as authorized by section 
+2401(a) of the Military Construction Authorization Act for Fiscal Years 
+1990 and 1991 (division B of Public Law 101-189). Such amount is the 
+amount authorized to be appropriated by section 2405(a) of the Military 
+Construction Authorization Act for Fiscal Year 2000 for purposes 
+authorized in section 2401(a) of that Act relating to Naval Air 
+Station, Whidbey Island, Washington.
+
+SEC. 2407. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              1999 PROJECT.
+
+    (a) Modification.--The table in section 2401(a) of the Military 
+Construction Authorization Act for Fiscal Year 1999 (division B of 
+Public Law 105-261; 112 Stat. 2193) is amended--
+            (1) in the item under the agency heading Chemical 
+        Demilitarization relating to Aberdeen Proving Ground, Maryland, 
+        by striking ``$186,350,000'' in the amount column and inserting 
+        ``$223,950,000''; and
+            (2) by striking the amount identified as the total in the 
+        amount column and inserting ``$727,616,000''.
+    (b) Conforming Amendment.--Section 2404(b)(3) of that Act (112 
+Stat. 2196) is amended by striking ``$158,000,000'' and inserting 
+``$195,600,000''.
+
+SEC. 2408. MODIFICATION OF AUTHORITY TO CARRY OUT CERTAIN FISCAL YEAR 
+              1995 PROJECT.
+
+    The table in section 2401 of the Military Construction 
+Authorization Act for Fiscal Year 1995 (division B of Public Law 103-
+337; 108 Stat. 3040), as amended by section 2407 of the Military 
+Construction Authorization Act for Fiscal Year 1996 (division B of 
+Public Law 104-106; 110 Stat. 539), section 2408 of the Military 
+Construction Authorization Act for Fiscal Year 1998 (division B of 
+Public Law 105-85; 111 Stat. 1982), and section 2406 of the Military 
+Construction Authorization Act for Fiscal Year 1999 (division B of 
+Public Law 105-261; 112 Stat. 2197), is further amended under the 
+agency heading relating to Chemical Weapons and Munitions Destruction 
+in the item relating to Pine Bluff Arsenal, Arkansas, by striking 
+``$154,400,000'' in the amount column and inserting ``$177,400,000''.
+
+   TITLE XXV--NORTH ATLANTIC TREATY ORGANIZATION SECURITY INVESTMENT 
+                                PROGRAM
+
+SEC. 2501. AUTHORIZED NATO CONSTRUCTION AND LAND ACQUISITION PROJECTS.
+
+    The Secretary of Defense may make contributions for the North 
+Atlantic Treaty Organization Security Investment program as provided in 
+section 2806 of title 10, United States Code, in an amount not to 
+exceed the sum of the amount authorized to be appropriated for this 
+purpose in section 2502 and the amount collected from the North 
+Atlantic Treaty Organization as a result of construction previously 
+financed by the United States.
+
+SEC. 2502. AUTHORIZATION OF APPROPRIATIONS, NATO.
+
+    Funds are hereby authorized to be appropriated for fiscal years 
+beginning after September 30, 2001, for contributions by the Secretary 
+of Defense under section 2806 of title 10, United States Code, for the 
+share of the United States of the cost of projects for the North 
+Atlantic Treaty Organization Security Investment program authorized by 
+section 2501, in the amount of $162,600,000.
+
+            TITLE XXVI--GUARD AND RESERVE FORCES FACILITIES
+
+SEC. 2601. AUTHORIZED GUARD AND RESERVE CONSTRUCTION AND LAND 
+              ACQUISITION PROJECTS.
+
+    There are authorized to be appropriated for fiscal years beginning 
+after September 30, 2001, for the costs of acquisition, architectural 
+and engineering services, and construction of facilities for the Guard 
+and Reserve Forces, and for contributions therefor, under chapter 1803 
+of title 10, United States Code (including the cost of acquisition of 
+land for those facilities), the following amounts:
+            (1) For the Department of the Army--
+                    (A) for the Army National Guard of the United 
+                States, $365,240,000; and
+                    (B) for the Army Reserve, $111,404,000.
+            (2) For the Department of the Navy, for the Naval and 
+        Marine Corps Reserve, $33,641,000.
+            (3) For the Department of the Air Force--
+                    (A) for the Air National Guard of the United 
+                States, $227,232,000; and
+                    (B) for the Air Force Reserve, $53,732,000.
+
+        TITLE XXVII--EXPIRATION AND EXTENSION OF AUTHORIZATIONS
+
+SEC. 2701. EXPIRATION OF AUTHORIZATIONS AND AMOUNTS REQUIRED TO BE 
+              SPECIFIED BY LAW.
+
+    (a) Expiration of Authorizations After Three Years.--Except as 
+provided in subsection (b), all authorizations contained in titles XXI 
+through XXVI for military construction projects, land acquisition, 
+family housing projects and facilities, and contributions to the North 
+Atlantic Treaty Organization Security Investment program (and 
+authorizations of appropriations therefor) shall expire on the later 
+of--
+            (1) October 1, 2004; or
+            (2) the date of the enactment of an Act authorizing funds 
+        for military construction for fiscal year 2005.
+    (b) Exception.--Subsection (a) shall not apply to authorizations 
+for military construction projects, land acquisition, family housing 
+projects and facilities, and contributions to the North Atlantic Treaty 
+Organization Security Investment program (and authorizations of 
+appropriations therefor) for which appropriated funds have been 
+obligated before the later of--
+            (1) October 1, 2004; or
+            (2) the date of the enactment of an Act authorizing funds 
+        for fiscal year 2005 for military construction projects, land 
+        acquisition, family housing projects and facilities, or 
+        contributions to the North Atlantic Treaty Organization 
+        Security Investment program.
+
+SEC. 2702. EXTENSION OF AUTHORIZATIONS OF CERTAIN FISCAL YEAR 1999 
+              PROJECTS.
+
+    (a) Extension.--Notwithstanding section 2701 of the Military 
+Construction Authorization Act for Fiscal Year 1999 (division B of 
+Public Law 105-261; 112 Stat. 2199), authorizations set forth in the 
+tables in subsection (b), as provided in section 2302 or 2601 of that 
+Act, shall remain in effect until October 1, 2002, or the date of the 
+enactment of an Act authorizing funds for military construction for 
+fiscal year 2003, whichever is later.
+    (b) Tables.--The tables referred to in subsection (a) are as 
+follows:
+
+
+                               Air Force: Extension of 1999 Project Authorizations
+----------------------------------------------------------------------------------------------------------------
+                 State                   Installation or location             Project                 Amount
+----------------------------------------------------------------------------------------------------------------
+Delaware..............................  Dover Air Force Base.....  Replace Family Housing (55         $8,998,000
+                                                                    units).
+Florida...............................  Patrick Air Force Base...  Replace Family Housing (46         $9,692,000
+                                                                    units).
+New Mexico............................  Kirtland Air Force Base..  Replace Family Housing (37         $6,400,000
+                                                                    units).
+Ohio..................................  Wright-Patterson Air       Replace Family Housing (40         $5,600,000
+                                         Force Base.                units).
+----------------------------------------------------------------------------------------------------------------
+
+
+
+                          Army National Guard: Extension of 1999 Project Authorizations
+----------------------------------------------------------------------------------------------------------------
+                 State                   Installation or location             Project                 Amount
+----------------------------------------------------------------------------------------------------------------
+Massachusetts.........................  Westfield................  Army Aviation Support              $9,274,000
+                                                                    Facility.
+South Carolina........................  Spartanburg..............  Readiness Center.............      $5,260,000
+----------------------------------------------------------------------------------------------------------------
+
+SEC. 2703. EXTENSION OF AUTHORIZATIONS OF CERTAIN FISCAL YEAR 1998 
+              PROJECTS.
+
+    (a) Extension.--Notwithstanding section 2701 of the Military 
+Construction Authorization Act for Fiscal Year 1998 (division B of 
+Public Law 105-85; 111 Stat. 1984), authorizations set forth in the 
+tables in subsection (b), as provided in section 2102, 2202, or 2302 of 
+that Act and extended by section 2702 of the Military Construction 
+Authorization Act for Fiscal Year 2001 (division B of the Floyd D. 
+Spence National Defense Authorization Act for Fiscal Year 2001 (as 
+enacted by Public Law 106-398; 114 Stat. 1654A-408)), shall remain in 
+effect until October 1, 2002, or the date of the enactment of an Act 
+authorizing funds for military construction for fiscal year 2003, 
+whichever is later.
+    (b) Tables.--The tables referred to in subsection (a) are as 
+follows:
+
+
+                                  Army: Extension of 1998 Project Authorization
+----------------------------------------------------------------------------------------------------------------
+                 State                   Installation or location             Project                 Amount
+----------------------------------------------------------------------------------------------------------------
+Maryland..............................  Fort Meade...............  Family Housing Construction        $7,900,000
+                                                                    (56 units).
+----------------------------------------------------------------------------------------------------------------
+
+
+
+                                 Navy: Extension of 1998 Project Authorizations
+----------------------------------------------------------------------------------------------------------------
+                 State                   Installation or location             Project                 Amount
+----------------------------------------------------------------------------------------------------------------
+California............................  Naval Complex, San Diego.  Replacement Family Housing        $13,500,000
+                                                                    Construction (94 units).
+California............................  Marine Corps Air Station,  Family Housing Construction       $28,881,000
+                                         Miramar.                   (166 units).
+Louisiana.............................  Naval Complex, New         Replacement Family Housing        $11,930,000
+                                         Orleans.                   Construction (100 units).
+Texas.................................  Naval Air Station, Corpus  Family Housing Construction       $22,250,000
+                                         Christi.                   (212 units).
+----------------------------------------------------------------------------------------------------------------
+
+
+
+                               Air Force: Extension of 1998 Project Authorization
+----------------------------------------------------------------------------------------------------------------
+                 State                   Installation or location             Project                 Amount
+----------------------------------------------------------------------------------------------------------------
+New Mexico............................  Kirtland Air Force Base..  Replace Family Housing (180       $20,900,000
+                                                                    units).
+----------------------------------------------------------------------------------------------------------------
+
+SEC. 2704. EFFECTIVE DATE.
+
+    Titles XXI, XXII, XXIII, XXIV, XXV, and XXVI shall take effect on 
+the later of--
+            (1) October 1, 2001; or
+            (2) the date of the enactment of this Act.
+
+                    TITLE XXVIII--GENERAL PROVISIONS
+
+ Subtitle A--Military Construction Program and Military Family Housing 
+                                Changes
+
+SEC. 2801. INCREASE IN THRESHOLDS FOR CERTAIN UNSPECIFIED MINOR 
+              MILITARY CONSTRUCTION PROJECTS.
+
+    (a) Projects Requiring Advance Approval of Secretary Concerned.--
+Subsection (b)(1) of section 2805 of title 10, United States Code, 
+amended by striking ``$500,000'' and inserting ``$750,000''.
+    (b) Projects Using Amounts for Operation and Maintenance.--
+Subsection (c)(1) of that section is amended--
+            (1) in subparagraph (A), by striking ``$1,000,000'' and 
+        inserting ``$1,500,000''; and
+            (2) in subparagraph (B), by striking ``$500,000'' and 
+        inserting ``$750,000''.
+
+SEC. 2802. UNFORESEEN ENVIRONMENTAL HAZARD REMEDIATION AS BASIS FOR 
+              AUTHORIZED COST VARIATIONS FOR MILITARY CONSTRUCTION AND 
+              FAMILY HOUSING CONSTRUCTION PROJECTS.
+
+    Subsection (d) of section 2853 of title 10, United States Code, is 
+amended to read as follows:
+    ``(d) The limitation on cost increases in subsection (a) does not 
+apply to the following:
+            ``(1) The settlement of a contractor claim under a 
+        contract.
+            ``(2) The cost of any environmental hazard remediation 
+        required by law, including asbestos removal, radon abatement, 
+        and lead-based paint removal or abatement, if such remediation 
+        could not have reasonably been anticipated at the time the 
+        project was approved originally by Congress.''.
+
+SEC. 2803. REPEAL OF REQUIREMENT FOR ANNUAL REPORTS TO CONGRESS ON 
+              MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING 
+              ACTIVITIES.
+
+    (a) Repeal.--Section 2861 of title 10, United States Code is 
+repealed.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+subchapter III of chapter 169 of such title is amended by striking the 
+item relating to section 2861.
+
+SEC. 2804. AUTHORITY AVAILABLE FOR LEASE OF PROPERTY AND FACILITIES 
+              UNDER ALTERNATIVE AUTHORITY FOR ACQUISITION AND 
+              IMPROVEMENT OF MILITARY HOUSING.
+
+    (a) Lease Authorities Available.--Section 2878 of title 10, United 
+States Code, is amended--
+            (1) by redesignating subsections (c) and (d) as subsections 
+        (d) and (e), respectively; and
+            (2) by inserting after subsection (b) the following new 
+        subsection (c):
+    ``(c) Lease Authorities Available.--(1) The Secretary concerned may 
+use any authority or combination of authorities available under section 
+2667 of this title in leasing property or facilities under this section 
+to the extent such property or facilities, as the case may be, are 
+described by subsection (a)(1) of such section 2667.
+    ``(2) The limitation in subsection (b)(1) of section 2667 of this 
+title shall not apply with respect to a lease of property or facilities 
+under this section.''.
+    (b) Conforming Amendment.--Subsection (e) of that section, as 
+redesignated by subsection (a) of this section, is further amended--
+            (1) by striking paragraph (1); and
+            (2) by redesignated paragraphs (2), (3), and (4) as 
+        paragraphs (1), (2), and (3), respectively.
+    (c) Technical Amendment.--Paragraph (3) of subsection (e) of that 
+section, as redesignated by this section, is further amended by 
+striking ``Stewart B. McKinney Homeless Assistance Act'' and inserting 
+``McKinney-Vento Homeless Assistance Act''.
+
+SEC. 2805. FUNDS FOR HOUSING ALLOWANCES OF MEMBERS ASSIGNED TO MILITARY 
+              FAMILY HOUSING UNDER ALTERNATIVE AUTHORITY FOR 
+              ACQUISITION AND IMPROVEMENT OF MILITARY HOUSING.
+
+    (a) In General.--Subchapter IV of chapter 169 of title 10, United 
+States Code, is amended by inserting after section 2883 the following 
+new section:
+``Sec. 2883a. Funds for housing allowances of members of the armed 
+              forces assigned to certain military family housing units
+    ``To the extent provided in advance in appropriations Acts, the 
+Secretary of Defense may, during the fiscal year in which a contract is 
+awarded for the acquisition or construction of military family housing 
+units under this subchapter that are not to be owned by the United 
+States, transfer from appropriations available for support of military 
+housing for the armed force concerned for that fiscal year to 
+appropriations available for pay and allowances of military personnel 
+of that armed force for that fiscal year amounts equal to any 
+additional amounts payable during that fiscal year to members of that 
+armed force assigned to such housing units as basic allowance for 
+housing under section 403 of title 37 that would not otherwise have 
+been payable to such members if not for assignment to such housing 
+units.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+that subchapter is amended by inserting after the item relating to 
+section 2883 the following new item:
+
+``2883a. Funds for housing allowances of members of the armed forces 
+                            assigned to certain military family housing 
+                            units.''.
+
+SEC. 2806. AMENDMENT OF FEDERAL ACQUISITION REGULATION TO TREAT 
+              FINANCING COSTS AS ALLOWABLE EXPENSES UNDER CONTRACTS FOR 
+              UTILITY SERVICES FROM UTILITY SYSTEMS CONVEYED UNDER 
+              PRIVATIZATION INITIATIVE.
+
+    (a) Determination of Advisability of Amendment.--Not later than 90 
+days after the date of the enactment of this Act, the Secretary of 
+Defense shall determine whether or not it is advisable to modify the 
+Federal Acquisition Regulation in order to provide that a contract for 
+utility services from a utility system conveyed under section 2688(a) 
+of title 10, United States Code, may include terms and conditions that 
+recognize financing costs, such as return on equity and interest on 
+debt, as an allowable expense when incurred by the conveyee of the 
+utility system to acquire, operate, renovate, replace, upgrade, repair, 
+and expand the utility system.
+    (b) Report.--If as of the date that is 180 days after the date of 
+the enactment of this Act, the Federal Acquisition Regulatory Council 
+has not modified the Federal Acquisition Regulation to provide that a 
+contract described in subsection (a) may include terms and conditions 
+described in that subsection, or otherwise taken action to provide that 
+a contract referred to in that subsection may include terms and 
+conditions described in that subsection, the Secretary shall submit to 
+Congress on that date a report setting forth a justification for the 
+failure to take such actions.
+
+        Subtitle B--Real Property and Facilities Administration
+
+SEC. 2811. AVAILABILITY OF PROCEEDS OF SALES OF DEPARTMENT OF DEFENSE 
+              PROPERTY FROM CLOSED MILITARY INSTALLATIONS.
+
+    Section 204(h)(2) of the Federal Property and Administrative 
+Services Act of 1949 (40 U.S.C. 485(h)(2)) is amended by striking 
+subparagraphs (A) and (B) and inserting the following new 
+subparagraphs:
+            ``(A) In the case of property located at a military 
+        installation that is closed, such amount shall be available for 
+        facility maintenance and repair or environmental restoration by 
+        the military department that had jurisdiction over such 
+        property before the closure of the military installation.
+            ``(B) In the case of property located at any other military 
+        installation--
+                    ``(i) 50 percent of such amount shall be available 
+                for facility maintenance and repair or environmental 
+                restoration at the military installation where such 
+                property was located before it was disposed of or 
+                transferred; and
+                    ``(ii) 50 percent of such amount shall be available 
+                for facility maintenance and repair and for 
+                environmental restoration by the military department 
+                that had jurisdiction over such property before it was 
+                disposed of or transferred.''.
+
+SEC. 2812. PILOT EFFICIENT FACILITIES INITIATIVE.
+
+    (a) Initiative Authorized.--The Secretary of Defense may carry out 
+a pilot program for purposes of determining the potential for 
+increasing the efficiency and effectiveness of the operation of 
+military installations. The pilot program shall be known as the ``Pilot 
+Efficient Facilities Initiative'' (in this section referred to as the 
+``Initiative'').
+    (b) Designation of Participating Facilities.--(1) The Secretary may 
+designate up to two installations of each military department for 
+participation in the Initiative.
+    (2) The Secretary shall transmit to the Committees on Armed 
+Services of the Senate and the House of Representatives a written 
+notification of each installation proposed to be included in the 
+Initiative not less than 30 days before taking any action to carry out 
+the Initiative at such installation.
+    (3) The Secretary shall include in the notification regarding an 
+installation designated for participation in the Initiative a 
+management plan for the Initiative at the installation. Each management 
+plan for an installation shall include the following:
+            (A) A description of--
+                    (i) each proposed lease of real or personal 
+                property located at the installation;
+                    (ii) each proposed disposal of real or personal 
+                property located at the installation;
+                    (iii) each proposed leaseback of real or personal 
+                property leased or disposed of at the installation;
+                    (iv) each proposed conversion of services at the 
+                installation from Federal Government performance to 
+                non-Federal Government performance, including 
+                performance by contract with a State or local 
+                government or private entity or performance as 
+                consideration for the lease or disposal of property at 
+                the installation; and
+                    (v) each other action proposed to be taken to 
+                improve mission effectiveness and reduce the cost of 
+                providing quality installation support at the 
+                installation.
+            (B) With respect to each proposed action described under 
+        subparagraph (A)--
+                    (i) an estimate of the savings expected to be 
+                achieved as a result of the action;
+                    (ii) each regulation not required by statute that 
+                is proposed to be waived to implement the action; and
+                    (iii) each statute or regulation required by 
+                statute that is proposed to be waived to implement the 
+                action, including--
+                            (I) an explanation of the reasons for the 
+                        proposed waiver; and
+                            (II) a description of the action to be 
+                        taken to protect the public interests served by 
+                        the statute or regulation, as the case may be, 
+                        proposed to be waived in the event of the 
+                        waiver.
+            (C) A description of the steps taken by the Secretary to 
+        consult with employees at the facility, and communities in the 
+        vicinity of the facility, regarding the Initiative at the 
+        installation.
+            (D) Measurable criteria for the evaluation of the effects 
+        of the actions to be taken pursuant to the Initiative at the 
+        installation.
+    (c) Waiver of Statutory Requirements.--The Secretary of Defense may 
+waive any statute or regulation required by statute for purposes of 
+carrying out the Initiative only if specific authority for the waiver 
+of such statute or regulation is provided in an Act that is enacted 
+after the date of the enactment of this Act.
+    (d) Installation Efficiency Project Fund.--(1) There is established 
+on the books of the Treasury a fund to be known as the ``Installation 
+Efficiency Project Fund'' (in this subsection referred to as the 
+``Fund'').
+    (2) There shall be deposited in the Fund all cash rents, payments, 
+reimbursements, proceeds and other amounts from leases, sales, or other 
+conveyances or transfers, joint activities, and other actions taken 
+under the Initiative.
+    (3) To the extent provided in advance in authorization Acts and 
+appropriations Acts, amounts in the Fund shall be available to the 
+Secretary concerned for purposes of managing capital assets and 
+providing support services at installations participating in the 
+Initiative. Amounts in the Fund may be used for such purposes in 
+addition to, or in combination with, other amounts authorized to 
+appropriated for such purposes. Amounts in the Fund shall be available 
+for such purposes for five years.
+    (4) Subject to applicable financial management regulations, the 
+Secretary of Defense shall structure the Fund, and provide 
+administrative policies and procedures, in order provide proper control 
+of deposits in and disbursements from the Fund.
+    (e) Termination.--The authority of the Secretary to carry out the 
+Initiative shall terminate four years after the date of the enactment 
+of this Act.
+    (f) Report.--Not later than three years after the date of the 
+enactment of this Act, the Secretary shall submit to the committees of 
+Congress referred to in subsection (b)(2) a report on the Initiative. 
+The report shall contain a description of the actions taken under the 
+Initiative and include such other information, including 
+recommendations, as the Secretary considers appropriate in light of the 
+Initiative.
+
+SEC. 2813. DEMONSTRATION PROGRAM ON REDUCTION IN LONG-TERM FACILITY 
+              MAINTENANCE COSTS.
+
+    (a) Authority To Carry Out Program.--Subject to the provisions of 
+this section, the Secretary of the Army may conduct a demonstration 
+program to assess the feasibility and desirability of including 
+facility maintenance requirements in construction contracts for 
+military construction projects. The purpose of the demonstration 
+program is to determine whether or not such requirements facilitate 
+reductions in the long-term facility maintenance costs of the military 
+departments.
+    (b) Contracts.--(1) The demonstration program shall cover contracts 
+entered into on or after the date of the enactment of this Act.
+    (2) Not more than three contracts entered into in any year may 
+contain requirements referred to in subsection (a) for the purpose of 
+the demonstration program.
+    (c) Effective Period of Requirements.--The effective period of a 
+requirement referred to in subsection (a) that is included in a 
+contract for the purpose of the demonstration program shall be any 
+period elected by the Secretary not in excess of five years.
+    (d) Reports.--(1) Not later than January 31, 2003, and annually 
+thereafter until the year following the cessation of effectiveness of 
+any requirements referred to in subsection (a) in contracts under the 
+demonstration program, the Secretary shall submit to the congressional 
+defense committees a report on the demonstration program.
+    (2) Each report under paragraph (1) shall include, for the year 
+covered by such report, the following:
+            (A) A description of the contracts entered into during the 
+        year that contain requirements referred to in subsection (a) 
+        for the purpose of the demonstration program.
+            (B) The experience of the Secretary during the year with 
+        respect to any contracts containing requirements referred to in 
+        subsection (a) for the purpose of the demonstration program 
+        that were in force during the year.
+    (3) The final report under this subsection shall include, in 
+addition to the matters required under paragraph (2), an evaluation of 
+the demonstration program and any recommendations, including 
+recommendations for the termination, continuation, or expansion of the 
+demonstration program, that the Secretary considers appropriate.
+    (e) Expiration.--The authority under subsection (a) to include 
+requirements referred to in that subsection in contracts under the 
+demonstration program shall expire on September 30, 2006.
+    (f) Funding.--Amounts authorized to be appropriated for the Army 
+for a fiscal year for military construction shall be available for the 
+demonstration program under this section in such fiscal year.
+
+                      Subtitle C--Land Conveyances
+
+SEC. 2821. LAND CONVEYANCE, ENGINEER PROVING GROUND, FORT BELVOIR, 
+              VIRGINIA.
+
+    (a) Conveyance Authorized.--The Secretary of the Army may convey to 
+the Commonwealth of Virginia (in this section referred to as the 
+``Commonwealth'') all right, title, and interest of United States in 
+and to two parcels of real property, including any improvements 
+thereon, located at the Engineer Proving Ground, Fort Belvoir, 
+Virginia, as follows:
+            (1) The parcel, consisting of approximately 170 acres, that 
+        is to be used for a portion of the Fairfax County Parkway, 
+        including for construction of that portion of the parkway.
+            (2) The parcel, consisting of approximately 11.45 acres, 
+        that is subject to an easement previously granted to the 
+        Commonwealth as Army easement DACA 31-3-96-440 for the 
+        construction of a portion of Interstate Highway 95.
+    (b) Consideration.--As consideration for the conveyance under 
+subsection (a), the Commonwealth shall--
+            (1) design and construct, at its expense and for public 
+        benefit, the portion of the Fairfax County Parkway through the 
+        Engineer Proving Ground;
+            (2) provide a conceptual design for eventual incorporation 
+        and construction by others of access into the Engineer Proving 
+        Ground at the Rolling Road Interchange from Fairfax County 
+        Parkway as specified in Virginia Department of Transportation 
+        Project #R000-029-249, C514;
+            (3) provide such easements or rights of way for utilities 
+        under or across the Fairfax County Parkway as the Secretary 
+        considers appropriate for the optimum development of the 
+        Engineer Proving Ground; and
+            (4) pay the United States an amount, jointly determined by 
+        the Secretary and the Commonwealth, appropriate to cover the 
+        costs of constructing a replacement building for building 5089 
+        located on the Engineer Proving Ground.
+    (c) Responsibility for Environmental Cleanup.--The Secretary shall 
+retain liability under the Comprehensive Environmental Response, 
+Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), and 
+any other applicable environmental statute or regulation, for any 
+environmental hazard on the property conveyed under subsection (a) as 
+of the date of the conveyance under that subsection.
+    (d) Acceptance and Disposition of Funds.--(1) The Secretary of the 
+Army may accept the funds paid by the Commonwealth as consideration 
+under subsection (b)(4) and shall credit the accepted funds to the 
+appropriation or appropriations that are appropriate for paying the 
+costs of the replacement of Building 5089, located on the Engineer 
+Proving Ground, Fort Belvoir, Virginia, consistent with paragraphs (2) 
+and (3) of this subsection.
+    (2) Funds accepted under paragraph (1) shall be available, until 
+expended, for the replacement of Building 5089.
+    (3) Funds appropriated pursuant to the authorization of 
+appropriations in section 301(1), and funds appropriated pursuant to 
+the authorization of appropriations in section 2104(a)(4), shall be 
+available in accordance with section 2805 of title 10, United States 
+Code, for the excess, if any, of the cost of the replacement of 
+Building 5089 over the amount available for such project under 
+paragraph (2).
+    (e) Description of Property.--(1) The exact acreage and legal 
+description of the real property to be conveyed under subsection (a)(1) 
+shall be determined by a survey satisfactory to the Secretary. The cost 
+of the survey shall be borne by the Commonwealth.
+    (2) The exact acreage and legal description of the real property to 
+be conveyed under subsection (a)(2) are as set forth in Army easement 
+DACA 31-3-96-440.
+    (f) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyance 
+under subsection (a) as the Secretary considers appropriate to protect 
+the interests of the United States.
+
+SEC. 2822. MODIFICATION OF AUTHORITY FOR CONVEYANCE OF NAVAL COMPUTER 
+              AND TELECOMMUNICATIONS STATION, CUTLER, MAINE.
+
+    Section 2853(a) of the Military Construction Authorization Act for 
+Fiscal Year 2001 (division B of the Floyd D. Spence National Defense 
+Authorization Act for Fiscal Year 2001 (as enacted by Public Law 106-
+398); 114 Stat. 1654A-430) is amended by inserting ``any or'' before 
+``all right''.
+
+SEC. 2823. LAND TRANSFER AND CONVEYANCE, NAVAL SECURITY GROUP ACTIVITY, 
+              WINTER HARBOR, MAINE.
+
+    (a) Transfer of Administrative Jurisdiction.--(1) The Secretary of 
+the Navy may transfer to the Secretary of the Interior administrative 
+jurisdiction of a parcel of real property, including any improvements 
+thereon and appurtenances thereto, consisting of approximately 26 acres 
+as generally depicted as Tract 15-116 on the map entitled ``Acadia 
+National Park Schoodic Point Area'', numbered 123/80,418 and dated May 
+2001. The map shall be on file and available for inspection in the 
+appropriate offices of the National Park Service.
+    (2) The transfer authorized by this subsection shall occur, if at 
+all, concurrently with the reversion of administrative jurisdiction of 
+a parcel of real property consisting of approximately 71 acres, as 
+depicted as Tract 15-115 on the map referred to in paragraph (1), from 
+the Secretary of the Navy to the Secretary of the Interior as 
+authorized by Public Law 80-260 (61 Stat. 519) and to be executed on or 
+about June 30, 2002.
+    (b) Conveyance Authorized.--The Secretary of the Navy may convey, 
+without consideration, to the State of Maine, any political subdivision 
+of the State of Maine, or any tax-supported agency in the State of 
+Maine, all right, title, and interest of the United States in and to 
+any of the parcels of real property, including any improvements thereon 
+and appurtenances thereto, consisting of approximately 485 acres and 
+comprising the former facilities of the Naval Security Group Activity, 
+Winter Harbor, Maine, located in Hancock County, Maine, less the real 
+property described in subsection (a)(1), for the purpose of economic 
+redevelopment.
+    (c) Transfer of Personal Property.--The Secretary of the Navy may 
+transfer, without consideration, to the Secretary of the Interior in 
+the case of the real property transferred under subsection (a), or to 
+any recipient of such real property in the case of real property 
+conveyed under subsection (b), any or all personal property associated 
+with such real property so transferred or conveyed, including any 
+personal property required to continue the maintenance of the 
+infrastructure of such real property (including the generators for an 
+uninterrupted power supply in building 154 at the Corea site).
+    (d) Maintenance of Property Pending Conveyance.--(1) The Secretary 
+of the Navy shall maintain any real property, including any 
+improvements thereon, appurtenances thereto, and supporting 
+infrastructure, to be conveyed under subsection (b) in accordance with 
+the protection and maintenance standards specified in section 101-
+47.4913 of title 41, Code of Federal Regulations, until the earlier 
+of--
+            (A) the date of the conveyance of such real property under 
+        subsection (b); or
+            (B) September 30, 2003.
+    (2) The requirement in paragraph (1) shall not be construed as 
+authority to improve the real property, improvements, and 
+infrastructure referred to in that paragraph so as to bring such real 
+property, improvements, or infrastructure into compliance with any 
+zoning or property maintenance codes or to repair any damage to such 
+improvements and infrastructure through an Act of God.
+    (e) Interim Lease.--(1) Until such time as any parcel of real 
+property to be conveyed under subsection (b) is conveyed by deed under 
+that subsection, the Secretary of the Navy may lease such parcel to any 
+person or entity determined by the Secretary to be an appropriate 
+lessee of such parcel.
+    (2) The amount of rent for a lease under paragraph (1) shall be the 
+amount determined by the Secretary to be appropriate, and may be an 
+amount less than the fair market value of the lease.
+    (3) Notwithstanding any other provision of law, the Secretary shall 
+credit any amount received for a lease of real property under paragraph 
+(1) to the appropriation or account providing funds for the operation 
+and maintenance of such property or for the procurement of utility 
+services for such property. Amounts so credited shall be merged with 
+funds in the appropriation or account to which credited, and shall be 
+available for the same purposes, and subject to the same conditions and 
+limitations, as the funds with which merged.
+    (f) Reimbursement for Environmental and Other Assessments.--(1) The 
+Secretary of the Navy may require each recipient of real property 
+conveyed under subsection (b) to reimburse the Secretary for the costs 
+incurred by the Secretary for any environmental assessment, study, or 
+analysis carried out by the Secretary with respect to such property 
+before completing the conveyance under that subsection.
+    (2) The amount of any reimbursement required under paragraph (1) 
+shall be determined by the Secretary, but may not exceed the cost of 
+the assessment, study, or analysis for which reimbursement is required.
+    (3) Section 2695(c) of title 10, United States Code, shall apply to 
+any amount received by the Secretary under this subsection.
+    (g) Description of Property.--The exact acreage and legal 
+description of the real property transferred under subsection (a), and 
+each parcel of real property conveyed under subsection (b), shall be 
+determined by a survey satisfactory to the Secretary of the Navy. The 
+cost of any survey under the preceding sentence for real property 
+conveyed under subsection (b) shall be borne by the recipient of the 
+real property.
+    (h) Additional Terms and Conditions.--The Secretary of the Navy may 
+require such additional terms and conditions in connection with any 
+conveyance under subsection (b), and any lease under subsection (e), as 
+the Secretary considers appropriate to protect the interests of the 
+United States.
+
+SEC. 2824. CONVEYANCE OF SEGMENT OF LORING PETROLEUM PIPELINE, MAINE, 
+              AND RELATED EASEMENTS.
+
+    (a) Conveyance Authorized.--The Secretary of the Air Force may 
+convey, without consideration, to the Loring Development Authority, 
+Maine (in this section referred to as the ``Authority''), all right, 
+title, and interest of the United States in and to the segment of the 
+Loring Petroleum (POL) Pipeline, Maine, consisting of approximately 27 
+miles in length and running between the Searsport terminal and Bangor 
+Air National Guard Base.
+    (b) Related Easements.--As part of the conveyance authorized by 
+subsection (a), the Secretary may convey to the Authority, without 
+consideration, all right, title, and interest of the United States in 
+and to any easements or rights-of-way necessary for the operation or 
+maintenance of the segment of pipeline conveyed under that subsection.
+    (c) Reimbursement for Costs of Conveyance.--(1) The Authority shall 
+reimburse the Secretary for the costs incurred by the Secretary for any 
+environmental assessment, study, or analysis, or for any other expense 
+incurred by the Secretary, for a conveyance authorized by this section.
+    (2) The amount of the reimbursement under paragraph (1) for an 
+activity shall be determined by the Secretary, but may not exceed the 
+cost of the activity.
+    (3) Section 2695(c) of title 10, United States Code, shall apply to 
+any amount received by the Secretary under this subsection.
+    (d) Description of Property.--The exact acreage and legal 
+description of the segment of pipeline conveyed under subsection (a), 
+and of any easements or rights-of-way conveyed under subsection (b), 
+shall be determined by surveys and other means satisfactory to the 
+Secretary. The cost of any survey or other services performed at the 
+direction of the Secretary under the preceding sentence shall be borne 
+by the Authority.
+    (e) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyances 
+under this section as the Secretary considers appropriate to protect 
+the interests of the United States.
+
+SEC. 2825. LAND CONVEYANCE, PETROLEUM TERMINAL SERVING FORMER LORING 
+              AIR FORCE BASE AND BANGOR AIR NATIONAL GUARD BASE, MAINE.
+
+    (a) Conveyance Authorized.--(1) The Secretary of the Air Force may 
+convey to the Maine Port Authority of the State of Maine (in this 
+section referred to as the ``Authority'') all right, title, and 
+interest of the United States in and to the Petroleum Terminal (POL) at 
+Mack Point, Searsport, Maine, which served former Loring Air Force Base 
+and Bangor Air National Guard Base, Maine.
+    (2) The conveyance under paragraph (1) may include the following:
+            (A) A parcel of real property, including any improvements 
+        thereon, consisting of approximately 20 acres and comprising a 
+        portion of the Petroleum Terminal.
+            (B) Any additional fuel tanks, other improvements, and 
+        equipment located on the 43-acre parcel of property adjacent to 
+        the property described in subparagraph (A), and currently 
+        leased by the Secretary, which constitutes the remaining 
+        portion of the Petroleum Terminal.
+    (b) Condition of Conveyance.--The Secretary may not make the 
+conveyance under subsection (a) unless the Authority agrees to utilize 
+the property to be conveyed under that subsection solely for economic 
+development purposes.
+    (c) Consideration.--(1) As consideration for the conveyance under 
+subsection (a), the Authority shall lease to the Air Force 
+approximately one acre of the real property conveyed under that 
+subsection, together with any improvements thereon, that constitutes 
+the Aerospace Fuels Laboratory (also known as Building 14).
+    (2) The real property leased under this subsection shall include 
+the parking lot, outbuildings, and other improvements associated with 
+the Aerospace Fuels Laboratory and such easements of ingress and egress 
+to the real property, including easements for utilities, as are 
+required for the operations of the Aerospace Fuels Laboratory.
+    (3) As part of the lease of real property under this subsection, 
+the Authority shall maintain around the real property for the term of 
+the lease a zone, not less than 75 feet in depth, free of improvements 
+or encumbrances.
+    (4) The lease under this subsection shall be without cost to the 
+United States.
+    (5) The term of the lease under this subsection may not exceed 25 
+years. If operations at the Aerospace Fuels Laboratory cease before the 
+expiration of the term of the lease otherwise provided for under this 
+subsection, the lease shall be deemed to have expired upon the 
+cessation of such operations.
+    (d) Conveyance Contingent on Expiration of Lease of Fuel Tanks.--
+The Secretary may not make the conveyance under subsection (a) until 
+the expiration of the lease referred to in paragraph (2)(B) of that 
+subsection.
+    (e) Environmental Remediation.--The Secretary may not make the 
+conveyance under subsection (a) until the completion of any 
+environmental remediation required by law with respect to the property 
+to be conveyed under that subsection.
+    (f) Reimbursement for Costs of Conveyance.--(1) The Authority shall 
+reimburse the Secretary for the costs incurred by the Secretary for any 
+environmental assessment, study, or analysis, or for any other expense 
+incurred by the Secretary, for the conveyance authorized by subsection 
+(a).
+    (2) The amount of the reimbursement under paragraph (1) for an 
+activity shall be determined by the Secretary, but may not exceed the 
+cost of the activity.
+    (3) Section 2695(c) of title 10, United States Code, shall apply to 
+any amount received by the Secretary under this subsection.
+    (g) Description of Property.--The exact acreage and legal 
+description of the real property conveyed under subsection (a) shall be 
+determined by a survey satisfactory to the Secretary. The cost of the 
+survey shall be borne by the Authority.
+    (h) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyance 
+under subsection (a), and the lease under subsection (c), as the 
+Secretary considers appropriate to protect the interests of the United 
+States.
+
+SEC. 2826. LAND CONVEYANCE, NAVAL WEAPONS INDUSTRIAL RESERVE PLANT, 
+              TOLEDO, OHIO.
+
+    (a) Conveyance Authorized.--(1) The Secretary of the Navy may 
+convey, without consideration, to the Toledo-Lucas County Port 
+Authority, Ohio (in this section referred to as the ``Port 
+Authority''), any or all right, title, and interest of the United 
+States in and to a parcel of real property, including any improvements 
+thereon, consisting of approximately 29 acres and comprising the Naval 
+Weapons Industrial Reserve Plant, Toledo, Ohio.
+    (2) The Secretary may include in the conveyance under paragraph (1) 
+such facilities, equipment, fixtures, and other personal property 
+located or based on the parcel conveyed under that paragraph, or used 
+in connection with the parcel, as the Secretary determines to be excess 
+to the Navy.
+    (b) Lease Authority.--Until such time as the real property 
+described in subsection (a)(1) is conveyed by deed, the Secretary may 
+lease such real property, and any personal property described in 
+subsection (a)(2), to the Port Authority in exchange for such security, 
+fire protection, and maintenance services as the Secretary considers 
+appropriate.
+    (c) Conditions of Conveyance.--The conveyance under subsection (a), 
+and any lease under subsection (b), shall be subject to the conditions 
+that the Port Authority--
+            (1) accept the real and personal property concerned in 
+        their condition at the time of the conveyance or lease, as the 
+        case may be; and
+            (2) except as provided in subsection (d), use the real and 
+        personal property concerned, whether directly or through an 
+        agreement with a public or private entity, for economic 
+        development or such other public purposes as the Port Authority 
+        considers appropriate.
+    (d) Subsequent Use.--(1) The Port Authority may, following entry 
+into a lease under subsection (b) for real property, personal property, 
+or both, sublease such property for a purpose set forth in subsection 
+(c)(2) if the Secretary approves the sublease of such property for that 
+purpose.
+    (2) The Port Authority may, following the conveyance of real 
+property under subsection (a), lease or reconvey such real property, 
+and any personal property conveyed with such real property under that 
+subsection, for a purpose set forth in subsection (c)(2).
+    (e) Reimbursement for Costs of Conveyance and Lease.--(1) The Port 
+Authority shall reimburse the Secretary for the costs incurred by the 
+Secretary for any environmental assessment, study, or analysis, or for 
+any other expense incurred by the Secretary, for the conveyance 
+authorized by subsection (a) or any lease authorized by subsection (b).
+    (2) The amount of the reimbursement under paragraph (1) for an 
+activity shall be determined by the Secretary, but may not exceed the 
+cost of the activity.
+    (3) Section 2695(c) of title 10, United States Code, shall apply to 
+any amount received by the Secretary under this subsection.
+    (f) Description of Property.--The exact acreage and legal of the 
+real property to be conveyed under subsection (a)(1), and an 
+appropriate inventory or other description of the personal property to 
+be conveyed under subsection (a)(2), shall be determined by a survey 
+and other means satisfactory to the Secretary.
+    (g) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyance 
+under subsection (a)(1), and any lease under subsection (b), as the 
+Secretary considers appropriate to protect the interests of the United 
+States.
+
+SEC. 2827. MODIFICATION OF LAND CONVEYANCE, MUKILTEO TANK FARM, 
+              EVERETT, WASHINGTON.
+
+    (a) Modification.--Section 2866 of the Military Construction 
+Authorization Act for Fiscal Year 2001 (division B of the Floyd D. 
+Spence National Defense Authorization Act for Fiscal Year 2001 (as 
+enacted by Public Law 106-398); 114 Stat. 436) is amended--
+            (1) in subsection (a), by striking ``22 acres'' and 
+        inserting ``20.9 acres'';
+            (2) by redesignating subsections (b), (c), (d), and (e) as 
+        subsections (c), (d), (e), and (f), respectively; and
+            (3) by inserting after subsection (a) the following new 
+        subsection (b):
+    ``(b) Transfer of Jurisdiction.--(1) At the same time the Secretary 
+of the Air Force makes the conveyance authorized by subsection (a), the 
+Secretary shall transfer to the Secretary of Commerce administrative 
+jurisdiction over a parcel of real property, including improvements 
+thereon, consisting of approximately 1.1 acres located at the Mukilteo 
+Tank Farm and including the National Marine Fisheries Service Mukilteo 
+Research Center facility.
+    ``(2) The Secretary of Commerce may, with the consent of the Port, 
+exchange with the Port all or any portion of the property received 
+under paragraph (1) for a parcel of real property of equal area at the 
+Mukilteo Tank Farm that is owned by the Port.
+    ``(3) The Secretary of Commerce shall administer the property under 
+the jurisdiction of the Secretary under this subsection through the 
+Administrator of the National Oceanic and Atmospheric Administration as 
+part of the Administration.
+    ``(4) The Administrator shall use the property under the 
+jurisdiction of the Secretary of Commerce under this subsection as the 
+location of a research facility, and may construct a new facility on 
+the property for such research purposes as the Administrator considers 
+appropriate.
+    ``(5)(A) If after the 12-year period beginning on the date of the 
+enactment of the National Defense Authorization Act for Fiscal Year 
+2002, the Administrator is not using any portion of the real property 
+under the jurisdiction of the Secretary of Commerce under this 
+subsection, the Administrator shall convey, without consideration, to 
+the Port all right, title, and interest in and to such portion of the 
+real property, including improvements thereon.
+    ``(B) The Port shall use any real property conveyed to the Port 
+under this paragraph for the purpose specified in subsection (a).''.
+    (b) Conforming Amendment.--The section heading for that section is 
+amended to read as follows:
+
+``SEC. 2866. LAND CONVEYANCE AND TRANSFER, MUKILTEO TANK FARM, EVERETT, 
+              WASHINGTON.''.
+
+SEC. 2828. LAND CONVEYANCES, CHARLESTON AIR FORCE BASE, SOUTH CAROLINA.
+
+    (a) Conveyance to State of South Carolina Authorized.--The 
+Secretary of the Air Force may convey, without consideration, to the 
+State of South Carolina (in this section referred to as the ``State''), 
+all right, title, and interest of the United States in and to a portion 
+(as determined under subsection (c)) of the real property, including 
+any improvements thereon, consisting of approximately 24 acres at 
+Charleston Air Force Base, South Carolina, and comprising the Air Force 
+Family Housing Annex. The purpose of the conveyance is to facilitate 
+the Remount Road Project.
+    (b) Conveyance to City of North Charleston Authorized.--The 
+Secretary may convey, without consideration, to the City of North 
+Charleston, South Carolina (in this section referred to as the 
+``City''), all right, title, and interest of the United States in and 
+to a portion (as determined under subsection (c)) of the real property, 
+including any improvements thereon, referred to in subsection (a). The 
+purpose of the conveyance is to permit the use of the property by the 
+City for municipal purposes.
+    (c) Determination of Portions of Property To Be Conveyed.--(1) 
+Subject to paragraph (2), the Secretary, the State, and the City shall 
+jointly determine the portion of the property referred to in subsection 
+(a) that is to be conveyed to the State under subsection (a) and the 
+portion of the property that is to be conveyed to the City under 
+subsection (b).
+    (2) In determining under paragraph (1) the portions of property to 
+be conveyed under this section, the portion to be conveyed to the State 
+shall be the minimum portion of the property required by the State for 
+the purpose specified in subsection (a), and the portion to be conveyed 
+to the City shall be the balance of the property.
+    (d) Limitation on Conveyances.--The Secretary may not carry out the 
+conveyance of property authorized by subsection (a) or subsection (b) 
+until the completion of an assessment of environmental contamination of 
+the property authorized to be conveyed by such subsection for purposes 
+of determining responsibility for environmental remediation of such 
+property.
+    (e) Description of Property.--The exact acreage and legal 
+description of the real property to be conveyed under subsections (a) 
+and (b) shall be determined by surveys satisfactory to the Secretary. 
+The cost of the survey for the property to be conveyed under subsection 
+(a) shall be borne by the State, and the cost of the survey for the 
+property to be conveyed under subsection (b) shall be borne by the 
+City.
+    (f) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyances 
+under subsections (a) and (b) as the Secretary considers appropriate to 
+protect the interests of the United States.
+
+SEC. 2829. LAND CONVEYANCE, FORT DES MOINES, IOWA.
+
+    (a) Conveyance Authorized.--The Secretary of the Army may convey, 
+without consideration, to Fort Des Moines Memorial Park, Inc., a 
+nonprofit organization (in this section referred to as the ``Memorial 
+Park''), all right, title, and interest of the United States in and to 
+a parcel of real property, including improvements thereon, consisting 
+of approximately 4.6 acres located at Fort Des Moines United States 
+Army Reserve Center, Des Moines, Iowa, for the purpose of the 
+establishment of the Fort Des Moines Memorial Park and Education 
+Center.
+    (b) Condition of Conveyance.--The conveyance under subsection (a) 
+shall be subject to the condition that the Memorial Park use the 
+property for museum and park purposes.
+    (c) Reversion.--If the Secretary determines at any time that the 
+real property conveyed under subsection (a) is not being used for 
+museum and park purposes, all right, title, and interest in and to the 
+real property, including any improvements thereon, shall revert to the 
+United States, and the United States shall have the right of immediate 
+entry thereon.
+    (d) Reimbursement for Costs of Conveyance.--(1) The Memorial Park 
+shall reimburse the Secretary for the costs incurred by the Secretary 
+for any environmental assessment, study, or analysis, or for any other 
+expenses incurred by the Secretary, for the conveyance authorized in 
+(a).
+    (2) The amount of the reimbursement under paragraph (1) for any 
+activity shall be determined by the Secretary, but may not exceed the 
+cost of such activity.
+    (3) Section 2695(c) of title 10 United States Code, shall apply to 
+any amount received under this subsection.
+    (e) Description of Property.--The exact acreage and legal 
+description of the real property to be conveyed under subsection (a) 
+shall be determined by survey satisfactory to the Secretary. The cost 
+of the survey shall be borne by the Memorial Park.
+    (f) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the conveyance 
+under subsection (a) as the Secretary considers appropriate to protect 
+the interests of the United States.
+
+SEC. 2830. LAND CONVEYANCES, CERTAIN FORMER MINUTEMAN III ICBM 
+              FACILITIES IN NORTH DAKOTA.
+
+    (a) Conveyances Required.--(1) The Secretary of the Air Force may 
+convey, without consideration, to the State Historical Society of North 
+Dakota (in this section referred to as the ``Historical Society'') all 
+right, title, and interest of the United States in and to parcels of 
+real property, together with any improvements thereon, of the Minuteman 
+III ICBM facilities of the former 321st Missile Group at Grand Forks 
+Air Force Base, North Dakota, as follows:
+            (A) The parcel consisting of the launch facility designated 
+        ``November-33''.
+            (B) The parcel consisting of the missile alert facility and 
+        launch control center designated ``Oscar-O''.
+    (2) The purpose of the conveyance of the facilities is to provide 
+for the establishment of an historical site allowing for the 
+preservation, protection, and interpretation of the facilities.
+    (b) Consultation.--The Secretary shall consult with the Secretary 
+of State and the Secretary of Defense in order to ensure that the 
+conveyances required by subsection (a) are carried out in accordance 
+with applicable treaties.
+    (c) Historic Site.--The Secretary may, in cooperation with the 
+Historical Society, enter into one or more cooperative agreements with 
+appropriate public or private entities or individuals in order to 
+provide for the establishment and maintenance of the historic site 
+referred to in subsection (a)(2).
+
+SEC. 2831. LAND ACQUISITION, PERQUIMANS COUNTY, NORTH CAROLINA.
+
+    The Secretary of the Navy may, using funds previously appropriated 
+for such purpose, acquire any and all right, title, and interest in and 
+to a parcel of real property, including improvements thereon, 
+consisting of approximately 240 acres, or any portion thereof, in 
+Perquimans County, North Carolina, for purposes of including such 
+parcel in the Harvey Point Defense Testing Activity, Hertford, North 
+Carolina.
+
+SEC. 2832. LAND CONVEYANCE, ARMY RESERVE CENTER, KEWAUNEE, WISCONSIN.
+
+    (a) Conveyance Required.--The Administrator of General Services may 
+convey, without consideration, to the City of Kewaunee, Wisconsin (in 
+this section referred to as the ``City''), all right, title, and 
+interest of the United States in and to a parcel of Federal real 
+property, including improvements thereon, that is located at 401 5th 
+Street in Kewaunee, Wisconsin, and contains an excess Army Reserve 
+Center. After such conveyance, the property may be used and occupied 
+only by the City, or by another local or State government entity 
+approved by the City.
+    (b) Description of Property.--The exact acreage and legal 
+description of the real property to be conveyed under subsection (a) 
+shall be determined by a survey satisfactory to the Administrator. The 
+cost of the survey shall be borne by the City.
+    (c) Reversionary Interest.--During the 20-year period beginning on 
+the date the Administrator makes the conveyance under subsection (a), 
+if the Administrator determines that the conveyed property is not being 
+used and occupied in accordance with such subsection, all right, title, 
+and interest in and to the property, including any improvements 
+thereon, shall revert to the United States. Upon reversion, the United 
+States shall immediately proceed to a public sale of the property.
+    (d) Additional Terms and Conditions.--(1) The property shall not be 
+used for commercial purposes.
+    (2) The Administrator may require such additional terms and 
+conditions in connection with the conveyance under subsection (a) as 
+the Administrator considers appropriate to protect the interests of the 
+United States.
+
+SEC. 2833. TREATMENT OF AMOUNTS RECEIVED.
+
+    Any net proceeds received by the United States as payment under 
+subsection (c) of section 2832 shall be deposited into the Land and 
+Water Conservation Fund.
+
+                       Subtitle D--Other Matters
+
+SEC. 2841. DEVELOPMENT OF UNITED STATES ARMY HERITAGE AND EDUCATION 
+              CENTER AT CARLISLE BARRACKS, PENNSYLVANIA.
+
+    (a) Authority To Enter into Agreement.--(1) The Secretary of the 
+Army may enter into an agreement with the Military Heritage Foundation, 
+a not-for-profit organization, for the design, construction, and 
+operation of a facility for the United States Army Heritage and 
+Education Center at Carlisle Barracks, Pennsylvania.
+    (2) The facility referred to in paragraph (1) is to be used for 
+curation and storage of artifacts, research facilities, classrooms, and 
+offices, and for education and other activities, agreed to by the 
+Secretary, relating to the heritage of the Army. The facility may also 
+be used to support such education and training as the Secretary 
+considers appropriate.
+    (b) Design and Construction.--The Secretary may, at the election of 
+the Secretary--
+            (1) accept funds from the Military Heritage Foundation for 
+        the design and construction of the facility referred to in 
+        subsection (a); or
+            (2) permit the Military Heritage Foundation to contract for 
+        the design and construction of the facility.
+    (c) Acceptance of Facility.--(1) Upon satisfactory completion, as 
+determined by the Secretary, of the facility referred to in subsection 
+(a), and upon the satisfaction of any and all financial obligations 
+incident thereto by the Military Heritage Foundation, the Secretary 
+shall accept the facility from the Military Heritage Foundation, and 
+all right, title, and interest in and to the facility shall vest in the 
+United States.
+    (2) Upon becoming property of the United States, the facility shall 
+be under the jurisdiction of the Secretary.
+    (d) Use of Certain Gifts.--(1) Under regulations prescribed by the 
+Secretary, the Commandant of the Army War College may, without regard 
+to section 2601 of title 10, United States Code, accept, hold, 
+administer, invest, and spend any gift, devise, or bequest of personnel 
+property of a value of $250,000 or less made to the United States if 
+such gift, devise, or bequest is for the benefit of the United States 
+Army Heritage and Education Center.
+    (2) The Secretary may pay or authorize the payment of any 
+reasonable and necessary expense in connection with the conveyance or 
+transfer of a gift, devise, or bequest under this subsection.
+    (e) Additional Terms and Conditions.--The Secretary may require 
+such additional terms and conditions in connection with the agreement 
+authorized to be entered into by subsection (a) as the Secretary 
+considers appropriate to protect the interest of the United States.
+
+SEC. 2842. REPEAL OF LIMITATION ON COST OF RENOVATION OF PENTAGON 
+              RESERVATION.
+
+    Section 2864 of the Military Construction Authorization Act for 
+Fiscal Year 1997 (division B of Public Law 104-201; 110 Stat. 2806) is 
+repealed.
+
+SEC. 2843. NAMING OF PATRICIA C. LAMAR ARMY NATIONAL GUARD READINESS 
+              CENTER, OXFORD, MISSISSIPPI.
+
+    (a) Designation.--The Oxford Army National Guard Readiness Center, 
+Oxford, Mississippi, shall be known and designated as the ``Patricia C. 
+Lamar Army National Guard Readiness Center''.
+    (b) Reference to Readiness Center.--Any reference to the Oxford 
+Army National Guard Readiness Center, Oxford, Mississippi, in any law, 
+regulation, map, document, record, or other paper of the United States 
+shall be considered to be a reference to the Patricia C. Lamar Army 
+National Guard Readiness Center.
+
+SEC. 2844. CONSTRUCTION OF PARKING GARAGE AT FORT DERUSSY, HAWAII.
+
+    (a) Authority To Enter Into Agreement for Construction.--The 
+Secretary of the Army may authorize the Army Morale, Welfare, and 
+Recreation Fund, a non-appropriated fund instrumentality of the 
+Department of Defense (in this section referred to as the ``Fund''), to 
+enter into an agreement with a governmental, quasi-governmental, or 
+commercial entity for the construction of a parking garage at Fort 
+DeRussy, Hawaii.
+    (b) Form of Agreement.--The agreement under subsection (a) may take 
+the form of a non-appropriated fund contract, conditional gift, or 
+other agreement determined by the Fund to be appropriate for purposes 
+of construction of the parking garage.
+    (c) Use of Parking Garage by Public.--The agreement under 
+subsection (a) may permit the use by the general public of the parking 
+garage constructed under the agreement if the Fund determines that use 
+of the parking garage by the general public will be advantageous to the 
+Fund.
+    (d) Treatment of Revenues of Fund Parking Garages at Fort 
+DeRussy.--Notwithstanding any other provision of law, amounts received 
+by the Fund by reason of operation of parking garages at Fort DeRussy, 
+including the parking garage constructed under the agreement under 
+subsection (a), shall be treated as non-appropriated funds, and shall 
+accrue to the benefit of the Fund or its component funds, including the 
+Armed Forces Recreation Center-Hawaii (Hale Koa Hotel).
+
+SEC. 2845. ACCEPTANCE OF CONTRIBUTIONS TO REPAIR OR ESTABLISHMENT 
+              MEMORIAL AT PENTAGON RESERVATION.
+
+    (a) Authority To Accept Contributions.--The Secretary of Defense 
+may accept contributions made for the purpose of establishing a 
+memorial or assisting in the repair of the damage caused to the 
+Pentagon Reservation by the terrorist attack that occurred on September 
+11, 2001.
+    (b) Deposit of Contributions.--The Secretary shall deposit 
+contributions accepted under subsection (a) in the Pentagon Reservation 
+Maintenance Revolving Fund established by section 2674(e) of title 10, 
+United States Code.
+
+            TITLE XXIX--DEFENSE BASE CLOSURE AND REALIGNMENT
+
+           Subtitle A--Modifications of 1990 Base Closure Law
+
+SEC. 2901. AUTHORITY TO CARRY OUT BASE CLOSURE ROUND IN 2003.
+
+    (a) Commission Matters.--
+            (1) Appointment.--Section 2902(c)(1) of the Defense Base 
+        Closure and Realignment Act of 1990 (part A of title XXIX of 
+        Public Law 101-510; 10 U.S.C. 2687 note) is amended--
+                    (A) in subparagraph (B)--
+                            (i) by striking ``and'' at the end of 
+                        clause (ii);
+                            (ii) by striking the period at the end of 
+                        clause (iii) and inserting ``; and''; and
+                            (iii) by adding at the end the following 
+                        new clause:
+            ``(iv) by no later than January 24, 2003, in the case of 
+        members of the Commission whose terms will expire at the end of 
+        the first session of the 108th Congress.''; and
+                    (B) in subparagraph (C), by striking ``or for 1995 
+                in clause (iii) of such subparagraph'' and inserting 
+                ``, for 1995 in clause (iii) of that subparagraph, or 
+                for 2003 in clause (iv) of that subparagraph''.
+            (2) Meetings.--Section 2902(e) of that Act is amended by 
+        striking ``and 1995'' and inserting ``1995, and 2003''.
+            (3) Funding.--Section 2902(k) of that Act is amended by 
+        adding at the end the following new paragraph (4):
+    ``(4) If no funds are appropriated to the Commission by the end of 
+the second session of the 107th Congress for the activities of the 
+Commission in 2003, the Secretary may transfer to the Commission for 
+purposes of its activities under this part in that year such funds as 
+the Commission may require to carry out such activities. The Secretary 
+may transfer funds under the preceding sentence from any funds 
+available to the Secretary. Funds so transferred shall remain available 
+to the Commission for such purposes until expended.''.
+            (4) Termination.--Section 2902(l) of that Act is amended by 
+        striking ``December 31, 1995'' and inserting ``December 31, 
+        2003''.
+    (b) Procedures.--
+            (1) Force-structure plan.--Section 2903(a) of that Act is 
+        amended--
+                    (A) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively;
+                    (B) by inserting after paragraph (1) the following 
+                new paragraph (2):
+    ``(2)(A) As part of the budget justification documents submitted to 
+Congress in support of the budget for the Department of Defense for 
+fiscal year 2003, the Secretary shall include a force-structure plan 
+for the Armed Forces based on the assessment of the Secretary in the 
+quadrennial defense review under section 118 of title 10, United States 
+Code, in 2001 of the probable threats to the national security during 
+the twenty-year period beginning with fiscal year 2003.
+    ``(B) The Secretary may revise the force-structure plan submitted 
+under subparagraph (A). If the Secretary revises the force-structure 
+plan, the Secretary shall submit the revised force-structure plan to 
+Congress as part of the budget justification documents submitted to 
+Congress in support of the budget for the Department of Defense for 
+fiscal year 2004.''; and
+                    (C) in paragraph (3), as redesignated by 
+                subparagraph (A) of this paragraph--
+                            (i) in the matter preceding subparagraph 
+                        (A), by striking ``Such plan'' and inserting 
+                        ``Each force-structure plan under this 
+                        subsection''; and
+                            (ii) in subparagraph (A), by striking 
+                        ``referred to in paragraph (1)'' and inserting 
+                        ``on which such force-structure plan is 
+                        based''.
+            (2) Selection criteria.--Section 2903(b) of that Act is 
+        amended--
+                    (A) in paragraph (1), by inserting ``and by no 
+                later than December 31, 2001, for purposes of 
+                activities of the Commission under this part in 2003,'' 
+                after ``December 31, 1990,''; and
+                    (B) in paragraph (2)(A)--
+                            (i) in the first sentence, by inserting 
+                        ``and by no later than February 15, 2002, for 
+                        purposes of activities of the Commission under 
+                        this part in 2003,'' after ``February 15, 
+                        1991,''; and
+                            (ii) in the second sentence, by inserting 
+                        ``, or enacted on or before March 31, 2002, in 
+                        the case of criteria published and transmitted 
+                        under the preceding sentence in 2001'' after 
+                        ``March 15, 1991''.
+            (3) Department of defense recommendations.--Section 
+        2903(c)(1) of that Act is amended by striking ``and March 1, 
+        1995'' and inserting ``March 1, 1995, and March 14, 2003''.
+            (4) Commission review and recommendations.--Section 2903(d) 
+        of that Act is amended--
+                    (A) in paragraph (2)(A), by inserting ``or by no 
+                later than July 7 in the case of recommendations in 
+                2003,'' after ``pursuant to subsection (c),'';
+                    (B) in paragraph (4), by inserting ``or after July 
+                7 in the case of recommendations in 2003,'' after 
+                ``under this subsection,''; and
+                    (C) in paragraph (5)(B), by inserting ``or by no 
+                later than May 1 in the case of such recommendations in 
+                2003,'' after ``such recommendations,''.
+            (5) Review by president.--Section 2903(e) of that Act is 
+        amended--
+                    (A) in paragraph (1), by inserting ``or by no later 
+                than July 22 in the case of recommendations in 2003,'' 
+                after ``under subsection (d),'';
+                    (B) in the second sentence of paragraph (3), by 
+                inserting ``or by no later than August 18 in the case 
+                of 2003,'' after ``the year concerned,''; and
+                    (C) in paragraph (5), by inserting ``or by 
+                September 3 in the case of recommendations in 2003,'' 
+                after ``under this part,''.
+    (c) Relationship to Other Base Closure Authority.--Section 2909(a) 
+of that Act is amended by striking ``December 31, 1995,'' and inserting 
+``December 31, 2003,''.
+
+SEC. 2902. BASE CLOSURE ACCOUNT 2003.
+
+    (a) Establishment.--The Defense Base Closure and Realignment Act of 
+1990 (part A of title XXIX of Public Law 101-510; 10 U.S.C. 2687 note) 
+is amended by inserting after section 2906 the following new section:
+
+``SEC. 2906A. BASE CLOSURE ACCOUNT 2003.
+
+    ``(a) In General.--(1) There is hereby established on the books of 
+the Treasury an account to be known as the `Department of Defense Base 
+Closure Account 2003' (in this section referred to as the `Account'). 
+The Account shall be administered by the Secretary as a single account.
+    ``(2) There shall be deposited into the Account--
+            ``(A) funds authorized for and appropriated to the Account;
+            ``(B) any funds that the Secretary may, subject to approval 
+        in an appropriation Act, transfer to the Account from funds 
+        appropriated to the Department of Defense for any purpose, 
+        except that such funds may be transferred only after the date 
+        on which the Secretary transmits written notice of, and 
+        justification for, such transfer to the congressional defense 
+        committees; and
+            ``(C) except as provided in subsection (d), proceeds 
+        received from the lease, transfer, or disposal of any property 
+        at a military installation that is closed or realigned under 
+        this part pursuant to a closure or realignment the date of 
+        approval of which is after September 30, 2003.
+    ``(3) The Account shall be closed at the time and in the manner 
+provided for appropriation accounts under section 1555 of title 31, 
+United States Code. Unobligated funds which remain in the Account upon 
+closure shall be held by the Secretary of the Treasury until 
+transferred by law after the congressional defense committees receive 
+the final report transmitted under subsection (c)(2).
+    ``(b) Use of Funds.--(1) The Secretary may use the funds in the 
+Account only for the purposes described in section 2905 with respect to 
+military installations the date of approval of closure or realignment 
+of which is after September 30, 2003.
+    ``(2) When a decision is made to use funds in the Account to carry 
+out a construction project under section 2905(a) and the cost of the 
+project will exceed the maximum amount authorized by law for a minor 
+military construction project, the Secretary shall notify in writing 
+the congressional defense committees of the nature of, and 
+justification for, the project and the amount of expenditures for such 
+project. Any such construction project may be carried out without 
+regard to section 2802(a) of title 10, United States Code.
+    ``(c) Reports.--(1)(A) No later than 60 days after the end of each 
+fiscal year in which the Secretary carries out activities under this 
+part using amounts in the Account, the Secretary shall transmit a 
+report to the congressional defense committees of the amount and nature 
+of the deposits into, and the expenditures from, the Account during 
+such fiscal year and of the amount and nature of other expenditures 
+made pursuant to section 2905(a) during such fiscal year.
+    ``(B) The report for a fiscal year shall include the following:
+            ``(i) The obligations and expenditures from the Account 
+        during the fiscal year, identified by subaccount, for each 
+        military department and Defense Agency.
+            ``(ii) The fiscal year in which appropriations for such 
+        expenditures were made and the fiscal year in which funds were 
+        obligated for such expenditures.
+            ``(iii) Each military construction project for which such 
+        obligations and expenditures were made, identified by 
+        installation and project title.
+            ``(iv) A description and explanation of the extent, if any, 
+        to which expenditures for military construction projects for 
+        the fiscal year differed from proposals for projects and 
+        funding levels that were included in the justification 
+        transmitted to Congress under section 2907(1), or otherwise, 
+        for the funding proposals for the Account for such fiscal year, 
+        including an explanation of--
+                    ``(I) any failure to carry out military 
+                construction projects that were so proposed; and
+                    ``(II) any expenditures for military construction 
+                projects that were not so proposed.
+    ``(2) No later than 60 days after the termination of the authority 
+of the Secretary to carry out a closure or realignment under this part 
+with respect to military installations the date of approval of closure 
+or realignment of which is after September 30, 2003, and no later than 
+60 days after the closure of the Account under subsection (a)(3), the 
+Secretary shall transmit to the congressional defense committees a 
+report containing an accounting of--
+            ``(A) all the funds deposited into and expended from the 
+        Account or otherwise expended under this part with respect to 
+        such installations; and
+            ``(B) any amount remaining in the Account.
+    ``(d) Disposal or Transfer of Commissary Stores and Property 
+Purchased With Nonappropriated Funds.--(1) If any real property or 
+facility acquired, constructed, or improved (in whole or in part) with 
+commissary store funds or nonappropriated funds is transferred or 
+disposed of in connection with the closure or realignment of a military 
+installation under this part the date of approval of closure or 
+realignment of which is after September 30, 2003, a portion of the 
+proceeds of the transfer or other disposal of property on that 
+installation shall be deposited in the reserve account established 
+under section 204(b)(7)(C) of the Defense Authorization Amendments and 
+Base Closure and Realignment Act (10 U.S.C. 2687 note).
+    ``(2) The amount so deposited shall be equal to the depreciated 
+value of the investment made with such funds in the acquisition, 
+construction, or improvement of that particular real property or 
+facility. The depreciated value of the investment shall be computed in 
+accordance with regulations prescribed by the Secretary of Defense.
+    ``(3) The Secretary may use amounts in the account (in such an 
+aggregate amount as is provided in advance in appropriation Acts) for 
+the purpose of acquiring, constructing, and improving--
+            ``(A) commissary stores; and
+            ``(B) real property and facilities for nonappropriated fund 
+        instrumentalities.
+    ``(4) In this subsection, the terms `commissary store funds', 
+`nonappropriated funds', and `nonappropriated fund instrumentality' 
+shall have the meaning given those terms in section 2906(d)(4).
+    ``(e) Account Exclusive Source of Funds for Environmental 
+Restoration Projects.--Except as provided in section 2906(e) with 
+respect to funds in the Department of Defense Base Closure Account 1990 
+under section 2906 and except for funds deposited into the Account 
+under subsection (a), funds appropriated to the Department of Defense 
+may not be used for purposes described in section 2905(a)(1)(C). The 
+prohibition in this subsection shall expire upon the closure of the 
+Account under subsection (a)(3).''.
+    (b) Conforming Amendments.--Section 2906 of that Act is amended--
+            (1) in subsection (a)(2)(C), by inserting ``the date of 
+        approval of closure or realignment of which is before September 
+        30, 2003'' after ``under this part'';
+            (2) in subsection (b)(1), by inserting ``with respect to 
+        military installations the date of approval of closure or 
+        realignment of which is before September 30, 2003,'' after 
+        ``section 2905'';
+            (3) in subsection (c)(2)--
+                    (A) in the matter preceding subparagraph (A), by 
+                inserting ``with respect to military installations the 
+                date of approval of closure or realignment of which is 
+                before September 30, 2003,'' after ``under this part''; 
+                and
+                    (B) in subparagraph (A), by inserting ``with 
+                respect to such installations'' after ``under this 
+                part'';
+            (4) in subsection (d)(1), by inserting ``the date of 
+        approval of closure or realignment of which is before September 
+        30, 2003'' after ``under this part''; and
+            (5) in subsection (e), by striking ``Except for'' and 
+        inserting ``Except as provided in section 2906A(e) with respect 
+        to funds in the Department of Defense Base Closure Account 2001 
+        under section 2906A and except for''.
+    (c) Clerical Amendment.--The section heading of section 2906 of 
+that Act is amended to read as follows:
+
+``SEC. 2906. BASE CLOSURE ACCOUNT 1990.''.
+
+SEC. 2903. ADDITIONAL MODIFICATIONS OF BASE CLOSURE AUTHORITIES.
+
+    (a) Increase in Members of Commission.--Section 2902(c)(1)(A) of 
+the Defense Base Closure and Realignment Act of 1990 (part A of title 
+XXIX of Public Law 101-510; 10 U.S.C. 2867 note) is amended by striking 
+``eight members'' and inserting ``nine members''.
+    (b) Selection Criteria.--Section 2903(b) of that Act is amended by 
+adding at the end the following new paragraphs:
+    ``(3) The selection criteria shall ensure that military value is 
+the primary consideration in the making of recommendations for the 
+closure or realignment of military installations under this part.
+    ``(4) Any selection criteria proposed by the Secretary relating to 
+the cost savings or return on investment from the proposed closure or 
+realignment of a military installation shall take into account the 
+effect of the proposed closure or realignment on the costs of any other 
+Federal agency that may be required to assume responsibility for 
+activities at the military installation.''.
+    (c) Department of Defense Recommendations to Commission.--Section 
+2903(c) of that Act is amended--
+            (1) by redesignating paragraphs (1), (2), (3), (4), (5), 
+        and (6) as paragraphs (2), (3), (4), (6), (7), and (8), 
+        respectively;
+            (2) by inserting before paragraph (2), as so redesignated, 
+        by the following new paragraph (1):
+    ``(1) The Secretary shall carry out a comprehensive review of the 
+military installations of the Department of Defense inside the United 
+States based on the force-structure plan submitted under subsection 
+(a)(2), and the final criteria transmitted under subsection (b)(2), in 
+2002. The review shall cover every type of facility or other 
+infrastructure operated by the Department of Defense.'';
+            (3) in paragraph (4), as so redesignated--
+                    (A) by redesignating subparagraphs (B) and (C) as 
+                subparagraphs (C) and (D), respectively;
+                    (B) by inserting after subparagraph (A) the 
+                following new subparagraph (B):
+    ``(B) In considering military installations for closure or 
+realignment under this part in any year after 2001, the Secretary shall 
+consider the anticipated continuing need for and availability of 
+military installations worldwide. In evaluating the need for military 
+installations inside the United States, the Secretary shall take into 
+account current restrictions on the use of military installations 
+outside the United States and the potential for future prohibitions or 
+restrictions on the use of such military installations.''; and
+                    (C) in subparagraph (D), as so redesignated, by 
+                striking ``subparagraph (B)'' and inserting 
+                ``subparagraph (C)'';
+            (4) by inserting after paragraph (4), as so redesignated, 
+        the following new paragraph (5):
+    ``(5)(A) In making recommendations to the Commission under this 
+subsection in any year after 2001, the Secretary shall consider any 
+notice received from a local government in the vicinity of a military 
+installation that the government would approve of the closure or 
+realignment of the installation.
+    ``(B) Notwithstanding the requirement in subparagraph (A), the 
+Secretary shall make the recommendations referred to in that 
+subparagraph based on the force-structure plan and final criteria 
+otherwise applicable to such recommendations under this section.
+    ``(C) The recommendations made by the Secretary under this 
+subsection in any year after 2001 shall include a statement of the 
+result of the consideration of any notice described in subparagraph (A) 
+that is received with respect to an installation covered by such 
+recommendations. The statement shall set forth the reasons for the 
+result.''; and
+            (5) in paragraph (8), as so redesignated--
+                    (A) in the first sentence, by striking ``paragraph 
+                (5)(B)'' and inserting ``paragraph (7)(B)''; and
+                    (B) in the second sentence, by striking ``24 
+                hours'' and inserting ``48 hours''.
+    (d) Commission Changes in Recommendations of Secretary.--Section 
+2903(d)(2) of that Act is amended--
+            (1) in subparagraph (B), by striking ``if'' and inserting 
+        ``only if'';
+            (2) in subparagraph (C)--
+                    (A) in clause (iii), by striking ``and'' at the 
+                end;
+                    (B) in clause (iv), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following new clause:
+            ``(v) invites the Secretary to testify at a public hearing, 
+        or a closed hearing if classified information is involved, on 
+        the proposed change.'';
+            (3) by redesignating subparagraph (E) as subparagraph (F); 
+        and
+            (4) by inserting after subparagraph (D) the following new 
+        subparagraph (E):
+    ``(E) In the case of a change not described in subparagraph (D) in 
+the recommendations made by the Secretary, the Commission may make the 
+change only if the Commission--
+            ``(i) makes the determination required by subparagraph (B);
+            ``(ii) determines that the change is consistent with the 
+        force-structure plan and final criteria referred to in 
+        subsection (c)(1); and
+            ``(iii) invites the Secretary to testify at a public 
+        hearing, or a closed hearing if classified information is 
+        involved, on the proposed change.''.
+    (e) Privatization in Place.--Section 2904(a) of that Act is 
+amended--
+            (1) by redesignating paragraphs (3) and (4) as paragraphs 
+        (4) and (5), respectively; and
+            (2) by inserting after paragraph (2) the following new 
+        paragraph (3):
+            ``(3) carry out the privatization in place of a military 
+        installation recommended for closure or realignment by the 
+        Commission in each such report after 2001 only if privatization 
+        in place is a method of closure or realignment of the 
+        installation specified in the recommendation of the Commission 
+        in such report and is determined by the Commission to be the 
+        most-cost effective method of implementation of the 
+        recommendation;''.
+    (f) Implementation.--
+            (1) Payment for certain services for property leased back 
+        by the united states.--Section 2905(b)(4)(E) of that Act is 
+        amended--
+            (1) in clause (iii), by striking ``A lease'' and inserting 
+        ``Except as provided in clause (v), a lease''; and
+            (2) by adding at the end the following new clause (v):
+    ``(v)(I) Notwithstanding clause (iii), a lease under clause (i) may 
+require the United States to pay the redevelopment authority concerned, 
+or the assignee of the redevelopment authority, for facility services 
+and common area maintenance provided for the leased property by the 
+redevelopment authority or assignee, as the case may be.
+    ``(II) The rate charged the United States for services and 
+maintenance provided by a redevelopment authority or assignee under 
+subclause (I) may not exceed the rate charged non-Federal tenants 
+leasing property at the installation for such services and maintenance.
+    ``(III) For purposes of this clause, facility services and common 
+area maintenance shall not include municipal services that the State or 
+local government concerned is required by law to provide without direct 
+charge to landowners, or firefighting or security-guard functions.''.
+            (2) Transfers in connection with payment of environmental 
+        remediation.--Section 2905(e) of that Act is amended--
+                    (A) in paragraph (1)(B), by adding at the end the 
+                following new sentence: ``The real property and 
+                facilities referred to in subparagraph (A) are also the 
+                real property and facilities located at an installation 
+                approved for closure or realignment under this part 
+                after 2001 that are available for purposes other than 
+                to assist the homeless.'';
+                    (B) in paragraph (2)(A), by striking ``to be paid 
+                by the recipient of the property or facilities'' and 
+                inserting ``otherwise to be paid by the Secretary with 
+                respect to the property or facilities'';
+                    (C) by striking paragraph (6);
+                    (D) by redesignating paragraphs (3), (4), and (5) 
+                as paragraphs (4), (5), (6), respectively; and
+                    (E) by inserting after paragraph (2) the following 
+                new paragraph (3):
+    ``(3) In the case of property or facilities covered by a 
+certification under paragraph (2)(A), the Secretary may pay the 
+recipient of such property or facilities an amount equal to the lesser 
+of--
+            ``(A) the amount by which the costs incurred by the 
+        recipient of such property or facilities for all environmental 
+        restoration, waste, management, and environmental compliance 
+        activities with respect to such property or facilities exceed 
+        the fair market value of such property or facilities as 
+        specified in such certification; or
+            ``(B) the amount by which the costs (as determined by the 
+        Secretary) that would otherwise have been incurred by the 
+        Secretary for such restoration, management, and activities with 
+        respect to such property or facilities exceed the fair market 
+        value of such property or facilities as so specified.''.
+            (3) Scope of indemnification of transferees in connection 
+        with payment of environmental remediation.--Paragraph (6) of 
+        section 2905(e) of that Act, as redesignated by paragraph (1) 
+        of this subsection, is further amended by inserting before the 
+        period the following: ``, except in the case of releases or 
+        threatened releases not disclosed pursuant to paragraph (4)''.
+
+SEC. 2904. TECHNICAL AND CLARIFYING AMENDMENTS.
+
+    (a) Commencement of Period for Notice of Interest in Property for 
+Homeless.--Section 2905(b)(7)(D)(ii)(I) of the Defense Base Closure and 
+Realignment Act of 1990 (part A of title XXIX of Public Law 101-510; 10 
+U.S.C. 2867 note) is amended by striking ``that date'' and inserting 
+``the date of publication of such determination in a newspaper of 
+general circulation in the communities in the vicinity of the 
+installation under subparagraph (B)(i)(IV)''.
+    (b) Other Clarifying Amendments.--(1) That Act is further amended 
+by inserting ``or realignment'' after ``closure'' each place it appears 
+in the following provisions:
+            (A) Section 2905(b)(3).
+            (B) Section 2905(b)(5).
+            (C) Section 2905(b)(7)(B)(iv).
+            (D) Section 2905(b)(7)(N).
+            (E) Section 2910(10)(B).
+    (2) That Act is further amended by inserting ``or realigned'' after 
+``closed'' each place it appears in the following provisions:
+            (A) Section 2905(b)(3)(C)(ii).
+            (B) Section 2905(b)(3)(D).
+            (C) Section 2905(b)(3)(E).
+            (D) Section 2905(b)(4)(A).
+            (E) Section 2905(b)(5)(A).
+            (F) Section 2910(9).
+            (G) Section 2910(10).
+    (3) Section 2905(e)(1)(B) of that Act is amended by inserting ``, 
+or realigned or to be realigned,'' after ``closed or to be closed''.
+
+           Subtitle B--Modification of 1988 Base Closure Law
+
+SEC. 2911. PAYMENT FOR CERTAIN SERVICES PROVIDED BY REDEVELOPMENT 
+              AUTHORITIES FOR PROPERTY LEASED BACK BY THE UNITED 
+              STATES.
+
+    Section 204(b)(4) of the Defense Authorization Amendments and Base 
+Closure and Realignment Act of (Public Law 100-526; 10 U.S.C. 2687 
+note) is amended by adding at the end the following new subparagraph 
+(J):
+    ``(J)(i) The Secretary may transfer real property at an 
+installation approved for closure or realignment under this title 
+(including property at an installation approved for realignment which 
+will be retained by the Department of Defense or another Federal agency 
+after realignment) to the redevelopment authority for the installation 
+if the redevelopment authority agrees to lease, directly upon transfer, 
+one or more portions of the property transferred under this 
+subparagraph to the Secretary or to the head of another department or 
+agency of the Federal Government. Subparagraph (B) shall apply to a 
+transfer under this subparagraph.
+    ``(ii) A lease under clause (i) shall be for a term of not to 
+exceed 50 years, but may provide for options for renewal or extension 
+of the term by the department or agency concerned.
+    ``(iii) Except as provided in clause (v), a lease under clause (i) 
+may not require rental payments by the United States.
+    ``(iv) A lease under clause (i) shall include a provision 
+specifying that if the department or agency concerned ceases requiring 
+the use of the leased property before the expiration of the term of the 
+lease, the remainder of the lease term may be satisfied by the same or 
+another department or agency of the Federal Government using the 
+property for a use similar to the use under the lease. Exercise of the 
+authority provided by this clause shall be made in consultation with 
+the redevelopment authority concerned.
+    ``(v)(I) Notwithstanding clause (iii), a lease under clause (i) may 
+require the United States to pay the redevelopment authority concerned, 
+or the assignee of the redevelopment authority, for facility services 
+and common area maintenance provided for the leased property by the 
+redevelopment authority or assignee, as the case may be.
+    ``(II) The rate charged the United States for services and 
+maintenance provided by a redevelopment authority or assignee under 
+subclause (I) may not exceed the rate charged non-Federal tenants 
+leasing property at the installation for such services and maintenance.
+    ``(III) For purposes of this clause, facility services and common 
+area maintenance shall not include municipal services that the State or 
+local government concerned is required by law to provide without direct 
+charge to landowners, or firefighting or security-guard functions.''.
+
+            Passed the Senate October 2, 2001.
+
+            Attest:
+
+                                                             Secretary.
+107th CONGRESS
+
+  1st Session
+
+                                S. 1418
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To authorize appropriations for fiscal year 2002 for military 
+                 construction, and for other purposes.

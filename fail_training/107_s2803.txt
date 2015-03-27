@@ -1,0 +1,728 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 2803 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 2803
+
+    To amend the Federal Meat Inspection Act, the Poultry Products 
+Inspection Act, and the Federal Food, Drug, and Cosmetic Act to provide 
+      for improved public health and food safety through enhanced 
+                  enforcement, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 26, 2002
+
+Mr. Harkin (for himself and Mr. Conrad) introduced the following bill; 
+  which was read twice and referred to the Committee on Agriculture, 
+                        Nutrition, and Forestry
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Federal Meat Inspection Act, the Poultry Products 
+Inspection Act, and the Federal Food, Drug, and Cosmetic Act to provide 
+      for improved public health and food safety through enhanced 
+                  enforcement, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Safe and Fair Enforcement and Recall 
+for Meat, Poultry, and Food Act'' (SAFER Meat, Poultry, and Food Act).
+
+SEC. 2. FOOD SAFETY ENFORCEMENT FOR MEAT AND MEAT FOOD PRODUCTS.
+
+    (a) In General.--The Federal Meat Inspection Act (21 U.S.C. 601 et 
+seq.) is amended--
+            (1) by redesignating section 411 (21 U.S.C. 680) as section 
+        414; and
+            (2) by inserting after section 410 (21 U.S.C. 679a) the 
+        following:
+
+``SEC. 411. NOTIFICATION, NONDISTRIBUTION, AND RECALL OF ADULTERATED OR 
+              MISBRANDED ARTICLES.
+
+    ``(a) Notification to Secretary of Violation.--
+            ``(1) In general.--A person (other than a household 
+        consumer) that has reason to believe that any carcass, part of 
+        a carcass, meat, or meat food product of cattle, sheep, swine, 
+        goats, horses, mules, or other equines (referred to in this 
+        section as an `article') transported, stored, distributed, or 
+        otherwise handled by the person is adulterated or misbranded 
+        shall, as soon as practicable, notify the Secretary of the 
+        identity and location of the article.
+            ``(2) Manner of notification.--Notification under paragraph 
+        (1) shall be made in such manner and by such means as the 
+        Secretary may require by regulation.
+    ``(b) Recall and Consumer Notification.--
+            ``(1) Voluntary actions.--On receiving notification under 
+        subsection (a) or by other means, if the Secretary finds that 
+        an article is adulterated or misbranded and that there is a 
+        reasonable probability that human consumption of the article 
+        would present a threat to public health (as determined by the 
+        Secretary), the Secretary shall provide all appropriate persons 
+        (as determined by the Secretary), that transported, stored, 
+        distributed, or otherwise handled the article with an 
+        opportunity--
+                    ``(A) to cease distribution of the article;
+                    ``(B) to notify all persons that transport, store, 
+                distribute, or otherwise handle the article, or to 
+                which the article has been transported, sold, 
+                distributed, or otherwise handled, to cease immediately 
+                distribution of the article;
+                    ``(C) to recall the article; or
+                    ``(D) in consultation with the Secretary, to 
+                provide notice of the finding of the Secretary to all 
+                consumers to which the article was, or may have been, 
+                distributed.
+            ``(2) Mandatory actions.--If the appropriate person 
+        referred to in paragraph (1) does not carry out the actions 
+        described in that paragraph with respect to an article within 
+        the time period and in the manner prescribed by the Secretary, 
+        the Secretary shall, by order, require, as the Secretary 
+        determines to be necessary, the person--
+                    ``(A) to cease immediately distribution of the 
+                article; and
+                    ``(B) to make immediately the notification 
+                described in paragraph (1)(B).
+            ``(3) Notice to consumers.--The Secretary shall, as the 
+        Secretary determines to be necessary, provide notice of the 
+        finding of the Secretary under paragraph (1) to consumers to 
+        which the article was, or may have been, distributed.
+            ``(4) Nondistribution by notified persons.--A person that 
+        transports, stores, distributes, or otherwise handles the 
+        article, or to which the article has been transported, sold, 
+        distributed, or otherwise handled, and that is notified under 
+        paragraph (1)(B) or (2)(B) shall cease immediately distribution 
+        of the article.
+            ``(5) Availability of records to secretary.--Each 
+        appropriate person referred to in paragraph (1) that 
+        transported, stored, distributed, or otherwise handled an 
+        article shall make available to the Secretary information 
+        necessary to carry out this subsection, as determined by the 
+        Secretary, regarding--
+                    ``(A) persons that transport, store, distribute, or 
+                otherwise handle the article; and
+                    ``(B) persons to which the article has been 
+                transported, sold, distributed, or otherwise handled.
+    ``(c) Informal Hearings on Orders.--
+            ``(1) In general.--The Secretary shall provide a person 
+        subject to an order under subsection (b) with an opportunity 
+        for an informal hearing (in accordance with such rules or 
+        regulations as the Secretary shall prescribe) on--
+                    ``(A) the actions required by the order; and
+                    ``(B) any reasons why the article that is the 
+                subject of the order should not be recalled.
+            ``(2) Timing of hearings.--The Secretary shall hold a 
+        hearing under paragraph (1) as soon as practicable, but not 
+        later than 2 business days, after the date of issuance of the 
+        order.
+    ``(d) Post-Hearing Recall Orders.--
+            ``(1) Amendment of orders.--If, after providing an 
+        opportunity for an informal hearing under subsection (c), the 
+        Secretary determines that there is a reasonable probability 
+        that human consumption of the article that is the subject of an 
+order under subsection (b) presents a threat to public health, the 
+Secretary may, as the Secretary determines to be necessary--
+                    ``(A) amend the order under subsection (b)--
+                            ``(i) to require recall of the article or 
+                        other appropriate action; and
+                            ``(ii) to specify a timetable during which 
+                        the recall shall occur;
+                    ``(B) require periodic reports to the Secretary 
+                describing the progress of the recall; or
+                    ``(C) provide notice of the recall to consumers to 
+                which the article was, or may have been, distributed.
+            ``(2) Vacation of orders.--If, after providing an 
+        opportunity for an informal hearing under subsection (c), the 
+        Secretary determines that adequate grounds do not exist to 
+        continue the actions required by the order, the Secretary shall 
+        vacate the order.
+    ``(e) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.
+
+``SEC. 412. REFUSAL OR WITHDRAWAL OF INSPECTION OF ESTABLISHMENTS.
+
+    ``(a) In General.--The Secretary may, for such period, or 
+indefinitely, as the Secretary considers necessary to carry out this 
+Act, refuse to provide or withdraw inspection under title I with 
+respect to an establishment if the Secretary determines, after 
+opportunity for a hearing on the record is provided to the applicant 
+for, or recipient of, inspection, that the applicant or recipient, or 
+any person responsibly connected with the applicant or recipient 
+(within the meaning of section 401), has committed a willful violation 
+or repeated violations of this Act (including a regulation promulgated 
+under this Act).
+    ``(b) Denial or Suspension of Inspection Pending Hearing.--The 
+Secretary may deny or suspend inspection under title I, pending 
+opportunity for an expedited hearing, with respect to an action under 
+subsection (a), if the Secretary determines that the denial or 
+suspension is in the public interest to protect the health or welfare 
+of consumers or to ensure the effective performance of an official duty 
+under this Act.
+    ``(c) Judicial Review.--
+            ``(1) In general.--A determination and order of the 
+        Secretary with respect to the refusal or withdrawal of 
+        inspection under this section shall be final unless, not later 
+        than 30 days after the effective date of the order, the 
+        affected applicant for, or recipient of, inspection--
+                    ``(A) files a petition for judicial review of the 
+                order; and
+                    ``(B) simultaneously sends a copy of the petition 
+                by certified mail to the Secretary.
+            ``(2) Refusal or withdrawal of inspection pending review.--
+        Inspection shall be refused or withdrawn as of the effective 
+        date of the order pending any judicial review of the order 
+        unless the Secretary directs otherwise.
+            ``(3) Venue; record.--Judicial review of the order shall 
+        be--
+                    ``(A) in--
+                            ``(i) the United States court of appeals 
+                        for the circuit in which the applicant for, or 
+                        recipient of, inspection resides or has its 
+                        principal place of business; or
+                            ``(ii) the United States Court of Appeals 
+                        for the District of Columbia Circuit; and
+                    ``(B) on the record on which the determination and 
+                order are based.
+    ``(d) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.
+
+``SEC. 413. CIVIL PENALTIES.
+
+    ``(a) In General.--
+            ``(1) Assessment.--The Secretary may assess against a 
+        person that violates this Act (including a regulation 
+        promulgated or order issued under this Act) a civil penalty for 
+        each violation of not more than $100,000.
+            ``(2) Separate offenses.--Each violation and each day 
+        during which the violation continues shall be considered to be 
+        a separate offense.
+            ``(3) Notice and opportunity for hearing.--The Secretary 
+        shall not assess a civil penalty under this section against a 
+        person unless the person is given notice and opportunity for a 
+        hearing on the record before the Secretary in accordance with 
+        sections 554 and 556 of title 5, United States Code.
+            ``(4) Determination of civil penalty amount.--The amount of 
+        a civil penalty under this section--
+                    ``(A) shall be assessed by the Secretary by written 
+                order, taking into account--
+                            ``(i) the gravity of the violation;
+                            ``(ii) the degree of culpability of the 
+                        person;
+                            ``(iii) the size and type of the business 
+                        of the person; and
+                            ``(iv) any history of prior offenses by the 
+                        person under this Act; and
+                    ``(B) shall be reviewed only in accordance with 
+                subsection (b).
+    ``(b) Judicial Review.--
+            ``(1) In general.--An order assessing a civil penalty 
+        against a person under subsection (a) shall be final unless the 
+        person--
+                    ``(A) not later than 30 days after the effective 
+                date of the order, files a petition for judicial review 
+                of the order in--
+                            ``(i) the United States court of appeals 
+                        for the circuit in which the person resides or 
+                        has its principal place of business; or
+                            ``(ii) the United States Court of Appeals 
+                        for the District of Columbia Circuit; and
+                    ``(B) simultaneously sends a copy of the petition 
+                by certified mail to the Secretary.
+            ``(2) Filing of copy of record.--The Secretary shall 
+        promptly file in the court a certified copy of the record on 
+        which the order was issued.
+    ``(c) Collection Actions for Failure To Pay Assessment.--
+            ``(1) Referral to attorney general.--If a person fails to 
+        pay a civil penalty assessed under subsection (a) after the 
+        order assessing the civil penalty has become a final order, or 
+        after the court of appeals has entered final judgment in favor 
+        of the Secretary, the Secretary shall refer the matter to the 
+        Attorney General.
+            ``(2) Action by attorney general.--The Attorney General 
+        shall bring a civil action to recover the amount of the civil 
+        penalty in United States district court.
+            ``(3) Scope of review.--In a civil action under paragraph 
+        (2), the validity and appropriateness of the order of the 
+        Secretary assessing the civil penalty shall not be subject to 
+        review.
+    ``(d) Refusal or Withdrawal of Inspection Pending Payment.--If a 
+person fails to pay the amount of a civil penalty after the order 
+assessing the civil penalty has become a final order, the Secretary may 
+refuse to provide or withdraw inspection under title I of the person 
+until the civil penalty is paid or until the Secretary directs 
+otherwise.
+    ``(e) Penalties in Lieu of Other Actions.--Nothing in this Act 
+requires the Secretary to report for prosecution, or for the 
+commencement of an action, any violation of this Act in any case in 
+which the Secretary believes that the public interest will be 
+adequately served by the assessment of a civil penalty under this 
+section.
+    ``(f) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.''.
+    (b) Conforming Amendments.--
+            (1) Section 1 of the Federal Meat Inspection Act (21 U.S.C. 
+        601) is amended by adding at the end the following:
+    ``(w) Person.--The term `person' means any individual, partnership, 
+corporation, association, or other business unit.''.
+            (2) The Federal Meat Inspection Act (21 U.S.C. 601 et seq.) 
+        is amended--
+                    (A) by striking ``person, firm, or corporation'' 
+                each place it appears and inserting ``person'';
+                    (B) by striking ``persons, firms, and 
+                corporations'' each place it appears and inserting 
+                ``persons''; and
+                    (C) by striking ``persons, firms, or corporations'' 
+                each place it appears and inserting ``persons''.
+
+SEC. 3. FOOD SAFETY ENFORCEMENT FOR POULTRY AND POULTRY FOOD PRODUCTS.
+
+    The Poultry Products Inspection Act (21 U.S.C. 451 et seq.) is 
+amended--
+            (1) in the first sentence of section 5(c)(1) (21 U.S.C. 
+        454(c)(1))--
+                    (A) by striking ``, by thirty days prior to the 
+                expiration of two years after enactment of the 
+                Wholesome Poultry Products Act,''; and
+                    (B) by striking ``sections 1-4, 6-10, and 12-22 of 
+                this Act'' and inserting ``sections 1 through 4, 6 
+                through 10, 12 through 22, and 31 through 33''; and
+            (2) by adding at the end the following:
+
+``SEC. 31. NOTIFICATION, NONDISTRIBUTION, AND RECALL OF ADULTERATED OR 
+              MISBRANDED ARTICLES.
+
+    ``(a) Notification to Secretary of Violation.--
+            ``(1) In general.--A person (other than a household 
+        consumer) that has reason to believe that any poultry or 
+        poultry product (referred to in this section as an `article') 
+        transported, stored, distributed, or otherwise handled by the 
+        person is adulterated or misbranded shall, as soon as 
+        practicable, notify the Secretary of the identity and location 
+        of the article.
+            ``(2) Manner of notification.--Notification under paragraph 
+        (1) shall be made in such manner and by such means as the 
+        Secretary may require by regulation.
+    ``(b) Recall and Consumer Notification.--
+            ``(1) Voluntary actions.--On receiving notification under 
+        subsection (a) or by other means, if the Secretary finds that 
+        an article is adulterated or misbranded and that there is a 
+        reasonable probability that human consumption of the article 
+        would present a threat to public health (as determined by the 
+        Secretary), the Secretary shall provide all appropriate persons 
+        (as determined by the Secretary), that transported, stored, 
+        distributed, or otherwise handled the article with an 
+        opportunity--
+                    ``(A) to cease distribution of the article;
+                    ``(B) to notify all persons that transport, store, 
+                distribute, or otherwise handle the article, or to 
+                which the article has been transported, sold, 
+                distributed, or otherwise handled, to cease immediately 
+                distribution of the article;
+                    ``(C) to recall the article; or
+                    ``(D) in consultation with the Secretary, to 
+                provide notice of the finding of the Secretary to all 
+                consumers to which the article was, or may have been, 
+                distributed.
+            ``(2) Mandatory actions.--If the appropriate person 
+        referred to in paragraph (1) does not carry out the actions 
+        described in that paragraph with respect to an article within 
+        the time period and in the manner prescribed by the Secretary, 
+        the Secretary shall, by order, require, as the Secretary 
+        determines to be necessary, the person--
+                    ``(A) to cease immediately distribution of the 
+                article; and
+                    ``(B) to make immediately the notification 
+                described in paragraph (1)(B).
+            ``(3) Notice to consumers.--The Secretary shall, as the 
+        Secretary determines to be necessary, provide notice of the 
+        finding of the Secretary under paragraph (1) to consumers to 
+which the article was, or may have been, distributed.
+            ``(4) Nondistribution by notified persons.--A person that 
+        transports, stores, distributes, or otherwise handles the 
+        article, or to which the article has been transported, sold, 
+        distributed, or otherwise handled, and that is notified under 
+        paragraph (1)(B) or (2)(B) shall cease immediately distribution 
+        of the article.
+            ``(5) Availability of records to secretary.--Each 
+        appropriate person referred to in paragraph (1) that 
+        transported, stored, distributed, or otherwise handled an 
+        article shall make available to the Secretary information 
+        necessary to carry out this subsection, as determined by the 
+        Secretary, regarding--
+                    ``(A) persons that transport, store, distribute, or 
+                otherwise handle the article; and
+                    ``(B) persons to which the article has been 
+                transported, sold, distributed, or otherwise handled.
+    ``(c) Informal Hearings on Orders.--
+            ``(1) In general.--The Secretary shall provide a person 
+        subject to an order under subsection (b) with an opportunity 
+        for an informal hearing (in accordance with such rules or 
+        regulations as the Secretary shall prescribe) on--
+                    ``(A) the actions required by the order; and
+                    ``(B) any reasons why the article that is the 
+                subject of the order should not be recalled.
+            ``(2) Timing of hearings.--The Secretary shall hold a 
+        hearing under paragraph (1) as soon as practicable, but not 
+        later than 2 business days, after the date of issuance of the 
+        order.
+    ``(d) Post-Hearing Recall Orders.--
+            ``(1) Amendment of orders.--If, after providing an 
+        opportunity for an informal hearing under subsection (c), the 
+        Secretary determines that there is a reasonable probability 
+        that human consumption of the article that is the subject of an 
+        order under subsection (b) presents a threat to public health, 
+        the Secretary may, as the Secretary determines to be 
+        necessary--
+                    ``(A) amend the order under subsection (b)--
+                            ``(i) to require recall of the article or 
+                        other appropriate action; and
+                            ``(ii) to specify a timetable during which 
+                        the recall shall occur;
+                    ``(B) require periodic reports to the Secretary 
+                describing the progress of the recall; or
+                    ``(C) provide notice of the recall to consumers to 
+                which the article was, or may have been, distributed.
+            ``(2) Vacation of orders.--If, after providing an 
+        opportunity for an informal hearing under subsection (c), the 
+        Secretary determines that adequate grounds do not exist to 
+        continue the actions required by the order, the Secretary shall 
+        vacate the order.
+    ``(e) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.
+
+``SEC. 32. REFUSAL OR WITHDRAWAL OF INSPECTION OF ESTABLISHMENTS.
+
+    ``(a) In General.--The Secretary may, for such period, or 
+indefinitely, as the Secretary considers necessary to carry out this 
+Act, refuse to provide or withdraw inspection under this Act with 
+respect to an establishment if the Secretary determines, after 
+opportunity for a hearing on the record is provided to the applicant 
+for, or recipient of, inspection, that the applicant or recipient, or 
+any person responsibly connected with the applicant or recipient 
+(within the meaning of section 18(a)), has committed a willful 
+violation or repeated violations of this Act (including a regulation 
+promulgated under this Act).
+    ``(b) Denial or Suspension of Inspection Pending Hearing.--The 
+Secretary may deny or suspend inspection under this Act, pending 
+opportunity for an expedited hearing, with respect to an action under 
+subsection (a), if the Secretary determines that the denial or 
+suspension is in the public interest to protect the health or welfare 
+of consumers or to ensure the effective performance of an official duty 
+under this Act.
+    ``(c) Judicial Review.--
+            ``(1) In general.--A determination and order of the 
+        Secretary with respect to the refusal or withdrawal of 
+        inspection under this section shall be final unless, not later 
+        than 30 days after the effective date of the order, the 
+        affected applicant for, or recipient of, inspection--
+                    ``(A) files a petition for judicial review of the 
+                order; and
+                    ``(B) simultaneously sends a copy of the petition 
+                by certified mail to the Secretary.
+            ``(2) Refusal or withdrawal of inspection pending review.--
+        Inspection shall be refused or withdrawn as of the effective 
+        date of the order pending any judicial review of the order 
+        unless the Secretary directs otherwise.
+            ``(3) Venue; record.--Judicial review of the order shall 
+        be--
+                    ``(A) in--
+                            ``(i) the United States court of appeals 
+                        for the circuit in which the applicant for, or 
+                        recipient of, inspection resides or has its 
+                        principal place of business; or
+                            ``(ii) the United States Court of Appeals 
+                        for the District of Columbia Circuit; and
+                    ``(B) on the record on which the determination and 
+                order are based.
+    ``(d) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.
+
+``SEC. 33. CIVIL PENALTIES.
+
+    ``(a) In General.--
+            ``(1) Assessment.--The Secretary may assess against a 
+        person that violates this Act (including a regulation 
+        promulgated or order issued under this Act) a civil penalty for 
+        each violation of not more than $100,000.
+            ``(2) Separate offenses.--Each violation and each day 
+        during which the violation continues shall be considered to be 
+        a separate offense.
+            ``(3) Notice and opportunity for hearing.--The Secretary 
+        shall not assess a civil penalty under this section against a 
+        person unless the person is given notice and opportunity for a 
+        hearing on the record before the Secretary in accordance with 
+        sections 554 and 556 of title 5, United States Code.
+            ``(4) Determination of civil penalty amount.--The amount of 
+        a civil penalty under this section--
+                    ``(A) shall be assessed by the Secretary by written 
+                order, taking into account--
+                            ``(i) the gravity of the violation;
+                            ``(ii) the degree of culpability of the 
+                        person;
+                            ``(iii) the size and type of the business 
+                        of the person; and
+                            ``(iv) any history of prior offenses by the 
+                        person under this Act; and
+                    ``(B) shall be reviewed only in accordance with 
+                subsection (b).
+    ``(b) Judicial Review.--
+            ``(1) In general.--An order assessing a civil penalty 
+        against a person under subsection (a) shall be final unless the 
+        person--
+                    ``(A) not later than 30 days after the effective 
+                date of the order, files a petition for judicial review 
+                of the order in--
+                            ``(i) the United States court of appeals 
+                        for the circuit in which the person resides or 
+                        has its principal place of business; or
+                            ``(ii) the United States Court of Appeals 
+                        for the District of Columbia Circuit; and
+                    ``(B) simultaneously sends a copy of the petition 
+                by certified mail to the Secretary.
+            ``(2) Filing of copy of record.--The Secretary shall 
+        promptly file in the court a certified copy of the record on 
+        which the order was issued.
+    ``(c) Collection Actions for Failure To Pay Assessment.--
+            ``(1) Referral to attorney general.--If a person fails to 
+        pay a civil penalty assessed under subsection (a) after the 
+        order assessing the civil penalty has become a final order, or 
+        after the court of appeals has entered final judgment in favor 
+        of the Secretary, the Secretary shall refer the matter to the 
+        Attorney General.
+            ``(2) Action by attorney general.--The Attorney General 
+        shall bring a civil action to recover the amount of the civil 
+        penalty in United States district court.
+            ``(3) Scope of review.--In a civil action under paragraph 
+        (2), the validity and appropriateness of the order of the 
+        Secretary assessing the civil penalty shall not be subject to 
+        review.
+    ``(d) Refusal or Withdrawal of Inspection Pending Payment.--If a 
+person fails to pay the amount of a civil penalty after the order 
+assessing the civil penalty has become a final order, the Secretary may 
+refuse to provide or withdraw inspection under this Act of the person 
+until the civil penalty is paid or until the Secretary directs 
+otherwise.
+    ``(e) Penalties in Lieu of Other Actions.--Nothing in this Act 
+requires the Secretary to report for prosecution, or for the 
+commencement of an action, any violation of this Act in any case in 
+which the Secretary believes that the public interest will be 
+adequately served by the assessment of a civil penalty under this 
+section.
+    ``(f) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.''.
+
+SEC. 4. NOTIFICATION, NONDISTRIBUTION, AND RECALL OF ADULTERATED OR 
+              MISBRANDED ARTICLES OF FOOD.
+
+    (a) Prohibited Acts.--Section 301 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 331) is amended by adding at the end the 
+following:
+    ``(gg)(1) The failure to notify the Secretary in violation of 
+section 311(a).
+    ``(2) The failure to comply with--
+            ``(A) an order issued under section 311(b) following any 
+        hearing requested under section 311(c); or
+            ``(B) an amended order issued under section 311(d)(1).''.
+    (b) Notification, Nondistribution, and Recall of Adulterated or 
+Misbranded Articles of Food; Civil Penalties Relating to Foods.--
+Chapter III of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331 
+et seq.) is amended by adding at the end the following:
+
+``SEC. 311. NOTIFICATION, NONDISTRIBUTION, AND RECALL OF ADULTERATED OR 
+              MISBRANDED ARTICLES OF FOOD.
+
+    ``(a) Notification to Secretary of Violation.--
+            ``(1) In general.--A person (other than a household 
+        consumer or other individual who is the intended consumer of an 
+        article of food) that has reason to believe that an article of 
+        food when introduced into or while in interstate commerce, or 
+        while held for sale (regardless of whether the first sale) 
+        after shipment in interstate commerce, is adulterated or 
+        misbranded in a manner that, if consumed, may result in illness 
+        or injury shall, as soon as practicable, notify the Secretary 
+        of the identity and location of the article.
+            ``(2) Manner of notification.--Notification under paragraph 
+        (1) shall be made in such manner and by such means as the 
+        Secretary may require by regulation.
+    ``(b) Recall and Consumer Notification.--
+            ``(1) Voluntary actions.--On receiving notification under 
+        subsection (a) or by other means, if the Secretary finds that 
+        an article of food when introduced into or while in interstate 
+        commerce, or while held for sale (regardless of whether the 
+        first sale) after shipment in interstate commerce, is 
+        adulterated or misbranded in a manner that, if consumed, may 
+        result in illness or injury (as determined by the Secretary), 
+        the Secretary shall provide all appropriate persons (including 
+        the manufacturer, importer, distributor, or retailer of the 
+        article) with an opportunity (as determined by the Secretary)--
+                    ``(A) to cease distribution of the article;
+                    ``(B) to notify all persons--
+                            ``(i) that produce, manufacture, pack, 
+                        process, prepare, treat, package, distribute, 
+                        or hold the article, to cease immediately those 
+                        activities with respect to the article; or
+                            ``(ii) to which the article has been 
+                        distributed, transported, or sold, to cease 
+                        immediately distribution of the article;
+                    ``(C) to recall the article; or
+                    ``(D) in consultation with the Secretary, to 
+                provide notice of the finding of the Secretary to all 
+                consumers to which the article was, or may have been, 
+                distributed.
+            ``(2) Mandatory actions.--If the appropriate person 
+        referred to in paragraph (1) does not carry out the actions 
+        described in that paragraph with respect to an article within 
+        the time period and in the manner prescribed by the Secretary, 
+        the Secretary shall, by order, require, as the Secretary 
+        determines to be necessary, the person--
+                    ``(A) to cease immediately distribution of the 
+                article; and
+                    ``(B) to make immediately the notification 
+                described in paragraph (1)(B).
+            ``(3) Notice to consumers.--The Secretary shall, as the 
+        Secretary determines to be necessary, provide notice of the 
+        finding of the Secretary under paragraph (1) to consumers to 
+        which the article was, or may have been, distributed.
+    ``(c) Hearings on Orders.--
+            ``(1) In general.--The Secretary shall provide a person 
+        subject to an order under subsection (b) with an opportunity 
+        for a hearing on--
+                    ``(A) the actions required by the order; and
+                    ``(B) any reasons why the article of food that is 
+                the subject of the order should not be recalled.
+            ``(2) Timing of hearings.--The Secretary shall hold a 
+        hearing under paragraph (1) as soon as practicable, but not 
+        later than 2 business days, after the date of issuance of the 
+        order.
+    ``(d) Post-Hearing Recall Orders.--
+            ``(1) Amendment of orders.--If, after providing an 
+        opportunity for a hearing under subsection (c), the Secretary 
+        determines that an article of food when introduced into or 
+        while in interstate commerce, or while held for sale 
+        (regardless of whether the first sale) after shipment in 
+        interstate commerce, is adulterated or misbranded in a manner 
+        that, if consumed, may result in illness or injury, the 
+        Secretary may, as the Secretary determines to be necessary--
+                    ``(A) amend the order under subsection (b)--
+                            ``(i) to require recall of the article or 
+                        other appropriate action; and
+                            ``(ii) to specify a timetable during which 
+                        the recall shall occur;
+                    ``(B) require periodic reports to the Secretary 
+                describing the progress of the recall; or
+                    ``(C) provide notice of the recall to consumers to 
+                which the article was, or may have been, distributed.
+            ``(2) Vacation of orders.--If, after providing an 
+        opportunity for a hearing under subsection (c), the Secretary 
+        determines that adequate grounds do not exist to continue the 
+        actions required by the order, the Secretary shall vacate the 
+        order.
+    ``(e) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.
+
+``SEC. 312. CIVIL PENALTIES RELATING TO FOODS.
+
+    ``(a) In General.--
+            ``(1) Assessment.--The Secretary may assess against a 
+        person that commits an act prohibited by section 301 with 
+        respect to an article of food a civil penalty for each such act 
+        of not more than--
+                    ``(A) $100,000, in the case of an individual; and
+                    ``(B) $500,000, in the case of any other person.
+            ``(2) Separate offenses.--Each prohibited act and each day 
+        during which the act continues shall be considered to be a 
+        separate offense.
+            ``(3) Notice and opportunity for hearing.--The Secretary 
+        shall not assess a civil penalty under this section against a 
+        person unless the person is given notice and opportunity for a 
+        hearing on the record before the Secretary in accordance with 
+        sections 554 and 556 of title 5, United States Code.
+            ``(4) Determination of civil penalty amount.--The amount of 
+        a civil penalty under this section--
+                    ``(A) shall be assessed by the Secretary by written 
+                order, taking into account--
+                            ``(i) the gravity of the violation;
+                            ``(ii) the degree of culpability of the 
+                        person;
+                            ``(iii) the size and type of the business 
+                        of the person; and
+                            ``(iv) any history of prior offenses by the 
+                        person; and
+                    ``(B) shall be reviewed only in accordance with 
+                subsection (b).
+    ``(b) Judicial Review.--
+            ``(1) In general.--An order assessing a civil penalty 
+        against a person under subsection (a) shall be final unless the 
+        person--
+                    ``(A) not later than 30 days after the effective 
+                date of the order, files a petition for judicial review 
+                of the order in--
+                            ``(i) the United States court of appeals 
+                        for the circuit in which the person resides or 
+                        has its principal place of business; or
+                            ``(ii) the United States Court of Appeals 
+                        for the District of Columbia Circuit; and
+                    ``(B) simultaneously sends a copy of the petition 
+                by certified mail to the Secretary.
+            ``(2) Filing of copy of record.--The Secretary shall 
+        promptly file in the court a certified copy of the record on 
+        which the order was issued.
+            ``(4) Standard of review.--The findings of the Secretary 
+        relating to the order shall be set aside only if the findings 
+        are found to be unsupported by substantial evidence on the 
+        record as a whole.
+    ``(c) Collection Actions for Failure To Pay Assessment.--
+            ``(1) Referral to attorney general.--If a person fails to 
+        pay a civil penalty assessed under subsection (a) after the 
+        order assessing the civil penalty has become a final order, or 
+        after the court of appeals has entered final judgment in favor 
+        of the Secretary, the Secretary may refer the matter to the 
+        Attorney General.
+            ``(2) Action by attorney general.--The Attorney General 
+        shall bring a civil action to recover the amount of the civil 
+        penalty in United States district court.
+            ``(3) Scope of review.--In a civil action under paragraph 
+        (2), the validity and appropriateness of the order of the 
+        Secretary assessing the civil penalty shall not be subject to 
+        review.
+    ``(d) Penalties Deposited in Treasury.--All amounts collected as 
+civil penalties under this section shall be deposited in the Treasury 
+of the United States.
+    ``(e) Penalties in Lieu of Other Actions.--Nothing in this Act 
+requires the Secretary to report for prosecution, or for the 
+commencement of any libel or injunction proceeding, any violation of 
+this Act in any case in which the Secretary believes that the public 
+interest will be adequately served by the assessment of a civil penalty 
+under this section.
+    ``(f) Remedies Not Exclusive.--The remedies authorized by this 
+section shall be in addition to any other remedies that may be 
+available.''.
+                                 <all>

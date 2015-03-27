@@ -1,0 +1,199 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2735 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 2735
+
+ To protect the rights of American consumers to diagnose, service, and 
+  repair motor vehicles purchased in the United States, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             August 2, 2001
+
+Mr. Barton of Texas (for himself, Mr. Towns, Mr. Bryant, Mr. Blunt, and 
+ Mr. Condit) introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To protect the rights of American consumers to diagnose, service, and 
+  repair motor vehicles purchased in the United States, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Motor Vehicle Owners' Right to 
+Repair Act of 2001''.
+
+SEC. 2. FINDINGS AND PURPOSES.
+
+    (a) Findings.--The Congress finds the following:
+            (1) The ability to diagnose, service, and repair a motor 
+        vehicle in a timely, reliable, and affordable manner is 
+        essential to the safety and well-being of automotive consumers 
+        in the United States.
+            (2) Consumers are entitled to choose among competing repair 
+        facilities for the convenient, reliable, and affordable repair 
+        of their motor vehicles.
+            (3) Increased competition among repair facilities will 
+        benefit vehicle owners in the United States.
+            (4) Computers of various kinds are increasingly being used 
+        in motor vehicle systems, such as pollution control, 
+        transmission, antilock brakes, electronic and mechanical 
+        systems, heating and air-conditioning, sound, and steering.
+            (5) The diagnosis, service, and repair of these vehicle 
+        systems are essential to the safety and proper operation of 
+        modern motor vehicles.
+            (6) In many instances, access codes prevent owners from 
+        making, or having made, the necessary diagnosis, service, and 
+        repair of their motor vehicles in a timely, convenient, 
+        reliable, and affordable manner.
+            (7) Consumers in the United States have benefited from the 
+        availability of an aftermarket parts supply, or parts and 
+        accessories used in the repair, maintenance, or enhancement of 
+        a motor vehicle. The American economy has also benefitted from 
+        the availability of an aftermarket parts supply that provides 
+        jobs to over 5 million workers in 495,000 businesses, and 
+        generates $200 billion in annual sales.
+            (8) Vehicle owners in the United States should have the 
+        right--
+                    (A) to all information necessary to allow the 
+                diagnosis, service, and repair of their vehicles;
+                    (B) to choose between original parts and 
+                aftermarket parts when repairing their motor vehicles; 
+                and
+                    (C) to make, or have made, repairs necessary to 
+                keep their vehicles in reasonably good and serviceable 
+                condition during the expected vehicle life.
+            (9) The restriction of vehicle repair information limits 
+        who can repair motor vehicles and what parts may be used to 
+        repair those vehicles, which limits consumer choice and thus 
+        limits competition.
+            (10) The Congress has provided the Federal Trade Commission 
+        with broad authority to make and enforce rules to foster 
+        competition, to prevent unfair methods of competition in 
+        commerce, and to protect consumers.
+    (b) Purposes.--The purposes of this Act are the following:
+            (1) To require the Federal Trade Commission to prescribe 
+        and enforce rules necessary to ensure the right of a motor 
+        vehicle owner to obtain all information required for the 
+        diagnosis, service, and repair of the motor vehicle.
+            (2) To ensure the safety of all vehicle owners by requiring 
+        disclosure of all information necessary for the proper 
+        diagnosis, service, and repair of a vehicle in a timely, 
+        affordable, and reliable manner.
+            (3) To encourage competition in the diagnosis, service, and 
+        repair of motor vehicles.
+
+SEC. 3. MANUFACTURER DISCLOSURE REQUIREMENTS.
+
+    (a) Duty To Disclose.--In accordance with rules prescribed by the 
+Federal Trade Commission under section 7, the manufacturer of a motor 
+vehicle sold or introduced into commerce in the United States shall 
+promptly provide to the vehicle owner, to a repair facility of the 
+vehicle, and to the Commission for use by any such vehicle owner or 
+repair facility, the information necessary to diagnose, service, or 
+repair the vehicle. Such information shall include--
+            (1) information necessary to integrate replacement 
+        equipment into the vehicle; and
+            (2) other information of any kind used to diagnose, 
+        service, repair, activate, certify, or install any motor 
+        vehicle equipment (including replacement equipment) in a motor 
+        vehicle.
+    (b) Protection of Trade Secrets.--
+            (1) Determination by federal trade commission.--The Federal 
+        Trade Commission may not require a manufacturer to publicly 
+        disclose information that, if made public, would divulge 
+        methods or processes entitled to protection as trade secrets of 
+        that manufacturer, but may require disclosure of such 
+        information to the Commission for the purpose of determining 
+        whether such information is entitled to such protection. Such 
+        determination shall be made on the record after an opportunity 
+        for an agency hearing.
+            (2) Previously disclosed information.--No such information 
+        may be withheld by a manufacturer if that information is 
+        provided (directly or indirectly) to franchised dealers or 
+        other repair facilities.
+
+SEC. 4. UNFAIR OR DECEPTIVE ACT OR PRACTICE.
+
+    The failure by a manufacturer to provide the information required 
+by section 3(a) constitutes an unfair method of competition and an 
+unfair or deceptive act or practice in or affecting commerce (within 
+the meaning of section 5(a)(1) of the Federal Trade Commission Act (15 
+U.S.C. 45(a)(1))). Violation of a rule prescribed under section 6(a) 
+constitutes violation of a rule defining an unfair or deceptive act or 
+practice prescribed under section 18(a)(1)(B) of the Federal Trade 
+Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+SEC. 5. PRIVATE RIGHT OF ACTION.
+
+    A vehicle owner or repair facility may bring a civil action to 
+enjoin a violation of this Act and to recover the costs of litigation 
+(including reasonable attorney and expert witness fees). Such an action 
+may be brought in the district court of the United States for the 
+district in which such owner resides or such repair facility does 
+business, without regard to the amount in controversy or the 
+citizenship of the parties.
+
+SEC. 6. RULEMAKING.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Federal Trade Commission shall prescribe 
+rules setting forth a uniform method by which a manufacturer shall 
+provide the information required by section 3(a), including disclosure 
+in writing, on the Internet, or in any other manner, or under such 
+terms, as the Commission determines may be appropriate. Such rules 
+shall take effect for vehicles manufactured after model year 1994.
+    (b) Limitation.--The Federal Trade Commission may not prescribe 
+rules that--
+            (1) interfere with the authority of the Administrator of 
+        the Environmental Protection Agency under section 202(m) of the 
+        Clean Air Act (42 U.S.C. 7521(m)) with regard to motor vehicle 
+        emissions control diagnostics systems; or
+            (2) conflict with rules prescribed by such Administrator 
+        under such section.
+
+SEC. 7. DEFINITIONS.
+
+    In this Act:
+            (1) The term ``commerce'' has the meaning given that term 
+        in section 4 of the Federal Trade Commission Act (15 U.S.C. 
+        44).
+            (2) The terms ``manufacturer'', ``motor vehicle'', and 
+        ``motor vehicle equipment'' have the meanings given those terms 
+        in section 30102(a) of title 49, United States Code.
+            (3) The term ``vehicle owner'' means any person who owns, 
+        leases, or otherwise has the legal right to use and possess a 
+        motor vehicle, or the agent of such person.
+            (4) The term ``repair facility'' means a person engaged in 
+        the repair, diagnosing, or servicing of motor vehicles or motor 
+        vehicle engines.
+            (5) The term ``replacement equipment'' has the meaning 
+        given that term in section 30102(b)(1) of title 49, United 
+        States Code.
+            (6) The term ``model year'' has the meaning give that term 
+        in section 32901(a) of title 49, United States Code.
+                                 <all>

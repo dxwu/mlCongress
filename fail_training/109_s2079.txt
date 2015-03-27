@@ -1,0 +1,1042 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 2079 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                S. 2079
+
+    To improve the ability of the Secretary of Agriculture and the 
+Secretary of the Interior to promptly implement recovery treatments in 
+  response to catastrophic events affecting the natural resources of 
+ Forest Service land and Bureau of Land Management Land, respectively, 
+  to support the recovery of non-Federal land damaged by catastrophic 
+ events, to assist impacted communities, to revitalize Forest Service 
+             experimental forests, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 18, 2005
+
+   Mr. Smith (for himself, Mr. Thune, Mr. Allard, Mr. Burns, and Mr. 
+    Thomas) introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To improve the ability of the Secretary of Agriculture and the 
+Secretary of the Interior to promptly implement recovery treatments in 
+  response to catastrophic events affecting the natural resources of 
+ Forest Service land and Bureau of Land Management Land, respectively, 
+  to support the recovery of non-Federal land damaged by catastrophic 
+ events, to assist impacted communities, to revitalize Forest Service 
+             experimental forests, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Forests for Future 
+Generations Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Definitions.
+        TITLE I--RESPONSE TO CATASTROPHIC EVENTS ON FEDERAL LAND
+
+Sec. 101. Development of research protocols and use in catastrophic 
+                            event research projects.
+Sec. 102. Catastrophic event recovery evaluations.
+Sec. 103. Compliance with National Environmental Policy Act.
+Sec. 104. Availability and use of pre-approved management practices.
+Sec. 105. Availability and use of alternative arrangements.
+Sec. 106. Administrative and judicial review.
+Sec. 107. Guidance regarding reforestation in response to catastrophic 
+                            events.
+Sec. 108. Obligations from Trust Fund.
+Sec. 109. Revision of land and resource management plans.
+Sec. 110. Effect of title.
+TITLE II--RESTORING LANDSCAPES AND COMMUNITIES IMPACTED BY CATASTROPHIC 
+                                 EVENTS
+
+Sec. 201. Findings.
+Sec. 202. Definitions.
+Sec. 203. Community protection and recovery funds.
+                    TITLE III--EXPERIMENTAL FORESTS
+
+Sec. 301. Findings.
+Sec. 302. Availability and use of pre-approved management practices on 
+                            National Forest experimental forests.
+Sec. 303. Availability and use of alternative arrangements for projects 
+                            on National Forest experimental forests.
+                      TITLE IV--GENERAL PROVISIONS
+
+Sec. 401. Regulations.
+Sec. 402. Authorization of appropriations.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) The number and severity of catastrophic events causing 
+        resource damage to Federal land has significantly increased 
+        over the last 20 years, and such catastrophic events also 
+        create serious adverse environmental, social, and economic 
+        consequences for Federal land and adjacent non-Federal land and 
+        communities.
+            (2) Catastrophic events often devastate forest or rangeland 
+        ecosystems and eliminate sources of seed for desired tree and 
+        plant species, which--
+                    (A) delays or even precludes the reestablishment of 
+                appropriate forest or plant cover on millions of acres 
+                of Federal land;
+                    (B) increases the susceptibility of the damaged 
+                land to wildfire and noxious or harmful species and 
+                reduces the economic value of the damaged land's 
+                resources;
+                    (C) increases the susceptibility of adjacent 
+                undamaged land to insect infestations, disease, and 
+                noxious weeds;
+                    (D) pollutes municipal water supplies and damages 
+                water delivery infrastructure;
+                    (E) exacerbates sediment production that adversely 
+                impacts native fish habitat and soil productivity;
+                    (F) results in unsafe campgrounds, trails, roads, 
+                and other infrastructure; and
+                    (G) adversely impacts the sustainability of 
+                ecosystems and the well-being of adjacent communities.
+            (3) Program authorities and funding mechanisms currently 
+        available to the Secretary of Agriculture and the Secretary of 
+        the Interior to respond to catastrophic events on forested 
+        Federal land do not provide for consistent and timely response 
+        activities.
+            (4) Alternative arrangements approved by the Council on 
+        Environmental Quality have been used on an inconsistent basis 
+        to respond to catastrophic events on forested Federal land, 
+        but, when used in the past, such alternative arrangements have 
+        encouraged expedited and successful recovery outcomes.
+            (5) A prompt and standardized management response to a 
+        catastrophic event, which is also adaptive to the unique 
+        characteristics of each catastrophic event, is needed--
+                    (A) to effectively recover the area damaged by the 
+                catastrophic event;
+                    (B) to minimize the impact on the resources of the 
+                area and adjacent communities adversely affected by the 
+                catastrophic event; and
+                    (C) to recover damaged, but still merchantable, 
+                material before it losses economic value.
+            (6) Reforestation treatments on forested Federal land after 
+        a catastrophic event helps to restore appropriate forest cover, 
+        which provides multiple renewable resource benefits, 
+        including--
+                    (A) protecting soil and water resources;
+                    (B) providing habitat for wildlife and fish;
+                    (C) contributing to aesthetics and enhancing the 
+                recreational experience for visitors;
+                    (D) providing a future source of timber for 
+                domestic use;
+                    (E) ensuring the health and resiliency of affected 
+                ecosystems for present and future generations; and
+                    (F) sequestering carbon.
+            (7) According to the Comptroller General, the reforestation 
+        backlog for Federal land has increased since 2000 as a result 
+        of natural disturbances, such as wildland fires, insect 
+        infestations, and diseases.
+            (8) Additional scientific and monitoring information is 
+        needed regarding the effectiveness of recovery treatments to 
+        improve subsequent recovery proposals in response to future 
+        catastrophic events.
+            (9) State, tribal, and local governments, local 
+        communities, and other entities play a critical role in 
+        restoring landscapes damaged by a catastrophic event and in 
+        reducing the risks associated with the catastrophic event.
+            (10) Greater resources and adaptive arrangements must be 
+        made available to land managers to facilitate the prompt 
+        implementation of recovery treatments, including reforestation, 
+        following catastrophic events.
+
+SEC. 3. DEFINITIONS.
+
+    In this Act:
+            (1) Alternative arrangements.--The term ``alternative 
+        arrangements'' means the authority granted to the Council on 
+        Environmental Quality under section 1506.11 of title 40, Code 
+        of Federal Regulations, to grant alternative arrangements for 
+        compliance with the National Environmental Policy Act of 1969 
+        (42 U.S.C. 4321 et seq.), including the authority to--
+                    (A) reduce processing times for an environmental 
+                impact statement; or
+                    (B) if warranted by the emergency, condense the 
+                preparation and processing of an environmental impact 
+                statement.
+            (2) Burned area emergency response.--The term ``burned area 
+        emergency response'' means the process used by the Secretary 
+        concerned to plan and implement emergency stabilization actions 
+        on Federal land in response to a catastrophic event in order to 
+        minimize threats to life or property or to stabilize and 
+        prevent unacceptable degradation to natural and cultural 
+        resources resulting from the effects of the catastrophic event.
+            (3) Catastrophic event.--The term ``catastrophic event'' 
+        means any natural disaster or any fire, flood, or explosion, 
+        regardless of cause, that the Secretary determines has caused 
+        or will cause damage of significant severity and magnitude to 
+        Federal land, or for purposes of title II, non-Federal land.
+            (4) Catastrophic event recovery.--The term ``catastrophic 
+        event recovery'', with respect to an area of Federal land 
+        damaged by a catastrophic event, means--
+                    (A) if the catastrophic event involved fire, the 
+                rehabilitation and restoration activities (other than 
+                any emergency stabilization treatments undertaken as 
+                part of the burned area emergency response) that are 
+                undertaken on the damaged Federal land, including any 
+                infrastructure or facilities thereon, in response to 
+                the catastrophic event;
+                    (B) if the catastrophic event did not involve fire, 
+                the emergency stabilization and rehabilitation and 
+                restoration activities that are undertaken on the 
+                damaged Federal land, including infrastructure or 
+                facilities thereon, in response to the catastrophic 
+                event; or
+                    (C) the reforestation or revegetation of the 
+                damaged Federal land in response to the catastrophic 
+                event using, to the extent practicable and preferable, 
+                native or beneficial plants to avoid creation of 
+                plantation forests and the recovery of trees on the 
+                damaged Federal land through the use of timber 
+                harvesting in a manner consistent with the applicable 
+                land and resource management plan.
+            (5) Catastrophic event recovery evaluation.--The term 
+        ``catastrophic event recovery evaluation'', with respect to an 
+        area of Federal land damaged by a catastrophic event, means an 
+        evaluation of the damaged Federal land that is conducted in 
+        accordance with section 102 for the purpose of developing the 
+        catastrophic event recovery proposal for the area.
+            (6) Catastrophic event recovery proposal.--The term 
+        ``catastrophic event recovery proposal'' means the list and 
+        brief description of catastrophic event recovery projects, 
+        catastrophic event research projects, and pre-approved 
+        management practices that are--
+                    (A) prepared or identified as part of the 
+                catastrophic event recovery evaluation of an area of 
+                Federal land damaged by a catastrophic event; and
+                    (B) proposed to be undertaken to facilitate the 
+                catastrophic event recovery of the area or evaluate the 
+                effects and effectiveness of such recovery efforts.
+            (7) Catastrophic event recovery project.--The term 
+        ``catastrophic event recovery project'' means an individual 
+        activity or a series of activities identified in a catastrophic 
+        event recovery proposal for an area of Federal land damaged by 
+        a catastrophic event and proposed to be undertaken in response 
+        to the catastrophic event to promote catastrophic event 
+        recovery.
+            (8) Catastrophic event research project.--The term 
+        ``catastrophic event research project'' means a scientifically 
+        designed study of the effects and effectiveness of--
+                    (A) any catastrophic event recovery projects 
+                undertaken in an area of land damaged by a catastrophic 
+                event; and
+                    (B) any emergency stabilization treatments 
+                undertaken as part of a burned area emergency response 
+                in the area of land damaged by a catastrophic event.
+            (9) Community wildfire protection plan.--The term 
+        ``community wildfire protection plan'' has the meaning given 
+        that term in section 101(3) of the Healthy Forest Restoration 
+        Act of 2003 (16 U.S.C. 6511(3)).
+            (10) Federal land.--The term ``Federal land'' means land in 
+        the National Forest System and land managed by the Bureau of 
+        Land Management. The term does not include any land contained 
+        in a component of the National Wilderness Preservation System 
+        or designated as a national monument.
+            (11) Indian tribe.--The term ``Indian tribe'' has the 
+        meaning given the term in section 4 of the Indian Self-
+        Determination and Education Assistance Act (25 U.S.C. 450b).
+            (12) Land and resource management plan.--The term ``land 
+        and resource management plan'' means--
+                    (A) a land and resource management plan developed 
+                for a unit of the National Forest System under section 
+                6 of the Forest and Rangeland Renewable Resources 
+                Planning Act of 1974 (16 U.S.C. 1604); or
+                    (B) a land use plan developed for an area of the 
+                public land under section 202 of the Federal Land 
+                Policy and Management Act of 1976 (43 U.S.C. 1712).
+            (13) Land-grant colleges and universities.--The term 
+        ``land-grant colleges and universities'' has the meaning given 
+        that term in section 1404(11) of the National Agricultural 
+        Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 
+        3103(11)).
+            (14) Landscape assessment.--The term ``landscape 
+        assessment'' means an assessment describing catastrophic event 
+        conditions and recovery needs and opportunities on non-Federal 
+        land affected by a catastrophic event and including a list of 
+        proposed special recovery projects to address those needs and 
+        opportunities.
+            (15) National forest system.--The term ``National Forest 
+        System'' has the meaning given that term in section 11(a) of 
+        the Forest and Rangeland Renewable Resources Planning Act of 
+        1974 (16 U.S.C. 1609(a)).
+            (16) Natural disaster.--The term ``natural disaster'' 
+        includes a hurricane, tornado, windstorm, snow or ice storm, 
+        rain storm, high water, wind-driven water, tidal wave, 
+        earthquake, volcanic eruption, landslide, mudslide, drought, or 
+        insect or disease outbreak.
+            (17) Pre-approved management practice.--The term ``pre-
+        approved management practice'' means a management practice 
+        identified by the Secretary concerned under section 104(a) that 
+        may be immediately implemented as part of a catastrophic event 
+        recovery project or catastrophic event research project to 
+        facilitate the catastrophic event recovery of an area of 
+        Federal land damaged by a catastrophic event.
+            (18) Secretary concerned.--The term ``Secretary concerned'' 
+        means--
+                    (A) the Secretary of Agriculture, with respect to 
+                National Forest System land; and
+                    (B) the Secretary of the Interior, with respect to 
+                land managed by the Bureau of Land Management, 
+                including land held for the benefit of an Indian tribe.
+            (19) Special recovery project.--The term ``special recovery 
+        project'' means an individual activity or a series of 
+        activities proposed to be undertaken to rehabilitate, repair, 
+        and restore non-Federal land damaged by a catastrophic event, 
+        community infrastructure and facilities on the land, and 
+        economic, social, and cultural conditions affected by the 
+        catastrophic event.
+
+        TITLE I--RESPONSE TO CATASTROPHIC EVENTS ON FEDERAL LAND
+
+SEC. 101. DEVELOPMENT OF RESEARCH PROTOCOLS AND USE IN CATASTROPHIC 
+              EVENT RESEARCH PROJECTS.
+
+    (a) Development of Protocols; Purpose.--For the purpose of 
+collecting and analyzing scientific information about the effectiveness 
+and ecological impacts of catastrophic event recovery projects and 
+emergency stabilization treatments undertaken as part of a burned area 
+emergency response to increase the long-term benefits of management 
+activities and to decrease short-term impacts, the Secretary concerned 
+shall develop research protocols consisting of a research approach that 
+is specifically designed to improve knowledge, understanding, and 
+predictive capabilities, including an appropriate and scientifically 
+sound experimental design or set of sampling procedures, and 
+accompanying methods of data analysis and interpretation.
+    (b) Peer Review Required.--The research protocols developed under 
+subsection (a), and any subsequent modification thereof, shall be 
+subject to independent peer review by scientific and land management 
+experts.
+    (c) Time for Completion; Modification.--The research protocols 
+required by this section shall be submitted to Congress not later than 
+180 days after the date of enactment of this Act. The Secretary 
+concerned may modify the research protocols, as the Secretary 
+determines necessary, after their submission to Congress. The Secretary 
+concerned shall notify Congress regarding any such modification.
+    (d) Catastrophic Event Research Projects.--In accordance with the 
+research protocols developed under this section, the Secretary 
+concerned may conduct one or more catastrophic event research projects 
+in an area of land damaged by a catastrophic event. The Secretary may 
+develop a proposed catastrophic event research project as part of a 
+catastrophic event recovery proposal or develop a catastrophic event 
+research project independently of the catastrophic event recovery 
+proposal during the catastrophic event recovery in response to changing 
+conditions in the area damaged by the catastrophic event.
+    (e) Public Access.--
+            (1) Protocols.--The Secretary concerned shall make the 
+        research protocols developed under subsection (a), including 
+        any modification thereof, publicly available, in a form 
+        determined to be appropriate by the Secretary.
+            (2) Research results.--After completion of the independent 
+        peer review required by subsection (b), the Secretary concerned 
+        shall make the results of catastrophic event research projects 
+        publicly available, in a form determined to be appropriate by 
+        the Secretary.
+    (f) Forest Health Partnerships.--
+            (1) In general.--In developing and using the research 
+        protocols required by this section, the Secretary concerned 
+        shall enter into at least 1 cooperative agreement with 1 or 
+        land-grant colleges or universities in each Forest Service 
+        Region to form forest health partnerships, including regional 
+        institutes, to utilize the education, research, and outreach 
+        capacity of land-grant colleges and universities to address the 
+        recovery of forested land after a catastrophic event.
+            (2) Alignment with cooperative ecosystem studies units.--A 
+        forest health partnership may be aligned with the current 
+        network of Cooperative Ecosystem Studies Units.
+
+SEC. 102. CATASTROPHIC EVENT RECOVERY EVALUATIONS.
+
+    (a) Commencement.--
+            (1) Evaluation required.--In response to a catastrophic 
+        event affecting 1,000 or more acres of Federal land, the 
+        Secretary concerned shall conduct a catastrophic event recovery 
+        evaluation of the damaged Federal land.
+            (2) Evaluation authorized.--If a catastrophic event affects 
+        more than 250 acres of Federal land, but less than 1,000 acres, 
+        the Secretary concerned is authorized, but not required, to 
+        conduct a catastrophic event recovery evaluation of the damaged 
+        Federal land.
+    (b) Completion.--When a catastrophic event recovery evaluation is 
+required to be conducted under subsection (a), the Secretary concerned 
+shall commence and complete the catastrophic event recovery evaluation 
+not later than 30 days after the conclusion of the catastrophic event 
+in order to facilitate prompt--
+            (1) decision-making with regard to the catastrophic event 
+        recovery of the Federal land damaged by the catastrophic event; 
+        and
+            (2) implementation of catastrophic event recovery projects 
+        on the damaged Federal land.
+    (c) Elements of Catastrophic Event Evaluation.--In conducting the 
+catastrophic event recovery evaluation for an area of Federal land 
+damaged by a catastrophic event, the Secretary concerned shall prepare 
+the following:
+            (1) A description of catastrophic event conditions on the 
+        damaged Federal land, recovery needs and opportunities, and the 
+        areas where management intervention would be helpful--
+                    (A) to repair, maintain, or improve resource 
+                values;
+                    (B) to maintain infrastructure;
+                    (C) to foster reforestation or other recovery of 
+                the damaged Federal land; and
+                    (D) to achieve the goals and objectives of the 
+                applicable land and resource management plan.
+            (2) A preliminary determination of any catastrophic event 
+        research projects that best fit the circumstances of the 
+        particular catastrophic event environment or would enhance 
+        scientific understanding relevant to the damaged area.
+            (3) A catastrophic event recovery proposal containing 
+        possible catastrophic event recovery projects and catastrophic 
+        event research projects for the damaged area and describing the 
+        anticipated size and scope of these projects.
+            (4) One or more maps detailing the area of damaged Federal 
+        land and the location of catastrophic event recovery proposals.
+            (5) A preliminary estimate of the funding that would be 
+        needed to complete the catastrophic event recovery projects and 
+        catastrophic event research projects contained in the 
+        catastrophic event recovery proposal.
+            (6) A preliminary estimate of the receipts to be derived 
+        from the catastrophic event recovery projects and catastrophic 
+        event research projects contained in the catastrophic event 
+        recovery proposal.
+            (7) A preliminary schedule showing the timing of possible 
+        catastrophic event recovery projects and catastrophic event 
+        research projects by fiscal year, assuming funding is available 
+        to undertake the projects.
+    (d) Use of Pre-Approved Management Practices or Alternative 
+Arrangements.--
+            (1) Determination.--In addition to complying with the 
+        requirements specified in subsection (c) for each catastrophic 
+        event recovery evaluation, the Secretary concerned shall make a 
+        determination of--
+                    (A) whether or not any pre-approved management 
+                practices can be immediately implemented under section 
+                104 to facilitate the catastrophic event recovery of 
+                the area covered by the catastrophic event recovery 
+                evaluation; and
+                    (B) whether or not any catastrophic event recovery 
+                project or catastrophic event research project, or 
+                portion of such a project, contained in the 
+                catastrophic event recovery proposal should be 
+                developed and carried out using the alternative 
+                arrangements authorized by section 105.
+            (2) Factors.--In making any determination under paragraph 
+        (1)(B) to develop and carry out a catastrophic event recovery 
+        project or catastrophic event research project, or portion of 
+        such a project, using alternative arrangements under section 
+        105, the Secretary concerned shall consider at a minimum the 
+        following:
+                    (A) The necessity of promptly responding to the 
+                catastrophic event on the damaged Federal land.
+                    (B) The recovery needs and opportunities identified 
+                under subsection (c)(1) with respect to the damaged 
+                Federal land.
+                    (C) The lack of pre-approved management practices 
+                applicable to the damaged Federal land.
+                    (D) The threat to public health and safety.
+                    (E) The likelihood of substantial loss of adjacent 
+                private and public property or other substantial 
+                economic losses.
+            (3) Notification and consultation.--The Secretary concerned 
+        shall make the determinations under paragraph (1) after 
+        notification of and in consultation with the Council on 
+        Environmental Quality, but the determination remains in the 
+        sole discretion of the Secretary.
+    (e) Interdisciplinary Approach.--To conduct the catastrophic event 
+recovery evaluation of an area of Federal land damaged by a 
+catastrophic event, the Secretary concerned shall use a systematic, 
+interdisciplinary approach that insures the integrated use of 
+appropriate natural and social sciences.
+    (f) Coordination With Other Activities.--The Secretary concerned 
+may combine the preparation of a catastrophic event recovery evaluation 
+of Federal land with the preparation of a landscape assessment for non-
+Federal land in the vicinity of the damaged Federal land prepared under 
+section 203(c)(1)(A).
+    (g) Public Collaboration.--To encourage meaningful participation 
+during the preparation of catastrophic event recovery projects, the 
+Secretary concerned shall facilitate collaboration among State and 
+local governments, Indian tribes, land-grant colleges and universities, 
+and interested persons during the preparation of catastrophic event 
+recovery evaluations and catastrophic event recovery proposals.
+    (h) Public Notice.--
+            (1) Notice of evaluation.--The Secretary concerned shall 
+        provide public notice of each catastrophic event recovery 
+        evaluation, including the catastrophic event recovery proposal 
+        prepared as part of the evaluation. The notice shall be 
+        provided in a form determined to be appropriate by the 
+        Secretary concerned, such as publication in the Federal 
+        Register.
+            (2) Notice of public meetings.--The Secretary concerned 
+        shall provide notice of public meetings conducted in connection 
+        with a catastrophic event recovery evaluation and the 
+        availability of preliminary analyses or documents prepared as 
+        part of the evaluation. The notice shall be provided at such 
+        times and in such a manner as the Secretary concerned considers 
+        appropriate.
+
+SEC. 103. COMPLIANCE WITH NATIONAL ENVIRONMENTAL POLICY ACT.
+
+    (a) Compliance Required.--Except as provided in subsection (b), the 
+Secretary concerned shall comply with the National Environmental Policy 
+Act of 1969 (42 U.S.C. 4331 et seq.), its implementing regulations, and 
+other applicable laws in designing and conducting catastrophic event 
+recovery projects and catastrophic event research projects.
+    (b) Satisfaction of NEPA Requirements.--The list of pre-approved 
+management practices prepared under subsection (a) of section 104, the 
+use of pre-approved management practices in the manner provided in such 
+section as part of the catastrophic event recovery of an area of 
+Federal land damaged by a catastrophic event, and the use of 
+alternative arrangements in the manner provided in section 105 to 
+design or conduct a catastrophic event recovery project or catastrophic 
+event research project, or portion of such a project, are deemed to 
+satisfy the requirements of section 102 of the National Environmental 
+Policy Act of 1969 (42 U.S.C. 4332) and its implementing regulations.
+
+SEC. 104. AVAILABILITY AND USE OF PRE-APPROVED MANAGEMENT PRACTICES.
+
+    (a) List of Available Pre-Approved Management Practices.--
+            (1) Preparation of list.--The Secretary concerned shall 
+        prepare a list of management practices that may be immediately 
+        implemented as part of a catastrophic event recovery project or 
+        catastrophic event research project to facilitate the 
+        catastrophic event recovery of an area of Federal land damaged 
+        by a catastrophic event.
+            (2) Rule making.--The list of pre-approved management 
+        practices shall be prepared using notice and comment rule 
+        making under section 553 of title 5, United States Code.
+            (3) Peer review required.--Before a management practice may 
+        be included on the list of pre-approved management practices, 
+        the management practice shall be subject to independent peer 
+        review by scientific and land management experts. The results 
+        of the review shall be available to the public during the 
+        comment period.
+            (4) Revision or amendment.--The Secretary concerned may 
+        amend or revise the list of pre-approved management practices 
+        as necessary whenever new scientific and managerial information 
+        becomes available. Paragraphs (2) and (3) shall apply to the 
+        amendment or revision process.
+    (b) Use of Pre-Approved Management Practices.--Until the end of the 
+2-year period beginning on the date on which the catastrophic event 
+recovery evaluation is completed for an area of Federal land damaged by 
+a catastrophic event, the Secretary concerned may implement and carry 
+out pre-approved management practices to facilitate the catastrophic 
+event recovery of the area.
+    (c) Effect of Termination of Period.--After the expiration of the 
+applicable time period under subsection (b), a pre-approved management 
+practice may not be initiated under the authority of such subsection 
+for an area of Federal land damaged by a catastrophic event. Any pre-
+approved management practice initiated before the date of the 
+expiration of the applicable time period may not be continued after 
+that date.
+    (d) Use for Certain Activities Prohibited.--
+            (1) Road construction.--A pre-approved management practice 
+        may not authorize any permanent road building. Any temporary 
+        road constructed as part of a pre-approved management practice 
+        shall be obliterated upon conclusion of the practice and the 
+        road area restored to the extent practicable.
+            (2) Timber harvesting.--Timber harvesting carried out as 
+        part of a pre-approved management practice shall be limited to 
+        trees--
+                    (A) that are already down, dead, broken, or 
+                severely root sprung;
+                    (B) regarding which mortality is highly probable 
+                within five years after the end of the catastrophic 
+                event;
+                    (C) that are required to be removed for worker or 
+                public safety; or
+                    (D) that are not specified for snag retention by 
+                the applicable land and resource management plan.
+    (e) Required Consultation.--
+            (1) ESA consultation.--
+                    (A) In general.--In the case of the proposed use of 
+                a pre-approved management practice under subsection 
+                (b), the Secretary concerned may use the emergency 
+                procedures described in section 402.05 of title 50, 
+                Code of Federal Regulations, to comply with section 7 
+                of the Endangered Species Act of 1973 (16 U.S.C. 1536).
+                    (B) Incidental takings.--
+                            (i) In general.--At the conclusion of the 
+                        consultation, the statement required by section 
+                        7(b)(4) of the Endangered Species Act of 1973 
+                        (16 U.S.C. 1536(b)(4)) shall be issued for any 
+                        incidental taking that may occur while using 
+                        the pre-approved management practice.
+                            (ii) Application.--The statement issued 
+                        under clause (i) shall--
+                                    (I) be effective beginning on the 
+                                date the Secretary concerned initiates 
+                                the practice; and
+                                    (II) apply to all persons assisting 
+                                or cooperating with the Secretary in 
+                                using the practice.
+                    (C) Deadline for completion.--If the consultation 
+                required under this subsection is not completed by the 
+                date on which the decision document is issued under 
+                subsection (f), the applicable biological assessment 
+                from the land management agency shall be considered to 
+                be sufficient for the purposes of section 7 of the 
+                Endangered Species Act of 1973 (16 U.S.C. 1536).
+            (2) Other required consultation.--Any consultation required 
+        under other laws, such as the National Historic Preservation 
+        Act (16 U.S.C. 470 et seq.) or the Federal Water Pollution 
+        Control Act (33 U.S.C. 1251 et seq.), may proceed 
+        simultaneously with the implementation of a pre-approved 
+        management practice. Results of consultation shall be 
+        immediately incorporated into the practice, to the extent 
+        feasible, practical, and consistent with the response, 
+        recovery, and rehabilitation objectives of the project.
+    (f) Issuance of Decision Document.--Not later than 30 days after 
+the date on which the Secretary concerned makes the determination under 
+section 102(d) to use a pre-approved management practice to facilitate 
+the catastrophic event recovery of an area of Federal land damaged by a 
+catastrophic event, the Secretary concerned shall issue a concise 
+decision document that contains--
+            (1) a description of the pre-approved management practice 
+        to be implemented;
+            (2) the rationale for the agency decision;
+            (3) an economic analysis and justification; and
+            (4) an analysis of the environmental effects of the pre-
+        approved management practice and how such effects will be 
+        minimized or mitigated consistent with the applicable land and 
+        resource management plan.
+    (g) Immediate Implementation.--The Secretary concerned shall 
+implement a pre-approved management practice immediately after the 
+issuance of the decision document under subsection (f), subject only to 
+the availability of funds for the practice.
+    (h) Monitoring.--To monitor the implementation of a pre-approved 
+management practice, the Secretary concerned may establish a third-
+party monitoring group, as determined to be appropriate by the 
+Secretary.
+
+SEC. 105. AVAILABILITY AND USE OF ALTERNATIVE ARRANGEMENTS.
+
+    (a) Limited Consideration of Alternatives.--If the Secretary 
+concerned determines under section 102(d) to utilize alternative 
+arrangements to conduct a catastrophic event recovery project or 
+catastrophic event research project, or portion of such a project, the 
+Secretary concerned is not required to study, develop, or describe more 
+than the proposed agency action and the alternative of no action in 
+designing that project or the portion of the project for which the 
+alternative arrangements are utilized.
+    (b) Use for Certain Activities Prohibited.--
+            (1) Road construction.--Alternative arrangements under this 
+        section may not be used to design or conduct a catastrophic 
+        event recovery project or catastrophic event research project, 
+        or portion of such a project, that provides for any permanent 
+        road building. Any temporary road constructed as part of the 
+        project shall be obliterated upon completion of the project and 
+        the road area restored to the extent practicable.
+            (2) Timber harvesting.--Timber harvesting carried out as 
+        part of a catastrophic event recovery project or catastrophic 
+        event research project, or portion of such a project, for which 
+        alternative arrangements under this section were used shall be 
+        limited to trees--
+                    (A) that are already down, dead, broken, or 
+                severely root sprung;
+                    (B) regarding which mortality is highly probable;
+                    (C) that are required to be removed for worker or 
+                public safety; or
+                    (D) that are not specified for snag retention by 
+                the applicable land and resource management plan.
+    (c) Required Consultation.--
+            (1) ESA consultation.--
+                    (A) In general.--In the case of a catastrophic 
+                event recovery project or catastrophic event research 
+                project, or portion of such a project, for which 
+                alternative arrangements under this section are used, 
+                the Secretary concerned may use the emergency 
+                procedures described in section 402.05 of title 50, 
+                Code of Federal Regulations, to comply with section 7 
+                of the Endangered Species Act of 1973 (16 U.S.C. 1536).
+                    (B) Incidental takings.--
+                            (i) In general.--At the conclusion of the 
+                        consultation, the statement required by section 
+                        7(b)(4) of the Endangered Species Act of 1973 
+                        (16 U.S.C. 1536(b)(4)) shall be issued for any 
+                        incidental taking that may occur under the 
+                        project.
+                            (ii) Application.--The statement issued 
+                        under clause (i) shall--
+                                    (I) be effective beginning on the 
+                                date the Secretary concerned initiates 
+                                action under the project; and
+                                    (II) apply to all persons assisting 
+                                or cooperating with the Secretary under 
+                                the project.
+                    (C) Deadline for completion.--If the consultation 
+                required under this subsection is not completed by the 
+                date on which the decision document is issued under 
+                subsection (d), the applicable biological assessment 
+                from the land management agency shall be considered to 
+                be sufficient for the purposes of section 7 of the 
+                Endangered Species Act of 1973 (16 U.S.C. 1536).
+            (2) Other required consultation.--Any consultation required 
+        under other laws, such as the National Historic Preservation 
+        Act (16 U.S.C. 470 et seq.) or the Federal Water Pollution 
+        Control Act (33 U.S.C. 1251 et seq.), may proceed 
+        simultaneously with the design of a catastrophic event recovery 
+        project or catastrophic event research project, or portion of 
+        such a project, for which alternative arrangements under this 
+        section are used. Results of consultation shall be immediately 
+        incorporated into the project, to the extent feasible, 
+        practical, and consistent with the response, recovery, and 
+        rehabilitation objectives of the project.
+    (d) Completion of Alternative Arrangements and Issuance of Decision 
+Document.--Not later than 90 days after the date on which the Secretary 
+concerned makes the determination under section 102(d) to develop and 
+carry out a catastrophic event recovery project or catastrophic event 
+research project, or portion of such a project, using alternative 
+arrangements, the Secretary concerned shall--
+            (1) complete the alternative arrangements for that 
+        catastrophic event recovery project or catastrophic event 
+        research project, or portion thereof, under this section; and
+            (2) issue a concise decision document that contains--
+                    (A) the rationale for the agency decision;
+                    (B) an economic analysis and justification; and
+                    (C) an analysis of the environmental effects of the 
+                project and how such effects will be minimized or 
+                mitigated consistent with the applicable land and 
+                resource management plan.
+    (e) Immediate Implementation.--In the case of a catastrophic event 
+recovery project or catastrophic event research project, or portion of 
+such a project, for which the alternative arrangements authorized by 
+this section are used, the Secretary concerned shall implement the 
+project, or portion of the project, immediately after the issuance of 
+the decision document under subsection (d), subject only to the 
+availability of funds for the project.
+    (f) Monitoring.--To monitor a catastrophic event recovery project 
+or catastrophic event research project, or portion of such a project, 
+for which the alternative arrangements authorized by this section were 
+used, the Secretary concerned may establish a third-party monitoring 
+group, as determined to be appropriate by the Secretary.
+
+SEC. 106. ADMINISTRATIVE AND JUDICIAL REVIEW.
+
+    (a) Administrative Review Generally.--Except as provided in 
+subsection (b), nothing in this title affects--
+            (1) the notice, comment, and appeal requirements of section 
+        322 of the Department of the Interior and Related Agencies 
+        Appropriations Act, 1993 (Public 102-381; 16 U.S.C. 1612 note) 
+        and section 215 of title 36, Code of Federal Regulations; or
+            (2) the consideration or disposition of any legal action 
+        brought with respect to such requirements.
+    (b) Predecisional Administrative Review.--The predecisional 
+administrative review process established by the Secretary of 
+Agriculture by regulation under section 105 of the Healthy Forests 
+Restoration Act of 2003 (16 U.S.C. 6515), and the Department of the 
+Interior administrative hearings and appeals procedures referred to in 
+subsection (c)(1)(B) of such section, shall serve as the sole means by 
+which a person can seek administrative review regarding--
+            (1) the proposed use of a pre-approved management practice 
+        under section 104; or
+            (2) a catastrophic event recovery project or catastrophic 
+        event research project, or portion of such a project, for which 
+        the alternative arrangements under section 105 are used.
+    (c) Judicial Review.--
+            (1) In general.--Section 106 of the Healthy Forests 
+        Restoration Act of 2003 (16 U.S.C. 6516) shall apply with 
+        respect to the implementation of a pre-approved management 
+        practice under section 104 or a catastrophic event recovery 
+        project or catastrophic event research project regarding which 
+        the applicable administrative review process has been 
+        exhausted.
+            (2) Attorney fees.--In any proceeding for judicial review 
+        of agency action under this subsection, attorney fees awarded 
+        to a prevailing party may not exceed the hourly rates 
+        established in section 3006A of title 18, United States Code.
+    (d) Mediation and Binding Arbitration.--
+            (1) In general.--In lieu of the administrative and judicial 
+        processes provided for in subsections (b) and (c), the 
+        Secretary concerned is encouraged to establish procedures for 
+        voluntary mediation and binding arbitration that would 
+        accelerate the implementation of catastrophic event recovery 
+        projects.
+            (2) Requirements.--Any procedures established under 
+        paragraph (1) shall provide that--
+                    (A) the Federal Government shall bear all costs of 
+                any mediation or binding arbitration proceedings;
+                    (B) the limitation on attorney fees under 
+                subsection (c)(2) shall not apply to the proceedings;
+                    (C) the applicable local government, any persons 
+                economically impacted by the catastrophic event 
+                recovery project, and any potential litigants shall be 
+                allowed to equally participate in the proceedings;
+                    (D) the proceedings shall be completed within 30 
+                days of the date on which the proceedings were 
+                initiated; and
+                    (E) the mediator shall be mutually acceptable to 
+                all parties to the proceedings.
+
+SEC. 107. GUIDANCE REGARDING REFORESTATION IN RESPONSE TO CATASTROPHIC 
+              EVENTS.
+
+    Not later than 180 days after the date of enactment of this Act, 
+the Secretary concerned shall--
+            (1) standardize the collection, reporting, and review 
+        procedures for data regarding more aggressive, expedited, and 
+        comprehensive reforestation in response to catastrophic events 
+        by clarifying agency-wide guidance and developing standard 
+        protocols for determining when and how reforestation can be 
+        best achieved as part of the response to catastrophic events; 
+        and
+            (2) clarify agency-wide guidance regarding reforestation in 
+        response to catastrophic events to ensure that such guidance is 
+        consistent with agency goals and budget constraints.
+
+SEC. 108. OBLIGATIONS FROM TRUST FUND.
+
+    Section 303(d) of Public Law 96-451 (16 U.S.C. 1606a(d)) is 
+amended--
+            (1) by redesignating paragraphs (1) and (2) as 
+        subparagraphs (A) and (B), respectively, and indenting 
+        appropriately;
+            (2) by striking the ``(d) The Secretary of Agriculture'' 
+        and inserting the following:
+    ``(d) Obligations From Trust Fund.--
+            ``(2) Reforestation and timber stand improvements.--The 
+        Secretary of Agriculture'';
+            (3) by inserting before paragraph (2) (as designated by 
+        paragraph (2)) the following:
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Appropriate forest cover.--The term 
+                `appropriate forest cover' means the species of trees, 
+                the degree of stocking, the rate of growth, and the 
+                conditions of a stand designed to secure the maximum 
+                benefits of multiple use sustained yield management.
+                    ``(B) Catastrophic event.--The term `catastrophic 
+                event' means any natural disaster or any fire, flood, 
+                or explosion, regardless of cause, that the Secretary 
+                of Agriculture determines has caused or will cause 
+                damage of significant severity and magnitude to 
+                National Forest System land.
+                    ``(C) Natural disaster.--The term `natural 
+                disaster' includes a hurricane, tornado, windstorm, 
+                snow or ice storm, rain storm, high water, wind-driven 
+                water, tidal wave, earthquake, volcanic eruption, 
+                landslide, mudslide, drought, or insect or disease 
+                outbreak.''; and
+            (4) in paragraph (2) (as designated by paragraph (2))--
+                    (A) in subparagraph (A) (as redesignated by 
+                paragraph (1))--
+                            (i) by inserting ``, subject to 
+                        subparagraph (B),'' after ``reforestation''; 
+                        and
+                            (ii) by striking ``and'' at the end;
+                    (B) by redesignating subparagraph (B) (as 
+                redesignated by paragraph (1)) as subparagraph (C); and
+                    (C) by inserting after subparagraph (A) (as 
+                redesignated by paragraph (1)) the following:
+                    ``(B) reforestation treatment to restore 
+                appropriate forest cover on National Forest System land 
+                that is capable of growing, and available for, 
+                commercial timber harvest and that has been affected by 
+                a catastrophic event if--
+                            ``(i) the need for the reforestation 
+                        treatment is identified in the report submitted 
+                        to Congress under section 3(d)(1) of the Forest 
+                        and Rangeland Renewable Resources Planning Act 
+                        of 1974 (16 U.S.C. 1601(d)(1)); and
+                            ``(ii) the reforestation treatment occurs 
+                        within 5 years of--
+                                    ``(I) if there is no harvest 
+                                activity following the wildfire or the 
+                                nonfire natural disturbance event, the 
+                                wildfire or a nonfire natural 
+                                disturbance event;
+                                    ``(II) if a regeneration harvest is 
+                                the final cut in a stand in a disturbed 
+                                area, the regeneration harvest; or
+                                    ``(III) if a salvage harvest is the 
+                                final cut in a stand in a disturbed 
+                                area, the salvage harvest; and''.
+
+SEC. 109. REVISION OF LAND AND RESOURCE MANAGEMENT PLANS.
+
+    During the 3-year period beginning on the date of enactment of this 
+Act, the Secretary concerned shall ensure that any revision to a land 
+and resource management plan address forest management and recovery 
+goals after a catastrophic event.
+
+SEC. 110. EFFECT OF TITLE.
+
+    (a) Use of Other Authorities.--Nothing in this title affects the 
+use by the Secretary concerned of other statutory or administrative 
+authority, including categorical exclusions adopted to implement the 
+National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), to 
+conduct a catastrophic event recovery project or catastrophic event 
+research project, or portion of such a project, that is not conducted 
+using the alternative arrangements authorized by section 105.
+    (b) Advisory Committees.--The Federal Advisory Committee Act (5 
+U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 (7 
+U.S.C. 2281 et seq.) shall not apply to--
+            (1) the independent peer review provided by scientific and 
+        land management experts under section 101(b);
+            (2) the monitoring process under section 104(h) or 105(f); 
+        and
+            (3) the preparation of a catastrophic event recovery 
+        evaluation or catastrophic event recovery proposal.
+
+TITLE II--RESTORING LANDSCAPES AND COMMUNITIES IMPACTED BY CATASTROPHIC 
+                                 EVENTS
+
+SEC. 201. FINDINGS.
+
+    Congress finds that--
+            (1) there is a relationship between poverty and Federal 
+        land ownership, with households below the poverty level being 
+        located in close proximity to Federal land;
+            (2) households below the poverty level are more likely to 
+        be located in areas with low or no wildfire or other 
+        catastrophic event response capabilities; and
+            (3) catastrophic events disproportionately affect low-
+        income communities in the short term and long term by 
+        negatively impacting economic activities such as recreation, 
+        timber and nontraditional forest product utilization, 
+        fisheries, and tourism.
+
+SEC. 202. DEFINITIONS.
+
+    In this title:
+            (1) Eligible entity.--The term ``eligible entity'' means a 
+        State Forester or equivalent State official, an Indian tribe, 
+        local government, community-based organization, or other 
+        person.
+            (2) Excess receipts.--The term ``excess receipts'' means 
+        any National Forest Fund receipts derived from the sale of 
+        timber under section 105(b)(2), that are identified by the 
+        Secretary for the fiscal year as amounts in excess of the 
+        amounts retained onsite for activities included in an 
+        applicable catastrophic event recovery project.
+            (3) Fund.--The term ``fund'' means a community protection 
+        and recovery fund established under section 203(a).
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of Agriculture.
+
+SEC. 203. COMMUNITY PROTECTION AND RECOVERY FUNDS.
+
+    (a) Establishment.--The Secretary shall establish within the 
+Treasury a community protection and recovery fund for each catastrophic 
+event recovery project, consisting of such amounts as are transferred 
+to the fund under subsection (b).
+    (b) Transfers to Fund.--There are appropriated to each fund amounts 
+equivalent to 5 percent of excess receipts.
+    (c) Use.--
+            (1) In general.--Subject to paragraphs (2) and (3), amounts 
+        in the fund shall be available, without further appropriation, 
+        to the Secretary, in cooperation with any eligible entities, 
+        for--
+                    (A) the preparation of a landscape assessment for 
+                non-Federal land affected by a catastrophic event;
+                    (B) assistance in the preparation of a community 
+                wildfire protection plan or related plan; and
+                    (C) implementation of special recovery projects 
+                identified in the landscape assessment or community 
+                wildfire protection plan, community assessment, or 
+                community action plan, including--
+                            (i) revegetation, tree planting, and other 
+                        management practices that the Secretary 
+                        determines to be appropriate;
+                            (ii) developing products from and markets 
+                        for fire timber harvest and remaining forest 
+                        resources;
+                            (iii) training for the local workforce;
+                            (iv) repair of public facilities, such as 
+                        water systems, roads, bridges and trails, 
+                        affected by a catastrophic event; and
+                            (v) any other activities that the Secretary 
+                        determines to be necessary to undertake the 
+                        special recovery project.
+            (2) Preference.--In making expenditures from a fund, the 
+        Secretary shall give priority to low-income communities.
+            (3) Limitation.--Amounts in a fund shall only be available 
+        for expenditure for a specific catastrophic event during the 3-
+        year period beginning on the date on which the catastrophic 
+        event occurs.
+    (d) Reprogramming.--Amounts deposited in a fund or eligible for 
+deposit in a fund shall not be subject to transfer or reprogramming for 
+wildland fire management or any other emergency purposes.
+
+                    TITLE III--EXPERIMENTAL FORESTS
+
+SEC. 301. FINDINGS.
+
+    Congress finds the following:
+            (1) The experimental forests established pursuant to 
+        section 4 of the Forest and Rangeland Renewable Resources 
+        Research Act of 1978 (16 U.S.C. 1643) or the organic 
+        administrative authorities of the Secretary of Agriculture (16 
+        U.S.C. 551) serve as a natural laboratory for the Forest 
+        Service to evaluate management practices generally and specific 
+        responses to catastrophic events that can be eventually used 
+        throughout the National Forest System.
+            (2) To build upon the knowledge base to be developed using 
+        catastrophic events research projects conducted under title I, 
+        the Secretary of Agriculture should be authorized to use the 
+        same authorities provided under sections 104 and 105 to design 
+        and carry out projects in the experimental forests.
+
+SEC. 302. AVAILABILITY AND USE OF PRE-APPROVED MANAGEMENT PRACTICES ON 
+              NATIONAL FOREST EXPERIMENTAL FORESTS.
+
+    Management practices included on the list of pre-approved 
+management practices prepared under subsection (a) of section 104 may 
+be implemented, in the manner provided by such section, in an 
+experimental forest established pursuant to section 4 of the Forest and 
+Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1643) or 
+the organic administrative authorities of the Secretary of Agriculture 
+(16 U.S.C. 551).
+
+SEC. 303. AVAILABILITY AND USE OF ALTERNATIVE ARRANGEMENTS FOR PROJECTS 
+              ON NATIONAL FOREST EXPERIMENTAL FORESTS.
+
+    Section 105 shall apply with respect to any individual activity or 
+a series of activities proposed to be undertaken in an experimental 
+forest established pursuant to section 4 of the Forest and Rangeland 
+Renewable Resources Research Act of 1978 (16 U.S.C. 1643) or the 
+organic administrative authorities of the Secretary of Agriculture (16 
+U.S.C. 551).
+
+                      TITLE IV--GENERAL PROVISIONS
+
+SEC. 401. REGULATIONS.
+
+    The Secretary concerned is not required to promulgate regulations 
+to implement this Act.
+
+SEC. 402. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated such sums as are necessary 
+to carry out this Act.
+                                 <all>

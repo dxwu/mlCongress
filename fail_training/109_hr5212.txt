@@ -1,0 +1,3075 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5212 Introduced in House (IH)]
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                H. R. 5212
+
+To reduce sexual assault and domestic violence involving members of the 
+  armed forces and their family members and partners through enhanced 
+  programs of prevention and deterrence, enhanced programs of victims 
+ services, and strengthened provisions for prosecution of assailants, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 26, 2006
+
+   Ms. Slaughter (for herself, Ms. Ginny Brown-Waite of Florida, Ms. 
+ Roybal-Allard, Ms. Kilpatrick of Michigan, Mr. Delahunt, Mr. Conyers, 
+   Ms. DeLauro, Mrs. Maloney, Ms. Loretta Sanchez of California, Mr. 
+  Crowley, Mr. Honda, Ms. Lee, Mr. Moore of Kansas, Mr. Kucinich, Mr. 
+ Rothman, Mr. Sanders, Mr. Wexler, Mrs. Jones of Ohio, Mr. Inslee, and 
+  Mrs. Davis of California) introduced the following bill; which was 
+  referred to the Committee on Armed Services, and in addition to the 
+ Committees on the Judiciary and Veterans' Affairs, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To reduce sexual assault and domestic violence involving members of the 
+  armed forces and their family members and partners through enhanced 
+  programs of prevention and deterrence, enhanced programs of victims 
+ services, and strengthened provisions for prosecution of assailants, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Military Domestic 
+and Sexual Violence Response Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+ Sec. 1. Short title; table of contents.
+    TITLE I--VICTIMS' ADVOCATE PROGRAMS IN THE DEPARTMENT OF DEFENSE
+
+                        Subtitle A--Definitions
+
+ Sec. 101. Definitions relating to sexual assault, domestic violence, 
+                            etc., in the military.
+   Subtitle B--Office of Victims' Advocate and Department of Defense 
+                       Interdisciplinary Council
+
+ Sec. 111. Office of the Victims' Advocate.
+ Sec. 112. Department of Defense Interdisciplinary Council.
+ Sec. 113. Conforming repeal.
+Subtitle C--National and International Hotlines Awareness, Prevention, 
+                       and Intervention Campaign
+
+ Sec. 121. Awareness, prevention, and intervention campaign.
+            Subtitle D--Prevention and Intervention Training
+
+ Sec. 131. Prevention and intervention training contracts.
+Subtitle E--Biennial Conference on Sexual Assault and Domestic Violence
+
+ Sec. 141. Establishment.
+ Sec. 142. Conference activities.
+ Sec. 143. Conference participants.
+   Subtitle F--Memorandums of Understanding With Civil Organizations
+
+ Sec. 151. Agreements with civilian organizations.
+   TITLE II--RIGHTS, RESTITUTION, TREATMENT, AND SERVICES FOR VICTIMS
+
+Subtitle A--Protection of Persons Reporting Sexual Assault or Domestic 
+                                Violence
+
+ Sec. 201. Protection of communications between victims and advocates.
+ Sec. 202. Victim service organization privilege and health care 
+                            professional privilege in cases arising 
+                            under Uniform Code of Military Justice.
+   Subtitle B--Medical Care and Treatment for Victims of Sexual and 
+                           Domestic Violence
+
+ Sec. 211. Enhanced Department of Defense treatment capacity.
+ Sec. 212. Community level program.
+ Sec. 213. Transition to veterans health care for victims or 
+                            perpetrators of domestic violence, sexual 
+                            assault, family violence, or stalking.
+             Subtitle C--Military-Civilian Shelter Programs
+
+ Sec. 221. Enhanced capacity of the Department of Defense for shelter 
+                            programs and services.
+              Subtitle D--Victim's Rights and Restitution
+
+ Sec. 231. Military law enforcement and victims' rights.
+ Sec. 232. Availability of incident reports.
+ Sec. 233. Victim advocates and victims' rights.
+ Sec. 234. Restitution.
+ Sec. 235. Records of military justice actions.
+ Sec. 236. Technical amendments relating to fatality review panels.
+    TITLE III--REPORTING, PROSECUTION, AND TREATMENT OF PERPETRATORS
+
+    Subtitle A--Reporting of Sexual Assault, Domestic Violence, and 
+               Stalking Within the Department of Defense
+
+ Sec. 301. Complaints of sexual assault and domestic violence.
+ Sec. 302. Response of military law enforcement officials to domestic 
+                            violence incidents.
+ Sec. 303. Investigation of sexual and domestic violence cases 
+                            involving Department of Defense personnel.
+   Subtitle B--Crimes Related to Sexual Assault and Domestic Violence
+
+                    Chapter 1--Federal Criminal Code
+
+ Sec. 311. Assimilative crimes.
+ Sec. 312. Jurisdiction for sexual assault and domestic violence 
+                            offenses committed outside the United 
+                            States.
+ Sec. 313. Travel and transportation.
+              Chapter 2--Uniform Code of Military Justice
+
+ Sec. 316. Domestic violence and family violence.
+ Sec. 317. Protective orders.
+            Subtitle C--Treatment Services for Perpetrators
+
+ Sec. 321. Enhanced capacity of the Department of Defense for treatment 
+                            services for perpetrators.
+ TITLE IV--COUNSELING AND TREATMENT PROGRAMS OF DEPARTMENT OF VETERANS 
+                                AFFAIRS
+
+ Sec. 401. Research on best practices to overcome stigma related to 
+                            military sexual trauma.
+ Sec. 402. Training for Department of Veterans Affairs primary care 
+                            providers.
+ Sec. 403. Pilot program on ways to identify veterans who are victims 
+                            of military sexual trauma.
+ Sec. 404. Pilot program on treatment of active-duty military personnel 
+                            through facilities of the Department of 
+                            Veterans Affairs.
+                         TITLE V--OTHER MATTERS
+
+                   Subtitle A--Administration Matters
+
+ Sec. 501. Performance evaluations and benefits.
+ Sec. 502. Closure of Article 32 investigations in cases of sexual 
+                            assault or domestic violence.
+     Subtitle B--Enhancement of Armed Forces Domestic Security Act
+
+ Sec. 511. Amendments to Servicemembers Civil Relief Act.
+  Subtitle C--Research on Prevalence, Needs Assessment, Services, and 
+                             Accountability
+
+ Sec. 521. Research on sexual assault, domestic violence, and family 
+                            violence in the Armed Forces.
+ Sec. 522. Research on institutional procedures for reporting sexual 
+                            assault, domestic violence, and family 
+                            violence in the Armed Forces.
+ Sec. 523. Research on dating violence associated with the Armed 
+                            Forces.
+ Sec. 524. Research on child maltreatment, abuse, and homicide in the 
+                            Armed Forces.
+
+    TITLE I--VICTIMS' ADVOCATE PROGRAMS IN THE DEPARTMENT OF DEFENSE
+
+                        Subtitle A--Definitions
+
+SEC. 101. DEFINITIONS RELATING TO SEXUAL ASSAULT, DOMESTIC VIOLENCE, 
+              ETC., IN THE MILITARY.
+
+    (a) In General.--Chapter 1 of title 10, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 102. Definitions relating to sexual assault, domestic violence, 
+              etc.
+    ``(a) Definitions Relating to Conduct.--The following definitions 
+apply in this title:
+            ``(1) Sexual assault.--The term `sexual assault' has the 
+        meaning given that term in section 2003(6) of title I of the 
+        Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 
+        3796gg-2(6)).
+            ``(2) Domestic violence.--The term `domestic violence' has 
+        the meaning given that term in section 2003 of title I of the 
+        Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 
+        3796gg-2).
+            ``(3) Family violence.--The term `family violence' has the 
+        meaning given that term in section 320(1) of the Family 
+        Violence Prevention and Services Act (42 U.S.C. 10421(1)).
+            ``(4) Stalking.--The term `stalking' means engaging in a 
+        course of conduct as proscribed in chapter 110A of title 18, as 
+        directed at a specific person that would cause a reasonable 
+        person to fear death, sexual assault, or bodily injury to 
+        himself or herself or a member of his or her immediate family 
+        when--
+                    ``(A) the person engaging in such conduct has 
+                knowledge or should have knowledge that the specific 
+                person will be placed in reasonable fear of death, 
+                sexual assault, or bodily injury to himself or herself 
+                or a member of his or her immediate family; and
+                    ``(B) the conduct induces fear in the specific 
+                person of death, sexual assault, or bodily injury to 
+                himself or herself or a member of his or her immediate 
+                family.
+            ``(5) Sexual violence.--The term `sexual violence' means 
+        any of the following:
+                    ``(A) Sexual abuse.
+                    ``(B) Sexual assault.
+                    ``(C) Sexual battery.
+                    ``(D) Rape.
+            ``(6) Sexual harassment.--The term `sexual harassment' 
+        means any conduct involving sexual harassment that--
+                    ``(A) in the case of conduct of a person who is 
+                subject to the provisions of chapter 47 of this title 
+                (the Uniform Code of Military Justice), comprises a 
+                violation of a provision of subchapter X of such 
+                chapter (relating to punitive articles of such Code) or 
+                an applicable regulation, directive, or guideline 
+                regarding sexual harassment that is prescribed by the 
+                Secretary of Defense or the Secretary of a military 
+                department; and
+                    ``(B) in the case of an employee of the Department 
+                of Defense or a family member subject to the 
+                jurisdiction of the Secretary of Defense or of the 
+                Secretary of a military department, comprises a 
+                violation of a regulation, directive, or guideline that 
+                is applicable to such employee or family member.
+            ``(7) Dating violence.--The term `dating violence' means 
+        violence committed by a person who is or has been in a social 
+        relationship of a romantic or intimate nature with the victim.
+    ``(b) Definitions Relating to Victims.--The following definitions 
+apply in this title:
+            ``(1) Victim.--The term `victim' means a person who is a 
+        victim of sexual assault, domestic violence, family violence, 
+        stalking, or sexual misconduct committed--
+                    ``(A) by or upon a member of the armed forces;
+                    ``(B) by or upon a family member of a member of the 
+                armed forces;
+                    ``(C) by or upon a person who shares a child in 
+                common with a member of the armed forces;
+                    ``(D) by or upon a person who is cohabiting with or 
+                has cohabited as a spouse with a member of the armed 
+                forces;
+                    ``(E) by or upon a person similarly situated to a 
+                spouse of a member of the armed forces; or
+                    ``(F) by or upon any other person who is protected 
+                from the acts of a member of the armed forces or an 
+                officer or employee of the Department of Defense in the 
+                official capacity of that member, officer, or employee.
+            ``(2) Representative of the victim.--The term 
+        `representative of the victim' means, with respect to a victim 
+        who is deceased, the person who is listed first among the 
+        following (other than a person who is considered a perpetrator 
+        with respect to the victim):
+                    ``(A) The surviving spouse.
+                    ``(B) A surviving child of the decedent who has 
+                attained 18 years of age.
+                    ``(C) A surviving parent of the decedent.
+                    ``(D) A surviving adult relative.
+                    ``(E) The public administrator appointed by a 
+                probate court, if one has been appointed.
+            ``(3) Partner.--The term `partner' means any of the 
+        following:
+                    ``(A) A person who is or has been in a social 
+                relationship of a romantic or intimate nature with 
+                another.
+                    ``(B) A person who shares a child in common with 
+                another person.
+                    ``(C) A person who is cohabiting with or has 
+                cohabited as a spouse by regularly residing in the 
+                household.
+                    ``(D) A person similarly situated to a spouse.
+                    ``(E) A former spouse.
+    ``(c) Definitions Relating to Programs and Organizations.--The 
+following definitions apply in this title:
+            ``(1) Victims' advocates program.--The term `victims' 
+        advocates program' means a program established within a 
+        military department pursuant to section 1814(a) of this title.
+            ``(2) Family advocacy program.--The term `family advocacy 
+        program' has the meaning provided in Department of Defense 
+        Directive 6400.1, issued by the Office of Family Policy of the 
+        Department of Defense established by section 1781 of this 
+        title.
+            ``(3) Victim services organization.--The term `victim 
+        services organization' means an organization (whether public or 
+        private) that provides advice, counseling, or assistance to 
+        victims of domestic violence, family violence, dating violence, 
+        stalking, or sexual assault, or to the families of such 
+        victims.
+    ``(d) Other.--The following definitions apply in this title:
+            ``(1) Personally identifying information.--The term 
+        `personally identifying information' has the meaning given that 
+        term in section 1816(b) of this title.
+            ``(2) Electronic communication.--The term `electronic 
+        communication' has the meaning given that term in paragraph 
+        (12) of section 2510 of title 18.
+            ``(3) Transitional housing.--The term `transitional 
+        housing' includes short-term housing and has the meaning given 
+        that term in section 424(b) of the McKinney-Vento Homeless 
+        Assistance Act (42 U.S.C. 11384(b)).
+            ``(4) Complaint.--The term `complaint', with respect to an 
+        allegation of family violence, sexual assault, stalking, or 
+        domestic violence, includes a report of such allegation.
+            ``(5) Military law enforcement official.--The term 
+        `military law enforcement official' means a person authorized 
+        under regulations governing the armed forces to apprehend 
+        persons subject to chapter 47 of this title (the Uniform Code 
+        of Military Justice) or to trial thereunder.
+    ``(e) Proof of Relationship.--For purposes of subsection (a)(7) 
+(relating to dating violence) and subsection (b)(3) (relating to 
+partners), the existence of a relationship as described in that 
+subsection shall be determined based on a consideration of--
+            ``(1) the length of the relationship;
+            ``(2) the type of relationship; and
+            ``(3) the frequency of interaction between the persons 
+        involved in the relationship.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by adding at the end the following new item:
+
+``102. Definitions relating to sexual assault, domestic violence, 
+                            etc.''.
+    (c) Incorporation for This Act.--The provisions of section 102 of 
+title 10, United States Code, as added by subsection (a), apply to the 
+provisions of this Act not enacted as an amendment to such title.
+
+   Subtitle B--Office of Victims' Advocate and Department of Defense 
+                       Interdisciplinary Council
+
+SEC. 111. OFFICE OF THE VICTIMS' ADVOCATE.
+
+    (a) In General.--Part II of subtitle A of title 10, United States 
+Code, is amended by adding at the end the following new chapter:
+
+             ``CHAPTER 90--OFFICE OF THE VICTIMS' ADVOCATE
+
+``1811. Office of the Victims' Advocate: establishment; Director.
+``1812. Office of the Victims' Advocate: responsibilities.
+``1813. Office of the Victims' Advocate: comprehensive policy on 
+                            prevention of and response to domestic 
+                            violence, family violence, sexual assault 
+                            and stalking involving members of the armed 
+                            forces and their families and partners.
+``1814. Victims' advocates programs in the military departments.
+``1815. Office of the Victims' Advocate: access.
+``1816. Office of the Victims' Advocate: confidentiality.
+``1817. Office of the Victims' Advocate: victim protection actions.
+``1818. Office of the Victims' Advocate: victims advocates 
+                            whistleblower protections.
+``1819. Office of the Victims' Advocate: annual assessment.
+``1820. Office of the Victims' Advocate: annual report.
+``1821. Requirements on use of funds.
+``Sec. 1811. Office of the Victims' Advocate: establishment; Director
+    ``(a) Establishment.--There is in the Office of the Secretary of 
+Defense an Office of the Victims' Advocate (hereinafter in this chapter 
+referred to as the `Office').
+    ``(b) Director.--(1) The head of the Office is a Director, who 
+shall be a person with knowledge of victims' rights, advocacy, social 
+services, and Federal, State, and military systems. The Director shall 
+oversee the victims' advocate programs and the family advocacy programs 
+of the Department of Defense.
+    ``(2) The Director shall be a person who is qualified by training 
+and expertise to perform the responsibilities of the Director and who 
+has a significant level of experience in advocacy for victims of sexual 
+assault, domestic violence, family violence, and stalking.
+    ``(3) The position of Director is a Senior Executive Service 
+position. The Secretary of Defense shall designate the position as a 
+career reserved position under section 3132(b) of title 5.
+    ``(4) The Secretary of Defense shall consult with the 
+interdisciplinary council established under section 185 of this title 
+in the appointment of the Director.
+    ``(c) Victims Advocates.--(1) Victims advocates shall be assigned 
+to, employed by, or contracted for by the Director and shall be 
+assigned to the Director.
+    ``(2) Victim advocates shall be qualified by training, expertise, 
+and certification to perform the responsibilities of the position and 
+possessing a significant level of knowledge relative to the armed 
+forces and experience in advocacy for victims of sexual assault, 
+domestic violence, family violence, and stalking.
+    ``(3) The victim advocates report to the Director or to the 
+Director's designee within the Office.
+``Sec. 1812. Office of the Victims' Advocate: responsibilities
+    ``(a) General Functions.--(1) The Office shall facilitate access to 
+services for victims of domestic violence, family violence, sexual 
+assault, and stalking.
+    ``(2) The Office shall provide for victim advocates in the 
+Department of Defense for purposes of victims' advocates programs of 
+the Department. Victims advocates may be Department of Defense 
+employees or contractor employees. The Director shall ensure that 
+victim advocates receive or have received specialized training in the 
+counseling and support of victims.
+    ``(b) Qualifications of Victim Advocates.--In order to be employed 
+as a victim advocate by the Department of Defense or under a contract 
+with the Department of Defense, an individual--
+            ``(1) must have a degree in counseling or a related field 
+        or have one year of counseling experience, at least six months 
+        of which must have been in the counseling of sexual assault or 
+        domestic violence victims; and
+            ``(2) must have had at least 60 hours of training as 
+        specified by regulations prescribed by the Director, including 
+        training in the following areas:
+                    ``(A) History of domestic violence and sexual 
+                assault.
+                    ``(B) Civil, criminal, and military law as it 
+                relates to domestic violence and sexual assault.
+                    ``(C) Societal attitudes.
+                    ``(D) Peer counseling techniques.
+                    ``(E) Housing.
+                    ``(F) Public and private assistance available to 
+                victims.
+                    ``(G) Financial resources for victims.
+                    ``(H) Safety and protection resources for victims.
+                    ``(I) Victim and transitional compensation.
+                    ``(J) Benefits.
+                    ``(K) Referral services available to victims.
+                    ``(L) Military culture and an understanding of how 
+                to operate within a military chain of command.
+    ``(c) Health Care Assistance.--Upon request of a victim of domestic 
+violence, family violence, sexual assault, or stalking, the Director 
+shall assist the victim in obtaining from any facility of the uniformed 
+services or any other health care facility of the United States or, by 
+contract, from any other source, medical services, counseling, and 
+other mental health services appropriate for treatment of injuries 
+resulting from the domestic violence, family violence, sexual assault, 
+or stalking, as otherwise authorized by law, including--
+    ``(1) rape evidence kits;
+    ``(2) DNA testing;
+    ``(3) sexually transmitted diseases screening and treatment;
+    ``(4) HIV screening and treatment;
+    ``(5) pregnancy testing;
+    ``(6) methods of pregnancy prevention approved by the Food and Drug 
+Administration;
+    ``(7) reproductive health services; and
+    ``(8) other mental and physiological results of the domestic 
+violence, sexual assault, or stalking.
+    ``(d) General Coordination Functions.--The Director shall 
+coordinate programs and activities of the military departments relative 
+to services and treatment for victims of domestic violence, family 
+violence, sexual assault, and stalking.
+    ``(e) Evaluation and Review Responsibilities.--The Director shall 
+carry out the following ongoing evaluations and reviews:
+            ``(1) Evaluation of the policies and protocols established 
+        by the military departments providing services and treatment 
+        referred to in subsection (e), with a view towards the rights 
+        of victims of domestic violence, family violence, sexual 
+        assault, and stalking.
+            ``(2) Evaluation of the programs established by the 
+        military departments providing services to victims of domestic 
+        violence, family violence, sexual assault, and stalking.
+            ``(3) Evaluation of the delivery of services of the 
+        military departments that provide services and treatment to 
+        victims of domestic violence, family violence, sexual assault, 
+        and stalking through funds provided by the Department of 
+        Defense, Department of Justice, or Department of Health and 
+        Human Services.
+            ``(4) Annual review of the facilities of the Department of 
+        Defense providing services to victims of domestic violence, 
+        family violence, sexual assault, or stalking.
+            ``(5) Annual review of the National Domestic Violence 
+        Hotline, the National Sexual Assault Hotline, and the American 
+        Women Overseas Hotline relative to projects for military 
+        personnel, families, and partners and for victims of domestic 
+        violence, family violence, sexual assault, or stalking.
+            ``(6) Annual review of the victim witness assistance 
+        programs within the Department of Defense.
+            ``(7) Review of information from an individual (and of any 
+        investigation resulting from the submission of such 
+        information) indicating that a victim may be in need of, or 
+        would benefit from, assistance from a victim advocate.
+    ``(f) Education and Training Responsibilities.--(1) The Director 
+shall conduct, or provide for the conduct of, training and shall 
+provide technical assistance related to domestic violence, family 
+violence, sexual assault, and stalking within the military departments. 
+Such training shall be mandatory, as prescribed by the Director, except 
+to the extent necessary due to military exigencies.
+    ``(2) The Director shall develop curricula for mandatory training 
+of personnel, including first responders, security forces, law 
+enforcement, medical personnel, command staff, military justice 
+personnel, and military criminal investigators.
+    ``(3) The Director shall conduct education and outreach programs. 
+Such programs shall include the development and distribution of 
+brochures, booklets, posters, and handbooks outlining hotlines, 
+services, contact information, policies, and protocols for victims.
+``Sec. 1813. Office of the Victims' Advocate: comprehensive policy on 
+              prevention of and response to domestic violence, family 
+              violence, sexual assault and stalking involving members 
+              of the armed forces and their families and partners
+    ``(a) Responsibility.--The Secretary of Defense, acting through the 
+Director of the Office, shall implement the comprehensive policy 
+developed pursuant to subsection (c), subject to such modifications as 
+the Secretary considers advisable.
+    ``(b) Application of Comprehensive Policy to Military 
+Departments.--The Secretary shall ensure that, to the maximum extent 
+practicable, the policy implemented pursuant to subsection (a) is 
+implemented uniformly by the Secretaries of the military departments.
+    ``(c) Policy.--(1) The Director shall recommend to the Secretary of 
+Defense a comprehensive policy on prevention of and response to 
+domestic violence, family violence, sexual assault and stalking 
+involving members of the armed forces and their families and partners. 
+The comprehensive policy should be as uniform as practicable throughout 
+the Department of Defenses and shall, to the extent feasible, 
+incorporate and strengthen policies previously in existence.
+    ``(2) To the extent feasible, the comprehensive policy shall set 
+forth policies and procedures with respect to each of domestic 
+violence, family violence, sexual assault, and stalking in each of the 
+following areas:
+            ``(A) Prevention measures.
+            ``(B) Education and training on prevention and response.
+            ``(C) Investigation of complaints by command and law 
+        enforcement personnel.
+            ``(D) Medical treatment of victims.
+            ``(E) Confidential reporting of incidents.
+            ``(F) Victim advocacy and response.
+            ``(G) Oversight by commanders of administrative and 
+        disciplinary actions in response to substantiated incidents.
+            ``(H) Disposition of victims, including review by 
+        appropriate authority of administrative separation actions 
+        involving victims.
+            ``(I) Disposition of members of the armed forces accused of 
+        domestic violence, family violence, sexual assault, or 
+        stalking.
+            ``(J) Liaison and collaboration with civilian agencies on 
+        the provision of services to victims.
+            ``(K) Uniform collection of data on the incidence of 
+        complaints of domestic violence, family violence, sexual 
+        assault, and stalking and on disciplinary actions taken in 
+        those cases, with such data to be disaggregated by service and 
+        by major installation.
+    ``(3) The comprehensive policy shall include for each of the 
+military departments the following:
+            ``(A) A program to promote awareness of the incidence of 
+        domestic violence, family violence, sexual assault, and 
+        stalking involving members of the armed forces.
+            ``(B) A program to provide victim advocacy and intervention 
+        for members of the armed forces who are victims of domestic 
+        violence, family violence, sexual assault, and stalking, which 
+        program shall make available, at military installations and in 
+        deployed locations, victims advocates who are readily available 
+        to intervene on behalf of such victims.
+            ``(C) Procedures for members of the armed forces to follow 
+        in the case of an incident of domestic violence, family 
+        violence, sexual assault, or stalking involving a member of the 
+        armed forces, including--
+                    ``(i) procedures for confidential reporting and for 
+                seeking services with victim advocates;
+                    ``(ii) specification of the person or persons to 
+                whom the alleged offense should be reported;
+                    ``(iii) specification of any other person whom the 
+                victim should contact; and
+                    ``(iv) procedures for the preservation of evidence.
+            ``(D) Procedures for disciplinary action in cases of 
+        domestic violence, family violence, sexual assault, and 
+        stalking by members of the armed forces.
+            ``(E) Other sanctions authorized to be imposed in cases of 
+        sexual assault by members of the armed forces.
+            ``(F) Training for all members of the armed forces, 
+        including specific training for members of the armed forces who 
+        process allegations of domestic violence, family violence, 
+        sexual assault, and stalking committed by or upon members of 
+        the armed forces.
+            ``(G) Any other matter that the Secretary of Defense, in 
+        consultation with the Director of the Office of the Victims' 
+        Advocate, considers appropriate.
+    ``(d) Recommendations.--The Director shall from time to time 
+recommend to the Secretary of Defense revisions to Department of 
+Defense policies, personnel, and procedures for dealing with domestic 
+violence, family violence, sexual assault, and stalking based on 
+evaluations carried out under section 1818(b) of this title and as the 
+Director considers appropriate.
+    ``(e) Procedures to Protect Confidential Communications.--The 
+Director shall establish procedures to implement the protection of 
+confidential communications provided under section 1816 of this title.
+``Sec. 1814. Victims' advocates programs in the military departments
+    ``(a) Establishment.--(1) The Secretary of Defense, acting through 
+the Director of the Office, shall require that policies and regulations 
+of the Department of Defense with respect to the programs of the 
+Department of Defense specified in paragraph (2) provide within each of 
+the military departments a victims' advocates program.
+    ``(2) Programs referred to in paragraph (1) are the following:
+            ``(A) Victim and witness assistance programs.
+            ``(B) Family advocacy programs.
+            ``(C) Equal opportunity programs.
+    ``(3) In the case of the Department of the Navy, separate victims' 
+advocates programs shall be established for the Navy and for the Marine 
+Corps.
+    ``(b) Purpose.--A victims' advocates program established pursuant 
+to subsection (a) shall provide assistance described in subsection (d) 
+to members of the armed forces and their family members and partners 
+who are victims of any of the following:
+            ``(1) Crime.
+            ``(2) Sexual, physical, or emotional abuse.
+            ``(3) Discrimination or harassment based on race, gender, 
+        ethnic background, national origin, or religion.
+    ``(c) Assistance.--(1) Under a victims' advocates program 
+established under subsection (a), individuals working in the program 
+shall principally serve the interests of a victim by initiating action 
+to provide the following:
+            ``(A) Crisis intervention.
+            ``(B) Screening and evaluation of the needs of victims of 
+        domestic violence, family violence, sexual assault, and 
+        stalking.
+            ``(C) Information on safe and confidential ways to seek 
+        assistance to address domestic violence, family violence, 
+        sexual assault, and stalking.
+            ``(D) Information on available services within the military 
+        departments and civilian communities.
+            ``(E) Assistance in obtaining the services referred to in 
+        subparagraph (D), including medical treatment for injuries.
+            ``(F) Appropriate referrals to military and civilian 
+        community-based domestic violence programs and sexual assault 
+        victim service providers with the capacity to support 
+        servicemembers, family members, or partners.
+            ``(G) Information on legal rights and resources for 
+        personnel, family members, or partners in both the military and 
+        civilian programs.
+            ``(H) Development and coordination of a safety plan with 
+        appropriate assistance and intervention components including, 
+        law enforcement, command, and Family Advocacy Program.
+            ``(I) Advocacy for victims specified in subsection (b), 
+        including assistance in obtaining and entering no contact 
+        orders from military commands or orders of protection from a 
+        court of appropriate jurisdiction, respectively.
+            ``(J) Information on benefits, including Department of 
+        Defense transitional compensation, victims of crime 
+        compensation, and veterans' benefits.
+            ``(K) Coordination among services, including medical, 
+        legal, and psychological counseling.
+            ``(L) Education.
+            ``(M) Transportation.
+            ``(N) Pre-trial, trial, and post-trial support.
+    ``(2) Under a victims' advocates program established under 
+subsection (a), an individual working in the program as a victim 
+advocate shall carry out the following functions:
+            ``(A) Serve as a voting member of the case review committee 
+        of the Department of Defense for any case to which the victim 
+        advocate is assigned.
+            ``(B) Serve as a liaison with civilian community-based 
+        service providers.
+            ``(C) Provide for confidential handling of all documents or 
+        conversations relative to victim care, services, benefits, and 
+        treatment.
+            ``(D) Provide advocacy for the expressed interest and 
+        safety of a victim during testimony in a court-martial or 
+        civilian judicial system.
+            ``(E) Provide follow-up to all identified victims 
+        (including those who have declined services) three months 
+        following initial contact to ascertain whether further 
+        intervention is, or is not, warranted.
+            ``(F) Provide other appropriate assistance.
+    ``(3) Services under such a program in the case of an individual 
+who is a victim of family violence (including sexual, physical, and 
+emotional abuse) shall be provided principally through the Office.
+    ``(d) Staffing.--The Secretary of Defense, acting through the 
+Director of the Office, shall provide for the assignment of personnel 
+(military or civilian) on a full-time basis to victims' advocates 
+programs established under subsection (a). The Secretary, acting 
+through the Director, shall ensure that sufficient numbers of such 
+full-time personnel are assigned to those programs to enable the 
+programs to be carried out effectively, including the assignment of 
+victim advocates to deployed units.
+``Sec. 1815. Office of the Victims' Advocate: access
+    ``(a) Access to Senior Officials.--The Director of the Office shall 
+have direct and prompt access to any of the following when necessary 
+for any purpose pertaining to the performance of the Director's duties:
+            ``(1) The Judge Advocate General of the Army, Navy, or Air 
+        Force or the Staff Judge Advocate to the Commandant of the 
+        Marine Corps.
+            ``(2) The Surgeon General of the Army, Navy, or the Air 
+        Force.
+            ``(3) The Chief of Chaplains of the Army, Navy, or the Air 
+        Force.
+            ``(4) The senior general or flag officer of one of the 
+        Armed Forces with responsibility specifically for personnel.
+    ``(b) Access to Information.--The Director shall have direct and 
+prompt access to the following:
+            ``(1) The name and location of a victim receiving services, 
+        treatment, or other assistance under the jurisdiction of a 
+        military department.
+            ``(2) Any written report of sexual assault, sexual 
+        misconduct, domestic violence, family violence, or stalking 
+        prepared by a military department.
+            ``(3) Victim case files, subject to written authorization 
+        of the victim, in records of law enforcement, criminal 
+        investigative organizations, health care providers, and command 
+        and Family Advocacy Programs, as may be necessary to carry out 
+        the responsibilities of the Office.
+    ``(c) Confidentiality.--To the extent that any information covered 
+by subsection (b) provides the name and address of an individual who is 
+the subject of a confidential proceeding, that name and address (and 
+related information that has the effect of identifying that individual) 
+may not be released to the public without the informed written consent 
+of such individual.
+``Sec. 1816. Office of the Victims' Advocate: confidentiality
+    ``(a) Confidentiality.--(1) Except as provided in paragraph (2), in 
+order to ensure the safety of victims of domestic violence, family 
+violence, sexual assault, sexual misconduct, or stalking and their 
+families, the Director shall protect the confidentiality and privacy of 
+persons receiving services. The Director may not disclose any 
+personally identifying information or individual information collected 
+in connection with services requested, used, or denied through its 
+programs. The Director may not reveal individual victim information 
+without the informed, written, reasonably time-limited consent of the 
+person (or in the case of unemancipated minor, the minor and the parent 
+or guardian) about whom information is sought.
+    ``(2) If release of information referred to in paragraph (1) is 
+compelled by law or by court order, the Director shall make reasonable 
+attempts to provide notice to victims affected by the disclosure of the 
+information. If such personally identifying information is or will be 
+revealed, the Director shall take steps necessary to protect the 
+privacy and safety of the persons affected by the release of the 
+information.
+    ``(3) The Director may share nonpersonally identifying data in the 
+aggregate regarding services to victims and nonpersonally identifying 
+demographic information in order to comply with reporting, evaluation, 
+or data collection requirements of the armed forces or of Federal, 
+State, or local or tribal government or the government of the District 
+of Columbia or any territory or commonwealth.
+    ``(4) The Director may share court-generated information contained 
+in secure, governmental registries for purposes of enforcement of 
+protection orders.
+    ``(b) Personally Identifying Information.--In this section, the 
+term `personally identifying information' means the following 
+information about an individual:
+            ``(1) A first and last name.
+            ``(2) A home or other physical address, including street 
+        name and name of city or town.
+            ``(3) An email address or other online contact information, 
+        such as an instant messaging user identifier or a screen name, 
+        that reveals the individual's email address.
+            ``(4) A telephone number.
+            ``(5) A Social Security Number.
+            ``(6) An Internet Protocol (IP) address or host name that 
+        identifies an individual.
+            ``(7) A persistent identifier, such as a customer number 
+        held in a cookie or processor serial number, that is combined 
+        with other available data that identifies an individual.
+            ``(8) If the individual is a member or former member of the 
+        armed forces--
+                    ``(A) the status of the individual as a member of 
+                an active component or reserve component or as a 
+                veteran;
+                    ``(B) the individual's current or most recent 
+                grade, rate, or rank;
+                    ``(C) the individual's current or most recent duty 
+                station or deployment status; and
+                    ``(D) the individual's current or most recent unit 
+                at a level below regiment (or the equivalent), numbered 
+                air force (or the equivalent), or numbered fleet (or 
+                the equivalent).
+            ``(9) Any other information, including grade point average, 
+        date of birth, academic or occupational assignments or 
+        interests, athletic or extracurricular interests, racial or 
+        ethnic background, or religious affiliation, that, in 
+        combination with information specified in any of paragraphs (1) 
+        through (8), would serve to identify an individual.
+``Sec. 1817. Office of the Victims' Advocate: victim protection actions
+    ``(a) Orders of Protection.--The Director of the Office of the 
+Victims' Advocate, when authorized by a victim of sexual misconduct, 
+sexual assault, family violence, domestic violence, or stalking, shall 
+assist the victim in obtaining from any military command a military no-
+contact order or from a court of appropriate jurisdiction an order of 
+protection, respectively, to safeguard the victim from additional 
+physical or emotional harm.
+    ``(b) Removal of an Alleged Offender.--If the Director determines 
+that it is appropriate to do so in order to ensure the safety of a 
+victim, the Director may request from the appropriate commanding 
+officer an order for the relocation or reassignment of an alleged 
+offender who is a member of the armed forces during an investigation, 
+disciplinary action, or court-martial in order to ensure the safety of 
+a victim.
+``Sec. 1818. Office of the Victims' Advocate: victims advocates 
+              whistleblower protections
+    ``(a) Whistleblower Protections.--(1) No person may restrict a 
+victim advocate within the Department of Defense in communicating with 
+a victim or survivor of domestic violence, sexual assault, family 
+violence, or stalking.
+    ``(2) Paragraph (1) does not apply to a communication that is 
+unlawful.
+    ``(b) Prohibition of Retaliatory Personnel Actions.--No person may 
+take or threaten to take an unfavorable personnel action, or withhold 
+or threaten to withhold a favorable personnel action, against a victim 
+advocate as a reprisal for--
+            ``(1) providing services to victims and survivors of 
+        domestic violence, sexual assault, family violence, intimate 
+        partner violence, or stalking;
+            ``(2) a communication to a Member of Congress or an 
+        Inspector General;
+            ``(3) a communication with a military law enforcement 
+        officer or official, a military criminal investigator, a judge 
+        advocate, or an officer in the chain of command;
+            ``(4) a communication with civilian law enforcement, 
+        county, State, or United States attorneys, court officials, 
+        probation officers, or victim service providers; or
+            ``(5) any other person or organization, including any 
+        person or organization in the chain of command, in the course 
+        of providing services to a victim or survivor.
+    ``(c) Prohibited Personnel Actions.--Any action prohibited by 
+subsection (b), including the threat to take any unfavorable action and 
+the withholding or threat to withhold any favorable action, shall be 
+considered for the purposes of this section to be a personnel action 
+prohibited by this section.
+    ``(d) Investigation of Allegations of Prohibited Personnel 
+Actions.--(1) If a victim advocate submits to an Inspector General an 
+allegation that a personnel action prohibited by subsection (b) has 
+been taken or threatened against the victim advocate with respect to a 
+communication described in paragraph (2), the Inspector General shall 
+take the action required in this section.
+    ``(2) A communication described in this paragraph is a 
+communication in which the victim advocate reasonably believes 
+constitutes evidence of any of the following:
+            ``(A) A violation of law or regulation, including a law or 
+        regulation prohibiting domestic violence, sexual assault, 
+        family violence, or stalking.
+            ``(B) Gross mismanagement, an abuse of authority, or a 
+        substantial danger to community safety or public health.
+    ``(3)(A) If the Inspector General receiving such an allegation is 
+an Inspector General within a military department, that Inspector 
+General shall promptly notify the Inspector General of the Department 
+of Defense of the allegation. Such notification shall be made in 
+accordance with regulations prescribed under subsection (e).
+    ``(B) An Inspector General of the Department of Defense receiving 
+an allegation as described in this section shall expeditiously 
+determine, in accordance with regulations prescribed under subsection 
+(e), whether there is sufficient evidence to warrant an investigation 
+of the allegation.
+    ``(C) Upon determining that an investigation of an allegation under 
+this section is warranted, the Inspector General making the 
+determination shall expeditiously investigate the allegation.
+    ``(4) The Inspector General of the Department of Defense shall 
+ensure that the Inspector General conducting the investigation of an 
+allegation under this subsection is outside the immediate chain of 
+command of both the victim advocate submitting the allegation and the 
+individual or individuals alleged to have taken the retaliatory action.
+    ``(5) Upon receiving an allegation under this subsection, the 
+Inspector General shall conduct a separate investigation of the 
+information that the victim advocate making the allegation believes 
+constitutes evidence of wrongdoing as described in subparagraph (A) or 
+(B) of paragraph (2) if there previously has not been such an 
+investigation or if the Inspector General determines that the original 
+investigation was biased or otherwise inadequate.
+    ``(6)(A) After completion of an investigation under paragraphs (3), 
+(4), or (5), the Inspector General conducting the investigation shall 
+submit a report on the results of the investigation to the Secretary of 
+Defense and the Director of the Office of the Victims' Advocate and 
+shall transmit a copy of the report on the results of the investigation 
+to the victim advocate who made the allegation investigated. The report 
+shall be transmitted to the Secretary of Defense and the Director of 
+the Office of the Victims' Advocate, and the copy of the report shall 
+be transmitted to the victim advocate, not later than 30 days after the 
+completion of the investigation.
+    ``(B) In the copy of the report transmitted to the victim advocate, 
+the Inspector General shall ensure that the maximum disclosure of 
+information possible, with the exception of information that is not 
+required to be disclosed under section 552 of title 5. However, the 
+copy need not include summaries of interviews conducted, nor any 
+document acquired, during the course of the investigation. Such items 
+shall be transmitted to the victim advocate, if the victim advocate 
+requests the items, with the copy of the report or after the 
+transmittal to the victim advocate of the copy of the report, 
+regardless of whether the request for those items is made before or 
+after the copy of the report is transmitted to the victim advocate.
+    ``(C) If, in the course of an investigation of an allegation under 
+this section, the Inspector General determines that it is not possible 
+to submit the report required by subparagraph (A) within 180 days after 
+the date of receipt of the allegation being investigated, the Inspector 
+General shall provide to the Secretary of Defense and to the victim 
+advocate making the allegation a notice--
+            ``(i) of that determination including the reasons why the 
+        report may not be submitted within that time; and
+            ``(ii) of the time when the report will be submitted.
+    ``(D) The report on the results of the investigation shall contain 
+a thorough review of the facts and circumstances relevant to the 
+allegation and the complaint or disclosure and shall include documents 
+acquired during the course of the investigation, including summaries of 
+interviews conducted. The report may include a recommendation as to the 
+disposition of the complaint.
+    ``(e) Regulations.--(1) The Secretary of Defense shall prescribe 
+regulations to carry out this section. In prescribing regulations under 
+this section, the Secretary of Defense shall provide for appropriate 
+procedural protections for the subject of any investigation carried out 
+under the provisions of this section, including a process of appeal and 
+review of investigative findings.
+    ``(2) The Secretary shall provide in the regulations that a 
+violation of the prohibition by a person subject to chapter 47 of this 
+title is punishable as a violation of section 892 of this title 
+(article 92 of the Uniform Code of Military Justice).
+``Sec. 1819. Office of the Victims' Advocate: annual assessment
+    ``(a) Data Compliance and Reporting.--The Director of the Office of 
+the Victims' Advocate shall annually compile data collected during the 
+preceding year by the military departments relating to incidents of 
+domestic violence, family violence, sexual assault, and stalking. The 
+data shall be compiled pursuant to policies set forth by the Director.
+    ``(b) Assessment of Policies and Procedures.--Not later than 
+January 15 each year, the Director shall conduct an assessment of the 
+implementation during the preceding fiscal year of the policies and 
+procedures of the military departments on the prevention of and 
+response to domestic violence, family violence, sexual assault, and 
+stalking involving members of the armed forces in order to determine 
+the effectiveness of such policies and procedures during such fiscal 
+year.
+    ``(c) Personnel Analysis.--The annual assessment under subsection 
+(b) shall include a review of personnel, including staffing levels, 
+assignments, accessibility, availability, training, and duties of 
+victim advocates, victim witness liaisons, sexual assault nurse 
+examiners, and others considered appropriate by the Director assigned 
+to assist victims of domestic violence, sexual assault, family 
+violence, and stalking. The assessment shall include a review of 
+personnel assigned to deployed units, along with recommendations to 
+enhance availability, accessibility, and training for such personnel.
+    ``(d) Assessment of Statutes and Directives.--In order to enhance 
+the foundation of law and policy within the military departments in 
+response to domestic violence, family violence, sexual assault, and 
+stalking, the annual assessment under subsection (b) shall include a 
+review of--
+            ``(1) chapter 47 of this title (the Uniform Code of 
+        Military Justice), the provisions of law in force at the time 
+        of the assessment that were originally enacted by the Victims' 
+        Rights and Restitution Act or the Violence Against Women Act, 
+        and other Federal statutes applicable to domestic violence, 
+        sexual assault, family violence, and stalking;
+            ``(2) directives of the military departments; and
+            ``(3) regulations of the military departments considered 
+        appropriate by the Director.
+``Sec. 1820. Office of the Victims' Advocate: annual report
+    ``(a) Annual Report.--(1) Not later than January 15 of each year, 
+the Director shall submit to the Secretary of Defense a report on 
+domestic violence, family violence, sexual assault, and stalking 
+involving members of the armed forces during the preceding year.
+    ``(2) Each report under paragraph (1) shall include the following:
+            ``(A) The most recent compilation of data under section 
+        1819(a) of this title; together with a comparison of that data 
+        (or subsets of that data) with comparable data from the 
+        civilian sector.
+            ``(B) The results of the most recent assessment under 
+        section 1819(b) of this title.
+            ``(C) The number of incidents of domestic violence, family 
+        violence, sexual assault, and stalking committed by or upon 
+        members of the armed forces that were reported to military 
+        officials during the year covered by the report and the number 
+        of the cases so reported that were substantiated.
+            ``(D) A summary of the types of cases and the disciplinary 
+        action taken in each type of case.
+            ``(E) The policies, procedures, and processes implemented 
+        by the military departments during the year covered by the 
+        report in response to incidents of domestic violence, family 
+        violence, sexual assault, and stalking involving members of the 
+        armed forces.
+            ``(F) A plan for the actions that are to be taken in the 
+        fiscal year following the fiscal year covered by the report on 
+        the prevention of and response to domestic violence, family 
+        violence, sexual assault, and stalking involving members of the 
+        armed forces.
+    ``(b) Transmission of Report to Congressional Committees.--The 
+Secretary of Defense shall transmit to the Committee on Armed Services 
+of the Senate and the Committee on Armed Services of the House of 
+Representatives each annual report submitted to the Secretary under 
+subsection (a), together with the comments of the Secretary on such 
+report. The Secretary shall transmit the report for any year not later 
+than March 15 of the following year.
+``Sec. 1821. Requirements on use of funds
+    ``(a) Requirements.--Of the amounts appropriated to carry out the 
+functions of the Office for any fiscal year, the Secretary--
+            ``(1) shall use not less than 20 percent for programs 
+        addressing domestic violence, family violence, sexual assault, 
+        and stalking that are operated by, or in partnership with, 
+        civilian victim services; and
+            ``(2) shall use not less than 5 percent for technical 
+        assistance and training to be provided by organizations having 
+        demonstrated expertise in developing collaborative community 
+        and system responses to domestic violence, family violence, 
+        sexual assault, and stalking.
+    ``(b) Technical Assistance and Training.--Technical assistance and 
+training under subsection (a)(2) may be offered to the elements of the 
+armed forces, installations, or commands in the process of developing 
+community responses, whether they are receiving funds under this 
+section or not.''
+    (b) Transition Provisions.--
+            (1) Comprehensive policy.--The policy required by section 
+        1812(a) of title 10, United States Code, as added by subsection 
+        (a), shall be prescribed by the Secretary of Defense not later 
+        than the end of the 120-day period beginning on the date of the 
+        enactment of this Act.
+            (2) Whistleblower protection regulations.--The regulations 
+        required by section 1817(e) of title 10, United States Code, as 
+        added by subsection (a), shall be prescribed by the Secretary 
+        of Defense not later than 120 days after the date of the 
+        enactment of this Act.
+            (3) First annual report.--The first report under subsection 
+        (a) of section 1819(a) of such title, as added by subsection 
+        (a)--
+                    (A) shall be submitted to the Secretary of Defense 
+                not later than April 1 of the year after the year in 
+                which this Act is enacted (notwithstanding the date 
+                specified in that subsection); and
+                    (B) shall be transmitted by the Secretary to the 
+                Committee on Armed Services of the Senate and Committee 
+                on Armed Services of the House of Representatives 
+                pursuant to subsection (b) of that section not later 
+                than May 1 of that year (notwithstanding the date 
+                specified in that subsection).
+    (c) Clerical Amendments.--The tables of chapters at the beginning 
+of subtitle A, and at the beginning of part II of subtitle A, of title 
+10, United States Code, are amended by inserting after the item 
+relating to chapter 88 the following new item:
+
+``90. Office of the Victims' Advocate.......................    1811''.
+
+SEC. 112. DEPARTMENT OF DEFENSE INTERDISCIPLINARY COUNCIL.
+
+    (a) Codification and Revision of Council Established Under Public 
+Law 103-337.--
+            (1) In general.--Chapter 7 of title 10, United States Code, 
+        is amended by adding at the end the following new section:
+``Sec. 185. Department of Defense Interdisciplinary Council
+    ``(a) Department of Defense Council.--The Secretary of Defense, in 
+consultation with the Director of the Office of the Victims' Advocate 
+of the Department of Defense, shall establish a Department of Defense 
+interdisciplinary council to coordinate and oversee victims' advocates 
+programs of the Department of Defense and to oversee the efforts of the 
+Department of Defense to prevent and respond to violence against women 
+and men.
+    ``(b) Composition.--(1) The Council shall consist of 12 members, 
+appointed by the Secretary of Defense. The Council shall include 
+members appointed from each of the Army, Navy, Air Force, and Marine 
+Corps and shall include an equal number of personnel of the Department 
+of Defense and persons from outside the Department of Defense. The six 
+members appointed as personnel of the Department of Defense may include 
+retired members of the armed forces.
+    ``(2) The six members appointed from outside the Department of 
+Defense may be appointed from other Federal departments and agencies, 
+from State and local agencies, and from the private sector, but may not 
+be members of the armed forces in a retired status.
+    ``(3) The Secretary shall ensure that membership includes at least 
+one judge advocate.
+    ``(4) Each member of the Interdisciplinary Council appointed from 
+outside the Department of Defense--
+            ``(A) shall be an individual who has demonstrated expertise 
+        and experience in the fields of sexual assault, domestic 
+        violence, family violence, or stalking, as well as expertise 
+        and experience in civilian-military cooperation; or
+            ``(B) shall be appointed from one of the following:
+                    ``(i) The Centers for Disease Control and 
+                Prevention of the Department of Health and Human 
+                Services.
+                    ``(ii) Civilian law enforcement.
+                    ``(iii) A judicial policy organization.
+                    ``(iv) A national crime victim organization.
+                    ``(v) A victim service organization.
+                    ``(vi) A survivor of domestic violence, sexual 
+                assault, family violence, or stalking in which the 
+                perpetrator was a member of the armed forces.
+    ``(5) Members of the Interdisciplinary Council shall serve for a 
+period of three years. The membership of the Interdisciplinary Council 
+shall be rotated by composition and appointments as defined in 
+paragraphs (1), (2), and (4) every three years.
+    ``(c) Co-Chairs.--There shall be two co-chairs of the 
+Interdisciplinary Council. One of the co-chairs shall be designated by 
+the Secretary of Defense at the time of appointment from among the 
+Department of Defense personnel on the Interdisciplinary Council. The 
+other co-chair shall be selected among the members appointed from 
+outside the Department of Defense by those members.
+    ``(d) Administrative Support.--(1) Each member of the 
+Interdisciplinary Council who is a member of the armed forces or a 
+civilian officer or employee of the United States shall serve without 
+compensation (other than compensation to which entitled as a member of 
+the armed forces or an officer or an employee of the United States, as 
+the case may be). Other members of the Interdisciplinary Council shall 
+be appointed in accordance with, and subject to, section 3161(d) of 
+title 5, but shall serve without pay.
+    ``(2) The Director of the Office of the Victims' Advocate, under 
+the direction of the Secretary of Defense, shall provide oversight of 
+the Interdisciplinary Council. The Office of the Victims' Advocate 
+shall provide the Interdisciplinary Council with personnel facilities 
+and other administrative support as necessary for the performance of 
+the Interdisciplinary Council's duties.
+    ``(e) Military Department Liaisons.--The Secretary of each military 
+department shall select a representative of that department to serve as 
+a liaison between the Interdisciplinary Council and that military 
+department. Each such representative shall be responsible for 
+ensuring--
+            ``(1) that communications made at the Interdisciplinary 
+        Council are transmitted to military personnel; and
+            ``(2) that the Interdisciplinary Council is aware of 
+        problems in the military departments related to domestic 
+        violence, family violence, sexual assault, and stalking.
+    ``(f) Installation Visits.--The Director of the Office of the 
+Victims' Advocate shall coordinate with the Secretaries of the military 
+departments to provide for visits by members of the Interdisciplinary 
+Council to military installations.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of such chapter is amended by adding at the end the 
+        following new item:
+
+``185. Department of Defense Interdisciplinary Council.''.
+    (b) Deadline for Initial Appointments.--Members of the 
+Interdisciplinary Council under section 185 of title 10, United States 
+Code, as added by subsection (a), shall be appointed not later than 90 
+days after the date of the enactment of this Act.
+    (c) Report.--Not later than 18 months after the date on which all 
+members of the Interdisciplinary Council under section 185 of title 10, 
+United States Code, as added by subsection (a), have been appointed, 
+the Interdisciplinary Council shall submit to the Secretary of Defense 
+a report recommending specific ways in which the Office of the Victims' 
+Advocate and victim advocates may more effectively address matters 
+relative to sexual assault, domestic violence, family violence, and 
+stalking committed by or upon servicemembers. The report shall include 
+an assessment of, and recommendations concerning, the following:
+            (1) Victim safety programs.
+            (2) Confidentiality of communications for victims.
+            (3) Offender accountability.
+            (4) Prevention of sexual assault, domestic violence, family 
+        violence, and stalking.
+            (5) Collaboration among military organizations with 
+        responsibility or jurisdiction with respect to sexual assault, 
+        domestic violence, family violence, and stalking.
+            (6) Coordination between military and civilian communities 
+        including service organizations and law enforcement with 
+        respect to sexual assault, domestic violence, family violence 
+        and stalking.
+            (7) Adaptation of best professional practices within the 
+        civilian communities with respect to sexual assault, domestic 
+        violence, family violence and stalking.
+            (8) Data collection, case management, and tracking.
+            (9) Curricula and training including standardized training 
+        for armed forces personnel and community-based advocates, 
+        organizations, and service providers.
+            (10) Standardization of guidelines, directives, and 
+        statutes.
+            (11) Other issues identified by the Interdisciplinary 
+        Council.
+
+SEC. 113. CONFORMING REPEAL.
+
+    Section 534 of the National Defense Authorization Act for Fiscal 
+Year 1995 (10 U.S.C. 113 note) is repealed.
+
+Subtitle C--National and International Hotlines Awareness, Prevention, 
+                       and Intervention Campaign
+
+SEC. 121. AWARENESS, PREVENTION, AND INTERVENTION CAMPAIGN.
+
+    (a) Contracts Authorized.--The Secretary of Defense, acting through 
+the Director of the Office of the Victims' Advocate, may enter into 
+contracts with appropriate entities to support the crisis intervention 
+services of the Department of Defense for victims of domestic violence, 
+sexual assault, family violence, and stalking in the Department of 
+Defense.
+    (b) Purpose of Contract.--A contract under subsection (a) shall 
+provide for the entity awarded the contract to perform the following 
+functions, to the extent provided in the contract:
+            (1) Include in the services provided under the contract the 
+        availability of a toll-free telephone number (commonly referred 
+        to as an ``800'' number).
+            (2) Ensure that information about services and resources 
+        available to military personnel, families, and partners--
+                    (A) is revised and updated as appropriate;
+                    (B) is made available to the Office of the Victims' 
+                Advocate and other Department of Defense entities for 
+                distribution and posting at appropriate facilities 
+                within the Department of Defense; and
+                    (C) is made available through appropriate public 
+                information services.
+            (3) Provide support services for members of the Armed 
+        Forces and their families and partners for the purpose of 
+        developing and strengthening prevention and intervention 
+        policies for assistance to servicemembers, family members, and 
+        partners experiencing domestic violence, family violence, 
+        sexual assault, and stalking.
+            (4) Develop and implement policies regarding appropriate, 
+        safe responses and referral procedures for servicemembers, 
+        family members, and partners experiencing domestic violence, 
+        family violence, sexual assault, and stalking.
+            (5) Provide linguistically and culturally appropriate 
+        services, or linkages to existing services in the community, as 
+        needed to address the needs of victims and survivors associated 
+        with the Armed Forces.
+            (6) Provide the necessary staffing for responding to the 
+        needs of servicemembers, family members, and partners who are 
+        experiencing domestic violence, family violence, sexual 
+        assault, or stalking, such as a resource person or liaison who 
+        is either on-site or on-call and who possesses demonstrated 
+        experience as a service provider to victims associated with the 
+        Armed Forces.
+    (c) Applications.--
+            (1) In general.--An entity that desires to receive a 
+        contract under this section shall submit to the Secretary an 
+        application at such time, in such manner, and containing such 
+        information as the Secretary may require, consistent with the 
+        requirements in this section.
+            (2) Qualifications.--To be awarded such a contract, an 
+        entity must demonstrate in its application under paragraph (1) 
+        that it has a history or experience that is relevant to the 
+        purposes of the contract.
+    (d) Considerations.--(1) In providing information on services, 
+resources, counseling, and advocacy available to members of the Armed 
+Forces and their family members and partners, the Secretary shall 
+ensure that the personnel who provide assistance under this section are 
+trained to provide to persons who have experienced sexual assault, 
+domestic violence, family violence, and stalking information about the 
+services, care, and treatment relating to domestic violence, family 
+violence, sexual assault, and stalking available in the communities in 
+which the victim resides, including care and services available under 
+programs of the Department of Defense and the Department of Veterans 
+Affairs and from non-military and non-veteran agencies and 
+organizations.
+    (2) The Secretary shall ensure that the telephone assistance 
+service shall be operated in a manner that protects the confidentiality 
+of persons who place a call to the service.
+    (3) The Secretary shall ensure that information about the 
+availability of the telephone assistance service is visibly posted in 
+medical facilities, commissary and exchange facilities, and Family 
+Advocacy Program and Victims' Advocate Program facilities of the 
+Department and is advertised through public service announcements and 
+pamphlets, and by other means.
+    (e) Duration of Contract.--The Secretary shall enter into any 
+contract under this section for a period of one year. The contract may 
+be renewed.
+    (f) Confidentiality.--The Secretary shall include in a contract 
+under this section confidentiality provisions based on the provisions 
+of section 1816(a) of title 10, United States Code, as added by section 
+111.
+    (g) Nonsupplantation.--Any Federal funds received under this 
+section shall be used to supplement, and not to supplant, non-Federal 
+funds that would otherwise be available for activities funded under 
+this section.
+    (h) No Matching Funds.--For the purposes of this section, a 
+nonprofit, nongovernmental victim services program receiving funds 
+under this section may not be required as a condition of receiving an 
+award of a contract under this section to provide matching funds.
+    (i) Reports.--An entity receiving funds under this section shall 
+submit to the Secretary every six months a report that describes--
+            (1) how the funds were used, including the extent to which 
+        members of the Armed Forces and their family members and 
+        partners were provided services and a description of the 
+        services provided, including the number of cases responded to;
+            (2) the adequacy of staff training and services to meet the 
+        needs of members of the Armed Forces and their family members 
+        and partners for services under the contract; and
+            (3) the existence of barriers faced by the entity to 
+        address the needs of members of the Armed Forces and their 
+        family members and partners.
+
+            Subtitle D--Prevention and Intervention Training
+
+SEC. 131. PREVENTION AND INTERVENTION TRAINING CONTRACTS.
+
+    (a) Awards Authorized.--
+            (1) In general.--The Secretary of Defense, acting through 
+        the Director of the Office of the Victims' Advocate, shall 
+        enter into contracts under this section with eligible entities 
+        for the purposes of providing training and technical assistance 
+        to the Department of Defense relative to prevention of domestic 
+        violence, sexual assault, family violence, and stalking.
+            (2) Definitions.--In this section, the term ``eligible 
+        entity'' means an entity that is--
+                    (A) a public or nonprofit private organization 
+                having demonstrated expertise in prevention, 
+                intervention, developing community collaboration, and 
+                system response to domestic violence, sexual assault, 
+                family violence, and stalking; or
+                    (B) a community-based organization experienced in 
+                providing services to servicemembers, family members, 
+                or partners who experience domestic violence, sexual 
+                assault, family violence, or stalking.
+    (b) Uses of Funds.--An entity awarded a contract pursuant to 
+subsection (a) shall--
+            (1) provide training in the dynamics of domestic violence, 
+        sexual assault, family violence, and stalking, including 
+        safety, risk assessment, potential lethality, and appropriate 
+        interventions;
+            (2) provide education programs for servicemembers, family 
+        members, or partners that are linguistically and culturally 
+        appropriate and are designed to meet any unique needs of the 
+        population by adapting and implementing existing curricula;
+            (3) provide media center materials and educational 
+        materials to the population that address the needs and concerns 
+        of servicemembers, family members, or partners who experience 
+        domestic violence, sexual assault, or stalking and the impact 
+        of the violence by identifying, adapting, and disseminating 
+        appropriate existing materials; and
+            (4) conduct evaluations to assess the impact of programs 
+        and policies assisted under this section in order to enhance 
+        the development of those programs.
+    (c) Application.--
+            (1) In general.--An eligible entity that desires to receive 
+        a contract under this section shall submit to the Secretary an 
+        application at such time, in such manner, and containing such 
+        information as the Secretary may require, consistent with the 
+        requirements described in this section.
+            (2) Content.--An application submitted pursuant to 
+        paragraph (1) shall--
+                    (A) outline and describe how training and other 
+                activities will be undertaken to promote prevention, 
+                intervention, and collaboration;
+                    (B) identify the members of the organization who 
+                will be responsible for carrying out the training;
+                    (C) ensure that communities or agencies affected by 
+                the training are adequately represented in the 
+                development of the application, training, and follow on 
+                activities to be undertaken and that they have a 
+                significant role in evaluating the success of the 
+                project;
+                    (D) include documentation of any history of 
+                training between military entities, domestic violence, 
+                sexual assault, or stalking service providers, courts, 
+                law enforcement agencies, community-based programs, and 
+                other entities;
+                    (E) provide assurances that training and other 
+                activities will be provided to all types of staff, will 
+                address appropriate practices for investigation, 
+                follow-up, screening, intake, assessment, and provision 
+                of services addressing the safety needs of victims of 
+                domestic violence, sexual assault, family violence, or 
+                stalking;
+                    (F) describe how the training and activities will 
+                enhance or ensure the safety and security of 
+                servicemembers, families, and partners where both 
+                domestic violence and sexual assault occurs by 
+                providing appropriate resources, protection, and 
+                support to victims;
+                    (G) outline methods and means participating 
+                entities will use to ensure that all services are 
+                provided in a linguistically and culturally competent 
+                manner and will use community-based supports and 
+                resources; and
+                    (H) outline the protocols, policies, and procedures 
+                participating entities will develop and adopt to ensure 
+                the confidentiality of victims.
+    (d) Duration of Contracts.--The Secretary shall enter into a 
+contract under this section for a period of one year. Such a contract 
+may be renewed.
+    (e) Reports.--An entity receiving funds under this section shall 
+submit to the Secretary every six months a report that describes, at a 
+minimum--
+            (1) how the funds under the program were used, including 
+        the extent to which military personnel, family members, or 
+        partners were served;
+            (2) the adequacy of staff training and services to ensure 
+        that the needs of servicemembers, family members, or partners 
+        are met; and
+            (3) the existence of barriers the entity faces to more 
+        fully addressing the needs of servicemembers, family members, 
+        or partners.
+    (f) Requirement.--
+            (1) Of the amounts appropriated to carry out this section 
+        for any fiscal year, the Secretary--
+                    (A) shall use not less than 20 percent for programs 
+                addressing domestic violence and sexual assault that 
+                are operated by, or in partnership with, civilian 
+                victim services; and
+                    (B) shall use not less than 5 percent for technical 
+                assistance and training to be provided by organizations 
+                having demonstrated expertise in developing 
+                collaborative community and system responses to 
+                domestic violence, sexual assault, and stalking.
+            (2) Technical assistance and training under paragraph 
+        (1)(B) may be offered to the elements of the Armed Forces, 
+        installations, or commands in the process of developing 
+        community responses, whether they are receiving funds under 
+        this section or not.
+
+Subtitle E--Biennial Conference on Sexual Assault and Domestic Violence
+
+SEC. 141. ESTABLISHMENT.
+
+    Not later than one year after the date of the enactment of this 
+Act, and every two years thereafter, the Secretary of Defense, acting 
+through the Director of the Office of the Victims' Advocate of the 
+Department of Defense, shall convene a national conference to review 
+current policies for prevention of, and response to, domestic violence, 
+sexual assault, family violence, and stalking involving members of the 
+Armed Forces and to make recommendations for changes, as warranted, to 
+those policies.
+
+SEC. 142. CONFERENCE ACTIVITIES.
+
+    (a) In General.--The conferences under this subtitle shall provide 
+a forum for the civilian leadership of the Department of Defense, 
+military commanders, family advocacy personnel, military criminal 
+investigators, military law enforcement personnel, and security forces 
+to consider problems, policies, and recommendations relating to 
+domestic violence, sexual assault, family violence, and stalking 
+involving members of the Armed Forces.
+    (b) First Conference.--
+            (1) Consideration of prior reports.--Activities of the 
+        first conference under this subtitle shall include 
+        consideration of the reports and recommendations of the 
+        following:
+                    (A) The Department of Defense Task Force on the 
+                Care of Sexual Assault Victims.
+                    (B) The Department of Defense Task Force on 
+                Domestic Violence.
+                    (C) The Department of Defense Task Force of Sexual 
+                Harassment and Misconduct at the Military Academies.
+            (2) Strategic plan.--Activities of the first conference 
+        under this subtitle shall include a discussion of, and 
+        compiling of recommendations and strategy for, a strategic plan 
+        that seeks to--
+                    (A) involve more civilian leaders of the Department 
+                of Defense, military commanders, and servicemembers in 
+                prevention and other activities designed to end 
+                domestic violence, sexual assault, family violence, and 
+                stalking in the Armed Forces; and
+                    (B) facilitate the Secretaries of the military 
+                departments implementation of policies on domestic 
+                violence, sexual assault, family violence, and stalking 
+                in the Armed Forces.
+
+SEC. 143. CONFERENCE PARTICIPANTS.
+
+    The Secretary shall provide for participants in conferences under 
+this subtitle to include the following:
+            (1) Representatives from a broad cross-section of military 
+        authorities, including leadership, commands, services, 
+        departments, and programs.
+            (2) Representatives of Federal, State, national and local 
+        government agencies.
+            (3) Representatives of law enforcement organizations.
+            (4) Criminal justice professionals, including prosecutors, 
+        investigators, attorneys, and advocates.
+            (5) Representatives of nonprofit, private, or 
+        nongovernmental service providers and of public and private 
+        organizations working in the field of domestic violence, sexual 
+        assault, family violence, and stalking.
+            (6) Individuals with demonstrated expertise in addressing 
+        the intersection between domestic violence, sexual assault, 
+        family violence, and stalking.
+            (7) Individuals with demonstrated expertise in addressing 
+        the issues confronting the Armed Forces relative to domestic 
+        violence, sexual assault, family violence, and stalking.
+            (8) Victims of domestic violence, sexual assault, family 
+        violence, and stalking.
+            (9) Representatives of academic and research, facilities 
+        with demonstrated expertise in domestic violence, sexual 
+        assault, family violence, and stalking.
+            (10) Representatives of the Department of Veterans Affairs.
+            (11) Advocates, counselors, and therapists engaged in 
+        providing services to victims associated with the Armed Forces.
+
+   Subtitle F--Memorandums of Understanding With Civil Organizations
+
+SEC. 151. AGREEMENTS WITH CIVILIAN ORGANIZATIONS.
+
+    (a) Memorandums of Understanding.--Congress expects and encourages 
+the Secretary of Defense to enter into memorandums of understanding 
+with civilian organizations to provide services to victims of sexual 
+assault, domestic violence, family violence, and stalking.
+    (b) Confidentiality.--When entering into a memorandum of 
+understanding with a civilian organization as described in subsection 
+(a), the Secretary of Defense should not enter into, and may not 
+enforce, any provision in the memorandum that would be in direct 
+violation of any law protecting confidential information and personal 
+identifying information.
+
+   TITLE II--RIGHTS, RESTITUTION, TREATMENT, AND SERVICES FOR VICTIMS
+
+Subtitle A--Protection of Persons Reporting Sexual Assault or Domestic 
+                                Violence
+
+SEC. 201. PROTECTION OF COMMUNICATIONS BETWEEN VICTIMS AND ADVOCATES.
+
+    (a) Restricting Communication Prohibited.--Subsection (a) of 
+section 1034 of title 10, United States Code, is amended by inserting 
+before the period at the end the following: ``or the Office of the 
+Victims' Advocate or a Victims' Advocate within the Department of 
+Defense''.
+    (b) Prohibition of Retaliatory Personnel Actions.--Subsection 
+(b)(1) of such section is amended--
+            (1) in subparagraph (A), by striking ``or an Inspector 
+        General'' and inserting ``, an Inspector General, or the Office 
+        of the Victims' Advocate or a Victims' Advocate''; and
+            (2) in subparagraph (A)--
+                    (A) by redesignating clauses (iii) and (iv) as 
+                clauses (iv) and (v), respectively; and
+                    (B) by inserting after clause (ii) the following 
+                new clause:
+                    ``(iii) the Office of the Victims' Advocate or a 
+                victims' advocate;''.
+    (c) Inspector General Investigations.--Subsection (c)(2) of such 
+subsection is amended by inserting ``, sexual assault, domestic 
+violence, family violence, stalking,'' in subparagraph (A) after 
+``sexual harassment''.
+
+SEC. 202. VICTIM SERVICE ORGANIZATION PRIVILEGE AND HEALTH CARE 
+              PROFESSIONAL PRIVILEGE IN CASES ARISING UNDER UNIFORM 
+              CODE OF MILITARY JUSTICE.
+
+    (a) Privileges Established.--
+            (1) In general.--Subchapter XI of chapter 47 of title 10, 
+        United States Code (the Uniform Code of Military Justice), is 
+        amended by adding at the end the following new section:
+``Sec. 941. Art. 141. Privilege for communication with victim service 
+              organization or health care professional
+    ``(a) General Rule of Privilege.--A client has a privilege to 
+refuse to disclose, and to prevent any other person from disclosing, a 
+confidential communication made between the client and a victim service 
+organization or any representative of the organization, or between the 
+client and a health care professional or any representative of the 
+professional, in a case arising under this chapter, if such 
+communication was made for the purpose of securing advice, counseling, 
+treatment, or assistance concerning the client's mental, physical, or 
+emotional condition caused by domestic violence, family violence, 
+dating violence, stalking, or sexual assault.
+    ``(b) Definitions.--In this section:
+            ``(1) The term `client' means a person who consults with or 
+        is examined or interviewed by a victim service organization or 
+        any representative of the organization, or by a health care 
+        professional or any representative of the professional.
+            ``(2) The term `victim service organization' means an 
+        organization (whether public or private) that provides advice, 
+        counseling, or assistance to victims of domestic violence, 
+        family violence, dating violence, stalking, or sexual assault, 
+        or to the families of such victims.
+            ``(3) The term `representative', with respect to an 
+        organization or professional, means a person directed by or 
+        assigned to assist that organization or professional, 
+        respectively, in providing advice, counseling, treatment, or 
+        assistance.
+            ``(4) The term `confidential communication' means a 
+        communication not intended to be disclosed to third persons 
+        other than--
+                    ``(A) those to whom disclosure is in furtherance of 
+                providing advice, counseling, treatment, or assistance 
+                to the client; and
+                    ``(B) those reasonably necessary for disclosing 
+                under subparagraph (A).
+    ``(c) Emergency Shelter Protection.--A client or representative of 
+a client may not be compelled to provide testimony in a civil, 
+criminal, legislative, disciplinary, or administrative proceeding that 
+would identify--
+            ``(1) the name, address, location, or telephone number of a 
+        safe house, abuse shelter, or other facility that provided 
+        temporary emergency shelter to the victim of the offense or 
+        transaction that is the subject of the proceeding; or
+            ``(2) the name, address, or telephone number of a victim 
+        representative.
+    ``(d) Who May Claim the Privilege.--The privilege under subsection 
+(a) or (c) may be claimed by the client or the guardian or conservator 
+of the client. A person who may claim the privilege may authorize trial 
+counsel or defense counsel to claim the privilege on his or her behalf. 
+The victim service organization, health care professional, or 
+representative who received the communication may claim the privilege 
+on behalf of the client. The authority of such an organization, 
+professional, representative, guardian, or conservator to so assert the 
+privilege is presumed in the absence of evidence to the contrary.
+    ``(e) Exceptions.--There is no privilege under this section--
+            ``(1) when the client is dead, except for the privilege 
+        under subsection (c);
+            ``(2) to the extent the communication reports child abuse;
+            ``(3) when a victim service organization, health care 
+        professional, or representative believes that a mental or 
+        emotional condition of the client makes the client a danger to 
+        any person, including the client; or
+            ``(4) if the communication clearly contemplated the future 
+        commission of a fraud or crime or if the services of the victim 
+        service organization or health care professional are sought or 
+        obtained to enable or aid anyone to commit or plan to commit 
+        what the client knew or reasonably should have known to be a 
+        crime or fraud.''.
+            (2) Clerical amendment.--The table of sections at the 
+        beginning of such subchapter is amended by adding at the end 
+        the following new item:
+
+``941. 141. Privilege for communication with victim service 
+                            organization or health care 
+                            professional.''.
+    (b) Applicability.--Section 941 of title 10, United States Code 
+(article 141 of the Uniform Code of Military Justice), as added by 
+subsection (a), applies to communications made after the date of the 
+enactment of this Act.
+
+   Subtitle B--Medical Care and Treatment for Victims of Sexual and 
+                           Domestic Violence
+
+SEC. 211. ENHANCED DEPARTMENT OF DEFENSE TREATMENT CAPACITY.
+
+    To the extent funds are available for such purpose, funds available 
+to the Department of Defense shall be used to employ at least one 
+medical professional trained as a sexual assault nurse examiner and at 
+least one psychiatrist, and a complimentary clinical team, at each 
+military treatment facility operated by the Department of Defense.
+
+SEC. 212. COMMUNITY LEVEL PROGRAM.
+
+    (a) Program.--The Secretary of Defense, acting through the 
+Assistant Secretary of Defense for Health Affairs, shall carry out a 
+program at the community level for members of the Armed Forces on 
+active duty and family members of such members who are victims of 
+domestic violence, sexual assault, family violence, or stalking.
+    (b) Program Sites.--The program shall be carried out through 
+facilities of the Department of Defense.
+    (c) Program Content.--In conducting the program, the Secretary 
+shall provide for individualized case management to be conducted on a 
+one-to-one basis, counseling, education, and group therapy to help 
+victims cope with trauma. Through the program, the Secretary should--
+            (1) emphasize early identification of victims experiencing 
+        post-traumatic stress disorder resulting from domestic 
+        violence, sexual assault, family violence, or stalking;
+            (2) include group-oriented, peer-to-peer settings for 
+        treatment; and
+            (3) acknowledge that the causal factors of domestic 
+        violence, sexual assault, family violence, and stalking include 
+        power and control.
+    (d) Outreach.--The Secretary shall provide that health information 
+packets given to members of the Armed Forces and their family members 
+include information about how to obtain timely and confidential post-
+sexual assault medical care.
+    (e) Program Models.--The Secretary shall establish and carry out 
+the program under this section following a comprehensive review of 
+other relevant programs, including programs of the Department of 
+Veterans Affairs, of State and local governments, and of private, 
+nonprofit, or nongovernmental organizations specializing in the 
+treatment of victims of domestic violence, sexual assault, family 
+violence, or stalking.
+
+SEC. 213. TRANSITION TO VETERANS HEALTH CARE FOR VICTIMS OR 
+              PERPETRATORS OF DOMESTIC VIOLENCE, SEXUAL ASSAULT, FAMILY 
+              VIOLENCE, OR STALKING.
+
+    The Secretary of each military department shall take special care 
+in providing for a seamless transition from Department of Defense 
+health care services to Department of Veterans Affairs health care 
+services in the case of any member of the Armed Forces who is being 
+discharged or separated from active duty and who has been identified as 
+a victim or perpetrator of domestic violence, sexual assault, family 
+violence, or stalking.
+
+             Subtitle C--Military-Civilian Shelter Programs
+
+SEC. 221. ENHANCED CAPACITY OF THE DEPARTMENT OF DEFENSE FOR SHELTER 
+              PROGRAMS AND SERVICES.
+
+    (a) Contracts Authorized.--
+            (1) In general.--The Secretary of Defense, acting through 
+        the Director of the Office of the Victims' Advocate, may enter 
+        into contracts with eligible entities to provide shelter 
+        services for members of the Armed Forces and their family 
+        members and partners who experience domestic violence, family 
+        violence, sexual assault, or stalking.
+            (2) Eligible entities.--In this section, the term 
+        ``eligible entity'' means a public or private nonprofit entity 
+        the primary purpose of which is to provide shelter services to 
+        victims of domestic violence, family violence, sexual assault, 
+        or stalking. The entity may be--
+                    (A) a community-based organization specializing in 
+                intervention or violence prevention services for 
+                military servicemembers, family members, or partners;
+                    (B) a nonprofit nongovernmental entity providing 
+                services primarily to servicemembers, family members, 
+                or partners who are victims of domestic violence, 
+                family violence, sexual assault, or stalking;
+                    (C) a nonprofit, nongovernmental entity providing 
+                services for veterans;
+                    (D) a nonprofit, nongovernmental entity providing 
+                services to homeless individuals; or
+                    (E) a governmental program serving servicemembers 
+                and family members.
+    (b) Uses of Funds.--A contract under this section shall provide 
+that--
+            (1) whenever possible, the entity awarded the contract 
+        shall collaborate with existing shelter services in the 
+        civilian community to provide appropriate victim services;
+            (2) when appropriate shelter services are not available in 
+        the civilian community or are not accessible to members of the 
+        Armed Forces or their family members or partners, the entity 
+        awarded the contract may provide or create shelter services in 
+        collaboration with a community-based organization;
+            (3) the entity awarded the contract shall provide referral 
+        services to a Department of Defense victims advocate aid, 
+        including legal, medical, or psychological counseling, to 
+        members of the Armed Forces and their family members and 
+        partners who are experiencing domestic violence, family 
+        violence, sexual assault, or stalking; and
+            (4) if needed, the entity awarded the contract will have 
+        staff with fluency in languages other then English or access to 
+        translators.
+    (c) Application.--
+            (1) In general.--An eligible entity that desires to receive 
+        a contract under this section shall submit to the Secretary an 
+        application at such time, in such manner, and containing such 
+        information as the Secretary may require, consistent with the 
+        requirements of this section.
+            (2) Consideration of best practices.--In considering 
+        applications submitted pursuant to paragraph (1), the Secretary 
+        shall consult with existing providers of shelter services t 
+        determine best practices.
+    (d) Duration of Awards.--A contract awarded under this section 
+shall be awarded for a period of three fiscal years. Such a contract 
+may be renewed.
+    (e) Confidentiality.--The Secretary shall include in a contract 
+under this section confidentiality provisions based on the provisions 
+of section 1816(a) of title 10, United States Code, as added by section 
+111.
+    (f) Reports.--An entity awarded a contract under this section shall 
+submit to the Secretary every six months a report that describes, at a 
+minimum--
+            (1) how the funds under the contract were used;
+            (2) the extent to which military personnel, families, and 
+        partners were served; and
+            (3) the adequacy of staff training and services to ensure 
+        that needs of members of the Armed Forces and their family 
+        members and partners.
+
+              Subtitle D--Victim's Rights and Restitution
+
+SEC. 231. MILITARY LAW ENFORCEMENT AND VICTIMS' RIGHTS.
+
+    (a) Victims Rights.--After an allegation of a domestic violence, 
+sexual assault, family violence, or stalking offense that is reported 
+to, or investigated by military law enforcement agency, the victim (or 
+alleged victim) shall have the following rights:
+            (1) Victims' rights set out under section 502(b) of the 
+        Victims' Rights and Restitution Act of 1990 (42 U.S.C. 
+        10606(b)).
+            (2) The right to be informed of the availability of crisis 
+        intervention services and resources and medical services and, 
+        when applicable, that medical services arising out of the need 
+        to secure evidence may be reimbursed.
+            (3) The right to be informed of legal procedures and 
+        resources available for the protection of the victim, including 
+        military no contact orders and protection orders, the 
+        provisions of section 1561a of title 10, United States Code, 
+        and the full faith and credit provisions of the Violence 
+        Against Women Act as defined by section 2265 of title 18, 
+        United States Code.
+            (4) The right to be informed of names and telephone numbers 
+        of public and private assistance programs, including victim 
+        compensation programs, transitional compensation programs, and 
+        programs that provide counseling, treatment, shelter, and 
+        support services.
+            (5) The right to be informed of the military law 
+        enforcement agency report number for the case, if available, 
+        other identifying information, and the following statement: 
+        ``If within 30 days you are not notified of an arrest in your 
+        case, you may call (the military law enforcement agency's 
+        telephone number) for information on the status of your 
+        case.''.
+            (6) The right to be notified by military law enforcement 
+        authorities of the arrest of the suspect, if the suspect is 
+        arrested, regardless of whether the suspect is an adult or a 
+        juvenile.
+            (7) The right to be to informed, in a case in which the 
+        suspect is an adult and has been arrested, of the suspect's 
+        release, of the scheduled time, place, and date for initial 
+        court appearances of the suspect, and of the victim's right to 
+        be heard.
+    (b) Notice of Rights to Be Provided.--As soon after an allegation 
+of a domestic violence, sexual assault, family violence, or stalking 
+offense as possible without interfering with an investigation or 
+arrest, a representative of the military law enforcement agency that 
+has responsibility for investigating the offense shall provide the 
+victim with a multicopy form that includes the following:
+            (1) A form for the victim to request or waive applicable 
+        rights to information to which the victim is entitled, on 
+        request, under this section.
+            (2) A means for the victim to designate a lawful 
+        representative selected by the victim.
+            (3) Notice to the victim of the following:
+                    (A) Victims' rights under section 502(b) of the 
+                Victims' Rights and Restitution Act of 1990 (42 U.S.C. 
+                10606(b)).
+                    (B) The availability of crisis intervention 
+                services and resources and medical services and, when 
+                applicable, that medical services arising out of the 
+                need to secure evidence may be reimbursed.
+                    (C) The legal procedures and resources available 
+                for the protection of the victim, including military no 
+                contact orders and protection orders, the provisions of 
+                section 1561a of title 10, United States Code, and the 
+                full faith and credit provisions of the Violence 
+                Against Women Act as defined by section 2265 of title 
+                18, United States Code.
+                    (D) The names and telephone numbers of public and 
+                private assistance programs, including victim 
+                compensation programs, transitional compensation 
+                programs, and programs that provide counseling, 
+                treatment, shelter, and support services.
+                    (E) The military law enforcement agency report 
+                number for the case, if available, other identifying 
+                information, and the following statement: ``If within 
+                30 days you are not notified of an arrest in your case, 
+                you may call (the military law enforcement agency's 
+                telephone number) for information on the status of your 
+                case.''.
+                    (F) Regardless of whether the suspect is an adult 
+                or a juvenile, a statement that the victim will be 
+                notified by military law enforcement authorities of the 
+                arrest of the suspect, if the suspect is arrested.
+                    (G) If the suspect is an adult and has been 
+                arrested, a statement that the victim will be informed 
+                of the suspect's release, of the scheduled time, place, 
+                and date for initial court appearances of the suspect 
+                and of the victim's right to be heard, and that to 
+                exercise those rights, the victim may contact the 
+                custodial agency regarding the suspect's status or 
+                contact the command regarding any changes.
+    (c) Effect of Emotional Status of Victim.--If at the time of 
+contact with a military law enforcement agency representative under 
+subsection (a), a victim is emotionally unable to request or to waive 
+applicable rights, the military law enforcement agency representative 
+shall so designate that on the multicopy form and any entity that is 
+subsequently involved in the case shall presume that the victim invoked 
+the applicable rights to which the victim is entitled and, on request, 
+the victim may later waive those rights.
+
+SEC. 232. AVAILABILITY OF INCIDENT REPORTS.
+
+    (a) Applicability.--A military law enforcement agency shall 
+provide, without charge, to a victim of domestic violence, sexual 
+assault, family violence, or stalking (or to the representative of such 
+a victim, if the victim is deceased) a copy of the incident report in 
+the case, a copy of the incident report summary (referred to as a 
+``face sheet''), or both, in accordance with subsection (b).
+    (b) Time for Availability.--
+            (1) Summaries.--A copy of an incident report summary shall 
+        be made available during regular business hours to a victim or 
+        the victim's representative no later than 48 hours after being 
+        requested by the victim or the victim's representative, unless 
+        the military law enforcement agency informs the victim or 
+        representative of the reasons why the summary is not available, 
+        in which case the summary shall be made available to the victim 
+        or representative no later than five working days after the 
+        request is made.
+            (2) Incident reports.--A copy of the incident report shall 
+        be made available during regular business hours to a victim or 
+        the victim's representative no later than five working days 
+        after being requested by a victim or representative, unless the 
+        military law enforcement agency informs the victim or 
+        representative of the reasons why the incident report is not 
+        available, in which case the incident report shall be made 
+        available to the victim or representative no later than 10 
+        working days after the request is made.
+    (c) Identification.--An incident report and a summary of an 
+incident report may be provided to any person under this section only 
+upon presentation of identification satisfactory to the Secretary 
+concerned.
+    (d) Time Duration.--This section applies to requests for copies of 
+incident reports and summaries of incident reports made within five 
+years from the date of completion of the incident report.
+    (e) Victim's Representative Defined.--
+            (1) For purposes of this section, the term ``victim's 
+        representative'' means, with respect to a victim who is 
+        deceased, the person who is listed first among the following:
+                    (A) The surviving spouse.
+                    (B) A surviving child of the decedent who has 
+                attained 18 years of age.
+                    (C) A surviving parent of the decedent.
+                    (D) A surviving adult relative.
+                    (E) The public administrator appointed by a probate 
+                court, if one has been appointed.
+            (2) A victim's representative does not include any person 
+        who has been convicted of murder under State or Federal law or 
+        any person identified in the incident report as a suspect.
+
+SEC. 233. VICTIM ADVOCATES AND VICTIMS' RIGHTS.
+
+    (a) In General.--Any victim making an allegation of sexual assault, 
+domestic violence, family violence, or stalking may have a victim 
+advocate present at any interview of the victim conducted by any 
+military law enforcement official.
+    (b) Support During Proceedings.--In a military justice proceeding, 
+a victim advocate, upon the request of the victim, shall be allowed to 
+accompany the victim during the proceedings. The victim advocate shall 
+be allowed to confer orally and in writing with the victim in a 
+reasonable manner.
+
+SEC. 234. RESTITUTION.
+
+    (a) In General.--Chapter 80 of title 10, is amended by inserting 
+after section 1561b, as added by section 301, the following new 
+section:
+``Sec. 1561c. Restitution
+    ``(a) Restitution Required.--In addition to any other civil, 
+disciplinary, or criminal penalty authorized by law, the convening 
+authority in a court-martial shall order restitution for any offense 
+specified in section 920, 892(4), or 1561a of this title.
+    ``(b) Scope and Nature of Order.--
+            ``(1) Directions.--An order of restitution under this 
+        section shall direct the person convicted to pay the victim the 
+        full amount of the victims' losses, as determined by the 
+        convening authority pursuant to paragraph (2).
+            ``(2) Enforcement.--An order of restitution under this 
+        section shall be issued and enforced in accordance with section 
+        3664 of title 18 in the same manner as an order under section 
+        3663A of that title.
+    ``(c) Mandatory Order.--
+            ``(1) The issuance of a restitution order under this 
+        section is mandatory.
+            ``(2) The convening authority may not decline to issue an 
+        order under this section because of--
+                    ``(A) the economic circumstances of the person 
+                convicted; or
+                    ``(B) the fact that a victim has received, or is 
+                entitled to receive, compensation for the victim's 
+                injuries from the proceeds of insurance, transitional 
+                compensation, veterans benefits, or any other source.
+    ``(d) Definitions.--In this section:
+            ``(1) Full amount of the victim's losses.--The term `full 
+        amount of the victim's losses' includes any costs incurred by 
+        the victim for--
+                    ``(A) medical services relating to physical, 
+                psychiatric, or psychological care;
+                    ``(B) physical and occupational therapy or 
+                rehabilitation;
+                    ``(C) necessary transportation, temporary housing, 
+                and child care expenses;
+                    ``(D) lost income;
+                    ``(E) attorney's fees, plus any costs incurred in 
+                obtaining a civil protective order; and
+                    ``(F) any other loss suffered by the victim as a 
+                proximate result of the offense or offenses.
+            ``(2) Victim.--The term `victim' means a person harmed as a 
+        result of a commission of a crime under this title, including, 
+        in the case of a victim who is under 18 years of age, 
+        incompetent, incapacitated, or deceased, the legal guardian of 
+        the victim or representative of the victim's estate, another 
+        family member, or any other person appointed as suitable by a 
+        court, but in no event shall the accused be named as such a 
+        representative or guardian.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by inserting after the item relating to section 
+1561b, as added by section 301, the following new section:
+
+``1561c. Restitution.''.
+
+SEC. 235. RECORDS OF MILITARY JUSTICE ACTIONS.
+
+    (a) In General.--Subchapter XI of chapter 47 of title 10, United 
+States Code (the Uniform Code of Military Justice), is amended by 
+adding at the end the following new section (article):
+``Sec. 940a. Art. 140a. Military justice information: transmission to 
+              Director of Federal Bureau of Investigation
+    ``Whenever a member of the armed forces is discharged or dismissed 
+from the armed forces or is released from active duty, the Secretary 
+concerned shall transmit to the Director of the Federal Bureau of 
+Investigation a copy of records of any disciplinary action against the 
+member involving sexual misconduct during the period of the member's 
+service in the armed forces that is taken under this chapter, including 
+any nonjudicial punishment imposed under section 815 of this title 
+(article 15).''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such subchapter is amended by adding at the end the following new item:
+
+``940. 140a. Military justice information: transmission to Director of 
+                            Federal Bureau of Investigation.''.
+
+SEC. 236. TECHNICAL AMENDMENTS RELATING TO FATALITY REVIEW PANELS.
+
+    (a) Army.--Section 4061 of title 10, United States Code, is 
+amended--
+            (1) in subsection (a), by inserting ``, through the Office 
+        of the Victims' Advocate,'' after ``Secretary of the Army''; 
+        and
+            (2) in subsection (c), by inserting ``, in consultation 
+        with the Office of the Victims' Advocate,'' after ``Secretary 
+        of Defense''.
+    (b) Navy.--Section 6036 of such title is amended--
+            (1) in subsection (a), by inserting ``, through the Office 
+        of the Victims' Advocate,'' after ``Secretary of the Navy''; 
+        and
+            (2) in subsection (c), by inserting ``, in consultation 
+        with the Office of the Victims' Advocate,'' after ``Secretary 
+        of Defense''.
+    (c) Air Force.--Section 9061 of such title is amended--
+            (1) in subsection (a), by inserting ``, through the Office 
+        of the Victims' Advocate,'' after ``Secretary of the Air 
+        Force''; and
+            (2) in subsection (c), by inserting ``, in consultation 
+        with the Office of the Victims' Advocate,'' after ``Secretary 
+        of Defense''.
+
+    TITLE III--REPORTING, PROSECUTION, AND TREATMENT OF PERPETRATORS
+
+    Subtitle A--Reporting of Sexual Assault, Domestic Violence, and 
+               Stalking Within the Department of Defense
+
+SEC. 301. COMPLAINTS OF SEXUAL ASSAULT AND DOMESTIC VIOLENCE.
+
+    (a) In General.--Chapter 80 of title 10, United States Code, is 
+amended by inserting after section 1561a the following new section:
+``Sec. 1561b. Complaints of sexual assault, domestic violence, family 
+              violence, or stalking: investigation by commanding 
+              officers
+    ``(a) Action on Complaints.--(1) A commanding officer or officer in 
+charge of a unit, vessel, facility, or area of the Army, Navy, Air 
+Force, or Marine Corps who receives a qualifying complaint shall carry 
+out an investigation of the matter in accordance with this section.
+    ``(2) In this section, the term `qualifying complaint' means a 
+complaint--
+            ``(A) that is from a victim, or from a member of the 
+        command, or a civilian employee under the supervision of the 
+        officer, or a victim advocate of the Department of Defense; and
+            ``(B) that alleges sexual assault, domestic violence, 
+        family violence, or stalking by a member of the armed forces or 
+        a civilian employee of the Department of Defense
+    ``(b) Commencement of Investigation.--To the extent practicable, a 
+commanding officer or officer in charge receiving a qualifying 
+complaint shall, within 72 hours after receipt of the complaint--
+            ``(1) forward the complaint, or a detailed description of 
+        the allegation in the complaint, to the next superior officer 
+        in that officer's chain of command who is authorized to convene 
+        a general court-martial;
+            ``(2) commence, or cause the commencement of, an 
+        investigation of the complaint, including engaging law 
+        enforcement, criminal investigators, judge advocates, victim 
+        advocates, and victim witness liaisons; and
+            ``(3) advise the complainant of the commencement of the 
+        investigation.
+    ``(c) Duration of Investigation.--A commanding officer or officer 
+in charge receiving a qualifying complaint shall ensure that the 
+investigation of the complaint is completed within 90 days of the date 
+on which the investigation is commenced or such longer period as may be 
+approved by the Director of the Office of Victim Advocate.
+    ``(d) Judge Advocate Report.--To the extent practicable, a 
+commanding officer or officer in charge receiving a qualifying 
+complaint shall require a report of the judge advocate, including the 
+results of the investigation, application of the disciplinary or 
+punitive articles under the Uniform Code of Military Justice, and any 
+recommendations for actions to be taken as a result of the 
+investigation, within 20 days after the date on which the investigation 
+is commenced.
+    ``(e) Report on Investigation.--To the extent practicable, a 
+commanding officer or officer in charge receiving a qualifying 
+complaint shall--
+            ``(1) submit a final report on the results of the 
+        investigation, including any action taken as a result of the 
+        investigation, to the next superior officer referred to in 
+        subsection (b)(1) within 30 days after the date on which the 
+        investigation is commenced; or
+            ``(2) submit a report on the progress made in completing 
+        the investigation to the next superior officer referred to in 
+        subsection (b)(1) within 30 days after the date on which the 
+        investigation is commenced and every 14 days thereafter until 
+        the investigation is completed and, upon completion of the 
+        investigation, then submit a final report on the results of the 
+        investigation, including any action taken as a result of the 
+        investigation, to that next superior officer.
+    ``(f) Annual Reports to Service Secretaries.--Not later than 
+January 1 of each year, each officer receiving a qualifying complaint 
+forwarded in accordance with this section shall submit to the Secretary 
+of the military department concerned a report on all such complaints 
+received during the preceding year and the investigations of those 
+complaints (including the results of the investigations, in cases of 
+investigations completed during the preceding year).
+    ``(g) Annual Report to Secretary of Defense and Congress.--(1) Not 
+later than January 15 of each year, each Secretary of a military 
+department receiving a report under subsection (g) shall submit to the 
+Secretary of Defense a report on the complaints and investigations of 
+sexual assault, domestic violence, family violence, and stalking.
+    ``(2) The Secretary of Defense shall submit to the Committee on 
+Armed Services of the Senate and the Committee on Armed Services of the 
+House of Representatives each report submitted to the Secretary under 
+this paragraph (1), together with the comments of the Secretary on each 
+such report. The Secretary shall transmit the report for any year not 
+later than March 15 of the next year.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by inserting after the item relating to section 
+1561a the following new item:
+
+``1561b. Complaints of sexual assault, domestic violence, family 
+                            violence, or stalking: investigation by 
+                            commanding officers.''.
+
+SEC. 302. RESPONSE OF MILITARY LAW ENFORCEMENT OFFICIALS TO DOMESTIC 
+              VIOLENCE INCIDENTS.
+
+    (a) In General.--Chapter 80 of title 10, United States Code, is 
+amended by adding at the end the following new sections:
+``Sec. 1567. Domestic violence: responsibilities of military law 
+              enforcement officers
+    ``(a) Circumstances Requiring Arrest.--A military law enforcement 
+officer shall arrest and take into custody a person subject to arrest 
+or apprehension by the officer if--
+            ``(1) the officer has reasonable grounds to believe that 
+        the person has committed domestic violence and that the 
+        person's actions are the commission of a crime; and
+            ``(2) any of the following circumstances is present:
+                    ``(A) The officer has reasonable basis for 
+                believing that continued domestic violence against the 
+                alleged victim is likely.
+                    ``(B) There is evidence of physical injury to the 
+                alleged victim.
+                    ``(C) The use of a deadly weapon or dangerous 
+                instrument is evident.
+    ``(b) Domestic Violence.--In this section, the term `domestic 
+violence' means any of the following engaged in by a person against the 
+person's spouse or former spouse or against a person with whom the 
+person resides or formerly resided or against an individual with whom 
+the person has a child in common:
+            ``(1) Infliction of physical pain, bodily injury, or 
+        illness or damage to property.
+            ``(2) Intentional impairment of physical condition.
+            ``(3) A threat of conduct that would cause bodily injury or 
+        damage to property.
+    ``(c) Arresting Officer's Report.--An officer who makes an arrest 
+under subsection (b) shall submit a full written report of the alleged 
+domestic violence incident to the officer's supervisor and to the judge 
+advocate within 10 days of the arrest. Such a report shall include--
+            ``(1) a description of physical injuries observed, if any;
+            ``(2) whenever possible, a statement from the victim and 
+        witnesses concerning the alleged domestic violence; and
+            ``(3) a statement that a copy of legal rights and notices 
+        was given to the victim.
+    ``(d) Law Enforcement Policies.--(1) The Secretary of Defense shall 
+prescribe regulations to implement written policies regarding arrest 
+procedures for domestic violence incidents. Those policies shall 
+include the following:
+            ``(A) In most circumstances, a military law enforcement 
+        officer should arrest and take a person into custody if the 
+        officer has reasonable grounds to believe that the person is 
+        committing or has committed domestic violence and that the 
+        actions constitute the commission of a crime.
+            ``(B) When the officer has reasonable grounds to believe 
+        that the spouses or former spouses or other persons who reside 
+        together or resided together or share a child in common are 
+        committing or have committed domestic violence against each 
+        other, the officer does not have to arrest both parties but 
+        should arrest the person whom the officer believes to be the 
+        primary physical aggressor. In determining who is the primary 
+        physical aggressor, an officer should consider the intent of 
+        this section to protect victims of domestic violence, the 
+        relative injury or fear inflicted on the persons involved, and 
+        any history of domestic violence between those persons, if that 
+        history can be ascertained by the officer, or response of a 
+        person who acts in a reasonable manner to protect oneself or 
+        another family or household member from domestic violence. No 
+        victim shall be denied relief or charged for a domestic 
+        violence offense because the victim used reasonable force in 
+        self defense against domestic violence by an attacker.
+            ``(C) The decision of a military law enforcement officer as 
+        to whether or not to make an arrest under this section may not 
+        be based on the consent of the victim or any subsequent 
+        prosecution or on the relationship or the rank of the persons 
+        involved in the incident.
+            ``(D) A decision of a military law enforcement officer's 
+        decision not to arrest under this section may not be based 
+        solely upon the absence of visible injury or impairment.
+    ``(2) The policies under paragraph (1) shall include a procedure 
+applicable to the report and referral required under subsection (c). 
+Such procedures shall require that the military law enforcement agency 
+shall, without charge, send a copy of the initial report and any 
+subsequent, supplemental, or related report, which excludes the 
+victim's statement or other materials that are part of an active 
+criminal investigation and are exempt from disclosure, to the command 
+and Family Advocacy Program exercising responsibility over the area in 
+which the incident took place, to the victim advocate within the 
+Department of Defense assigned to the installation and the nearest 
+local domestic violence center within 24 hours of the agency's receipt 
+of the report. The report furnished to the Family Advocacy Program, 
+victim advocate, and local domestic violence center shall include a 
+narrative description of the domestic violence incident.
+    ``(3) The policies under paragraph (1) shall include a procedure 
+for notifying the alleged victim of the incident of domestic violence 
+services from which the victim may receive assistance. The military law 
+enforcement officer shall provide the victim immediate notice of the 
+legal rights and remedies available to the victim. Such notice shall be 
+in a standard form developed and distributed by the Secretary of 
+Defense. As necessary, the Secretary shall revise the victims rights 
+brochure to include a summary of this section using simple English and 
+shall distribute the notice as a model form to be used by all military 
+law enforcement agencies. The notice shall include the following:
+            ``(A) The resources available for the area in which 
+        domestic violence services are sought, including military 
+        resources (victim advocates, Family Advocacy Program, judge 
+        advocates, medical personnel, and command) and civilian 
+        agencies (shelter, victim advocates, counseling, county or 
+        state attorney offices and centers).
+            ``(B) A copy of the following statement: `If you are a 
+        victim of domestic violence, you may ask the county or state 
+        attorney or judge advocate or Director of Special 
+        Investigations or command to file a complaint. You also have 
+        the right to go to court and file a petition requesting a 
+        protective order from domestic violence to include provisions 
+        which restrain the alleged perpetrator from further acts of 
+        abuse; direct the abuser to leave your house; prevent the 
+        abuser from entering your residence, school, business or place 
+        of employment; award you custody of your minor child or 
+        children; and direct the abuser to pay support to you and the 
+        minor children if he/she has a legal obligation to do so. You 
+        also have the right to request a military no contact order 
+        containing the above provisions.'.
+    ``(4) The policies under paragraph (1) shall include a procedure 
+for notifying the alleged victim of the incident, a description of the 
+procedure for releasing the arrested person, and the likelihood and 
+probable time of the arrested person's release.
+    ``(5) In the development of policies under this subsection, the 
+Secretary and shall consult with law enforcement agencies and 
+organizations with expertise in the recognition of domestic violence 
+incidents.
+    ``(e) Domestic Violence Incident Reports.--(1) A military law 
+enforcement officer who responds to a domestic violence incident shall 
+prepare a domestic violence incident report.
+    ``(2) If a military law enforcement officer has reasonable grounds 
+to arrest a person who is committing or has committed domestic violence 
+and that person's actions constitute the commission of a crime, the 
+officer shall prepare a written statement detailing why the person was 
+not arrested. The report shall be sent to the judge advocate for the 
+command of the suspect where the acts took place, immediately upon the 
+completion of the investigation of the incident. The judge advocate 
+shall review the report to determine whether the person involved in the 
+incident should be charged with the commission of a crime.
+    ``(3) All information contained in the domestic violence incident 
+report shall be forwarded to the appropriate military criminal 
+investigative unit, to the judge advocate with responsibility for the 
+jurisdiction, and to the commander of the suspect and of the 
+installation.
+    ``(4) The domestic violence incident report shall be on a form set 
+forth in regulations prescribed by the Secretary of Defense. The form 
+shall include provision for the following information:
+            ``(A) The relationship of the parties.
+            ``(B) The sex of the parties.
+            ``(C) The time and date of the incident.
+            ``(D) The number of domestic violence calls investigated.
+            ``(E) Whether children were involved, or whether the 
+        alleged act of domestic violence had been committed in the 
+        presence of children.
+            ``(F) The type and extent of the abuse.
+            ``(G) The number and type of weapons involved.
+            ``(H) The action taken by the law enforcement officer.
+            ``(I) The existence of any prior court or military orders 
+        issued to the parties.
+            ``(J) The number of domestic violence calls alleging a 
+        violation of a military no contact order or a protective order 
+        involving the parties.
+            ``(K) The number of arrests involving the parties for a 
+        violation of a civilian protective order or details of 
+        disciplinary action taken for the violation of a military 
+        protective order.
+            ``(L) Any other data that may be necessary for a complete 
+        analysis of all circumstances leading to the alleged incident 
+        of domestic violence.
+    ``(f) Contact Prohibitions.--(1) Unless there is a waiver by the 
+victim, during the 72 hours immediately following an arrest for a 
+domestic violence incident, the person arrested--
+            ``(A) shall avoid the residence of the alleged victim of 
+        the domestic violence incident and, if applicable, any premises 
+        temporarily occupied by the alleged victim; and
+            ``(B) shall avoid contacting or causing any person, other 
+        than law enforcement officers or military criminal 
+        investigators, judge advocates, or commanders, to contact the 
+        alleged victim.
+    ``(2) Unless there is a waiver by the victim under paragraph (1), a 
+law enforcement officer who releases a person arrested for domestic 
+violence from custody less than 72 hours after the arrest shall inform 
+the arrested person orally and in writing of the requirements of this 
+section and the consequences of violating this section. The arrested 
+person shall sign an acknowledgment on the written notice that the 
+person has had notice of, and understands the requirements, the 
+consequences and the provisions of this section. If the arrested person 
+refuses to sign the notice, the person may not be released from 
+custody.
+    ``(3) If there is a waiver under paragraph (1) and the person is 
+arrested under this section, the law enforcement officer who releases 
+the arrested person shall inform the arrested person orally and in 
+writing of the waiver.
+    ``(4) Failure to comply with the notice requirement under paragraph 
+(2) regarding a person who is lawfully released from custody does not 
+affect the prosecution for a crime of domestic violence.
+    ``(g) Conditional Release.--A person arrested and taken into 
+custody for a domestic violence incident is eligible for conditional 
+release. Unless there is a waiver under section (f), as part of the 
+conditions of any such release that occurs within 72 hours immediately 
+following such an arrest, the person shall be made to comply with the 
+requirements under subsection (f)(1) and to sign the acknowledgment 
+under subsection (f)(2).
+``Sec. 1568. Domestic violence: prosecution policies
+    ``The Secretary of Defense shall develop and implement written 
+policies encouraging the prosecution of domestic violence offenses 
+under the military justice system. Those policies shall include the 
+following:
+            ``(1) A policy that a recommendation of a judge advocate 
+        that a domestic violence incident not be prosecuted should not 
+        be based--
+                    ``(A) solely upon the absence of visible 
+                indications of injury;
+                    ``(B) consent of the victim;
+                    ``(C) consideration of the relationship of the 
+                parties; or
+                    ``(D) the character, rank, rate, or quality of 
+                service of members of the armed forces, officers or 
+                employees.
+            ``(2) A policy that when a domestic violence incident is 
+        not prosecuted by the judge advocates, including a report made 
+        under this section, the decision by the judge advocates should 
+        be made not later than 28 days after the date on which the 
+        judge advocate general has received notice of the incident.
+``Sec. 1569. Domestic violence: annual reports
+    ``(a) Reports to Secretaries of the Military Departments.--Each 
+judge advocate for a command who in the official capacity of that judge 
+advocate receives an allegation of domestic violence during any year 
+shall submit to the Secretary of the military department concerned a 
+report of all such allegations received during the year, together with 
+such information as the Secretary may require, including the following:
+            ``(1) The number of arrests for domestic violence incidents 
+        in that judge advocate's command, compiled and furnished by 
+        military law enforcement and military criminal investigators.
+            ``(2) The number of subsequent prosecutions and convictions 
+        of those arrested for domestic violence incidents.
+            ``(3) A listing of the number of arrests, prosecutions, and 
+        convictions under paragraph (1) and (2) shall include 
+        categories by statutory reference of offenses under chapter 47 
+        of this title (the Uniform Code of Military Justice) and 
+        include totals for all categories.
+    ``(b) Reports to the Secretary of Defense.--Not later than January 
+1 of each year, the Secretaries of the military departments shall 
+submit to the Secretary of Defense a report on the number of arrests, 
+disposition of cases, subsequent prosecutions or disciplinary actions, 
+and convictions for domestic violence involving members of the armed 
+forces and officers and employees of the Department of Defense under 
+their jurisdiction during the preceding year.
+    ``(c) Reports to Congress.--Not later than January 15 of each year, 
+the Secretary of Defense shall submit to Congress a report on the 
+number of arrests, disposition of cases, subsequent prosecutions or 
+disciplinary actions, and convictions for domestic violence involving 
+members of the armed forces and officers and employees of the 
+Department of Defense during the preceding year.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+such chapter is amended by adding at the end the following new items:
+
+``1567. Domestic violence: responsibilities of military law enforcement 
+                            officials.
+``1568. Domestic violence: prosecution policies.
+``1569. Domestic violence: annual reports.''.
+    (c) Deadline.--The Secretary of Defense shall prescribe in 
+regulations the procedures to carry out sections 1567 through 1569 of 
+title 10, United States Code, as added by subsection (a), not later 
+than 90 days after the date of the enactment of this Act.
+    (d) Conforming Repeal.--
+            (1) Repeal.--Section 1058 of title 10, United States Code, 
+        is repealed.
+            (2) Table of sections.--The table of sections at the 
+        beginning of chapter 53 of such title is amended by striking 
+        the item relating to section 1058.
+
+SEC. 303. INVESTIGATION OF SEXUAL AND DOMESTIC VIOLENCE CASES INVOLVING 
+              DEPARTMENT OF DEFENSE PERSONNEL.
+
+    (a) Establishment.--Chapter 4 of title 10, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 144. Director of Special Investigations
+    ``(a) Appointment.--There is a Director of Special Investigations 
+in the Department of Defense. The Director is appointed by the 
+Secretary of Defense from among persons who have a significant level of 
+experience in criminal investigations and possess a significant level 
+of training and expertise in domestic violence, family violence, sexual 
+assault, or stalking.
+    ``(b) Senior Executive Service Position.--The position of Director 
+of Special Investigations is a Senior Executive Service position. The 
+Secretary shall designate the position as a career reserved position 
+under section 3132(b) of title 5.
+    ``(c) Duties.--Subject to the authority, direction, and control of 
+the Secretary of Defense, the Director of Special Investigations shall 
+perform the duties set forth in this section and such other related 
+duties as the Secretary may prescribe.
+    ``(d) Direct Investigations.--The Director shall review an 
+investigation of an allegation of sexual misconduct, sexual assault, 
+family violence, stalking, or domestic violence--
+            ``(1) if requested--
+                    ``(A) by the director of the Office of Veterans 
+                Affairs ;
+                    ``(B) by an investigative organization of the 
+                Department of Defense or one of the military 
+                departments; or
+                    ``(C) by a commander of a member of the armed 
+                forces alleged to have engaged in sexual misconduct, 
+                sexual assault, domestic violence, family violence, or 
+                stalking or to have been the victim of sexual 
+                misconduct, sexual assault, domestic violence, family 
+                violence, or stalking; or
+            ``(2) in any case that the Secretary directs the Director 
+        to investigate.
+    ``(f) Oversight and Quality Control of Other Investigations.--(1) 
+The Director shall review the status of an investigation that is 
+referred under subsection (d).
+    ``(2) In carrying out paragraph (1), the Director may review the 
+records of the investigation and observe the conduct of the ongoing 
+investigation.
+    ``(3) The Director shall report to the Secretary on any 
+investigation monitored pursuant to paragraph (1). The report may 
+include the status of the investigation, an evaluation of the conduct 
+of the investigation, an evaluation of each investigator and the 
+investigative organization involved in the investigation, and a 
+recommendation for the future conduct of the investigation.
+    ``(g) Powers.--In the performance of the duties set forth or 
+authorized in this section, the Director shall have the following 
+powers:
+            ``(1) To have access to all records, reports, audits, 
+        reviews, documents, papers, recommendations, or other material 
+        available in the Department of Defense which relate to the 
+        duties of the Director.
+            ``(2) To request such information or assistance as may be 
+        necessary for carrying out the Director's duties from any 
+        Federal, State, or local governmental agency or unit thereof.
+            ``(3) To require by subpoena the production of all 
+        information, documents, reports, answers, records, accounts, 
+        papers, and other data and documentary evidence necessary in 
+        the performance of the Director's duties, which subpoena, in 
+        the case of contumacy or refusal to obey, shall be enforceable 
+        by order of any appropriate United States district court.
+            ``(4) To serve subpoenas, summons, and any judicial process 
+        related to the review of an investigation.
+            ``(5) To administer to or take from any person an oath, 
+        affirmation, or affidavit whenever necessary in the review of 
+        an investigation.
+            ``(6) To obtain for the victim in the case under review in 
+        the investigation from any military command a military 
+        protection order or from a court of appropriate jurisdiction an 
+        order of protection, respectively, to safeguard the victim.
+            ``(7) To refer to a victim advocate for assistance in 
+        obtaining services for any victim in the case under review.
+            ``(8) To request the appropriate commander to take action 
+        to relocate the victim during an investigation in order to 
+        ensure the safety of a victim.
+    ``(h) Referrals for Prosecution.--(1) The Director may refer any 
+case of sexual misconduct, domestic violence, family violence, sexual 
+assault, or stalking described in subsection (d)(1) to an appropriate 
+commander for action under chapter 47 of this title (the Uniform Code 
+of Military Justice) or other appropriate action.
+    ``(2) The Director shall report each such referral to the Secretary 
+of Defense.
+    ``(i) Staff.--The Director shall have access to--
+            ``(1) investigators who have extensive experience in 
+        criminal investigations and demonstrated expertise in domestic 
+        violence, family violence, sexual assault, or stalking;
+            ``(2) attorneys sufficient to provide the Director, the 
+        criminal investigators, and the Director's other staff 
+        personnel with legal counsel necessary for the performance of 
+        the duties of the Director; and
+            ``(3) such other staff as is necessary for the performance 
+        of the Director's duties.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 4 of such title is amended by adding at the end the following 
+new item:
+
+``144. Director of Special Investigations.''.
+
+   Subtitle B--Crimes Related to Sexual Assault and Domestic Violence
+
+                    CHAPTER 1--FEDERAL CRIMINAL CODE
+
+SEC. 311. ASSIMILATIVE CRIMES.
+
+    Section 13 of title 18, United States Code, is amended by adding at 
+the end the following:
+    ``(d) For purposes of subsection (a) of this section, that which 
+may or shall be imposed through judicial or administrative action under 
+the law of a State, territory, possession, or district for conduct that 
+constitutes a sexual assault, sexual abuse, sexual battery, rape, 
+stalking, domestic violence, or family violence offense of the 
+jurisdiction shall be considered to be punishment provided by the law 
+of that jurisdiction.''.
+
+SEC. 312. JURISDICTION FOR SEXUAL ASSAULT AND DOMESTIC VIOLENCE 
+              OFFENSES COMMITTED OUTSIDE THE UNITED STATES.
+
+    (a) Extraterritorial Jurisdiction.--Section 3261(a) of title 18, 
+United States Code, is amended by inserting ``or constitutes a sexual 
+assault, sexual misconduct, domestic violence, stalking, or family 
+violence offense'' after ``year''.
+    (b) Definitions.--Section 3267 of such title is amended by adding 
+at the end the following new paragraphs:
+            ``(5) The term `domestic violence' has the meaning given 
+        such term in section 2007(1) of the Omnibus Crime Control and 
+        Safe Streets Act of 1968 (42 U.S.C. 3796gg-2(1)).
+            ``(6) The term `sexual assault' has the meaning given such 
+        term in section 2007(6) of the Omnibus Crime Control and Safe 
+        Streets Act of 1968 (42 U.S.C. 3796gg-2(6)).
+            ``(7) The term `sexual misconduct' includes--
+                    ``(A) sexual harassment, entailing any conduct 
+                involving sexual harassment that in the case of an 
+                employee of the Department of Defense or a family 
+                member subject to the jurisdiction of the Secretary of 
+                Defense or of the Secretary of a military department, 
+                comprises a violation of a regulation, directive, or 
+                guideline that is applicable to such employee or family 
+                member;
+                    ``(B) sexual abuse;
+                    ``(C) sexual assault;
+                    ``(D) sexual battery; and
+                    ``(E) rape.
+            ``(8) Stalking.--The term `stalking' means engaging in a 
+        course of conduct as proscribed in chapter 110A directed at a 
+        specific person that would cause a reasonable person to fear 
+        death, sexual assault, or bodily injury to himself or herself 
+        or a member of his or her immediate family when--
+                    ``(A) the person engaging in such conduct has 
+                knowledge or should have knowledge that the specific 
+                person will be placed in reasonable fear of death, 
+                sexual assault, or bodily injury to himself or herself 
+                or a member of his or her immediate family; and
+                    ``(B) the conduct induces fear in the specific 
+                person of death, sexual assault, or bodily injury to 
+                himself or herself or a member of his or her immediate 
+                family.''.
+
+SEC. 313. TRAVEL AND TRANSPORTATION.
+
+    Section 406(h) of title 37, United States Code, is amended by 
+striking ``only if a written agreement of the member,''.
+
+              CHAPTER 2--UNIFORM CODE OF MILITARY JUSTICE
+
+SEC. 316. DOMESTIC VIOLENCE AND FAMILY VIOLENCE.
+
+    (a) Assault.--Section 928(b) of title 10, United States Code 
+(article 128(b) of the Uniform Code of Military Justice), is amended--
+            (1) by striking ``or'' at the end of paragraph (1);
+            (2) by inserting ``or'' at the end of paragraph (2); and
+            (3) by inserting after paragraph (2) the following new 
+        paragraph:
+            ``(3) commits an assault involving domestic violence or 
+        family violence;''.
+    (b) Assault Involving Domestic Violence or Family Violence 
+Defined.--Such section is further amended by adding at the end the 
+following new subsection:
+    ``(c) In this section, the term `assault involving domestic 
+violence or family violence' means--
+            ``(1) an assault--
+                    ``(A) with the intent to kill, injure, harass, or 
+                intimidate a spouse, intimate partner, or family 
+                member, or any other person related by consanguinity or 
+                affinity;
+                    ``(B) in which the accused intentionally inflicts 
+                bodily harm with or without a weapon upon a spouse, 
+                former spouse, intimate partner, or family member, or 
+                any other person related by consanguinity or affinity; 
+                or
+                    ``(C) in which the accused places a person in 
+                reasonable fear of imminent bodily injury to that 
+                person or to another person;
+            ``(2) a sexual assault; or
+            ``(3) any conduct in which the accused--
+                    ``(A) places a person in reasonable fear of 
+                imminent bodily injury to that person or to another;
+                    ``(B) harasses or intimidates a spouse, intimate 
+                partner, or family member or person related by 
+                consanguinity or affinity, in the course of or as a 
+                result of which the accused commits a crime of violence 
+                against the spouse, intimate partner, or family member 
+                or person related by consanguinity or affinity; or
+                    ``(C) uses force, coercion, duress, or fraud to 
+                facilitate, commit, or attempt to commit a crime of 
+                violence against a spouse, former spouse, intimate 
+                partner, or family member.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to offenses committed after the date of the 
+enactment of this Act.
+    (d) Interim Maximum Punishments.--Until the President otherwise 
+provides pursuant to section 856 of title 10, United States Code 
+(article 56 of the Uniform Code of Military Justice), the punishment 
+which a court-martial may direct for an offense under subsection (b)(3) 
+of section 928 of such title (article 128 of the Uniform Code of 
+Military Justice) may not exceed the following limits:
+            (1) For an assault involving domestic violence or family 
+        violence if the death of the victim results, such punishment 
+        may not exceed dishonorable discharge, forfeiture of pay and 
+        allowances, and confinement for life without eligibility for 
+        parole.
+            (2) For an assault involving domestic violence or family 
+        violence if permanent disfigurement or life threatening bodily 
+        injury to the victim results, such punishment may be twice that 
+        as provided including dishonorable discharge, forfeiture of pay 
+        and allowances, and confinement for 30 years.
+            (3) For an assault involving domestic violence or family 
+        violence if serious bodily injury to the victim results or if 
+        the accused uses a dangerous weapon, such punishment may not 
+        exceed dishonorable discharge, forfeiture of all pay and 
+        allowances, and confinement for 20 years.
+            (4) For an assault involving domestic violence or family 
+        violence, such punishment may not exceed dishonorable 
+        discharge, forfeiture of all pay and allowances, and 
+        confinement for 10 years.
+
+SEC. 317. PROTECTIVE ORDERS.
+
+    (a) Enforcement of Protective Orders.--Section 892 of title 10, 
+United States Code (article 92 of the Uniform Code of Military 
+Justice), is amended--
+            (1) by inserting ``(a)'' before ``Any person'';
+            (2) by striking ``or'' at the end of paragraph (2);
+            (3) by inserting ``or'' at the end of paragraph (3);
+            (4) by inserting after paragraph (3) the following new 
+        paragraph:
+            ``(4) violates or fails to obey a no contact order or 
+        protective order;''; and
+            (5) by adding at the end of such section the following new 
+        subsection:
+    ``(b) In this section, the term `no contact order or protective 
+order' includes--
+            ``(1) a no contact order issued by a command or supervisor 
+        to a member to safeguard a spouse, former spouse, intimate 
+        partner, or family member of a member;
+            ``(2) a protection order as defined in section 2266(5) of 
+        title 18; and
+            ``(3) a protective order as defined in section 1561a of 
+        this title.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply with respect to offenses committed after the date of the 
+enactment of this Act.
+
+            Subtitle C--Treatment Services for Perpetrators
+
+SEC. 321. ENHANCED CAPACITY OF THE DEPARTMENT OF DEFENSE FOR TREATMENT 
+              SERVICES FOR PERPETRATORS.
+
+    (a) Contracts Authorized.--
+            (1) In general.--The Secretary of Defense, acting through 
+        the Undersecretary of Defense for Personnel and Readiness, may 
+        enter into contracts with eligible entities for the provision 
+        of treatment services, including a batterers program, for 
+        members of the Armed Forces who have been assessed to have 
+        committed domestic violence, family violence, sexual assault, 
+        or stalking.
+            (2) Definitions.--In this section:
+                    (A) Eligible entities.--The term ``eligible 
+                entity'' means a public or private, nonprofit or 
+                nongovernmental entity the primary purpose of which is 
+                to provide treatment services to perpetrators of 
+                domestic violence, family violence, sexual assault, or 
+                stalking.
+                    (B) Batterers program.--The term ``batterers 
+                program'' means a program approved or certified by a 
+                State that is operated by a public or not-for-profit 
+                organization for the purpose of providing battering 
+                prevention and educational services and the goal of 
+                which is to help perpetrators end abusive behaviors.
+    (b) Terms of Contract.--A contract awarded under this section shall 
+provide that the entity awarded the contract--
+            (1) may provide for collaboration with existing services in 
+        the civilian community for the provision of appropriate 
+        treatment services;
+            (2) when appropriate treatment services are not available 
+        in the civilian community or are not accessible, may provide 
+        such services on military installations;
+            (3) shall not, under the contract, provide couple 
+        counseling or mediation, but may provide referrals for such 
+        counseling or mediation upon successful completion of a 
+        certified batterers program and at the request of the victim.
+    (c) Terms of Batterers Program.--The Secretary shall ensure that 
+the batterers program shall have policies regarding--
+            (1) referrals for those for whom a batterers program is not 
+        appropriate;
+            (2) suicide and homicide threats by clients; and
+            (3) confidentiality, in accordance with standards 
+        prescribed by the Secretary.
+    (d) Application.--An eligible entity that desires to receive a 
+contract under this section shall submit to the Secretary an 
+application at such time, in such manner, and containing such 
+information as the Secretary may require, consistent with the 
+requirements specified in this section.
+    (e) Treatment Standards.--The treatment program under the batterers 
+program must meet the following standards:
+            (1) All treatment shall be based upon a full, complete 
+        clinical assessment, including--
+                    (A) current and past violence history relating to 
+                domestic violence, family violence, sexual assault, or 
+                stalking;
+                    (B) a complete diagnostic evaluation;
+                    (C) a substance abuse assessment; and
+                    (D) criminal history.
+            (2) All treatment shall be based on a treatment plan that 
+        adequately and appropriately addresses treatment needs of the 
+        individual.
+            (3) The program shall require the perpetrator to review the 
+        following notices:
+                    (A) A notice that the program will inform the 
+                victim and victims' advocate that the perpetrator is in 
+                treatment.
+                    (B) A notice that prior and current treatment 
+                agencies will provide information on the perpetrator to 
+                the program.
+                    (C) A notice that the program will provide relevant 
+                information on the perpetrator to relevant legal and 
+                military entities.
+            (4) Treatment of a perpetrator must be for a minimum 
+        treatment period established by the Secretary by regulation.
+            (5) Satisfactory completion of treatment must be contingent 
+        upon the perpetrator meeting specific criteria, defined by the 
+        Secretary, and not just upon the end of a certain period of 
+        time or attendance of the perpetrator at a certain number of 
+        sessions.
+            (6) The program shall have a policy and procedures for 
+        dealing with recidivism.
+            (7) The program shall have a policy and procedures for 
+        dealing with noncompliance.
+            (8) All evaluation and treatment services shall be provided 
+        by, and under the supervision of, qualified personnel.
+    (f) Duration of Contracts.--A contract awarded under this section 
+shall be for a period of three fiscal years. Such a contract may be 
+renewed.
+    (g) Reports.--An entity awarded a contract under this section shall 
+submit to the Secretary every six months a report that describes, at a 
+minimum--
+            (1) how the funds under the contract were used;
+            (2) the extent to which military personnel were served;
+            (3) the adequacy of staff training and services;
+            (4) the existence of barriers to the provision of services;
+            (5) pertinent and appropriate factors concerning 
+        perpetrators in the program, including age, education, income, 
+        marital status, number of children and their ages, any 
+        substance abuse, and personal history of family violence;
+            (6) the total number of persons referred to the program, 
+        and the referral source;
+            (7) total number of persons determined to be inappropriate 
+        for services and reasons therefor; and
+            (8) the number of persons participating in the program, the 
+        number completing the program, the number failing to complete 
+        the program, and reasons therefor.
+
+ TITLE IV--COUNSELING AND TREATMENT PROGRAMS OF DEPARTMENT OF VETERANS 
+                                AFFAIRS
+
+SEC. 401. RESEARCH ON BEST PRACTICES TO OVERCOME STIGMA RELATED TO 
+              MILITARY SEXUAL TRAUMA.
+
+    It is the sense of Congress that the Secretary of Veterans Affairs, 
+in cooperation with Secretary of Defense, should conduct research into 
+best practices that allow veterans who have been victims of sexual 
+assault while in the Armed Forces to overcome stigma in order to report 
+the crime, seek treatment, and recover.
+
+SEC. 402. TRAINING FOR DEPARTMENT OF VETERANS AFFAIRS PRIMARY CARE 
+              PROVIDERS.
+
+    (a) Training Required.--The Secretary of Veterans Affairs shall 
+ensure that all primary care providers who are employed by the 
+Department of Veterans Affairs (or who treat veterans for the 
+Department on a fee or contract basis) receive training in (1) 
+effective screening methods for identifying veterans who have suffered 
+from military sexual trauma, and (2) the process for referring for 
+appropriate treatment and services veterans who are so identified. For 
+those providers who are so employed as of the date of the enactment of 
+this Act and who have not previously received such training, such 
+training shall be completed not later than the end of the one-year 
+period beginning on the date of the enactment of this Act.
+    (b) Elements of Training.--The training under subsection (a) shall 
+require that all primary care providers to be able to do the following:
+            (1) Describe the Department of Veterans Affairs mandate and 
+        the prevalence of military sexual trauma.
+            (2) Describe the relevance of military sexual trauma to 
+        Department of Veterans Affairs clinicians.
+            (3) Identify the health correlates of sexual trauma.
+            (4) Explain the effective screening methods for military 
+        sexual trauma.
+            (5) List the steps to be taken by a clinician when 
+        responding to disclosure of military sexual trauma.
+            (6) Explain the referral process of a patient who 
+        experienced military sexual trauma to mental health and social 
+        services.
+            (7) Describe the mental health treatment for military 
+        sexual trauma.
+            (8) Describe the documentation requirements for military 
+        sexual trauma treatment and compensation.
+            (9) Explain the compensation issues associated with 
+        military sexual trauma.
+            (10) Describe the complex patient-provider relationship 
+        issues associated with military sexual trauma.
+            (11) Identify the risk factors that could cause post-
+        traumatic stress disorder flares in military sexual trauma 
+        survivors.
+            (12) Define revictimization.
+            (13) Assess intimate partner violence.
+            (14) Describe treatment of acute sexual trauma victims.
+            (15) Recognize how clinicians can care for themselves and 
+        avoid burnout.
+
+SEC. 403. PILOT PROGRAM ON WAYS TO IDENTIFY VETERANS WHO ARE VICTIMS OF 
+              MILITARY SEXUAL TRAUMA.
+
+    (a) Pilot Program.--The Secretary of Veterans Affairs shall conduct 
+a pilot program to identify effective ways of screening and referral 
+processes for primary care providers to identify veterans who are 
+victims of military sexual trauma.
+    (b) Duration.--The pilot program under this section shall be 
+commenced not later than six months after the date of the enactment of 
+this Act and shall be conducted for a period of three years.
+    (c) Report.--Not later than one year after the date of the 
+completion of the pilot program under this section, the Secretary shall 
+submit to the Committees on Armed Services and on Veterans' Affairs of 
+the Senate and House of Representatives a report on the Secretary's 
+evaluation of the pilot program.
+
+SEC. 404. PILOT PROGRAM ON TREATMENT OF ACTIVE-DUTY MILITARY PERSONNEL 
+              THROUGH FACILITIES OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+    (a) Pilot Program.--The Secretary of Veterans Affairs shall conduct 
+a pilot program with the Secretary of Defense under which active-duty 
+military personnel who are victims of military sexual trauma may be 
+provided confidential treatment for such trauma through facilities of 
+the Department of Veterans Affairs. The pilot program shall be carried 
+out pursuant to a memorandum of agreement between the two Secretaries.
+    (b) Duration.--The pilot program under this section shall be 
+commenced not later than six months after the date of the enactment of 
+this Act and shall be conducted for a period of three years.
+    (c) Report.--Not later than one year after the date of the 
+completion of the pilot program under this section, the Secretary of 
+Veterans Affairs shall submit to the Committees on Armed Services and 
+on Veterans' Affairs of the Senate and House of Representatives a 
+report on the Secretary's evaluation of the pilot program.
+
+                         TITLE V--OTHER MATTERS
+
+                   Subtitle A--Administration Matters
+
+SEC. 501. PERFORMANCE EVALUATIONS AND BENEFITS.
+
+    The Secretary of Defense and the Secretary of the military 
+department concerned may not approve for presentation of a financial 
+award for performance of work or duties, and may not approve for 
+promotion, an officer or employee of the Department of Defense or a 
+member of the Armed Forces who--
+            (1) has been convicted of a criminal offense involving 
+        domestic violence, family violence, sexual assault, or 
+        stalking; or
+            (2) has received any other disciplinary action or adverse 
+        personnel action on the basis of having engaged in domestic 
+        violence, family violence, sexual assault, or stalking.
+
+SEC. 502. CLOSURE OF ARTICLE 32 INVESTIGATIONS IN CASES OF SEXUAL 
+              ASSAULT OR DOMESTIC VIOLENCE.
+
+    Section 832 of title 10, United States Code (article 32 of the 
+Uniform Code of Military Justice), is amended by adding at the end the 
+following new subsection:
+    ``(f) In an investigation under this article that includes a charge 
+or specification (or an uncharged offense included in the investigation 
+pursuant to subsection (d)) of sexual assault or domestic violence, the 
+investigating officer shall give particular consideration to closing 
+the investigation to the public.''.
+
+     Subtitle B--Enhancement of Armed Forces Domestic Security Act
+
+SEC. 511. AMENDMENTS TO SERVICEMEMBERS CIVIL RELIEF ACT.
+
+    (a) Exception to Authority to Order Stays in Civil Proceedings.--
+Section 202(b)(1) of the Servicemembers Civil Relief Act (50 U.S.C. 
+App. 522(b)(1)) is amended by inserting ``, except in the case of an 
+order of protection or restraining order,'' after ``proceeding''.
+    (b) Change in References From ``Dependents'' to ``Family 
+Members''.--
+            (1) Section 101(4) of such Act (50 U.S.C. App. 511(4)) is 
+        amended--
+                    (A) in the heading, by striking ``Dependent'' and 
+                inserting ``Family Member''; and
+                    (B) by striking ``dependent'' and inserting 
+                ``family member''.
+            (2) Such Act is further amended by by striking 
+        ``dependent'' and ``dependents'' each place they appear and 
+        inserting ``family member'' and ``family members'', 
+        respectively.
+            (3)(A) The heading for section 308 of such Act (50 U.S.C. 
+        App. 538) is amended to read as follows:
+``Sec. 308. Extension of protections to family members.''.
+            (B) The item relating to such section in the table of 
+        contents in section 1(b) of such Act (50 U.S.C. App. 501(b)) is 
+        amended to conform to the amendment made by subparagraph (A).
+
+  Subtitle C--Research on Prevalence, Needs Assessment, Services, and 
+                             Accountability
+
+SEC. 521. RESEARCH ON SEXUAL ASSAULT, DOMESTIC VIOLENCE, AND FAMILY 
+              VIOLENCE IN THE ARMED FORCES.
+
+    (a) In General.--The Secretary of Defense, in conjunction with the 
+Attorney General, shall carry out a comprehensive research study on the 
+prevalence and nature of sexual assault, domestic violence, and family 
+violence in the Armed Forces. To the extent that incidents of sexual 
+assault are also incidents of domestic violence or family violence, 
+research activities for the purpose of the study under this section can 
+be conducted simultaneously and in collaboration. The research study 
+shall include the identification of--
+            (1) the common characteristics (if any) of victims of 
+        sexual assault, domestic violence, and family violence;
+            (2) the common characteristics (if any) of perpetrators of 
+        sexual assault, domestic violence, and family violence;
+            (3) the situations and environments in which sexual 
+        assault, domestic violence, and family violence occur; and
+            (4) the affect of deployments, duty stations, combat 
+        service, and veteran and active duty status on sexual assault, 
+        domestic violence, and family violence.
+    (b) Categorization of Data.--The research study under this section 
+shall be conducted with statistically significant random samples of men 
+and women who are actively serving in each of the Armed Forces. The 
+selection shall include enough men and women so that the data collected 
+are representative of men and women in each branch and comparisons can 
+be made across several broad subgroup categories, such as age, race, 
+rank, and length of service in the Armed Forces.
+    (c) Protection of Human Subjects.--The Secretary shall ensure the 
+confidentiality of each survey participant.
+    (d) Data Analysis and Reporting.--Once data have been collected, 
+the Secretary shall conduct appropriate analyses to determine the 
+extent and nature of sexual assault, family violence, and domestic 
+violence within the Armed Forces.
+    (e) Report.--Not later than 36 months after the date of the 
+enactment of this Act, the Secretary shall submit to Congress a report 
+providing the results of the study under this section. The report shall 
+include the following:
+            (1) The incidence and prevalence of sexual assault, family 
+        violence, and domestic violence involving members of the Armed 
+        Forces.
+            (2) The number of legal, judicial, nonjudicial, and 
+        rehabilitative responses to sexual assault and domestic 
+        violence, disaggregated by service.
+            (3) The extent to which such responses are effective at 
+        ensuring victim safety, requiring offender accountability, and 
+        imposing sanctions on the offender.
+            (4) A review of the availability and accessibility of the 
+        prevention and intervention programs available to members of 
+        the Armed Forces and their families and partners and the 
+        effectiveness of those programs at increasing victim safety.
+            (5) Recommendations for improvements to Department of 
+        Defense procedures and programs to prevent and intervene in 
+        cases of sexual assault, family violence, and domestic violence 
+        involving members of the Armed Forces.
+
+SEC. 522. RESEARCH ON INSTITUTIONAL PROCEDURES FOR REPORTING SEXUAL 
+              ASSAULT, DOMESTIC VIOLENCE, AND FAMILY VIOLENCE IN THE 
+              ARMED FORCES.
+
+    (a) Study Required.--The Secretary of Defense shall provide for a 
+study to examine procedures undertaken after a military official 
+receives a report of an incident of sexual assault, domestic violence, 
+or family violence. The study shall be undertaken in consultation with 
+the Attorney General.
+    (b) Matters to Be Included.--The study under subsection (a) shall 
+include an analysis of the following:
+            (1) The adequacy of the publication of the definition 
+        applicable to the Armed Forces of each of the following terms: 
+        sexual assault, domestic violence, and family violence.
+            (2) The publication of the Armed Forces policy for sexual 
+        assault, domestic violence, and family violence.
+            (3) The individuals to whom reports of sexual assault, 
+        domestic violence, and family violence are given most often 
+        and--
+                    (A) how those individuals are trained to respond to 
+                such reports; and
+                    (B) the extent to which those individuals are 
+                trained.
+            (4) The reporting options that are presented to persons as 
+        available to them if the become a victim of sexual assault, 
+        domestic violence, and family violence, both as to--
+                    (A) reporting and procedure options on military 
+                installation; and
+                    (B) reporting and procedure options outside of 
+                military installations.
+            (5) The resources available for victims' safety, support, 
+        medical health, and confidentiality.
+            (6) Policies and practices that may prevent or discourage 
+        the report of sexual assaults, domestic violence, and family 
+        violence to local crime authorities or that may otherwise 
+        obstruct justice or interfere with the prosecution of 
+        perpetrators of sexual assault, domestic violence, and family 
+        violence.
+            (7) Policies and procedures found successful in aiding the 
+        report, and any ensuing investigation or prosecution, of sexual 
+        assault, domestic violence, or family violence.
+    (c) Report to Congress.--The Secretary shall submit to Congress a 
+report on the study required by subsection (a) not later than one year 
+after the date of the enactment of this Act.
+
+SEC. 523. RESEARCH ON DATING VIOLENCE ASSOCIATED WITH THE ARMED FORCES.
+
+    (a) Study Required.--The Secretary of Defense shall carry out a 
+comprehensive research study on the prevalence and nature of intimate 
+partner violence in the Armed Forces, including dating violence and 
+violence among former spouses or partners who are cohabiting with or 
+have cohabited with members of the Armed Forces. The study shall be 
+carried out in cooperation with the Attorney General.
+    (b) Matters to Be Included.--The study under subsection (a) shall 
+include the identification of the common characteristics of--
+            (1) both victims of intimate partner violence and 
+        perpetrators of intimate partner violence;
+            (2) the situations and environments in which intimate 
+        partner violence occurs; and
+            (3) the effect of deployments, duty stations, combat 
+        service, and veteran, reserve or active duty, or combat status.
+    (c) Categorization of Data.--The study under subsection (a) shall 
+be conducted with statistically significant random samples of men and 
+women who are actively serving in each branch of the Armed Forces and 
+family members. The selection shall include enough men and women so the 
+data that are collected are representative of men and women in each 
+branch and comparisons can be made across several broad subgroup 
+categories, such as age, race, rank, and length of service in the Armed 
+Forces.
+    (d) Confidentiality of Subjects.--The Secretary shall ensure the 
+confidentiality of each survey participant.
+    (e) Data Analysis and Reporting.--Once data have been collected, 
+the Secretary shall conduct appropriate analyses to determine the 
+extent and nature of intimate violence within the Armed Forces, 
+prevention, intervention and response, and needs of victims of intimate 
+partner violence.
+    (f) Report.--Not later than 36 months after the date of the 
+enactment of this Act, the Secretary shall submit to Congress a report 
+providing the results of the study under this section. The report shall 
+include the following:
+            (1) The incidence and prevalence of intimate partner 
+        violence involving members of the Armed Forces.
+            (2) A discussion of the prevention and intervention 
+        available to intimate partners of members of the Armed Forces.
+            (3) A discussion of the legal, judicial, nonjudicial, and 
+        rehabilitative responses to intimate partner violence and how 
+        those responses vary across the services.
+            (4) The extent to which such responses are effective at 
+        ensuring victim safety, requiring offender accountability, and 
+        imposing sanctions on the offender.
+            (5) A review of the availability and accessibility of the 
+        prevention and intervention programs available to victims who 
+        are members on active duty and victims who are civilians and 
+        the effectiveness of those programs at increasing victim 
+        safety.
+            (6) Recommendations for improvements to Department of 
+        Defense procedures and programs to prevent and intervene in 
+        cases of intimate partner violence.
+
+SEC. 524. RESEARCH ON CHILD MALTREATMENT, ABUSE, AND HOMICIDE IN THE 
+              ARMED FORCES.
+
+    (a) Study Required.--The Secretary of Defense shall carry out a 
+comprehensive research study on the prevalence and nature of child 
+maltreatment, abuse, suicide, and homicide in the Armed Forces. The 
+study shall be carried out in cooperation with the Secretary of Health 
+and Human Services. The study shall include the identification of the 
+common characteristics of--
+            (1) both victims and perpetrators of child maltreatment, 
+        abuse, or homicide associated with the Armed Forces; and
+            (2) the situations and environments in which child 
+        maltreatment, abuse, suicide, or homicide occurs.
+    (b) Sampling Techniques.--The research study under subsection (a) 
+shall be conducted with statistically significant random samples. The 
+selection shall include data collected across several broad subgroup 
+categories, such as age, race, status, and rank in the Armed Forces.
+    (c) Confidentiality.--The Secretary shall ensure the 
+confidentiality of each survey participant.
+    (d) Data Analysis and Reporting.--Once data have been collected, 
+the Secretary shall conduct appropriate analyses to determine the 
+extent and nature of child maltreatment, abuse, suicide, and homicide 
+within the Armed Forces.
+    (e) Report.--Not later than 24 months after the date of the 
+enactment of this Act, the Secretary shall submit to Congress a report 
+providing the results of the study under this section. The report shall 
+include the following:
+            (1) The incidence and prevalence of child maltreatment, 
+        abuse, suicide, and homicide involving members of the Armed 
+        Forces.
+            (2) A discussion of the legal, judicial, nonjudicial, and 
+        rehabilitative responses to child maltreatment, abuse, suicide, 
+        and homicide and how those responses vary across the services.
+            (3) The extent to which such responses are effective at 
+        ensuring victim safety, requiring offender accountability, and 
+        imposing sanctions on the offender.
+            (4) A review of the availability, accessibility, and 
+        effectiveness at increasing victim safety within the existing 
+        prevention and intervention programs available to victims of 
+        child maltreatment, abuse, suicide, and homicide within the 
+        Armed Forces.
+            (5) Recommendations for a comprehensive strategy for 
+        prevention and intervention in cases of child maltreatment, 
+        abuse, suicide, and homicide.
+                                 <all>

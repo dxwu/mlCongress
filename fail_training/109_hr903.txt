@@ -1,0 +1,474 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 903 Introduced in House (IH)]
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 903
+
+To amend the Balanced Budget and Emergency Deficit Control Act of 1985 
+ and the Congressional Budget Act of 1974 to extend the discretionary 
+    spending caps and the pay-as-you-go requirement, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 17, 2005
+
+  Mr. Cooper (for himself, Mr. Tanner, Mr. Cardoza, Mr. Matheson, Mr. 
+    Boyd, Mr. Ross, Mr. Barrow, Mr. Case, Mr. Michaud, Mr. Davis of 
+  Tennessee, Mr. Salazar, Ms. Harman, Mr. Thompson of California, Mr. 
+  Costa, Mr. Boswell, Ms. Herseth, Mr. Moore of Kansas, Mr. Scott of 
+ Georgia, Mr. Chandler, Mr. Ford, Mr. Berry, Mr. Holden, Mr. McIntyre, 
+   Mr. Bishop of Georgia, Mr. Schiff, and Mr. Taylor of Mississippi) 
+ introduced the following bill; which was referred to the Committee on 
+the Budget, and in addition to the Committee on Rules, for a period to 
+      be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Balanced Budget and Emergency Deficit Control Act of 1985 
+ and the Congressional Budget Act of 1974 to extend the discretionary 
+    spending caps and the pay-as-you-go requirement, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fiscal Honesty and Accountability 
+Act of 2005''.
+
+SEC. 2. EXTENSION OF PAY-AS-YOU-GO REQUIREMENT.
+
+    (a) Purpose.--Section 252(a) of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 is amended by striking ``2002'' and 
+inserting ``2010''.
+    (b) Sequestration.--Section 252(b)(1) of the Balanced Budget and 
+Emergency Deficit Control Act of 1985 is amended by striking ``2002'' 
+and inserting ``2010''.
+
+SEC. 3. EXTENSION OF THE DISCRETIONARY SPENDING CAPS.
+
+    (a) In General.--Section 251(c) of the Balanced Budget and 
+Emergency Deficit Control Act of 1985 is amended--
+            (1) by redesignating paragraphs (4) through (9) as 
+        paragraphs (7) through (12), respectively, and inserting after 
+        paragraph (3) the following new paragraphs:
+            ``(4) with respect to fiscal year 2007 for the 
+        discretionary category: $857,952,000,000 in new budget 
+        authority and $906,854,000,000 in outlays;
+            ``(5) with respect to fiscal year 2008 for the 
+        discretionary category: $875,969,000,000 in new budget 
+        authority and $920,233,000,000 in outlays;
+            ``(6) with respect to fiscal year 2009 for the 
+        discretionary category: $894,365,000,000 in new budget 
+        authority and $933,786,000,000 in outlays;''.
+    (b) Expiration.--Section 275 of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 (2 U.S.C. 900 note) is amended by striking 
+subsection (b).
+
+SEC. 4. ACCOUNTABILITY IN EMERGENCY SPENDING.
+
+    (a) Omb Emergency Criteria.--Section 3 of the Congressional Budget 
+and Impoundment Control Act of 1974 is amended by adding at the end the 
+following new paragraph:
+            ``(11)(A) The term `emergency' means a situation that--
+                    ``(i) requires new budget authority and outlays (or 
+                new budget authority and the outlays flowing therefrom) 
+                for the prevention or mitigation of, or response to, 
+                loss of life or property, or a threat to national 
+                security; and
+                    ``(ii) is unanticipated.
+            ``(B) As used in subparagraph (A), the term `unanticipated' 
+        means that the situation is--
+                    ``(i) sudden, which means quickly coming into being 
+                or not building up over time;
+                    ``(ii) urgent, which means a pressing and 
+                compelling need requiring immediate action;
+                    ``(iii) unforeseen, which means not predicted or 
+                anticipated as an emerging need; and
+                    ``(iv) temporary, which means not of a permanent 
+                duration.''.
+    (b) Development of Guidelines for Application of Emergency 
+Definition.--Not later than five months after the date of enactment of 
+this Act, the chairmen of the Committees on the Budget (in consultation 
+with the President) shall, after consulting with the chairmen of the 
+Committees on Appropriations and applicable authorizing committees of 
+their respective Houses and the Directors of the Congressional Budget 
+Office and the Office of Management and Budget, jointly publish in the 
+Congressional Record guidelines for application of the definition of 
+emergency set forth in section 3(11) of the Congressional Budget and 
+Impoundment Control Act of 1974.
+    (c) Separate House Vote on Emergency Designation.--(1) Rule XXII of 
+the Rules of the House of Representatives is amended by adding at the 
+end the following new clause:
+    ``13. In the consideration of any measure for amendment in the 
+Committee of the Whole containing any emergency spending designation, 
+it shall always be in order unless specifically waived by terms of a 
+rule governing consideration of that measure, to move to strike such 
+emergency spending designation from the portion of the bill then open 
+to amendment.''.
+    (2) The Committee on Rules shall include in the report required by 
+clause 1(d) of rule XI (relating to its activities during the Congress) 
+of the Rules of the House of Representatives a separate item 
+identifying all waivers of points of order relating to emergency 
+spending designations, listed by bill or joint resolution number and 
+the subject matter of that measure.
+    (d) Committee Notification of Emergency Legislation.--Whenever the 
+Committee on Appropriations or any other committee of either House 
+(including a committee of conference) reports any bill or joint 
+resolution that provides budget authority for any emergency, the report 
+accompanying that bill or joint resolution (or the joint explanatory 
+statement of managers in the case of a conference report on any such 
+bill or joint resolution) shall identify all provisions that provide 
+budget authority and the outlays flowing therefrom for such emergency 
+and include a statement of the reasons why such budget authority meets 
+the definition of an emergency pursuant to the guidelines described in 
+subsection (b).
+    (e) Reserve Fund for Emergencies in President's Budget.--Section 
+1105(f) of title 31, United States Code is amended by adding at the end 
+the following new sentences: ``Such budget submission shall also comply 
+with the requirements of section 316(b) of the Congressional Budget Act 
+of 1974 and, in the case of any budget authority requested for an 
+emergency, such submission shall include a detailed justification of 
+why such emergency is an emergency within the meaning of section 3(11) 
+of the Congressional Budget Act of 1974.''.
+    (f) Adjustments and Reserve Fund for Emergencies in Joint Budget 
+Resolutions.--Title III of the Congressional Budget Act of 1974 is 
+amended by adding at the end the following new section:
+
+                             ``emergencies
+
+    ``Sec. 316. (a) Adjustments.--
+            ``(1) In general.--After the reporting of a bill or joint 
+        resolution or the submission of a conference report thereon 
+        that provides budget authority for any emergency as identified 
+        pursuant to subsection (d) that is not covered by subsection 
+        (c)--
+                    ``(A) the chairman of the Committee on the Budget 
+                of the House of Representatives or the Senate shall 
+                determine and certify, pursuant to the guidelines 
+                referred to in subsection (b), the portion (if any) of 
+                the amount so specified that is for an emergency within 
+                the meaning of section 3(11); and
+                    ``(B) such chairman shall make the adjustment set 
+                forth in paragraph (2) for the amount of new budget 
+                authority (or outlays) in that measure and the outlays 
+                flowing from that budget authority.
+            ``(2) Matters to be adjusted.--The adjustments referred to 
+        in paragraph (1) are to be made to the allocations made 
+        pursuant to the appropriate joint resolution on the budget 
+        pursuant to section 302(a) and shall be in an amount not to 
+        exceed the amount reserved for emergencies pursuant to the 
+        requirements of subsection (b).
+    ``(b) Reserve Fund for Emergencies.--
+            ``(1) Amounts.--The amount set forth in the reserve fund 
+        for emergencies (other than those covered by subsection (c)) 
+        for budget authority and outlays for a fiscal year pursuant to 
+        section 301(a)(6) shall equal--
+                    ``(A) the average of the enacted levels of budget 
+                authority for emergencies (other than those covered by 
+                subsection (c)) in the 5 fiscal years preceding the 
+                current year; and
+                    ``(B) the average of the levels of outlays for 
+                emergencies in the 5 fiscal years preceding the current 
+                year flowing from the budget authority referred to in 
+                subparagraph (A), but only in the fiscal year for which 
+                such budget authority first becomes available for 
+                obligation.
+            ``(2) Average levels.--For purposes of paragraph (1), the 
+        amount used for a fiscal year to calculate the average of the 
+        enacted levels when one or more of such 5 preceding fiscal 
+        years is any of fiscal years 2001 through 2005 is as follows: 
+        the amount of enacted levels of budget authority and the amount 
+        of new outlays flowing therefrom for emergencies, but only in 
+        the fiscal year for which such budget authority first becomes 
+        available for obligation for each of such 5 fiscal years, which 
+        shall be determined by the Committees on the Budget of the 
+        House of Representatives and the Senate after receipt of a 
+        report on such matter transmitted to such committees by the 
+        Director of the Congressional Budget Office 6 months after the 
+        date of enactment of this section and thereafter in February of 
+        each calendar year.
+    ``(c) Treatment of Emergencies to Fund Certain Military 
+Operations.--Whenever the Committee on Appropriations reports any bill 
+or joint resolution that provides budget authority for any emergency 
+that is a threat to national security and the funding of which carries 
+out a military operation authorized by a declaration of war or a joint 
+resolution authorizing the use of military force and the report 
+accompanying that bill or joint resolution, pursuant to subsection (d), 
+identifies any provision that increases outlays or provides budget 
+authority (and the outlays flowing therefrom) for such emergency, the 
+enactment of which would cause the total amount of budget authority or 
+outlays provided for emergencies for the budget year in the joint 
+resolution on the budget (pursuant to section 301(a)(6)) to be 
+exceeded:
+            ``(1) Such bill or joint resolution shall be referred to 
+        the Committee on the Budget of the House or the Senate, as the 
+        case may be, with instructions to report it without amendment, 
+        other than that specified in subparagraph (B), within 5 
+        legislative days of the day in which it is reported from the 
+        originating committee. If the Committee on the Budget of either 
+        House fails to report a bill or joint resolution referred to it 
+        under this subparagraph within such 5-day period, the committee 
+        shall be automatically discharged from further consideration of 
+        such bill or joint resolution and such bill or joint resolution 
+        shall be placed on the appropriate calendar.
+            ``(2) An amendment to such a bill or joint resolution 
+        referred to in this subsection shall only consist of an 
+        exemption from section 251 of the Balanced Budget and Emergency 
+        Deficit Control Act of 1985 of all or any part of the 
+        provisions that provide budget authority (and the outlays 
+        flowing therefrom) for such emergency if the committee 
+        determines, pursuant to the guidelines referred to in 
+        subsection (b), that such budget authority is for an emergency 
+        within the meaning of section 3(11).
+            ``(3) If such a bill or joint resolution is reported with 
+        an amendment specified in subparagraph (B) by the Committee on 
+        the Budget of the House of Representatives or the Senate, then 
+        the budget authority and resulting outlays that are the subject 
+        of such amendment shall not be included in any determinations 
+        under section 302(f) or 311(a) for any bill, joint resolution, 
+        amendment, motion, or conference report.''.
+    (g) Content of Budget Resolutions.--Section 301(a) of the 
+Congressional Budget Act of 1974 is amended by redesignating paragraphs 
+(6) and (7) as paragraphs (7) and (8), respectively, and by inserting 
+after paragraph (5) the following new paragraph:
+            ``(6) totals of new budget authority and outlays for 
+        emergencies;''.
+    (h) Waiver and Appeal in the Senate.--Section 904 of the 
+Congressional Budget Act of 1974 is amended--
+            (1) in subsection (c)(1), by inserting ``316,'' after 
+        ``313,''; and
+            (2) in subsection (d)(2), by inserting ``316,'' after 
+        ``313,''.
+    (i) Conforming Amendment.--The table of contents set forth in 
+section 1(b) of the Congressional Budget and Impoundment Control Act of 
+1974 is amended by inserting after the item relating to section 315 the 
+following new item:
+
+``Sec. 316. Emergencies.''.
+    (j) Application of Section 306 to Emergencies in Excess of Amounts 
+in Reserve Fund.--Section 306 of the Congressional Budget Act of 1974 
+is amended by inserting at the end the following new sentence: `No 
+amendment reported by the Committee on the Budget (or from the 
+consideration of which such committee has been discharged) pursuant to 
+section 316(c) may be amended.
+    (k) Up-to-Date Tabulations.--Section 308(b)(2) of the Congressional 
+Budget Act of 1974 is amended by striking ``and'' at the end of 
+subparagraph (B), by striking the period at the end of subparagraph (C) 
+and inserting ``; and'', and by adding at the end the following new 
+subparagraph:
+                    ``(D) shall include an up-to-date tabulation of 
+                amounts remaining in the reserve fund for 
+                emergencies.''.
+    (l) Point of Order.--Section 305 of the Congressional Budget Act of 
+1974 is amended by adding at the end the following new subsection:
+    ``(e) Point of Order Regarding Emergency Reserve Fund.--It shall 
+not be in order in the House of Representatives or in the Senate to 
+consider an amendment to a joint resolution on the budget which changes 
+the amount of budget authority and outlays set forth in section 
+301(a)(4) for emergency reserve fund.''.
+    (m) Technical Amendment.--(1) Section 904(c)(1) of the 
+Congressional Budget Act of 1974 is amended by inserting ``305(e),'' 
+after ``305(c)(4),''.
+    (2) Section 904(d)(2) of the Congressional Budget Act of 1974 is 
+amended by inserting ``305(e),'' after ``305(c)(4),''.
+
+SEC. 5. DISCLOSURE OF INTEREST COSTS.
+
+    Section 308(a)(1) of the Congressional Budget Act of 1974 (2 U.S.C. 
+639(a)(1)) is amended--
+            (1) in subparagraph (B), by striking ``and'' after the 
+        semicolon;
+            (2) in subparagraph (C), by striking the period and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(D) containing a projection by the Congressional 
+                Budget Office of the cost of the debt servicing that 
+                would be caused by such measure for such fiscal year 
+                (or fiscal years) and each of the four ensuing fiscal 
+                years.''.
+
+SEC. 6. CBO SCORING OF CONFERENCE REPORTS.
+
+    (a) The first sentence of section 402 of the Congressional Budget 
+Act of 1974 is amended as follows:
+            (1) Insert ``or conference report thereon,'' before ``and 
+        submit''.
+            (2) In paragraph (1), strike ``bill or resolution'' and 
+        insert ``bill, joint resolution, or conference report''.
+            (3) At the end of paragraph (2) strike ``and'', at the end 
+        of paragraph (3) strike the period and insert ``; and'', and 
+        after such paragraph (3) add the following new paragraph:
+            ``(4) A determination of whether such bill, joint 
+        resolution, or conference report provides direct spending.''.
+            (4) At the end, add the following new sentence: ``The 
+        Director shall also prepare such estimates for any bill or 
+        resolution of a public character that has not been reported by 
+        a committee before it may be considered in the House or 
+        Representatives or Senate.''
+    (b) The second sentence of section 402 of the Congressional Budget 
+Act of 1974 is amended by inserting before the period the following: 
+``, or in the case of a conference report, shall be included in the 
+joint explanatory statement of managers accompanying such conference 
+report if timely submitted before such report is filed''.
+
+SEC. 7. BUDGET COMPLIANCE STATEMENTS.
+
+    Clause 3(d) of rule XIII of the Rules of the House of 
+Representatives is amended by adding at the end the following new 
+subparagraph:
+            ``(4) A budget compliance statement prepared by the 
+        chairman of the Committee on the Budget, if timely submitted 
+        prior to the filing of the report, which shall include 
+        assessment by such chairman as to whether the bill or joint 
+        resolution complies with the requirements of sections 302, 303, 
+        306, 311, and 401 of the Congressional Budget Act of 1974 or 
+        any other requirements set forth in a concurrent resolution on 
+        the budget and may include the budgetary implications of that 
+        bill or joint resolution under section 251 or 252 of the 
+        Balanced Budget and Emergency Deficit Control Act of 1985, as 
+        applicable.''.
+
+SEC. 8. AUTOMATIC BUDGET ENFORCEMENT FOR MEASURES CONSIDERED ON THE 
+              FLOOR.
+
+    (a) In General.--Title III of the Congressional Budget Act of 1974 
+(as amended by section 2(f)) is further amended by adding at the end 
+the following new section:
+
+                    ``budget evasion points of order
+
+    ``Sec. 317. (a) Discretionary Spending Caps.--It shall not be in 
+order in the House of Representatives or the Senate to consider any 
+bill or resolution (or amendment, motion, or conference report on that 
+bill or resolution) that waives or suspends the enforcement of section 
+251 of the Balanced Budget and Emergency Deficit Control Act of 1985 or 
+otherwise would alter the spending limits set forth in that section.
+    ``(b) Pay-As-You-Go.--It shall not be in order in the House of 
+Representatives or the Senate to consider any bill or resolution (or 
+amendment, motion, or conference report on that bill or resolution) 
+that waives or suspends the enforcement of section 252 of the Balanced 
+Budget and Emergency Deficit Control Act of 1985 or otherwise would 
+alter the balances of the pay-as-you-go scorecard pursuant to that 
+section.
+    ``(c) Directed Scoring.--It shall not be in order in the House of 
+Representatives or the Senate to consider any bill or resolution (or 
+amendment, motion, or conference report on that bill or resolution) 
+that directs the scorekeeping of any bill or resolution.
+    ``(d) Far-Outyears.--It shall not be in order in the House of 
+Representatives or the Senate to consider any bill or resolution (or 
+amendment, motion, or conference report on that bill or resolution) 
+that contains a provision providing new budget authority or which 
+reduces revenues which first takes effect after the first five fiscal 
+years covered in the most recently adopted concurrent resolution on the 
+budget and would have the effect of reducing the surplus or increasing 
+the deficit in any fiscal year.
+    ``(e)  Enforcement in the House of Representatives.--(1) It shall 
+not be in order in the House of Representatives to consider a rule or 
+order that waives the application of this section.
+    ``(2)(A) This subsection shall apply only to the House of 
+Representatives.
+    ``(B) In order to be cognizable by the Chair, a point of order 
+under this section must specify the precise language on which it is 
+premised.
+    ``(C) As disposition of points of order under this section, the 
+Chair shall put the question of consideration with respect to the 
+proposition that is the subject of the points of order.
+    ``(D) A question of consideration under this section shall be 
+debatable for 10 minutes by each Member initiating a point of order and 
+for 10 minutes by an opponent on each point of order, but shall 
+otherwise be decided without intervening motion except one that the 
+House adjourn or that the Committee of the Whole rise, as the case may 
+be.
+    ``(E) The disposition of the question of consideration under this 
+subsection with respect to a bill or joint resolution shall be 
+considered also to determine the question of consideration under this 
+subsection with respect to an amendment made in order as original 
+text.''.
+    (b) Waiver and Appeal in the Senate.--Section 904 of the 
+Congressional Budget Act of 1974 is amended--
+            (1) in subsection (c)(1), by inserting ``317,'' after 
+        ``316,''; and
+            (2) in subsection (d)(2), by inserting ``317,'' after 
+        ``316,''.
+    (c) Table of Contents.--The table of contents for the Congressional 
+Budget Act of 1974 is amended by inserting after the item for section 
+316 the following:
+
+``Sec. 317. Budget evasion points of order.''.
+
+SEC. 9. APPLICATION OF BUDGET ACT POINTS OF ORDER TO UNREPORTED 
+              LEGISLATION.
+
+    (a) Section 315 of the Congressional Budget Act of 1974 is amended 
+by striking ``reported'' the first place it appears.
+    (b) Section 303(b) of the Congressional Budget Act of 1974 is 
+amended--
+            (1) in paragraph (1), by striking ``(A)'' and by 
+        redesignating subparagraph (B) as paragraph (2) and by striking 
+        the semicolon at the end of such new paragraph (2) and 
+        inserting a period; and
+            (2) by striking paragraph (3).
+
+SEC. 10. REQUIREMENTS FOR BUDGET ACT WAIVERS IN THE HOUSE OF 
+              REPRESENTATIVES.
+
+    (a) Justification for Budget Act Waivers.--Clause 6 of rule XIII of 
+the Rules of the House of Representatives is amended by adding at the 
+end the following new paragraph:
+    ``(h) It shall not be in order to consider any resolution from the 
+Committee on Rules for the consideration of any reported bill or joint 
+resolution which waives section 302, 303, 311, or 401 of the 
+Congressional Budget Act of 1974, unless the report accompanying such 
+resolution includes a description of the provision proposed to be 
+waived, an identification of the section being waived, the reasons why 
+such waiver should be granted, and an estimated cost of the provisions 
+to which the waiver applies.''.
+    (b) Separate Vote to Waive Major Budget Act Point of Order.--
+Section 312 of the Congressional Budget Act of 1974 is amended by 
+adding at the end the following new subsection
+    ``(g)(1) It shall not be in order in the House of Representatives 
+to consider a rule or order that waives the application of a major 
+budget act point of order as defined in paragraph (2).
+    ``(2) For the purposes of this subsection, the term `major budget 
+point of order' means any point of order arising under any section 
+listed in section 904.
+    ``(3)(A) In order to be cognizable by the Chair, a point of order 
+under the sections referenced in paragraph (2) must specify the precise 
+language on which it is premised.
+    ``(B) As disposition of points of order under the sections 
+referenced in paragraph (2), the Chair shall put the question of 
+consideration with respect to the proposition that is the subject of 
+the points of order
+    ``(C) A question of consideration under the sections referenced in 
+paragraph (2) shall be debatable for 10 minutes by each Member 
+initiating a point of order and for 10 minutes by an opponent on each 
+point of order, but shall otherwise be decided without intervening 
+motion except one that the House adjourn or that the Committee of the 
+Whole rise, as the case may be.
+    ``(D) The disposition of the question of consideration under this 
+subsection with respect to a bill or joint resolution shall be 
+considered also to determine the question of consideration under this 
+subsection with respect to an amendment made in order as original 
+text.''.
+                                 <all>

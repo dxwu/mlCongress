@@ -63,18 +63,10 @@ if plot_errors == true
         errorbar(err_bars{i}{1},err_bars{i}{2},err_bars{i}{3},err_bars{i}{4});
     end
 end
-% set of \tau parameters 
 
-% close curent opening figures
-
-
-
-% plotting test errors versus different tau parameters
-%plot(x, y, '-*r');
 ylabel('Cross Validation Error');
 title('Cross Validation Error for Each Split Size');
 xlabel('Number of features considered at each split');
-%axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
 grid on;
 
 if plot_errors == true
@@ -131,22 +123,15 @@ if prev_i < length(hp_1)
 end
 legend(legend_labels,'FontSize',12,'FontWeight','bold');
 if plot_errors == true
-    disp('hi');
     for i = 1:length(err_bars)
         errorbar(err_bars{i}{1},err_bars{i}{2},err_bars{i}{3},err_bars{i}{4});
     end
 end
-% set of \tau parameters 
 
-% close curent opening figures
-%close all;
-
-% plotting test errors versus different tau parameters
-%plot(x, y, '-*r');
 ylabel('Cross Validation Error');
 title('Cross Validation Error for Each Depth');
 xlabel('Depth of Tree');
-%axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
+
 grid on;
 
 if plot_errors == true
@@ -196,12 +181,11 @@ if prev_i < length(hp_1)
     
     hold on;
 end
-% plotting test errors versus different tau parameters
-%plot(x, y, '-*r');
+
 ylabel('Cross Validation Error');
 title('Cross Validation Error per Number of Topics');
 xlabel('Number of Topics');
-%axis([min(x)-1 max(x)+1 min(y)-0.01 max(y)+0.01]);
+
 grid on;
 
 saveas(gcf, 'cv_K.fig');
@@ -209,6 +193,7 @@ close all;
 
 [values, order] = sort(cv(:,3));
 m = cv(order,:);
+disp('Lowest Classification Errors:');
 disp([m(1:4,4), m(1:4,1), m(1:4,2), m(1:4,3)]);
 
 

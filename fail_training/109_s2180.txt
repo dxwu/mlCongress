@@ -1,0 +1,805 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 2180 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+109th CONGRESS
+  2d Session
+                                S. 2180
+
+ To provide more rigorous requirements with respect to disclosure and 
+enforcement of ethics and lobbying laws and regulations, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            January 20, 2006
+
+   Mr. Reid (for himself, Mr. Durbin, Ms. Stabenow, Mr. Schumer, Mr. 
+ Akaka, Mr. Baucus, Mr. Bayh, Mr. Biden, Mr. Bingaman, Mrs. Boxer, Mr. 
+Carper, Mrs. Clinton, Mr. Conrad, Mr. Dayton, Mr. Dorgan, Mr. Feingold, 
+    Mr. Harkin, Mr. Johnson, Mr. Kennedy, Mr. Kerry, Mr. Kohl, Mr. 
+  Lautenberg, Mr. Leahy, Mr. Levin, Mr. Lieberman, Mrs. Lincoln, Mr. 
+     Menendez, Ms. Mikulski, Mrs. Murray, Mr. Obama, Mr. Reed, Mr. 
+  Rockefeller, Mr. Salazar, Mr. Wyden, and Mr. Inouye) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+               Homeland Security and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide more rigorous requirements with respect to disclosure and 
+enforcement of ethics and lobbying laws and regulations, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Honest Leadership 
+and Open Government Act of 2006''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title and table of contents.
+                  TITLE I--CLOSING THE REVOLVING DOOR
+
+Sec. 101. Extension of lobbying ban for former Members and employees of 
+                            Congress and executive branch officials.
+Sec. 102. Elimination of floor privileges for former Member lobbyists.
+Sec. 103. Disclosure by Members of Congress and senior congressional 
+                            staff of employment negotiations.
+Sec. 104. Ethics review of employment negotiations by executive branch 
+                            officials.
+Sec. 105. Wrongfully influencing a private entity's employment 
+                            decisions or practices.
+              TITLE II--FULL PUBLIC DISCLOSURE OF LOBBYING
+
+Sec. 201. Quarterly filing of lobbying disclosure reports.
+Sec. 202. Electronic filing of lobbying disclosure reports.
+Sec. 203. Additional lobbying disclosure requirements.
+Sec. 204. Disclosure of paid efforts to stimulate grassroots lobbying.
+Sec. 205. Disclosure of lobbying activities by certain coalitions and 
+                            associations.
+Sec. 206. Disclosure by registered lobbyists of past executive and 
+                            congressional employment.
+Sec. 207. Creation of a comprehensive public database of lobbying 
+                            disclosure information.
+Sec. 208. Conforming amendment.
+         TITLE III--RESTRICTING CONGRESSIONAL TRAVEL AND GIFTS
+
+Sec. 301. Ban on gifts from lobbyists.
+Sec. 302. Prohibition on privately funded travel.
+Sec. 303. Prohibiting lobbyist organization and participation in 
+                            congressional travel.
+Sec. 304. Disclosure of noncommercial air travel.
+Sec. 305. Per diem expenses for congressional travel.
+             TITLE IV--ENFORCEMENT OF LOBBYING RESTRICTIONS
+
+Sec. 401. Senate Office of Public Integrity.
+Sec. 402. Increased civil and criminal penalties for failure to comply 
+                            with lobbying disclosure requirements.
+Sec. 403. Penalty for false certification in connection with 
+                            congressional travel.
+Sec. 404. Mandatory annual ethics training for congressional employees.
+                        TITLE V--OPEN GOVERNMENT
+
+Sec. 501. Sense of the Senate on conference committee protocols.
+Sec. 502. Actual voting required in conference committee meetings.
+Sec. 503. Availability of conference reports on the internet.
+
+                  TITLE I--CLOSING THE REVOLVING DOOR
+
+SEC. 101. EXTENSION OF LOBBYING BAN FOR FORMER MEMBERS AND EMPLOYEES OF 
+              CONGRESS AND EXECUTIVE BRANCH OFFICIALS.
+
+    Section 207 of title 18, United States Code, is amended--
+            (1) in subsection (c)--
+                    (A) in the subsection heading, by striking ``One-
+                year'' and inserting ``Two-year'';
+                    (B) in paragraph (1), by striking ``1 year'' and 
+                inserting ``2 years'' in both places it appears; and
+                    (C) in paragraph (2)(B), by striking ``1-year 
+                period'' and inserting ``2-year period;''
+            (2) in subsection (d)--
+                    (A) in paragraph (1), by striking ``1 year'' and 
+                inserting ``2 years''; and
+                    (B) in paragraph (2)(A), by striking ``1 year'' and 
+                inserting ``2 years''; and
+            (3) in subsection (e)--
+                    (A) in paragraph (1)(A), by striking ``1 year'' and 
+                inserting ``2 years'';
+                    (B) in paragraph (2)(A), by striking ``1 year'' and 
+                inserting ``2 years'';
+                    (C) in paragraph (3), by striking ``1 year'' and 
+                inserting ``2 years'';
+                    (D) in paragraph (4), by striking ``1 year'' and 
+                inserting ``2 years'';
+                    (E) in paragraph (5)(A), by striking ``1 year'' and 
+                inserting ``2 years''; and
+                    (F) in paragraph (6), by striking ``1-year period'' 
+                and inserting ``2-year period''.
+
+SEC. 102. ELIMINATION OF FLOOR PRIVILEGES FOR FORMER MEMBER LOBBYISTS.
+
+    Rule XXIII of the Standing Rules of the Senate is amended by 
+inserting after ``Ex-Senators and Senators elect'' the following: ``, 
+except for any ex-Senator or Senator elect who is a registered 
+lobbyist''.
+
+SEC. 103. DISCLOSURE BY MEMBERS OF CONGRESS AND SENIOR CONGRESSIONAL 
+              STAFF OF EMPLOYMENT NEGOTIATIONS.
+
+    (a) Senate.--Rule XXXVII of the Standing Rules of the Senate is 
+amended by adding at the end the following:
+    ``13. (a) A Member of the Senate or an employee of the Senate 
+earning in excess of 75 percent of the salary paid to a Senator shall 
+notify the Committee on Ethics that he or she is negotiating or has any 
+arrangement concerning prospective private employment if a conflict of 
+interest or the appearance of a conflict of interest may exist.
+    ``(b) The disclosure and notification under subparagraph (a) shall 
+be made within 3 business days after the commencement of such 
+negotiation or arrangement.
+    ``(c) A Member or employee to whom this rule applies shall recuse 
+himself or herself from any matter in which there is a conflict of 
+interest for that Member or employee under this rule and notify the 
+Select Committee on Ethics of such recusal.
+    ``(d)(1) The Select Committee on Ethics shall develop guidelines 
+concerning conduct which is covered by this paragraph.
+    ``(2) The Select Committee on Ethics shall maintain a current 
+public record of all notifications received under subparagraph (a) and 
+of all recusals under subparagraph (c).''.
+
+SEC. 104. ETHICS REVIEW OF EMPLOYMENT NEGOTIATIONS BY EXECUTIVE BRANCH 
+              OFFICIALS.
+
+    Section 208 of title 18, United States Code, is amended--
+            (1) in subsection (b)(1)--
+                    (A) by inserting after ``the Government official 
+                responsible for appointment to his or her position'' 
+                the following: ``and the Office of Government Ethics''; 
+                and
+                    (B) by striking ``a written determination made by 
+                such official'' and inserting ``a written determination 
+                made by the Office of Government Ethics, after 
+                consultation with such official,''; and
+            (2) in subsection (b)(3), by striking ``the official 
+        responsible for the employee's appointment, after review of'' 
+        and inserting ``the Office of Government Ethics, after 
+        consultation with the official responsible for the employee's 
+        appointment and after review of''; and
+            (3) in subsection (d)(1)--
+                    (A) by striking ``Upon request'' and all that 
+                follows through ``Ethics in Government Act of 1978.'' 
+                and inserting ``In each case in which the Office of 
+                Government Ethics makes a determination granting an 
+                exemption under subsection (b)(1) or (b)(3) to a 
+                person, the Office shall, not later than 3 business 
+                days after making such determination, make available to 
+                the public pursuant to the procedures set forth in 
+                section 105 of the Ethics in Government Act of 1978, 
+                and publish in the Federal Register, such determination 
+                and the materials submitted by such person in 
+                requesting such exemption.''; and
+                    (B) by striking ``the agency may withhold'' and 
+                inserting ``the Office of Government Ethics may 
+                withhold''.
+
+SEC. 105. WRONGFULLY INFLUENCING A PRIVATE ENTITY'S EMPLOYMENT 
+              DECISIONS OR PRACTICES.
+
+    (a) In General.--Chapter 11 of title 18, United States Code, is 
+amended by adding at the end the following:
+``Sec. 226. Wrongfully influencing a private entity's employment 
+              decisions by a Member of Congress
+    ``Whoever, being a Senator or Representative in, or a Delegate or 
+Resident Commissioner to, the Congress or an employee of either House 
+of Congress, with the intent to influence on the basis of partisan 
+political affiliation an employment decision or employment practice of 
+any private entity--
+            ``(1) takes or withholds, or offers or threatens to take or 
+        withhold, an official act; or
+            ``(2) influences, or offers or threatens to influence, the 
+        official act of another;
+shall be fined under this title or imprisoned for not more than 15 
+years, or both, and may be disqualified from holding any office of 
+honor, trust, or profit under the United States.''.
+    (b) No Inference.--Nothing in section 226 of title 18, United 
+States Code, as added by this section, shall be construed to create any 
+inference with respect to whether the activity described in section 226 
+of title 18, United States Code, was already a criminal or civil 
+offense prior to the enactment of this Act, including sections 201(b), 
+201(c), and 216 of title 18, United States Code.
+    (c) Chapter Analysis.--The chapter analysis for chapter 11 of title 
+18, United States Code, is amended by adding at the end the following:
+
+``226. Wrongfully influencing a private entity's employment decisions 
+                            by a Member of Congress.''.
+    (d) Senate Rules.--Rule XLIII of the Standing Rules of the Senate 
+is amended by adding at the end the following:
+    ``6. No Member shall, with the intent to influence on the basis of 
+partisan political affiliation an employment decision or employment 
+practice of any private entity--
+            ``(1) take or withhold, or offer or threaten to take or 
+        withhold, an official act; or
+            ``(2) influence, or offer or threaten to influence, the 
+        official act of another.''.
+
+              TITLE II--FULL PUBLIC DISCLOSURE OF LOBBYING
+
+SEC. 201. QUARTERLY FILING OF LOBBYING DISCLOSURE REPORTS.
+
+    (a) Quarterly Filing Required.--Section 5 of the Lobbying 
+Disclosure Act of 1995 (2 U.S.C. 1604) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``Semiannual'' and inserting 
+                ``Quarterly'';
+                    (B) by striking ``the semiannual period'' and all 
+                that follows through ``July of each year'' and insert 
+                ``the quarterly period beginning on the first days of 
+                January, April, July, and October of each year''; and
+                    (C) by striking ``such semiannual period'' and 
+                insert ``such quarterly period''; and
+            (2) in subsection (b)--
+                    (A) in the matter preceding paragraph (1), by 
+                striking ``semiannual report'' and inserting 
+                ``quarterly report'';
+                    (B) in paragraph (2), by striking ``semiannual 
+                filing period'' and inserting ``quarterly period'';
+                    (C) in paragraph (3), by striking ``semiannual 
+                period'' and inserting ``quarterly period''; and
+                    (D) in paragraph (4), by striking ``semiannual 
+                filing period'' and inserting ``quarterly period''.
+    (b) Conforming Amendments.--
+            (1) Definition.--Section 3(10) of the Lobbying Disclosure 
+        Act of 1995 (2 U.S.C. 1602) is amended by striking ``six month 
+        period'' and inserting ``three-month period''.
+            (2) Registration.--Section 4 of the Lobbying Disclosure Act 
+        of 1995 (2 U.S.C. 1603) is amended--
+                    (A) in subsection (a)(3)(A), by striking 
+                ``semiannual period'' and inserting ``quarterly 
+                period''; and
+                    (B) in subsection (b)(3)(A), by striking 
+                ``semiannual period'' and inserting ``quarterly 
+                period''.
+            (3) Enforcement.--Section 6 of the Lobbying Disclosure Act 
+        of 1995 (2 U.S.C. 1605) is amended in paragraph (6) by striking 
+        ``semiannual period'' and inserting ``quarterly period''.
+            (4) Estimates.--Section 15 of the Lobbying Disclosure Act 
+        of 1995 (2 U.S.C. 1610) is amended--
+                    (A) in subsection (a)(1), by striking ``semiannual 
+                period'' and inserting ``quarterly period''; and
+                    (B) in subsection (b)(1), by striking ``semiannual 
+                period'' and inserting ``quarterly period''.
+            (5) Dollar amounts.--
+                    (A) Section 4 of the Lobbying Disclosure Act of 
+                1995 (2 U.S.C. 1603) is amended--
+                            (i) in subsection (a)(3)(A)(i), by striking 
+                        ``$5,000'' and inserting ``$2,500'';
+                            (ii) in subsection (a)(3)(A)(ii), by 
+                        striking ``$20,000'' and inserting ``$10,000'';
+                            (iii) in subsection (b)(3)(A), by striking 
+                        ``$10,000'' and inserting ``$5,000''; and
+                            (iv) in subsection (b)(4), by striking 
+                        ``$10,000'' and inserting ``$5,000''.
+                    (B) Section 5 of the Lobbying Disclosure Act of 
+                1995 (2 U.S.C. 1604) is amended--
+                            (i) in subsection (c)(1), by striking 
+                        ``$10,000'' and ``$20,000'' and inserting 
+                        ``$5,000'' and ``$10,000'', respectively; and
+                            (ii) in subsection (c)(2), by striking 
+                        ``$10,000'' both places such term appears and 
+                        inserting ``$5,000''.
+
+SEC. 202. ELECTRONIC FILING OF LOBBYING DISCLOSURE REPORTS.
+
+    Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is 
+amended by adding at the end the following:
+    ``(d) Electronic Filing Required.--A report required to be filed 
+under this section shall be filed in electronic form, in addition to 
+any other form that may be required by the Secretary of the Senate or 
+the Clerk of the House of Representatives. The Secretary of the Senate 
+and the Clerk of the House of Representatives shall provide for public 
+access to such reports on the Internet.''.
+
+SEC. 203. ADDITIONAL LOBBYING DISCLOSURE REQUIREMENTS.
+
+    (a) Disclosure of Contributions and Payments.--Section 5(b) of the 
+Lobbying Disclosure Act of 1995 (2 U.S.C. 1604(b)) is amended--
+            (1) in paragraph (5), as added by section 204(c), by 
+        striking the period and inserting a semicolon; and
+            (2) by adding at the end the following:
+            ``(6) for each registrant (and for any political committee, 
+        as defined in section 301(4) of the Federal Election Campaign 
+        Act of 1971 (2 U.S.C. 431(4)), affiliated with such registrant) 
+        and for each employee listed as a lobbyist by a registrant 
+        under paragraph 2(C), the name of each Federal candidate or 
+        officeholder, leadership PAC, or political party committee, to 
+        whom a contribution was made, and the amount of such 
+        contribution; and
+            ``(7) a certification that the lobbying firm or registrant 
+        has not provided, requested, or directed a gift, including 
+        travel, to a Member or employee of Congress in violation of 
+        rule XXXV of the Standing Rules of the Senate.''.
+    (b) Leadership PAC.--Section 3 of the Lobbying Disclosure Act of 
+1995 (2 U.S.C. 1602) is amended by adding at the end the following:
+            ``(17) Leadership pac.--The term `leadership PAC' means an 
+        unauthorized multicandidate political committee that is 
+        established, financed, maintained, and controlled by an 
+        individual who is a Federal officeholder or a candidate for 
+        Federal office.''.
+    (c) Full and Detailed Accounting.--Section 5(c)(1) of the Lobbying 
+Disclosure Act of 1995 (2 U.S.C. 1604(c)(1)) is amended by striking 
+``shall be rounded to the nearest $20,000'' and inserting ``shall be 
+rounded to the nearest $1,000''.
+
+SEC. 204. DISCLOSURE OF PAID EFFORTS TO STIMULATE GRASSROOTS LOBBYING.
+
+    (a) Disclosure of Paid Efforts to Stimulate Grassroots Lobbying.--
+Section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602) is 
+amended--
+            (1) in paragraph (7), by adding at the end the following: 
+        ``Lobbying activities include paid efforts to stimulate 
+        grassroots lobbying, but do not include grassroots lobbying.''; 
+        and
+            (2) by adding at the end the following:
+            ``(18) Grassroots lobbying.--The term `grassroots lobbying' 
+        means the voluntary efforts of members of the general public to 
+        communicate their own views on an issue to Federal officials or 
+        to encourage other members of the general public to do the 
+        same.
+            ``(19) Paid efforts to stimulate grassroots lobbying.--The 
+        term `paid efforts to stimulate grassroots lobbying'--
+                    ``(A) means any paid attempt to influence the 
+                general public, or segments thereof, to engage in 
+                grassroots lobbying or lobbying contacts; and
+                    ``(B) does not include any attempt described in 
+                subparagraph (A) by a person or entity directed to its 
+                members, employees, officers or shareholders, unless 
+                such attempt is financed with funds directly or 
+                indirectly received from or arranged by a lobbyist or 
+                other registrant under this Act retained by another 
+                person or entity.
+            ``(20) Grassroots lobbying firm.--The term `grassroots 
+        lobbying firm' means a person or entity that--
+                    ``(A) is retained by 1 or more clients to engage in 
+                paid efforts to stimulate grassroots lobbying on behalf 
+                of such clients; and
+                    ``(B) receives income of, or spends or agrees to 
+                spend, an aggregate of $50,000 or more for such efforts 
+                in any quarterly period.''.
+    (b) Registration.--Section 4(a) of the Act (2 U.S.C. 1603(a)) is 
+amended--
+            (1) in paragraph (1), by striking ``45'' and inserting 
+        ``20'';
+            (2) in the flush matter at the end of paragraph (3)(A)--
+                    (A) by striking ``as estimated'' and inserting ``as 
+                included''; and
+                    (B) by adding at the end the following: ``For 
+                purposes of clauses (i) and (ii) the term `lobbying 
+                activities' shall not include paid efforts to stimulate 
+                grassroots lobbying.'';
+            (3) by redesignating paragraph (3) as paragraph (4); and
+            (4) by inserting after paragraph (2) the following:
+            ``(3) Grassroots lobbying firms.--Not later than 20 days 
+        after a grassroots lobbying firm first is retained by a client 
+        to engage in paid efforts to stimulate grassroots lobbying, 
+        such grassroots lobbying firm shall register with the Secretary 
+        of the Senate and the Clerk of the House of Representatives.''.
+    (c) Separate Itemization of Paid Efforts to Stimulate Grassroots 
+Lobbying.--Section 5(b) of the Act (2 U.S.C. 1604(b)) is amended--
+            (1) in paragraph (3), by--
+                    (A) inserting after ``total amount of all income'' 
+                the following: ``(including a separate good faith 
+                estimate of the total amount relating specifically to 
+                paid efforts to stimulate grassroots lobbying and, 
+                within that amount, a good faith estimate of the total 
+                amount specifically relating to paid advertising)''; 
+                and
+                    (B) striking ``and'' after the semicolon;
+            (2) in paragraph (4), by--
+                    (A) inserting after ``total expenses'' the 
+                following: ``(including a good faith estimate of the 
+                total amount relating specifically to paid efforts to 
+                stimulate grassroots lobbying and, within that total 
+                amount, a good faith estimate of the total amount 
+                specifically relating to paid advertising)''; and
+                    (B) striking the period and inserting a semicolon;
+            (3) by adding at the end the following:
+            ``(5) in the case of a grassroots lobbying firm, for each 
+        client--
+                    ``(A) a good faith estimate of the total 
+                disbursements made for grassroots lobbying activities, 
+                and a subtotal for disbursements made for grassroots 
+                lobbying through paid advertising;
+                    ``(B) identification of each person or entity other 
+                than an employee who received a disbursement of funds 
+                for grassroots lobbying activities of $10,000 or more 
+                during the period and the total amount each person or 
+                entity received; and
+                    ``(C) if such disbursements are made through a 
+                person or entity who serves as an intermediary or 
+                conduit, identification of each such intermediary or 
+                conduit, identification of the person or entity who 
+                receives the funds, and the total amount each such 
+                person or entity received.''; and
+            (4) by adding at the end the following:
+``Subparagraphs (B) and (C) of paragraph (2) shall not apply with 
+respect to reports relating to paid efforts to stimulate grassroots 
+lobbying activities.''.
+    (d) Large Grassroots Expenditure.--Section 5(a) of the Act (2 
+U.S.C. 1604(a)) is amended--
+            (1) by striking ``No later'' and inserting:
+            ``(1) In general.--Except as provided in paragraph (2), not 
+        later''; and
+            (2) by adding at the end the following:
+            ``(2) Large grassroots expenditure.--A registrant that is a 
+        grassroots lobbying firm and that receives income of, or spends 
+        or agrees to spend, an aggregate amount of $250,000 or more on 
+        paid efforts to stimulate grassroots lobbying for a client, or 
+        for a group of clients for a joint effort, shall file--
+                    ``(A) a report under this section not later than 20 
+                days after receiving, spending, or agreeing to spend 
+                that amount; and
+                    ``(B) an additional report not later than 20 days 
+                after each time such registrant receives income of, or 
+                spends or agrees to spend, an aggregate amount of 
+                $250,000 or more on paid efforts to stimulate 
+                grassroots lobbying for a client, or for a group of 
+                clients for a joint effort.''.
+
+SEC. 205. DISCLOSURE OF LOBBYING ACTIVITIES BY CERTAIN COALITIONS AND 
+              ASSOCIATIONS.
+
+    (a) In General.--Section 4(b)(3)(B) of the Lobbying Disclosure Act 
+of 1995 (2 U.S.C. 1603(b)(3)(B)) is amended to read as follows:
+                    ``(B) participates in the planning, supervision or 
+                control of such lobbying activities;''.
+    (b) No Donor or Membership List Disclosure.--Section 4(b) of the 
+Lobbying Disclosure Act of 1995 (2 U.S.C. 1603(b)) is amended by adding 
+at the end the following:
+``No disclosure is required under paragraph (3)(B) if it is publicly 
+available knowledge that the organization that would be identified is 
+affiliated with the client or has been publicly disclosed to have 
+provided funding to the client, unless the organization in whole or in 
+major part plans, supervises or controls such lobbying activities. 
+Nothing in paragraph (3)(B) shall be construed to require the 
+disclosure of any information about individuals who are members of, or 
+donors to, an entity treated as a client by this Act or an organization 
+identified under that paragraph.''.
+
+SEC. 206. DISCLOSURE BY REGISTERED LOBBYISTS OF PAST EXECUTIVE AND 
+              CONGRESSIONAL EMPLOYMENT.
+
+    Section 4(b)(6) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 
+1603(b)(6)) is amended by striking ``or a covered legislative branch 
+official'' and all that follows through ``as a lobbyist on behalf of 
+the client,'' and inserting ``or a covered legislative branch 
+official,''.
+
+SEC. 207. CREATION OF A COMPREHENSIVE PUBLIC DATABASE OF LOBBYING 
+              DISCLOSURE INFORMATION.
+
+    (a) Database Required.--Section 6 of the Lobbying Disclosure Act of 
+1995 (2 U.S.C. 1605) is amended--
+            (1) in paragraph (7), by striking ``and'' at the end;
+            (2) in paragraph (8), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(9) maintain, and make available to the public over the 
+        Internet, without a fee or other access charge, in a searchable 
+        and downloadable manner, an electronic database that includes 
+        the information contained in registrations and reports filed 
+        under this Act.''.
+    (b) Availability of Reports.--Section 6(4) of the Lobbying 
+Disclosure Act of 1995 is amended by inserting before the semicolon at 
+the end the following: ``and, in the case of a report filed in 
+electronic form pursuant to section 5(d), shall make such report 
+available for public inspection over the Internet not more than 48 
+hours after the report is so filed''.
+    (c) Authorization of Appropriations.--There are authorized to be 
+appropriated such sums as may be necessary to carry out section 6(9) of 
+the Lobbying Disclosure Act of 1995, as added by subsection (a).
+
+SEC. 208. CONFORMING AMENDMENT.
+
+    The requirements of this Act shall not apply to the activities of 
+any political committee described in section 301(4) of the Federal 
+Election Campaign Act of 1971.
+
+         TITLE III--RESTRICTING CONGRESSIONAL TRAVEL AND GIFTS
+
+SEC. 301. BAN ON GIFTS FROM LOBBYISTS.
+
+    (a) In General.--Paragraph 1(a)(2) of rule XXXV of the Standing 
+Rules of the Senate is amended by adding at the end the following: 
+``This clause shall not apply to a gift from a lobbyist.''.
+    (b) Rules Committee Review.--The Committee on Rules and 
+Administration shall review the present exceptions to the Senate gift 
+rule and make recommendations to the Senate not later than 3 months 
+after the date of enactment of this Act on eliminating all but those 
+which are absolutely necessary to effectuate the purpose of the rule.
+
+SEC. 302. PROHIBITION ON PRIVATELY FUNDED TRAVEL.
+
+    Paragraph 2(a)(1) of rule XXXV of the Standing Rules of the Senate 
+is amended by striking ``an individual'' and inserting ``an 
+organization recognized under section 501(c)(3) of the Internal Revenue 
+Code of 1986 that is not affiliated with any group that lobbies before 
+Congress''.
+
+SEC. 303. PROHIBITING LOBBYIST ORGANIZATION AND PARTICIPATION IN 
+              CONGRESSIONAL TRAVEL.
+
+    (a) In General.--Paragraph 2 of rule XXXV of the Standing Rules of 
+the Senate is amended by adding at the end the following:
+    ``(g) A Member, officer, or employee may not accept transportation 
+or lodging on any trip sponsored by an organization recognized under 
+section 501(c)(3) of the Internal Revenue Code of 1986 covered by this 
+paragraph that is planned, organized, requested, arranged, or financed 
+in whole, or in part by a lobbyist or foreign agent, or in which a 
+lobbyist participates.
+    ``(h) Before a Member, officer, or employee may accept 
+transportation or lodging otherwise permissible under this paragraph 
+from any person, such Member, officer, or employee shall obtain a 
+written certification from such person (and provide a copy of such 
+certification to the Select Committee on Ethics) that--
+            ``(1) the trip was not planned, organized, requested, 
+        arranged, or financed in whole, or in part by a registered 
+        lobbyist or foreign agent and was not organized at the request 
+        of a registered lobbyist or foreign agent;
+            ``(2) registered lobbyists will not participate in or 
+        attend the trip; and
+            ``(3) the person did not accept, from any source, funds 
+        specifically earmarked for the purpose of financing the travel 
+        expenses.
+The Select Committee on Ethics shall make public information received 
+under this subparagraph as soon as possible after it is received.''.
+    (b) Conforming Amendments.--Paragraph 2(c) of rule XXXV of the 
+Standing Rules of the Senate is amended--
+            (1) by striking ``of expenses reimbursed or to be 
+        reimbursed'';
+            (2) in clause (5), by striking ``and'' after the semicolon;
+            (3) in clause (6), by striking the period and inserting ``; 
+        and''; and
+            (4) by adding at the end the following:
+            ``(7) a description of meetings and events attended during 
+        such travel, except when disclosure of such information is 
+        deemed by the Member or supervisor under whose direct 
+        supervision the employee works to jeopardize the safety of an 
+        individual or otherwise interfere with the official duties of 
+        the Member, officer, or employee.''.
+    (c) Public Availability.--Paragraph 2(e) of rule XXXV is amended to 
+read as follows:
+    ``(e) The Secretary of the Senate shall make available to the 
+public all advance authorizations, certifications, and disclosures 
+filed pursuant to subparagraphs (a) and (h) as soon as possible after 
+they are received.''.
+
+SEC. 304. DISCLOSURE OF NONCOMMERCIAL AIR TRAVEL.
+
+    A Member, officer, or employee of the Senate shall--
+            (1) disclose a flight on an aircraft that is not licensed 
+        by the Federal Aviation Administration to operate for 
+        compensation or hire, taken in connection with the duties of 
+        the Member, officer, or employee as an officeholder or Senate 
+        officer or employee; and
+            (2) with respect to the flight, file a report with the 
+        Secretary of the Senate, including the date, destination, and 
+        owner or lessee of the aircraft and the purpose of the trip.
+
+SEC. 305. PER DIEM EXPENSES FOR CONGRESSIONAL TRAVEL.
+
+    (a) Senate.--Rule XXXV of the Standing Rules of the Senate is 
+amended by adding at the end the following:
+    ``7. Not later than 90 days after the date of adoption of this 
+paragraph and at annual intervals thereafter, the Committee on Rules 
+and Administration shall develop and revise, as necessary, guidelines 
+on what constitutes `reasonable expenses' or `reasonable expenditures' 
+for purposes of this rule. In developing and revising the guidelines, 
+the committee shall take into account the maximum per diem rates for 
+official Government travel published annually by the General Services 
+Administration, the Department of State, and the Department of 
+Defense.''.
+
+             TITLE IV--ENFORCEMENT OF LOBBYING RESTRICTIONS
+
+SEC. 401. SENATE OFFICE OF PUBLIC INTEGRITY.
+
+    (a) Establishment.--There is established in the Senate an office to 
+be known as the ``Senate Office of Public Integrity'' (referred to in 
+this section as the ``Office''), which shall be headed by a Senate 
+Director of Public Integrity (hereinafter referred to as the 
+``Director'').
+    (b) Office.--The Office shall receive lobbyists' disclosures on 
+behalf of the Senate under the Lobbying Disclosure Act of 1995 and 
+conduct such audits and investigations as are necessary to ensure 
+compliance with the Act.
+    (c) Referral Authority.--The Office shall have authority to refer 
+violations of the Lobbying Disclosure Act of 1995 to the Select 
+Committee on Ethics and the Department of Justice for disciplinary 
+action.
+    (d) Director.--
+            (1) In general.--The Director shall be appointed by the 
+        President pro tempore of the Senate from among recommendations 
+        submitted by the majority and minority leaders of the Senate. 
+        Any appointment made under this subsection shall be made 
+        without regard to political affiliation and solely on the basis 
+        of fitness to perform the duties of the position. Any person 
+        appointed as Director shall be learned in the law, a member of 
+        the bar of a State or the District of Columbia, and shall not 
+        engage in any other business, vocation, or employment during 
+        the term of such appointment.
+            (2) Oversight.--The Director shall report to a joint 
+        leadership group consisting of the President pro tempore, the 
+        Majority Leader, and the Minority Leader.
+            (3) Terms of service.--Any appointment made under paragraph 
+        (1) shall become effective upon approval by resolution of the 
+        Senate. The Director shall be appointed for a term of service 
+        which shall expire at the end of the Congress following the 
+        Congress during which the Director is appointed except that the 
+        Senate may, by resolution, remove Director prior to the 
+        termination of any term of service. The Director may be 
+        reappointed at the termination of any term of service.
+            (4) Compensation.--The Director shall receive compensation 
+        at a rate equal to the annual rate of basic pay for level III 
+        of the Executive Schedule under section 5314 of title 5, United 
+        States Code .
+            (5) Staff.--The Director shall hire such additional staff 
+        as are required to carry out this section, including 
+        investigators and accountants.
+    (e) Audits and Investigations.--
+            (1) In general.--The Office shall audit lobbying 
+        registrations and reports filed pursuant to the Lobbying 
+        Disclosure Act of 1995 to determine the extent of compliance or 
+        non-compliance with the requirements of such Act by lobbyists 
+        and their clients.
+            (2) Evidence of non-compliance.--If in the course an audit 
+        conducted pursuant to the requirements of paragraph (1), the 
+        Office obtains information indicating that a person or entity 
+        may be in non-compliance with the requirements of the Lobbying 
+        Disclosure Act of 1995, the Office shall refer the matter to 
+        the Select Committee on Ethics or the United States Attorney 
+        for the District of Columbia, as appropriate
+    (f) Transfer of Records.--On the date that is 90 days after the 
+date of enactment of this Act, the Office of Public Records of the 
+Senate shall transfer all authority and records of that office to the 
+Senate Office of Public Integrity.
+    (g) Conforming Amendments.--
+            (1) New office.--Section 6 of the Lobbying Disclosure Act 
+        of 1995 (2 U.S.C. 1605) is amended by striking ``Secretary of 
+        the Senate'' and inserting ``Senate Office of Public 
+        Integrity''.
+            (2) Audit authority.--Section 8 of the Lobbying Disclosure 
+        Act of 1995 (2 U.S.C. 1607) is amended by striking subsection 
+        (c).
+    (h) Authorization of Appropriations.--There are authorized to be 
+appropriated in a separate account such sums as are necessary to carry 
+out this section.
+
+SEC. 402. INCREASED CIVIL AND CRIMINAL PENALTIES FOR FAILURE TO COMPLY 
+              WITH LOBBYING DISCLOSURE REQUIREMENTS.
+
+    Section 7 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1606) is 
+amended--
+            (1) by inserting `` (a) Civil Penalty.--'' before 
+        ``Whoever'';
+            (2) by striking ``$50,000'' and inserting ``$100,000''; and
+            (3) by adding at the end the following:
+    ``(b) Criminal Penalty.--
+            ``(1) In general.--Whoever knowingly and wilfully fails to 
+        comply with any provision of this section shall be imprisoned 
+        for not more than 5 years, or fined under title 18, United 
+        States Code, or both.
+            ``(2) Corruptly.--Whoever knowingly, wilfully, and 
+        corruptly fails to comply with any provision of this section 
+        shall be imprisoned for not more than 10 years, or fined under 
+        title 18, United States Code, or both.''.
+
+SEC. 403. PENALTY FOR FALSE CERTIFICATION IN CONNECTION WITH 
+              CONGRESSIONAL TRAVEL.
+
+    (a) Civil Fine.--
+            (1) In general.--Whoever makes a false certification in 
+        connection with the travel of a Member, officer, or employee of 
+        either House of Congress (within the meaning given those terms 
+        in section 207 of title 18, United States Code), under 
+        paragraph 2(h) of rule XXXV of the Standing Rules of the 
+        Senate, shall, upon proof of such offense by a preponderance of 
+        the evidence, be subject to a civil fine depending on the 
+        extent and gravity of the violation.
+            (2) Maximum fine.--The maximum fine per offense under this 
+        section depends on the number of separate trips in connection 
+        with which the person committed an offense under this 
+        subsection, as follows:
+                    (A) First trip.--For each offense committed in 
+                connection with the first such trip, the amount of the 
+                fine shall be not more than $100,000 per offense.
+                    (B) Second trip.--For each offense committed in 
+                connection with the second such trip, the amount of the 
+                fine shall be not more than $300,000 per offense.
+                    (C) Any other trips.--For each offense committed in 
+                connection with any such trip after the second, the 
+                amount of the fine shall be not more than $500,000 per 
+                offense.
+            (3) Enforcement.--The Attorney General may bring an action 
+        in United States district court to enforce this subsection.
+    (b) Criminal Penalty.--
+            (1) In general.--Whoever knowingly and wilfully fails to 
+        comply with any provision of this section shall be imprisoned 
+        for not more than 5 years, or fined under title 18, United 
+        States Code, or both.
+            (2) Corruptly.--Whoever knowingly, wilfully, and corruptly 
+        fails to comply with any provision of this section shall be 
+        imprisoned for not more than 10 years, or fined under title 18, 
+        United States Code, or both.
+
+SEC. 404. MANDATORY ANNUAL ETHICS TRAINING FOR CONGRESSIONAL EMPLOYEES.
+
+    (a) Ethics Training.--
+            (1) In general.--The Committee on Ethics shall provide 
+        annual ethics training to each employee of the Senate which 
+        shall include knowledge of the Official Code of Conduct and 
+        related Senate rules.
+            (2) Secretary of the senate.--The Secretary of the Senate 
+        shall assist the Committee on Ethics in providing training 
+        required by this subsection.
+            (3) New employees.--A new employee of the Senate shall 
+        receive training under this section not later than 60 days 
+        after beginning service to the Senate.
+    (b) Certification.--Not later than January 31 of each year, each 
+employee of the Senate shall file a certification with the Committee on 
+Ethics that the employee attended ethics training in the last year as 
+established by this section.
+
+                        TITLE V--OPEN GOVERNMENT
+
+SEC. 501. SENSE OF THE SENATE ON CONFERENCE COMMITTEE PROTOCOLS.
+
+    It is the sense of Senate that--
+            (1) conference committees should hold regular, formal 
+        meetings of all conferees that are open to the public;
+            (2) all conferees should be given adequate notice of the 
+        time and place of all such meetings;
+            (3) all conferees should be afforded an opportunity to 
+        participate in full and complete debates of the matters that 
+        such conference committees may recommend to their respective 
+        Houses;
+            (4) all matters before a conference committee should be 
+        resolved in conference by votes on the public record; and
+            (5) existing rules should be enforced and new rules adopted 
+        in the Senate to shine the light on special interest 
+        legislation that is enacted in the dead of night.
+
+SEC. 502. ACTUAL VOTING REQUIRED IN CONFERENCE COMMITTEE MEETINGS.
+
+    Rule XXVIII of the Standing Rules of the Senate is amended by 
+adding at the end the following:
+    ``8. Each Senate member of a conference committee shall be afforded 
+an opportunity at an open meeting of the conference to vote on the full 
+text of the proposed report of the conference.''.
+
+SEC. 503. AVAILABILITY OF CONFERENCE REPORTS ON THE INTERNET.
+
+    Rule XXVIII of all the Standing Rules of the Senate is amended by 
+adding at the end the following:
+    ``9. It shall not be in order in the Senate to consider a 
+conference report unless such report is available to all Members and 
+made available to the general public by means of the Internet for at 
+least 24 hours before its consideration.''.
+                                 <all>

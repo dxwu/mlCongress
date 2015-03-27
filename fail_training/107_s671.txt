@@ -1,0 +1,223 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 671 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                 S. 671
+
+ To provide for public library construction and technology enhancement.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               April 2 (legislative day, March 30), 2001
+
+  Mr. Schumer introduced the following bill; which was read twice and 
+  referred to the Committee on Health, Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide for public library construction and technology enhancement.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Andrew Carnegie Libraries for 
+Lifelong Learning Act''.
+
+SEC. 2. PUBLIC LIBRARY CONSTRUCTION AND TECHNOLOGY ENHANCEMENT.
+
+    The Library Services and Technology Act (20 U.S.C. 9121 et seq.) is 
+amended--
+            (1) by redesignating chapter 3 as chapter 4; and
+            (2) by inserting after chapter 2 the following:
+
+  ``CHAPTER 3--PUBLIC LIBRARY CONSTRUCTION AND TECHNOLOGY ENHANCEMENT
+
+``SEC. 241. GRANTS TO STATES FOR PUBLIC LIBRARY CONSTRUCTION AND 
+              TECHNOLOGY ENHANCEMENT.
+
+    ``(a) In General.--From amounts appropriated under section 244, the 
+Director shall carry out a program of awarding grants to States, that 
+have an amendment to a State plan or a State plan approved under 
+section 243, for the construction or technology enhancement of public 
+libraries.
+    ``(b) Definitions.--In this chapter:
+            ``(1) Construction.--
+                    ``(A) In general.--The term `construction' means--
+                            ``(i) construction of new buildings;
+                            ``(ii) the acquisition, expansion, 
+                        remodeling, and alteration of existing 
+                        buildings;
+                            ``(iii) the purchase, lease, and 
+                        installation of equipment for any new or 
+                        existing buildings; or
+                            ``(iv) any combination of the activities 
+                        described in clauses (i) through (iii), 
+                        including architect fees and the cost of 
+                        acquisition of land.
+                    ``(B) Special rule.--Such term includes--
+                            ``(i) remodeling to meet standards under 
+                        the Act entitled `An Act to insure that certain 
+                        buildings financed with Federal funds are so 
+                        designed and constructed as to be accessible to 
+                        the physically handicapped', approved August 
+                        12, 1968 (42 U.S.C. 4151 et seq.), commonly 
+                        known as the `Architectural Barriers Act of 
+                        1968';
+                            ``(ii) remodeling designed to ensure safe 
+                        working environments and to conserve energy;
+                            ``(iii) renovation or remodeling to 
+                        accommodate new technologies; and
+                            ``(iv) the purchase of historic buildings 
+                        for conversion to public libraries.
+            ``(2) Equipment.--The term `equipment' means--
+                    ``(A) information and building technologies, video 
+                and telecommunications equipment, machinery, utilities, 
+                built-in equipment, and any necessary enclosures or 
+                structures to house the technologies, equipment, 
+                machinery or utilities; and
+                    ``(B) all other items necessary for the functioning 
+                of a particular facility as a facility for the 
+                provision of library services.
+            ``(3) Public library.--
+                    ``(A) In general.--The term `public library' means 
+                a library that serves free of charge all residents of a 
+                community, district, or region, and receives its 
+                financial support in whole or in part from public 
+                funds.
+                    ``(B) Research library included.--Such term also 
+                includes a research library, which, for the purposes of 
+                this sentence, means a library, that--
+                            ``(i) makes its services available to the 
+                        public free of charge;
+                            ``(ii) has extensive collections of books, 
+                        manuscripts, and other materials suitable for 
+                        scholarly research that are not otherwise 
+                        available to the public;
+                            ``(iii) engages in the dissemination of 
+                        humanistic knowledge through services to 
+                        readers, fellowships, educational and cultural 
+                        programs, publication of significant research, 
+                        and other activities; and
+                            ``(iv) is not an integral part of an 
+                        institution of higher education.
+            ``(4) Technology enhancement.--The term `technology 
+        enhancement' means the acquisition, installation, maintenance, 
+        or replacement, of substantial technological equipment 
+        (including library bibliographic automation equipment) 
+        necessary to provide access to information in electronic and 
+        other formats made possible by new information and 
+        communications technologies.
+    ``(c) Applicability.--Except as provided in section 243, the 
+provisions of this subtitle (other than this chapter) shall not apply 
+to this chapter.
+
+``SEC. 242. USE OF FEDERAL FUNDS.
+
+    ``(a) In General.--A State receiving a grant under this chapter 
+shall use the grant funds to pay the Federal share of the cost of 
+construction or technology enhancement of public libraries.
+    ``(b) Federal Share.--
+            ``(1) In general.--For the purposes of subsection (a), the 
+        Federal share of the cost of construction or technology 
+        enhancement of any project assisted under this chapter shall 
+not exceed one-half of the total cost of the project.
+            ``(2) Non-federal share.--The non-Federal share of the cost 
+        of construction or technology enhancement of any project 
+        assisted under this chapter may be provided from State, local, 
+        or private sources, including for-profit and nonprofit 
+        organizations.
+    ``(c) Special Rule.--
+            ``(1) In general.--The United States shall be entitled to 
+        recover the amount described in paragraph (2) if, within 20 
+        years after completion of construction of any public library 
+        facility that has been constructed in part with grant funds 
+        made available under this chapter--
+                    ``(A) the recipient of the grant funds (or its 
+                successor in title or possession) ceases or fails to be 
+                a public or nonprofit institution; or
+                    ``(B) the facility ceases to be used as a library 
+                facility, unless the Director determines that there is 
+                good cause for releasing the institution from its 
+                obligation.
+            ``(2) Amount.--
+                    ``(A) In general.--For purposes of paragraph (1), 
+                the United States shall be entitled to recover from 
+                such grant recipient (or successor) an amount that 
+                bears the same ratio to the value of the facility (or 
+                part thereof constituting an approved project or 
+                projects), at the time of the cessation or failure, as 
+                the amount of the Federal grant bore to the cost of 
+                such facility (or part thereof).
+                    ``(B) Value.--The value of the facility shall be 
+                determined by the parties or by action brought in the 
+                United States district court for the district in which 
+                the facility is located.
+
+``SEC. 243. STATE PLAN.
+
+    ``(a) State Without Approved Plan in Place.--
+            ``(1) Submission of plan.--Each State library 
+        administrative agency serving a State that does not have a plan 
+        approved under section 224 and that desires a grant under this 
+        chapter shall submit to the Director a State plan that meets 
+        the following requirements:
+                    ``(A) Period.--The State plan shall cover a period 
+                of 5 fiscal years.
+                    ``(B) Contents.--The State plan shall include a 
+                description of the public library construction or 
+                technology enhancement activities to be assisted under 
+                this chapter.
+                    ``(C) Assurances.--The State plan shall contain 
+                satisfactory assurances that the provisions of the 
+                State plan will be carried out.
+            ``(2) Public availability.--Each State library 
+        administrative agency submitting a State plan under this 
+        subsection shall make the State plan available to the public.
+            ``(3) Plan approval.--The Director shall approve a State 
+        plan submitted under paragraph (1) that meets the requirements 
+        of such paragraph.
+            ``(4) Administration.--If the Director determines that the 
+        State plan does not meet the requirements of paragraph (1), the 
+        Director shall--
+                    ``(A) immediately notify the State library 
+                administrative agency of such determination and the 
+                reasons for such determination;
+                    ``(B) offer the State library administrative agency 
+                the opportunity to revise its State plan;
+                    ``(C) provide technical assistance in order to 
+                assist the State library administrative agency in 
+                meeting the requirements of paragraph (1); and
+                    ``(D) provide the State library administrative 
+                agency the opportunity for a hearing.
+    ``(b) State With Plan Approved.--Each State library administrative 
+agency serving a State that has a State plan approved under section 224 
+and that desires a grant under this chapter shall submit to the 
+Director an amendment to the State plan that contains a description of 
+the public library construction or technology enhancement activities to 
+be assisted under this chapter.
+
+``SEC. 244. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated to carry out this chapter 
+$200,000,000 for fiscal year 2002 and for each of the 4 succeeding 
+fiscal years.''.
+                                 <all>

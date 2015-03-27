@@ -1,0 +1,271 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[S. 2917 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+107th CONGRESS
+  2d Session
+                                S. 2917
+
+  To enhance national efforts to investigate, prosecute, and prevent 
+  crimes against children by increasing investigatory tools, criminal 
+        penalties, and resources and by extending existing laws.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 10, 2002
+
+Mr. Hatch (for himself, Mrs. Feinstein, Mr. Hutchinson, Mrs. Hutchison, 
+Mr. Sessions, Mr. DeWine, Mr. Thurmond, Mr. Grassley, and Ms. Landrieu) 
+introduced the following bill; which was read twice and referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To enhance national efforts to investigate, prosecute, and prevent 
+  crimes against children by increasing investigatory tools, criminal 
+        penalties, and resources and by extending existing laws.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Comprehensive Child Protection Act 
+of 2002''.
+
+SEC. 2. NATIONAL CRIMES AGAINST CHILDREN RESPONSE CENTER.
+
+    (a) In General.--Chapter 33 of title 28, United States Code, is 
+amended by adding at the end the following:
+``Sec. 540A. National Crimes Against Children Response Center
+    ``(a) Establishment.--There is established within the Federal 
+Bureau of Investigation a National Crimes Against Children Response 
+Center (referred to in this section as the `Center').
+    ``(b) Mission.--The mission of the Center is to develop a national 
+response plan model that--
+            ``(1) provides a comprehensive, rapid response plan to 
+        report crimes involving the victimization of children; and
+            ``(2) protects children from future crimes.
+    ``(c) Duties.--To carry out the mission described in subsection 
+(b), the Director of the Federal Bureau of Investigation shall--
+            ``(1) consult with the Deputy Assistant Attorney General 
+        for the Crimes Against Children Office and other child crime 
+        coordinators within the Department of Justice;
+            ``(2) consolidate units within the Federal Bureau of 
+        Investigation that investigate crimes against children, 
+        including abductions, abuse, and sexual exploitation offenses;
+            ``(3) develop a comprehensive, rapid response plan for 
+        crimes involving children that incorporates resources and 
+        expertise from Federal, State, and local law enforcement 
+        agencies and child services professionals;
+            ``(4) develop a national strategy to prevent crimes against 
+        children that shall include a plan to rescue children who are 
+        identified in child pornography images as victims of abuse;
+            ``(5) create regional rapid response teams composed of 
+        Federal, State, and local prosecutors, investigators, victim 
+        witness specialists, mental health professionals, and other 
+        child services professionals;
+            ``(6) implement an advanced training program that will 
+        enhance the ability of Federal, State, and local entities to 
+        respond to reported crimes against children and protect 
+        children from future crimes; and
+            ``(7) conduct outreach efforts to raise awareness and 
+        educate communities about crimes against children.
+    ``(d) Authorization of Appropriations.--There is authorized to be 
+appropriated for the Federal Bureau of Investigation such sums as 
+necessary for fiscal year 2003 to carry out this section.''.
+    (b) Technical and Conforming Amendment.--The table of sections for 
+chapter 33 of title 28, United States Code, is amended by adding at the 
+end the following:
+
+``540A. National Crimes Against Children Response Center.''.
+
+SEC. 3. INTERNET AVAILABILITY OF INFORMATION CONCERNING REGISTERED SEX 
+              OFFENDERS.
+
+    (a) In General.--Section 170101(e)(2) of the Violent Crime Control 
+and Law Enforcement Act of 1994 (42 U.S.C. 14071(e)(2)) is amended by 
+adding at the end the following: ``The release of information under 
+this paragraph shall include the maintenance of an Internet site 
+containing such information that is available to the public.''.
+    (b) Compliance Date.--Each State shall implement the amendment made 
+by this section within 3 years after the date of enactment of this Act, 
+except that the Attorney General may grant an additional 2 years to a 
+State that is making a good faith effort to implement the amendment 
+made by this section.
+    (c) National Internet Site.--The Crimes Against Children Section of 
+the Department of Justice shall create a national Internet site that 
+links all State Internet sites established pursuant to this section.
+
+SEC. 4. DNA EVIDENCE.
+
+    Section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 
+(42 U.S.C. 14135a(d)) is amended to read as follows:
+    ``(d) Qualifying Federal Offense.--For purposes of this section, 
+the term `qualifying Federal offense' means--
+            ``(1) any offense classified as a felony under Federal law;
+            ``(2) any offense under chapter 109A of title 18, United 
+        States Code;
+            ``(3) any crime of violence as that term is defined in 
+        section 16 of title 18, United States Code; or
+            ``(4) any offense within the scope of section 4042(c)(4) of 
+        title 18, United States Code.''.
+
+SEC. 5. INCREASE OF STATUTE OF LIMITATIONS FOR CHILD ABUSE OFFENSES.
+
+    Section 3283 of title 18, United States Code, is amended by 
+striking ``25 years'' and inserting ``35 years''.
+
+SEC. 6. ADMISSIBILITY OF SIMILAR CRIME EVIDENCE IN CHILD MOLESTATION 
+              CASES.
+
+    Rule 414 of the Federal Rules of Evidence is amended--
+            (1) in subsection (a), by inserting ``or possession of 
+        sexually explicit materials containing apparent minors'' after 
+        ``or offenses of child molestation''; and
+            (2) in subsection (d), by striking ``fourteen'' and 
+        inserting ``18''.
+
+SEC. 7. MARITAL COMMUNICATION AND ADVERSE SPOUSAL PRIVILEGE.
+
+    (a) In General.--Chapter 119 of title 28, United States Code, is 
+amended by inserting after section 1826 the following:
+``Sec. 1826A. Marital communications and adverse spousal privilege
+    ``The confidential marital communication privilege and the adverse 
+spousal privilege shall be inapplicable in any Federal proceeding in 
+which a spouse is charged with a crime against--
+            ``(1) a child of either spouse; or
+            ``(2) a child under the custody or control of either 
+        spouse.''.
+    (b) Technical and Conforming Amendment.--The table of sections for 
+chapter 119 of title 28, United States Code, is amended by inserting 
+after the item relating to section 1826 the following:
+
+``1826A. Marital communications and adverse spousal privilege.''.
+
+SEC. 8. AUTHORIZATION OF INTERCEPTION OF COMMUNICATIONS IN THE 
+              INVESTIGATION OF SEXUAL CRIMES AND OTHER CRIMES AGAINST 
+              CHILDREN.
+
+    Section 2516(1)(c) of title 18, United States Code, is amended--
+            (1) by inserting ``section 1591 (sex trafficking of 
+        children or by force, fraud, or coercion)'' after ``section 
+        1511 (obstruction of State or local law enforcement),''; and
+            (2) by inserting ``section 2251A (selling or buying of 
+        children), section 2252A (relating to material constituting or 
+        containing child pornography), section 2260 (production of 
+        sexually explicit depictions of a minor for importation into 
+        the United States), sections 2421, 2422, 2423, and 2425 
+        (relating to transportation for illegal sexual activity and 
+        related crimes),'' after ``sections 2251 and 2252 (sexual 
+        exploitation of children),''.
+
+SEC. 9. INCREASE OF MAXIMUM SUPERVISED RELEASE TERM FOR SEX OFFENDERS.
+
+    Section 3583 of title 18, United States Code, is amended by adding 
+at the end the following:
+    ``(k) Supervised Release Terms for Sex Offenders.--Notwithstanding 
+subsection (b), the authorized term of supervised release for any 
+offense under chapter 109A, 110, 117, section 1201 involving a minor 
+victim, or section 1591 is any term of years or life.''.
+
+SEC. 10. INCREASE OF MAXIMUM PENALTIES FOR SEX OFFENSES.
+
+    Title 18, United States Code, is amended--
+            (1) in section 1591(b)(2), by striking ``20 years'' and 
+        inserting ``40 years'';
+            (2) in section 2421, by striking ``10 years'' and inserting 
+        ``20 years'';
+            (3) in section 2422--
+                    (A) in subsection (a), by striking ``10 years'' and 
+                inserting ``20 years''; and
+                    (B) in subsection (b), by striking ``15 years'' and 
+                inserting ``30 years'';
+            (4) in section 2423--
+                    (A) in subsection (a), by striking ``15 years'' and 
+                inserting ``30 years''; and
+                    (B) in subsection (b), by striking ``15 years'' and 
+                inserting ``30 years''; and
+            (5) in section 2425, by striking ``5 years'' and inserting 
+        ``10 years''.
+
+SEC. 11. DEPUTY ASSISTANT ATTORNEY GENERAL FOR CRIMES AGAINST CHILDREN.
+
+    (a) Establishment of Position.--
+            (1) In general.--Chapter 31 of title 28, United States 
+        Code, is amended by inserting after section 507 the following:
+``Sec. 507A. Deputy Assistant Attorney General for Crimes Against 
+              Children
+    ``(a) The Attorney General shall appoint a Deputy Assistant 
+Attorney General for Crimes Against Children.
+    ``(b) The Deputy Assistant Attorney General shall be the head of 
+the Crimes Against Children Section (CACS) of the Department of 
+Justice.
+    ``(c) The duties of the Deputy Assistant Attorney General shall 
+include the following:
+            ``(1) To prosecute cases involving crimes against children.
+            ``(2) To advise Federal prosecutors and law enforcement 
+        personnel regarding crimes against children.
+            ``(3) To provide guidance and assistance to Federal, State, 
+        and local law enforcement agencies and personnel, and 
+        appropriate foreign entities, regarding responses to crimes 
+        against children.
+            ``(4) To propose and comment upon legislation concerning 
+        crimes against children.
+            ``(5) Such other duties as the Attorney General may 
+        require, including duties carried out by the head of the Child 
+        Exploitation and Obscenity Section and the Terrorism and 
+        Violent Crime Section of the Department of Justice.''.
+            (2) Technical and conforming amendment.--The table of 
+        sections for chapter 31 of title 28, United States Code, is 
+        amended by inserting after the item relating to section 507 the 
+        following:
+
+``507A. Deputy Assistant Attorney General for Crimes Against 
+                            Children.''.
+    (b) Authorization of Appropriations for CACS.--There is authorized 
+to be appropriated for the Department of Justice for fiscal year 2003, 
+such sums as necessary to carry out this section.
+
+SEC. 12. DIRECTIVE TO SENTENCING COMMISSION.
+
+    (a) In General.--Pursuant to its authority under section 994(p) of 
+title 18, United States Code, and in accordance with this section, the 
+United States Sentencing Commission shall review the Federal Sentencing 
+Guidelines and policy statements relating to child abuse and 
+exploitation offenses, including United States Sentencing Guideline 
+sections 2A3.1, 2A3.2, 2A3.3, 2A3.4, 2A4.1, 2G1.1, 2G2.1, 2G2.2, 2G2.3, 
+2G2.4, and 2G3.1 to determine whether those sections are sufficiently 
+severe.
+    (b) Considerations.--In reviewing the Federal Sentencing Guidelines 
+in accordance with subsection (a), the United States Sentencing 
+Commission shall consider whether the guidelines are adequate where--
+            (1) the victim had not attained the age of 12 years, or had 
+        not attained the age of 16 years;
+            (2) the victim died, or sustained permanent, life-
+        threatening or serious injury as a result of the criminal act;
+            (3) the victim was abducted;
+            (4) the victim was abused by more than 1 participant;
+            (5) the offense involved more than 1 victim;
+            (6) the ability of the victim to appraise or control his or 
+        her conduct was substantially impaired;
+            (7) the offense involved a large number of visual 
+        depictions, including multiple images of the same victim; and
+            (8) the offense involved material that portrays sadistic or 
+        masochistic conduct or other depictions of violence.
+                                 <all>

@@ -1,0 +1,475 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 435 Introduced in House (IH)]
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 435
+
+    To amend the provisions of titles 5 and 28, United States Code, 
+  relating to equal access to justice, award of reasonable costs and 
+  fees, and administrative settlement offers, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            February 1, 2005
+
+Mr. Manzullo (for himself and Mr. Blumenauer) introduced the following 
+  bill; which was referred to the Committee on the Judiciary, and in 
+    addition to the Committee on Small Business, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the provisions of titles 5 and 28, United States Code, 
+  relating to equal access to justice, award of reasonable costs and 
+  fees, and administrative settlement offers, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Equal Access to Justice Reform Act 
+of 2005''.
+
+SEC. 2. FINDINGS AND STATEMENT OF PURPOSE.
+
+    (a) Findings.--The Congress finds that--
+            (1) the Equal Access to Justice Act (Public Law 96-481; 94 
+        Stat. 2325 et seq.) (in this section referred to as ``EAJA'') 
+        was intended to make the justice system more accessible to 
+        individuals of modest means, small businesses, and nonprofit 
+        organizations (in this section collectively referred to as 
+        ``small parties'') through limited recovery of their attorneys 
+        fees when they prevail in disputes with the Federal Government;
+            (2) although EAJA has succeeded, at modest cost, in 
+        improving access to the justice system for small parties, EAJA 
+        retains formidable barriers to attorneys' fees recovery (even 
+        for small parties that completely prevail against the 
+        Government), as well as inefficient and costly mechanisms for 
+        determining the fees recovery;
+            (3) among the barriers retained by EAJA are--
+                    (A) EAJA's ``substantial justification defense'', 
+                whereby the Government can deny attorneys' fees 
+                recovery to prevailing small parties if the Government 
+                can show that its position, although proven illegal, 
+                was not abusive or entirely unreasonable;
+                    (B) EAJA's hourly rate cap on attorneys' fees of 
+                $125, which is well below the market rate for competent 
+                legal services in many legal markets (especially for 
+                complex and high-risk litigation against the Federal 
+                Government) and thus prevents fair reimbursement of 
+                attorneys' fees for small parties and discourages 
+                competent counsel from undertaking meritorious cases on 
+                a contingency or reduced-fee basis; and
+                    (C) EAJA's outdated small business eligibility 
+                requirements, which have not increased or indexed for 
+                inflation the net worth threshold of $7,000,000 
+                established in 1985;
+            (4) among the inefficiencies retained by EAJA are--
+                    (A) EAJA's substantial justification defense, which 
+                initiates collateral litigation over attorneys' fees 
+                recovery that both consumes significant Federal 
+                resources and prolongs the time, expense, and risk of 
+                pursuing fees recovery to the prevailing small party;
+                    (B) EAJA's omission of any mechanism (such as the 
+                offer in compromise feature of Federal Rule of Civil 
+                Procedure 68) that would apply after a small party has 
+                prevailed on the merits of its claim to encourage both 
+                sides to reach a prompt and reasonable settlement of 
+                attorneys' fees;
+                    (C) EAJA's failure to create an educational and 
+                technical assistance function within an appropriate 
+                agency to facilitate more efficient use, settlement, 
+                and payment of claims under EAJA; and
+                    (D) EAJA's failure to reassign congressional 
+                reporting obligations to an appropriate, existing 
+                agency (EAJA lodges annual congressional reporting with 
+                the Administrative Conference of the United States, an 
+                agency which ceased to exist in 1995);
+            (5) none of these barriers or inefficiencies exists in the 
+        primary Federal fee-shifting statute applicable to State and 
+        local governments, Revised Statutes section 722 (42 U.S.C. 
+        1988(b)), resulting in--
+                    (A) an unequal level of accountability to Federal 
+                law among governments in the United States (shielding 
+                the Federal Government to a greater degree than State 
+                and local governments from the consequences of 
+                violating Federal law);
+                    (B) an uneven playing field for small party victims 
+                of Federal law violations (discouraging resistance to 
+                illegal action by the Federal Government); and
+                    (C) an inefficient use of Federal agency resources 
+                (burdening the Federal budget);
+            (6) a further barrier and inefficiency is the practice of 
+        Federal agencies of paying their EAJA liabilities from the 
+        General Treasury rather than their own agency budgets, 
+        relieving those agencies of the financial consequences of their 
+        misconduct (i.e., EAJA liability) and burdening the Federal 
+        budget unnecessarily;
+            (7) it is in the national interest to remove these barriers 
+        and inefficiencies for small parties, particularly small 
+        business owners, involved in disputes with the Federal 
+        Government in order to develop sound policies relative to the 
+        national economy in which small businesses play a significant 
+        and strategic role; and
+            (8) the removal of these barriers and inefficiencies is 
+        essential to--
+                    (A) equalize the level of accountability to Federal 
+                law among governments in the United States;
+                    (B) discourage marginal or abusive Federal 
+                enforcement actions directed at small parties;
+                    (C) stop the practice of paying EAJA liabilities 
+                from the General Treasury, which has insulated agencies 
+                from the financial consequences of their misconduct and 
+                burdened the Federal budget unnecessarily;
+                    (D) refine and improve Federal policies through 
+                adjudication;
+                    (E) promote a fair and cost-effective process for 
+                prompt settlement and payment of attorneys' fees 
+                claims; and
+                    (F) provide a fairer opportunity for full 
+                participation by small businesses in the free 
+                enterprise system, further increasing the economic 
+                vitality of the Nation.
+    (b) Purpose.--It is, therefore, the purpose of this Act to remove 
+existing barriers and inefficiencies in EAJA in order to--
+            (1) equalize the level of accountability to Federal law 
+        among governments in the United States;
+            (2) discourage marginal or abusive Federal enforcement 
+        actions directed at small parties;
+            (3) stop the practice of paying EAJA liabilities from the 
+        General Treasury, which has insulated agencies from the 
+        financial consequences of their misconduct and burdened the 
+        Federal budget unnecessarily;
+            (4) refine and improve Federal policies through 
+        adjudication;
+            (5) promote a fair and cost-effective process for prompt 
+        settlement and payment of attorneys' fees claims; and
+            (6) provide a fairer opportunity for full participation by 
+        small businesses in the free enterprise system, further 
+        increasing the economic vitality of the Nation.
+    (c) Compliance Policy.--In complying with the statement of 
+congressional policy expressed in this section, each Federal agency, to 
+the maximum extent practicable, should--
+            (1) avoid unjustified enforcement actions directed at small 
+        parties covered by EAJA;
+            (2) alleviate unnecessary burdens of compliance with 
+        justified enforcement actions directed at small parties covered 
+        by EAJA; and
+            (3) minimize impediments to prompt resolution and payment 
+        of reasonable attorneys' fees to prevailing small parties 
+        covered by EAJA.
+
+SEC. 3. REPORTING AND TECHNICAL ASSISTANCE BY OFFICE OF ADVOCACY.
+
+    (a) Functions of Office of Advocacy.--Section 202 of Public Law 94-
+305 (15 U.S.C. 634b) is amended--
+            (1) in paragraph (3), by inserting before the semicolon at 
+        the end the following: ``and for ensuring that the justice 
+        system remains accessible to small businesses for the 
+        resolution of disputes with the Federal Government;''; and
+            (2) by striking paragraph (11) and inserting the following:
+            ``(11) advise, cooperate with, and consult with the 
+        President and Attorney General with respect to section 303(b) 
+        of the Small Business Economic Policy Act of 1980 (15 U.S.C. 
+        631b(b)) and section 504(e) of title 5, United States Code; 
+        and''.
+    (b) Duties of Office of Advocacy.--Section 203 of Public Law 94-305 
+(15 U.S.C. 634c) is amended--
+            (1) in paragraph (2), by inserting before the semicolon at 
+        the end the following: ``, including the resolution of disputes 
+        with the Federal Government and the role of procedures 
+        established by the Equal Access to Justice Act (Public Law 96-
+        481; 94 Stat. 2325) in such disputes''; and
+            (2) in paragraph (3), by inserting after ``the Small 
+        Business Act'' the following: ``, including those related to 
+        the Equal Access to Justice Act,''.
+    (c) Reports to Congress.--
+            (1) In general.--Not later than 180 days after the date of 
+        the enactment of this Act, the Attorney General, in cooperation 
+        with the Chief Counsel for Advocacy of the Small Business 
+        Administration, shall transmit to the congressional committees 
+        specified in paragraph (2) a report containing--
+                    (A) an analysis of the effectiveness of the Equal 
+                Access to Justice Act (Public Law 96-481; 94 Stat. 
+                2325) (in this paragraph referred to as ``EAJA'') in 
+                achieving its purpose to ease the burden upon small 
+                businesses and other small parties covered by EAJA of 
+                engaging in dispute resolution with the Federal 
+                Government, including--
+                            (i) the relative awareness of EAJA in the 
+                        small business community;
+                            (ii) the relative awareness of EAJA's 
+                        requirements among Federal agencies;
+                            (iii) the extent and quality of rules and 
+                        regulations adopted by each Federal agency for 
+                        processing, resolving, and paying attorneys' 
+                        fees claims under EAJA;
+                            (iv) the extent to which each Federal 
+                        agency claims any exemptions in whole or in 
+                        part from EAJA's coverage;
+                            (v) the frequency or degree of use of 
+                        EAJA's procedures by prevailing small 
+                        businesses; and
+                            (vi) an analysis of the costs and benefits 
+                        of EAJA generally;
+                    (B) an analysis of the variations in the frequency 
+                and amounts of fee awards paid by specific Federal 
+                agencies and within specific Federal circuits and 
+                districts under section 504 of title 5, United States 
+                Code, and section 2412 of title 28, United States Code, 
+                including the number and total dollar amount of all 
+                claims filed with, and all claims processed, settled, 
+                litigated, and paid by, each agency under EAJA; and
+                    (C) recommendations for congressional oversight or 
+                legislative changes with respect to EAJA, including any 
+                recommendations for promulgation or amendment of 
+                regulations issued under EAJA by specific Federal 
+                agencies.
+            (2) Specified committees.--The congressional committees 
+        referred to in paragraph (1) are the following:
+                    (A) The Committee on the Judiciary and the 
+                Committee on Small Business of the House of 
+                Representatives.
+                    (B) The Committee on the Judiciary and the 
+                Committee on Small Business and Entrepreneurship of the 
+                Senate.
+            (3) Report on small business and competition.--Section 303 
+        of the Small Business Economic Policy Act of 1980 (15 U.S.C. 
+        631b) is amended--
+                    (A) in subsection (a) by striking paragraph (5) and 
+                inserting the following:
+            ``(5) recommend a program for carrying out the policy 
+        declared in section 302 (including a policy to ensure that the 
+        justice system remains accessible to small business enterprises 
+        for the resolution of disputes with the Federal Government), 
+        together with such recommendations for legislation as the 
+        President may deem necessary or desirable.'';
+                    (B) in subsection (b)--
+                            (i) by striking ``(b)'' and inserting 
+                        ``(b)(1)''; and
+                            (ii) by adding at the end the following:
+    ``(2) The President, after consultation with the Chief Counsel for 
+Advocacy of the Small Business Administration and the Attorney General, 
+shall transmit simultaneously as an appendix to such annual report, a 
+report that describes, by agency and department--
+            ``(A) the total number of claims filed, processed, settled, 
+        and litigated by small business concerns under section 504 of 
+        title 5, United States Code, and section 2412 of title 28, 
+        United States Code (originally enacted pursuant to the Equal 
+        Access to Justice Act (Public Law 96-481; 94 Stat. 2325));
+            ``(B) the total dollar amount of all outstanding awards and 
+        settlements to small business concerns under such sections;
+            ``(C) the total dollar amount of all claims paid to small 
+        business concerns under such sections;
+            ``(D) the underlying legal claims involved in each 
+        controversy with small business concerns under such sections; 
+        and
+            ``(E) any other relevant information that the President 
+        determines may aid Congress in evaluating the impact on small 
+        business concerns of such sections.
+    ``(3) Each agency shall provide the President with such information 
+as is necessary for the President to comply with the requirements of 
+this subsection.''; and
+                    (C) in subsection (d)--
+                            (i) by striking ``(d)'' and inserting 
+                        ``(d)(1)''; and
+                            (ii) by adding at the end the following:
+    ``(2) All reports concerning the Equal Access to Justice Act 
+(Public Law 96-481; 94 Stat. 2325), or the congressional policy to 
+ensure that the justice system remains accessible to small business 
+enterprises for the resolution of disputes with the Federal Government, 
+shall be transmitted to the following congressional committees:
+            ``(A) The Committee on the Judiciary and the Committee on 
+        Small Business of the House of Representatives.
+            ``(B) The Committee on the Judiciary and the Committee on 
+        Small Business and Entrepreneurship of the Senate.''.
+
+SEC. 4. EQUAL ACCESS FOR SMALL PARTIES IN CIVIL AND ADMINISTRATIVE 
+              PROCEEDINGS.
+
+    (a) Elimination of Substantial Justification Standard.--
+            (1) Administrative proceedings.--Section 504 of title 5, 
+        United States Code, is amended--
+                    (A) in subsection (a)(1), by striking ``, unless 
+                the adjudicative officer'' and all that follows through 
+                the period at the end and inserting a period; and
+                    (B) in subsection (a)(2), by striking ``The party 
+                shall also allege that the position of the agency was 
+                not substantially justified.''.
+            (2) Judicial proceedings.--Section 2412 of title 28, United 
+        States Code, is amended--
+                    (A) in subsection (d)(1)(A), by striking ``, unless 
+                the court'' and all that follows through the period at 
+                the end and inserting a period;
+                    (B) in subsection (d)(1)(B), by striking ``The 
+                party shall also allege'' and all that follows through 
+                the period at the end and inserting a period; and
+                    (C) in subsection (d)(3), by striking ``, unless 
+                the court'' and all that follows through the period at 
+                the end and inserting a period.
+    (b) Eligibility of Small Businesses for Fee Award.--
+            (1) Administrative proceedings.--Section 504(b)(1)(B)(ii) 
+        of title 5, United States Code, is amended by striking 
+        ``$7,000,000'' and inserting ``$10,000,000''.
+            (2) Judicial proceedings.--Section 2412(d)(2)(B)(ii) of 
+        title 28, United States Code, is amended by striking 
+        ``$7,000,000'' and inserting ``$10,000,000''.
+    (c) Elimination of Rate Cap.--
+            (1) Administrative proceedings.--Section 504(b)(1)(A) of 
+        title 5, United States Code, is amended--
+                    (A) by striking ``(i)''; and
+                    (B) by striking ``by the agency involved'' and all 
+                that follows through ``a higher fee'' and inserting 
+                ``by the agency involved''.
+            (2) Judicial proceedings.--Section 2412(d)(2)(A) of title 
+        28, United States Code, is amended--
+                    (A) by striking ``(i)''; and
+                    (B) by striking ``by the United States'' and all 
+                that follows through ``a higher fee'' and inserting 
+                ``by the United States''.
+    (d) Offers of Settlement.--
+            (1) Administrative proceedings.--Section 504(a) of title 5, 
+        United States Code, as amended by this section, is further 
+        amended by adding at the end the following:
+    ``(5)(A) At any time after an agency receives an application 
+submitted under paragraph (2), the agency may serve upon the applicant 
+a written offer of settlement of the claims made in the application. If 
+within 10 business days after such service the applicant serves written 
+notice that the offer is accepted, either the agency or the applicant 
+may then file the offer and notice of acceptance together with proof of 
+service thereof.
+    ``(B) An offer not accepted within the time allowed shall be deemed 
+withdrawn. The fact that an offer is made but not accepted shall not 
+preclude a subsequent offer. If any award of fees and expenses for the 
+merits of the proceeding finally obtained by the applicant is not more 
+favorable than the offer, the applicant shall not be entitled to 
+receive an award for fees or other expenses incurred (in relation to 
+the application for fees and expenses) after the date of the offer.''.
+            (2) Judicial proceedings.--Section 2412(d)(1) of title 28, 
+        United States Code, as amended by this section, is further 
+        amended by adding at the end the following:
+    ``(E)(i) At any time after an agency receives an application 
+submitted under subparagraph (B), the agency may serve upon the 
+applicant a written offer of settlement of the claims made in the 
+application. If within 10 business days after such service the 
+applicant serves written notice that the offer is accepted, either the 
+agency or the applicant may then file the offer and notice of 
+acceptance together with proof of service thereof.
+    ``(ii) An offer not accepted within the time allowed shall be 
+deemed withdrawn. The fact that an offer is made but not accepted shall 
+not preclude a subsequent offer. If any award of fees and expenses for 
+the merits of the proceeding finally obtained by the applicant is not 
+more favorable than the offer, the applicant shall not be entitled to 
+receive an award for fees or other expenses incurred (in relation to 
+the application for fees and expenses) after the date of the offer.''.
+    (e) Declaration of Intent to Seek Fee Award.--
+            (1) Administrative proceedings.--Section 504(a)(2) of title 
+        5, United States Code, as amended by this section, is further 
+        amended by inserting before the first sentence the following: 
+        ``At any time after the commencement of an adversary 
+        adjudication, the adjudicative officer may (and if requested by 
+        a party shall) require a party to declare whether such party 
+        intends to seek an award of fees and expenses against the 
+        agency should such party prevail.''.
+            (2) Judicial proceedings.--Section 2412(d)(1)(B) of title 
+        28, United States Code, as amended by this section, is further 
+        amended by inserting before the first sentence the following: 
+        ``At any time after the commencement of an adversary 
+        adjudication, as defined in subsection (b)(1)(C) of section 504 
+        of title 5, United States Code, the court may (and if requested 
+        by a party shall) require a party to declare whether such party 
+        intends to seek an award of fees and expenses against the 
+        agency should such party prevail.''.
+    (f) Payment of Attorneys' Fees From Agency Appropriations.--
+            (1) Administrative proceedings.--Section 504(d) of title 5, 
+        United States Code, is amended--
+                    (A) by striking ``subsection'' and inserting 
+                ``section''; and
+                    (B) by adding at the end the following: ``Fees and 
+                expenses awarded under this section may not be paid 
+                from the claims and judgments account of the Treasury 
+                from funds appropriated pursuant to section 1304 of 
+                title 31.''.
+            (2) Judicial proceedings.--Section 2412(d)(4) of title 28, 
+        United States Code, is amended by adding at the end the 
+        following: ``Fees and expenses awarded under this subsection 
+        may not be paid from the claims and judgments account of the 
+        Treasury from funds appropriated pursuant to section 1304 of 
+        title 31.''.
+    (g) Eligibility of Taxpayers for Fee Award.--
+            (1) Administrative proceedings.--Section 504 of title 5, 
+        United States Code, as amended by this section, is further 
+        amended by striking subsection (f).
+            (2) Judicial proceedings.--Section 2412 of title 28, United 
+        States Code, as amended by this section, is further amended by 
+        striking subsection (e) and redesignating subsection (f) as 
+        subsection (e).
+    (h) Conforming Amendment Relating to Reporting Requirement Under 
+Small Business Act.--Section 504(e) of title 5, United States Code, is 
+amended to read as follows:
+    ``(e)(1) The Attorney General, after consultation with the Chief 
+Counsel for Advocacy of the Small Business Administration, shall report 
+annually to the Congress on the amount of fees and other expenses 
+awarded to individuals during the preceding fiscal year pursuant to 
+this section and section 2412 of title 28. The report shall describe 
+the number, nature, and amount of the awards, the claims involved in 
+the controversy, and any other relevant information which may aid the 
+Congress in evaluating the scope and impact of such awards for 
+individuals engaged in disputes with Federal agencies. Each agency 
+shall provide the Attorney General with such information as is 
+necessary for the Attorney General to comply with the requirements of 
+this subsection.
+    ``(2) A requirement that the President report annually on 
+proceedings affecting small business concerns under this section and 
+under section 2412 of title 28 is provided in section 303(b) of the 
+Small Business Economic Policy Act of 1980 (15 U.S.C. 631b(b)).''.
+    (i) Applicability.--The provisions of this section and the 
+amendments made by this section shall apply to any proceeding pending 
+on, or commenced on or after, the effective date of this Act.
+
+SEC. 5. DEFINITION OF PREVAILING PARTY IN EAJA CASES.
+
+    (a) Title 5.--Section 504(b)(1) of title 5, United States Code, is 
+amended by adding at the end the following new paragraph:
+            ``(G) `prevailing party' includes, in addition to a party 
+        who prevails through a judicial or administrative judgment or 
+        order, a party whose pursuit of a nonfrivolous claim or defense 
+        was a catalyst for a voluntary or unilateral change in position 
+        by the opposing party that provides any significant part of the 
+        relief sought.''.
+    (b) Title 28.--Section 2412 of title 28, United States Code, is 
+amended--
+            (1) in subsection (d)(2)(H), by inserting after ``means'' 
+        the following: ``, subject to subsection (g),''; and
+            (2) by adding at the end the following new subsection:
+    ``(g) For the purposes of this section, the term `prevailing party' 
+includes, in addition to a party who prevails through a judicial or 
+administrative judgment or order, a party whose pursuit of a 
+nonfrivolous claim or defense was a catalyst for a voluntary or 
+unilateral change in position by the opposing party that provides any 
+significant part of the relief sought.''.
+
+SEC. 6. EFFECTIVE DATE.
+
+    The provisions of this Act and the amendments made by this Act 
+shall take effect 30 days after the date of the enactment of this Act.
+                                 <all>

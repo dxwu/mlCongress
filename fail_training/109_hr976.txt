@@ -1,0 +1,95 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 976 Introduced in House (IH)]
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                H. R. 976
+
+      To amend the Internal Revenue Code of 1986 to provide that 
+  distributions from an individual retirement plan, a section 401(k) 
+  plan, or a section 403(b) contract shall not be includible in gross 
+  income to the extent used to pay long-term care insurance premiums.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 17, 2005
+
+Mr. Terry (for himself, Mr. Jones of North Carolina, Mr. Sessions, Mr. 
+  Boucher, Mr. Saxton, Mr. Kennedy of Minnesota, Mr. Paul, Ms. Ginny 
+ Brown-Waite of Florida, Mr. Simpson, Mr. McCotter, Mrs. Musgrave, Mr. 
+Souder, Mr. Gordon, Mr. Hyde, and Mr. Peterson of Minnesota) introduced 
+  the following bill; which was referred to the Committee on Ways and 
+                                 Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+      To amend the Internal Revenue Code of 1986 to provide that 
+  distributions from an individual retirement plan, a section 401(k) 
+  plan, or a section 403(b) contract shall not be includible in gross 
+  income to the extent used to pay long-term care insurance premiums.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Long-Term Care Act of 2005''.
+
+SEC. 2. EXCLUSION FROM GROSS INCOME FOR DISTRIBUTIONS FROM INDIVIDUAL 
+              RETIREMENT PLANS, SECTION 401(K) PLANS, AND SECTION 
+              403(B) CONTRACTS WHICH ARE USED TO PAY LONG-TERM CARE 
+              INSURANCE PREMIUMS.
+
+    (a) In General.--Part III of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 (relating to items specifically excluded 
+from gross income) is amended by inserting after section 139A the 
+following new item:
+
+``SEC. 139B. DISTRIBUTIONS FROM INDIVIDUAL RETIREMENT PLANS, SECTION 
+              401(K) PLANS, AND SECTION 403(B) CONTRACTS WHICH ARE USED 
+              TO PAY LONG-TERM CARE INSURANCE PREMIUMS.
+
+    ``(a) In General.--Gross income shall not include any distribution 
+to an individual from--
+            ``(1) an individual retirement plan, or
+            ``(2) from amounts attributable to employer contributions 
+        made pursuant to elective deferrals described in subparagraph 
+        (A) or (C) of section 402(g)(3),
+to the extent that such distributions do not exceed the long-term care 
+insurance premiums paid during the taxable year for insurance covering 
+the individual or the individual's spouse.
+    ``(b) Denial of Double Benefit.--The limitation in section 
+213(d)(10) shall be reduced by the amount which would (but for 
+subsection (a)) be includible in the taxpayer's gross income for the 
+taxable year.
+    ``(c) No Effect on Qualification.--An arrangement shall not fail to 
+be treated as a qualified cash or deferred arrangement (as defined in 
+section 401(k)) or a contract described in section 403(b) by reason of 
+permitting distributions for the payment of long-term care insurance 
+premiums.''
+    (b) Clerical Amendment.--The table of sections for such part III is 
+amended by inserting after the item relating to section 139A the 
+following new item:
+
+``Sec. 139B. Distributions from individual retirement plans, section 
+                            401(k) plans, and section 403(b) contracts 
+                            which are used to pay long-term care 
+                            insurance premiums.''
+    (c) Effective Date.--The amendments made by this section shall 
+apply to distributions after the date of the enactment of this Act.
+                                 <all>

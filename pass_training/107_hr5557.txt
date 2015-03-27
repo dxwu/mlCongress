@@ -1,0 +1,286 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 5557 Engrossed Amendment Senate (EAS)]
+
+                  In the Senate of the United States,
+
+                                                     November 14, 2002.
+    Resolved, That the bill from the House of Representatives (H.R. 
+5557) entitled ``An Act to amend the Internal Revenue Code of 1986 to 
+provide a special rule for members of the uniformed services and 
+Foreign Service in determining the exclusion of gain from the sale of a 
+principal residence and to restore the tax exempt status of death 
+gratuity payments to members of the uniformed services, and for other 
+purposes.'', do pass with the following
+
+                               AMENDMENT:
+
+    Page 10, strike out line 10 and insert:
+
+SEC. 8. CLARIFICATION RELATING TO EXCEPTION FROM ADDITIONAL TAX ON 
+              CERTAIN DISTRIBUTIONS FROM QUALIFIED TUITION PROGRAMS, 
+              ETC. ON ACCOUNT OF ATTENDANCE AT MILITARY ACADEMY.
+
+    (a) In General.--Subparagraph (B) of section 530(d)(4) of the 
+Internal Revenue Code of 1986 (relating to exceptions from additional 
+tax for distributions not used for educational purposes) is amended by 
+striking ``or'' at the end of clause (iii), by redesignating clause 
+(iv) as clause (v), and by inserting after clause (iii) the following 
+new clause:
+                            ``(iv) made on account of the attendance of 
+                        the account holder at the United States 
+                        Military Academy, the United States Naval 
+                        Academy, the United States Air Force Academy, 
+                        the United States Coast Guard Academy, or the 
+                        United States Merchant Marine Academy, to the 
+                        extent that the amount of the payment or 
+                        distribution does not exceed the costs of 
+                        advanced education (as defined by section 
+                        2005(e)(3) of title 10, United States Code, as 
+                        in effect on the date of the enactment of this 
+                        section) attributable to such attendance, or''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect for taxable years beginning after December 31, 2002.
+
+SEC. 9. SUSPENSION OF TAX-EXEMPT STATUS OF DESIGNATED TERRORIST 
+              ORGANIZATIONS.
+
+    (a) In General.--Section 501 of the Internal Revenue Code of 1986 
+(relating to exemption from tax on corporations, certain trusts, etc.) 
+is amended by redesignating subsection (p) as subsection (q) and by 
+inserting after subsection (o) the following new subsection:
+    ``(p) Suspension of Tax-Exempt Status of Designated Terrorist 
+Organizations.--
+            ``(1) In general.--The exemption from tax under subsection 
+        (a) with respect to any organization shall be suspended during 
+        any period in which the organization is a designated terrorist 
+        organization.
+            ``(2) Designated terrorist organization.--For purposes of 
+        this subsection, the term `designated terrorist organization' 
+        means an organization which--
+                    ``(A) is designated as a terrorist organization in 
+                or pursuant to an Executive order, or otherwise 
+                designated, under the authority of--
+                            ``(i) section 212(a)(3) or 219 of the 
+                        Immigration and Nationality Act,
+                            ``(ii) the International Emergency Economic 
+                        Powers Act, or
+                            ``(iii) section 5 of the United Nations 
+                        Participation Act, or
+                    ``(B) is designated in or pursuant to an Executive 
+                order as supporting terrorist activity (as defined in 
+                section 212(a)(3)(B) of the Immigration and Nationality 
+                Act) or terrorism (as defined in section 140(d)(2) of 
+                the Foreign Relations Authorization Act, Fiscal Years 
+                1988 and 1989).
+            ``(3) Denial of deduction.--No deduction shall be allowed 
+        under section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 
+        2106(a)(2), or 2522 for any contribution to an organization 
+        during the period such organization is a designated terrorist 
+        organization.
+            ``(4) Denial of administrative or judicial challenge of 
+        suspension or denial of deduction.--Notwithstanding section 
+        7428 or any other provision of law, no organization or other 
+        person may challenge a suspension under paragraph (1), a 
+        designation described in paragraph (2), or a denial of a 
+        deduction under paragraph (3) in any administrative or judicial 
+        proceeding relating to the Federal tax liability of such 
+        organization or other person.
+            ``(5) Credit or refund in case of erroneous designation.--
+                    ``(A) In general.--If a designation of an 
+                organization pursuant to 1 or more of the provisions of 
+                law described in paragraph (2) is determined to be 
+                erroneous pursuant to such law and the erroneous 
+                designation results in an overpayment of income tax for 
+                any taxable year with respect to such organization, 
+                credit or refund (with interest) with respect to such 
+                overpayment shall be made.
+                    ``(B) Waiver of limitations.--If credit or refund 
+                of any overpayment of tax described in subparagraph (A) 
+                is prevented at any time before the close of the 1-year 
+                period beginning on the date of the determination of 
+                such credit or refund by the operation of any law or 
+                rule of law (including res judicata), such refund or 
+                credit may nevertheless be made or allowed if claim 
+                therefor is filed before the close of such period.''.
+    (b) Notice of Suspensions.--If the tax exemption of any 
+organization is suspended under section 501(p) of the Internal Revenue 
+Code of 1986 (as added by subsection (a)), the Internal Revenue Service 
+shall update the listings of tax-exempt organizations and shall publish 
+appropriate notice to taxpayers of such suspension and of the fact that 
+contributions to such organization are not deductible during the period 
+of such suspension.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on the date of the enactment of this Act.
+
+SEC. 10. ABOVE-THE-LINE DEDUCTION FOR OVERNIGHT TRAVEL EXPENSES OF 
+              NATIONAL GUARD AND RESERVE MEMBERS.
+
+    (a) Deduction Allowed.--Section 162 of the Internal Revenue Code of 
+1986 (relating to certain trade or business expenses) is amended by 
+redesignating subsection (p) as subsection (q) and inserting after 
+subsection (o) the following new subsection:
+    ``(p) Treatment of Expenses of Members of Reserve Component of 
+Armed Forces of the United States.--For purposes of subsection (a)(2), 
+in the case of an individual who performs services as a member of a 
+reserve component of the Armed Forces of the United States at any time 
+during the taxable year, such individual shall be deemed to be away 
+from home in the pursuit of a trade or business for any period during 
+which such individual is away from home in connection with such 
+services.''.
+    (b) Deduction Allowed Whether or Not Taxpayer Elects To Itemize.--
+Section 62(a)(2) (relating to certain trade and business deductions of 
+employees) is amended by adding at the end the following new 
+subparagraph:
+                    ``(E) Certain expenses of members of reserve 
+                components of the armed forces of the united states.--
+                The deductions allowed by section 162 which consist of 
+                expenses, not in excess of $1,500, paid or incurred by 
+                the taxpayer in connection with the performance of 
+                services by such taxpayer as a member of a reserve 
+                component of the Armed Forces of the United States for 
+                any period during which such individual is more than 
+                100 miles away from home in connection with such 
+                services.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to amounts paid or incurred in taxable years beginning after 
+December 31, 2002.
+
+SEC. 11. EXTENSION OF INTERNAL REVENUE SERVICE USER FEES.
+
+    (a) In General.--Chapter 77 of the Internal Revenue Code of 1986 
+(relating to miscellaneous provisions) is amended by adding at the end 
+the following new section:
+
+``SEC. 7527. INTERNAL REVENUE SERVICE USER FEES.
+
+    ``(a) General Rule.--The Secretary shall establish a program 
+requiring the payment of user fees for--
+            ``(1) requests to the Internal Revenue Service for ruling 
+        letters, opinion letters, and determination letters, and
+            ``(2) other similar requests.
+    ``(b) Program Criteria.--
+            ``(1) In general.--The fees charged under the program 
+        required by subsection (a)--
+                    ``(A) shall vary according to categories (or 
+                subcategories) established by the Secretary,
+                    ``(B) shall be determined after taking into account 
+                the average time for (and difficulty of) complying with 
+                requests in each category (and subcategory), and
+                    ``(C) shall be payable in advance.
+            ``(2) Exemptions, etc.--
+                    ``(A) In general.--The Secretary shall provide for 
+                such exemptions (and reduced fees) under such program 
+                as the Secretary determines to be appropriate.
+                    ``(B) Exemption for certain requests regarding 
+                pension plans.--The Secretary shall not require payment 
+                of user fees under such program for requests for 
+                determination letters with respect to the qualified 
+                status of a pension benefit plan maintained solely by 1 
+                or more eligible employers or any trust which is part 
+                of the plan. The preceding sentence shall not apply to 
+                any request--
+                            ``(i) made after the later of--
+                                    ``(I) the fifth plan year the 
+                                pension benefit plan is in existence, 
+                                or
+                                    ``(II) the end of any remedial 
+                                amendment period with respect to the 
+                                plan beginning within the first 5 plan 
+                                years, or
+                            ``(ii) made by the sponsor of any prototype 
+                        or similar plan which the sponsor intends to 
+                        market to participating employers.
+                    ``(C) Definitions and special rules.--For purposes 
+                of subparagraph (B)--
+                            ``(i) Pension benefit plan.--The term 
+                        `pension benefit plan' means a pension, profit-
+                        sharing, stock bonus, annuity, or employee 
+                        stock ownership plan.
+                            ``(ii) Eligible employer.--The term 
+                        `eligible employer' means an eligible employer 
+                        (as defined in section 408(p)(2)(C)(i)(I)) 
+                        which has at least 1 employee who is not a 
+                        highly compensated employee (as defined in 
+                        section 414(q)) and is participating in the 
+                        plan. The determination of whether an employer 
+                        is an eligible employer under subparagraph (B) 
+                        shall be made as of the date of the request 
+                        described in such subparagraph.
+                            ``(iii) Determination of average fees 
+                        charged.--For purposes of any determination of 
+                        average fees charged, any request to which 
+                        subparagraph (B) applies shall not be taken 
+                        into account.
+            ``(3) Average fee requirement.--The average fee charged 
+        under the program required by subsection (a) shall not be less 
+        than the amount determined under the following table:
+
+                                                                Average
+``Category                                                          Fee
+    Employee plan ruling and opinion..............                $250 
+    Exempt organization ruling....................                $350 
+    Employee plan determination...................                $300 
+    Exempt organization determination.............                $275 
+    Chief counsel ruling..........................                $200.
+    ``(c) Termination.--No fee shall be imposed under this section with 
+respect to requests made after September 30, 2012.''.
+    (b) Conforming Amendments.--
+            (1) The table of sections for chapter 77 of the Internal 
+        Revenue Code of 1986 is amended by adding at the end the 
+        following new item:
+
+                              ``Sec. 7527. Internal Revenue Service 
+                                        user fees.''.
+            (2) Section 10511 of the Revenue Act of 1987 is repealed.
+            (3) Section 620 of the Economic Growth and Tax Relief 
+        Reconciliation Act of 2001 is repealed.
+    (c) Limitations.--Notwithstanding any other provision of law, any 
+fees collected pursuant to section 7527 of the Internal Revenue Code of 
+1986, as added by subsection (a), shall not be expended by the Internal 
+Revenue Service unless provided by an appropriations Act.
+    (d) Effective Date.--The amendments made by this section shall 
+apply to requests made after the date of the enactment of this Act.
+
+SEC. 12. PARTIAL PAYMENT OF TAX LIABILITY IN INSTALLMENT AGREEMENTS.
+
+    (a) In General.--
+            (1) Section 6159(a) of the Internal Revenue Code of 1986 
+        (relating to authorization of agreements) is amended--
+                    (A) by striking ``satisfy liability for payment 
+                of'' and inserting ``make payment on'', and
+                    (B) by inserting ``full or partial'' after 
+                ``facilitate''.
+            (2) Section 6159(c) of such Code (relating to Secretary 
+        required to enter into installment agreements in certain cases) 
+        is amended in the matter preceding paragraph (1) by inserting 
+        ``full'' before ``payment''.
+    (b) Requirement To Review Partial Payment Agreements Every Two 
+Years.--Section 6159 of the Internal Revenue Code of 1986 is amended by 
+redesignating subsections (d) and (e) as subsections (e) and (f), 
+respectively, and inserting after subsection (c) the following new 
+subsection:
+    ``(d) Secretary Required To Review Installment Agreements for 
+Partial Collection Every Two Years.--In the case of an agreement 
+entered into by the Secretary under subsection (a) for partial 
+collection of a tax liability, the Secretary shall review the agreement 
+at least once every 2 years.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to agreements entered into on or after the date of the enactment 
+of this Act.
+
+SEC. 13. PROTECTION OF SOCIAL SECURITY.
+
+            Attest:
+
+                                                             Secretary.
+107th CONGRESS
+
+  2d Session
+
+                               H. R. 5557
+
+_______________________________________________________________________
+
+                               AMENDMENT

@@ -1,0 +1,106 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 4109 Introduced in Senate (IS)]
+
+
+109th CONGRESS
+  2d Session
+                                S. 4109
+
+  To amend title 49, United States Code, to prohibit the operation of 
+       certain aircraft not complying with stage 3 noise levels.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                            December 7, 2006
+
+Mr. Lautenberg introduced the following bill; which was read twice and 
+   referred to the Committee on Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend title 49, United States Code, to prohibit the operation of 
+       certain aircraft not complying with stage 3 noise levels.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Aircraft Noise Reduction Act of 
+2006''.
+
+SEC. 2. OPERATION OF AIRCRAFT NOT MEETING STAGE 3 NOISE LEVELS.
+
+    (a) In General.--Subchapter II of chapter 475 of title 49, United 
+States Code, is amended by adding at the end the following:
+``Sec. 47534. Prohibition on operating certain aircraft weighing 75,000 
+              pounds or less not complying with stage 3 noise levels
+    ``(a) Prohibition.--Except as provided in subsection (b), (c), or 
+(d), a person may not operate a civil subsonic turbojet with a maximum 
+weight of 75,000 pounds or less to or from an airport in the United 
+States unless the Secretary of Transportation finds that the aircraft 
+complies with stage 3 noise levels.
+    ``(b) Exception.--Subsection (a) shall not apply to aircraft 
+operated only outside the 48 contiguous States.
+    ``(c) Opt-Out.--Subsection (a) shall not apply at an airport where 
+the airport operator has notified the Secretary that it wants to 
+continue to permit the operation of civil subsonic turbojets with a 
+maximum weight of 75,000 pounds or less that do not comply with stage 3 
+noise levels. The Secretary shall post the notices received under this 
+subsection on its website or in another place easily accessible to the 
+public.
+    ``(d) Limitation.--The Secretary shall permit a person to operate 
+Stage 1 and Stage 2 aircraft with a maximum weight of 75,000 pounds or 
+less to or from an airport in the contiguous 48 States in order--
+            ``(1) to sell, lease, or use the aircraft outside the 48 
+        contiguous States;
+            ``(2) to scrap the aircraft;
+            ``(3) to obtain modifications to the aircraft to meet stage 
+        3 noise levels;
+            ``(4) to perform scheduled heavy maintenance or significant 
+        modifications on the aircraft at a maintenance facility located 
+        in the contiguous 48 states;
+            ``(5) to deliver the aircraft to an operator leasing the 
+        aircraft from the owner or return the aircraft to the lessor;
+            ``(6) to prepare or park or store the aircraft in 
+        anticipation of any of the activities described in paragraphs 
+        (1) through (5); or
+            ``(7) to divert the aircraft to an alternative airport in 
+        the 48 contiguous States on account of weather, mechanical, 
+        fuel air traffic control or other safety reasons while 
+        conducting a flight in order to perform any of the activities 
+        described in paragraphs (1) through (6).
+    ``(e) Statutory Construction.--Nothing in the section may be 
+construed as interfering with, nullifying, or otherwise affecting 
+determinations made by the Federal Aviation Administration, or to be 
+made by the Administration, with respect to applications under part 161 
+of title 14, Code of Federal Regulations, that were pending on the date 
+of enactment of the Aircraft Noise Reduction Act of 2006.''.
+    (b) Conforming Amendments.--
+            (1) Section 47531 of title 49, United States Code, is 
+        amended by striking ``47529, or 47530'' and inserting ``47529, 
+        47530, or 47534''.
+            (2) Section 47532 of title 49, United States Code, is 
+        amended by striking ``47528-47531'' and inserting ``47528 
+        through 47531 or 47534''.
+            (3) The chapter analysis for chapter 475 of title 49, 
+        United States Code, is amended by inserting after the item 
+        relating to section 47533 the following:
+
+``47534. Prohibition on operating certain aircraft weighing 75,000 
+                            pounds or less not complying with stage 3 
+                            noise levels.''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect on the date that is 3 years after the date of enactment of this 
+Act.
+                               <all>D23/

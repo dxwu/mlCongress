@@ -1,0 +1,2769 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 857 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+109th CONGRESS
+  1st Session
+                                 S. 857
+
+ To reform Social Security by establishing a Personal Social Security 
+ Savings Program and to provide new limitations on the Federal Budget.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 20, 2005
+
+Mr. Sununu (for himself, Mr. Brownback, and Mr. DeMint) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                                Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To reform Social Security by establishing a Personal Social Security 
+ Savings Program and to provide new limitations on the Federal Budget.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Social Security 
+Personal Savings Guarantee and Prosperity Act of 2005''.
+    (b) Table of Contents.--The table of contents is as follows:
+
+Sec. 1. Short title and table of contents.
+          TITLE I--PERSONAL SOCIAL SECURITY INVESTMENT PROGRAM
+
+Sec. 101. Establishment of Personal Social Security Investment Program.
+           ``Part B--Personal Social Security Savings Program
+
+        ``Sec. 251. Definitions.
+        ``Sec. 252. Social Security Personal Savings Fund.
+        ``Sec. 253. Participation in Program.
+        ``Sec. 254. Personal social security savings accounts.
+        ``Sec. 255. Tier I Investment Fund.
+        ``Sec. 256. Tier II Investment Fund.
+        ``Sec. 257. Tier III Investment Options.
+        ``Sec. 258. Personal social security savings annuity and other 
+                            distributions.
+        ``Sec. 259. Guarantee of promised benefits.
+        ``Sec. 260. Personal Social Security Savings Board.
+        ``Sec. 261. Executive Director.
+Sec. 102. Monthly insurance benefits for participating individuals.
+Sec. 103. General fund transfers to the Federal Old-Age and Survivors 
+                            Insurance Trust Fund.
+Sec. 104. Tax treatment of accounts.
+Sec. 105. Self-Liquidating Social Security Transition Fund.
+Sec. 106. Budgetary treatment of social security.
+Sec. 107. Dedication of budget surpluses to saving social security.
+Sec. 108. Accounting for the Old-Age, Survivors, and Disability 
+                            Insurance Program and the Personal Social 
+                            Security Savings Program.
+Sec. 109. Reduction of FICA rates resulting from Personal Social 
+                            Security Savings Program.
+             TITLE II--PUTTING A LID ON THE FEDERAL BUDGET
+
+   Subtitle A--Spending Safeguards on the Growth of Entitlements and 
+                              Mandatories
+
+Sec. 201. Spending caps on growth of entitlements and mandatories.
+Sec. 202. Exempt programs and activities.
+Sec. 203. Exceptions, limitations, and special rules.
+Sec. 204. Point of order.
+Sec. 205. Technical and conforming amendments.
+               Subtitle B--Discretionary Spending Limits
+
+Sec. 211. Enforcing discretionary spending limits.
+
+          TITLE I--PERSONAL SOCIAL SECURITY INVESTMENT PROGRAM
+
+SEC. 101. ESTABLISHMENT OF PERSONAL SOCIAL SECURITY INVESTMENT PROGRAM.
+
+    (a) In General.--Title II of the Social Security Act is amended--
+            (1) by inserting before section 201 the following:
+
+                    ``PART A--INSURANCE BENEFITS'';
+
+        and
+            (2) by adding at the end the following new part:
+
+           ``PART B--PERSONAL SOCIAL SECURITY SAVINGS PROGRAM
+
+``SEC. 251. DEFINITIONS.
+
+    ``For purposes of this part--
+            ``(1) Participating individual.--The term `participating 
+        individual' has the meaning provided in section 253(a).
+            ``(2) Board.--The term `Board' means the Personal Social 
+        Security Savings Board established under section 260.
+            ``(3) Executive director.--The term `Executive Director' 
+        means the Executive Director appointed under section 261.
+            ``(4) Personal social security savings account.--The term 
+        `personal social security savings account' means an account 
+        established under section 254(a).
+            ``(5) Personal social security savings annuity.--The term 
+        `personal social security savings annuity' means an annuity 
+        approved by the Board under section 258(b)(3).
+            ``(6) Savings fund.--The term `Savings Fund' means the 
+        Social Security Personal Savings Fund established under section 
+        252.
+            ``(7) Tier i investment fund.--The term `Tier I Investment 
+        Fund' means the trust fund created under section 255.
+            ``(8) Tier ii investment fund.--The term `Tier II 
+        Investment Fund' means the trust fund created under section 
+        256.
+            ``(9) Tier iii investment option.--The term `Tier III 
+        Investment Option' means an investment option which is--
+                    ``(A) offered by an eligible entity certified by 
+                the Board under section 257(b); and
+                    ``(B) approved by the Board under section 257(c).
+
+``SEC. 252. SOCIAL SECURITY PERSONAL SAVINGS FUND.
+
+    ``(a) Establishment of Savings Fund.--
+            ``(1) Establishment.--There is established in the Treasury 
+        of the United States a trust fund to be known as the `Social 
+        Security Personal Savings Fund'.
+            ``(2) Amounts in fund.--The Savings Fund shall consist of--
+                    ``(A) all amounts transferred to or deposited into 
+                the Savings Fund under subsection (b), increased by the 
+                total net earnings from investments of sums in the 
+                Savings Fund attributable to such transferred or 
+                deposited amounts, and reduced by the total net losses 
+                from investments of such sums, and
+                    ``(B) the reserves held in the Annuity Reserves 
+                Account established under section 258(b)(3), increased 
+                by the total net earnings from investments of such 
+                reserves, and reduced by the total net losses from 
+                investments of such reserves.
+            ``(3) Trustees.--The Board shall serve as trustees of the 
+        Savings Fund.
+            ``(4) Budget authority; appropriation.--This part 
+        constitutes budget authority in advance of appropriations Acts 
+        and represents the obligation of the Board to provide for the 
+        payment of amounts provided under this part. The amounts held 
+        in the Savings Fund are appropriated and shall remain available 
+        without fiscal year limitation.
+    ``(b) Deposits Into Fund.--
+            ``(1) In general.--During each calendar year, the Secretary 
+        of the Treasury shall deposit into the Savings Fund, from 
+        amounts held in the Federal Old-Age and Survivors Insurance 
+        Trust Fund, a total amount equal, in the aggregate, to 100 
+        percent of the redirected social security contribution for such 
+        calendar year of each individual who is a participating 
+        individual for such calendar year.
+            ``(2) Transfers based on estimates.--
+                    ``(A) In general.--The amounts deposited pursuant 
+                to paragraph (1) shall be transferred in at least 
+                weekly payments from the Federal Old-Age and Survivors 
+                Insurance Trust Fund to the Savings Fund.
+                    ``(B) Determination of amounts.--The amounts 
+                transferred under subparagraph (A) shall be determined 
+                on the basis of estimates, made by the Commissioner of 
+                Social Security and certified to the Secretary of the 
+                Treasury, of the wages paid to, and self-employment 
+                income derived by, participating individuals. Proper 
+                adjustments shall be made in amounts subsequently 
+                transferred to the extent prior estimates were in 
+                excess of or were less than actual amounts transferred.
+            ``(3) Redirected social security contributions.--For 
+        purposes of paragraph (1)----
+                    ``(A) In general.--The term `redirected social 
+                security contributions' means, with respect to an 
+                individual for a calendar year, the sum of--
+                            ``(i) the product derived by multiplying--
+                                    ``(I) the sum of the total wages 
+                                paid to, and self-employment income 
+                                derived by, such individual during such 
+                                calendar year, to the extent such total 
+                                wages and self-employment income do not 
+                                exceed the base amount for such 
+                                calendar year; by
+                                    ``(II) the applicable base 
+                                percentage for the calendar year; and
+                            ``(ii) the product derived by multiplying--
+                                    ``(I) the sum of the total wages 
+                                paid to, and self-employment income 
+                                derived by, such individual during such 
+                                calendar year, to the extent such total 
+                                wages and self-employment income exceed 
+                                the base amount (taking into account 
+                                the limits imposed by the contribution 
+                                and benefit base under section 230); by
+                                    ``(II) the applicable supplemental 
+                                percentage for the calendar year.
+                    ``(B) Base amount.--For purposes of subparagraph 
+                (A)--
+                            ``(i) Initial base amount.--The base amount 
+                        for calendar year 2006 is $10,000.
+                            ``(ii) Adjustments to base amount.--The 
+                        base amount for any calendar year after 2006 is 
+                        the product derived by multiplying $10,000 by a 
+                        fraction--
+                                    ``(I) the numerator of which is the 
+                                national average wage index (as defined 
+                                in section 209(k)) for the first of the 
+                                2 preceding calendar years; and
+                                    ``(II) the denominator of which is 
+                                the national average wage index (as so 
+                                defined) for 2004.
+                    ``(C) Applicable base percentage.--For purposes of 
+                subparagraph (A), the applicable base percentage for a 
+                calendar year is--
+                            ``(i) for calendar years after 2005 and 
+                        before 2016, 5 percent; and
+                            ``(ii) for calendar years after 2015, 10 
+                        percent.
+                    ``(D) Applicable supplemental percentage.--For 
+                purposes of subparagraph (A), the applicable 
+                supplemental percentage for a calendar year is--
+                            ``(i) for calendar years after 2005 and 
+                        before 2016, 2.5 percent; and
+                            ``(ii) for calendar years after 2015, 5 
+                        percent.
+    ``(c) Availability.--The sums in the Savings Fund are appropriated 
+and shall remain available without fiscal year limitation--
+            ``(1) to invest funds in the Tier I Investment Fund of the 
+        Savings Fund and the Tier II Investment Fund of the Savings 
+        Fund under sections 255 and 256, respectively;
+            ``(2) to transfer into Tier III Investment Options under 
+        section 257;
+            ``(3) to make distributions in accordance with section 258; 
+        and
+            ``(4) to pay the administrative expenses of the Board in 
+        accordance with subsection (e).
+    ``(d) Limitations on Use of Funds.--
+            ``(1) In general.--Sums in the Savings Fund credited to a 
+        participating individual's personal social security savings 
+        account may not be used for, or diverted to, purposes other 
+        than for the exclusive benefit of the participating individual 
+        or the participating individual's beneficiaries under this 
+        part.
+            ``(2) Assignments.--Sums in the Savings Fund may not be 
+        assigned or alienated and are not subject to execution, levy, 
+        attachment, garnishment, or other legal process.
+    ``(e) Payment of Administrative Expenses.--Administrative expenses 
+incurred to carry out this part shall be paid out of net earnings in 
+the Savings Fund in conjunction with the allocation of investment 
+earnings and losses under section 254(c).
+    ``(f) Limitation.--The sums in the Savings Fund shall not be 
+appropriated for any purpose other than the purposes specified in this 
+part and may not be used for any other purpose.
+
+``SEC. 253. PARTICIPATION IN PROGRAM.
+
+    ``(a) Participating Individual.--For purposes of this part, the 
+term `participating individual' means any individual--
+            ``(1)(A) who receives wages in any calendar year after 
+        December 31, 2005, on which there is imposed a tax under 
+        section 3101(a) of the Internal Revenue Code of 1986, or
+            ``(B) who derives self-employment income for a taxable year 
+        beginning after December 31, 2005, on which there is imposed a 
+        tax under section 1401(a) of the Internal Revenue Code of 1986,
+            ``(2) who is born on or after January 1, 1950, and
+            ``(3) who has not filed an election to renounce such 
+        individual's status as a participating individual under 
+        subsection (b) or has filed such an election and has 
+        subsequently filed an election to reinstate such individual's 
+        status as a participating individual under subsection (c).
+    ``(b) Renunciation of Participation.--
+            ``(1) In general.--An individual--
+                    ``(A) who has not attained retirement age (as 
+                defined in section 216(l)(1)), and
+                    ``(B) with respect to whom no distribution has been 
+                made from amounts credited to the individual's personal 
+                social security savings account for the purchase of a 
+                personal social security savings annuity,
+        may elect, in such form and manner as shall be prescribed in 
+        regulations of the Board, to renounce such individual's status 
+        as a `participating individual' for purposes of this part. Upon 
+        completion of the procedures provided for under paragraph (2), 
+        any such individual who has made such an election shall not be 
+        treated as a participating individual under this part, 
+        effective as if such individual had never been a participating 
+        individual. The Board shall provide for immediate notification 
+        of such election to the Commissioner of Social Security, the 
+        Secretary of the Treasury, and the Executive Director.
+            ``(2) Procedure.--The Board shall prescribe by regulation 
+        procedures governing the termination of an individual's status 
+        as `participating individual' pursuant to an election under 
+        this subsection. Such procedures shall include--
+                    ``(A) prompt closing of the individual's personal 
+                social security savings account established under 
+                section 254,
+                    ``(B) revocation of any benefit credit certificate 
+                assigned to the individual's personal social security 
+                savings account under section 255, and
+                    ``(C) prompt transfer to the Federal Old-Age and 
+                Survivors Insurance Trust Fund as general receipts of 
+                any amount held in the Tier II Investment Fund of the 
+                Savings Fund or under a Tier III Investment Option 
+                pursuant to section 256 or 257 and credited to such 
+                individual's personal social security savings account.
+    ``(c) Reinstatement of Participation.--
+            ``(1) In general.--Any individual who has filed an election 
+        under subsection (b) to renounce such individual's status as a 
+        `participating individual' under this part may elect, in such 
+        form and manner as shall be prescribed in regulations of the 
+        Board, to reinstate such status. Such regulations shall provide 
+        for regular, periodic opportunities for the filing of such an 
+        election. The Board shall provide for immediate notification to 
+        the Commissioner of Social Security, the Secretary of the 
+        Treasury, and the Executive Director of such election.
+            ``(2) Effectiveness of reinstatement.--An election under 
+        this subsection shall be effective with respect to wages 
+        earned, and self-employment income derived, on the earliest 
+        date on which the Board determines is practicable to make such 
+        election effective following the date of the filing of the 
+        election. The individual filing the election shall be treated 
+        as becoming a participating individual under this part on the 
+        effective date of the election as if such individual first met 
+        the requirements of subsection (a) on such date.
+            ``(3) Irrevocability.--An election under this subsection 
+        shall be irrevocable.
+
+``SEC. 254. PERSONAL SOCIAL SECURITY SAVINGS ACCOUNTS.
+
+    ``(a) Establishment of Publicly Administered System of Personal 
+Security Savings Accounts.--As soon as practicable after the later of 
+January 1, 2006, or the date on which an individual becomes a 
+participating individual under this part, the Executive Director shall 
+establish a personal social security savings account for such 
+individual. Such account shall be the means by which amounts held in 
+the Tier I Investment Fund and the Tier II Investment Fund of the 
+Savings Fund under sections 255 and 256 and amounts held under Tier III 
+Investment Options under section 257 are credited to such individual, 
+under procedures which shall be established by the Board by regulation. 
+Each account of a participating individual shall be identified to such 
+participating individual by means of the participating individual's 
+social security account number.
+    ``(b) Account Balance.--The balance in a participating individual's 
+account at any time is the sum of--
+            ``(1) the balance in the Tier I Investment Fund of the 
+        Savings Fund credited to such participating individual prior to 
+        transfer of the credited amount to the Tier II Investment Fund 
+        of the Savings Fund; plus
+            ``(2) the excess of--
+                    ``(A) all deposits in the Tier II Investment Fund 
+                of the Savings Fund credited to such participating 
+                individual's personal social security savings account, 
+                subject to such increases and reductions as may result 
+                from allocations made to and reductions made in the 
+                account pursuant to subsection (c)(1); over
+                    ``(B) amounts paid out of the Tier II Investment 
+                Fund in connection with amounts credited to such 
+                participating individual's personal social security 
+                savings account; plus
+            ``(3) the excess of--
+                    ``(A) the deposits in the Tier III Investment 
+                Options credited to such participating individual's 
+                personal social security savings account, subject to 
+                such increases and reductions as may result from 
+                amounts credited to, and reductions made in, the 
+                account pursuant to subsection (c)(2); over
+                    ``(B) amounts paid out of the Tier III Investment 
+                Options of such participating individual.
+The calculation made under paragraph (3) shall be made separately for 
+each Tier III Investment Option of the participating individual. The 
+Board shall also hold for the participating individual any benefit 
+credit certificate assigned to the participating individual's personal 
+social security savings account under section 255.
+    ``(c) Allocation of Earnings and Losses.--Pursuant to regulations 
+which shall be prescribed by the Board, the Executive Director shall 
+allocate to each personal social security savings account an amount 
+equal to the net earnings and net losses from each investment of sums--
+            ``(1) in the Tier I Investment Fund and the Tier II 
+        Investment Fund which are attributable to sums credited to such 
+        account reduced by an appropriate share of the administrative 
+        expenses paid out of the net earnings, as determined by the 
+        Executive Director; and
+            ``(2) in the Tier III Investment Options which are 
+        attributable to sums credited to such account reduced by the 
+        administrative expenses paid out of the net earnings.
+
+``SEC. 255. TIER I INVESTMENT FUND.
+
+    ``(a) Establishment of Tier I Investment Fund.--
+            ``(1) In general.--The Savings Fund shall include a 
+        separate fund to be known as the `Tier I Investment Fund'.
+            ``(2) Amounts in fund.--The Tier I Investment Fund consists 
+        of all amounts derived from payments into the Fund under 
+        section 252(b) and remaining after investment of such amounts 
+        under subsection (b), including additional amounts derived as 
+        income from such investments.
+            ``(3) Use of funds.--The amounts held in the Fund are 
+        appropriated and shall remain available without fiscal year 
+        limitation--
+                    ``(A) to be held for investment on behalf of 
+                participating individuals under subsection (b),
+                    ``(B) to pay the administrative expenses related to 
+                the Fund, and
+                    ``(C) to make transfers from the Fund under 
+                subsection (c)(2).
+    ``(b) Investment of Fund Balance.--For purposes of investment of 
+the Tier I Investment Fund, the Board shall contract with appropriate 
+professional asset managers, recordkeepers, and custodians selected for 
+investment of amounts held in the Fund, so as to provide for investment 
+of the balance of the Fund, in a manner providing broad diversification 
+in accordance with regulations of the Board, in--
+            ``(1) insurance contracts,
+            ``(2) certificates of deposit, or
+            ``(3) other instruments or obligations selected by such 
+        asset managers,
+which return the amount invested and pay interest, at a specified rate 
+or rates, on that amount during a specified period of time.
+    ``(c) Separate Crediting to Personal Social Security Savings 
+Accounts and Transfers to the Tier II Investment Fund or to Tier III 
+Investment Options.--
+            ``(1) Crediting to accounts.--
+                    ``(A) In general.--Subject to this paragraph, the 
+                Board shall provide for prompt, separate crediting, as 
+                soon as practicable, of the amounts deposited in the 
+                Tier I Investment Fund to the personal social security 
+                savings account of each participating individual with 
+                respect to the redirected social security contributions 
+                (as defined in section 252(b)(3)) of such participating 
+                individual. The Board shall include in such crediting, 
+                with respect to each such individual, any increases or 
+                decreases in such amounts so as to reflect the net 
+                returns and losses from investment of the balance of 
+                the Fund prior to such crediting. For purposes of 
+                determining such increases and decreases for each 
+                calendar year, the amounts deposited into the Fund in 
+                connection with such individual during such calendar 
+                year shall be deemed to have been deposited on June 30 
+                of such year.
+                    ``(B) Treatment of married participating 
+                individuals.--If the participating individual is 
+                married as of the end of the calendar year in which the 
+                amounts to be credited were deposited in the Tier I 
+                Investment Fund and the spouse is also a participating 
+                individual, the personal social security savings 
+                account of the participating individual and the 
+                personal social security savings account of his or her 
+                spouse shall each be credited with 50 percent of such 
+                amounts.
+            ``(2) Transfers from the tier i investment fund.--In 
+        accordance with elections filed with the Board by a 
+        participating individual, any amount credited to the personal 
+        social security savings account of such participating 
+        individual under paragraph (1) shall be promptly transferred to 
+        the Tier II Investment Fund of the Savings Fund for investment 
+        in accordance with section 256 and, to the extent available 
+        under section 257, to Tier III Investment Options in accordance 
+        with section 257.
+    ``(d) Treatment of Amounts Held in Tier I Investment Fund.--Subject 
+to this part--
+            ``(1) until amounts deposited into the Tier I Investment 
+        Fund during any calendar year are credited to personal social 
+        security savings accounts, such amounts shall be treated as the 
+        unallocated property of all participating individuals with 
+        respect to whom amounts were deposited in the Fund during such 
+        year, jointly held in trust for such participating individuals 
+        in the Savings Fund, and
+            ``(2) amounts deposited into the Fund which are credited to 
+        the personal social security savings account of a participating 
+        individual shall be treated as property of the participating 
+        individual, held in trust for such participating individual in 
+        the Savings Fund.
+
+``SEC. 256. TIER II INVESTMENT FUND.
+
+    ``(a) Establishment of Tier II Investment Fund.--
+            ``(1) In general.--The Savings Fund shall include a 
+        separate fund to be known as the `Tier II Investment Fund'.
+            ``(2) Amounts in fund.--The Tier II Investment Fund 
+        consists of all amounts derived from payments into the Fund 
+        under section 255(c)(2) and remaining after investment of such 
+        amounts under subsection (b), including additional amounts 
+        derived as income from such investments.
+            ``(3) Use of funds.--The amounts held in the Fund are 
+        appropriated and shall remain available without fiscal year 
+        limitation--
+                    ``(A) to be held for investment under subsection 
+                (b),
+                    ``(B) to pay the administrative expenses related to 
+                the Fund, and
+                    ``(C) to make transfers to Tier III Investment 
+                Options under section 257 or to make payments under 
+                section 258.
+    ``(b) Payments Into Tier II Investment Fund.--
+            ``(1) In general.--Upon the crediting under section 252 to 
+        the personal social security savings account of a participating 
+        individual of any amount held in the Tier I Investment Fund for 
+        any calendar year, the Board shall transfer from the Tier I 
+        Investment Fund into the Tier II Investment Fund any amount so 
+        credited to such participating individual's account which is 
+        not transferred to a Tier III Investment Option pursuant to an 
+        election under section 257(a).
+            ``(2) Ongoing separate crediting.--Subject to this 
+        paragraph, the Board shall provide for ongoing separate 
+        crediting to each participating individual's personal social 
+        security savings account of the amounts deposited in the Tier 
+        II Investment Fund with respect to such participating 
+        individual, together with any increases or decreases therein so 
+        as to reflect the net returns and losses from investment 
+        thereof while held in the Fund.
+    ``(c) Investment Accounts.--
+            ``(1) In general.--For purposes of investment of the Tier 
+        II Investment Fund, the Board shall divide the Fund into 6 
+        investment accounts. The Board shall contract with appropriate 
+        investment managers, recordkeepers, and custodians selected for 
+        investment of amounts held in each investment account. Such 
+        accounts shall consist of--
+                    ``(A) a Lifecycle Investment Account,
+                    ``(B) a Government Securities Investment Account,
+                    ``(C) a Fixed Income Investment Account,
+                    ``(D) a Common Stock Index Investment Account,
+                    ``(E) a Small Capitalization Stock Index Investment 
+                Account, and
+                    ``(F) an International Stock Index Investment 
+                Account.
+            ``(2) Election of investment options.--
+                    ``(A) Default investment account.--Except as 
+                provided in an election in effect under subparagraph 
+                (B), amounts held in the Tier II Investment Fund shall 
+                be credited to the Lifecycle Investment Account.
+                    ``(B) Election of transfers between investment 
+                accounts.--In any case in which a participating 
+                individual who has an amount in such individual's 
+                personal social security savings account credited to 
+                any of the investment accounts in the Tier II 
+                Investment Fund files with the Secretary of the 
+                Treasury a written election under this subparagraph, 
+                not more frequently than annually and in accordance 
+                with regulations of the Board, the Secretary of the 
+                Treasury shall transfer the full amount so credited in 
+                such investment account from such investment account to 
+                any one of the other investment accounts in the Tier II 
+                Investment Fund (whichever is designated in such 
+                election).
+    ``(d) Lifecyle Investment Account.--
+            ``(1) In general.--The investment manager, recordkeeper, 
+        and custodian selected for investment of amounts held in the 
+        Lifecyle Investment Account shall invest such amounts under 
+        regulations which shall be prescribed by the Board in a mix of 
+        equities and fixed income instruments so as to ensure, to the 
+        maximum extent practicable, that, of the total balance in the 
+        Fund credited to such account and available for investment 
+        (after allowing for administrative expenses), the percentage 
+        invested in fixed income instruments by individuals in 
+        designated cohorts, ranging in age up to those of at least 
+        retirement age, will increase in a linear progression from 0 
+        percent to 100 percent as the cohort approaches retirement age.
+            ``(2) Investment in equities.--In accordance with 
+        regulations which shall be prescribed by the Board, the Board 
+        shall establish standards which must be met by equities 
+        selected for investment in the Lifecycle Investment Account. In 
+        conformity with such standards, the Board shall select, for 
+        purposes of such investment, indices which are comprised of 
+        equities the aggregate market value of which is, in each case, 
+        a reasonably broad representation of companies whose shares are 
+        traded on the equity markets. Amounts invested in equities 
+        under an investment option shall be held in a portfolio 
+        designed to replicate the performance of one or more of such 
+        indices.
+            ``(3) Investment in fixed income instruments.--In 
+        accordance with regulations which shall be prescribed by the 
+        Board, the Board shall establish standards which must be met by 
+        fixed income instruments selected for investment in the 
+        Lifecycle Investment Account. Such standards shall take into 
+        account the competing considerations of risk and return. 
+        Amounts invested in fixed income instruments in an investment 
+        option shall be held in a portfolio which shall consist of a 
+        diverse range of fixed income instruments, taking into full 
+        account the opposing considerations of risk and maximization of 
+        return.
+    ``(e) Government Securities Investment Account.--
+            ``(1) In general.--Amounts in the Government Securities 
+        Investment Account shall be invested in securities of the 
+        United States Government as provided in this subsection
+            ``(2) Issuance of special obligations.--The Secretary of 
+        the Treasury is authorized to issue special interest-bearing 
+        obligations of the United States for purchase by the Tier II 
+        Investment Fund for purposes of investment of amounts in the 
+        Government Securities Investment Account. Such obligations 
+        shall have maturities fixed with due regard to the needs of the 
+        Fund as determined by the Board, and shall bear interest at a 
+        rate equal to the average market yield (computed by the 
+        Secretary of the treasury on the basis of market quotations as 
+        of the end of the calendar month next preceding the date of 
+        issue of such obligations) on all marketable interest-bearing 
+        obligations of the United States then forming a part of the 
+        public debt which are not due or callable earlier than 4 years 
+        after the end of such calendar month. Any average market yield 
+        computed under this paragraph which is not a multiple of one-
+        eighth of 1 percent shall be rounded to the nearest multiple of 
+        one-eighth of 1 percent.
+    ``(f) Fixed Income Investment Account.--Amounts in the Fixed Income 
+Investment Account shall be invested in instruments or obligations 
+which return the amount invested and pay interest, at a specified rate 
+or rates, on that amount during a specified period of time, consisting 
+of instruments or obligations in one or more of the following 
+categories:
+            ``(1) insurance contracts;
+            ``(2) certificates of deposit; or
+            ``(3) other instruments or obligations selected by 
+        qualified professional asset managers.
+    ``(g) Common Stock Index Investment Account.--
+            ``(1) Portfolio design.--Amounts held in the Common Stock 
+        Investment Account shall be invested in a portfolio of common 
+        stock designed to replicate the performance of the index 
+        selected under paragraph (2). The portfolio shall be designed 
+        such that, to the extent practicable, the percentage of the 
+        balance in the Common Stock Index Investment Account that is 
+        invested in each stock is the same as the percentage determined 
+        by dividing the aggregate market value of all shares of that 
+        stock by the aggregate market value of all shares of all stocks 
+        included in such index.
+            ``(2) Selection of index.--The Board shall select, for 
+        purposes of investment of amounts held in the Common Stock 
+        Investment Account, an index which is a commonly recognized 
+        index comprised of common stock the aggregate market value of 
+        which is a reasonably complete representation of the United 
+        States equity markets.
+    ``(h) Small Capitalization Stock Index Investment Account.--
+            ``(1) Portfolio design.--Amounts held in the Small 
+        Capitalization Stock Index Investment Account shall be invested 
+        in a portfolio of common stock designed to replicate the 
+        performance of the index selected under paragraph (2). The 
+        portfolio shall be designed such that, to the extent 
+        practicable, the percentage of the balance in the Small 
+        Capitalization Stock Index Investment Account that is invested 
+        in each stock is the same as the percentage determined by 
+        dividing the aggregate market value of all shares of that stock 
+        by the aggregate market value of all shares of all stocks 
+        included in such index.
+            ``(2) Selection of index.--The Board shall select, for 
+        purposes of investment of amounts held in the Small 
+        Capitalization Stock Index Investment Account, an index which 
+        is a commonly recognized index comprised of common stock the 
+        aggregate market value of which represents the United States 
+        equity markets excluding the common stocks included in the 
+        Common Stock Index Investment Account.
+    ``(i) International Stock Index Investment Account.--
+            ``(1) Portfolio design.--Amounts held in the International 
+        Stock Index Investment Account shall be invested in a portfolio 
+        of stock designed to replicate the performance of the index 
+        selected under paragraph (2). The portfolio shall be designed 
+        such that, to the extent practicable, the percentage of the 
+        balance in the International Stock Index Investment Account 
+        that is invested in each stock is the same as the percentage 
+        determined by dividing the aggregate market value of all shares 
+        of that stock by the aggregate market value of all shares of 
+        all stocks included in such index.
+            ``(2) Selection of index.--The Board shall select, for 
+        purposes of investment of amounts held in the International 
+        Stock Index Investment Account, an index which is a commonly 
+        recognized index comprised of common stock the aggregate market 
+        value of which is a reasonably complete representation of the 
+        international equity markets excluding the United States equity 
+        markets.
+    ``(j) Additional Investment Options.--The Board may from time to 
+time, as determined by regulation as appropriate to further the 
+purposes of this section, shall--
+            ``(1) establish investment accounts in the Tier II 
+        Investment Fund meeting the requirements of this section in 
+        addition to those established by this section, and
+            ``(2) terminate investment accounts in the Tier II 
+        Investment Fund established pursuant to paragraph (1).
+    ``(k) Disclosure of Administrative Costs.--The Board shall provide 
+to each participating individual an annual disclosure of the rate of 
+administrative costs chargeable with respect to investment in each 
+investment account in the Tier II Investment Fund. Such disclosure 
+shall be written in a manner calculated to be understood by the average 
+participating individual.
+    ``(l) Treatment of Amounts Held in Tier II Investment Fund.--
+Subject to this part, amounts deposited into, and held and accounted 
+for in, the Tier II Investment Fund with respect to any participating 
+individual shall continue to be treated as property of such 
+participating individual, held in trust for such participating 
+individual in the Fund.
+
+``SEC. 257. TIER III INVESTMENT OPTIONS.
+
+    ``(a) Election of Tier III Investment Options.--
+            ``(1) In general.--A participating individual may elect to 
+        direct transfers from amounts in the Savings Fund credited to 
+        the personal social security savings account of such individual 
+        into 1 or more Tier III Investment Options in accordance with 
+        paragraph (2).
+            ``(2) Commencement of tier iii investment options upon 
+        attainment of election threshold.--In any case in which, as of 
+        the end of any calendar year, the total balance in the Savings 
+        Fund credited to a participating individual's personal social 
+        security savings account exceeds for the first time the 
+        election threshold, the Board shall, by regulation, provide for 
+        an opportunity for such participating individual to make, at 
+        any time thereafter, such individual's first election of one or 
+        more of the Tier III Investment Options for investment of an 
+        amount in the Savings Fund credited to such account. Such 
+        election may be in lieu of or in addition to investment in the 
+        options available with respect to the Tier II Investment Fund 
+        of the Savings Fund.
+            ``(3) Allocation of funds.--In the case of an election 
+        under paragraph (1), funds credited to the personal social 
+        security savings account of the participating individual and 
+        elected for transfer to one or more Tier III Investment Options 
+        shall be transferred to the Tier III Investment Options so 
+        elected for such calendar year, in percentages specified in the 
+        election by the participating individual for each applicable 
+        portfolio.
+            ``(4) Election threshold.--
+                    ``(A) In general.--Subject to subparagraph (B), for 
+                purposes of this subsection the term `election 
+                threshold' means an amount equal to $25,000.
+                    ``(B) Adjustments.--The Board shall adjust annually 
+                (effective for annual reporting months occurring after 
+                December 2006) the dollar amount set forth in 
+                subparagraph (A) under procedures providing for 
+                adjustments in the same manner and to the same extent 
+                as adjustments are provided for under the procedures 
+                used to adjust benefit amounts under section 
+                215(i)(2)(A), except that any amount so adjusted that 
+                is not a multiple of $1.00 shall be rounded to the 
+                nearest multiple of $1.00.
+            ``(5) Subsequent investment of amounts held in tier iii 
+        investment options.--Any amounts held in one or more Tier III 
+        Investment Options may be--
+                    ``(A) transferred at any time to one or more other 
+                Tier III Investment Options, subject to applicable 
+                regulations of the Board and the terms governing the 
+                affected Tier III Investment Options, and
+                    ``(B) transferred, not more frequently than 
+                annually, to the Tier II Investment Fund, for deposit 
+                in the applicable investment account then selected by 
+                the participating individual under section 256.
+    ``(b) Certification of Eligible Entities.--
+            ``(1) In general.--The Board shall certify eligible 
+        entities to offer Tier III Investment Options under this part.
+            ``(2) Application.--Any eligible entity that desires to be 
+        certified by the Board to offer a Tier III Investment Option 
+        shall submit an application to the Board at such time, in such 
+        manner, and containing such information as the Board may 
+        require.
+            ``(3) Requirements for approval.--The Board shall not 
+        certify an eligible entity unless such eligible entity agrees 
+        to the following requirements:
+                    ``(A) Separate accounting.--Each eligible entity 
+                shall, with respect to each Tier III Investment Option 
+                offered by such eligible entity to participating 
+                individuals--
+                            ``(i) establish separate accounts for the 
+                        contributions of each participating individual, 
+                        and any earnings properly allocable to the 
+                        contributions, and
+                            ``(ii) maintain separate recordkeeping with 
+                        respect to each account.
+                    ``(B) Treatment of amounts held in fund.--Amounts 
+                deposited into, and held and accounted for in, a Tier 
+                III Investment Option with respect to any participating 
+                individual shall be treated as property of such 
+                participating individual, held in trust for such 
+                participating individual.
+                    ``(C) Trust requirements.--Amounts held and 
+                accounted for with respect to a participating 
+                individual shall be held in a trust created or 
+                organized in the United States for the exclusive 
+                benefit of such individual or his beneficiaries.
+                    ``(D) Exemption from third party claims.--Each Tier 
+                III Investment Option shall be exempt from any and all 
+                third party claims against the eligible entity.
+                    ``(E) Disclosure of administrative costs.--Each 
+                eligible entity offering a Tier III Investment Option 
+                under this section shall provide to each participating 
+                individual an annual disclosure of the rate of 
+                administrative costs chargeable with respect to 
+                investment in such Option. Such disclosure shall be 
+                written in a manner calculated to be understood by the 
+                average participating individual. The Board shall 
+                provide for coordination of disclosures with respect to 
+                Tier III Investment Options under this subparagraph so 
+                as to assist participating individuals in comparing 
+                alternative Options based on administrative costs.
+                    ``(F) Reporting to the executive director and the 
+                board.--Each eligible entity shall provide reports to 
+                the Executive Director and the Board at such time, in 
+                such manner, and containing such information as the 
+                Board may require.
+            ``(4) Eligible entity defined.--For purposes of this 
+        section, the term `eligible entity' means any investment 
+        company (as defined in section 3 of the Investment Company Act 
+        of 1940) or other person that the Board determines appropriate 
+        to offer Tier III Investment Options under this part.
+    ``(c) Approval of Tier III Investment Options.--
+            ``(1) In general.--No funds may be transferred into a Tier 
+        III Investment Option unless the Board has approved an 
+        application submitted under paragraph (2) with respect to the 
+        option.
+            ``(2) Application.--With respect to each Tier III 
+        Investment Option that an eligible entity certified under 
+        subsection (b)(1) seeks to offer, such entity shall submit an 
+        application to the Board at such time, in such manner, and 
+        containing such information as the Board may require.
+            ``(3) Qualifications for approval.--The Board may not 
+        approve an application submitted under paragraph (2) in 
+        connection with a Tier III Investment Option unless the 
+        following requirements are met:
+                    ``(A) Option must be offered by certified eligible 
+                entity.--The Tier III Investment Option is offered by 
+                an eligible entity certified under subsection (b).
+                    ``(B) Option must meet quality factors.--
+                            ``(i) In general.--The Tier III Investment 
+                        Option meets qualifications which shall be 
+                        prescribed by the Board relating to the quality 
+                        factors described in clause (ii).
+                            ``(ii) Quality factors.--The quality 
+                        factors described in this clause are--
+                                    ``(I) the safety and soundness of 
+                                the Tier III Investment Option's 
+                                proposed investment policy;
+                                    ``(II) the experience and record of 
+                                performance of the proposed investment 
+                                option, if any;
+                                    ``(III) the experience and record 
+                                of performance of the entity issuing or 
+                                offering such option; and
+                                    ``(IV) such other factors as the 
+                                Board may determine appropriate.
+    ``(d) Considerations for Certification and Approval.--In 
+determining whether to certify an eligible entity under subsection (b) 
+or to approve a Tier III Investment Option under subsection (c), the 
+Board shall--
+            ``(1) act in the best interests of the participating 
+        individuals;
+            ``(2) base its determination solely on considerations of 
+        balancing safety and soundness of the Tier III Investment 
+        Option with the maximization of returns of such option; and
+            ``(3) not base any determination related to the entity or 
+        option on political or other extraneous considerations.
+    ``(e) Sponsorship of Tier III Investment Options by Membership and 
+Labor Organizations.--
+            ``(1) In general.--A membership or labor organization (as 
+        defined by the Board) may sponsor Tier III Investment Options 
+        under contracts with eligible entities certified under 
+        subsection (b) who shall administer the investment option if 
+        such investment option is approved by the Board under 
+        subsection (c).
+            ``(2) Limitation to membership.--A membership or labor 
+        organization (as so defined) may limit to the members of such 
+        organization participation in a Tier III Investment Option 
+        sponsored by such organization.
+    ``(f) Distributions in Case of Death.--Upon the death of a 
+participating individual, the amount of any assets held under a Tier 
+III Investment Option credited to the personal social security savings 
+account of such individual shall be distributed in accordance with 
+section 258(e).
+
+``SEC. 258. PERSONAL SOCIAL SECURITY SAVINGS ANNUITY AND OTHER 
+              DISTRIBUTIONS.
+
+    ``(a) Date of Initial Distribution.--Except as provided in 
+subsection (e), distributions may be made to a participating individual 
+from amounts credited to the personal social security savings account 
+of such individual only on or after the earliest of--
+            ``(1) the date the participating individual attains 
+        retirement age (as defined in section 216(l)(1)) or, if elected 
+        by the individual, early retirement age (as defined in section 
+        216(l)(2)); or
+            ``(2) the date on which the amount credited to the 
+        participating individual's personal social security savings 
+        account is sufficient to purchase a personal social security 
+        savings annuity with a monthly benefit that is at least equal 
+        to the minimum annuity payment amount (as defined in subsection 
+        (b)(4)(C)(iii)).
+    ``(b) Personal Social Security Savings Annuities.--
+            ``(1) Notice of available annuities.--Not later than the 
+        date determined under subsection (a), the Board shall notify 
+        each participating individual of--
+                    ``(A) the most recent listing of personal social 
+                security savings annuities offered by the Annuity 
+                Issuance Authority under paragraph (2); and
+                    ``(B) the entitlement of the participating 
+                individual to purchase such an annuity.
+            ``(2) Annuity issuance authority.--There is established in 
+        the office of the Board an agency which shall be known as the 
+        `Annuity Issuance Authority'. The Authority shall provide, in 
+        accordance with regulations of the Board, for the issuance of 
+        personal social security savings annuities for purchase from 
+        the Authority under this section and to otherwise administer 
+        the issuance of such annuities in accordance with such 
+        regulations.
+            ``(3) Annuity reserves account.--There is established in 
+        the Savings Fund an Annuity Reserves Account. The Account shall 
+        consist of all amounts received by the Authority from the 
+        purchase of personal social security savings annuities under 
+        this section (plus such amounts as may be transferred to the 
+        Account under paragraph (5)(B)), increased by the total net 
+        earnings from investments of such reserves under subparagraph 
+        (A) of paragraph (5) and reduced by the total net losses from 
+        investments of such reserves under such subparagraph.
+            ``(4) Purchase of annuities.--
+                    ``(A) Selection of annuity.--On a date elected by 
+                the participating individual, but no earlier than the 
+                date determined under subsection (a), a participating 
+                individual may purchase a personal social security 
+                savings annuity selected from among the annuities 
+                offered by the Authority under paragraph (2).
+                    ``(B) Transfer of assets.--Upon the selection of an 
+                annuity by a participating individual under 
+                subparagraph (A), the Board shall provide for the 
+                transfer of assets, credited to the personal social 
+                security savings account of the participating 
+                individual and held in the Tier II Investment Fund or 
+                under 1 or more Tier III Investment Options (or any 
+                combination thereof), in a total amount sufficient to 
+                purchase the annuity selected by the participating 
+                individual from annuities offered by the Authority.
+                    ``(C) Minimum annuity payment amount.--
+                            ``(i) In general.--Subject to subparagraph 
+                        (D), if, at the time a personal social security 
+                        savings annuity is purchased under subparagraph 
+                        (A), the assets credited to the personal social 
+                        security savings account of the participating 
+                        individual are sufficient to purchase a 
+                        personal social security savings annuity 
+                        offered by the Authority under paragraph (2) 
+                        with a monthly annuity payment that is at least 
+                        equal to the minimum annuity payment amount, 
+                        the amount of the monthly annuity payment 
+                        provided by such annuity may not be less then 
+                        the minimum annuity payment amount.
+                            ``(ii) Construction.--Nothing in this 
+                        subparagraph shall be construed to prohibit a 
+                        participating individual from using personal 
+                        social security savings account assets to 
+                        purchase a personal social security savings 
+                        annuity offered by the Authority under 
+                        paragraph (2) which provides for a monthly 
+                        payment in excess of the minimum amount 
+                        required under clause (i).
+                            ``(iii) Minimum annuity payment amount 
+                        defined.--For purposes of this part, the term 
+                        `minimum annuity payment amount' means, as of 
+                        any date, an amount equal to the monthly 
+                        equivalent of 150 percent of the poverty line 
+                        for an individual (as in effect on such date), 
+                        determined under the poverty guidelines of the 
+                        Department of Health and Human Services issued 
+                        under sections 652 and 673(2) of the Omnibus 
+                        Budget Reconciliation Act of 1981.
+                            ``(iv) Deemed total part a monthly benefit 
+                        amount.--For purposes of clause (iii), the term 
+                        `deemed total part A monthly benefit amount' 
+                        means, with respect to a participating 
+                        individual, the total amount which would be 
+                        payable as monthly insurance benefits under 
+                        section 202 for the month in which the 
+                        participating individual attains or would 
+                        attain early retirement age (as defined in 
+                        section 216(l)(2)), based on the participating 
+                        individual's wages and self-employment income, 
+                        if the participating individual applied for 
+                        old-age insurance benefits under section 202(a) 
+                        during such month and all other individuals who 
+                        would therefore be eligible for benefits under 
+                        section 202 for such month based on such wages 
+                        and self-employment income applied for such 
+                        benefits during such month.
+                            ``(v) Assumptions.--
+                                    ``(I) Earnings and longevity.--In 
+                                the case of a participating individual 
+                                with respect to whom determinations 
+                                under this subparagraph are made prior 
+                                to the month described in clause (iv), 
+                                the participating individual's average 
+                                indexed monthly earnings (within the 
+                                meaning of section 215(b)) for such 
+                                month shall be projected, under 
+                                regulations which shall be prescribed 
+                                by the Board, on the basis of 
+                                reasonable actuarial assumptions, and 
+                                the Board shall assume the survival 
+                                through the end of such month of all 
+                                other individuals described in clause 
+                                (iv).
+                                    ``(II) Projected investment 
+                                returns.--For purposes of making 
+                                actuarial determinations relating to 
+                                the amounts of annuities offered by the 
+                                Authority under this section and the 
+                                amounts necessary for the purchase of 
+                                such annuities, the Authority shall 
+                                project returns from the investment, in 
+                                accordance with paragraph (5)(A), of 
+                                the reserves held in the Annuities 
+                                Reserves Account. The projection by the 
+                                Authority of such returns shall be made 
+                                under assumptions of long-term average 
+                                returns of equities and fixed income 
+                                instruments which shall be issued 
+                                annually by the Board of Trustees of 
+                                the Federal Old-Age and Survivors 
+                                Insurance Trust Fund and the Federal 
+                                Disability Insurance Trust Fund, based 
+                                on analysis of historical market 
+                                returns.
+                    ``(D) Purchase of annuities in the event of 
+                insufficient assets.--If a participating individual 
+                desires, or is required under subsection (f) , to 
+                purchase a personal social security savings annuity 
+                under subsection (b) on or after the date determined 
+                under subsection (a)(1) and the assets of the personal 
+                social security savings account of such individual are 
+                insufficient to purchase a personal social security 
+                savings annuity that provides for a monthly payment 
+                that is at least equal to the minimum annuity payment 
+                amount (as defined in paragraph (4)(C)(iii)), the 
+                participating individual shall purchase a personal 
+                social security savings annuity with a monthly payment 
+                equal to the maximum amount that the participating 
+                individual's personal social security savings account 
+                can fund, as determined in accordance with regulations 
+                which shall be prescribed by the Authority, and that 
+                otherwise meets the requirements of this subsection 
+                (including the cost-of-living protection requirement of 
+                subsection (c)(1)(C)), and the Authority shall provide 
+                for appropriate certification to the Secretary of the 
+                Treasury with respect to the participating individual's 
+                eligibility for guarantee payments under section 259.
+            ``(5) Maintenance of reserves for payment of annuities.--
+                    ``(A) Investment of reserves.--For purposes of 
+                investment of reserves held in the Annuity Reserves 
+                Account, the Authority shall contract with appropriate 
+                investment managers, recordkeepers, and custodians 
+                selected by the Authority for investment of such 
+                reserves. Such reserves shall be invested under 
+                regulations which shall be prescribed by the Authority 
+                so as to ensure, to the maximum extent practicable, 
+                that, of the total balance of the reserves (after 
+                payment of administrative expenses to such managers, 
+                recordkeepers, and custodians)--
+                            ``(i) 65 percent is invested in equities in 
+                        the same manner and under the same standards as 
+                        are provided in section 256(c)(4), and
+                            ``(ii) 35 percent is invested in fixed 
+                        income instruments in the same manner and under 
+                        the same standards as are provided in section 
+                        256(c)(5).
+                    ``(B) Provision for full payment of annuities.--
+                Payment of personal social security savings annuities 
+                in accordance with the terms of such annuities shall be 
+                made, irrespective of the sufficiency of reserves in 
+                the Annuity Reserves Fund attributable to funds 
+                obtained from the purchase of such annuities. In the 
+                event of any impending insufficiency in the Annuity 
+                Reserves Account for the next fiscal year, the 
+                Authority shall certify to the Secretary of the 
+                Treasury the amount of such insufficiency, and the 
+                Secretary of the Treasury shall transfer from the 
+                Federal Old-Age and Survivors Insurance Trust Fund to 
+                the Annuity Reserves Account the amount of the 
+                insufficiency, as so certified, in such installments, 
+                made prior to or during such fiscal year, as are 
+                necessary to eliminate in advance such insufficiency.
+    ``(c) Personal Social Security Savings Annuity.--
+            ``(1) In general.--For purposes of this part, the term 
+        `personal social security savings annuity' means an annuity 
+        that meets the following requirements:
+                    ``(A) The annuity starting date (as defined in 
+                section 72(c)(4) of the Internal Revenue Code of 1986) 
+                commences on the first day of the month beginning after 
+                the date of the purchase of the annuity.
+                    ``(B) The terms of the annuity provide--
+                            ``(i) for a monthly payment to the 
+                        participating individual during the life of the 
+                        participating individual equal to at least the 
+                        minimum annuity payment amount (as defined in 
+                        subsection (b)(4)(C)(iii)), or
+                            ``(ii) in the case of an annuity purchased 
+                        under subparagraph (D) of subsection (b)(4), 
+                        the maximum monthly payment determined under 
+                        regulations prescribed under such subparagraph.
+                    ``(C) The terms of the annuity include procedures 
+                providing for adjustments in the amount of the monthly 
+                payments in the same manner and to the same extent as 
+                adjustments are provided for under the procedures used 
+                to adjust benefit amounts under section 215(i)(2)(A). 
+                Nothing in this subparagraph shall be construed to 
+                preclude the terms governing such an annuity from 
+                providing for adjustments in the amount of monthly 
+                payments resulting in a payment for any month greater 
+                than the payment for that month that would result from 
+                adjustments required under the preceding 
+                sentence.(b)(4)(D)
+                    ``(D) The terms of the annuity include such other 
+                terms and conditions as the Board requires for the 
+                protection of the annuitant.
+            ``(2) Exemption from third party claims.--Each personal 
+        social security savings annuity shall be exempt from any and 
+        all third party claims against the issuer.
+    ``(d) Right to Use Excess Personal Social Security Savings Account 
+Assets.--To the extent assets credited to a participating individual's 
+personal social security savings account remain after the purchase of 
+an annuity under subsection (b), the remaining assets shall be payable 
+to the participating individual at such time, in such manner, and in 
+such amounts as the participating individual may specify, subject to 
+subsection (f).
+    ``(e) Distributions in Case of Death.--If the participating 
+individual dies before all amounts which are held in the Tier I 
+Investment Fund or the Tier II Investment Fund of the Savings Fund or 
+held under a Tier III Investment Option and which are credited to the 
+personal social security savings account of the individual are 
+otherwise distributed in accordance with this section, such amounts 
+shall be distributed, under regulations which shall be prescribed by 
+the Board--
+            ``(1) in any case in which one or more beneficiaries have 
+        been designated in advance, to such beneficiaries in accordance 
+        with such designation as provided in such regulations, and
+            ``(2) in the case of any amount not distributed as 
+        described in paragraph (1), to such individual's estate.
+    ``(f) Date of Final Distribution.--All amounts credited to the 
+personal social security savings account of an individual shall be 
+distributed, by means of the purchase of annuities or otherwise in a 
+manner consistent with the requirements of this section, not later than 
+5 years after the date the individual attains retirement age (as 
+defined in section 216(l)). The Board shall provide by regulation for 
+means of distribution necessary to ensure compliance with the 
+requirements of this subsection.
+
+``SEC. 259. GUARANTEE OF PROMISED BENEFITS.
+
+    ``(a) In General.--If, for any month ending after the date on which 
+a participating individual attains retirement age (as defined in 
+section 216(l)(1)), the monthly payment under a participating 
+individual's personal social security savings annuity is less than the 
+minimum annuity payment amount (as defined in section 
+258(b)(4)(C)(iii)), adjusted as provided in section 258(c)(1)(C), the 
+Annuity Issuance Authority shall so certify to the Secretary of the 
+Treasury and, upon receipt of such certification, such Secretary shall 
+provide to the participating individual, from amounts in the Federal 
+Old-Age and Survivors Insurance Trust Fund, a guaranty payment for such 
+month to supplement the personal social security savings annuity and to 
+guarantee full payment of such individual's monthly promised benefits.
+    ``(b) Guaranty Payment.--For purposes of subsection (a), a 
+participating individual's guaranty payment for any month is equal to 
+the excess of--
+            ``(1) the minimum annuity payment amount (as defined in 
+        section 258(b)(4)(C)(iii)), adjusted as provided in section 
+        258(c)(1)(C); over
+            ``(2) the payment for such month of the personal social 
+        security savings annuity purchased by the participating 
+        individual.
+    ``(c) Protection of Part A Normal Retirement Benefit Levels.--
+            ``(1) In general.--In any case in which, for any month 
+        ending after the date on which a participating individual 
+        attains retirement age (as defined in section 216(l)(1))--
+                    ``(A) such individual's assumed total normal 
+                retirement part A benefit for such month, exceeds
+                    ``(B) the monthly payment payable for such month 
+                under such individual's personal social security 
+                savings annuity,
+        the Secretary of the Treasury shall pay to such individual for 
+        such month, from amounts in the Federal Old-Age and Survivors 
+        Insurance Trust Fund, an additional amount (if any) equal to 
+        the excess of the amount described in subparagraph (A) over the 
+        amount described in subparagraph (B).
+            ``(2) Definition.--For purposes of this subsection, the 
+        term `assumed total normal retirement part A benefit' means, in 
+        connection with a participating individual, the total amount of 
+        monthly insurance benefits under section 202 based on such 
+        individual's wages and self-employment income (adjusted by 
+        taking into account adjustments under section 215(i)) that 
+        would have been payable if--
+                    ``(A) section 202(z) did not apply, and
+                    ``(B) such individual applied for old-age insurance 
+                benefits under section 202(a) during the month in which 
+                such individual attains retirement age (as defined in 
+                section 216(l)(1)).
+
+``SEC. 260. PERSONAL SOCIAL SECURITY SAVINGS BOARD.
+
+    ``(a) Establishment.--There is established in the executive branch 
+of the Government a Personal Social Security Savings Board.
+    ``(b) Composition.--The Board shall be composed of--
+            ``(1) 3 members appointed by the President, of whom 1 shall 
+        be designated by the President as Chairman; and
+            ``(2) 2 members appointed by the President, of whom--
+                    ``(A) 1 shall be appointed by the President after 
+                taking into consideration the recommendation made by 
+                the Speaker of the House of Representatives in 
+                consultation with the Minority Leader of the House of 
+                Representatives; and
+                    ``(B) 1 shall be appointed by the President after 
+                taking into consideration the recommendation made by 
+                the Majority Leader of the Senate in consultation with 
+                the Minority Leader of the Senate.
+    ``(c) Advice and Consent.--Appointments under subsection (b) shall 
+be made by and with the advice and consent of the Senate.
+    ``(d) Membership Requirements.--Members of the Board shall have 
+substantial experience, training, and expertise in the management of 
+financial investments and pension benefit plans.
+    ``(e) Length of Appointments.--
+            ``(1) Terms.--A member of the Board shall be appointed for 
+        a term of 4 years, except that of the members first appointed 
+        under subsection (b)--
+                    ``(A) the Chairman shall be appointed for a term of 
+                4 years;
+                    ``(B) the members appointed under subsection (b)(2) 
+                shall be appointed for terms of 3 years; and
+                    ``(C) the remaining members shall be appointed for 
+                terms of 2 years.
+            ``(2) Vacancies.--
+                    ``(A) In general.--A vacancy on the Board shall be 
+                filled in the manner in which the original appointment 
+                was made and shall be subject to any conditions that 
+                applied with respect to the original appointment.
+                    ``(B) Completion of term.--An individual chosen to 
+                fill a vacancy shall be appointed for the unexpired 
+                term of the member replaced.
+            ``(3) Expiration.--The term of any member shall not expire 
+        before the date on which the member's successor takes office.
+    ``(f) Duties.--The Board shall--
+            ``(1) administer the program established under this part;
+            ``(2) establish policies for the investment and management 
+        of the Savings Fund, including the Tier I Investment Fund and 
+        the Tier II Investment Fund, and amounts held under Tier III 
+        Investment Options, including policies applicable to the asset 
+        managers, recordkeepers, and custodians with responsibility for 
+        managing the investment of amounts credited to personal social 
+        security investment accounts, and for the management and 
+        operation of personal social security savings annuities, which 
+        shall provide for--
+                    ``(A) prudent investments suitable for accumulating 
+                funds for payment of retirement income;
+                    ``(B) sound management practices; and
+                    ``(C) low administrative costs;
+            ``(3) review the performance of investments made for the 
+        Tier I Investment Fund and the Tier II Investment Fund;
+            ``(4) review the performance of investments made under Tier 
+        III Investment Options;
+            ``(5) review the management and operation of personal 
+        social security savings annuities;
+            ``(6) review and approve the budget of the Board; and
+            ``(7) comply with the fiduciary requirements of part 4 of 
+        subtitle B of title I of the Employee Retirement Income 
+        Security Act of 1974 (relating to fiduciary responsibility) in 
+        connection with any exercise of discretion in connection with 
+        the assets of the Savings Fund.
+    ``(g) Administrative Provisions.--
+            ``(1) In general.--The Board may--
+                    ``(A) adopt, alter, and use a seal;
+                    ``(B) except as provided in paragraph (4), direct 
+                the Executive Director to take such action as the Board 
+                considers appropriate to carry out the provisions of 
+                this part and the policies of the Board in accordance 
+                with delegations under this part;
+                    ``(C) upon the concurring votes of 4 members, 
+                remove the Executive Director from office for good 
+                cause shown;
+                    ``(D) provide to the Executive Director such 
+                resources as are necessary to carry out the duties of 
+                the Executive Director; and
+                    ``(E) take such other actions as may be necessary 
+                to carry out the functions of the Board.
+            ``(2) Meetings.--The Board shall meet--
+                    ``(A) not less than once during each month; and
+                    ``(B) at additional times at the call of the 
+                Chairman.
+            ``(3) Exercise of powers.--
+                    ``(A) In general.--Except as provided in paragraph 
+                (1)(C), the Board shall perform the functions and 
+                exercise the powers of the Board on a majority vote of 
+                a quorum of the Board. Three members of the Board shall 
+                constitute a quorum for the transaction of business.
+                    ``(B) Vacancies.--A vacancy on the Board shall not 
+                impair the authority of a quorum of the Board to 
+                perform the functions and exercise the powers of the 
+                Board.
+            ``(4) Limitations on investments.--The Board may not direct 
+        any person to invest or to cause to be invested any sums in the 
+        Tier II Investment Fund or any personal social security 
+        investment account in a specific asset or to dispose of or 
+        cause to be disposed of any specific asset of such Fund or any 
+        such account.
+    ``(h) Compensation.--
+            ``(1) In general.--Each member of the Board who is not an 
+        officer or employee of the Federal Government shall be 
+        compensated at the daily rate of basic pay for level IV of the 
+        Executive Schedule for each day during which such member is 
+        engaged in performing a function of the Board.
+            ``(2) Expenses.--A member of the Board shall be paid 
+        travel, per diem, and other necessary expenses under subchapter 
+        I of chapter 57 of title 5, United States Code, while traveling 
+        away from such member's home or regular place of business in 
+        the performance of the duties of the Board.
+            ``(3) Source of funds.--Payments authorized under this 
+        subsection shall be paid from the Tier I Investment Fund or the 
+        Tier II Investment Fund, as determined appropriate by the 
+        Board.
+    ``(i) Discharge of Responsibilities.--The members of the Board 
+shall discharge their responsibilities solely in the interest of the 
+participating individuals and their beneficiaries under this part.
+    ``(j) Annual Independent Audit.--The Board shall annually engage an 
+independent qualified public accountant to audit the activities of the 
+Board.
+    ``(k) Submission of Budget to Congress.--The Board shall prepare 
+and submit to the President, and, at the same time, to the appropriate 
+committees of Congress, an annual budget of the expenses and other 
+items relating to the Board which shall be included as a separate item 
+in the budget required to be transmitted to Congress under section 1105 
+of title 31, United States Code.
+    ``(l) Submission of Legislative Recommendations.--The Board may 
+submit to the President, and, at the same time, shall submit to each 
+House of Congress, any legislative recommendations of the Board 
+relating to any of its functions under this part or any other provision 
+of law.
+
+``SEC. 261. EXECUTIVE DIRECTOR.
+
+    ``(a) Appointment of Executive Director.--The Board shall appoint, 
+without regard to the provisions of law governing appointments in the 
+competitive service, an Executive Director by action agreed to by a 
+majority of the members of the Board.
+    ``(b) Duties.--The Executive Director shall, as determined 
+appropriate by the Board--
+            ``(1) carry out the policies established by the Board;
+            ``(2) invest and manage the Tier I Investment Fund and the 
+        Tier II Investment Fund in accordance with the investment 
+        policies and other policies established by the Board;
+            ``(3) administer the provisions of this part relating to 
+        the Tier I Investment Fund and the Tier II Investment Fund; and
+            ``(4) prescribe such regulations (other than regulations 
+        relating to fiduciary responsibilities) as may be necessary for 
+        the administration of this part relating to the Tier I 
+        Investment Fund and the Tier II Investment Fund.
+    ``(c) Administrative Authority.--The Executive Director may, within 
+the scope of the duties of the Executive Director as determined by the 
+Board--
+            ``(1) appoint such personnel as may be necessary to carry 
+        out the provisions of this part relating to the Tier I 
+        Investment Fund and the Tier II Investment Fund;
+            ``(2) subject to approval by the Board, procure the 
+        services of experts and consultants under section 3109 of title 
+        5, United States Code;
+            ``(3) secure directly from an Executive agency, the United 
+        States Postal Service, or the Postal Rate Commission any 
+        information necessary to carry out the provisions of this part 
+        and the policies of the Board relating to the Tier I Investment 
+        Fund and the Tier II Investment Fund;
+            ``(4) make such payments out of sums in the Tier I 
+        Investment Fund and the Tier II Investment Fund as the 
+        Executive Director determines, in accordance with regulations 
+        of the Board, are necessary to carry out the provisions of this 
+        part and the policies of the Board;
+            ``(5) pay the compensation, per diem, and travel expenses 
+        of individuals appointed under paragraphs (1), (2), and (6) 
+        from the Tier I Investment Fund or the Tier II Investment Fund, 
+        in accordance with regulations of the Board;
+            ``(6) accept and use the services of individuals employed 
+        intermittently in the Government service and reimburse such 
+        individuals for travel expenses, authorized by section 5703 of 
+        title 5, United States Code, including per diem as authorized 
+        by section 5702 of such title;
+            ``(7) except as otherwise expressly prohibited by law or 
+        the policies of the Board, delegate any of the Executive 
+        Director's functions to such employees under the Board as the 
+        Executive Director may designate and authorize such successive 
+        redelegations of such functions to such employees under the 
+        Board as the Executive Director may consider to be necessary or 
+        appropriate; and
+            ``(8) take such other actions as are appropriate to carry 
+        out the functions of the Executive Director.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply with respect to wages paid after December 31, 2005, for pay 
+periods ending after such date and self-employment income for taxable 
+years beginning after such date.
+
+SEC. 102. MONTHLY INSURANCE BENEFITS FOR PARTICIPATING INDIVIDUALS.
+
+    Section 202 of the Social Security Act (42 U.S.C. 402) is amended 
+by adding at the end the following new subsection:
+
+                ``Benefits for Participants Under Part B
+
+    ``(z)(1) Notwithstanding the preceding provisions of this section--
+            ``(A) a participating individual under the Personal Social 
+        Security Savings Accounts Program under part B shall not be 
+        entitled to old-age insurance benefits under subsection (a); 
+        and
+            ``(B) except as provided in paragraph (2), no individual 
+        shall be entitled to benefits under this section on the basis 
+        of the wages and self-employment income of such a participating 
+        individual.
+    ``(2) In the case of any such participating individual who dies 
+before such individual purchases a personal social security savings 
+annuity under section 258, paragraph (1)(B) shall not apply with 
+respect to child's insurance benefits under subsection (d), widow's 
+insurance benefits under subsection (e), widower's insurance benefits 
+under subsection (f), mother's and father's insurance benefits under 
+subsection (g), and parent's insurance benefits under subsection 
+(h).''.
+
+SEC. 103. GENERAL FUND TRANSFERS TO THE FEDERAL OLD-AGE AND SURVIVORS 
+              INSURANCE TRUST FUND.
+
+    (a) Recapture of Corporate Tax on Account Yields.--
+            (1) In general.--Section 201 of the Social Security Act (42 
+        U.S.C. 401) is amended by adding at the end the following new 
+        subsection:
+
+ ``Recapture of Corporate Tax on Yields From Personal Social Security 
+                      Savings Account Investments
+
+    ``(o) The Secretary of the Treasury, in consultation with the 
+Personal Social Security Savings Board, shall estimate and transfer to 
+the Federal Old-Age and Survivors Insurance Trust Fund within 3 months 
+after the end of each fiscal year an amount equal to the recapture 
+amount for such fiscal year. For purposes of the preceding sentence, 
+the recapture amount for any fiscal year shall be equal to the amount 
+of corporate tax receipts under the Internal Revenue Code of 1986 
+deposited in the Treasury for that fiscal year which are attributable 
+to personal social security savings account investments under part B of 
+this title.''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall apply with respect to fiscal years beginning after 
+        September 30, 2005.
+            (3) Initial assumptions.--In determining the recapture 
+        amount under section 201(o) of the Social Security Act (added 
+        by paragraph (1)) for fiscal years 2006 and 2007, the Secretary 
+        of the Treasury shall make the following assumptions concerning 
+        the total amount of taxable capital in the United States 
+        represented by the total assets held by personal social 
+        security savings accounts established under part B of title II 
+        of the Social Security Act:
+                    (A) 80 percent of such total assets are a net 
+                addition to national investments.
+                    (B) Of the amount described in subparagraph (A), 90 
+                percent will be invested in the United States and 
+                subject to taxation under the Internal Revenue Code of 
+                1986.
+                    (C) Of the amount described in subparagraph (B), 95 
+                percent will be subject to the Federal corporate tax.
+                    (D) The amount described in subparagraph (C) is 
+                subject to the statutory tax rate of 35 percent 
+                (resulting in an effective corporate tax rate of 23.9 
+                percent on the earnings of all such total assets).
+    (b) Recapture of Government Savings Over Baseline.--
+            (1) In general.--Section 201 of the Social Security Act (as 
+        amended by subsection (a)) is amended further by adding at the 
+        end the following new subsection:
+
+            ``Recapture of Government Savings Over Baseline
+
+    ``(p)(1) In general.--The Secretary of the Treasury, in 
+consultation with the Personal Social Security Savings Board, shall 
+estimate and transfer to the Federal Old-Age and Survivors Insurance 
+Trust Fund within 3 months after the end of each fiscal year an amount 
+equal to the spending reductions amount for such fiscal year. For 
+purposes of the preceding sentence, the spending reductions amount 
+shall be an amount equal to--
+            ``(A) for any fiscal year in the period beginning with 
+        fiscal year 2006 and ending with fiscal year 2013, the excess 
+        of--
+                    ``(i) 20 percent of the gross domestic product (as 
+                determined by the Congressional Budget Office) for the 
+                fiscal year for which the determination is made; over
+                    ``(ii) the product of--
+                            ``(I) 20 percent of the gross domestic 
+                        product (as so determined) for the fiscal year 
+                        for which the determination is made; and
+                            ``(II) 0.99, factored a number of times 
+                        equal to the number of fiscal years during such 
+                        period which end with or before the fiscal year 
+                        for which the determination is made; and
+            ``(B) for any fiscal year beginning after fiscal year 2013 
+        and ending with the termination year--
+                    ``(i) the amount determined under subparagraph (A) 
+                for fiscal year 2013; increased by
+                    ``(ii) the rate of growth of the gross domestic 
+                product (as so determined) over the period beginning 
+                with fiscal year 2014 and ending with the fiscal year 
+                for which the determination is made.
+    ``(2) Accommodation for low oasdi balance ratio.--Notwithstanding 
+paragraph (1)(B), in any case in which the OASDI trust fund ratio is 
+less than 125 percent as of the end of the fiscal year preceding each 
+fiscal year during any period of 1 or more fiscal years referred to in 
+paragraph (1)(B) and preceding the termination year--
+            ``(A) the spending reductions amount for each fiscal year 
+        during such period shall be the excess of--
+                    ``(i) 20 percent of the gross domestic product (as 
+                projected by the Department of Commerce) for the fiscal 
+                year for which the determination is made; over
+                    ``(ii) the product of--
+                            ``(I) 20 percent of the gross domestic 
+                        product (as so projected) for the fiscal year 
+                        for which the determination is made; and
+                            ``(II) 0.99, factored a number of times 
+                        equal to the number of fiscal years during such 
+                        period which end with or before the fiscal year 
+                        for which the determination is made plus the 
+                        number of fiscal years during the period 
+                        described in paragraph (1)(A), and
+            ``(B) paragraph (1)(B) shall apply with respect to 
+        subsequent fiscal years by substituting for the reference, in 
+        paragraph (1)(B)(i), to fiscal year 2013 a reference to the 
+        last fiscal year in such period.
+    ``(3) Termination year.--For purposes of paragraph (1)(B), the 
+`termination year' is the first fiscal year, after fiscal year 2013--
+            ``(A) for which the OASDI trust fund ratio is at least 125 
+        percent; and
+            ``(B) on the last day of which there are no outstanding 
+        transition obligations of the Self-Liquidating Social Security 
+        Transition Fund under section 262.
+    ``(4) OASDI trust fund ratio.--In paragraph (2)(A), the term `OASDI 
+trust fund ratio' means, for a fiscal year, the ratio (expressed as a 
+percentage) of--
+            ``(A) the combined balance in the Federal Old-Age and 
+        Survivors Insurance Trust Fund and the Federal Disability 
+        Insurance Trust Fund, as of the last day of such fiscal year; 
+        over
+            ``(B) the amount estimated by the Commissioner of Social 
+        Security to be the total amount to be paid from such Trust 
+        Funds during the fiscal year following such fiscal year for all 
+        purposes authorized by this section (excluding any transfer 
+        payments between such Trust Funds and reducing the amount of 
+        any transfer to the Railroad Retirement Account by the amount 
+        of any transfers into either such Trust Fund from such 
+        Account).''.
+            (2) Effective date.--The amendment made by paragraph (1) 
+        shall apply with respect to fiscal years beginning after 
+        September 30, 2005.
+
+SEC. 104. TAX TREATMENT OF ACCOUNTS.
+
+    (a) In General.--
+            (1) In general.--Subchapter F of chapter 1 of the Internal 
+        Revenue Code of 1986 (relating to exempt organizations) is 
+        amended by adding at the end the following new part:
+
+          ``PART IX--PERSONAL SOCIAL SECURITY SAVINGS PROGRAM
+
+``Sec. 530A. Personal social security savings program
+
+``SEC. 530A. PERSONAL SOCIAL SECURITY SAVINGS PROGRAM.
+
+    ``(a) General Rule.--The Social Security Personal Savings Fund and 
+each Tier III Investment Option are exempt from taxation under this 
+subtitle. Notwithstanding the preceding sentence, sums in a personal 
+social security savings account which are attributable to a Tier III 
+Option shall be subject to the taxes imposed by section 511 (relating 
+to imposition of tax on unrelated business income of charitable, etc. 
+organizations).
+    ``(b) Distributions.--
+            ``(1) In general.--Any qualified distribution from--
+                    ``(A) amounts credited to a personal social 
+                security savings account from the Social Security 
+                Personal Savings Fund or attributable to a Tier III 
+                Investment Option, or
+                    ``(B) a personal social security savings annuity,
+        shall not be included in the gross income of the distributee.
+            ``(2) Qualified distribution.--For purposes of paragraph 
+        (1), the term `qualified distribution' means a distribution 
+        which meets the requirements of section 258 of the Social 
+        Security Act and which is not a guaranty payment (as defined by 
+        section 259 of such Act).
+    ``(c) Definitions.--For purposes of this section--
+            ``(1) Personal social security savings account.--The term 
+        `personal social security savings account' means an account 
+        established under section 254(a) of the Social Security Act.
+            ``(2) Personal social security savings annuity.--The term 
+        `personal social security savings annuity' means an annuity 
+        approved by the Personal Social Security Savings Board under 
+        section 258(b)(3) of the Social Security Act.
+            ``(3) Social security personal savings fund.--The term 
+        `Social Security Personal Savings Fund' means the Savings Fund 
+        established under section 252 of the Social Security Act.
+            ``(4) Tier iii investment option.--The term `Tier III 
+        Investment Option' has the meaning given such term by section 
+        251(9) of the Social Security Act.
+    ``(d) Estate Tax Treatment.--No amount shall be includible in the 
+gross estate of any individual for purposes of chapter 11 by reason of 
+an interest in the Tier I Investment Fund or the Tier II Investment 
+Fund of the Savings Fund or held under a Tier III Investment Option and 
+which is credited to the personal social security savings account of 
+the individual.''.
+            (2) Conforming amendment.--Section 86(d)(1)(A) of such Code 
+        is amended by inserting ``part A of'' after ``under''.
+            (3) Clerical amendment.--The table of parts for subchapter 
+        F of chapter 1 of such Code is amended by adding after the item 
+        relating to part VIII the following new item:
+
+        ``Part IX. Personal Social Security Savings Program.''.
+
+    (b) Guaranty Payments.--Paragraph (1) of section 86(d) of the 
+Internal Revenue Act of 1986, as amended by subsection (b), is amended 
+by striking ``or'' at the end of subparagraph (A), by striking the 
+period and inserting ``, or'' at the end of subparagraph (B), and by 
+adding at the end the following new subparagraph:
+                    ``(C) a guaranty payment under section 259(a), and 
+                a payment of an additional amount under section 259(c), 
+                of the Social Security Act.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2005.
+
+SEC. 105. SELF-LIQUIDATING SOCIAL SECURITY TRANSITION FUND.
+
+    Part B of title II of the Social Security Act (as added by section 
+101 of this Act) is amended by adding at the end the following new 
+section:
+
+``SEC. 262. SELF-LIQUIDATING SOCIAL SECURITY TRANSITION FUND.
+
+    ``(a) Establishment.--There is hereby created on the books of the 
+Treasury of the United States a trust fund to be known as the Self-
+Liquidating Social Security Transition Fund (in this section referred 
+to as the `Transition Fund').
+    ``(b) Board of Trustees.--
+            ``(1) Establishment.--With respect to the Transition Fund, 
+        there is hereby created a body to be known as the Board of 
+        Trustees of the Transition Fund (in this section referred to as 
+        the `Board of Trustees') composed of the Commissioner of Social 
+        Security, the Secretary of the Treasury, and the members of the 
+        Personal Social Security Savings Board.
+            ``(2) Duties.--The Board of Trustees shall--
+                    ``(A) provide for the issuance of obligations by 
+                the Transition Fund pursuant to subsection (c),
+                    ``(B) provide for the receipt and management of 
+                amounts paid into the Transition Fund pursuant to 
+                subsection (d),
+                    ``(C) use all funds paid into the Transition Fund 
+                to redeem obligations issued under subsection (c) as 
+                soon as practicable,
+                    ``(D) report to Congress not later than the first 
+                day of April of each year on the operation and status 
+                of the Transition Fund during the preceding fiscal year 
+                and on its expected operation and status during the 
+                current fiscal year and the next 2 fiscal years, and
+                    ``(E) review the general policies followed in 
+                managing the Transition Fund, and recommend changes in 
+                such policies, including necessary changes in the 
+                provisions of law which govern the way in which the 
+                Transition Fund is to be managed.
+            ``(3) Meetings.--The Board of Trustees shall meet not less 
+        frequently than once each calendar year.
+    ``(c) Issuance of Transition Fund Bonds.--
+            ``(1) Issuance.--
+                    ``(A) In general.--The purposes for which 
+                obligations of the United States may be issued under 
+                chapter 31 of title 31, United States Code, are hereby 
+                extended to authorize the issuance at par of public-
+                debt obligations by the Transition Fund.
+                    ``(B) Required issuance.--Beginning on January 1, 
+                2006, whenever any obligation held in the Federal Old-
+                Age and Survivors Insurance Trust Fund or the Federal 
+                Disability Insurance Trust Fund is repaid from the 
+                general fund of the Treasury to either of such Trust 
+                Funds, the Transition Fund shall issue an obligation 
+                under this subsection in an amount equal to the amount 
+                of interest and principal so repaid.
+                    ``(C) Transfer of proceeds to general fund of the 
+                treasury.--Proceeds from the issuance of any obligation 
+                issued under this section shall be transferred to the 
+                general fund of the Treasury.
+                    ``(D) Accounting.--The debt owed on any obligation 
+                issued under this section shall be considered to be 
+                debt of the Transition Fund and shall be accounted for 
+                in such manner.
+            ``(2) Maturities and interest rate.--Such obligations 
+        issued by the Transition Fund for purchase by the public shall 
+        have maturities fixed with due regard for the needs of the 
+        Transition Fund and shall bear interest at a rate equal to the 
+        average market yield (computed by the Secretary of the Treasury 
+        on the basis of market quotations as of the end of the calendar 
+        month next preceding the date of such issue) on all marketable 
+        interest-bearing obligations of the United States then forming 
+        a part of the public debt which are not due or callable until 
+        after the expiration of 4 years from the end of such calendar 
+        month, except that where such average market yield is not a 
+        multiple of one-eighth of 1 per centum, the rate of interest on 
+        such obligations shall be the multiple of one-eighth of 1 per 
+        centum nearest such market yield.
+            ``(3) Repayment of obligations.--Obligations issued under 
+        this subsection may be redeemed only by funds in the Transition 
+        Fund.
+    ``(d) Deposit of OASDI Trust Fund Surplus.--
+            ``(1) In general.--There are appropriated to the Transition 
+        Fund for the fiscal year beginning in 2030, and for each fiscal 
+        year thereafter, out of any moneys in the Federal Old-Age and 
+        Survivors Insurance Trust Fund, amounts equivalent to the OASDI 
+        trust fund surplus (as defined in paragraph (2)) for the 
+        preceding fiscal year.
+            ``(2) Transfers based on estimates.--The amounts 
+        appropriated by paragraph (1) shall be transferred from time to 
+        time from the Federal Old-Age and Survivors Insurance Trust 
+        Fund to the Transition Fund, such amounts to be determined on 
+        the basis of estimates by the Commissioner of Social Security. 
+        Proper adjustments shall be made in amounts subsequently 
+        transferred to the extent prior estimates were in excess of or 
+        were less than such surplus.
+            ``(3) OASDI trust fund surplus defined.--In this section, 
+        the term `OASDI trust fund surplus' for a fiscal year means the 
+        dollar amount by which the Federal Old-Age and Survivors 
+        Insurance Trust Fund could be reduced as of the end of such 
+        fiscal year so as to result in an OASDI trust fund ratio (as 
+        defined in section 201(p)(4)) for such fiscal year equal to 125 
+        percent.
+            ``(4) Rule of construction.--This section shall not be 
+        construed to require redemption of obligations of the Trust 
+        Fund for the purpose of making transfers to the Transition Fund 
+        under this section or for any other purpose other than to 
+        provide for payment of benefits under part A of title II of the 
+        Social Security Act.
+    ``(e) Redemption of Obligations Upon Deposit of Funds.--Obligations 
+issued under subsection (c) may be redeemed only by funds in the 
+Transition Fund. The Board of Trustees shall provide for the redemption 
+of such obligations as soon as possible with funds deposited into the 
+Transition Fund pursuant to subsection (d).
+    ``(f) Sunset.--On the first date as of which all of the obligations 
+issued under subsection (c) have been redeemed, any balance remaining 
+in the Transition Fund as of such date shall be deposited in the 
+Federal Old-Age and Survivors Insurance Trust Fund, the terms of the 
+Board of Trustees shall end, the Transition Fund shall cease to exist, 
+and this section shall be repealed.''.
+
+SEC. 106. BUDGETARY TREATMENT OF SOCIAL SECURITY.
+
+    (a) In General.--Section 710 of the Social Security Act (42 U.S.C. 
+911) is amended to read as follows:
+
+                ``budgetary treatment of social security
+
+    ``Sec. 710. (a) In General.--Notwithstanding any other provision of 
+law and except as provided in subsection (b), the receipts and 
+disbursements of the Federal Old-Age and Survivors Insurance Trust 
+Fund, the Federal Disability Insurance Trust Fund, the Social Security 
+Personal Savings Fund, and the Self-Liquidating Social Security 
+Transition Fund (including transfers to and from either such Trust Fund 
+or such Savings Fund or such Transition Fund relating to the 
+acquisition or redemption of obligations acquired by either such Trust 
+Fund or such Savings Fund or such Transition Fund) and the taxes 
+imposed under sections 1401 and 3101 of the Internal Revenue Code of 
+1986 shall not be counted as new budget authority, outlays, receipts, 
+or deficit or surplus for purposes of the budget of the Government as 
+submitted by the President or the congressional budget or be reported 
+as new budget authority, outlays, receipts, or deficit or surplus in 
+any report of the Congressional Budget Office or any other agency or 
+instrumentality of the Government
+    ``(b) Matters Included in the Budget.--Subsection (a) shall not 
+apply with respect to the following:
+            ``(1) transfers from the general fund of the Treasury to 
+        the Federal Old-Age and Survivors Insurance Trust Fund under 
+        section 201(o) (relating to recapture of corporate tax on 
+        account yields), which shall be treated as an expenditure of 
+        the Government;
+            ``(2) transfers from the general fund of the Treasury to 
+        the Federal Old-Age and Survivors Insurance Trust Fund under 
+        section 201(p) (relating to recapture of Government savings 
+        over baseline), which shall be treated as an expenditure of the 
+        Government;
+            ``(3) transfers from the general fund of the Treasury to 
+        the Federal Old-Age and Survivors Insurance Trust Fund or the 
+        Federal Disability Insurance Trust Fund under section 121(e) of 
+        the Social Security Amendments of 1983 (relating to 
+        appropriation of amounts equivalent to taxes on social security 
+        benefits) (42 U.S.C. 401 note), which shall be treated as an 
+        expenditure of the Government; and
+            ``(4) revenues from taxes imposed under chapter 1 of the 
+        Internal Revenue Code of 1986, to the extent attributable to 
+        section 86 of such Code (relating to taxation of social 
+        security and tier 1 railroad retirement benefits), which shall 
+        be treated as a receipt of the Government.''.
+    (b) Conforming Amendments.--
+            (1) Section 13301 of the Budget Enforcement Act of 1990 (2 
+        U.S.C. 632; 2 U.S.C. 632 note) is repealed.
+            (2) Section 405 of the Congressional Budget Act of 1974 (2 
+        U.S.C. 655) is amended--
+                    (A) by inserting ``other than section 710 of the 
+                Social Security Act'' after ``Notwithstanding any other 
+                provision of law''; and
+                    (B) by striking ``section, not including'' and all 
+                that follows through ``Funds,'' and inserting 
+                ``section'' .
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to fiscal years beginning on or after October 1, 
+2005.
+
+SEC. 107. DEDICATION OF BUDGET SURPLUSES TO SAVING SOCIAL SECURITY.
+
+    (a) In General.--Section 201 of the Social Security Act (as amended 
+by section 103 of this Act) is amended further by adding at the end the 
+following new subsection:
+
+           ``Transfer of Total Budget Surpluses to Trust Fund
+
+    ``(q) In the case of any fiscal year for which the total amount 
+treated as income of the Federal Government in the total budget of the 
+United States have exceeded the total amount treated as expenditures of 
+the Federal Government in the total budget of the United States (as 
+determined by the Director of the Office of Management and Budget 
+without regard to section 710), not later than 3 months after the end 
+of such fiscal year, the Secretary of the Treasury shall transfer from 
+the general fund of the Treasury to the Federal Old-Age and Survivors 
+Insurance Trust Fund an amount equal to the lesser of--
+            ``(1) the total amount transferred from the Trust Fund 
+        during such fiscal year to the Social Security Personal Savings 
+        Fund under section 252(b) (relating to deposit of amounts equal 
+        to redirected social security contributions), or
+            ``(2) the amount by which such total amount treated as 
+        receipts exceeded such total amount treated as expenditures.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply with respect to fiscal years beginning after September 30, 2005.
+
+SEC. 108. ACCOUNTING FOR THE OLD-AGE, SURVIVORS, AND DISABILITY 
+              INSURANCE PROGRAM AND THE PERSONAL SOCIAL SECURITY 
+              SAVINGS PROGRAM.
+
+    Title VII of the Social Security Act is amended by inserting after 
+section 705 (42 U.S.C. 906) the following new section:
+
+   ``accounting for the old-age, survivors, and disability insurance 
+     program and the individual social security investment program.
+
+                   ``Social Security Lockbox Budget.
+
+    ``Sec. 706. (a) At the time of the transmittal to the Congress by 
+the President of the budget of the United States Government, the 
+President shall transmit to each House of the Congress a separate 
+report (to be known as the `Social Security Lockbox Budget') detailing 
+the performance during the preceding fiscal year of each of the 
+accounts established under subsection (b). Such report shall set forth, 
+as determined as of the end of the year--
+            ``(1) the amount of the balance of each account,
+            ``(2) the amount of the total charges and the amount of the 
+        total credits to each account for the year, and
+            ``(3) the amount of the total for the year of each category 
+        of charges and credits itemized in subsection (b).
+
+                      ``Establishment of Accounts
+
+    ``(b) For purposes of accounting for certain receipts and 
+disbursement of the Treasury of the United States in connection with 
+the Old-Age, Survivors, and Disability Insurance Program under part A 
+of title II of the Social Security Act and the Individual Social 
+Security Investment Program under part B of such title, the Secretary 
+of the Treasury shall establish and maintain a Social Security Part A 
+Account, a Social Security Part B Account, and a Self-Liquidating 
+Social Security Transition Fund Account.
+
+      ``Credits and Charges to the Social Security Part A Account
+
+    ``(c)(1) For each fiscal year, the Social Security Part A Account 
+shall be credited with the sum of--
+            ``(A) all receipts during the year by the Federal Old-Age 
+        and Survivors Insurance Trust Fund and the Federal Disability 
+        Insurance Trust Fund under section 201 (including amounts 
+        received as interest on notes and obligations purchased by the 
+        Trust Funds under section 201(d) of such Act, and excluding 
+        amounts received in redemption of such notes and obligations 
+        and amounts received by either such Trust Fund as transfers 
+        from the other such Trust Fund), and
+            ``(B) all receipts during the year by the Federal Old-Age 
+        and Survivors Insurance Trust Fund and the Federal Disability 
+        Insurance Trust Fund under section 121(e) of the Social 
+        Security Amendments of 1983 (relating to appropriation of 
+        amounts equivalent to taxes on social security benefits) (42 
+        U.S.C. 401 note).
+    ``(2) For each fiscal year, the Social Security Part A Account 
+shall be charged with the sum of--
+            ``(A) all benefits paid during the year from the Federal 
+        Old-Age and Survivors Insurance Trust Fund and the Federal 
+        Disability Insurance Trust Fund under part A of title II of the 
+        Social Security Act,
+            ``(B) all redirected social security contributions 
+        transferred during the year to the Social Security Personal 
+        Savings Fund under section 252(b),
+            ``(C) all other expenditures during the year from the Trust 
+        Funds under part A of title II (excluding amounts expended as 
+        transfers by either such Trust Fund to the other such Trust 
+        Fund and amounts paid for the purchase of notes and obligations 
+        under section 201(d)), and
+            ``(D) all transfers from the Federal Old-Age and Survivors 
+        Insurance Trust Fund to the Self-Liquidating Social Security 
+        Transition Fund under section 262(d).
+
+      ``Charges and Credits to the Social Security Part B Account
+
+    ``(d)(1) For each fiscal year, the Social Security Part B Account 
+shall be credited with--
+            ``(A) all redirected social security contributions 
+        transferred during the year to the Personal Social Security 
+        Savings Fund under section 252(b) of the Social Security Act, 
+        and
+            ``(B) any net increase in the Tier I Investment Fund 
+        attributable to investment for the fiscal year, any net 
+        increase in the Tier II Investment Fund attributable to 
+        investment for the fiscal year, and the total amount of any net 
+        increases in Tier III Investment Options attributable to 
+        investment for the fiscal year.
+    ``(2) For each fiscal year, the Social Security Part B Account 
+shall be charged with--
+            ``(A) all administrative costs incurred for the fiscal year 
+        with respect to the Tier I Investment Fund, the Tier II 
+        Investment Fund, and the Tier III Investment Options,
+            ``(B) any net decrease in the Tier I Investment Fund 
+        attributable to investment for the fiscal year, any net 
+        decrease in the Tier II Investment Fund attributable to 
+        investment for the fiscal year, and the total amount of any net 
+        decreases in Tier III Investment Options attributable to 
+        investment for the fiscal year, and
+            ``(C) annuity payments made during the year under section 
+        258 from the Annuity Reserve Account in the Savings Fund.
+
+     ``Charges and Credits to the Self-Liquidating Social Security 
+                        Transition Fund Account
+
+    ``(e)(1) For each fiscal year, the Self-Liquidating Social Security 
+Transition Account shall be credited with--
+            ``(A) all transfers to the Transition Fund from the Federal 
+        Old-Age and Survivors Insurance Trust Fund under section 
+        262(b), and
+            ``(B) all amounts expended during the fiscal year from the 
+        Trust Funds in the redemption under section 262(e) of 
+        obligations issued by the Transition fund under section 262(c).
+    ``(2) For each fiscal year, the Self-Liquidating Social Security 
+Transition Fund Account shall be charged with the total amount of 
+obligations issued during the fiscal year by the Transition Fund under 
+section 262(c)''.
+
+SEC. 109. REDUCTION OF FICA RATES RESULTING FROM PERSONAL SOCIAL 
+              SECURITY SAVINGS PROGRAM.
+
+    (a) Employee Contribution.--Section 3101 of the Internal Revenue 
+Code of 1986 (relating to tax on employees) is amended by adding at the 
+end the following new subsection:
+    ``(d) Reduction in Old-Age, Survivors, and Disability Insurance Tax 
+Rate.--
+            ``(1) In general.--In any year which follows a reduction 
+        year and each year thereafter, the rate of tax imposed under 
+        subsection (a) shall be reduced by the reduction percentage.
+            ``(2) Reduction year.--For purposes of this section--
+                    ``(A) In general.--The term `reduction year' means 
+                any year after the transition year in which the OASDI 
+                rate ratio exceeds 125 percent.
+                    ``(B) Transition year.--The term `transition year' 
+                means the first full calendar year following the 
+                termination year (as defined in section 201(p)(3) of 
+                the Social Security Act).
+            ``(3) Reduction percentage.--For purposes of this section, 
+        the term `reduction percentage' means the excess of--
+                    ``(A) the rate in effect under subsection (a) for 
+                the reduction year, over
+                    ``(B) the rate (rounded up to the nearest one tenth 
+                of a percent) under which the OASDI rate ratio for the 
+                reduction year would have been 125 percent if--
+                            ``(i) such rate had been applicable under 
+                        subsection (a) and section 3111(a) during such 
+                        year, and
+                            ``(ii) the rate under section 1401(a) 
+                        during such year were twice such rate.
+            ``(4) OASDI rate ratio.--The term `OASDI rate ratio' means, 
+        with respect to any calendar year, the ratio--
+                    ``(A) the numerator of which is the combined 
+                balance in the Old-Age and Survivors Insurance Trust 
+                Fund and the Federal Disability Insurance Trust Fund, 
+                as of the last day of such calendar year, and
+                    ``(B) the denominator of which is the amount paid 
+                from such Trust Funds during such calendar year for all 
+                purposes authorized by section 201 of the Social 
+                Security Act (excluding any transfer payments between 
+                such Trust Funds and reducing the amount of any 
+                transfer to the Railroad Retirement Account by the 
+                amount of any transfers into either such Trust Fund 
+                from such Account).
+            ``(5) Limitation on reduction.--Paragraph (1) shall not 
+        apply to any reduction to the extent that such reduction would 
+        cause the rate of tax imposed under subsection (a) to be less 
+        than 4.95 percent.''.
+    (b) Employer Contribution.--Section 3111 of the Internal Revenue 
+Code of 1986 (relating to tax on employers) is amended by adding at the 
+end the following new subsection:
+    ``(d) Reduction in Old-Age, Survivors, and Disability Insurance Tax 
+Rate.--
+            ``(1) In general.--In any year which follows a reduction 
+        year and each year thereafter, the rate of tax imposed under 
+        subsection (a) shall be reduced by the reduction percentage.
+            ``(2) Reduction year; reduction percentage.--For purposes 
+        of this section, the terms `reduction year' and `reduction 
+        percentage' have the meanings given such terms by section 
+        3101(d).
+            ``(3) Limitation on reduction.--Paragraph (1) shall not 
+        apply to any reduction to the extent that such reduction would 
+        cause the rate of tax imposed under subsection (a) to be less 
+        than 4.95 percent.''.
+    (c) Self-Employment Contribution.--Section 1401 of the Internal 
+Revenue Code of 1986 (relating to tax on self-employment income) is 
+amended by adding at the end the following new subsection:
+    ``(d) Reduction in Old-Age, Survivors, and Disability Insurance Tax 
+Rate.--
+            ``(1) In general.--In any year which follows a reduction 
+        year and each year thereafter, the rate of tax imposed under 
+        subsection (a) shall be reduced by the reduction percentage.
+            ``(2) Reduction year; reduction percentage.--For purposes 
+        of this section, the terms `reduction year' and `reduction 
+        percentage' have the meanings given such terms by section 
+        3101(d).
+            ``(3) Limitation on reduction.--Paragraph (1) shall not 
+        apply to any reduction to the extent that such reduction would 
+        cause the rate of tax imposed under subsection (a) to be less 
+        than 9.9 percent.''.
+
+             TITLE II--PUTTING A LID ON THE FEDERAL BUDGET
+
+   Subtitle A--Spending Safeguards on the Growth of Entitlements and 
+                              Mandatories
+
+SEC. 201. SPENDING CAPS ON GROWTH OF ENTITLEMENTS AND MANDATORIES.
+
+    (a) Control of Entitlements and Mandatories.--The Balanced Budget 
+and Emergency Deficit Control Act of 1985 is amended by adding after 
+section 252 the following new section:
+
+``SEC. 252A. ENFORCING CONTROLS ON DIRECT SPENDING.
+
+    ``(a) Cap on Growth of Entitlements.--Effective for fiscal year 
+2007 and for each ensuing fiscal year, the total level of direct 
+spending for all direct spending programs, projects, and activities 
+(excluding social security) for any such fiscal year shall not exceed 
+the total level of spending for all such programs, projects, and 
+activities for the previous fiscal year after the direct spending for 
+each such program, project, or activity is increased by the higher of 
+the change in the Consumer Price Index for All Urban Consumers or the 
+inflator (if any) applicable to that program, project, or activity and 
+the growth in eligible population for such, project, or activity.
+    ``(b) Sequestration.--Within 15 days after Congress adjourns to end 
+a session (other than of the second session of the One Hundred Ninth 
+Congress), and on the same day as a sequestration (if any) under 
+section 251, there shall be a sequestration to reduce the amount of 
+direct spending for the fiscal year beginning in the year the Congress 
+adjourns by any amount necessary to reduce such spending to the level 
+set forth in subsection (a) unless that amount is less than 
+$250,000,000.
+    ``(c) Uniform Reductions; Limitations.--The amount required to be 
+sequestered for the fiscal year under subsection (a) shall be obtained 
+from nonexempt direct spending accounts by actions taken in the 
+following order:
+            ``(1) First.--The reductions in the programs specified in 
+        section 255(a) (National Wool Act and special milk), section 
+        255(b) (student loans), and section 255(c) (foster care and 
+        adoption assistance) shall be made.
+            ``(2) Second.--Any additional reductions that may be 
+        required shall be achieved by reducing each remaining nonexempt 
+        direct spending account by the uniform percentage necessary to 
+        achieve those additional reductions, except that--
+                    ``(A) the low-income programs specified in section 
+                255(d) shall not be reduced by more than 2 percent;
+                    ``(B) the retirement and veterans benefits 
+                specified in sections 255(f), (g), and (h) shall not be 
+                reduced by more than 2 percent in the manner specified 
+                in that section; and
+                    ``(C) the medicare programs shall not be reduced by 
+                more than 2 percent in the manner specified in section 
+                255(i).
+        The limitations set forth in subparagraphs (A), (B), and (C) 
+        shall be applied iteratively, and after each iteration the 
+        uniform percentage applicable to all other programs under this 
+        paragraph shall be increased (if necessary) to a level 
+        sufficient to achieve the reductions required by this 
+        paragraph.
+    ``(d) Exclusion of Medicare Prescription Drug Program Until Fully 
+Operational.--For purposes of this section with respect to the 
+limitation under subsection (a) for a fiscal year before fiscal year 
+2008, direct spending programs and direct spending shall not be 
+construed to include part D of title XVIII of the Social Security Act 
+(or spending under part C of such title that is attributable to such 
+part D).''.
+    (b) Table of Contents Amendment.--The table of contents set forth 
+in 250(c) of the Balanced Budget and Emergency Deficit Control Act of 
+1985 is amended by adding after the item relating to section 252 the 
+following new item:
+
+``Sec. 252A. Enforcing controls on direct spending.''.
+
+SEC. 202. EXEMPT PROGRAMS AND ACTIVITIES.
+
+    Section 255 of the Balanced Budget and Emergency Deficit Control 
+Act of 1985 is amended to read as follows:
+
+``SEC. 255. EXEMPT PROGRAMS AND ACTIVITIES.
+
+    ``(a) Social Security Benefits; Tier I Railroad Retirement 
+Benefits; and Certain Medicare Benefits.--(1) Benefits payable under 
+the old-age, survivors, and disability insurance program established 
+under title II of the Social Security Act, and benefits payable under 
+section 3(a), 3(f)(3), 4(a), or 4(f) of the Railroad Retirement Act of 
+1974, shall be exempt from reduction under any order issued under this 
+part.
+    ``(2) Payments made under part A of title XVIII (relating to part A 
+medicare hospital insurance benefits) of the Social Security Act and 
+payments made under part C of such title (relating to the Medicare 
+Advantage program) insofar as they are attributable to part A of such 
+title shall be exempt from reduction under any order issued under this 
+part.
+    ``(b) Descriptions and Lists.--The following budget accounts or 
+activities shall be exempt from sequestration:
+            ``(1) net interest;
+            ``(2) all payments to trust funds from excise taxes or 
+        other receipts or collections properly creditable to those 
+        trust funds;
+            ``(3) all payments from one Federal direct spending budget 
+        account to another Federal budget account; and all 
+        intragovernmental funds including those from which funding is 
+        derived primarily from other Government accounts, except to the 
+        extent that such funds are augmented by direct appropriations 
+        for the fiscal year for which the order is in effect;
+            ``(4) activities resulting from private donations, 
+        bequests, or voluntary contributions to the Government;
+            ``(5) payments from any revolving fund or trust-revolving 
+        fund (or similar activity) that provides deposit insurance or 
+        other Government insurance, Government guarantees, or any other 
+        form of contingent liability, to the extent those payments 
+        result from contractual or other legally binding commitments of 
+        the Government at the time of any sequestration;
+            ``(6) credit liquidating and financing accounts;
+            ``(7) the following accounts, which largely fulfill 
+        requirements of the Constitution or otherwise make payments to 
+        which the Government is committed:
+            ``Administration of Territories, Northern Mariana Islands 
+        Covenant grants (14-0412-0-1-806);
+            ``Armed Forces Retirement Home Trust Fund, payment of 
+        claims (84-8930-0-7-705);
+            ``Bureau of Indian Affairs, miscellaneous payments to 
+        Indians (14-2303-0-1-452);
+            ``Bureau of Indian Affairs, miscellaneous trust funds, 
+        tribal trust funds (14-9973-0-7-999);
+            ``Claims, defense;
+            ``Claims, judgments, and relief act (20-1895-0-1-806);
+            ``Compact of Free Association, economic assistance pursuant 
+        to Public Law 99-658 (14-0415-0-1-806);
+            ``Compensation of the President (11-0001-0-1-802);
+            ``Customs Service, miscellaneous permanent appropriations 
+        (20-9992-0-2-852);
+            ``Eastern Indian land claims settlement fund (14-2202-0-1-
+        806);
+            ``Farm Credit Administration, Limitation on Administration 
+        Expenses (78-4131-0-3-351);
+            ``Farm Credit System Financial Assistance Corporation, 
+        interest payments (20-1850-0-1-351);
+            ``Internal Revenue collections of Puerto Rico (20-5737-0-2-
+        852);
+            ``Panama Canal Commission, operating expenses and capital 
+        outlay (95-5190-0-2-403);
+            ``Payments of Vietnam and USS Pueblo prisoner-of-war claims 
+        (15-0104-0-1-153);
+            ``Payments to copyright owners (03-5175-0-2-376);
+            ``Payments to health care trust funds (75-0580-0-1-571);
+            ``Payments to social security trust funds (75-0404-0-1-
+        651);
+            ``Payments to the United States territories, fiscal 
+        assistance (14-0418-0-1-801);
+            ``Payments to widows and heirs of deceased Members of 
+        Congress (00-0215-0-1-801);
+            ``Pension Benefit Guaranty Corporation Fund (16-4204-0-3-
+        601);
+            ``Salaries of Article III judges;
+            ``Washington Metropolitan Area Transit Authority, interest 
+        payments (46-0300-0-1-401);
+            ``(8) the following noncredit special, revolving, or trust-
+        revolving funds:
+            ``Coinage profit fund (20-5811-0-2-803);
+            ``Comptroller of the Currency;
+            ``Director of the Office of Thrift Supervision;
+            ``Exchange Stabilization Fund (20-4444-0-3-155);
+            ``Federal Housing Finance Board;
+            ``Foreign Military Sales trust fund (11-82232-0-7-155);
+            ``National Credit Union Administration, central liquidating 
+        facility (25-4470-0-3-373);
+            ``National Credit Union Administration, credit union 
+        insurance fund (25-4468-0-3-373);
+            ``National Credit Union Administration operating fund (25-
+        4056-0-3-373); and
+            ``Resolution Trust Corporation Revolving Fund (22-4055-0-3-
+        373);
+            ``(9) Thrift Savings Fund;
+            ``(10) appropriations for the District of Columbia to the 
+        extent they are appropriations of locally raised funds;
+            ``(11)(A) any amount paid as regular unemployment 
+        compensation by a State from its account in the Unemployment 
+        Trust Fund (established by section 904(a) of the Social 
+        Security Act);
+            ``(B) any advance made to a State from the Federal 
+        unemployment account (established by section 904(g) of such 
+        Act) under title XII of such Act and any advance appropriated 
+        to the Federal unemployment account pursuant to section 1203 of 
+        such Act; and
+            ``(C) any payment made from the Federal Employees 
+        Compensation Account (as established under section 909 of such 
+        Act) for the purpose of carrying out chapter 85 of title 5, 
+        United States Code, and funds appropriated or transferred to or 
+        otherwise deposited in such Account; and
+            ``(12)(A) FDIC, Bank Insurance Fund (51-4064-0-3-373);
+            ``(B) FDIC, FSLIC Resolution Fund (51-4065-0-3-373); and
+            ``(C) FDIC, Savings Association Insurance Fund (51-4066-0-
+        3-373).
+    ``(c) Federal Retirement and Disability Accounts.--The following 
+Federal retirement and disability accounts shall be exempt from 
+reduction under any order issued under this part:
+    ``Civil service retirement and disability fund (24-8135-0-7-602).
+    ``Black Lung Disability Trust Fund (20-8144-0-7-601).
+    ``Foreign Service Retirement and Disability Fund (19-8186-0-7-602).
+    ``District of Columbia Judicial Retirement and Survivors Annuity 
+Fund (20-8212-0-7-602).
+    ``Judicial Survivors' Annuities Fund (10-8110-0-7-602).
+    ``Payments to the Railroad Retirement Accounts (60-0113-0-1-601).
+    ``Tax Court Judges Survivors Annuity Fund (23-8115-0-7-602).
+    ``Employees Life Insurance Fund (24-8424-0-8-602).
+    ``(d) Federal Administrative Expenses.--
+            ``(1) Notwithstanding any provision of law other than 
+        paragraph (3), administrative expenses incurred by the 
+        departments and agencies, including independent agencies, of 
+        the Government in connection with any program, project, 
+        activity, or account shall be subject to reduction pursuant to 
+        any sequestration order, without regard to any exemption, 
+        exception, limitation, or special rule otherwise applicable 
+        with respect to such program, project, activity, or account, 
+        and regardless of whether the program, project, activity, or 
+        account is self-supporting and does not receive appropriations.
+            ``(2) Payments made by the Government to reimburse or match 
+        administrative costs incurred by a State or political 
+        subdivision under or in connection with any program, project, 
+        activity, or account shall not be considered administrative 
+        expenses of the Government for purposes of this section, and 
+        shall be subject to sequestration to the extent (and only to 
+        the extent) that other payments made by the Government under or 
+        in connection with that program, project, activity, or account 
+        are subject to that reduction or sequestration; except that 
+        Federal payments made to a State as reimbursement of 
+        administrative costs incurred by that State under or in 
+        connection with the unemployment compensation programs 
+        specified in subsection (a)(11) shall be subject to reduction 
+        or sequestration under this part notwithstanding the exemption 
+        otherwise granted to such programs under that subsection.
+            ``(3) Notwithstanding any other provision of law, the 
+        administrative expenses of the following programs shall be 
+        exempt from sequestration:
+                    ``(A) Comptroller of the Currency.
+                    ``(B) Federal Deposit Insurance Corporation.
+                    ``(C) Office of Thrift Supervision.
+                    ``(D) National Credit Union Administration.
+                    ``(E) National Credit Union Administration, central 
+                liquidity facility.
+                    ``(F) Federal Retirement Thrift Investment Board.
+                    ``(G) Resolution Funding Corporation.
+                    ``(H) Resolution Trust Corporation.
+                    ``(I) Board of Governors of the Federal Reserve 
+                System.
+    ``(e) Veterans' Programs.--The following programs shall be exempt 
+from reduction under any order issued under this part:
+    ``General Post Funds (36-8180-0-7-705).
+    ``Veterans Insurance and Indemnities (36-0120-0-1-701).
+    ``Service-Disabled Veterans Insurance Funds (36-4012-0-3-701).
+    ``Veterans Reopened Insurance Fund (36-4010-0-3-701).
+    ``Servicemembers' Group Life Insurance Fund (36-4009-0-3-701).
+    ``Post-Vietnam Era Veterans Education Account (36-8133-0-7-702).
+    ``National Service Life Insurance Fund (36-8132-0-7-701).
+    ``United States Government Life Insurance Fund (36-8150-0-7-701).
+    ``Veterans Special Life Insurance Fund (36-8455-0-8-701).
+    ``(f) Optional Exemption of Defense and Homeland Security 
+Accounts.--
+            ``(1) In general.--The President may, with respect to any 
+        defense or homeland security account, exempt that account from 
+        sequestration or provide for a lower uniform percentage 
+        reduction than would otherwise apply.
+            ``(2) Limitation.--The President may not use the authority 
+        provided by paragraph (1) unless the President notifies the 
+        Congress of the manner in which such authority will be 
+        exercised on or before the date specified in section 254(a) for 
+        the budget year.''.
+
+SEC. 203. EXCEPTIONS, LIMITATIONS, AND SPECIAL RULES.
+
+    (a) In General.--Section 256 of the Balanced Budget and Emergency 
+Deficit Control Act of 1985 is amended to read as follows:
+
+``SEC. 256. EXCEPTIONS, LIMITATIONS, AND SPECIAL RULES.
+
+    ``(a) National Wool Act and the Special Milk Program.--Automatic 
+spending increases are increases in outlays due to changes in indexes 
+in the following programs:
+            ``(1) National Wool Act; and
+            ``(2) Special milk program.
+In those programs all amounts other than the automatic spending 
+increases shall be exempt from reduction under any sequestration order.
+    ``(b) Student Loans.--For all student loans under part B or D of 
+title IV of the Higher Education Act of 1965 made during the period 
+when a sequestration order under section 254 is in effect as required 
+by section 252 or 253, origination fees under sections 438(c)(2) and 
+455(c) of that Act shall each be increased by 0.50 percentage point.
+    ``(c) Foster Care and Adoption Assistance Programs.--Any 
+sequestration order shall make the reduction otherwise required under 
+the foster care and adoption assistance programs (established by part E 
+of title IV of the Social Security Act) only with respect to payments 
+and expenditures made by States in which increases in foster care 
+maintenance payment rates or adoption assistance payment rates (or 
+both) are to take effect during the fiscal year involved, and only to 
+the extent that the required reduction can be accomplished by applying 
+a uniform percentage reduction to the Federal matching payments that 
+each such State would otherwise receive under section 474 of that Act 
+(for such fiscal year) for that portion of the State's payments 
+attributable to the increases taking effect during that year. No 
+State's matching payments from the Government for foster care 
+maintenance payments or for adoption assistance maintenance payments 
+may be reduced by a percentage exceeding the applicable domestic 
+sequestration percentage. No State may, after the date of the enactment 
+of this Act, make any change in the timetable for making payments under 
+a State plan approved under part E of title IV of the Social Security 
+Act which has the effect of changing the fiscal year in which 
+expenditures under such part are made.
+    ``(d) Low-Income Programs.--(1) Benefit payments or payments to 
+States or other entities for the programs listed in paragraph (2) shall 
+not be reduced by more than 2 percent under any sequestration order. 
+When reduced under an end-of-session sequestration order, those benefit 
+reductions shall occur starting with the payment made at the start of 
+January. When reduced under a within-session sequestration order, those 
+benefit reductions shall occur starting with the next periodic payment.
+    ``(2) The programs referred to in paragraph (1) are the following:
+    ``Child Nutrition (12-3539-0-1-605).
+    ``Food Stamp Programs (12-3505-0-1-605).
+    ``Grants to States for Medicaid (75-0512-0-1-551).
+    ``State Children's Health Insurance Fund (75-0515-0-1-551).
+    ``Supplemental Security Income Program (75-0406-0-1-609).
+    ``Temporary Assistance for Needy Families (75-1552-0-1-609).
+    ``Special supplemental nutrition program for women, infants, and 
+children (WIC) (12-3510-0-1-605).
+    ``(e) Veterans' Medical Care.--The maximum permissible reduction in 
+budget authority for Veterans' medical care (36-0160-0-1-703) for any 
+fiscal year, pursuant to an order issued under section 254, shall be 2 
+percent.
+    ``(f) Federal Retirement Programs.--
+            ``(1) For each of the programs listed in paragraph (2) and 
+        except as provided in paragraph (3), monthly (or other 
+        periodic) benefit payments shall be reduced by the uniform 
+        percentage applicable to direct spending sequestrations for 
+        such programs, which shall in no case exceed 2 percent under 
+        any sequestration order. When reduced under an end-of-session 
+        sequestration order, those benefit reductions shall occur 
+        starting with the payment made at the start of January or 7 
+        weeks after the order is issued, whichever is later. When 
+        reduced under a within-session sequestration order, those 
+        benefit reductions shall occur starting with the next periodic 
+        payment.
+            ``(2) The programs subject to paragraph (1) are:
+            ``Central Intelligence Agency Retirement and Disability 
+        Fund (56-3400-0-1-054).
+            ``Comptrollers General Retirement System (05-0107-0-1-
+        801)Payments to the Foreign Service Retirement and Disability 
+        Fund (72-1036-0-1-153).
+            ``Judicial Officer' Retirement Fund (10-8122-0-7-602).
+            ``Claims Judges' Retirement Fund (10-8124-0-7-602).
+            ``Pensions for former Presidents (47-0105-0-1-802).
+            ``National Oceanic and Atmospheric Administration 
+        Retirement (13-1450-0-1-306).
+            ``Railroad Industry Pension Fund (60-8011-0-7-601).
+            ``Retired pay, Coast Guard (70-0602-0-1-403).
+            ``Retirement pay and medical benefits for commissioned 
+        officers, Public Health Service (75-0379-0-1-551).
+            ``Payments to Civil Service Retirement and Disability Fund 
+        (24-0200-0-1-805).
+            ``Payments to the Foreign Service Retirement and Disability 
+        Fund (72-1036-0-1-153).
+            ``Payments to Judiciary Trust Funds (10-0941-0-1-752).
+    ``(g) Veterans Programs.--To achieve the total percentage reduction 
+required by any order issued under this part, the percentage reduction 
+that shall apply to payments under the following programs shall in no 
+event exceed 2 percent:
+    ``Canteen Service Revolving Fund (36-4014-0-3-705).
+    ``Medical Center Research Organizations (36-4026-0-3-703).
+    ``Disability Compensation Benefits (36-0102-0-1-701).
+    ``Education Benefits (36-0137-0-1-702).
+    ``Vocational Rehabilitation and Employment Benefits (36-0135-0-1-
+702).
+    ``Pensions Benefits (36-0154-0-1-701).
+    ``Burial Benefits (36-0139-0-1-701).
+    ``Guaranteed Transitional Housing Loans For Homeless Veterans 
+Program Account (36-1119-0-1-704).
+    ``Housing Direct Loan Financing Account (36-4127-0-1-704).
+    ``Housing Guaranteed Loan Financing Account (36-4129-0-3-704).
+    ``Vocational Rehabilitation and Education Direct Loan Financing 
+Account (36-4259-0-3-702).
+    ``(h) Military Health and Retirement.--To achieve the total 
+percentage reduction in military retirement required by any order 
+issued under this part, the percentage reduction that shall apply to 
+payments under the Military retirement fund (97-8097-0-7-602), payments 
+to the military retirement fund (97-0040-0-1-054), and the Defense 
+Health Program (97-0130-0-1-051) shall in no event exceed 2 percent.
+    ``(i) Medicare Program.--
+            ``(1) Calculation of reduction in individual payment 
+        amounts.--To achieve the total percentage reduction in those 
+        programs required by any order issued under this part, the 
+        percentage reduction that shall apply to payments under the 
+        health insurance programs under title XVIII of the Social 
+        Security Act (other than payments described in section 
+        255(a)(2)) that are subject to such order for services 
+        furnished after any sequestration order is issued shall be such 
+        that the reduction made in payments under that order shall 
+        achieve the required total percentage reduction in those 
+        payments for that fiscal year as determined on a 12-month 
+        basis. However, the percentage reduction under any such program 
+        shall in no case exceed 2 percent under any sequestration 
+        order.
+            ``(2) Timing of application of reductions.--If a reduction 
+        is made under paragraph (1) in payment amounts pursuant to a 
+        sequestration order, the reduction shall be applied to payment 
+        for services furnished after the effective date of the order.
+            ``(3) No increase in beneficiary charges in assignment-
+        related cases.--If a reduction in payment amounts is made under 
+        paragraph (1) for services for which payment under part B of 
+        title XVIII of the Social Security Act is made on the basis of 
+        an assignment described in section 1842(b)(3)(B)(ii), in 
+        accordance with section 1842(b)(6)(B), or under the procedure 
+        described in section 1870(f)(1) of such Act, the person 
+        furnishing the services shall be considered to have accepted 
+        payment of the reasonable charge for the services, less any 
+        reduction in payment amount made pursuant to a sequestration 
+        order, as payment in full.
+            ``(4) Application to parts c and d.--The reductions 
+        otherwise required under parts C and D of title XVIII of the 
+        Social Security Act with respect to a fiscal year shall be 
+        applied to the calendar year that begins after the end of the 
+        fiscal year to which the applicable sequestration order 
+        applies.
+    ``(j) Federal Pay.--
+            ``(1) In general.--For purposes of any order issued under 
+        section 254, new budget authority to pay Federal personnel 
+        shall be reduced by the applicable uniform percentage, but no 
+        sequestration order may reduce or have the effect of reducing 
+        the rate of pay to which any individual is entitled under any 
+        statutory pay system (as increased by any amount payable under 
+        section 5304 of title 5, United States Code, or section 302 of 
+        the Federal Employees Pay Comparability Act of 1990) or the 
+        rate of any element of military pay to which any individual is 
+        entitled under title 37, United States Code, or any increase in 
+        rates of pay which is scheduled to take effect under section 
+        5303 of title 5, United States Code, section 1009 of title 37, 
+        United States Code, or any other provision of law.
+            ``(2) Definitions.--For purposes of this subsection:
+                    ``(A) The term `statutory pay system' shall have 
+                the meaning given that term in section 5302(1) of title 
+                5, United States Code.
+                    ``(B) The term `elements of military pay' means--
+                            ``(i) the elements of compensation of 
+                        members of the uniformed services specified in 
+                        section 1009 of title 37, United States Code,
+                            ``(ii) allowances provided members of the 
+                        uniformed services under sections 403a and 405 
+                        of such title, and
+                            ``(iii) cadet pay and midshipman pay under 
+                        section 203(c) of such title.
+                    ``(C) The term `uniformed services' shall have the 
+                meaning given that term in section 101(3) of title 37, 
+                United States Code.
+    ``(k) Child Support Enforcement Program.--Any sequestration order 
+shall accomplish the full amount of any required reduction in 
+expenditures under sections 455 and 458 of the Social Security Act by 
+reducing the Federal matching rate for State administrative costs under 
+such program, as specified (for the fiscal year involved) in section 
+455(a) of such Act, to the extent necessary to reduce such expenditures 
+by that amount.
+    ``(l) Extended Unemployment Compensation.--(1) A State may reduce 
+each weekly benefit payment made under the Federal-State Extended 
+Unemployment Compensation Act of 1970 for any week of unemployment 
+occurring during any period with respect to which payments are reduced 
+under an order issued under this title by a percentage not to exceed 
+the percentage by which the Federal payment to the State under section 
+204 of such Act is to be reduced for such week as a result of such 
+order.
+    ``(2) A reduction by a State in accordance with subparagraph (A) 
+shall not be considered as a failure to fulfill the requirements of 
+section 3304(a)(11) of the Internal Revenue Code of 1954.
+    ``(m) Commodity Credit Corporation.--
+            ``(1) Powers and authorities of the commodity credit 
+        corporation.--This title shall not restrict the Commodity 
+        Credit Corporation in the discharge of its authority and 
+        responsibility as a corporation to buy and sell commodities in 
+        world trade, to use the proceeds as a revolving fund to meet 
+        other obligations and otherwise operate as a corporation, the 
+        purpose for which it was created.
+            ``(2) Reduction in payments made under contracts.--(A) 
+        Payments and loan eligibility under any contract entered into 
+        with a person by the Commodity Credit Corporation prior to the 
+        time any sequestration order has been issued shall not be 
+        reduced by an order subsequently issued. Subject to 
+        subparagraph (B), after any sequestration order is issued for a 
+        fiscal year, any cash payments made by the Commodity Credit 
+        Corporation--
+                    ``(i) under the terms of any one-year contract 
+                entered into in or after such fiscal year and after the 
+                issuance of the order; and
+                    ``(ii) out of an entitlement account, to any person 
+                (including any producer, lender, or guarantee entity) 
+                shall be subject to reduction under the order.
+            ``(B) Each contract entered into with producers or producer 
+        cooperatives with respect to a particular crop of a commodity 
+        and subject to reduction under subparagraph (A) shall be 
+        reduced in accordance with the same terms and conditions. If 
+        some, but not all, contracts applicable to a crop of a 
+        commodity have been entered into prior to the issuance of any 
+        sequestration order, the order shall provide that the necessary 
+        reduction in payments under contracts applicable to the 
+        commodity be uniformly applied to all contracts for succeeding 
+        crops of the commodity, under the authority provided in 
+        paragraph (3).
+            ``(3) Delayed reduction in outlays permissible.--
+        Notwithstanding any other provision of this title, if any 
+        sequestration order is issued with respect to a fiscal year, 
+        any reduction under the order applicable to contracts described 
+        in paragraph (2) may provide for reductions in outlays for the 
+        account involved to occur in the fiscal years following the 
+        fiscal year to which the order applies.
+            ``(4) Uniform percentage rate of reduction and other 
+        limitations.--All reductions described in paragraph (2) that 
+        are required to be made in connection with any sequestration 
+        order with respect to a fiscal year--
+                    ``(A) shall be made so as to ensure that outlays 
+                for each program, project, activity, or account 
+                involved are reduced by a percentage rate that is 
+                uniform for all such programs, projects, activities, 
+                and accounts, and may not be made so as to achieve a 
+                percentage rate of reduction in any such item exceeding 
+                the rate specified in the order; and
+                    ``(B) with respect to commodity price support and 
+                income protection programs, shall be made in such 
+                manner and under such procedures as will attempt to 
+                ensure that--
+                            ``(i) uncertainty as to the scope of 
+                        benefits under any such program is minimized;
+                            ``(ii) any instability in market prices for 
+                        agricultural commodities resulting from the 
+                        reduction is minimized; and
+                            ``(iii) normal production and marketing 
+                        relationships among agricultural commodities 
+                        (including both contract and non-contract 
+                        commodities) are not distorted.
+                In meeting the criterion set out in clause (iii) of 
+                subparagraph (B) of the preceding sentence, the 
+                President shall take into consideration that reductions 
+                under an order may apply to programs for two or more 
+                agricultural commodities that use the same type of 
+                production or marketing resources or that are 
+                alternative commodities among which a producer could 
+                choose in making annual production decisions.
+            ``(5) Certain authority not to be limited.--Nothing in this 
+        title shall limit or reduce in any way any appropriation that 
+        provides the Commodity Credit Corporation with funds to cover 
+        the Corporation's net realized losses.
+    ``(n) Postal Service Fund.--Notwithstanding any other provision of 
+law, any sequestration of the Postal Service Fund shall be accomplished 
+by a payment from that Fund to the General Fund of the Treasury, and 
+the Postmaster General of the United States shall make the full amount 
+of that payment during the fiscal year to which the presidential 
+sequestration order applies.
+    ``(o) Effects of Sequestration.--The effects of sequestration shall 
+be as follows:
+            ``(1) Budgetary resources sequestered from any account 
+        other than an entitlement trust, special, or revolving fund 
+        account shall revert to the Treasury and be permanently 
+        canceled.
+            ``(2) Except as otherwise provided, the same percentage 
+        sequestration shall apply to all programs, projects, and 
+        activities within a budget account (with programs, projects, 
+        and activities as delineated in the appropriation Act or 
+        accompanying report for the relevant fiscal year covering that 
+        account, or for accounts not included in appropriation Acts, as 
+        delineated in the most recently submitted President's budget).
+            ``(3) Administrative regulations or similar actions 
+        implementing a sequestration shall be made within 120 days of 
+        the sequestration order. To the extent that formula allocations 
+        differ at different levels of budgetary resources within an 
+        account, program, project, or activity, the sequestration shall 
+        be interpreted as producing a lower total appropriation, with 
+        that lower appropriation being obligated as though it had been 
+        the pre-sequestration appropriation and no sequestration had 
+        occurred.
+            ``(4) Except as otherwise provided, obligations in 
+        sequestered direct spending accounts shall be reduced in the 
+        fiscal year in which a sequestration occurs and in all 
+        succeeding fiscal years.
+            ``(5) If an automatic spending increase is sequestered, the 
+        increase (in the applicable index) that was disregarded as a 
+        result of that sequestration shall not be taken into account in 
+        any subsequent fiscal year.
+            ``(6) Except as otherwise provided, sequestration in 
+        accounts for which obligations are indefinite shall be taken in 
+        a manner to ensure that obligations in the fiscal year of a 
+        sequestration and succeeding fiscal years are reduced, from the 
+        level that would actually have occurred, by the applicable 
+        sequestration percentage.''.
+    (b) Conforming Amendment.--The table of contents set forth in 
+250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 
+is amended by amending the item relating to section 256 to read as 
+follows:
+
+``Sec. 256. Exceptions, limitations, and special rules.''.
+
+SEC. 204. POINT OF ORDER.
+
+    (a) Entitlement Point of Order.--Section 312 of the Congressional 
+Budget Act of 1974 is amended by adding at the end the following new 
+subsection:
+    ``(g) Entitlement Point of Order.--It shall not be in order in the 
+House of Representatives or the Senate to consider any bill, joint 
+resolution, amendment, or conference report that--
+            ``(1) increases aggregate level of direct spending for any 
+        ensuing fiscal year or
+            ``(2) includes any provision that has the effect of 
+        modifying the application of section 252A of the Balanced 
+        Budget and Emergency Deficit Control Act of 1985 to any 
+        entitlement program subject to sequestration or exempt from 
+        sequestration under such Act.''.
+
+SEC. 205. TECHNICAL AND CONFORMING AMENDMENTS.
+
+    The Balanced Budget and Emergency Deficit Control Act of 1985 is 
+amended as follows:
+            (1) Section 251(a)(1) is amended by inserting ``, section 
+        252A,'' after ``section 252''.
+            (2) Section 254(c)(4)(B) is amended by inserting ``or 
+        section 252A'' after ``section 252''.
+            (3) Section 254(c) is amended by redesignating paragraph 
+        (5) as paragraph (6) and by inserting after paragraph (4) the 
+        following new paragraph:
+            ``(5) Direct spending control sequestration reports.--The 
+        preview reports shall set forth, for the current year and the 
+        budget year, estimates for each of the following:
+                    ``(A) The total level of direct spending for all 
+                programs, projects, and activities (excluding social 
+                security).
+                    ``(B) The sequestration percentage or (if the 
+                required sequestration percentage is greater than the 
+                maximum allowable percentage for medicare) percentages 
+                necessary to comply with section 252A.''.
+            (4) Section 254(f) is amended by redesignating paragraphs 
+        (4) and (5) as paragraphs (5) and (6) and by inserting after 
+        paragraph (3) the following new paragraph:
+            ``(4) Direct spending control sequestration reports.--The 
+        final reports shall contain all the information required in the 
+        direct spending control sequestration preview reports. In 
+        addition, these reports shall contain, for the budget year, for 
+        each account to be sequestered, estimates of the baseline level 
+        of sequesterable budgetary resources and resulting outlays and 
+        the amount of budgetary resources to be sequestered and 
+        resulting outlay reductions. The reports shall also contain 
+        estimates of the effects on outlays of the sequestration in 
+        each outyear for direct spending programs.''.
+            (5) Section 258C(a)(1) is amended by inserting ``, 252A,'' 
+        after ``section 252''.
+
+               Subtitle B--Discretionary Spending Limits
+
+SEC. 211. ENFORCING DISCRETIONARY SPENDING LIMITS.
+
+    (a) Discretionary Spending Limits.--Sections 251(b) and (c) of the 
+Balanced Budget and Emergency Deficit Control of Act of 1985 are 
+amended to read as follows:
+    ``(b) Discretionary Spending Limit.--As used in this part, the term 
+`discretionary spending limit' means--
+            ``(1) with respect to fiscal year 2007--
+                    ``(A) $861,577,682,000 in new budget authority of 
+                which no more than $412,947,276,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(2) with respect to fiscal year 2008--
+                    ``(A) $880,532,400,000 in new budget authority of 
+                which no more than $422,032,100,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(3) with respect to fiscal year 2009--
+                    ``(A) $899,904,100,000 in new budget authority of 
+                which no more than $431,316,800,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(4) with respect to fiscal year 2010--
+                    ``(A) $919,702,000,000 in new budget authority of 
+                which no more than $440,805,800,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(5) with respect to fiscal year 2011--
+                    ``(A) $939,935,400,000 in new budget authority of 
+                which no more than $450,503,500,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(6) with respect to fiscal year 2012--
+                    ``(A) $960,614,000,000 in new budget authority of 
+                which no more than $460,414,600,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(7) with respect to fiscal year 2013--
+                    ``(A) $981,747,500,000 in new budget authority of 
+                which no more than $470,543,700,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050);
+            ``(8) with respect to fiscal year 2014--
+                    ``(A) $1,003,346,000,000 in new budget authority of 
+                which no more than $480,895,700,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050); and
+            ``(9) with respect to fiscal year 2015--
+                    ``(A) $1,025,419,600,000 in new budget authority of 
+                which no more than $491,475,400,000 shall be for 
+                functions other than National Defense (050); and
+                    ``(B) $_____ in outlays of which no more than 
+                $_____ shall be for functions other than National 
+                Defense (050).''.
+    (b) Discretionary Spending Limit Point of Order.--Section 312 of 
+the Congressional Budget Act of 1974 (as amended by section 204) is 
+further amended by adding at the end the following new subsection:
+    ``(h) Discretionary Spending Limit Point of Order.--It shall not be 
+in order in the House of Representatives or the Senate to consider any 
+bill, joint resolution, amendment, or conference report that--
+            ``(1) increases the discretionary spending limits for any 
+        ensuing fiscal year after the budget year; or
+            ``(2) would cause the discretionary spending limits for the 
+        budget year to be breached.''.
+    (c) Advance Appropriation Point of Order.--Section 312 of the 
+Congressional Budget Act of 1974 (as amended by subsection (b)) is 
+further amended by adding at the end the following new subsection:
+    ``(i) Advance Appropriation Point of Order.--It shall not be in 
+order in the House of Representatives or the Senate to consider any 
+appropriation bill or joint resolution, or amendment thereto or 
+conference report thereon, that provides advance discretionary new 
+budget authority that first becomes available for any fiscal year after 
+the budget year at an amount for any program, project, or activity 
+above the amount of appropriations for fiscal year 2006 for such 
+program, project, or activity.''.
+    (d) Extension of Gramm-Rudman.--Section 275(b) of the Balanced 
+Budget and Emergency Deficit Control of Act of 1985 is amended by 
+striking ``2002'' and inserting ``2015'' and by striking ``2006'' and 
+inserting ``2019''.
+                                 <all>

@@ -1,0 +1,607 @@
+
+[Congressional Bills 109th Congress]
+[From the U.S. Government Printing Office]
+[S. 1045 Engrossed in Senate (ES)]
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+109th CONGRESS
+  1st Session
+                                S. 1045
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To authorize appropriations for fiscal year 2006 for defense activities 
+          of the Department of Energy, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Department of Energy National 
+Security Act for Fiscal Year 2006''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Congressional defense committees.
+ DIVISION C--DEPARTMENT OF ENERGY NATIONAL SECURITY AUTHORIZATIONS AND 
+                          OTHER AUTHORIZATIONS
+
+      TITLE XXXI--DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+
+         Subtitle A--National Security Programs Authorizations
+
+Sec. 3101. National Nuclear Security Administration.
+Sec. 3102. Defense environmental management.
+Sec. 3103. Other defense activities.
+Sec. 3104. Defense nuclear waste disposal.
+                       Subtitle B--Other Matters
+
+Sec. 3111. Report on compliance with design basis threat.
+Sec. 3112. Cost estimate for waste treatment and immobilization plant 
+                            project, Hanford site, Richland, 
+                            Washington.
+Sec. 3113. Report on international border security programs.
+Sec. 3114. Clarification of cooperative agreement authority under 
+                            chemical demilitarization program.
+Sec. 3115. Savannah River National Laboratory.
+Sec. 3116. Rocky Flats Environmental Technology Site.
+Sec. 3117. Prohibition on use of funds for Robust Nuclear Earth 
+                            Penetrator.
+Sec. 3118. Sense of the Senate regarding interim reports on residual 
+                            beryllium contamination at Department of 
+                            Energy vendor facilities.
+Sec. 3119. Report on advanced technologies for nuclear power reactors 
+                            in the United States.
+          TITLE XXXII--DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+Sec. 3201. Authorization.
+                TITLE XXXIII--NATIONAL DEFENSE STOCKPILE
+
+Sec. 3301. Revisions to required receipt objectives for previously 
+                            authorized disposals from National Defense 
+                            Stockpile.
+Sec. 3302. Authorization for disposal of tungsten ores and 
+                            concentrates.
+Sec. 3303. Disposal of ferromanganese.
+
+SEC. 3. CONGRESSIONAL DEFENSE COMMITTEES.
+
+    For purposes of this Act, the term ``congressional defense 
+committees'' has the meaning given that term in section 101(a)(16) of 
+title 10, United States Code.
+
+ DIVISION C--DEPARTMENT OF ENERGY NATIONAL SECURITY AUTHORIZATIONS AND 
+                          OTHER AUTHORIZATIONS
+
+      TITLE XXXI--DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+
+         Subtitle A--National Security Programs Authorizations
+
+SEC. 3101. NATIONAL NUCLEAR SECURITY ADMINISTRATION.
+
+    (a) Authorization of Appropriations.--Funds are hereby authorized 
+to be appropriated to the Department of Energy for fiscal year 2006 for 
+the activities of the National Nuclear Security Administration in 
+carrying out programs necessary for national security in the amount of 
+$9,357,427,000, to be allocated as follows:
+            (1) For weapons activities, $6,590,319,000.
+            (2) For defense nuclear nonproliferation activities, 
+        $1,637,239,000, of which amount $338,565,000 shall be available 
+        for project 99-D-143, the Mixed Oxide Fuel Fabrication 
+        Facility, Savannah River Site, Aiken, South Carolina, and 
+        $24,000,000 shall be available for project 99-D-141, the Pit 
+        Disassembly and Conversion Facility, Savannah River Site, 
+        Aiken, South Carolina.
+            (3) For naval reactors, $786,000,000.
+            (4) For the Office of the Administrator for Nuclear 
+        Security, $343,869,000.
+    (b) Authorization of New Plant Projects.--From funds referred to in 
+subsection (a) that are available for carrying out plant projects, the 
+Secretary of Energy may carry out new plant projects for weapons 
+activities as follows:
+            (1) For readiness in technical base and facilities, the 
+        following new plant projects:
+                    Project 06-D-140, Readiness in Technical Base and 
+                Facilities Program (RTBF), project engineering and 
+                design, various locations, $19,113,000.
+                    Project 06-D-402, replacement of Fire Stations 
+                Number 1 and Number 2, Nevada Test Site, Nevada, 
+                $8,284,000.
+                    Project 06-D-403, tritium facility modernization, 
+                Lawrence Livermore National Laboratory, Livermore, 
+                California, $2,600,000.
+                    Project 06-D-404, remediation, restoration, and 
+                upgrade of Building B-3, Nevada Test Site, Nevada, 
+                $16,000,000.
+            (2) For facilities and infrastructure recapitalization, the 
+        following new plant projects:
+                    Project 06-D-160, Facilities and Infrastructure 
+                Recapitalization Program (FIRP), project engineering 
+                and design, various locations, $5,811,000.
+                    Project 06-D-601, electrical distribution system 
+                upgrade, Pantex Plant, Amarillo, Texas, $4,000,000.
+                    Project 06-D-602, gas main and distribution system 
+                upgrade, Pantex Plant, Amarillo, Texas, $3,700,000.
+                    Project 06-D-603, Steam Plant Life Extension 
+                Project (SLEP), Y-12 National Security Complex, Oak 
+                Ridge, Tennessee, $729,000.
+            (3) For naval reactors, the following new plant project:
+                    Project 06-N-901, Central Office Building 2, Bettis 
+                Atomic Power Laboratory, West Mifflin, Pennsylvania, 
+                $7,000,000.
+
+SEC. 3102. DEFENSE ENVIRONMENTAL MANAGEMENT.
+
+    (a) Authorization of Appropriations.--Funds are hereby authorized 
+to be appropriated to the Department of Energy for fiscal year 2006 for 
+environmental management activities in carrying out programs necessary 
+for national security in the amount of $6,189,433,000, to be allocated 
+as follows:
+            (1) For defense site acceleration completion, 
+        $5,335,849,000.
+            (2) For defense environmental services, $853,584,000.
+    (b) Authorization of New Plant Project.--From funds referred to in 
+subsection (a)(1) that are available for carrying out plant projects, 
+the Secretary of Energy may carry out, for environmental management 
+activities, the following new plant project:
+            Project 06-D-401, sodium bearing waste treatment project, 
+        Idaho National Laboratory, Idaho Falls, Idaho, $15,000,000.
+
+SEC. 3103. OTHER DEFENSE ACTIVITIES.
+
+    Funds are hereby authorized to be appropriated to the Department of 
+Energy for fiscal year 2006 for other defense activities in carrying 
+out programs necessary for national security in the amount of 
+$563,423,000.
+
+SEC. 3104. DEFENSE NUCLEAR WASTE DISPOSAL.
+
+    Funds are hereby authorized to be appropriated to the Department of 
+Energy for fiscal year 2006 for defense nuclear waste disposal for 
+payment to the Nuclear Waste Fund established in section 302(c) of the 
+Nuclear Waste Policy Act of 1982 (42 U.S.C. 10222(c)) in the amount of 
+$301,447,000.
+
+                       Subtitle B--Other Matters
+
+SEC. 3111. REPORT ON COMPLIANCE WITH DESIGN BASIS THREAT.
+
+    (a) Report Required.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Energy shall submit to the 
+congressional defense committees a report detailing plans for achieving 
+compliance under the Design Basis Threat issued by the Department of 
+Energy in 2004.
+    (b) Content.--The report required under subsection (a) shall 
+include--
+            (1) an implementation plan with associated funding 
+        requirements to achieve by September 30, 2007, compliance under 
+        the Design Basis Threat of all Department of Energy and 
+        National Nuclear Security Administration sites that contain 
+        nuclear weapons or special nuclear material; and
+            (2) an evaluation of options for applying security 
+        technologies and innovative protective force deployment to 
+        increase the efficiency and effectiveness of efforts to protect 
+        against the threats postulated in the Design Basis Threat.
+    (c) Form.--The report required under subsection (a) shall be 
+submitted in classified form with an unclassified summary.
+
+SEC. 3112. COST ESTIMATE FOR WASTE TREATMENT AND IMMOBILIZATION PLANT 
+              PROJECT, HANFORD SITE, RICHLAND, WASHINGTON.
+
+    (a) Report Required.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Energy shall submit to the 
+congressional defense committees an independent cost estimate prepared 
+by the Army Corps of Engineers for the Waste Treatment and 
+Immobilization Plant project at the Hanford Site, Richland, Washington 
+(in this section referred to as the ``project'').
+    (b) Content.--The cost estimate required under subsection (a) shall 
+include estimates of the total cost and annual funding requirements, 
+listed by year, to complete the project, assuming a completion date in 
+each of 2011, 2012, 2013, 2014, and 2015.
+
+SEC. 3113. REPORT ON INTERNATIONAL BORDER SECURITY PROGRAMS.
+
+    (a) Report Required.--Not later than 120 days after the date of the 
+enactment of this Act, the Secretary of Energy shall, in consultation 
+with the Secretary of Defense, the Secretary of State, and, as 
+appropriate, the Secretary of Homeland Security, submit to the 
+Committees on Armed Services of the Senate and the House of 
+Representatives a report on the management by such Secretaries of 
+border security programs in the countries of the former Soviet Union 
+and other countries.
+    (b) Content.--The report required under subsection (a) shall 
+include--
+            (1) a description of the roles and responsibilities of each 
+        department and agency of the United States Government in 
+        international border security programs;
+            (2) a description of the interactions and coordination 
+        among departments and agencies of the United States Government 
+        that are conducting international border security programs;
+            (3) a description of the mechanisms that exist to ensure 
+        coordination, avoid duplication, and provide a means to resolve 
+        conflicts or problems that might arise in the implementation of 
+        international border security programs;
+            (4) a discussion of whether there is existing interagency 
+        guidance that addresses the roles, interactions, and dispute 
+        resolution mechanisms for departments and agencies of the 
+        United States Government that are conducting international 
+        border security programs, and the adequacy of such guidance if 
+        it exists; and
+            (5) recommendations to improve the coordination and 
+        effectiveness of international border security programs.
+
+SEC. 3114. CLARIFICATION OF COOPERATIVE AGREEMENT AUTHORITY UNDER 
+              CHEMICAL DEMILITARIZATION PROGRAM.
+
+    (a) In General.--Section 1412(c)(4) of the Department of Defense 
+Authorization Act, 1986 (50 U.S.C. 1521(c)(4)), is amended--
+            (1) by inserting ``(A)'' after ``(4)'';
+            (2) in the first sentence--
+                    (A) by inserting ``and tribal organizations'' after 
+                ``State and local governments''; and
+                    (B) by inserting ``and tribal organizations'' after 
+                ``those governments'';
+            (3) in the third sentence--
+                    (A) by striking ``Additionally, the Secretary'' and 
+                inserting the following:
+                    ``(B) Additionally, the Secretary''; and
+                    (B) by inserting ``and tribal organizations'' after 
+                ``State and local governments''; and
+            (4) by adding at the end the following:
+                    ``(C) In this paragraph, the term `tribal 
+                organization' has the meaning given the term in section 
+                4(l) of the Indian Self-Determination and Education 
+                Assistance Act (25 U.S.C. 450b(l)).''.
+    (b) Effective Date.--The amendments made by subsection (a)--
+            (1) take effect on December 5, 1991; and
+            (2) apply to any cooperative agreement entered into on or 
+        after that date.
+
+SEC. 3115. SAVANNAH RIVER NATIONAL LABORATORY.
+
+            The Savannah River National Laboratory shall be a 
+        participating laboratory in the Department of Energy laboratory 
+        directed research and development program.
+
+SEC. 3116. ROCKY FLATS ENVIRONMENTAL TECHNOLOGY SITE.
+
+    (a) Definitions.--In this section:
+            (1) Essential mineral right.--The term ``essential mineral 
+        right'' means a right to mine sand and gravel at Rocky Flats, 
+        as depicted on the map.
+            (2) Fair market value.--The term ``fair market value'' 
+        means the value of an essential mineral right, as determined by 
+        an appraisal performed by an independent, certified mineral 
+        appraiser under the Uniform Standards of Professional Appraisal 
+        Practice.
+            (3) Map.--The term ``map'' means the map entitled ``Rocky 
+        Flats National Wildlife Refuge'', dated July 25, 2005, and 
+        available for inspection in appropriate offices of the United 
+        States Fish and Wildlife Service and the Department of Energy.
+            (4) Natural resource damage liability claim.--The term 
+        ``natural resource damage liability claim'' means a natural 
+        resource damage liability claim under subsections (a)(4)(C) and 
+        (f) of section 107 of the Comprehensive Environmental Response, 
+        Compensation, and Liability Act of 1980 (42 U.S.C. 9607) 
+        arising from hazardous substances releases at or from Rocky 
+        Flats that, as of the date of enactment of this Act, are 
+        identified in the administrative record for Rocky Flats 
+        required by the National Oil and Hazardous Substances Pollution 
+        Contingency Plan prepared under section 105 of that Act (42 
+        U.S.C. 9605).
+            (5) Rocky flats.--The term ``Rocky Flats'' means the 
+        Department of Energy facility in the State of Colorado known as 
+        the ``Rocky Flats Environmental Technology Site''.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (7) Trustees.--The term ``Trustees'' means the Federal and 
+        State officials designated as trustees under section 107(f)(2) 
+        of the Comprehensive Environmental Response, Compensation, and 
+        Liability Act of 1980 (42 U.S.C. 9607(f)(2)).
+    (b) Purchase of Essential Mineral Rights.--
+            (1) In general.--Not later than 1 year after the date of 
+        enactment of this Act, such amounts authorized to be 
+        appropriated under subsection (c) shall be available to the 
+        Secretary to purchase essential mineral rights at Rocky Flats.
+            (2) Conditions.--The Secretary shall not purchase an 
+        essential mineral right under paragraph (1) unless--
+                    (A) the owner of the essential mineral right is a 
+                willing seller; and
+                    (B) the Secretary purchases the essential mineral 
+                right for an amount that does not exceed fair market 
+                value.
+            (3) Limitation.--Only those funds authorized to be 
+        appropriated under subsection (c) shall be available for the 
+        Secretary to purchase essential mineral rights under paragraph 
+        (1).
+            (4) Release from liability.--Notwithstanding any other law, 
+        any natural resource damage liability claim shall be considered 
+        to be satisfied by--
+                    (A) the purchase by the Secretary of essential 
+                mineral rights under paragraph (1) for consideration in 
+                an amount equal to $10,000,000;
+                    (B) the payment by the Secretary to the Trustees of 
+                $10,000,000; or
+                    (C) the purchase by the Secretary of any portion of 
+                the mineral rights under paragraph (1) for--
+                            (i) consideration in an amount less than 
+                        $10,000,000; and
+                            (ii) a payment by the Secretary to the 
+                        Trustees of an amount equal to the difference 
+                        between--
+                                    (I) $10,000,000; and
+                                    (II) the amount paid under clause 
+                                (i).
+            (5) Use of funds.--
+                    (A) In general.--Any amounts received under 
+                paragraph (4) shall be used by the Trustees for the 
+                purposes described in section 107(f)(1) of the 
+                Comprehensive Environmental Response, Compensation, and 
+                Liability Act of 1980 (42 U.S.C. 9607(f)(1)), 
+                including--
+                            (i) the purchase of additional mineral 
+                        rights at Rocky Flats; and
+                            (ii) the development of habitat restoration 
+                        projects at Rocky Flats.
+                    (B) Condition.--Any expenditure of funds under this 
+                paragraph shall be made jointly by the Trustees.
+                    (C) Additional funds.--The Trustees may use the 
+                funds received under paragraph (4) in conjunction with 
+                other private and public funds.
+            (6) Exemption from national environmental policy act.--Any 
+        purchases of mineral rights under this subsection shall be 
+        exempt from the National Environmental Policy Act of 1969 (42 
+        U.S.C. 4321 et seq.).
+            (7) Rocky flats national wildlife refuge.--
+                    (A) Transfer of management responsibilities.--The 
+                Rocky Flats National Wildlife Refuge Act of 2001 (16 
+                U.S.C. 668dd note; Public Law 107-107) is amended--
+                            (i) in section 3175--
+                                    (I) by striking subsections (b) and 
+                                (f); and
+                                    (II) by redesignating subsections 
+                                (c), (d), and (e) as subsections (b), 
+                                (c), and (d), respectively; and
+                            (ii) in section 3176(a)(1), by striking 
+                        ``section 3175(d)'' and inserting ``section 
+                        3175(c)''.
+                    (B) Boundaries.--Section 3177 of the Rocky Flats 
+                National Wildlife Refuge Act of 2001 (16 U.S.C. 668dd 
+                note; Public Law 107-107) is amended by striking 
+                subsection (c) and inserting the following:
+    ``(c) Composition.--
+            ``(1) In general.--Except as provided in paragraph (2), the 
+        refuge shall consist of land within the boundaries of Rocky 
+        Flats, as depicted on the map--
+                    ``(A) entitled `Rocky Flats National Wildlife 
+                Refuge';
+                    ``(B) dated July 25, 2005; and
+                    ``(C) available for inspection in the appropriate 
+                offices of the United States Fish and Wildlife Service 
+                and the Department of Energy.
+            ``(2) Exclusions.--The refuge does not include--
+                    ``(A) any land retained by the Department of Energy 
+                for response actions under section 3175(c);
+                    ``(B) any land depicted on the map described in 
+                paragraph (1) that is subject to 1 or more essential 
+                mineral rights described in section 3114(a) of the 
+                National Defense Authorization Act for Fiscal Year 2006 
+                over which the Secretary shall retain jurisdiction of 
+                the surface estate until the essential mineral rights--
+                            ``(i) are purchased under subsection (b) of 
+                        that Act; or
+                            ``(ii) are mined and reclaimed by the 
+                        mineral rights holders in accordance with 
+                        requirements established by the State of 
+                        Colorado; and
+                    ``(C) the land depicted on the map described in 
+                paragraph (1) on which essential mineral rights are 
+                being actively mined as of the date of enactment of the 
+                National Defense Authorization Act for Fiscal Year 2006 
+                until--
+                            ``(i) the essential mineral rights are 
+                        purchased; or
+                            ``(ii) the surface estate is reclaimed by 
+                        the mineral rights holder in accordance with 
+                        requirements established by the State of 
+                        Colorado.
+            ``(3) Acquisition of additional land.--Notwithstanding 
+        paragraph (2), upon the purchase of the mineral rights or 
+        reclamation of the land depicted on the map described in 
+        paragraph (1), the Secretary shall--
+                    ``(A) transfer the land to the Secretary of the 
+                Interior for inclusion in the refuge; and
+                    ``(B) the Secretary of the Interior shall--
+                            ``(i) accept the transfer of the land; and
+                            ``(ii) manage the land as part of the 
+                        refuge.''.
+    (c) Funding.--Of the amounts authorized to be appropriated to the 
+Secretary for the Rocky Flats Environmental Technology Site for fiscal 
+year 2006, $10,000,000 may be made available to the Secretary for the 
+purposes described in subsection (b).
+
+SEC. 3117. PROHIBITION ON USE OF FUNDS FOR ROBUST NUCLEAR EARTH 
+              PENETRATOR.
+
+    None of the funds authorized to be appropriated to the Department 
+of Energy under this Act may be made available for the Robust Nuclear 
+Earth Penetrator.
+
+SEC. 3118. SENSE OF THE SENATE REGARDING INTERIM REPORTS ON RESIDUAL 
+              BERYLLIUM CONTAMINATION AT DEPARTMENT OF ENERGY VENDOR 
+              FACILITIES.
+
+    (a) Findings.--The Senate makes the following findings:
+            (1) Section 3169 of the Ronald W. Reagan National Defense 
+        Authorization Act for Fiscal Year 2005 (Public Law 108-375; 42 
+        U.S.C. 7384 note) requires the National Institute for 
+        Occupational Safety and Health to submit, not later than 
+        December 31, 2006, an update to the October 2003 report of the 
+        Institute on residual beryllium contamination at Department of 
+        Energy vendor facilities.
+            (2) The American Beryllium Company, Tallevast, Florida, 
+        machined beryllium for the Department of Energy's Oak Ridge Y-
+        12, Tennessee, and Rocky Flats, Colorado, facilities from 1967 
+        until 1992.
+            (3) The National Institute for Occupational Safety and 
+        Health has completed its evaluation of residual beryllium 
+        contamination at the American Beryllium Company.
+            (4) Workers at the American Beryllium Company and other 
+        affected companies should be made aware fo the site-specific 
+        results of the study as soon as such results are available.
+    (b) Sense of the Senate.--It is the sense of the Senate to urge the 
+Director of the National Institute for Occupational Safety and Health--
+            (1) to provide to Congress interim reports of residual 
+        beryllium contamination at facilities not later than 14 days 
+        after completing the internal review of such reports; and
+            (2) to publish in the Federal Register summaries of the 
+        findings of such reports, including the dates of any 
+        significant residual beryllium contamination, at such time as 
+        the reports are provided to Congress under paragraph (1).
+
+SEC. 3119. REPORT ON ADVANCED TECHNOLOGIES FOR NUCLEAR POWER REACTORS 
+              IN THE UNITED STATES.
+
+    (a) Report Required.--Not later than six months after the date of 
+the enactment of this Act, the Secretary of Energy shall submit to 
+Congress a report on advanced technologies for nuclear power reactors 
+in the United States.
+    (b) Report Elements.--The report required by subsection (a) shall 
+include the following:
+            (1) A description and assessment of technologies under 
+        development for advanced nuclear power reactors that offer the 
+        potential for further enhancements of the safety performance of 
+        nuclear power reactors.
+            (2) A description and assessment of technologies under 
+        development for advanced nuclear power reactors that offer the 
+        potential for further enhancements of proliferation-resistant 
+        nuclear power reactors.
+    (c) Form of Report.--The information in the report required by 
+subsection (a) shall be presented in manner and format that facilitates 
+the dissemination of such information to, and the understanding of such 
+information by, the general public.
+
+          TITLE XXXII--DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+SEC. 3201. AUTHORIZATION.
+
+    There are authorized to be appropriated for fiscal year 2006, 
+$22,032,000 for the operation of the Defense Nuclear Facilities Safety 
+Board under chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 
+et seq.).
+
+                TITLE XXXIII--NATIONAL DEFENSE STOCKPILE
+
+SEC. 3301. REVISIONS TO REQUIRED RECEIPT OBJECTIVES FOR PREVIOUSLY 
+              AUTHORIZED DISPOSALS FROM NATIONAL DEFENSE STOCKPILE.
+
+    (a) Disposal Authority.--Section 3303(a)(5) of the Strom Thurmond 
+National Defense Authorization Act for Fiscal Year 1999 (Public Law 
+105-261; 50 U.S.C. 98d note), as amended by section 3302 of the Ronald 
+W. Reagan National Defense Authorization Act for Year 2005 (Public Law 
+108-375; 50 U.S.C. 98d note), is amended by striking paragraph (5) and 
+inserting the following new paragraphs:
+            ``(5) $900,000,000 by the end of fiscal year 2010.
+            ``(6) $1,000,000,000 by the end of fiscal year 2013.''.
+    (b) Additional Disposal Authority.--Section 3402(b) of the National 
+Defense Authorization Act for Fiscal Year 2000 (Public Law 106-65; 113 
+Stat. 972; 50 U.S.C. 98d note), as amended by section 3302 of the 
+National Defense Authorization Act for Fiscal Year 2004 (Public Law 
+108-136; 50 U.S.C. 98d note), is amended by striking paragraph (4) and 
+inserting the following new paragraphs:
+            ``(4) $500,000,000 before the end of fiscal year 2010.
+            ``(5) $600,000,000 before the end of fiscal year 2013.''.
+
+SEC. 3302. AUTHORIZATION FOR DISPOSAL OF TUNGSTEN ORES AND 
+              CONCENTRATES.
+
+    (a) Disposal Authorized.--The President may dispose of up to 
+8,000,000 pounds of contained tungsten in the form of tungsten ores and 
+concentrates from the National Defense Stockpile in fiscal year 2006.
+    (b) Certain Sales Authorized.--The tungsten ores and concentrates 
+disposed under subsection (a) may be sold to entities with ore 
+conversion or tungsten carbide manufacturing or processing capabilities 
+in the United States.
+
+SEC. 3303. DISPOSAL OF FERROMANGANESE.
+
+    (a) Disposal Authorized.--The Secretary of Defense may dispose of 
+up to 75,000 tons of ferromanganese from the National Defense Stockpile 
+during fiscal year 2006.
+    (b) Contingent Authority for Additional Disposal.--If the Secretary 
+of Defense completes the disposal of the total quantity of 
+ferromanganese authorized for disposal by subsection (a) before 
+September 30, 2006, the Secretary of Defense may dispose of up to an 
+additional 25,000 tons of ferromanganese from the National Defense 
+Stockpile before that date.
+    (c) Certification.--The Secretary of Defense may dispose of 
+ferromanganese under the authority of subsection (b) only if the 
+Secretary submits written certification to the Committee on Armed 
+Services of the Senate and the Committee on Armed Services of the House 
+of Representatives, not later than 30 days before the commencement of 
+disposal, that--
+            (1) the disposal of the additional ferromanganese from the 
+        National Defense Stockpile is in the interest of national 
+        defense;
+            (2) the disposal of the additional ferromanganese will not 
+        cause undue disruption to the usual markets of producers and 
+        processors of ferromanganese in the United States; and
+            (3) the disposal of the additional ferromanganese is 
+        consistent with the requirements and purpose of the National 
+        Defense Stockpile.
+    (d) Delegation of Responsibility.--The Secretary of Defense may 
+delegate the responsibility of the Secretary under subsection (c) to an 
+appropriate official within the Department of Defense.
+    (e) National Defense Stockpile Defined.--In this section, the term 
+``National Defense Stockpile'' means the stockpile provided for in 
+section 4 of the Strategic and Critical Materials Stock Piling Act (50 
+U.S.C. 98c).
+
+            Passed the Senate November 15, 2005.
+
+            Attest:
+
+                                                             Secretary.
+109th CONGRESS
+
+  1st Session
+
+                                S. 1045
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To authorize appropriations for fiscal year 2006 for defense activities 
+          of the Department of Energy, and for other purposes.

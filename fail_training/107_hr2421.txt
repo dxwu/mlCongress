@@ -1,0 +1,156 @@
+
+[Congressional Bills 107th Congress]
+[From the U.S. Government Printing Office]
+[H.R. 2421 Introduced in House (IH)]
+
+
+
+
+
+
+
+107th CONGRESS
+  1st Session
+                                H. R. 2421
+
+   To exercise authority under article I, section 8, clause 3 of the 
+ Constitution of the United States to clearly establish jurisdictional 
+   boundaries over the commercial transactions of digital goods and 
+ services conducted through the Internet, and to foster stability and 
+           certainty over the treatment of such transactions.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 28, 2001
+
+Mr. Stearns (for himself, Mr. Towns, Mr. Bass, Mr. Deal of Georgia, and 
+ Mr. Walden) introduced the following bill; which was referred to the 
+ Committee on Energy and Commerce, and in addition to the Committee on 
+   the Judiciary, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To exercise authority under article I, section 8, clause 3 of the 
+ Constitution of the United States to clearly establish jurisdictional 
+   boundaries over the commercial transactions of digital goods and 
+ services conducted through the Internet, and to foster stability and 
+           certainty over the treatment of such transactions.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Jurisdictional Certainty Over 
+Digital Commerce Act''.
+
+SEC. 2. CONGRESSIONAL FINDINGS.
+
+    The Congress finds that--
+            (1) the Internet is increasingly used to conduct commercial 
+        transactions in digital goods and digital services wholly 
+        deliverable by and on the Internet;
+            (2) jurisdictional certainty is an important catalyst to 
+        further advancement of electronic commerce;
+            (3) digital commercial transactions in digital goods and 
+        digital services are inherently interstate in nature;
+            (4) State regulation of such digital commercial 
+        transactions creates significant and harmful burdens on 
+        interstate commerce;
+            (5) State regulation of digital commercial transactions in 
+        digital goods and digital services will seriously impede the 
+        growth of such transactions, decreasing the viability of 
+        electronic commerce as an alternative instrument or channel of 
+        commerce; and
+            (6) while other types of transactions may deserve similar 
+        treatment, digital commercial transactions in digital goods and 
+        digital services are the type of transactions that most clearly 
+        deserve protection from disparate, uncoordinated, and 
+        inconsistent efforts by the States to regulate Interstate 
+        commerce.
+
+SEC. 3. FEDERAL AUTHORITY TO REGULATE COMMERCE IN DIGITAL GOODS AND 
+              SERVICES.
+
+    (a) In General.--Responsibility and authority to regulate digital 
+commercial transactions is reserved solely to the Federal Government.
+    (b) Prohibition of State Regulation.--No State or political 
+subdivision thereof may enact or enforce any law, rule, regulation, 
+standard, or other provision having the force or effect of law that 
+regulates, or has the effect of regulating, digital commercial 
+transactions.
+    (c) Prohibition of Delegation to States.--Any responsibility or 
+authority to regulate digital commercial transactions that, pursuant to 
+subsection (a), is retained by the Federal government may not be 
+delegated, by any Federal agency or officer, to any State or political 
+subdivision thereof.
+    (d) Inapplicability to Non-Digital Commercial Transactions.--This 
+Act may not be construed--
+            (1) to modify, impair, or supersede, or to authorize the 
+        modification, impairment, or superseding of, any authority that 
+        any State or any political subdivision thereof may have to 
+        regulate any commercial transaction that is not a digital 
+        commercial transaction; or
+            (2) to establish any authority for a State or political 
+        subdivision of a State to regulate any commercial transaction 
+        that is not a digital commercial transaction, in contravention 
+        of any limitation on such authority established under law 
+        (including any statute, regulation, rule, or judicial 
+        decision).
+    (e) Inapplicability to State Commercial Code.--This Act may not be 
+construed to limit, alter, supersede, or otherwise affect any 
+requirement under the Uniform Commercial Code, as in effect in any 
+State.
+    (f) Definitions.--For purposes of this section:
+            (1) Digital good.--The term ``digital good'' means any good 
+        or product that is transferred or delivered by means of the 
+        Internet.
+            (2) Digital commercial transaction.--The term ``digital 
+        commercial transaction'' means a commercial transaction for a 
+        digital good or digital service that is carried out in its 
+        entirety by means of the Internet.
+            (3) Digital service.--The term ``digital service'' means 
+        any service that is conducted or provided by means of the 
+        Internet. Such term does not include any telecommunications 
+        service, as such term is defined in section 3 of the 
+        Communications Act of 1934 (47 U.S.C. 153), or the business of 
+        insurance.
+            (4) Internet.--The term ``Internet'' means collectively the 
+        myriad of computer and telecommunications facilities, including 
+        equipment and operating software, which comprise the 
+        interconnected world-wide network of networks that employ the 
+        Transmission Control Protocol/Internet Protocol, or any 
+        predecessor or successor protocols to such protocol, to 
+        communicate information of all kinds by wire or radio.
+            (5) Regulate.--
+                    (A) In general.--The term ``regulate'' includes, 
+                with respect to a digital commercial transaction, 
+                taking any governmental action that restricts, 
+                prohibits, limits, or burdens, or imposes any obstacle 
+                or interference with, such a transaction.
+                    (B) Exclusion.--Notwithstanding subparagraph (A), 
+                such term does not include taking any government 
+                action, pursuant only to specific statutory authority 
+                for such action under the laws of such State and only 
+                on an individual case-by-case basis, in order to 
+                protect a party to a digital commercial transaction 
+                from--
+                            (i) a specific and identified threat to the 
+                        health or physical safety of such party; or
+                            (ii) fraudulent or criminal activity 
+                        against such party.
+                This subparagraph may not be used by a State or 
+                political subdivision thereof to regulate, in a general 
+                manner, the parties to a digital commercial 
+                transaction.
+                                 <all>
