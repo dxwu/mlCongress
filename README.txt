@@ -10,6 +10,9 @@ Environment Requirements:
  - scipy
  - scikit-learn
 
+WRITEUP
+Is located in ./predicting-congression-bill-outcomes.pdf
+
 WARNING:
 
 If the warning " '/Applications/MATLAB_R2014b.app/bin/matlab' is not a file " appears
